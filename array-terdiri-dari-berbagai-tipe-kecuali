@@ -1,0 +1,1330 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Array Terdiri Dari Berbagai Tipe Kecuali - BELAJAR</title>
+    <meta name="description" content="Array Terdiri Dari Berbagai Tipe Kecuali, , , , , , , 0, Arrays in C | Introduction to 1-D Arrays | User-Defined Data Types in C, programmerstudios.blogspot.com, 1198 x 654, jpeg, , 20, array-terdiri-dari-berbagai-tipe-kecuali, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Array Terdiri Dari Berbagai Tipe Kecuali - BELAJAR" />
+    <meta property="og:description" content="Array Terdiri Dari Berbagai Tipe Kecuali, , , , , , , 0, Arrays in C | Introduction to 1-D Arrays | User-Defined Data Types in C, programmerstudios.blogspot.com, 1198 x 654, jpeg, , 20, array-terdiri-dari-berbagai-tipe-kecuali, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Array Terdiri Dari Berbagai Tipe Kecuali - BELAJAR" />
+    <meta name="twitter:description" content="Array Terdiri Dari Berbagai Tipe Kecuali, , , , , , , 0, Arrays in C | Introduction to 1-D Arrays | User-Defined Data Types in C, programmerstudios.blogspot.com, 1198 x 654, jpeg, , 20, array-terdiri-dari-berbagai-tipe-kecuali, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Array Terdiri Dari Berbagai Tipe Kecuali</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">xXMeLoversCAXx1566</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Array+Terdiri+Dari+Berbagai+Tipe+Kecuali" alt="Array Terdiri Dari Berbagai Tipe Kecuali">
+                    </div>
+                    <p></p>
+                    <p>Array terdiri dari berbagai tipe kecuali</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#array-terdiri-dari-berbagai-tipe-kecuali">1.
+                                            Array terdiri dari berbagai tipe kecuali</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#array-terdiri-dari-berbagai-tipe-kecuali-a-array-multi-dimensib-array-dimensi-satuc-array-dimensi-tigad-array-dimensi-duae-array-dimensi-empat">2.
+                                            Array terdiri dari berbagai tipe kecuali..
+a. Array Multi-Dimensi
+b. Array dimensi satu
+c. Array dimensi tiga
+d. Array dimensi dua
+e. Array dimensi empat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tipe-data-array-di-sebut-juga">3.
+                                            Tipe data array di sebut juga</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berbagai-jenis-hewan-yang-termasuk-jenis-tipe-asia-kecuali">4.
+                                            berbagai jenis hewan yang termasuk jenis tipe asia kecuali</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-yang-bukan-merupakan-cara-mendeklarasikan-tipe-data-array-2-dimensi-yang-benar-adalah%e2%80%8b">5.
+                                            Berikut yang bukan merupakan cara mendeklarasikan tipe data array 2 dimensi yang benar adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-satu-kode-pemrograman-tipe-data-array">6.
+                                            Buatlah  satu kode pemrograman tipe data array???</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-3-contoh-deklarasi-array-yang-memiliki-tipe-data-karakter%e2%80%8b">7.
+                                            Buatlah 3 contoh deklarasi array yang memiliki tipe data karakter!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-contoh-tipe-data-terstruktur-array">8.
+                                            sebutkan contoh tipe data terstruktur array</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-ini-beberapa-keunggulan-dari-array-kecuali-select-onea-penyimpanan-yang-efisienb-harus-bertipe-homogenc-mudah-penelusurand-dapat-melakukan-pengaksesan-acak%e2%80%8b">9.
+                                            Berikut ini beberapa keunggulan dari array, kecuali :Select one:a.Penyimpanan yang efisienb.Harus bertipe homogenc.mudah penelusurand.Dapat melakukan pengaksesan acak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berdasarkan-data-tersebut-tipe-data-terstruktur-dikategorikan-sebagai-berikut-kecuali-a-character-stringb-recordlistc-subject-data-programmerd-vector-dan-array-%e2%80%8b">10.
+                                            berdasarkan data tersebut, tipe data terstruktur dikategorikan sebagai berikut, kecuali...A. character stringB. recordlistC. subject data programmerD. vector dan array ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-3-contoh-deklarasi-array-yang-memiliki-tipe-data-karakter%e2%80%8b">11.
+                                            Buatlah 3 contoh deklarasi array yang memiliki tipe data karakter!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-program-array-dimensi-satu-dengan-20-elemen-bertipe-integer%e2%80%8b">12.
+                                            buatlah program array dimensi satu dengan 20 elemen bertipe integer!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-yang-bukan-merupakan-caramendeklarasikan-tipe-data-array-yang-benar-adalah%e2%80%8b">13.
+                                            Berikut yang bukan merupakan caramendeklarasikan tipe data array yang benar adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-array-satu-dimensi-dideklarasikan-dengan-a10-berapa-panjang-array-dalam-byte-yang-ada-pada-array-tersebut-jika-tipe-data-yang-digunakan-adalah-long-integer%e2%80%a6">14.
+                                            Suatu array satu dimensi dideklarasikan dengan A[10], berapa panjang array dalam byte yang ada pada array tersebut jika tipe data yang digunakan adalah long integer…. </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-satu-program-sederhana-menggunakan-tipe-data-array%e2%80%8b">15.
+                                            Buatlah satu program sederhana menggunakan tipe data array​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hal-yang-perlu-diketahui-dari-array-adalah-%e2%80%a61-nomor-index-pada-array-dimulai-dari-nol-0-2-array-hanya-mampu-menyimpan-data-dengan-tipe-yang-sama-3-semua-isi-array-memiliki-tipe-data">16.
+                                            Hal yang perlu diketahui dari array adalah …
+(1) Nomor index pada Array dimulai dari nol (0).
+(2) Array hanya mampu menyimpan data dengan tipe yang sama.
+(3) Semua isi array memiliki tipe data sama.
+(4) Semua isi array nilainya sama
+Select one:
+a. (1) dan (3) Benar
+b. Hanya (4) yang Benar
+c. (2) dan (4) Benar
+d. Semuanya benar
+e. (1),(2) dan (3) Benar</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-soal-array-multidimensi-tipe-string">17.
+                                            contoh soal array multidimensi tipe string</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-sebuah-program-yang-dapat-menyalin-isi-sebuah-array-a-bertipe-integer-kedalam-array-baru-array-b-namun-dengan-urusan-terbalik-contoharray-a-12-5-6-5-32-18-9array-b-9-18-32-5-6-5-12">18.
+                                            Buatlah sebuah program yang dapat menyalin isi sebuah array A bertipe integer kedalam array baru (array B) namun dengan urusan terbalik.
+Contoh:
+array A : 12 5 6 -5 32 18 9
+array B : 9 18 32 -5 6 5 12</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-diketahui-array-bertipe-double-p-0123456789-maka-a-jumlah-elemen-9-buah-b-panjang-array-52h-byte-c-p00000h-d-panjang-array-72-byte-e-panjang-array-48h-byte">19.
+                                            Jika diketahui array bertipe double P[ ]={0,1,2,3,4,5,6,7,8,9}, maka: (a). Jumlah elemen 9 buah (b). Panjang array 52H byte (c). &amp;P[0]=0000H (d). Panjang array 72 byte (e). Panjang array 48H byte</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tipe-data-yang-merupakan-array-dari-tipe-data-char-adalaha-boolen-b-integer-c-float-d-char-e-string%e2%80%8b">20.
+                                            tipe data yang merupakan array dari tipe data char adalaha. boolen b. integer c. float d. char e. string​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#deklarasikan-sebuah-variable-bertipe-data-array-3-dimensi-dan-berikanlah-nilai-kepada-array-tersebut">21.
+                                            Deklarasikan sebuah variable bertipe data array 3 dimensi, dan berikanlah nilai kepada array tersebut?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-apa-itu-variabel-tipe-data-dan-array">22.
+                                            Jelaskan apa itu Variabel, Tipe Data, dan Array !</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#array-string-record-union-dan-struct-termasuk-ke-dalam-kelompok-tipe-data%e2%80%8b">23.
+                                            Array, string, record, union, dan struct termasuk ke dalam kelompok tipe data​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-bentuk-pendeklarasian-dari-array-satu-dimensi-berikuta-apabila-kita-ingin-mendeklarasikan-sebuah-array-misalnya-dgn-nama-huruf-yg-memiliki-10-elemen-dgn-tipe-data-charb-apabila-kita-ingin">24.
+                                            Tentukan bentuk pendeklarasian dari array satu dimensi berikut:a. apabila kita ingin mendeklarasikan sebuah array misalnya dgn nama huruf yg memiliki 10 elemen dgn tipe data charb. apabila kita ingin mendeklarasikan sebuah array misalnya dengan nama bilangan² yg memiliki 6 elemen dgn tipe data float​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-bisa-menggabungkan-isi-array-dengan-tipe-data-yang-tidak-sejenis-dalam-python">25.
+                                            apakah bisa menggabungkan isi array dengan tipe data yang tidak sejenis dalam python?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-kapan-kita-menggunakan-data-bertipe-array">26.
+                                            jelaskan kapan kita menggunakan data bertipe array</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tipe-data-yang-mampu-menampung-banyak-data-dengan-tipe-data-yang-berbeda-beda-heterogen-adalah-tipe-data-%e2%80%a6-a-array-b-string-c-record-d-character%e2%80%8b">27.
+                                            Tipe data yang mampu menampung banyak data dengan tipe data yang berbeda-beda (heterogen) adalah tipe data … A.	array B.	string C.	record D.	character​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-array-mempunyai-alamat-pertama-a0-18ff2h-jika-array-tersebut-bertipedata-integer-tentukan-alamat-dari-elemen-a7%e2%80%8b">28.
+                                            Suatu array mempunyai alamat pertama A[0] = 18FF2(H), jika array tersebut bertipedata integer tentukan alamat dari elemen A[7]​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungi-dari-tipe-data-array-dan-buat-bentuk-dasar-dari-array-pada-program-php">29.
+                                            Jelaskan fungi dari tipe data array dan buat bentuk dasar dari array pada program php </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-mengapa-penggunaan-tipe-data-array-effisien-dalam-penggunaan-memory">30.
+                                            jelaskan mengapa penggunaan tipe data array effisien dalam penggunaan memory?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#d-15-berikut-yang-bukan-termasuk-tipearray-adalah-a-array-multi-dimensib-array-dimensi-satuc-array-dimensi-tigad-array-dimensi-duainformatika-vil-27-pn%e2%80%8b">31.
+                                            d. 15. Berikut yang bukan termasuk tipearray adalah ....a. array multi-dimensib. array dimensi satuc. array dimensi tigad. array dimensi duaInformatika VIL-27 PN​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tipe-tipe-firewall-kecuali%e2%80%8b">32.
+                                            tipe tipe firewall kecuali​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-deklarasi-array-bersama-siswa-dengan-jumlah-data-25-bertipe-string%e2%80%8b">33.
+                                            Bagaimana deklarasi array bersama siswa dengan jumlah data 25 bertipe string​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-apa-itu-variabeltipe-data-dan-array">34.
+                                            Jelaskan apa itu variabel,tipe data, dan array ! </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-program-array-dimensi-satu-dengan-10-elemen-bertipe-integer">35.
+                                            buatlah program array dimensi satu dengan 10 elemen bertipe integer</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#penulisan-array-terdiri-dari-kecuali-a-tipe-datab-nama-datac-jumlah-datad-jenis-datae-boolean%e2%80%8b">36.
+                                            Penulisan Array terdiri dari kecuali.. A. Tipe dataB. Nama dataC. Jumlah dataD. Jenis dataE. Boolean​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dibawah-ini-merupakan-pengertian-array-multidimensiadalah-a-array-yang-berisi-beberapa-array-lain-b-array-satu-dimensi-yang-berada-pada-array-satu-dimensi-dimana-variabel">37.
+                                            dibawah ini merupakan pengertian array multidimensi,adalah.                             A.array yang berisi beberapa array lain B.array satu dimensi yang berada pada array satu dimensi dimana variabel dan juga type datanya sama.  Struktur data yang statis,yaitu jumlah elemen yang ada harus ditentukan terlebih dahulu dan tak bisa di ubah saat program berjalan                                D.indeks dengan tipe data skalar, meliputi tipe data byte,char,integer,boolean,terbilang (numerated),dan tipe data sub jangkauan dari tipe tipe data tersebut.  E.jumlah dari seluruh data pada array ,sum harus dideklarasikan sebgai variabel dengan tipe data angka terlebih dahulu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tipe-data-array-disebut-juga">38.
+                                            Tipe data array disebut juga</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#array-atau-larik-merupakan-kumpulan-nilai-nilai-data-yang-bertipe-sama-nilai-nilai-data-suatu-array-ini-disebut">39.
+                                            . Array atau larik merupakan kumpulan nilai-nilai data yang bertipe sama. Nilai-nilai data suatu array ini disebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berbagai-jenis-hewan-dibawah-ini-termasuk-jenis-tipe-asiakecuali-a-gajah-b-kangguru-c-badak-d-harimau">40.
+                                            Berbagai jenis hewan dibawah ini termasuk jenis tipe asia,kecuali...... A.gajah B.kangguru C.badak D.harimau</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="array-terdiri-dari-berbagai-tipe-kecuali">
+                            1. Array terdiri dari berbagai tipe kecuali</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>ARRAY MULTI-DIMENSI</strong></p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="array-terdiri-dari-berbagai-tipe-kecuali-a-array-multi-dimensib-array-dimensi-satuc-array-dimensi-tigad-array-dimensi-duae-array-dimensi-empat">
+                            2. Array terdiri dari berbagai tipe kecuali..
+a. Array Multi-Dimensi
+b. Array dimensi satu
+c. Array dimensi tiga
+d. Array dimensi dua
+e. Array dimensi empat</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A. Array multi-Dimensi</p><br />
+                                            <h2 class="ez-toc-section" id="tipe-data-array-di-sebut-juga">
+                            3. Tipe data array di sebut juga</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Tipe data array adalah tipe data terstruktur yang merujuk kepada sebuah atau sekumpulan elemen yang mempunyai tipe data yang sama melalui indeks. Array biasanya disebut juga sebagai tabel, vektor atau larik</p><br />
+                                            <h2 class="ez-toc-section" id="berbagai-jenis-hewan-yang-termasuk-jenis-tipe-asia-kecuali">
+                            4. berbagai jenis hewan yang termasuk jenis tipe asia kecuali</h2><br />
+                        landak maaf kalo salah <br />
+                                            <h2 class="ez-toc-section" id="berikut-yang-bukan-merupakan-cara-mendeklarasikan-tipe-data-array-2-dimensi-yang-benar-adalah%e2%80%8b">
+                            5. Berikut yang bukan merupakan cara mendeklarasikan tipe data array 2 dimensi yang benar adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>maksud nya gak ada pilihan ganda kah</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-satu-kode-pemrograman-tipe-data-array">
+                            6. Buatlah  satu kode pemrograman tipe data array???</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>#include &lt;stdio.h&gt;
+</p><p>  </p><p>int main(void)
+</p><p>{
+</p><p>  int bilangan[5];
+</p><p>  </p><p>  bilangan[0] = 6;
+</p><p>  bilangan[1] = 9;
+</p><p>  bilangan[2] = -8;
+</p><p>  bilangan[3] = 24;
+</p><p>  bilangan[4] = -99;
+</p><p>  </p><p>  printf("Isi array bilangan pertama: %d \n",bilangan[0]);
+</p><p>  printf("Isi array bilangan kedua: %d \n",bilangan[1]);
+</p><p>  printf("Isi array bilangan ketiga: %d \n",bilangan[2]);
+</p><p>  printf("Isi array bilangan keempat: %d \n",bilangan[3]);
+</p><p>  printf("Isi array bilangan kelima: %d \n",bilangan[4]);
+</p><p>  </p><p>  return 0;
+</p><p>}
+</p><p></p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-3-contoh-deklarasi-array-yang-memiliki-tipe-data-karakter%e2%80%8b">
+                            7. Buatlah 3 contoh deklarasi array yang memiliki tipe data karakter!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Mempunyai batasan dari pemenesanan alokasi memory (bersifat statis)</p><p>2. Mempunyai type data sama (bersifat homogen)</p><p>3. Dapat diakses secara acak </p><p><strong>Penjelasan:</strong></p><p>Semoga membantu, maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-contoh-tipe-data-terstruktur-array">
+                            8. sebutkan contoh tipe data terstruktur array</h2><br />
+                        tipet data nya ialah:<br />real<br />char<br />string<br />integer<br />
+                                            <h2 class="ez-toc-section" id="berikut-ini-beberapa-keunggulan-dari-array-kecuali-select-onea-penyimpanan-yang-efisienb-harus-bertipe-homogenc-mudah-penelusurand-dapat-melakukan-pengaksesan-acak%e2%80%8b">
+                            9. Berikut ini beberapa keunggulan dari array, kecuali :Select one:a.Penyimpanan yang efisienb.Harus bertipe homogenc.mudah penelusurand.Dapat melakukan pengaksesan acak​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>d. Dapat melakukan pengaksesan acak</p><p><strong>Penjelasan:</strong></p><p>#semogaMembantu</p><br />
+                                            <h2 class="ez-toc-section" id="berdasarkan-data-tersebut-tipe-data-terstruktur-dikategorikan-sebagai-berikut-kecuali-a-character-stringb-recordlistc-subject-data-programmerd-vector-dan-array-%e2%80%8b">
+                            10. berdasarkan data tersebut, tipe data terstruktur dikategorikan sebagai berikut, kecuali...A. character stringB. recordlistC. subject data programmerD. vector dan array ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a.character string</p><p>maaf kalo salah </p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-3-contoh-deklarasi-array-yang-memiliki-tipe-data-karakter%e2%80%8b">
+                            11. Buatlah 3 contoh deklarasi array yang memiliki tipe data karakter!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jdu3owyqkdycufu4h4udkeyj4yowjwhwofhu4jhufufb4y2okrjd</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-program-array-dimensi-satu-dengan-20-elemen-bertipe-integer%e2%80%8b">
+                            12. buatlah program array dimensi satu dengan 20 elemen bertipe integer!​</h2><br />
+                        <p>jawaban:</p><p>#include &lt;iostream&gt;</p><p></p><p>using namespace std;</p><p></p><p>int main(){</p><p>     // Deklarasi sekaligus inisialisasi (pengisian awal)</p><p>     // Array 'ARnilai' dengan 5 buah elemen berisi int</p><p>     int ARnilai[5]={8,4,5,10,2};</p><p></p><p>     // Karena sudah melakukan inisialisasi maka kita</p><p>     // Tidak wajib mengisi nilai kedalam Elemen Array</p><p></p><p>     // Menampilkan nilai atau isi dari array 'ARnilai'</p><p>     for(int i=0; i&lt;5;i++){</p><p>          cout&lt;&lt;"Tampil nilai indek ke ["&lt;&lt;i&lt;&lt;"] = "&lt;&lt;ARnilai[i];</p><p>          cout&lt;&lt;endl;</p><p>     }</p><p></p><p>     return 0;</p><p>}</p><p>maaf kalo salah:)</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="berikut-yang-bukan-merupakan-caramendeklarasikan-tipe-data-array-yang-benar-adalah%e2%80%8b">
+                            13. Berikut yang bukan merupakan caramendeklarasikan tipe data array yang benar adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Dalam pemrograman, array adalah suatu struktur yang terdiri dari sejumlah elemen yang memiliki tipe data yang sama. Elemen-elemen array tersusun secara sekuensial dalam memory computer. Array dapat berupa satu dimensi, dua dimensi, tiga dimensi ataupun banyak dimensi (multi dimensi).</p><p></p><p>Array Satu Dimensi</p><p></p><p>Array Satu Dimensi tidak lain adalah kumpulan elemen-elemen identik yang tersusun dalam satu baris. Elemen-elemen tersebut memiliki tipe data yang sama, tetapi isi dari elemen tersebut boleh berbeda.</p><p></p><p>Pendeklaraian array:</p><p></p><p>{Tipe_Data} {Nama_Array}[n]={elemen0,elemen1,elemen2,…,n}</p><p></p><p>n=jumlah elemen  </p><p></p><p>Contoh:</p><p></p><p>int ArrayAngka[20];</p><p></p><p>Cara mengaksesnya:</p><p></p><p>ArrayAngka[0] = 5;</p><p></p><p>ArrayAngka[1] = 10;</p><p></p><p>dan seterusnya.</p><p></p><p>Array Dua Dimensi</p><p></p><p>Array Dua Dimensi adalah suatu array di dalam array. Array dua dimensi sering digambarkan sebagai sebuah matriks, merupakan perluasan dari array satu dimensi. Jika array satu dimensi hanya terdiri dari sebuah baris dan beberapa kolom elemen, maka array dua dimensi terdiri dari beberapa baris dan beberapa kolom elemen yang bertipe sama.</p><p></p><p>Pendeklarasian:</p><p></p><p>{Tipe_Data} {Nama_Array}[m][n];</p><p></p><p>Contoh:</p><p></p><p>int arrBuffer[3][2];    </p><p></p><p>arrBuffer[0][1] = 18</p><p></p><p>arrBuffer[2][0] = 1</p><p></p><p>arrBuffer[2][1] = 0</p><p></p><p>Artinya kita membuat suatu array dengan jumlah elemen 3 dan di setiap elemen mempunyai 2 elemen lagi di dalamnya, dan setiap elemen bisa diisi.</p><p></p><p>Pembahasan</p><p>Untuk mendeklarasikan array yang akan dipakai untuk menampung lima nama bunga, maka kita membutuhkan array dari string yang mampu menyimpan 5 buah string.</p><p></p><p>Kesimupulan</p><p>Dalam bahasa C#</p><p></p><p>String[] bunga = new String[5];</p><p></p><p>bunga[0] = "mawar";</p><p></p><p>bunga[1] = "melati";</p><p></p><p>bunga[2] = "kantil";</p><p></p><p>bunga[3] = "tulip";</p><p></p><p>bunga[4] = "kenanga";</p><p></p><p></p><p>Dalam bahasa C</p><p></p><p>String adalah array of char, maka:</p><p></p><p>char bunga[5][10] = {"mawar", "melati", "kantil", "tulip", "kenanga"};</p><p></p><p></p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="suatu-array-satu-dimensi-dideklarasikan-dengan-a10-berapa-panjang-array-dalam-byte-yang-ada-pada-array-tersebut-jika-tipe-data-yang-digunakan-adalah-long-integer%e2%80%a6">
+                            14. Suatu array satu dimensi dideklarasikan dengan A[10], berapa panjang array dalam byte yang ada pada array tersebut jika tipe data yang digunakan adalah long integer…. </h2><br />
+                        <p>#Bahasa Pascal</p><p>sebuah tipe data Long Integer memiliki ukuran 4 byte, dengan range nilai dari -2,147,483,648 sampai 2,147,483,647. Karena array A memiliki panjang data 10, maka total panjang array dalam bytenya adalah:</p><p><strong>4 * 10 = 40 byte</strong></p><p><strong></strong></p><p>Jan lupa follow @portalcodng gaess, banyak info menarik seputar teknologi </p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-satu-program-sederhana-menggunakan-tipe-data-array%e2%80%8b">
+                            15. Buatlah satu program sederhana menggunakan tipe data array​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Nama_larik : Array </p><p>[indeks_baris,Indeks_Kolom] of Tipe_Array;</p><p><strong>Penjelasan:</strong></p><p>Dalam pemrograman, terkadang Anda harus mendeklarasikan banyak variabel dengan nama yang hampir sama, contohnya nomor1, nomor2, … , nomor10, dan seterusnya. Nah, untuk mempersingkat coding yang dibuat, lebih baik Anda menggunakan array. Array (atau larik dalam Bahasa Indonesia) adalah sebuah tipe data bentukan yang terdiri dari sejumlah komponen dengan tipe yang sama.</p><p></p><p>Dengan menggunakan array, Anda dapat menyimpan banyak data dengan satu nama. Namun, ada beberapa hal yang perlu Anda ketahui tentang array, diantaranya:</p><p></p><p>Nomor index pada Array selalu dimulai dari nol (0).</p><p>Array hanya mampu menyimpan data dengan tipe yang sama. Artinya, semua isi array harus memiliki tipe data yang sama.</p><p>Ketika Anda mendeklarasikan array ke dalam compiler, maka perumpamaannya Anda sedang menciptakan sebuah hotel dengan masing-masing nomor kamar yang tersedia. Setelah Anda berhasil mendeklarasikan array, maka Anda bisa mulai memberikan nilai untuk setiap kamar yang tersedia di dalam “hotel” yang tadi Anda buatan.</p><p></p><p>Tipe-tipe data yang dapat digunakan di dalam array diantaranya sebagai berikut: int, char, double, string, dan boolean.</p><p></p><p>Array sendiri terdiri dari dua jenis, diantaranya adalah sebagai berikut:</p><p></p><p></p><p>Array satu dimensi, jenis array satu ini dapat Anda asumsikan sebagai sebuah deretan data</p><p>Array dua dimensi (multi dimensi), array ini dapat mewakili suatu bentuk tabel atau matriks. Dimana indeks yang pertama menunjukkan baris, lalu indeks yang kedua menunjukkan kolom dari tabel atau matriks.</p><p></p><p>SEKIAN TERIMGAJI(TERIMAKASIH)</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="hal-yang-perlu-diketahui-dari-array-adalah-%e2%80%a61-nomor-index-pada-array-dimulai-dari-nol-0-2-array-hanya-mampu-menyimpan-data-dengan-tipe-yang-sama-3-semua-isi-array-memiliki-tipe-data">
+                            16. Hal yang perlu diketahui dari array adalah …
+(1) Nomor index pada Array dimulai dari nol (0).
+(2) Array hanya mampu menyimpan data dengan tipe yang sama.
+(3) Semua isi array memiliki tipe data sama.
+(4) Semua isi array nilainya sama
+Select one:
+a. (1) dan (3) Benar
+b. Hanya (4) yang Benar
+c. (2) dan (4) Benar
+d. Semuanya benar
+e. (1),(2) dan (3) Benar</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>e.12dan3 benar karna  semuanya dari array</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-soal-array-multidimensi-tipe-string">
+                            17. contoh soal array multidimensi tipe string</h2><br />
+                        C<strong>ontoh soal array multidimensi tipe string adalah...</strong><strong></strong><strong>Contoh:</strong><p><strong></strong></p><p>// membuat array kosong dengan tipe data integer dan panjang 10
+</p><p>int nama_array[10];
+</p><p>
+</p><p>// membuat array dengan langsung diisi
+</p><p>int nama_arr[3] = {0, 3, 2}</p><p></p><p><strong>Penjelasan:</strong></p><p><strong></strong></p><p>Array adalah sekumpulan variabel yang memiliki tipe data yang sama dan dinyatakan dengan nama yang sama. Array merupakan konsep yang penting dalam pemrograman, karna array memungkinkan untuk menyimpan data maupun referensi objek dalam jumlah banyak dan terindeks</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-sebuah-program-yang-dapat-menyalin-isi-sebuah-array-a-bertipe-integer-kedalam-array-baru-array-b-namun-dengan-urusan-terbalik-contoharray-a-12-5-6-5-32-18-9array-b-9-18-32-5-6-5-12">
+                            18. Buatlah sebuah program yang dapat menyalin isi sebuah array A bertipe integer kedalam array baru (array B) namun dengan urusan terbalik.
+Contoh:
+array A : 12 5 6 -5 32 18 9
+array B : 9 18 32 -5 6 5 12</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Bahasa : C++ yang disertai dengan Object-Oriented Programming</p><p>Keterangan : Di sini value masih default, jika ingin angkanya dapat sesuai kemauan dapat anda katakan di kolom komentar</p><p></p><p></p><p>#include &lt;iostream&gt;</p><p>using namespace std;</p><p></p><p>class Setter{</p><p>    protected:</p><p>    int angkaUrut[10];</p><p>    int m1,m2,m3,m4,m5;</p><p>};</p><p></p><p>class Getter : Setter{</p><p>    public:</p><p>    int angkaUrut[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 0};</p><p>    </p><p>    void Switching(){</p><p>        m1 = angkaUrut[0]; </p><p>        angkaUrut[0] = angkaUrut [10];</p><p>        angkaUrut[10] = m1;</p><p>        </p><p>        m2 = angkaUrut[1];</p><p>        angkaUrut[1] = angkaUrut[9];</p><p>        angkaUrut[9] = m2;</p><p>        </p><p>        m3 = angkaUrut[2];</p><p>        angkaUrut[2] = angkaUrut[8];</p><p>        angkaUrut[8] = m3;</p><p>        </p><p>        m4 = angkaUrut[3];</p><p>        angkaUrut[3] = angkaUrut[7];</p><p>        angkaUrut[7] = m4;</p><p>        </p><p>        m5 = angkaUrut[4];</p><p>        angkaUrut[4] = angkaUrut[6];</p><p>        angkaUrut[6] = m5;</p><p>        </p><p>    }</p><p>    </p><p>    void Input(){</p><p>        cout &lt;&lt; "Hasil Input: " &lt;&lt; endl &lt;&lt; "{";</p><p>    for(int i=0;i&lt;=9;i++){</p><p>        cout &lt;&lt; angkaUrut[i];</p><p>        if(i!=9){</p><p>            cout &lt;&lt; ", ";</p><p>        }</p><p>    }</p><p>    cout &lt;&lt; "}" &lt;&lt; endl;</p><p>    }</p><p>    </p><p>    void Output(){</p><p>        cout &lt;&lt; "Hasil Output:" &lt;&lt; endl &lt;&lt; "{";</p><p>    for(int i=1;i&lt;=10;i++){</p><p>        cout &lt;&lt; angkaUrut[i];</p><p>        if(i!=10){</p><p>            cout &lt;&lt; ", ";</p><p>        }</p><p>    }</p><p>    cout &lt;&lt; "}" &lt;&lt; endl;</p><p>    }</p><p>    </p><p>};</p><p></p><p>int main(){</p><p>    Getter PP;</p><p>    PP.Input();</p><p>    PP.Switching();</p><p>    PP.Output();</p><p>    </p><p>}</p><br />
+                                            <h2 class="ez-toc-section" id="jika-diketahui-array-bertipe-double-p-0123456789-maka-a-jumlah-elemen-9-buah-b-panjang-array-52h-byte-c-p00000h-d-panjang-array-72-byte-e-panjang-array-48h-byte">
+                            19. Jika diketahui array bertipe double P[ ]={0,1,2,3,4,5,6,7,8,9}, maka: (a). Jumlah elemen 9 buah (b). Panjang array 52H byte (c). &amp;P[0]=0000H (d). Panjang array 72 byte (e). Panjang array 48H byte</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Array Multi-Dimensi</p>semangat trs belajar nya<br />
+                                            <h2 class="ez-toc-section" id="tipe-data-yang-merupakan-array-dari-tipe-data-char-adalaha-boolen-b-integer-c-float-d-char-e-string%e2%80%8b">
+                            20. tipe data yang merupakan array dari tipe data char adalaha. boolen b. integer c. float d. char e. string​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>b integer</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah </p><br />
+                                            <h2 class="ez-toc-section" id="deklarasikan-sebuah-variable-bertipe-data-array-3-dimensi-dan-berikanlah-nilai-kepada-array-tersebut">
+                            21. Deklarasikan sebuah variable bertipe data array 3 dimensi, dan berikanlah nilai kepada array tersebut?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C# Code</p><p>int[, ,] arr3d = new int[2, 2, 3]{
+</p><p>                { { 1, 2, 3}, {4, 5, 6} },
+</p><p>                { { 7, 8, 9}, {10, 11, 12} }
+</p><p>            };</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-apa-itu-variabel-tipe-data-dan-array">
+                            22. Jelaskan apa itu Variabel, Tipe Data, dan Array !</h2><br />
+                        variabel adalah nama atau penanda identitas yang mewakili suatu elemen data . <br /><br />tipe data adalah jenis data atau karakter yang digunakan untuk suatu bahasa pemrograman pada komputer<br /><br />array adalah tipe data yang digunakan untuk menampung beberapa nilai data yang sejenis<br /><br />maaf kalo salah.... <br /><br />
+                                            <h2 class="ez-toc-section" id="array-string-record-union-dan-struct-termasuk-ke-dalam-kelompok-tipe-data%e2%80%8b">
+                            23. Array, string, record, union, dan struct termasuk ke dalam kelompok tipe data​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>Tipe Data Composite</strong></p><p>Tolong diperiksa lagi takut salah, Thanks :)</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-bentuk-pendeklarasian-dari-array-satu-dimensi-berikuta-apabila-kita-ingin-mendeklarasikan-sebuah-array-misalnya-dgn-nama-huruf-yg-memiliki-10-elemen-dgn-tipe-data-charb-apabila-kita-ingin">
+                            24. Tentukan bentuk pendeklarasian dari array satu dimensi berikut:a. apabila kita ingin mendeklarasikan sebuah array misalnya dgn nama huruf yg memiliki 10 elemen dgn tipe data charb. apabila kita ingin mendeklarasikan sebuah array misalnya dengan nama bilangan² yg memiliki 6 elemen dgn tipe data float​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>char huruf[10];</p><p>float BilanganBilangan[6];</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apakah-bisa-menggabungkan-isi-array-dengan-tipe-data-yang-tidak-sejenis-dalam-python">
+                            25. apakah bisa menggabungkan isi array dengan tipe data yang tidak sejenis dalam python?</h2><br />
+                        <p><strong>Jawaban dan Penjelasan:</strong></p><p>Python tidak memiliki tipe data array (secara harfiah), namun Python memiliki tipe data <strong>list</strong>, yang pada dasarnya ekuivalen dengan tipe data array pada bahasa pemrograman lain. Ketika ingin menggunakan array, programmer Python hampir dapat dipastikan akan menggunakan tipe data list.</p><p>Jika yang dimaksud dengan tipe data array adalah list pada Python, maka <strong>BENAR bahwa array pada Python dapat berisi gabungan dari elemen-elemen yang berbeda tipe datanya.</strong></p><p>Sebagai contoh, kita uji saja pada interpreter Python.</p><p>$ python<br />Python 3.9.13 | packaged by conda-forge | (main, May 27 2022, 16:56:21) [GCC 10.3.0] on linux<br />Type "help", "copyright", "credits" or "license" for more information.<br />&gt;&gt;&gt; arr = [1, 2, 3, "satu", "dua", "tiga", True, False]<br />&gt;&gt;&gt; arr<br />[1, 2, 3, 'satu', 'dua', 'tiga', True, False]<br />&gt;&gt;&gt; print(arr)<br />[1, 2, 3, 'satu', 'dua', 'tiga', True, False]<br />&gt;&gt;&gt; for i in arr:<br />...     print(type(i))  # mencetak nama tipe data setiap elemen arr<br />...<br />&lt;class 'int'&gt;<br />&lt;class 'int'&gt;<br />&lt;class 'int'&gt;<br />&lt;class 'str'&gt;<br />&lt;class 'str'&gt;<br />&lt;class 'str'&gt;<br />&lt;class 'bool'&gt;<br />&lt;class 'bool'&gt;<br />&gt;&gt;&gt;<br />(atau dapat dilihat juga pada gambar)</p><p>Array [tex]\tt arr[/tex] di atas memuat elemen-elemen dengan tipe data int (integer), str (string), dan bool (lojik/boolean).</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-kapan-kita-menggunakan-data-bertipe-array">
+                            26. jelaskan kapan kita menggunakan data bertipe array</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Tipe data array adalah tipe data bentukan yang terdiri dari kumpulan tipe data lain. Daripada membuat 10 variabel yang terdiri dari nama1, nama2, nama3, dst, akan lebih efisien jika variabel nama ini disimpan ke dalam array.</p><p><strong>Penjelasan:</strong></p><p>Semoga bermanfaat</p><p>Ketika kita ingin mendefinisikan suatu variabel dalam satu jenis tanpa berulang-ulang mendeklarasikannya dan jumlahnya fixed atau tetap. misal </p><p>int a = 1, b = 2, c = 3;</p><p>menjadi</p><p>int[] angka = {1, 2, 3};</p><p></p><p>Semoga jawaban ini membantu</p><br />
+                                            <h2 class="ez-toc-section" id="tipe-data-yang-mampu-menampung-banyak-data-dengan-tipe-data-yang-berbeda-beda-heterogen-adalah-tipe-data-%e2%80%a6-a-array-b-string-c-record-d-character%e2%80%8b">
+                            27. Tipe data yang mampu menampung banyak data dengan tipe data yang berbeda-beda (heterogen) adalah tipe data … A.	array B.	string C.	record D.	character​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a. array</p><p><strong>Penjelasan:</strong></p><p>di dalam tipe data array kamu bisa memasukkan tipe data lainya, seperti string, integer, floating point, bahkan array lagi.</p><br />
+                                            <h2 class="ez-toc-section" id="suatu-array-mempunyai-alamat-pertama-a0-18ff2h-jika-array-tersebut-bertipedata-integer-tentukan-alamat-dari-elemen-a7%e2%80%8b">
+                            28. Suatu array mempunyai alamat pertama A[0] = 18FF2(H), jika array tersebut bertipedata integer tentukan alamat dari elemen A[7]​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>poin.................</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungi-dari-tipe-data-array-dan-buat-bentuk-dasar-dari-array-pada-program-php">
+                            29. Jelaskan fungi dari tipe data array dan buat bentuk dasar dari array pada program php </h2><br />
+                        tipe data array atau larik merupakan tipe data yg digunakan untuk menyimpan banyak data dalam satu variable. php ada 3 jenis array: numeric array, associative array, dan multi dimensional array. <br />kode pembuatan: <br />$tuliskode[0]="Hello";<br />$tuliskode[1]="Tuliskode";<br />echo $tuliskode[0]."".$tuliskode[1];<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-mengapa-penggunaan-tipe-data-array-effisien-dalam-penggunaan-memory">
+                            30. jelaskan mengapa penggunaan tipe data array effisien dalam penggunaan memory?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Sebagai catatan, ada perbedaan antara pemakaian memori oleh global variable dan local variable. Semua global variable akan memakai memori pada saat program mulai dijalankan sampai program selesai. Sedangkan, local variable hanya memakan memori pada saat prosedur atau fungsi yang mengandungnya dipakai. </p><p>Prosedur atau fungsi rekursif juga akan memakan memori yang cukup besar jika fungsi atau prosedur tersebut dipanggil terus-menerus sehingga mencapai kedalaman yang sangat besar.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu:')</p><br />
+                                            <h2 class="ez-toc-section" id="d-15-berikut-yang-bukan-termasuk-tipearray-adalah-a-array-multi-dimensib-array-dimensi-satuc-array-dimensi-tigad-array-dimensi-duainformatika-vil-27-pn%e2%80%8b">
+                            31. d. 15. Berikut yang bukan termasuk tipearray adalah ....a. array multi-dimensib. array dimensi satuc. array dimensi tigad. array dimensi duaInformatika VIL-27 PN​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>B. Array dinensi satu</p><p>Maaf banget kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="tipe-tipe-firewall-kecuali%e2%80%8b">
+                            32. tipe tipe firewall kecuali​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Jenis-jenis Firewall</p><p>1.Packet Filtering Gateway. ...</p><p>2. Application Layer Gateway (Proxy Firewall) ...</p><p>3. Circuit Level Gateway. ...</p><p>4. Stateful Multilayer Inspection Firewall (SMIF)</p><p><strong>Jawaban:</strong></p><p>Application layer gateway</p><p></p><p><strong>Penjelasan:</strong></p><p>moga membantu jangan lupa di follow ya:)</p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-deklarasi-array-bersama-siswa-dengan-jumlah-data-25-bertipe-string%e2%80%8b">
+                            33. Bagaimana deklarasi array bersama siswa dengan jumlah data 25 bertipe string​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>string siswa[25] = {"andi", "budi", "caca", "dst..",}</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-apa-itu-variabeltipe-data-dan-array">
+                            34. Jelaskan apa itu variabel,tipe data, dan array ! </h2><br />
+                        Variabel adalah suatu yang bersikap berubah-ubah dan tidak tetap. Bisa juga didefinisikan sebagai nilai yang memiliki banyak varian, intinya bernilai banyak. Nah untuk lebih jelasnya berikut adalah beberapa pengertianvriabel menurut para ahli.                                              Tipe adalah modal atau contoh.                   Data adalah keterangan yang benar dan nyata.                                 <br />
+                                            <h2 class="ez-toc-section" id="buatlah-program-array-dimensi-satu-dengan-10-elemen-bertipe-integer">
+                            35. buatlah program array dimensi satu dengan 10 elemen bertipe integer</h2><br />
+                        <p>Jujur saya ga tau kamu memakai bahasa apa, jadi saya akan memasukan beberapa bahasa pemrograman yang memang saya bisa.</p><p></p><p>Untuk Python : </p><p></p><p>Berikut adalah contoh program array dimensi satu dengan 10 elemen bertipe integer dalam bahasa Python:</p><p></p><p># membuat array dengan 10 elemen bertipe integer</p><p>array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]</p><p></p><p># menampilkan isi array</p><p>print("Isi dari array: ", array)</p><p></p><p></p><p>Kode di atas membuat array dengan 10 elemen bertipe integer dan menampilkan isi array dengan menggunakan perintah print. Kamu bisa mengubah elemen-elemen dalam array sesuai kebutuhan.</p><p></p><p>Dan Untuk Bahasa C++ : </p><p></p><p>#include &lt;iostream&gt;</p><p></p><p>using namespace std;</p><p></p><p>int main() {</p><p>  // membuat array dengan 10 elemen bertipe integer</p><p>  int array[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};</p><p>  </p><p>  // menampilkan isi array</p><p>  cout &lt;&lt; "Isi dari array: ";</p><p>  for (int i = 0; i &lt; 10; i++) {</p><p>    cout &lt;&lt; array[i] &lt;&lt; " ";</p><p>  }</p><p>  cout &lt;&lt; endl;</p><p></p><p>  return 0;</p><p>}</p><p></p><p>Kode di atas membuat array dengan 10 elemen bertipe integer dan menampilkan isi array dengan menggunakan perulangan for. Kamu bisa mengubah elemen-elemen dalam array sesuai kebutuhan.</p><p></p><p>Semoga Membantu ^^</p><br />
+                                            <h2 class="ez-toc-section" id="penulisan-array-terdiri-dari-kecuali-a-tipe-datab-nama-datac-jumlah-datad-jenis-datae-boolean%e2%80%8b">
+                            36. Penulisan Array terdiri dari kecuali.. A. Tipe dataB. Nama dataC. Jumlah dataD. Jenis dataE. Boolean​</h2><br />
+                        <p>B. NAMA DATA SEMOGA BENAR</p><br />
+                                            <h2 class="ez-toc-section" id="dibawah-ini-merupakan-pengertian-array-multidimensiadalah-a-array-yang-berisi-beberapa-array-lain-b-array-satu-dimensi-yang-berada-pada-array-satu-dimensi-dimana-variabel">
+                            37. dibawah ini merupakan pengertian array multidimensi,adalah.                             A.array yang berisi beberapa array lain B.array satu dimensi yang berada pada array satu dimensi dimana variabel dan juga type datanya sama.  Struktur data yang statis,yaitu jumlah elemen yang ada harus ditentukan terlebih dahulu dan tak bisa di ubah saat program berjalan                                D.indeks dengan tipe data skalar, meliputi tipe data byte,char,integer,boolean,terbilang (numerated),dan tipe data sub jangkauan dari tipe tipe data tersebut.  E.jumlah dari seluruh data pada array ,sum harus dideklarasikan sebgai variabel dengan tipe data angka terlebih dahulu​</h2><br />
+                        <p>Jawaban:e</p><p></p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tipe-data-array-disebut-juga">
+                            38. Tipe data array disebut juga</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>uUntuk membedakan antara nilai satu dengan lainnya didunaka suatu subcript, yang sering disebut index. Tipe data array adalah tipe data terstruktur yang merujuk kepada sebuah atau sekumpulan elemen yang mempunyai tipe data yang sama melalui indeks. Array biasanya disebut juga sebagai tabel, vektor atau larik.</p><p></p><p></p><p></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="array-atau-larik-merupakan-kumpulan-nilai-nilai-data-yang-bertipe-sama-nilai-nilai-data-suatu-array-ini-disebut">
+                            39. . Array atau larik merupakan kumpulan nilai-nilai data yang bertipe sama. Nilai-nilai data suatu array ini disebut</h2><br />
+                        Nilai-nilai data di suatu array biasa disebut dengan elemen-elemen array. Untuk letak dari elemen-elemen array biasa disebut index.<br />
+                                            <h2 class="ez-toc-section" id="berbagai-jenis-hewan-dibawah-ini-termasuk-jenis-tipe-asiakecuali-a-gajah-b-kangguru-c-badak-d-harimau">
+                            40. Berbagai jenis hewan dibawah ini termasuk jenis tipe asia,kecuali...... A.gajah B.kangguru C.badak D.harimau</h2><br />
+                        jawabannya b.kangguruB.kangguru<br /><br />soalnya sangat jels<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/nnU1NreZNAM?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ti</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/i-need-an-umbrella-because-it-s-right-now/">I Need An Umbrella Because It s Right Now</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lamanya-waktu/">Lamanya Waktu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/40-3/">40 3</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/norma-kesopanan-adalah-ketentuan-atau-pandangan-hidup-yang-timbul-dari/">Norma Kesopanan Adalah Ketentuan Atau Pandangan Hidup Yang Timbul Dari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hubungan-gaya-dan-gerak-pada-peristiwa-menimba-adalah/">Hubungan Gaya Dan Gerak Pada Peristiwa Menimba Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/56-8/">56 8</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/toyyib/">Toyyib</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/proses-perancangan-produk-teknologi-rekayasa-biasanya-diawali-dengan/">Proses Perancangan Produk Teknologi Rekayasa Biasanya Diawali Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pemes-adalah/">Pemes Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/eksposisi-berita-sering-ditemukan-dalam/">Eksposisi Berita Sering Ditemukan Dalam</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/goods-services-varieties-price-time-place/">Goods Services Varieties Price Time Place</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/besaran-turunan-adalah/">Besaran Turunan Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5-kilo-berapa-gram/">5 Kilo Berapa Gram</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bahasa-sunda-aku-suka-kamu/">Bahasa Sunda Aku Suka Kamu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/diketahui-sin-a/">Diketahui Sin A</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ruas-garis-pada-bangun-datar/">Ruas Garis Pada Bangun Datar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bakteri-lactobacillus-digunakan-untuk-pengawetan/">Bakteri Lactobacillus Digunakan Untuk Pengawetan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/write-a-formal-invitation-for-your-brothers-wedding/">Write A Formal Invitation For Your Brother&#039;s Wedding</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/masjid-raya-ar-risyafah-dibangun-oleh-khalifah/">Masjid Raya Ar Risyafah Dibangun Oleh Khalifah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/whatever-artinya/">Whatever Artinya</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

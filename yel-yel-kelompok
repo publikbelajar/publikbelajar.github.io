@@ -1,0 +1,1316 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Yel Yel Kelompok - BELAJAR</title>
+    <meta name="description" content="Yel Yel Kelompok, , , , , , , 0, Tolak Angin: Yel - yel Tolak Angin, tolak-angin.blogspot.com, 800 x 951, jpeg, , 20, yel-yel-kelompok, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Yel Yel Kelompok - BELAJAR" />
+    <meta property="og:description" content="Yel Yel Kelompok, , , , , , , 0, Tolak Angin: Yel - yel Tolak Angin, tolak-angin.blogspot.com, 800 x 951, jpeg, , 20, yel-yel-kelompok, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Yel Yel Kelompok - BELAJAR" />
+    <meta name="twitter:description" content="Yel Yel Kelompok, , , , , , , 0, Tolak Angin: Yel - yel Tolak Angin, tolak-angin.blogspot.com, 800 x 951, jpeg, , 20, yel-yel-kelompok, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Yel Yel Kelompok</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">Itstiaa03</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Yel+Yel+Kelompok" alt="Yel Yel Kelompok">
+                    </div>
+                    <p></p>
+                    <p>Bantuin bikin yel yel dong 
+&quot;yel yel kelompok 1&quot;</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bantuin-bikin-yel-yel-dong-yel-yel-kelompok-1">1.
+                                            Bantuin bikin yel yel dong 
+"yel yel kelompok 1"</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-tetapi-kelompok-katak">2.
+                                            yel yel kelompok tetapi kelompok katak</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-buatkan-yel-yel-kelompok-di-yel-yel-nya-harus-ada-kata-prabalanama-kelompok-saya50%e2%80%8b">3.
+                                            Tolong buatkan yel-yel kelompok di yel yel nya harus ada kata PRABALA(nama kelompok saya)[+50]​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-gruda">4.
+                                            Yel - yel kelompok gruda</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-yel-yel-kelompok">5.
+                                            contoh yel yel kelompok</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-kendang">6.
+                                            yel yel kelompok kendang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-tugas-kelompok">7.
+                                            yel yel tugas kelompok </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-komodo-buat-kelompok-kelas">8.
+                                            yel yel komodo buat kelompok kelas</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-dari-yel-yel-kelompok">9.
+                                            contoh dari yel yel kelompok</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yel-yel-kelompok-garuda">10.
+                                            Apa yel yel kelompok Garuda</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-untuk-kelompok-2">11.
+                                            Yel-Yel untuk kelompok 2</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-matahari">12.
+                                            yel yel kelompok matahari ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-buatin-yel-yel-bukan-yel-yel-pramuka-tapi-yel-yel-mpls-smp-nama-kelompok-hijau-tadi-sempat-ke-hapus%e2%80%8b">13.
+                                            tolong buatin yel yel , bukan yel yel Pramuka tapi yel yel mpls SMP nama kelompok hijau !!!tadi sempat ke hapus​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#boleh-buatin-yel-yel-ngakkelompoknya-kelompok-12">14.
+                                            boleh buatin yel-yel ngak??kelompoknya kelompok 12 !!!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-nkri">15.
+                                            yel-yel kelompok NKRI</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-pinguin">16.
+                                            yel yel  kelompok pinguin</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-serigala">17.
+                                            yel yel kelompok serigala</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#carikan-yel-yel-tentang-kelompok-merah">18.
+                                            carikan yel yel tentang kelompok merah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-tugas-kelompok">19.
+                                            yel yel tugas kelompok </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-1-2345">20.
+                                            yel yel kelompok 1 ,2,3,4,5</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-untuk-kelompok-tabligh">21.
+                                            yel yel untuk kelompok tabligh</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-yel-yel-kelompok-tuliskan-juga-yel-yel-nya-cocok-lagu-apa%e2%80%8b">22.
+                                            Buatlah yel yel kelompok. tuliskan juga yel yel nya cocok lagu apa​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-melati">23.
+                                            Yel yel kelompok melati</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-untuk-kelompok-osaka">24.
+                                            Yel-yel untuk kelompok osaka</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-pinguin">25.
+                                            yel yel  kelompok pinguin</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-buat-kelompok-kakatua">26.
+                                            yel yel buat kelompok kakatua</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-2-lagu-apa-saja">27.
+                                            yel yel kelompok 2? lagu apa saja</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatkan-dong-yel-yel-kelompok-adisiswa">28.
+                                            buatkan dong yel yel kelompok adisiswa</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-buatkan-yel-yel-tentang-pramuka-dan-yel-yel-untuk-kelompok-melati">29.
+                                            tolong buatkan yel yel tentang pramuka dan yel yel untuk kelompok melati .</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-untuk-kelompok-belajar">30.
+                                            Yel yel untuk kelompok belajar </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-yel-yel-kelompok-nama-kelompoknya-volvox">31.
+                                            contoh yel yel kelompok. nama kelompoknya volvox...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-yel-yel-kelompok">32.
+                                            contoh yel  yel kelompok</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-burung">33.
+                                            yel yel kelompok burung</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-buatkan-yel-yel-kelompok-di-yel-yel-nya-harus-ada-kata-prabalanama-kelompok-saya50%e2%80%8b">34.
+                                            Tolong buatkan yel-yel kelompok di yel yel nya harus ada kata PRABALA(nama kelompok saya)[+50]​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-agama-islam">35.
+                                            yel yel kelompok agama islam</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-kelompok-serigala">36.
+                                            yel yel kelompok serigala</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yel-yel-pramuka-buat-kelompok-matahari-%e2%98%80%ef%b8%8f">37.
+                                            Yel yel pramuka buat kelompok matahari ☀️</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-yel-yel-kelompok-%e2%80%8b">38.
+                                            buatlah yel yel kelompok !​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatkan-yel-yel-kelompok-durian">39.
+                                            buatkan yel yel kelompok durian</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-buatkan-yel-yel-pramuka-dan-yel-yel-untuk-kelompok-melati">40.
+                                            tolong buatkan yel yel pramuka dan yel yel untuk kelompok melati </a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="bantuin-bikin-yel-yel-dong-yel-yel-kelompok-1">
+                            1. Bantuin bikin yel yel dong 
+"yel yel kelompok 1"</h2><br />
+                        bahasa Inggris: Hi all of us group 1. the 1st greatest group, clever 1st group. Group 1 yesss...<br /><br />bahasa Indonesia: hai semua kami kelompok 1. kelompok 1 paling hebat, kelompok 1 paling pintar. kelopok 1 yesss...<br /><br />Ps: semoga membantu, maaf kalau salah ^_^<br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-tetapi-kelompok-katak">
+                            2. yel yel kelompok tetapi kelompok katak</h2><br />
+                        kami kelompok katak,  siap bersaing dengan kalian, kamilah kelompok is the best<br />
+                                            <h2 class="ez-toc-section" id="tolong-buatkan-yel-yel-kelompok-di-yel-yel-nya-harus-ada-kata-prabalanama-kelompok-saya50%e2%80%8b">
+                            3. Tolong buatkan yel-yel kelompok di yel yel nya harus ada kata PRABALA(nama kelompok saya)[+50]​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>hombala hombala eaa... </p><p>hombala hombala ea ea O... </p><p>ee... salam grup prabala.. </p><p>ee... kami kece juga... </p><p>keren keren gayanya.. </p><p>cantik ganteng orangnya.. </p><p>keluarkan suaranya.. </p><p>and one chiki two chiki tree chiki for</p><p>keluarkan suaranya </p><p>and one chiki two chiki tree chiki for</p><p></p><p>we are prabala</p><p>we are we are prabala</p><p>Yes! </p><p></p><p></p><p>semoga membantu:) </p><p><strong>Jawaban:</strong></p><p></p><p>KU YAKIN KITA BISA.... </p><p>BISA MENJADI YANG TERBAIK!.... </p><p></p><p>SIAPA KITA?? PRABALA.. </p><p>SIAPA KITA?? PRABALA.. </p><p></p><p>API API MEMBARA!!... </p><p></p><p><strong>SEMOGA</strong><strong> </strong><strong>MEMBANTU TERIMAKASIH</strong><strong> </strong><strong>:</strong><strong>)</strong></p><br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-gruda">
+                            4. Yel - yel kelompok gruda</h2><br />
+                        make nada "nona manis"<br /><br />Garuda, siapa yang punya<br />Garuda, siapa yang punya<br />Garuda, siapa yang punya<br />yang punya kita semua...
+<br /><br />						
+					
+				
+				
+					
+						
+						
+							Garudaa....Garudaaaaa....JUARA!!<br />kami kelompok garuda... <br />kelompok yang paling riang... <br />kelompok yang paling cerdas...<br />disayang semua orang... <br /><br />kami kelompok garuda...<br />dor...... <br />yang pintar dan banyak akal... <br />kusenang dan bergembira<br />kuduka klompok garuda. <br />(nada lagu balonku ada lima) <br />
+                                            <h2 class="ez-toc-section" id="contoh-yel-yel-kelompok">
+                            5. contoh yel yel kelompok</h2><br />
+                        hey kenapa kamu kalo nonton kita sukanya bilang <br />asik asik joss<br />apa karena avatar ini orangnya kece<br />sukanya a a a a juri-juri kasih nilanya paling tinggi <br />jeng jeng jeng jeng jeng<br />yaaaaaaak<br />Avatar<br />;;;;U uuu La la<br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-kendang">
+                            6. yel yel kelompok kendang</h2><br />
+                        kami kelompok kendang dapat bermain meggunakan instrumen yang menarik sekaligus bermain gendang<br />                    KELOMPOK KENDANG IS THE BEST<br /><br />
+                                            <h2 class="ez-toc-section" id="yel-yel-tugas-kelompok">
+                            7. yel yel tugas kelompok </h2><br />
+                        kami datang capek capek<br />untuk mencapai yang baek<br />kami tahan rindu pulang<br />untuk sukses yang gemilang<br />Kelompok (Nama atau nomor kelompok) Semangat ! <br />Kami memang anak - anak berbakti kepada orang tua maupun guru Namun tak lupa Pancasila ku amalkan.Kami semua luar biasa.Hip hip hore...<br />
+                                            <h2 class="ez-toc-section" id="yel-yel-komodo-buat-kelompok-kelas">
+                            8. yel yel komodo buat kelompok kelas</h2><br />
+                        Kami kelompok komodo<br />yang pintar dan cerdas <br />kami kelompok yang terbaik <br />dari semua kelompok<br />
+                                            <h2 class="ez-toc-section" id="contoh-dari-yel-yel-kelompok">
+                            9. contoh dari yel yel kelompok</h2><br />
+                        kalau kau suka ( nama kelompokmu ) tepuk tangan..<br />kalau kau suka ( ... ) tepuk tangan <br />kalaukau suka kami mari kita lakukan , kalau kau suka (...) tepuk tangan<br /><br />(nama kelompok ) is thebest in every where and any where..<br />(nama kelompokmu ) yes!contoh yel yel kelompok pramuka : <br />nama regu : edelweis<br />Regune regune seven better<br />seng terbaik panggah edelweis<br />diunggahno edelweis di dokno yo edelweis diapak apakno panggah edelweis<br />lagu cucak rowo<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="apa-yel-yel-kelompok-garuda">
+                            10. Apa yel yel kelompok Garuda</h2><br />
+                        ijinkan kami kenalkan diri inizinkan kmi perekenalan diri<br />
+                                            <h2 class="ez-toc-section" id="yel-yel-untuk-kelompok-2">
+                            11. Yel-Yel untuk kelompok 2</h2><br />
+                        pakai lirik kring kring naik sepeda ya<br />hey hey hey kawan semua <br />kami dari kelompok dua <br />hey hey hey kawan semua <br />kami datang hati gembirapakai lirik kring kring kring naik sepeda <br />hey hey teman semua kami dari kelompok 2<br />hey hey hey temansemua kami datangdengan hati gembira<br /><br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-matahari">
+                            12. yel yel kelompok matahari ?</h2><br />
+                        lirik lagu bola<br />ooo oo ooooooo<br />kami regu matahari<br />kami siap tuk bertanding<br />kalah menang tak masalah <br />yang penting kami happy<br /><br />
+                                            <h2 class="ez-toc-section" id="tolong-buatin-yel-yel-bukan-yel-yel-pramuka-tapi-yel-yel-mpls-smp-nama-kelompok-hijau-tadi-sempat-ke-hapus%e2%80%8b">
+                            13. tolong buatin yel yel , bukan yel yel Pramuka tapi yel yel mpls SMP nama kelompok hijau !!!tadi sempat ke hapus​</h2><br />
+                        <p><strong>= ✿ Buka Dikit Jos ✿
+</strong></p><strong>Hei Kenapa kamu kalau lihat hijau
+</strong><strong>Sukanya bilang "REGU HIJAU" WOW
+</strong><strong>Apa karena regunya imut jadi alasan..
+</strong><strong>Sukanya kamu kamu ini bilang regu hijau yang terbaik
+</strong><strong>Senangnya kamu kamu ini bikin regu hijau istimewa...
+</strong><strong>REGU HIJAUUUU.... UuuuYeeehhh</strong><p><strong></strong></p><p><strong>-------------</strong></p><p><strong></strong></p><p><strong></strong>[tex]\colorbox{black}{\purple{\boxed{\colorbox{black}{{\cal{Answer By : CutieBean}}}}}}[/tex]<strong></strong></p><br />
+                                            <h2 class="ez-toc-section" id="boleh-buatin-yel-yel-ngakkelompoknya-kelompok-12">
+                            14. boleh buatin yel-yel ngak??kelompoknya kelompok 12 !!!</h2><br />
+                        Nada lagu doraemon :D<br /><br />Aku takut yang ini, aku takut yang itu <br />Ini itu semuanya bengis sekali<br />Semua, semua, semua dapat ditaklukan<br />Dapat ditaklukkan oleh kelompok 12<br />Kami ingin lihat kelompok 12 paling kompak<br />Kami ingin lihat kelompok 12 paling keren<br />Eh, itu kan kelompok 12 !<br />La la la, aku senang sekali kelompok 12 (2x)<br />saran .hm,, kalo yel2 seperti untuk organisasi, lebih cocok ato cenderung jadi korban iklan aja ato pake lagu2  yg udh dimodifikasi lirik kayak diatas. <br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-nkri">
+                            15. yel-yel kelompok NKRI</h2><br />
+                        bersatu kita teguh bercerai kita runtuh<br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-pinguin">
+                            16. yel yel  kelompok pinguin</h2><br />
+                        kami kelompok pinguin <br />kelompok nomor satu<br />kami kelompok pinguin kelompok paling keren<br />kami terbaik<br />kami terkece<br />kelompok pinguin selalu nomor satu <br /><br /># nadanya potong bebek angsa Kami dari kelompok pinguin<br />ingin menampilkan sebuah iyel-iyel<br />Semoga kami bisa menampilkan iyel-iyel yang paling keren.. Dan semoga kami bisa menampilkan yang terbaik.. sekian sudah iyel-iyel kami.. mohon maaf jika ada salah :)<br /><br /># Nada : lagu goyang pinguin<br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-serigala">
+                            17. yel yel kelompok serigala</h2><br />
+                        kami dari kelompok serigala yang akan berubah menjadi AUUUUIUUUU...Awas vampire...Beraksiii...AUUUUUU<br />
+                                            <h2 class="ez-toc-section" id="carikan-yel-yel-tentang-kelompok-merah">
+                            18. carikan yel yel tentang kelompok merah</h2><br />
+                        kami kelompok merah orangnya suka marah marahnya bingits parah sampai bikin orang ketawa hahahahah <br />
+                                            <h2 class="ez-toc-section" id="yel-yel-tugas-kelompok">
+                            19. yel yel tugas kelompok </h2><br />
+                        tentang ap?, dan ap judul nya?<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-1-2345">
+                            20. yel yel kelompok 1 ,2,3,4,5</h2><br />
+                        yel yel kelompok 3<br /><br /><br />ini lah kami klompok tiga<br />aha aha<br />yg pling tenar dan ternama <br />ahaha<br />ini lah kami klompok 3<br />yg pling asyik membahana <br /><br /><br /> kami tak mw malam ini kecewa<br />yayaya<br />kami berkumpul bernyanyi bersamaa<br />suka suka nongkrong di pinggir jalan<br />bernyanyi  bersenda gurau bersama ....sama<br />yel yel 1 : jangan salah lebih hebat kami dari kalian kami tidak mau menyerah di babak terakhir ini kami harus berusaha dan berdoa. cuman satu maaf kalau kurang tepat<br />
+                                            <h2 class="ez-toc-section" id="yel-yel-untuk-kelompok-tabligh">
+                            21. yel yel untuk kelompok tabligh</h2><br />
+                        bismilahAllahuakbarwalailahaillahwaullahuakbar<br />
+                                            <h2 class="ez-toc-section" id="buatlah-yel-yel-kelompok-tuliskan-juga-yel-yel-nya-cocok-lagu-apa%e2%80%8b">
+                            22. Buatlah yel yel kelompok. tuliskan juga yel yel nya cocok lagu apa​</h2><br />
+                        <p>pelangi pwlangi alangkah indah mu</p><p>Selamat membuat yel yel=)</p><p>yel yel lucu</p><p>lagunya=&gt;Kepengen bersih, kepengen sehat loh kok nyampah?</p><p>Kalau tak rapi, kalau tak indah loh kok marah?</p><p>Kalau gak bersih kalau gak sehat kita takut</p><p></p><p>Sampaah ooow sampaah</p><p>Selalu buat resah</p><p>Sampaah ooow sampaah</p><p>Selalu buat gundah</p><p></p><p>What should we and you can do?</p><p>Buanglah sampah di tempatnya</p><p>What should we and you can do?</p><p>Buanglah sampah di tempatnya</p><p></p><p>Membuang sampah jangan sembarangan</p><p>Karena nanti bisa tercyduk oleh kita</p><p>Kalau begitu mari kita jaga kebersihan</p><p>Kalau membangkan urusan bakal panjang</p><p></p><p>Uyeee.. pramukaa!</p><br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-melati">
+                            23. Yel yel kelompok melati</h2><br />
+                         Melati melati  alangkah indahmu<br /> alangkah indahmu<br /> berani dan jujur kompak dan semangat<br /> kami Berusaha tuk jadi terbaik<br /> melati melati itulah kami<br />(nada pelangi)<br />
+                                            <h2 class="ez-toc-section" id="yel-yel-untuk-kelompok-osaka">
+                            24. Yel-yel untuk kelompok osaka</h2><br />
+                        osaka siapa yang punya-osaka Siapa yang punya, osaka siapa yang punya, osaka siapa yang punya yang pasti regunya cantik <br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-pinguin">
+                            25. yel yel  kelompok pinguin</h2><br />
+                        piguin - pinguin -pinguinNada Caca Marica
+
+Mana dimana anak paling keren?
+anak paling keren ada di regu pinguin
+Mana dimana regu paling jago?
+Regu paling jago ada di regu pinguin
+Regu pinguin keren
+regu pinguin jago
+Regu pinguin emang nomer satu<br />
+                                            <h2 class="ez-toc-section" id="yel-yel-buat-kelompok-kakatua">
+                            26. yel yel buat kelompok kakatua</h2><br />
+                        Kita kakatua
+Kakatua adalah kita
+Kalau bukan kita
+Bukan kakatua
+
+Lagu : topi saya bundar<br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-2-lagu-apa-saja">
+                            27. yel yel kelompok 2? lagu apa saja</h2><br />
+                        kami kelompok 2 yang yang pintar dan bijaksana<br />
+                                            <h2 class="ez-toc-section" id="buatkan-dong-yel-yel-kelompok-adisiswa">
+                            28. buatkan dong yel yel kelompok adisiswa</h2><br />
+                        Kami kelompok adisiswa  dari( nama sekolah)<br />Kami kelompok yang takkan putus asa<br />Kami kelompok tak akan pantang mundur<br />Kami kelompok yang selalu kompak<br /> <br />                    Adisiswa kece<br />                    Adisiswa kompak<br />                    Adisiswa kan terus berjuang<br />                    Adisiswa YA YA YA<br />*nada caca marica<br /><br />#TerbaikDongBro<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="tolong-buatkan-yel-yel-tentang-pramuka-dan-yel-yel-untuk-kelompok-melati">
+                            29. tolong buatkan yel yel tentang pramuka dan yel yel untuk kelompok melati .</h2><br />
+                        kami adalh kelompok melati ..kami  akan siap siaga membantu dan berjuang .untuk regu kami ..regu melati yang nomor 1untuk kelompok kamu: <br />mana dimana.. <br />regu yg terkeren.. <br />regu yg terkeren itu regu melati..<br />mana dimana.. regu yg terkompak.. regu yg terkompak itu regu melati..<br /><br />regu melati keren! <br />regu melati keren!<br />regu terkeren itu regu melati...<br /><br />regu melati kompak!<br />regu melati kompak!<br />regu terkompak itu regu melati....<br />nada versi lagu : anak kambing saya<br /><br />yel yel tentang pramuka :<br /><br />bukan tentara bukan nya polisi<br />coklat tua coklat muda seragam nya<br />tongkat kayu tongkat bambu senjatanya<br />trisatya dan dasadharma pedomannya<br /><br />orang bilang itu namanya pramuka, pramuka!<br />singkatan dari praja muda karana<br />orang bilang itu namanya pramuka, pramuka!<br />singkatan dari praja muda karana<br /><br />nada versi lagu : koes plus - kolam susu<br /><br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="yel-yel-untuk-kelompok-belajar">
+                            30. Yel yel untuk kelompok belajar </h2><br />
+                        gampang aj bwt dlu lirik dan lagu yg bakal di jadikan yel -yel nya. oke. semoga membantu <br />
+                                            <h2 class="ez-toc-section" id="contoh-yel-yel-kelompok-nama-kelompoknya-volvox">
+                            31. contoh yel yel kelompok. nama kelompoknya volvox...</h2><br />
+                        hey knp km kalok lihat kita sukanya bilang hebat-hebat josss....<br />apa karena kelompok volvox memang  terbaik. pastinya....aa..aa kelompok volvox memang menjadi juaranya <br />
+                                            <h2 class="ez-toc-section" id="contoh-yel-yel-kelompok">
+                            32. contoh yel  yel kelompok</h2><br />
+                        seperti kelompok aman sejahtera beriman berdisiplin santun rajin belajar penuh semangat cinta lingkungan bravo kelompok aman dan sejahtera3× yesssYAKIN PASTI BISA,,,YESS,,,,,,,<br /><br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-burung">
+                            33. yel yel kelompok burung</h2><br />
+                        klompok burung hebat kuat bagai terbang mengangkasa<br />
+                                            <h2 class="ez-toc-section" id="tolong-buatkan-yel-yel-kelompok-di-yel-yel-nya-harus-ada-kata-prabalanama-kelompok-saya50%e2%80%8b">
+                            34. Tolong buatkan yel-yel kelompok di yel yel nya harus ada kata PRABALA(nama kelompok saya)[+50]​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p>Regu PRABALA is the best, tak ada saingan tandingan.</p><p></p><p>Selalu kerja sama bersama.</p><p>Solidaritas penting.</p><p>Kami ini regu terbaik di dunia akhirat</p><p></p><p>Angkatlah jempolmu berikan pada kami jangan ragu-ragu nanti kamu cemburu</p><p></p><p>Karena kita yang paling oke</p><p></p><p>Angkatlah jempolmu berikan pada kami jangan ragu-ragu nanti kamu menyesal</p><p></p><p>Karena kita PRABALA yang is the best.</p><p></p><p><strong>*</strong><strong>G</strong><strong>u</strong><strong>n</strong><strong>a</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>n</strong><strong>a</strong><strong>d</strong><strong>a</strong><strong> </strong><strong>l</strong><strong>a</strong><strong>g</strong><strong>u</strong><strong> </strong><strong>o</strong><strong>p</strong><strong>l</strong><strong>o</strong><strong>s</strong><strong>a</strong><strong>n</strong><strong>.</strong></p><br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-agama-islam">
+                            35. yel yel kelompok agama islam</h2><br />
+                        barrakallah hunalkuma wallbarokah waljamaah  bainakumna bi hair<br />
+                                            <h2 class="ez-toc-section" id="yel-yel-kelompok-serigala">
+                            36. yel yel kelompok serigala</h2><br />
+                        Nama Regu : serigala<br /><br />
+Hai…. Hai… hai… hai…<br />
+Lihatlah kawan kawanku semua<br />
+Regu serigala  regu yang okey<br />
+!Ayolah kawan ……… kita gembira bersama …………..<br />
+Ayo kawan ………. Ikut Pramuka …………….<br />
+Hai… hai… hai… hai…<br />
+      Ref.<br />
+      Ayolah kawanku….. kita gembira ria………<br />
+      Hilangkan sedihmu ………<br />
+      Ayo kita gembira……….<br />
+      La… la… la… la…<br /><br />
+                                            <h2 class="ez-toc-section" id="yel-yel-pramuka-buat-kelompok-matahari-%e2%98%80%ef%b8%8f">
+                            37. Yel yel pramuka buat kelompok matahari ☀️</h2><br />
+                        Kelompok matahari<br />dilangit yang cerah<br />amat hebat<br />menghiasi kelompoku<br />aku ingin kelompoku slalu menang<br />jauh tinggi ke tempat yang pertama<br />nadanya seperti bintang kecil<br />Dukunglah regu matahari kami.....
+Matahari..... Regu terhebat.....
+Matahari..... Matahari...... Matahari....
+Regu terkompak, terhebat, tersemangat..
+Kita pantas jadi pemenang....<br />
+                                            <h2 class="ez-toc-section" id="buatlah-yel-yel-kelompok-%e2%80%8b">
+                            38. buatlah yel yel kelompok !​</h2><br />
+                        <p>kami adalah kelompok ...</p><p>selalu senang serta gembira</p><p>karena kami orang hebat</p><p>kami sellau senang</p><p>kami selalu semangat</p><p>kami lah kelompok paling hebat</p><p></p><p>hebat! hebat! itulah kelompok ....</p><p></p><p>di atas adalah salah satu contoh yel-yel yang bisa digunakan untuk kelompok masing-masing.</p><br />
+                                            <h2 class="ez-toc-section" id="buatkan-yel-yel-kelompok-durian">
+                            39. buatkan yel yel kelompok durian</h2><br />
+                        sik asik sik asik kelompok duren, sik asik sik asik kelompok duren, kelompok yang keren dan nomor satu di acara iniiiiiiiiiiii.. kelompok durendurian durian kami kelompok durian<br />durian is number one<br />kita semua sekawan<br />durian durian kita pasti menang<br />
+                                            <h2 class="ez-toc-section" id="tolong-buatkan-yel-yel-pramuka-dan-yel-yel-untuk-kelompok-melati">
+                            40. tolong buatkan yel yel pramuka dan yel yel untuk kelompok melati </h2><br />
+                        senada cinta bersemi di regu melati<br />menyandang anggunya pera dan jiwa pramuka<br />bersama meraih cita cita setinggi angkasa bersama melati dalam suka dan duka<br />jadi pilih melati <br />(pakai nada awal dr lagu rossa yg judulnya sakura)<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/FjGJKLEOibE?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_inggris</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sinonim-klasifikasi/">Sinonim Klasifikasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/artinya-it-s-ok/">Artinya It s Ok</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/uƒusu-o­o§u-uƒ/">ÙƒÙŠÙ Ø­Ø§Ù Ùƒ</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-motivator-adalah/">Contoh Motivator Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hubungan-gaya-dan-gerak-pada-peristiwa-menimba-adalah/">Hubungan Gaya Dan Gerak Pada Peristiwa Menimba Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/30-12/">30 12</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lirik-lagu-yalal-waton-brainly/">Lirik Lagu Yalal Waton Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gancaran/">Gancaran</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/cara-memainkan-calung-yaitu-dengan/">Cara Memainkan Calung Yaitu Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/antonim-delusi/">Antonim Delusi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-yang-bukan-merupakan-alat-musik-tradisional-adalah/">Berikut Yang Bukan Merupakan Alat Musik Tradisional Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/8-1-3/">8 1 3</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tangga-nada-g-mayor/">Tangga Nada G Mayor</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dalam-menghadapi-mea-maka-indonesia-perlu/">Dalam Menghadapi Mea Maka Indonesia Perlu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/setelah-bumi-hancur-total-maka-lahirlah-alam-baru-yang-disebut/">Setelah Bumi Hancur Total Maka Lahirlah Alam Baru Yang Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lakhs-to-idr/">Lakhs To Idr</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/y-4y/">Y 4y</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bentuk-pemerintahan-negara-jerman-adalah-republik-parlementer-hal-ini-berarti/">Bentuk Pemerintahan Negara Jerman Adalah Republik Parlementer Hal Ini Berarti</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/unsur-unsur-tari/">Unsur Unsur Tari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gerakan-kepala-seolah-menarik-dagu-disebut/">Gerakan Kepala Seolah Menarik Dagu Disebut</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

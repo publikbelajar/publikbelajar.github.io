@@ -1,0 +1,1814 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dasar Pengembangan Dan Pelaksanaan Demokrasi Yang Berjalan Di Indonesia Yaitu - BELAJAR</title>
+    <meta name="description" content="Dasar Pengembangan Dan Pelaksanaan Demokrasi Yang Berjalan Di Indonesia Yaitu, , , , , , , 0, BE BEST: KONSEP DEMOKRASI DAN PENDIDIKAN DEMOKRASI, adesiswoyo12.blogspot.com, 1024 x 846, jpeg, , 20, dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Dasar Pengembangan Dan Pelaksanaan Demokrasi Yang Berjalan Di Indonesia Yaitu - BELAJAR" />
+    <meta property="og:description" content="Dasar Pengembangan Dan Pelaksanaan Demokrasi Yang Berjalan Di Indonesia Yaitu, , , , , , , 0, BE BEST: KONSEP DEMOKRASI DAN PENDIDIKAN DEMOKRASI, adesiswoyo12.blogspot.com, 1024 x 846, jpeg, , 20, dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Dasar Pengembangan Dan Pelaksanaan Demokrasi Yang Berjalan Di Indonesia Yaitu - BELAJAR" />
+    <meta name="twitter:description" content="Dasar Pengembangan Dan Pelaksanaan Demokrasi Yang Berjalan Di Indonesia Yaitu, , , , , , , 0, BE BEST: KONSEP DEMOKRASI DAN PENDIDIKAN DEMOKRASI, adesiswoyo12.blogspot.com, 1024 x 846, jpeg, , 20, dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Dasar Pengembangan Dan Pelaksanaan Demokrasi Yang Berjalan Di Indonesia Yaitu</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">yuli700</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Dasar+Pengembangan+Dan+Pelaksanaan+Demokrasi+Yang+Berjalan+Di+Indonesia+Yaitu" alt="Dasar Pengembangan Dan Pelaksanaan Demokrasi Yang Berjalan Di Indonesia Yaitu">
+                    </div>
+                    <p></p>
+                    <p>dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia ialah</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah">1.
+                                            dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia ialah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah">2.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia ialah....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah">3.
+                                            Dasar pengembangan dan pelaksanaan Demokrasi yang berjalan di Indonesia ialah .....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berilah-tanda-silang-x-huruf-a-b-c-atau-d-pada-jawaban-yang-paling-benarevaluasi-akhir-semestera-mengembangkan-sikap-hormat-menghormatidan-bekerja-sama-dengan-bangsa-lainmerupakan-pengamalan-pan">4.
+                                            Berilah tanda silang (X) huruf a, b, c, atau d pada jawaban yang paling benar!Evaluasi Akhir SemesterA.Mengembangkan sikap hormat-menghormatidan bekerja sama dengan bangsa lainmerupakan pengamalan Pancasila, terutamaa.sila8akeduakeempatpertamaС. ketigab. keduad keempatMenjaga keseimbangan antara hak dankewajiban adalah pengamalan Pancasilaterutama silakeduaC. keempatb ketigad. kelimaPancasila perlu dijabarkan dalam kehidupannyata dalam berbagai bidang disebut dimensi2a.9.apertamaC. ketigad.Jika kamu sedang membaca Pancasila tidakboleh dari sila pertama langsung sila kelima,kemudian sila kelima. Cara membacanyaharus urut. Hal ini karenaPancasila dimulai dari nilai ketuhananberakhir di nilai keadilannilaiketuhanan paling tinggikedudukannyaPancasila itu satu, kesatuan, sistematis,dan urutd. pengamalan sila Pancasila harus dimulaidari sila pertamaNilai-nilai dasar berikut yang tersirat dalam silakemanusiaan yang adil dan beradab adalahс.ba.b.С.3.a4C.praktisidealistisnormatifrealistis10. Tujuan negara dan bentuk negara Indonesiasecara resmi tercantum dalam PembukaanUUD Negara RI 1945, terutama alineaa pertama c ketigab. keduad. keempat11. Suka membantu dan menolong sesamamanusia adalah sikap positif terhadapPancasila dalam kehidupan ....a. sosialC. ekonomib. politikd. budaya12. Sikap berikut yang bertentangan dengan nilai-nilai Pancasila sehingga harus kita hindarkanadalah ...a. toleransiempatib. tenggang rasa d. individualisme13. Jiwa Pancasila digali dan dikembangkanuntuk dijadikan sebagai ....a. lambang negarab. semboyan negaraCd. kepribadian negara14. Pancasila sebagai pandangan hidup bangsadipergunakan sebagai ....a. penyelenggaraan pemerintahan negarab. sistem nilai yang idealc. petunjuk dan pedoman kehidupan bangsad. penentu tujuan negara Indonesia15. Pancasila merupakan kesatuan organis yangutuh. Jika tidak, pelaksanaan sila kemanusiaanakan mengarah kepada....anegara teokrasib. kosmopolitanismeC. demokrasid. komunismedasar negaratidak memaksakan kehendakbmenghormati hak orang lainc. menjunjung tinggi nilai-nilai kemanusiaand. mengembangkan suasana kekeluargaandan kegotongroyonganMengembangkan sikap, tenggang rasa,termasuk pengamalan Pancasila, terutamasilaa pertamaketigab. keduad. keempat.Makna Pancasila sebagai dasar negaraadalah ....sebagai pandangan hidup warga negarab. sebagai pedoman hidup masyarakatmengatur kehidupan warga negarad. mempersatukan seluruh rakyatSebagai dasar negara, Pancasila harusdiamalkan oleh ....presidenseluruh rakyatb. pemerintah d aparatur negaraMengembangkan sikap saling menghormatikebebasan menjalankan ibadah sesuaidengan agama dan kepercayaannya masing-masing adalah pengamalan Pancasila,erutama silaaC С.a.C(-V-Luntuk SMP/MTs Kelas VIII57​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#056-kedatangan-pengaruh-hindu-budha-dan-islam-di-indonesia-hampir-berlangsung-tanpa-ada-konflik-danketegangan-kondisi-ini-terjadi-karena-masyarakat-indonesia-%e2%80%a6a-hidup-secara-nomadenb-mempu">5.
+                                            056. Kedatangan pengaruh Hindu Budha dan Islam di Indonesia hampir berlangsung tanpa ada konflik danketegangan. Kondisi ini terjadi karena masyarakat Indonesia …A. Hidup secara nomadenB. Mempunyai persamaan kulturalC. Tinggal di wilayah yang tersebarD. Memiliki pola hidup yang paternalistikE. Mempunyai kebudayaan bernilai tinggi057. Pada masa renaisans pengaruh gereja melemah. Salah satu penyebabnya adalah …A. Masyarakat tidak ingin lagi terikat dengan doktrin gerejaB. Gereja berusaha membatasi kreatifitas yang dikembangkan beberapa filsufC. Gereja dianggap tidak mampu menciptakan kesejahteraan social masyarakatD. Masyarakat mulai dapat menafsirkan isi alkitab sesuai pandangannya sendiriE. Gereja sudah tidak berwenang mengeluarkan dogma-dogma di tengah masyarakat058. Salah satu pengaruh revolusi besar di dunia bagi masyarakat Indonesia yang masih dapat dirasakan hinggasata ini adalah …A. Munculnya kelompok elite terpelajarB. Diterapkannya system republic serikatC. Berkembangnya paham kapitalis baratD. Berkembanganya paham komunis dan sosialisE. Adanya upaya penegakan hak-hak asasi manusia059. System demokrasi langsung mulai diterapkan pada masa Yunani Kuno. Oleh karena itu, masyarakatYunani Kuno dapat ikut serta dalam memutuskan suatu perkara. Kondisi ini dapat terjadi karena …A. Masyarakat Yunani Kuno dipimpin tokoh yang mendukung demokrasi langsungB. Pemerintahan Yunani Kuno diatur oleh para filsuf yang mengembangkan ide demokrasiC. Tokoh-tokoh Yunani Kuno menetapkan bahwa rakyat merupakan pemegang kekuasaan tertinggiD. Pemerintahan Yunani Kuno masih berbentuk negara kota dengan jumlah penduduk terbatasE. Masyarakat Yunani Kuno memiliki dewan yang mewakili aspirasi rakyat saat memutuskan suatu perkara060. Dalam perkembangannya, nasionalisme tidak hanya memengaruhi negara yang sudah lama merdeka,tetapi negara yang belum merdeka. Nasionalisme negara yang belum merdeka diwujudkan dengan cara …A. Menentang kolonialisme bangsa asingB. Menghapuskan system kasta dalam masyarakatC. Mencari dukungan kemerdekaan dari negara majuD. Mencapai kejayaan melalui penerapan imperialismeE. Mengembangkan negara melalui kerjasama multilateral061. Perhatikan pernyataan berikut!Pada awal abad XX setiap kelompok persekutuan negara-negara Eropa memiliki kesepakatan, yaitu jikasalah satu anggota persekutuan diserang, anggota yang lain harus membantu.Dari pernyataan di atas dapat disimpulkan bahwa …A. Persekutuan negara-negara di Eropa rawan tersulut konflik bersenjataB. Setiap persekutuan negara-negara Eropa memiliki anggota tidak terbatasC. Pembentukan persekutuan negara-negara di Eropa didasari pada kekuatan militerD. Anggota persekutuan negara-negara Eropa memiliki rasa toleransi yang besar kepada sesama anggotaE. Kesepakatan persekutuan negara-negara Eropa berlaku jika salah satu negara anggota mendapat serangannegara lain062. Tujuan utama pelaksanaan Sistem Tanam Paksa adalah …A. Untuk mengatasi krisis keuangan di tanah jajahanB. Melaksanakan salah satu ketentuan dalam Kongres WinaC. Untuk menutupi keuangan pemerintah Belanda yang kosongD. Mengumpulkan modal untuk menyelamatkan keuangan VOCE. Melanjutkan kebijakan yang telah dijalankan oleh Raja-Raja di Jawa063. Konsep manifesto politik yang dikemukakan oleh Perhimpunan Indonesia dimuat dalam majalah …A. De ExpressB. BromartaniC. Medan PrijajiD. Hindia PoetraE. Indonesia Merdeka064. Faktor yang mendorong Jepang mengumumkan janji kemerdekaan kepada bangsa Indonesia adalah …A. Sebagai penghargaan atas bantuan rakyat IndonesiaB. Jepang mulai terdesak dalam perang Asia Timur RayaC. Adanya desakan yang hebat dari para pemuda IndonesiaD. Menyelesaikan pertikaian antara Indonesia dengan JepangE. Jepang mengalami kekalahan dan Perang Asia Timur Raya065. Tujuan pokok para pemuda mengamankan Ir. Soekarno dan Drs. Moh. Hatta ke Rengasdengklok adalah…A. Keamanan Ir. Soekarno dan Drs. Moh. Hatta terancam oleh penjajah JepangB. Meminta dukungan dalam menyelenggarakan proklamasi kemerdekaan IndonesiaC. Meminta kedua tokoh tersebut menyusun naskah Proklamasi Kemerdekaan IndonesiaD. Meminta kedua tokoh tersebut untuk segera memproklamirkan kemerdekaan IndonesiaE. Meminta kedua tokoh tersebut untuk mendesak PPKI agar segera menyelenggarakan proklamasi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-jawab-inipengetahuan-yang-membahas-tentang-nasionalisme-hubungan-antara-warganegara-dengan-negara-antara-warganegara-dan-hak-asasi-manusia-adalah-a-pancasila-c-demokrasib-kewarganeg">6.
+                                            Tolong jawab ini!!!
+Pengetahuan yang membahas tentang nasionalisme, hubungan antara warganegara dengan negara, antara warganegara dan hak asasi manusia adalah :
+A. Pancasila C. Demokrasi
+B. Kewarganegaraan D. Good Governance
+2. Pendidikan kewargaan yang dijadikan sumber nilai dalam proses pengembangan dan penyelenggaraan program studi dalam rangka menghan tarkan mahasiswa memantapkan kepribadiannya, merupakan :
+A. Visi Pendidikan Kewarganegaraan C. Misi Pendidikan Kewarganegaraan
+B. Strategi Pendidikan Kewarganegaraan D. Kompetensi Pendidikan Kewarganegaraan
+3. Pendidikan kewarganegaraan yang digunakan untuk membantu mahasiswa mengembangkan kepribadiannya agar konsisten dalam menerapkan ilmu dan pengetahuan yang se suai dengan nilai-nilai Pancaila adalah :
+A. Visi Pendidikan Kewarganegaraan C. Misi Pendidikan Kewarganegaraan
+B. Strategi Pendidikan Kewarganegaraan D. Kompetensi Pendidikan Kewarganegaraan
+4. Setelah mengikuti pendidikan kewargaan, maka mahasiswa akan memiliki Civics knowlegde, civics disposition/attitude dan ciivics skills/know-how, adalah :
+A. Visi Pendidikan Kewarganegaraan C. Misi Pendidikan Kewarganegaraan
+B. Strategi Pendidikan Kewarganegaraan D. Kompetensi Pendidikan Kewarganegaraan
+5. Pendidikan Kewarganegaraan termasuk dalam kelompok pengetahuan rumpu-rampe (m ultidisipliner, yaitu yang terdiri dari , kecuali:
+A. Ilmu Filsafat C. Ilmu Hukum
+B. Imu Politik D. Ilmu Bumi.
+6. Setiap orang yang memiliki hubungan timbal balik (hak dan kewajiban) terhadap negara, disebut:
+A. Wargnegara C. Rakyat
+B. Penduduk D. Masyarakat
+7. Lima (5) unsur dasar bela negara sebagaimana disebutkan dibawah ini, kecuali:
+A. Kesadaran berbangsa dan bernegara C. Cinta tanah air
+B. Yakin Pancasila sebagai Dasar Negara D. Menolak wajib militer
+8. Berikut ini adalah bentuk pembelaan negara oleh masyarakat, kecuali :
+A. Masuk menjadi anggota TNI C. Masuk menjadi POLRI
+B. Mengintimidasi warganegara asing. D. Menjalankan tugas dengan tanggungjawab9. Seseeorang yang mendapatkan kewarganegaraannya karena tempat kelahiran, disebut :
+A. Ius Sanguinis C. Ius Soli
+B. Natutalisasi D. Kesamaan hukum
+10. Seseorang yang memiliki 2 (dua) kewarganegaraan, disebut:
+A. Apartheid C. Bipartheid
+B. Treepartheid D. Mutlipartheid
+11. Berikut ini adalah fungsi yang harus dijalankan oleh negara, kecuali:
+A. Melaksanakan ketertiban C. Mengusahakan kesejahteraan rakyatnya
+B. Mempertahankan kelangsungan hidup negara. D. Meminjam uang dari negara lain.
+12. Yang berikiut ini adalah prinsip-perinsip kewarganegaraan, kecuali:
+A. Ius Soli C. Ius Sanguinis
+B. Natuiralisasi D. Kestuan Hukum
+13. Seorang anak yang kebetulan kedua orangtuanya berlibur di suatu negara yang menganut prinsip IUS SOLI, namun orang tuannya kedua orang tuanya berasal dari negara yang mengant pprinsip Ius Sanguinis makn anak yang dilahirkan mendapat status kewarganegaraan :
+A. Apartheid C. Bipartheid
+B. Treepartheid D. Multipartheid
+14. Nasionalisme Indonesia dibangun atas fondasi /fondasi :
+A. Perkembangan Ipteks C. Ingin memperluas wilayah negara Indonesia
+B. Memperluas wilayah perdaagangan. D. Reaksi terhadap penjajahan/kolonialisme asing.
+15. Berikut ini adalah Unsur Pembentuk Identitas Nasional , kecuali :
+A. Agama C. Bahasa
+B. Lambang Negara D. Kebudayaan
+16. Pilar negara Indonesia menurut Alm. Taufik Kiemas, adalah :
+A. Pancasila C. Otonomi daerah
+B. Dekonsentrasi D. Negara Kepualauan
+17. Integrasi nasional dinyatakkan penting, karena negara Indonesia merupakan negara yang heterogen dalam berbagai aspek, kecuali:
+A. Suku C. Agama
+B. Ideologi negara D. Budaya
+18. Abraham Lincol (Mantan Presiden USA) menyatakan bahwa hakekat Demokrasi adalah :
+A. Rakyat tidak perlu mengontrol pemerintah
+B. Pemeritah menjalankan kekuasaan sesuai dengan keinginaginnya
+C. Pemerintahan harus didukung rakyat
+D. Rakyat sebagai obyek negara
+19. Kebebasan sebagai salah satu nilai demokrasi memiliki pemahaman dasar berikut ini, kecuali:
+A. Bebas dalam menentukan pilihan pekerjaan yang layak
+B. Bebas dari tekanan penguasa/orang lain
+C. Bebas menjalankan ibadah menurut keryakinan
+D. Bebas melakukan aktivitas yang bertentangan dengan nilai dan norma hukum.
+20. Hak-hak dasar sebagai salah satu nilai demokrasi yang tercantum dalam Undang Undang Dasar 1945, adalah :
+A. Pegawai negera/pemerintah hanya untuk kelompok orang tertentu saja
+B. Pegawai negeri dilarang memiliki anak lebih dari tiga orang
+C. Hanya TNI dan Polisi yang berwenang mempertahankan negara
+D. Pendidikan terbuka bagi semua warganegara.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#%c2%a016-tujuan-%c2%a0nasional-%c2%a0bangsa-indonesia-yang-hendak-dicapai-melalui-upaya-pembangunan-nasional-tercantum-dalam-%c2%a0pembukaan-uud-negara-republik-indonesia-tahun-1945-alinea-%e2%80%a6">7.
+                                             16. Tujuan  nasional  bangsa Indonesia yang hendak dicapai melalui upaya pembangunan nasional, tercantum dalam  Pembukaan UUD Negara Republik Indonesia Tahun 1945 alinea …  A. pertama     B.  kedua     C.  ketiga     D.  keempat 17. Gotong royong  adalah kerjasama yang dilakukan sejumlah warga masyarakat untuk menyelesaikan tugas atau pekerjaan. Sikap gotong royong adalah bekerja sama-sama dalam menyelesaikan pekerjaan dan menikmati hasil pekerjaan tersebut secara adil. Kelebihan gotong  royong dibandingkan  bentuk kerja sama yang lainnya adalah …  A. dilakukan tanpa pamrih     C. dilakukan dalam berbagai kegiatan  B. dilakukan secara bersama    D. hasil yang didapat menguntungkan semua   pihak 18. Di sebuah kampung, ada kegiatan yang rutin dilakukan setiap hari minggu. Kegiatan ini dilakukan secara bersama-sama untuk membersihkan lingkungan sekitar rumah warga, jalan-jalan sepanjang kampung, dan  lapangan yang ada di kampung tersebut. Hal ini menunjukkan bentuk gotong royong, yaitu …  A. tolong menolong       C. kerja sosial  B. gugur gunung               D. kerja bakti 19. Musyawarah  untuk mufakat merupakan cerminan dari pelaksanaan  sila ke-4 Pancasila yang pada prinsipnya menegaskan bahwa bangsa Indonesia akan terus memelihara dan mengembangkan semangat bermusyawarah dalam perwakilan. Gambar  tersebut di atas merupakan bentuk kerjasama dalam kehidupan …A. keamanan dan pertahanan    B. sosial politik    C. ekonomi D. umat beragama 20. Dalam pasal 33 ayat 1 UUD Negara Republik Indonesia Tahun 1945 menyatakan " Perekonomian disusun sebagai usaha bersama berdasarkan asas kekeluargaan ". Hal ini berarti dalam  kegiatan usaha ekonomi  digunakan prinsip kerjasama, saling membantu dalam suasana demokrasi ekonomi untuk mencapai kesejahteraan bersama secara adil. Salah satu bentuk kerjasama dalam bidang ekonomi yang diharapkan dalam pasal ini  adalah …  A. Firma                     C. Koperasi  B. BUMN        D. CVtolong plis jwbnya ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-danpelaksanaan-demokrasi-yang-berjalandi-indonesia-yaitu-%e2%80%8b">8.
+                                            Dasar pengembangan danpelaksanaan demokrasi yang berjalandi Indonesia, yaitu ....​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">9.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia yaitu ....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#17-gotong-royong-adalah-kerjasama-yang-dilakukan-sejumlah-warga-masyarakat-untuk-menyelesaikan-tugas-atau-pekerjaan-sikap-gotong-royong-adalah-bekerja-sama-sama-dalam-menyelesaikan-pekerjaan-dan-men">10.
+                                            17. gotong royong adalah kerjasama yang dilakukan sejumlah warga masyarakat untuk menyelesaikan tugas atau pekerjaan. sikap gotong royong adalah bekerja sama-sama dalam menyelesaikan pekerjaan dan menikmati hasil pekerjaan tersebut secara adil. kelebihan gotong royong dibandingkan bentuk kerja sama yang lainnya adalah … a. dilakukan tanpa pamrih c. dilakukan dalam berbagai kegiatan b. dilakukan secara bersama d. hasil yang didapat menguntungkan semua pihak 18. di sebuah kampung, ada kegiatan yang rutin dilakukan setiap hari minggu. kegiatan ini dilakukan secara bersama-sama untuk membersihkan lingkungan sekitar rumah warga, jalan-jalan sepanjang kampung, dan lapangan yang ada di kampung tersebut. hal ini menunjukkan bentuk gotong royong, yaitu … a. tolong menolong c. kerja sosial b. gugur gunung d. kerja bakti 19. musyawarah untuk mufakat merupakan cerminan dari pelaksanaan sila ke-4 pancasila yang pada prinsipnya menegaskan bahwa bangsa indonesia akan terus memelihara dan mengembangkan semangat bermusyawarah dalam perwakilan. gambar tersebut di atas merupakan bentuk kerjasama dalam kehidupan … a. keamanan dan pertahanan b. sosial politik c. ekonomi d. umat beragama 20. dalam pasal 33 ayat 1 uud negara republik indonesia tahun 1945 menyatakan " perekonomian disusun sebagai usaha bersama berdasarkan asas kekeluargaan ". hal ini berarti dalam kegiatan usaha ekonomi digunakan prinsip kerjasama, saling membantu dalam suasana demokrasi ekonomi untuk mencapai kesejahteraan bersama secara adil. salah satu bentuk kerjasama dalam bidang ekonomi yang diharapkan dalam pasal ini adalah … a. firma c. koperasi b. bumn d. cv​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">11.
+                                            dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia, yaitu..</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#7-perhatikan-ciri-pemerintahan-di-bawah-ini-1-terdapat-hubungan-yang-erat-antara-eksekutif-dan-legislatif-2-eksekutif-yang-dipimpin-oleh-perdana-menteri-3-kepala-negara-berkedudukan-seba">12.
+                                             7. Perhatikan ciri pemerintahan di bawah ini! (1). Terdapat hubungan yang erat antara eksekutif dan legislatif. (2). Eksekutif yang dipimpin oleh perdana menteri. (3). Kepala negara berkedudukan sebagai kepala negara saja bukan sebagai   kepala eksekutif atau pemerintahan.  (4). Presiden dipilih langsung oleh rakyat melalui pemilihan. (5). Eksekutif bertanggung jawab kepada legislatif.  (6). Menteri-menteri yang diangkat oleh presiden tersebut tunduk dan   bertanggung jawab kepada presiden. Dari pernyataan tersebut yang merupakan ciri sistem pemerintahan presidensial  ditandai pada nomor …. a. 1 dan 2  b. 2 dan 3 c. 3 dan 5 d. 4 dan 6 e. 5 dan 6  8. Sebagai warga negara sudah sepatutnya kita wajib mendukung penyelenggaraan  negara berorientasi kepada kepentingan rakyat dan merupakan perwujudan nilai-nilai  Pancasila sebagai ideologi terbuka. Bersikap positif terhadap Pancasila sebagai ideologi  terbuka adalah, kecuali …. a. Menyaring budaya-budaya asing yang masuk baik secara langsung maupun tidak  langsung b. Bersikap terbuka terhadap perubahan yang berdampak pada kemakmuran bangsa c. Mengembangkan prinsip toleransi, bekerja sama dan kekeluargaan dalam setiap  perikehidupan d. Mengembangkan kehidupan demokrasi yang disesuaikan dengan kebutuhan  bangsa dewasa ini e. Menyerap semua nilai-nilai yang masuk demi kemajuan bangsa pada era globalisasi  sekarang ini  9. Perhatikan data di bawah ini! (1). Cinta akan kemajuan dan pembangunan  (2). Pimpinan kerakyatan adalah hikmat kebijaksanaan yang dilandasi akal sehat. (3). Keseimbangan antara hak dan kewajiban, serta menghormati orang lain. (4). Musyawarah untuk mufakat dicapai dalam permusyawaratan wakil-wakil   rakyat. Berdasarkan data di atas yang merupakan implementasi dari nilai kerakyatan terdapat  pada nomor …. a. 2 dan 4  b. 1 dan 3  c. 1 dan 4 d. 1 dan 2  e. 3 dan 4  10. Sikap positif yang perlu dikembangkan warga negara sebagai implementasi nilai-nilai  Pancasila adalah sebagai berikut, kecuali …. a. Mendukung kebijakan pemerintah dalam penyelenggaraan negara yang  demokratis dan bebas dari KKN b. Berpartisipasi dalam rangka pelaksanaan pembangunan nasional c. Mengembangkan prinsip toleransi, bekerja sama dalam setiap perikehidupan d. Memajukan kesejahteraan umum serta mencerdaskan kehidupan bangsa  e. Bersikap terbuka terhadap perubahan yang berdampak pada kemaslahatan bangsa  B. Uraian  Jawablah pertanyaan di bawah ini dengan singkat dan jelas! 1. Pada hakikatnya kekuasaan negara menurut teori trias, Montesquie terdiri atas  kekuasaan legislatif, eksekutif, dan yudikatif. Berdsarkan hal tersebut, jelaskan jenis- jenis kekuasaan yang berlaku dalam penyelenggaraan negara di Republik Indonesia!.   2. Amandemen UUD NRI Tahun 1945 berdampak pada penyelenggaraan pemerintahan  Negara. Jelaskan karakteristik pemerintahan Indonesia setelah dilakukannya  perubahan UUD Negara Republik Indonesia Tahun 1945!  3. Pada dasarnya selain memiliki Kementerian Negara, pemerintah Republik Indonesia  memiliki Lembaga Pemerintah Non-Kementerian yang dahulu dikenal dengan istilah  lembaga pemerintahan non-departemen. Jelaskan dan berikan contoh Lembaga  Pemerintah Non-Kementerian Republik Indonesia!  4. Pada hakikatnya Kementerian Negara Republik Indonesia mempunyai tugas  menyelenggarakan urusan tertentu dalam pemerintahan di bawah dan bertanggung  jawab kepada Presiden. Sebutkan 3 (tiga) tugas kementerian negara dalam  menyelenggarakan pemerintahan negara!  5. Pada hakikatnya keberadaan pemerintah daerah menunjang pemerintah pusat dalam  menjalankan efektifitas dan efisiensi pemerintahan Negara. Jelaskan pentingnya  keberadaan pemerintahan daerah dalam proses penyelenggaraan pemerintahan di Republik Indonesia.!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#23-pemerintah-kolonial-belanda-berusaha-menghambat-gerak-partai-dan-organisasi-kebangsaan-terutama-terhadap-organisasi-yang-bersifat-nonkooperatif-dengan-caraa-melakukan-ancaman-penjara-bagi-indiv">13.
+                                            23. Pemerintah kolonial belanda berusaha menghambat gerak partai dan organisasi kebangsaan, terutama terhadap organisasi yang bersifat nonkooperatif dengan cara
+A. melakukan ancaman penjara bagi individu-individu yang terlibat dalam organisasi
+B. Mempersulit perizinan untuk mengadakan diskusi maupun rapat-rapat besar
+C. Melakukan penangkapan dan pembuangan bagi para pemimpin organisasi
+D. Melarang penggunaan nama indonesia sebagai nama organisasi
+E. Memungut anggaran besar bagi setiap organisasi
+24. Gerakan perempuan terpelajar berkembang dengan cara di berbagai daerah di Indonesia, perempuan turut aktif dan berafiliasi dengan organisasi dan partai politik dengan tujuan
+A. mewujudkan kemerdekaan
+B. mengembangkan wawasan politik
+C. Memperkuat gerakan kebangsaan
+D. Mendorong emansipasi perempuan
+E. Memperjuangkan hak-hak perempuan
+25. Sumpah pemuda mempunyai nilai simbolik yang penting dalam proses pembentukan bangsa, artinya
+A. Menunjukkan identitas masing-masing organisasi untuk membeli yang terbaik
+B. Setiap pemuda berlomba menunjukkan keunggulan visi dan misi organisasinya
+C. Penggerak nasional tidak lagi bersifat kesukuan dan memiliki tujuan yang sama
+D. Mengukuhkan rasa solidaritas antar pemuda di masing-masing wilayah
+E. Membatasi peran pemuda dalam organisasi
+26.Berikut ini yang bukan menjadi latar belakang kegagalan penerapan demokrasi di awal kemerdekaan adalah
+A. Tidak stabil nya kondisi politik karena kembalinya Belanda untuk menguasai Indonesia 
+B. Muncul berbagai gerakan sporadis di beberapa wilayah di indonesia
+C.Belum terbentuknya lembaga-lembaga legislatif
+D. Keinginan presiden menerapkan dwifungsi ABRI
+E. Terjadinya pemusatan kekuasaan
+27. Isi maklumat pemerintah 3 november 1945 adalah
+A. KINP berubah menjadi lembaga legislatif
+B. Pembentukan perda partai politik di indonesia
+C. Menetapkan Bukittinggi dia sebagai pemerintahan Darurat Republik Indonesia (PDRI) 
+D. Perubahan sistem pemerintahan presidensial menjadi sistem pemerintahan parlementer
+E. Segala kekuasaan di jalankan oleh presiden dibantu oleh Komite Nasional Indonesia Pusat (KINP) 
+28. Penerapan demokrasi liberal di indonesia membuat terjadinya ketidakstabilan politik karena
+A. Anggota partai kebanyakan bukan golongan terpelajar
+B. Masalah ekonomi tidak diperhatikan oleh partai partai
+C. Penerapan demokrasi liberal di indonesia tidak didukung oleh kalangan militer
+D. Masing-masing partai dalam kabinet mengutamakan kepentingan golongan sehingga menimbulkan konflik
+E. Terlalu sering berganti kabinet akibat mosi tidak percaya dari partai lawan sehingga program kabinet tidak maksimal
+29. Berikut yang bukan ciri pokok demokrasi kepemimpinan adalah
+A. Pelaksanaan ajaran presiden soekarno
+B. Kedudukan lembaga tinggi negara cenderung di bawah presiden 
+C. Partai-partai dapat menciptakan suasana demokratis
+D. Kuatnya kedudukan dalam pemerintahan
+E. Orientasi sistem ekonomi yang sesuai dengan manipool
+30. Perhatikan data data berikut
+1. Membina terwujudnya persatuan dan kesatuan
+2. Pemerintah dijalankan berdasarkan konstitusi
+3. Pemilu dilaksanakan secara berkesinambungan
+4. Mengimplementasikan bhineka tunggal ika
+5. Penghargaan terhadap HAM dan hak-hak minoritas
+Ciri pokok demokrasi pancasila masa orde baru ditunjukkan pada nomor
+A. 1,2 dan 3
+B.1,2 dan 4
+C. 2,3 dan 4
+D. 2,3 dan 5 
+E. 3,4 dan 5
+31.Perhatikan informasi berikut
+1. Kekuasaan presiden sebagai pemegang kekuasaan eksekutif berkurang dengan diterapkannya otonomi daerah (desentralisasi)
+2. Sistem perekonomian yang kegiatannya diatur dan dikendalikan pemerintah
+3 sebagai pemegang kekuasaan eksekutif presiden harus berbagi dengan DPR sehingga unsur legislatif 
+4. Demokrasi yang konstitusional dan mengedepankan kepentingan presiden
+Demokrasi pancasila yang dilaksanakan pada masa reformasi mencatat beberapa hal penting yang ditunjukkan oleh nomor
+A. 1 dan 2
+B. 1 dan 3
+C.2 dan 3
+D. 2 dan 4
+E. 3 dan 4
+Bantu jawab... </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah">14.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia ialah ....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-adalah">15.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#10-ideologi-adalah-seperangkat-ide-asasi-tentangmanusia-dan-seluruh-realitas-yang-dijadikanpedoman-dan-cita-cita-hidup-kalimat-tersebutmerupakan-pendapat-dari-a-ir-soekarnob-mr-moh-yamindrs">16.
+                                            -10. Ideologi adalah seperangkat ide asasi tentangmanusia dan seluruh realitas yang dijadikanpedoman dan cita-cita hidup. Kalimat tersebutmerupakan pendapat dari....a Ir. Soekarnob. Mr. Moh YaminDrs. Moh Hattad. Gunawan Setiardjo11. Pancasila merupakan pedoman dan petunjukyang mampu memberikan arah bagi bangsaIndonesia merupakan kedudukan Pancasilasebagaia. dasar Negarab. pandangan hidup bangsac. jiwa dan kepribadian bangsad. cita-cita bangsa12. Pancasila merupakan ideologi yang berbedadengan ideologi negara lain, karena Pancasilabersumber dari....a. kepribadian bangsa Indonesiab. tradisi yang turun-temurunc. budaya bangsa yang agungd. ajaran paraleluhur13. Setiap warga negara wajib mengembangkanpergaulan demi persatuan dan kesatuanbangsa yang ...a. ber-Bhinneka Tunggal Ikab. memiliki keanekaragaman budayac. menjunjung semangat persaudaraand. terbina sejak nenek moyang kita14. Secara singkat dapat disimpulkan bahwaPancasila sebagai ideologi nasional berfungsisebagai tujuan atau cita-cita dari bangsaIndonesia sebagai ....a. modal dasar dalam pembangunanb. pemersatu berbagai umat beragamac. sarana pemersatu bangsad. sarana memahami hukum yang berlaku15. Berikut ini yang merupakan butir-butirpengamalan Pancasila sila Kerakyatan yangDipimpin oleh Hikmat Kebijaksanaan dalamPermusyawaratan/Perwakilan adalah ....a. berani membela kebenaran dan keadilanb. mengembangkan rasa cinta kepada tanahair dan bangsac. menjaga keseimbangan antara hak dankewajiband. mengutamakan musyawarah dalammengambil keputusan16. Tujuan dan fungsi moral adalah pengamalannilai dan norma, sekaligus perwujudan ....a. nilai-nilai dasar manusiab. harkat martabat kepribadian manusiac. hak-hak dasar manusiad. sikap kepribadian manusia17. Pancasila sila kesatu menuntun manusiauntuka. memperhatikan peribadatan orang lainb. membantu tetangga yang kekuranganc. percaya dan takwa terhadap Tuhan YMEd. mempelajari agama/kepercayaan orang lain18. Sila Persatuan Indonesia dari Pancasilamengembangkan nilai-nilaia. pengakuan keberadaan bangsa Indonesiab. pengakuan bahwa bangsa Indonesiabangsa yang beraneka ragamc. bangsa Indonesia terdiri atas berbagai sukubangsad. hanya satu kebudayaan yang dilindunginegara19. Sikap yang sesuai dengan nilai-nilai Pancasilamerupakan sesuatu sikap yang menunjukkankebanggaan dan kesetiaan serta komitmenuntuka. menjalankan Pancasila dalam kehidupansehari-harib. mempelajari nilai-nilai Pancasila danberusaha memasyarakatkanc. mengkaji nilai-nilai yang terkandung didalam Pancasilad. mempelajari nilai-nilai Pancasila danberusaha menjaganya20. Nilai-nilai keadilan menganjurkan agar kitamenjaga keseimbangan antara ...a. tugas dan tanggung jawabb. kepentingan pribadi dan golonganc. kepentingan sekarang dan yang akandatangd. hak dan kewajiban21. Di dalam Pembukaan UUD 1945 alinea ke-4ditegaskan bahwa pembentukan pemerintahannegara Indonesia dilandasi oleh ....a. Pancasilab. undang-undangc. hukum dasar tertulisd. semangat persatuan22. Dengan kedudukan Pancasila sebagai dasarnegara dan pandangan hidup, maka Pancasilaa. wajib diamalkan oleh seluruh pejabat negarab. wajib dilaksanakan oleh seluruh rakyatIndonesiac. perlu dipahami oleh generasi mudad. perlu dipelajari oleh tokoh masyarakat23. Ciri atau karakteristik yang terkandung dalamnilai-nilai Pancasila sila keempat merupakansendi utama demokrasi di Indonesia berdasaratas asas ....a. persatuan dan kebersamaanb. kebersamaan dan kekeluargaanc. musyawarah dan asas kekeluargaand. musyawarah dan asas kebersamaan15PPKn/VIII/ Ganjil​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-jawab-inipengetahuan-yang-membahas-tentang-nasionalisme-hubungan-antara-warganegara-dengan-negara-antara-warganegara-dan-hak-asasi-manusia-adalah-a-pancasila-c-demokrasib-kewarganeg">17.
+                                            Tolong jawab ini!!!
+Pengetahuan yang membahas tentang nasionalisme, hubungan antara warganegara dengan negara, antara warganegara dan hak asasi manusia adalah :
+A. Pancasila C. Demokrasi
+B. Kewarganegaraan D. Good Governance
+2. Pendidikan kewargaan yang dijadikan sumber nilai dalam proses pengembangan dan penyelenggaraan program studi dalam rangka menghan tarkan mahasiswa memantapkan kepribadiannya, merupakan :
+A. Visi Pendidikan Kewarganegaraan C. Misi Pendidikan Kewarganegaraan
+B. Strategi Pendidikan Kewarganegaraan D. Kompetensi Pendidikan Kewarganegaraan
+3. Pendidikan kewarganegaraan yang digunakan untuk membantu mahasiswa mengembangkan kepribadiannya agar konsisten dalam menerapkan ilmu dan pengetahuan yang se suai dengan nilai-nilai Pancaila adalah :
+A. Visi Pendidikan Kewarganegaraan C. Misi Pendidikan Kewarganegaraan
+B. Strategi Pendidikan Kewarganegaraan D. Kompetensi Pendidikan Kewarganegaraan
+4. Setelah mengikuti pendidikan kewargaan, maka mahasiswa akan memiliki Civics knowlegde, civics disposition/attitude dan ciivics skills/know-how, adalah :
+A. Visi Pendidikan Kewarganegaraan C. Misi Pendidikan Kewarganegaraan
+B. Strategi Pendidikan Kewarganegaraan D. Kompetensi Pendidikan Kewarganegaraan
+5. Pendidikan Kewarganegaraan termasuk dalam kelompok pengetahuan rumpu-rampe (m ultidisipliner, yaitu yang terdiri dari , kecuali:
+A. Ilmu Filsafat C. Ilmu Hukum
+B. Imu Politik D. Ilmu Bumi.
+6. Setiap orang yang memiliki hubungan timbal balik (hak dan kewajiban) terhadap negara, disebut:
+A. Wargnegara C. Rakyat
+B. Penduduk D. Masyarakat
+7. Lima (5) unsur dasar bela negara sebagaimana disebutkan dibawah ini, kecuali:
+A. Kesadaran berbangsa dan bernegara C. Cinta tanah air
+B. Yakin Pancasila sebagai Dasar Negara D. Menolak wajib militer
+8. Berikut ini adalah bentuk pembelaan negara oleh masyarakat, kecuali :
+A. Masuk menjadi anggota TNI C. Masuk menjadi POLRI
+B. Mengintimidasi warganegara asing. D. Menjalankan tugas dengan tanggungjawab9. Seseeorang yang mendapatkan kewarganegaraannya karena tempat kelahiran, disebut :
+A. Ius Sanguinis C. Ius Soli
+B. Natutalisasi D. Kesamaan hukum
+10. Seseorang yang memiliki 2 (dua) kewarganegaraan, disebut:
+A. Apartheid C. Bipartheid
+B. Treepartheid D. Mutlipartheid
+11. Berikut ini adalah fungsi yang harus dijalankan oleh negara, kecuali:
+A. Melaksanakan ketertiban C. Mengusahakan kesejahteraan rakyatnya
+B. Mempertahankan kelangsungan hidup negara. D. Meminjam uang dari negara lain.
+12. Yang berikiut ini adalah prinsip-perinsip kewarganegaraan, kecuali:
+A. Ius Soli C. Ius Sanguinis
+B. Natuiralisasi D. Kestuan Hukum
+13. Seorang anak yang kebetulan kedua orangtuanya berlibur di suatu negara yang menganut prinsip IUS SOLI, namun orang tuannya kedua orang tuanya berasal dari negara yang mengant pprinsip Ius Sanguinis makn anak yang dilahirkan mendapat status kewarganegaraan :
+A. Apartheid C. Bipartheid
+B. Treepartheid D. Multipartheid
+14. Nasionalisme Indonesia dibangun atas fondasi /fondasi :
+A. Perkembangan Ipteks C. Ingin memperluas wilayah negara Indonesia
+B. Memperluas wilayah perdaagangan. D. Reaksi terhadap penjajahan/kolonialisme asing.
+15. Berikut ini adalah Unsur Pembentuk Identitas Nasional , kecuali :
+A. Agama C. Bahasa
+B. Lambang Negara D. Kebudayaan
+16. Pilar negara Indonesia menurut Alm. Taufik Kiemas, adalah :
+A. Pancasila C. Otonomi daerah
+B. Dekonsentrasi D. Negara Kepualauan
+17. Integrasi nasional dinyatakkan penting, karena negara Indonesia merupakan negara yang heterogen dalam berbagai aspek, kecuali:
+A. Suku C. Agama
+B. Ideologi negara D. Budaya
+18. Abraham Lincol (Mantan Presiden USA) menyatakan bahwa hakekat Demokrasi adalah :
+A. Rakyat tidak perlu mengontrol pemerintah
+B. Pemeritah menjalankan kekuasaan sesuai dengan keinginaginnya
+C. Pemerintahan harus didukung rakyat
+D. Rakyat sebagai obyek negara
+19. Kebebasan sebagai salah satu nilai demokrasi memiliki pemahaman dasar berikut ini, kecuali:
+A. Bebas dalam menentukan pilihan pekerjaan yang layak
+B. Bebas dari tekanan penguasa/orang lain
+C. Bebas menjalankan ibadah menurut keryakinan
+D. Bebas melakukan aktivitas yang bertentangan dengan nilai dan norma hukum.
+20. Hak-hak dasar sebagai salah satu nilai demokrasi yang tercantum dalam Undang Undang Dasar 1945, adalah :
+A. Pegawai negera/pemerintah hanya untuk kelompok orang tertentu saja
+B. Pegawai negeri dilarang memiliki anak lebih dari tiga orang
+C. Hanya TNI dan Polisi yang berwenang mempertahankan negara
+D. Pendidikan terbuka bagi semua warganegara.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">18.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia, yaitu.....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu-%e2%80%a6">19.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia, yaitu ….?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu-a-pancasilab-tapi-mprc-keputusan-presidend-pembukaan-uud-1945e-batang-tubuh-uud-1945%e2%80%8b">20.
+                                            dasar pengembangan dan pelaksanaan Demokrasi yang berjalan di Indonesia yaitu....a. pancasilab. tapi mprc. keputusan presidend. pembukaan UUD 1945e. batang tubuh UUD 1945​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah-%e2%80%8b">21.
+                                            dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia ialah ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#c-jawablah-pertanyaan-pertanyaan-dibawah-ini-dengan-benar1-sebutkan-upaya-yang-dapat-dilakukan-untuk-mempertahankan-pancasila-jawablah-menyelesaikan-masalah-dengan-musyawarah-saling-mengharga">22.
+                                            C. Jawablah pertanyaan pertanyaan dibawah ini dengan benar!
+1. Sebutkan upaya yang dapat dilakukan untuk mempertahankan pancasila 
+ Jawablah : menyelesaikan masalah dengan musyawarah 
+saling menghargai 
+tetap menjujung tinggi nilai kesatuan dan kesatuan 
+bertanggung jawab 
+tidak mudah terpengaruh oleh budaya asing 
+toleransi dan saling tolong menolong antar sesama
+2. Jelaskan bahwa sikap setia terhadap ideologi pancasila sangat penting dikembangkan karena alasan sejarah!
+ Jawaban : karena ideologi Pancasila sudah diterapkan dan diamalkan oleh pejuang bangsa Indonesia. sudah dilaksanakan sebelum NKRI merdeka. jadi sikap setia terhadap Ideologi Pancasila sangat penting karna bisa mencerminkan sikap cinta terhadap tanah air dan menghargai pejuang bangsa
+3. sebutkan tindakan yang menunjukkan pengamalan Pancasila sila ketiga sesuai pokok pikiran pembukaan uud 1945 
+ Jawaban : Tindakan yang mengamalkan sila ketiga : Bangga dan cinta terhadap tanah air dan bangsa. Mengembangkan sikap saling menghargai. Memajukan pergaulan demi peraturan bangsa.
+4. Sebutkan faktor faktor yang menyebabkan ideologi menjadi sesuatu yang sangat penting bagi kelangsungan hidup suatu bangsa 
+ Jawaban : 1. Ideologi merupakan tujuan hidup bangsa
+2. dengan ideologi kita bisa melihat hal-hal yang memang ingin dicapai suatu negara
+3.sebagai pandangan hidup bangsa
+5. Jelaskan yang dimaksud nilai nilai pancasila yang bersifat objektif
+ Jawaban : Nilai-nilai Pancasila bersifat objektif, maksudnya: 1) Rumusan dari Pancasila itu sendiri memiliki makna yang terdalam, menunjukan adanya sifat umum Universal dan abstrak. 3) Pancasila dalam Pembukaan UUD 1945 merupakan sumber dari segala sumber hukum di Indonesia.
+6. Sebutkan ciri ciri penerapan ideologi terbuka
+ Jawaban : Merupakan kekayaan rohani, budaya, dan masyarakat.
+Tidak diciptakan oleh negara, tetapi digali dari budaya masyarakat.
+Isinya tidak instan atau operasional, sehingga tiap generasi boleh menafsirkannya.
+Menginspirasi masyarakat untuk bertanggung jawab.
+7. sebutkan karakterisitik ideologi pancasila yang membedakan dengan ideologi ideologi lainnya
+ Jawaban : Pertama: Tuhan Yang Maha Esa Kedua : ialah penghargaan kepada sesama umat manusia apapun suku bangsa dan bahasanya. Ketiga : bangsa Indonesia menjunjung tinggi persatuan bangsa. Keempat : bahwa kehidupan kita dalam kemasyarakatan dan bernegara berdasarkan atas sistem demokrasi. Kelima : Keadilan Sosial bagi seluruh rakyat Indonesia.
+8. sebutkan fungsi pancasila bagi negara indonesia
+ Jawaban : Sebagai pandangan hidup bangsa, Pancasila memiliki fungsi utama sebagai dasar negara Indonesia. Pancasila menempati kedudukan yang paling tinggi, sebagai sumber dari segala sumber hukum atau sebagai sumber hukum dasar nasional dalam tata hukum di Indonesia.
+9. Jelaskan bahwa pancasila bersifat subjektif
+ Jawaban : dikatakan bersifat subjektif karena: Nilai-nilai Pancasila timbul dari bangsa Indonesia. ... Nilai-nilai Pancasila adalah pandangan hidup bangsa Indonesia, sehingga menjadi jati diri bangsa yang diyakini sebagai sumber nilai kebenaran.
+10.Sebutkan nilai nilai yang terkandung dalam pancasila sebagai ideologi negara
+ Jawaban : 1. Ketuhanan Yang Maha Esa. Yaitu meyakini adanya Tuhan yang diwujudkan dalam ketaatan kepada Tuhan Yang Maha Esa, dengan menjalankan segala perintah-Nya dan menjauhi segala larangannya. 2.Kemanusiaan Yang Adil dan Berarab. Mengandung rumusan sifat keseluruhan budi manusia Indonesia yang mengakui kedudukan manusia yang sederajat. 3.Persatuan Indonesia Merupakan perwujudan dari paham kebangsaan Indonesia yang mengatasi paham perseorangan, suku bangsa, dan mendahulukan persatuan dan kesatuan bangsa. 4.Kerakyataan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan Perwakilan Merupakan sendi utama demokrasi di Indonesia berdasar atas asas musyawarah dan asas kekeluargaan 5.Keadilan Sosial bagi Seluruh Rakyat Indonesia. Merupakan salah satu tujuan negara yang hendak mewujudkan tata masyarakat Indonesia yang adil dan makmur berdasarkan pancasila</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah-%e2%80%a6">23.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia ialah ….</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-adalah">24.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia adalah ......</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah">25.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia ialah......</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yg-berjalan-di-indonesia-ialah">26.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yg berjalan di Indonesia ialah.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#22-dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu-%e2%80%a6-%e2%80%8b">27.
+                                            22. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia, yaitu ….​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia">28.
+                                            Apa dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#9-susunan-negara-republik-indonesia-yangberkedaulatan-rakyat-hendaknya-didasarkanpada-nilai-nilai-a-ketuhananb-persatuan-dan-kesatuanc-keadilan-dan-kemanusiaand-ketuhanan-perikemanusiaan-pe">29.
+                                            9. Susunan Negara Republik Indonesia yangberkedaulatan rakyat hendaknya didasarkanpada nilai-nilai ....a. ketuhananb. persatuan dan kesatuanc. keadilan dan kemanusiaand. ketuhanan, perikemanusiaan, persatuan,permusyawaratan, dan keadilan10. Berikut arti dari asas kekeluargaan dalam koperasiadalah ....a. kesadaran anggota untuk melaksanakankegiatan koperasi oleh, dari, dan untuk semuaanggota di bawah kepengurusan koperasib. berjuang dan berkoban bersama memajukankoperasic koperasi dijalankan dengan merekrutmenkeluarga terdekatd. koperasi soko guru perekonomian Indonesia11. Koperasi dibentuk oleh para anggota dijalankanoleh anggota dan hasilnya untuk kepentingananggota. Hal ini keunggulan koperasi, yaitua. persatuanb. pendidikanc. dasar persamaand. demokrasi ekonomie demokrasi kooperatif12. Tiap warga negara harus bekerja saa dalammewujudkan keamanan dan pertahanan negara.Kerja sama ini merupakan bagian dari contohsikapa. bela negarab. saling menolongc. adil kepada sesamad. pantang menyerah13. Dalam mengembangkan kerja sama di berbagaibidang kehidupan perlu menghindari sikapa. fanatik yang sempit dan individualisb. gotong royong dan persatuanc. sosial yang tinggid. kekeluargaan14. Sikap selalu memisahkan diri dari kehidupan sosialdi masyarakat karena adanya jurang pemisahakibat perbedaan suku bangsa, adat istiadat,agama, dan bahasa daerah disebuta individualismeb. primedalismec.ekslusivismed.egoismetolong bantu ya kak ,makasih...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">30.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia yaitu ...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">31.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia, yaitu </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#17-gotong-royong-adalah-kerjasama-yang-dilakukan-sejumlah-warga-masyarakat-untuk-menyelesaikan-tugas-atau-pekerjaan-sikap-gotong-royong-adalah-bekerja-sama-sama-dalam-menyelesaikan-pekerjaan-dan-me">32.
+                                            17.	Gotong royong  adalah kerjasama yang dilakukan sejumlah warga masyarakat untuk menyelesaikan tugas atau pekerjaan. Sikap gotong royong adalah bekerja sama-sama dalam menyelesaikan pekerjaan dan menikmati hasil pekerjaan tersebut secara adil. Kelebihan gotong  royong dibandingkan  bentuk kerja sama yang lainnya adalah …A.	dilakukan tanpa pamrih			C. dilakukan dalam berbagai kegiatanB.	dilakukan secara bersama			D. hasil yang didapat menguntungkan semua   pihak18.	Di sebuah kampung, ada kegiatan yang rutin dilakukan setiap hari minggu. Kegiatan ini dilakukan secara bersama-sama untuk membersihkan lingkungan sekitar rumah warga, jalan-jalan sepanjang kampung, dan  lapangan yang ada di kampung tersebut. Hal ini menunjukkan bentuk gotong royong, yaitu …A.	tolong menolong				C. kerja sosialB.	gugur gunung				D. kerja bakti19.	Musyawarah  untuk mufakat merupakan cerminan dari pelaksanaan  sila ke-4 Pancasila yang pada prinsipnya menegaskan bahwa bangsa Indonesia akan terus memelihara dan mengembangkan semangat bermusyawarah dalam perwakilan. Gambar  tersebut di atas merupakan bentuk kerjasama dalam kehidupan …A.	keamanan dan pertahanan				B.	sosial politik				C.	ekonomi D.	umat beragama20.	Dalam pasal 33 ayat 1 UUD Negara Republik Indonesia Tahun 1945 menyatakan “ Perekonomian disusun sebagai usaha bersama berdasarkan asas kekeluargaan “. Hal ini berarti dalam  kegiatan usaha ekonomi  digunakan prinsip kerjasama, saling membantu dalam suasana demokrasi ekonomi untuk mencapai kesejahteraan bersama secara adil. Salah satu bentuk kerjasama dalam bidang ekonomi yang diharapkan dalam pasal ini  adalah …A.	Firma					C. KoperasiB.	BUMN					D. CV​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#i-1-berikut-wujud-partisipasi-terhadap-konstitusi-negara-yang-diterapkan-dalam-sekolah-kecuali-a-taat-dan-patuh-terhadap-tata-tertib-sekolahb-melaksanakan-program-kegiatan-osis-dengan-baik">33.
+                                            
+I. 
+1. Berikut wujud partisipasi terhadap konstitusi negara yang diterapkan dalam sekolah, kecuali....
+a. taat dan patuh terhadap tata tertib sekolah
+b. melaksanakan program kegiatan OSIS dengan baik
+c. mengembangkan sikap sadar dan rasional
+d. melaksanakan hasil keputusan bersama
+e. taat dan patuh terhadap orang tua
+2. Wujud partisipasi terhadap konstitusi negara dapat dimulai dari....
+a. negara
+b. diri sendiri
+c. pemerintah
+d. keluarga
+e. masyarakat
+3. Hubungan pembukaan teradap pasal-pasal UUD 1945 adalah hubungan yang bersifat....
+a. kausa-organik
+b. satu kesatuan yang erat
+c. hierarki piramida
+d. penjelasan
+e. sistematis
+4. Aturan untuk mengubah UUD 1945 diatur didalam....
+a. Pasal 36 UUD 1945
+b. Pasal 35 UUD 1945
+c. Pasal 37 UUD 1945
+d. Pasal 27 UUD 1945
+e. Pasal 30 UUD 1945
+5. Berikut ciri-ciri konstitusi Negara, kecuali....
+a. bersifat adil agar suatu bentuk pemerintahan dapat dijalankan secara demokrasi
+b. melindungi asas demokrasi
+c. menciptakan kedaulatan tertinggi yang berada di tangan rakyat
+d. menciptakan kedaulatan tertinggi yang berada di tangan pemerintah
+e. menentukan suatu hukum
+6. Pancasila sebagai dasar negara tercantum didalam pembukaan UUD 1945 pada....
+a. Alinea 3
+b. Alinea 1
+c. Alinea 2
+d. Alenia 4
+e. Alenia 1 dan 2
+7. Jiwa dan semangat persatuan yang telah menjiwai kehidupan masyarakat Indonesia tersirat dalam 
+Pancasila yaitu sila ke....
+a. Satu
+b. Tiga
+c. Lima
+d. Dua
+e. Empat
+1</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#21-sebutkan-merupakan-tokoh-teori-kedaulatan-rakyat22-sebutkan-negara-penganut-teori-kedaulatan-negara23-jelaskan-peengertian-negara-sekuler24-meneteri-negara-diangkat-dan-diberhetikan-oleh25-p">34.
+                                            21. Sebutkan merupakan tokoh teori kedaulatan rakyat22. Sebutkan negara penganut teori kedaulatan negara!23. Jelaskan peengertian negara sekuler!24. Meneteri negara diangkat dan diberhetikan oleh25. Presiden berkedudukan sebagai kepala pemerintah sekaligus sebagai kepala negara adalah salah satu ciri pemerintahan26. Berdasarkan ketentuan UUD 1945 dalam hubungan kerja antar lembaga negara Badan Pemeriksa Keuangan menyampaikan laporanan pekerjaannya kepada ....27. Mengajukan rancangan undang-undang berkaitan dengan otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta pengembangan daerah adalah salah satu tugas....28. Menetapkan undang-undang dengan persetujuan Presiden adalah fungsi...DPR29. MPR hanya dapat memberhentikan Presiden dan/atau wakil Prseiden pada masa jabatannya menurut UUD. Pernyataan ini tercantum dalam UUD NRI Tahun 1945 pasal... 30. Pada saat pemilu Presiden, capres Joko Widodo mendapat suara lebih banyak dari capres Prabowo Subianto, namun capres Prabowo tidak percaya pada hasil pemilu tersebut.Akhirnya capres Prabowo mengadukannya pada.... 31. Dalam UUD NRI Tahun 1945 pasal 3 ayat (1) tugas MPR yang tepat adalah ....32. Presiden tidak dapat membekukan dan atau membubarkan DPR adalah salah satu prinsip pelaksanaan kedailatan di Indonesia yang diatur dalam UUD NRI 1945 pasal...33. Dalam pelaksanaan Demokrasi Parlementer Di Indonesia(1945-1950) Pemerintahan dijalankan oleh ...., sedangkan Presiden hanya sebagai lambang.34. Demokrasi PancasilaMengutamakan kepentingan bangsa dan negara sedangkan demokrasi liberal lebih mengutamakan kepentingan...35. Sebutkan Prinsip-prinsip kedaulatan Negara Republik Indonesia menurut UUD NRI 1945 36. “Negara Indonesia adalah negara hukum”. Adalah bunyi UUD 1945 pasal...37. Mostesquieu, seorang ahli dari Prancis, berpendapat bahwa agar kekuasaan dalam suatu negara tidak terpusat pada seseorang, kekuasaan dalam suatu negara dibagi ke dalam tiga kekuasaan yang terpisah (separated of power).yaitu 38. diskripsikan istilah negara sekuler39. Sebutkan negara penganut teori kedaulatan negara40. Sebutkan dan jelaskan Azas Pemilu di Indonesia​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu-ae%c2%a6">35.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia, yaitu â€¦.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">36.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia, yaitu </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">37.
+                                            Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia yaitu? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#36-dasar-pengembangan-dan-pelaksanaandemokrasi-yang-berjalan-di-indonesiayaitu-a-pancasilab-tap-mprc-keputusan-presidend-pembukaan-uud-1945e-batang-tubuh-uud-1945%e2%80%8b">38.
+                                            36. Dasar pengembangan dan pelaksanaandemokrasi yang berjalan di Indonesia,yaitu ....a. pancasilab. tap MPRc. keputusan presidend. pembukaan UUD 1945e. batang tubuh UUD 1945​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-berdasarkan-titik-perhatiannya-sistem-politikdemokrasi-dibedakan-menjadi-tiga-macam-yaitu2-dasar-pengembangan-dan-pelaksanaan-demokrasi-yangberjalan-di-indonesia-ialah3-isi-pokok-demokrasi-panc">39.
+                                            1. Berdasarkan titik perhatiannya, sistem politikdemokrasi dibedakan menjadi tiga macam, yaitu2. Dasar pengembangan dan pelaksanaan demokrasi yangberjalan di Indonesia ialah3. Isi pokok demokrasi Pancasila adalah ....4. Dalam UUD 1945 pasal 31 ayat 2 menjelaskan tentanghak warga negara untuk mendapatkan pembiayaan5. Salah satu nilai dalam demokrasi menurut Hendry B.Mayo ialah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#16-bentuk-kerja-sama-atau-gotong-royong-dalam-kehidupan-bermasyarakat-berbangsa-dan-bernegara-dapat-tampak-dalam-kehidupan-%e2%80%a6-a-sosial-politik-ekonomi-pertahanan-dan-keamanan-dan-kehidup">40.
+                                            16. Bentuk kerja sama atau gotong royong dalam kehidupan bermasyarakat, berbangsa, dan bernegara dapat tampak dalam kehidupan ….A. sosial politik, ekonomi, pertahanan dan keamanan, dan kehidupan umat beragamaB. sosial politik, ekonomi, pertahanan dan keamanan, dan sistem peradilanC. hukum, ekonomi, keamanan dan pertahanan, dan kehidupan umat beragamaD. perdagangan, keamanan dan pertahanan, hukum, dan kehidupan umat beragama17. Tujuan  nasional  bangsa Indonesia yang hendak dicapai melalui upaya pembangunan nasional, tercantum dalam  Pembukaan UUD Negara Republik Indonesia Tahun 1945 alinea …A. pertama   B.  kedua   C.  ketiga   D.  keempat18. Gotong royong  adalah kerjasama yang dilakukan sejumlah warga masyarakat untuk menyelesaikan tugas atau pekerjaan. Sikap gotong royong adalah bekerja sama-sama dalam menyelesaikan pekerjaan dan menikmati hasil pekerjaan tersebut secara adil. Kelebihan gotong  royong dibandingkan  bentuk kerja sama yang lainnya adalah …A. dilakukan tanpa pamrih      C. dilakukan dalam berbagai kegiatanB. dilakukan secara bersama   D. hasil yang didapat menguntungkan semua   pihak19. Di sebuah kampung, ada kegiatan yang rutin dilakukan setiap hari minggu. Kegiatan ini dilakukan secara bersama-sama untuk membersihkan lingkungan sekitar rumah warga, jalan-jalan sepanjang kampung, dan  lapangan yang ada di kampung tersebut. Hal ini menunjukkan bentuk gotong royong, yaitu …A. tolong menolong       C. kerja sosialB. gugur gunung            D. kerja bakti20. Musyawarah  untuk mufakat merupakan cerminan dari pelaksanaan  sila ke-4 Pancasila yang pada prinsipnya menegaskan bahwa bangsa Indonesia akan terus memelihara dan mengembangkan semangat bermusyawarah dalam perwakilan. Gambar  tersebut di atas merupakan bentuk kerjasama dalam kehidupan …A. keamanan dan pertahanan    B. sosial politik    C. ekonomi D. umat beragama21. Dalam pasal 33 ayat 1 UUD Negara Republik Indonesia Tahun 1945 menyatakan “ Perekonomian disusun sebagai usaha bersama berdasarkan asas kekeluargaan “. Hal ini berarti dalam  kegiatan usaha ekonomi  digunakan prinsip kerjasama, saling membantu dalam suasana demokrasi ekonomi untuk mencapai kesejahteraan bersama secara adil. Salah satu bentuk kerjasama dalam bidang ekonomi yang diharapkan dalam pasal ini  adalah …A. Firma                     C. KoperasiB. BUMN                   D. CV​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah">
+                            1. dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia ialah</h2><br />
+                        atas dasar hukum dan uud1945 <br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah">
+                            2. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia ialah....</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pancasila karena Pancasila merupakan ideologi negara, selain itu Pancasila juga dijadikan dasar demokrasi yang diterapkan di Indonesia.
+</p><p>
+</p><p></p><p><strong>Penjelasan:</strong></p><strong>maaf klau slaah ya</strong><strong></strong><strong>semoga membantu</strong><strong></strong><strong></strong><strong>selamat mengerjakan</strong><strong></strong><strong></strong>    PANCASILA<p></p><p><strong>Penjelasan:</strong></p> maaf klo salah ya kk :)<br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah">
+                            3. Dasar pengembangan dan pelaksanaan Demokrasi yang berjalan di Indonesia ialah .....</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pancasila karena Pancasila merupakan ideologi negara, selain itu Pancasila juga dijadikan dasar demokrasi yang diterapkan di Indonesia.</p><p><strong>Penjelasan:</strong></p><p>Pancasila adalah dasar negara serta falsafah bangsa dan negara Republik Indonesia yang terdiri atas lima sila, yaitu </p><p>(1) Ketuhanan Yang Maha Esa, </p><p>(2) Kemanusiaan yang adil dan beradab, </p><p>(3) Persatuan Indonesia, </p><p>(4) Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan, dan </p><p>(5) Keadaan sosial bagi seluruh rakyat Indonesia.</p><p></p><p><strong>Semoga </strong><strong>membantu</strong><strong>!</strong><strong>!</strong><strong>!</strong></p><p><strong>#</strong><strong>j</strong><strong>angan </strong><strong>lupa </strong><strong>follow</strong><strong> </strong><strong>^</strong><strong>_</strong><strong>^</strong></p><p><strong>Jawaban:</strong></p><p>Pancasila karena Pancasila merupakan ideologi negara, selain itu Pancasila juga dijadikan dasar demokrasi yang diterapkan di Indonesia.</p><p></p><p><strong>Semoga </strong><strong>membantu</strong><strong>!</strong><strong>!</strong><strong>!</strong></p><p><strong>#</strong><strong>j</strong><strong>angan </strong><strong>lupa </strong><strong>follow</strong><strong> </strong><strong>^</strong><strong>_</strong><strong>^</strong></p><p><strong>Tolong </strong><strong>jadikan</strong><strong> jawaban</strong><strong> tercedas</strong><strong> ya</strong><strong>!</strong><strong>!</strong><strong>!</strong></p><br />
+                                            <h2 class="ez-toc-section" id="berilah-tanda-silang-x-huruf-a-b-c-atau-d-pada-jawaban-yang-paling-benarevaluasi-akhir-semestera-mengembangkan-sikap-hormat-menghormatidan-bekerja-sama-dengan-bangsa-lainmerupakan-pengamalan-pan">
+                            4. Berilah tanda silang (X) huruf a, b, c, atau d pada jawaban yang paling benar!Evaluasi Akhir SemesterA.Mengembangkan sikap hormat-menghormatidan bekerja sama dengan bangsa lainmerupakan pengamalan Pancasila, terutamaa.sila8akeduakeempatpertamaС. ketigab. keduad keempatMenjaga keseimbangan antara hak dankewajiban adalah pengamalan Pancasilaterutama silakeduaC. keempatb ketigad. kelimaPancasila perlu dijabarkan dalam kehidupannyata dalam berbagai bidang disebut dimensi2a.9.apertamaC. ketigad.Jika kamu sedang membaca Pancasila tidakboleh dari sila pertama langsung sila kelima,kemudian sila kelima. Cara membacanyaharus urut. Hal ini karenaPancasila dimulai dari nilai ketuhananberakhir di nilai keadilannilaiketuhanan paling tinggikedudukannyaPancasila itu satu, kesatuan, sistematis,dan urutd. pengamalan sila Pancasila harus dimulaidari sila pertamaNilai-nilai dasar berikut yang tersirat dalam silakemanusiaan yang adil dan beradab adalahс.ba.b.С.3.a4C.praktisidealistisnormatifrealistis10. Tujuan negara dan bentuk negara Indonesiasecara resmi tercantum dalam PembukaanUUD Negara RI 1945, terutama alineaa pertama c ketigab. keduad. keempat11. Suka membantu dan menolong sesamamanusia adalah sikap positif terhadapPancasila dalam kehidupan ....a. sosialC. ekonomib. politikd. budaya12. Sikap berikut yang bertentangan dengan nilai-nilai Pancasila sehingga harus kita hindarkanadalah ...a. toleransiempatib. tenggang rasa d. individualisme13. Jiwa Pancasila digali dan dikembangkanuntuk dijadikan sebagai ....a. lambang negarab. semboyan negaraCd. kepribadian negara14. Pancasila sebagai pandangan hidup bangsadipergunakan sebagai ....a. penyelenggaraan pemerintahan negarab. sistem nilai yang idealc. petunjuk dan pedoman kehidupan bangsad. penentu tujuan negara Indonesia15. Pancasila merupakan kesatuan organis yangutuh. Jika tidak, pelaksanaan sila kemanusiaanakan mengarah kepada....anegara teokrasib. kosmopolitanismeC. demokrasid. komunismedasar negaratidak memaksakan kehendakbmenghormati hak orang lainc. menjunjung tinggi nilai-nilai kemanusiaand. mengembangkan suasana kekeluargaandan kegotongroyonganMengembangkan sikap, tenggang rasa,termasuk pengamalan Pancasila, terutamasilaa pertamaketigab. keduad. keempat.Makna Pancasila sebagai dasar negaraadalah ....sebagai pandangan hidup warga negarab. sebagai pedoman hidup masyarakatmengatur kehidupan warga negarad. mempersatukan seluruh rakyatSebagai dasar negara, Pancasila harusdiamalkan oleh ....presidenseluruh rakyatb. pemerintah d aparatur negaraMengembangkan sikap saling menghormatikebebasan menjalankan ibadah sesuaidengan agama dan kepercayaannya masing-masing adalah pengamalan Pancasila,erutama silaaC С.a.C(-V-Luntuk SMP/MTs Kelas VIII57​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>11. Suka membantu dan menolong sesama</p><p>manusia adalah sikap positif terhadap</p><p>Pancasila dalam kehidupan ....</p><p>a. sosial</p><p>12. Sikap berikut yang bertentangan dengan nilai-</p><p>nilai Pancasila sehingga harus kita hindarkan</p><p>adalah ...</p><p> d. individualisme</p><p><strong>Penjelasan:</strong></p><p>nomor yang lain soalnya tidak jelas</p><p>jadi bingung</p><br />
+                                            <h2 class="ez-toc-section" id="056-kedatangan-pengaruh-hindu-budha-dan-islam-di-indonesia-hampir-berlangsung-tanpa-ada-konflik-danketegangan-kondisi-ini-terjadi-karena-masyarakat-indonesia-%e2%80%a6a-hidup-secara-nomadenb-mempu">
+                            5. 056. Kedatangan pengaruh Hindu Budha dan Islam di Indonesia hampir berlangsung tanpa ada konflik danketegangan. Kondisi ini terjadi karena masyarakat Indonesia …A. Hidup secara nomadenB. Mempunyai persamaan kulturalC. Tinggal di wilayah yang tersebarD. Memiliki pola hidup yang paternalistikE. Mempunyai kebudayaan bernilai tinggi057. Pada masa renaisans pengaruh gereja melemah. Salah satu penyebabnya adalah …A. Masyarakat tidak ingin lagi terikat dengan doktrin gerejaB. Gereja berusaha membatasi kreatifitas yang dikembangkan beberapa filsufC. Gereja dianggap tidak mampu menciptakan kesejahteraan social masyarakatD. Masyarakat mulai dapat menafsirkan isi alkitab sesuai pandangannya sendiriE. Gereja sudah tidak berwenang mengeluarkan dogma-dogma di tengah masyarakat058. Salah satu pengaruh revolusi besar di dunia bagi masyarakat Indonesia yang masih dapat dirasakan hinggasata ini adalah …A. Munculnya kelompok elite terpelajarB. Diterapkannya system republic serikatC. Berkembangnya paham kapitalis baratD. Berkembanganya paham komunis dan sosialisE. Adanya upaya penegakan hak-hak asasi manusia059. System demokrasi langsung mulai diterapkan pada masa Yunani Kuno. Oleh karena itu, masyarakatYunani Kuno dapat ikut serta dalam memutuskan suatu perkara. Kondisi ini dapat terjadi karena …A. Masyarakat Yunani Kuno dipimpin tokoh yang mendukung demokrasi langsungB. Pemerintahan Yunani Kuno diatur oleh para filsuf yang mengembangkan ide demokrasiC. Tokoh-tokoh Yunani Kuno menetapkan bahwa rakyat merupakan pemegang kekuasaan tertinggiD. Pemerintahan Yunani Kuno masih berbentuk negara kota dengan jumlah penduduk terbatasE. Masyarakat Yunani Kuno memiliki dewan yang mewakili aspirasi rakyat saat memutuskan suatu perkara060. Dalam perkembangannya, nasionalisme tidak hanya memengaruhi negara yang sudah lama merdeka,tetapi negara yang belum merdeka. Nasionalisme negara yang belum merdeka diwujudkan dengan cara …A. Menentang kolonialisme bangsa asingB. Menghapuskan system kasta dalam masyarakatC. Mencari dukungan kemerdekaan dari negara majuD. Mencapai kejayaan melalui penerapan imperialismeE. Mengembangkan negara melalui kerjasama multilateral061. Perhatikan pernyataan berikut!Pada awal abad XX setiap kelompok persekutuan negara-negara Eropa memiliki kesepakatan, yaitu jikasalah satu anggota persekutuan diserang, anggota yang lain harus membantu.Dari pernyataan di atas dapat disimpulkan bahwa …A. Persekutuan negara-negara di Eropa rawan tersulut konflik bersenjataB. Setiap persekutuan negara-negara Eropa memiliki anggota tidak terbatasC. Pembentukan persekutuan negara-negara di Eropa didasari pada kekuatan militerD. Anggota persekutuan negara-negara Eropa memiliki rasa toleransi yang besar kepada sesama anggotaE. Kesepakatan persekutuan negara-negara Eropa berlaku jika salah satu negara anggota mendapat serangannegara lain062. Tujuan utama pelaksanaan Sistem Tanam Paksa adalah …A. Untuk mengatasi krisis keuangan di tanah jajahanB. Melaksanakan salah satu ketentuan dalam Kongres WinaC. Untuk menutupi keuangan pemerintah Belanda yang kosongD. Mengumpulkan modal untuk menyelamatkan keuangan VOCE. Melanjutkan kebijakan yang telah dijalankan oleh Raja-Raja di Jawa063. Konsep manifesto politik yang dikemukakan oleh Perhimpunan Indonesia dimuat dalam majalah …A. De ExpressB. BromartaniC. Medan PrijajiD. Hindia PoetraE. Indonesia Merdeka064. Faktor yang mendorong Jepang mengumumkan janji kemerdekaan kepada bangsa Indonesia adalah …A. Sebagai penghargaan atas bantuan rakyat IndonesiaB. Jepang mulai terdesak dalam perang Asia Timur RayaC. Adanya desakan yang hebat dari para pemuda IndonesiaD. Menyelesaikan pertikaian antara Indonesia dengan JepangE. Jepang mengalami kekalahan dan Perang Asia Timur Raya065. Tujuan pokok para pemuda mengamankan Ir. Soekarno dan Drs. Moh. Hatta ke Rengasdengklok adalah…A. Keamanan Ir. Soekarno dan Drs. Moh. Hatta terancam oleh penjajah JepangB. Meminta dukungan dalam menyelenggarakan proklamasi kemerdekaan IndonesiaC. Meminta kedua tokoh tersebut menyusun naskah Proklamasi Kemerdekaan IndonesiaD. Meminta kedua tokoh tersebut untuk segera memproklamirkan kemerdekaan IndonesiaE. Meminta kedua tokoh tersebut untuk mendesak PPKI agar segera menyelenggarakan proklamasi​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>E.meminta kedua tokoh tersebut</p><br />
+                                            <h2 class="ez-toc-section" id="tolong-jawab-inipengetahuan-yang-membahas-tentang-nasionalisme-hubungan-antara-warganegara-dengan-negara-antara-warganegara-dan-hak-asasi-manusia-adalah-a-pancasila-c-demokrasib-kewarganeg">
+                            6. Tolong jawab ini!!!
+Pengetahuan yang membahas tentang nasionalisme, hubungan antara warganegara dengan negara, antara warganegara dan hak asasi manusia adalah :
+A. Pancasila C. Demokrasi
+B. Kewarganegaraan D. Good Governance
+2. Pendidikan kewargaan yang dijadikan sumber nilai dalam proses pengembangan dan penyelenggaraan program studi dalam rangka menghan tarkan mahasiswa memantapkan kepribadiannya, merupakan :
+A. Visi Pendidikan Kewarganegaraan C. Misi Pendidikan Kewarganegaraan
+B. Strategi Pendidikan Kewarganegaraan D. Kompetensi Pendidikan Kewarganegaraan
+3. Pendidikan kewarganegaraan yang digunakan untuk membantu mahasiswa mengembangkan kepribadiannya agar konsisten dalam menerapkan ilmu dan pengetahuan yang se suai dengan nilai-nilai Pancaila adalah :
+A. Visi Pendidikan Kewarganegaraan C. Misi Pendidikan Kewarganegaraan
+B. Strategi Pendidikan Kewarganegaraan D. Kompetensi Pendidikan Kewarganegaraan
+4. Setelah mengikuti pendidikan kewargaan, maka mahasiswa akan memiliki Civics knowlegde, civics disposition/attitude dan ciivics skills/know-how, adalah :
+A. Visi Pendidikan Kewarganegaraan C. Misi Pendidikan Kewarganegaraan
+B. Strategi Pendidikan Kewarganegaraan D. Kompetensi Pendidikan Kewarganegaraan
+5. Pendidikan Kewarganegaraan termasuk dalam kelompok pengetahuan rumpu-rampe (m ultidisipliner, yaitu yang terdiri dari , kecuali:
+A. Ilmu Filsafat C. Ilmu Hukum
+B. Imu Politik D. Ilmu Bumi.
+6. Setiap orang yang memiliki hubungan timbal balik (hak dan kewajiban) terhadap negara, disebut:
+A. Wargnegara C. Rakyat
+B. Penduduk D. Masyarakat
+7. Lima (5) unsur dasar bela negara sebagaimana disebutkan dibawah ini, kecuali:
+A. Kesadaran berbangsa dan bernegara C. Cinta tanah air
+B. Yakin Pancasila sebagai Dasar Negara D. Menolak wajib militer
+8. Berikut ini adalah bentuk pembelaan negara oleh masyarakat, kecuali :
+A. Masuk menjadi anggota TNI C. Masuk menjadi POLRI
+B. Mengintimidasi warganegara asing. D. Menjalankan tugas dengan tanggungjawab9. Seseeorang yang mendapatkan kewarganegaraannya karena tempat kelahiran, disebut :
+A. Ius Sanguinis C. Ius Soli
+B. Natutalisasi D. Kesamaan hukum
+10. Seseorang yang memiliki 2 (dua) kewarganegaraan, disebut:
+A. Apartheid C. Bipartheid
+B. Treepartheid D. Mutlipartheid
+11. Berikut ini adalah fungsi yang harus dijalankan oleh negara, kecuali:
+A. Melaksanakan ketertiban C. Mengusahakan kesejahteraan rakyatnya
+B. Mempertahankan kelangsungan hidup negara. D. Meminjam uang dari negara lain.
+12. Yang berikiut ini adalah prinsip-perinsip kewarganegaraan, kecuali:
+A. Ius Soli C. Ius Sanguinis
+B. Natuiralisasi D. Kestuan Hukum
+13. Seorang anak yang kebetulan kedua orangtuanya berlibur di suatu negara yang menganut prinsip IUS SOLI, namun orang tuannya kedua orang tuanya berasal dari negara yang mengant pprinsip Ius Sanguinis makn anak yang dilahirkan mendapat status kewarganegaraan :
+A. Apartheid C. Bipartheid
+B. Treepartheid D. Multipartheid
+14. Nasionalisme Indonesia dibangun atas fondasi /fondasi :
+A. Perkembangan Ipteks C. Ingin memperluas wilayah negara Indonesia
+B. Memperluas wilayah perdaagangan. D. Reaksi terhadap penjajahan/kolonialisme asing.
+15. Berikut ini adalah Unsur Pembentuk Identitas Nasional , kecuali :
+A. Agama C. Bahasa
+B. Lambang Negara D. Kebudayaan
+16. Pilar negara Indonesia menurut Alm. Taufik Kiemas, adalah :
+A. Pancasila C. Otonomi daerah
+B. Dekonsentrasi D. Negara Kepualauan
+17. Integrasi nasional dinyatakkan penting, karena negara Indonesia merupakan negara yang heterogen dalam berbagai aspek, kecuali:
+A. Suku C. Agama
+B. Ideologi negara D. Budaya
+18. Abraham Lincol (Mantan Presiden USA) menyatakan bahwa hakekat Demokrasi adalah :
+A. Rakyat tidak perlu mengontrol pemerintah
+B. Pemeritah menjalankan kekuasaan sesuai dengan keinginaginnya
+C. Pemerintahan harus didukung rakyat
+D. Rakyat sebagai obyek negara
+19. Kebebasan sebagai salah satu nilai demokrasi memiliki pemahaman dasar berikut ini, kecuali:
+A. Bebas dalam menentukan pilihan pekerjaan yang layak
+B. Bebas dari tekanan penguasa/orang lain
+C. Bebas menjalankan ibadah menurut keryakinan
+D. Bebas melakukan aktivitas yang bertentangan dengan nilai dan norma hukum.
+20. Hak-hak dasar sebagai salah satu nilai demokrasi yang tercantum dalam Undang Undang Dasar 1945, adalah :
+A. Pegawai negera/pemerintah hanya untuk kelompok orang tertentu saja
+B. Pegawai negeri dilarang memiliki anak lebih dari tiga orang
+C. Hanya TNI dan Polisi yang berwenang mempertahankan negara
+D. Pendidikan terbuka bagi semua warganegara.</h2><br />
+                        1.b<br />2.c<br />3.a<br />4.b<br />6.a<br />7.d<br />8.b<br />11.d<br />14.d <br />17.b<br />18.c<br /><br />cman ini yg saya ketahui <br />dan maaf klw salah..<br />semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="%c2%a016-tujuan-%c2%a0nasional-%c2%a0bangsa-indonesia-yang-hendak-dicapai-melalui-upaya-pembangunan-nasional-tercantum-dalam-%c2%a0pembukaan-uud-negara-republik-indonesia-tahun-1945-alinea-%e2%80%a6">
+                            7.  16. Tujuan  nasional  bangsa Indonesia yang hendak dicapai melalui upaya pembangunan nasional, tercantum dalam  Pembukaan UUD Negara Republik Indonesia Tahun 1945 alinea …  A. pertama     B.  kedua     C.  ketiga     D.  keempat 17. Gotong royong  adalah kerjasama yang dilakukan sejumlah warga masyarakat untuk menyelesaikan tugas atau pekerjaan. Sikap gotong royong adalah bekerja sama-sama dalam menyelesaikan pekerjaan dan menikmati hasil pekerjaan tersebut secara adil. Kelebihan gotong  royong dibandingkan  bentuk kerja sama yang lainnya adalah …  A. dilakukan tanpa pamrih     C. dilakukan dalam berbagai kegiatan  B. dilakukan secara bersama    D. hasil yang didapat menguntungkan semua   pihak 18. Di sebuah kampung, ada kegiatan yang rutin dilakukan setiap hari minggu. Kegiatan ini dilakukan secara bersama-sama untuk membersihkan lingkungan sekitar rumah warga, jalan-jalan sepanjang kampung, dan  lapangan yang ada di kampung tersebut. Hal ini menunjukkan bentuk gotong royong, yaitu …  A. tolong menolong       C. kerja sosial  B. gugur gunung               D. kerja bakti 19. Musyawarah  untuk mufakat merupakan cerminan dari pelaksanaan  sila ke-4 Pancasila yang pada prinsipnya menegaskan bahwa bangsa Indonesia akan terus memelihara dan mengembangkan semangat bermusyawarah dalam perwakilan. Gambar  tersebut di atas merupakan bentuk kerjasama dalam kehidupan …A. keamanan dan pertahanan    B. sosial politik    C. ekonomi D. umat beragama 20. Dalam pasal 33 ayat 1 UUD Negara Republik Indonesia Tahun 1945 menyatakan " Perekonomian disusun sebagai usaha bersama berdasarkan asas kekeluargaan ". Hal ini berarti dalam  kegiatan usaha ekonomi  digunakan prinsip kerjasama, saling membantu dalam suasana demokrasi ekonomi untuk mencapai kesejahteraan bersama secara adil. Salah satu bentuk kerjasama dalam bidang ekonomi yang diharapkan dalam pasal ini  adalah …  A. Firma                     C. Koperasi  B. BUMN        D. CVtolong plis jwbnya ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a</p><p><strong>Penjelasan:</strong></p><p>di lakukan tampa pamri terhadap apapun bentuk kerjanya</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-danpelaksanaan-demokrasi-yang-berjalandi-indonesia-yaitu-%e2%80%8b">
+                            8. Dasar pengembangan danpelaksanaan demokrasi yang berjalandi Indonesia, yaitu ....​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pasal ke 4 pancasila yang mengandung nilai musyawarah dan demokrasi yang berbunyi Kerakyatan yang dipimpin oleh Hikmat kebijaksanaan dalam permusyawaratan perwakilan</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">
+                            9. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia yaitu ....</h2><br />
+                        <p>Dasar dari pengembangan serta pelaksanaan <strong>demokrasi </strong>yang berjalan di wilayah Indonesia yakni <strong>PANCASILA </strong>(<strong>khususnya sila ke-4</strong>). Pancasila sendiri adalah dasar bagi negara Indonesia dan turut melandasi semua aspek kehidupan termasuk kehidupan bernegara dan sistem yang dianut. Demokrasi di Indonesia berlandaskan Pancasila dan disebut sebagai Demokrasi Pancasila.</p>Pembahasan<p>Demokrasi yang dimaknai sebagai sesuatu yang asalnya dari rakyat, oleh rakyat dan untuk rakyat. Ini adalah pendapat dari sosok besar dan ternama dalam sejarah dunia bernama Abraham Lincoln. Abraham Lincoln merupakan Presiden ke- 16 Amerika Serikat. Menurut <strong>Abraham Lincoln</strong> bahwa yang dimaksud dengan demokrasi adalah suatu sistem pemeritahan yang didasari oleh rakyat sendiri. Ia lebih lanjut menyatakan maksudnya bahwa demokrasi adalah sesuatu yang asalnya dari rakyat, oleh rakyat dan juga untuk rakyat. Pengertian demokrasi oleh Abraham Lincoln ini paling banyak dijadikan rujukan oleh orang-orang di seluruh dunia ketika membahas mengenai demokrasi. </p><p><strong>Demokrasi </strong>sendiri adalah suatu sistem pemerintahan yang menempatkan rakyat sebagai pemegang kedaulatan tertinggi. Indonesia juga menggunakan sistem pemerintahan demokrasi, namun berbeda dengan demokrasi negara lain, demokrasi Indonesia berlandaskan Pancasila dan disebut sebagai demokrasi Pancasila. Ciri utama demokrasi Pancasila di Indonesia adalah berdasarkan pada <strong>kerakyatan yang dipimpin oleh hikmat kebijaksanaan perwakilan</strong> sehingga kedaulatan rakyat dimandatkan pada wakil-wakil yang mereka pilih sesuai hati nuraninya pada pemilihan umum. Wakil-wakil rakyat ini kemudian bersama-sama mengelola kehidupan bernegara dengan menitikberatkan pengambilan keputusan dengan <strong>musyawarah mufakat.</strong></p>Pelajari Lebih LanjutMateri tentang nilai-nilai dari demokrasi Pancasila yang dianut Indonesia brainly.co.id/tugas/1595063Materi tentang Dasar hukum demokrasi di Indonesia! brainly.co.id/tugas/5359115Materi tentang klasifikasi dari demokrasi yang penting diketahui brainly.co.id/tugas/24820302<p>• • • • • • • • • • • • • • • • • • • • • • • • • • •</p><p><strong>Detail Jawaban</strong></p><p><strong>Kelas      : SMP</strong></p><p><strong>Mapel    : PPKN</strong></p><p><strong>Bab        : Demokrasi Pancasila</strong></p><p><strong>Kode      : -</strong></p><p></p><p><strong>#TingkatkanPrestasimu</strong></p><p><strong>#SPJ3</strong></p><br />
+                                            <h2 class="ez-toc-section" id="17-gotong-royong-adalah-kerjasama-yang-dilakukan-sejumlah-warga-masyarakat-untuk-menyelesaikan-tugas-atau-pekerjaan-sikap-gotong-royong-adalah-bekerja-sama-sama-dalam-menyelesaikan-pekerjaan-dan-men">
+                            10. 17. gotong royong adalah kerjasama yang dilakukan sejumlah warga masyarakat untuk menyelesaikan tugas atau pekerjaan. sikap gotong royong adalah bekerja sama-sama dalam menyelesaikan pekerjaan dan menikmati hasil pekerjaan tersebut secara adil. kelebihan gotong royong dibandingkan bentuk kerja sama yang lainnya adalah … a. dilakukan tanpa pamrih c. dilakukan dalam berbagai kegiatan b. dilakukan secara bersama d. hasil yang didapat menguntungkan semua pihak 18. di sebuah kampung, ada kegiatan yang rutin dilakukan setiap hari minggu. kegiatan ini dilakukan secara bersama-sama untuk membersihkan lingkungan sekitar rumah warga, jalan-jalan sepanjang kampung, dan lapangan yang ada di kampung tersebut. hal ini menunjukkan bentuk gotong royong, yaitu … a. tolong menolong c. kerja sosial b. gugur gunung d. kerja bakti 19. musyawarah untuk mufakat merupakan cerminan dari pelaksanaan sila ke-4 pancasila yang pada prinsipnya menegaskan bahwa bangsa indonesia akan terus memelihara dan mengembangkan semangat bermusyawarah dalam perwakilan. gambar tersebut di atas merupakan bentuk kerjasama dalam kehidupan … a. keamanan dan pertahanan b. sosial politik c. ekonomi d. umat beragama 20. dalam pasal 33 ayat 1 uud negara republik indonesia tahun 1945 menyatakan " perekonomian disusun sebagai usaha bersama berdasarkan asas kekeluargaan ". hal ini berarti dalam kegiatan usaha ekonomi digunakan prinsip kerjasama, saling membantu dalam suasana demokrasi ekonomi untuk mencapai kesejahteraan bersama secara adil. salah satu bentuk kerjasama dalam bidang ekonomi yang diharapkan dalam pasal ini adalah … a. firma c. koperasi b. bumn d. cv​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>17. b. dilakukan secara bersama </p><p>18. b. gugur gunung</p><p>19. - </p><p>20. C. koperasi</p><p>=============================</p><p> <strong>K</strong><strong>e</strong><strong>r</strong><strong>j</strong><strong>a</strong><strong> </strong><strong>s</strong><strong>a</strong><strong>m</strong><strong>a</strong><strong> </strong><strong>a</strong><strong>d</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>h</strong><strong> </strong>kegiatan atau usaha yang dilakukan dua orang atau lebih untuk mencapai tujuan bersama.</p><p></p><p>#Semangat</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">
+                            11. dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia, yaitu..</h2><br />
+                        berdasarkan nilai luhur pancasila<br />maaf kalau salah<br /><br />
+                                            <h2 class="ez-toc-section" id="7-perhatikan-ciri-pemerintahan-di-bawah-ini-1-terdapat-hubungan-yang-erat-antara-eksekutif-dan-legislatif-2-eksekutif-yang-dipimpin-oleh-perdana-menteri-3-kepala-negara-berkedudukan-seba">
+                            12.  7. Perhatikan ciri pemerintahan di bawah ini! (1). Terdapat hubungan yang erat antara eksekutif dan legislatif. (2). Eksekutif yang dipimpin oleh perdana menteri. (3). Kepala negara berkedudukan sebagai kepala negara saja bukan sebagai   kepala eksekutif atau pemerintahan.  (4). Presiden dipilih langsung oleh rakyat melalui pemilihan. (5). Eksekutif bertanggung jawab kepada legislatif.  (6). Menteri-menteri yang diangkat oleh presiden tersebut tunduk dan   bertanggung jawab kepada presiden. Dari pernyataan tersebut yang merupakan ciri sistem pemerintahan presidensial  ditandai pada nomor …. a. 1 dan 2  b. 2 dan 3 c. 3 dan 5 d. 4 dan 6 e. 5 dan 6  8. Sebagai warga negara sudah sepatutnya kita wajib mendukung penyelenggaraan  negara berorientasi kepada kepentingan rakyat dan merupakan perwujudan nilai-nilai  Pancasila sebagai ideologi terbuka. Bersikap positif terhadap Pancasila sebagai ideologi  terbuka adalah, kecuali …. a. Menyaring budaya-budaya asing yang masuk baik secara langsung maupun tidak  langsung b. Bersikap terbuka terhadap perubahan yang berdampak pada kemakmuran bangsa c. Mengembangkan prinsip toleransi, bekerja sama dan kekeluargaan dalam setiap  perikehidupan d. Mengembangkan kehidupan demokrasi yang disesuaikan dengan kebutuhan  bangsa dewasa ini e. Menyerap semua nilai-nilai yang masuk demi kemajuan bangsa pada era globalisasi  sekarang ini  9. Perhatikan data di bawah ini! (1). Cinta akan kemajuan dan pembangunan  (2). Pimpinan kerakyatan adalah hikmat kebijaksanaan yang dilandasi akal sehat. (3). Keseimbangan antara hak dan kewajiban, serta menghormati orang lain. (4). Musyawarah untuk mufakat dicapai dalam permusyawaratan wakil-wakil   rakyat. Berdasarkan data di atas yang merupakan implementasi dari nilai kerakyatan terdapat  pada nomor …. a. 2 dan 4  b. 1 dan 3  c. 1 dan 4 d. 1 dan 2  e. 3 dan 4  10. Sikap positif yang perlu dikembangkan warga negara sebagai implementasi nilai-nilai  Pancasila adalah sebagai berikut, kecuali …. a. Mendukung kebijakan pemerintah dalam penyelenggaraan negara yang  demokratis dan bebas dari KKN b. Berpartisipasi dalam rangka pelaksanaan pembangunan nasional c. Mengembangkan prinsip toleransi, bekerja sama dalam setiap perikehidupan d. Memajukan kesejahteraan umum serta mencerdaskan kehidupan bangsa  e. Bersikap terbuka terhadap perubahan yang berdampak pada kemaslahatan bangsa  B. Uraian  Jawablah pertanyaan di bawah ini dengan singkat dan jelas! 1. Pada hakikatnya kekuasaan negara menurut teori trias, Montesquie terdiri atas  kekuasaan legislatif, eksekutif, dan yudikatif. Berdsarkan hal tersebut, jelaskan jenis- jenis kekuasaan yang berlaku dalam penyelenggaraan negara di Republik Indonesia!.   2. Amandemen UUD NRI Tahun 1945 berdampak pada penyelenggaraan pemerintahan  Negara. Jelaskan karakteristik pemerintahan Indonesia setelah dilakukannya  perubahan UUD Negara Republik Indonesia Tahun 1945!  3. Pada dasarnya selain memiliki Kementerian Negara, pemerintah Republik Indonesia  memiliki Lembaga Pemerintah Non-Kementerian yang dahulu dikenal dengan istilah  lembaga pemerintahan non-departemen. Jelaskan dan berikan contoh Lembaga  Pemerintah Non-Kementerian Republik Indonesia!  4. Pada hakikatnya Kementerian Negara Republik Indonesia mempunyai tugas  menyelenggarakan urusan tertentu dalam pemerintahan di bawah dan bertanggung  jawab kepada Presiden. Sebutkan 3 (tiga) tugas kementerian negara dalam  menyelenggarakan pemerintahan negara!  5. Pada hakikatnya keberadaan pemerintah daerah menunjang pemerintah pusat dalam  menjalankan efektifitas dan efisiensi pemerintahan Negara. Jelaskan pentingnya  keberadaan pemerintahan daerah dalam proses penyelenggaraan pemerintahan di Republik Indonesia.!</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>1.A</p><p>2.mengutamakan persatuan </p><p>3.lembaga yg tidak terus digunakan oleh pemerintah contoh:bank</p><p>4.menjaga solidaritas,membantu masyarakat yg kurang mampu,dan memberikan bantuan pendidikan</p><p>5.agar proses penyelenggaraan suatu acara dapat dibantu dengan mudah oleh pemerintah daerah atau pemerintah setempat</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="23-pemerintah-kolonial-belanda-berusaha-menghambat-gerak-partai-dan-organisasi-kebangsaan-terutama-terhadap-organisasi-yang-bersifat-nonkooperatif-dengan-caraa-melakukan-ancaman-penjara-bagi-indiv">
+                            13. 23. Pemerintah kolonial belanda berusaha menghambat gerak partai dan organisasi kebangsaan, terutama terhadap organisasi yang bersifat nonkooperatif dengan cara
+A. melakukan ancaman penjara bagi individu-individu yang terlibat dalam organisasi
+B. Mempersulit perizinan untuk mengadakan diskusi maupun rapat-rapat besar
+C. Melakukan penangkapan dan pembuangan bagi para pemimpin organisasi
+D. Melarang penggunaan nama indonesia sebagai nama organisasi
+E. Memungut anggaran besar bagi setiap organisasi
+24. Gerakan perempuan terpelajar berkembang dengan cara di berbagai daerah di Indonesia, perempuan turut aktif dan berafiliasi dengan organisasi dan partai politik dengan tujuan
+A. mewujudkan kemerdekaan
+B. mengembangkan wawasan politik
+C. Memperkuat gerakan kebangsaan
+D. Mendorong emansipasi perempuan
+E. Memperjuangkan hak-hak perempuan
+25. Sumpah pemuda mempunyai nilai simbolik yang penting dalam proses pembentukan bangsa, artinya
+A. Menunjukkan identitas masing-masing organisasi untuk membeli yang terbaik
+B. Setiap pemuda berlomba menunjukkan keunggulan visi dan misi organisasinya
+C. Penggerak nasional tidak lagi bersifat kesukuan dan memiliki tujuan yang sama
+D. Mengukuhkan rasa solidaritas antar pemuda di masing-masing wilayah
+E. Membatasi peran pemuda dalam organisasi
+26.Berikut ini yang bukan menjadi latar belakang kegagalan penerapan demokrasi di awal kemerdekaan adalah
+A. Tidak stabil nya kondisi politik karena kembalinya Belanda untuk menguasai Indonesia 
+B. Muncul berbagai gerakan sporadis di beberapa wilayah di indonesia
+C.Belum terbentuknya lembaga-lembaga legislatif
+D. Keinginan presiden menerapkan dwifungsi ABRI
+E. Terjadinya pemusatan kekuasaan
+27. Isi maklumat pemerintah 3 november 1945 adalah
+A. KINP berubah menjadi lembaga legislatif
+B. Pembentukan perda partai politik di indonesia
+C. Menetapkan Bukittinggi dia sebagai pemerintahan Darurat Republik Indonesia (PDRI) 
+D. Perubahan sistem pemerintahan presidensial menjadi sistem pemerintahan parlementer
+E. Segala kekuasaan di jalankan oleh presiden dibantu oleh Komite Nasional Indonesia Pusat (KINP) 
+28. Penerapan demokrasi liberal di indonesia membuat terjadinya ketidakstabilan politik karena
+A. Anggota partai kebanyakan bukan golongan terpelajar
+B. Masalah ekonomi tidak diperhatikan oleh partai partai
+C. Penerapan demokrasi liberal di indonesia tidak didukung oleh kalangan militer
+D. Masing-masing partai dalam kabinet mengutamakan kepentingan golongan sehingga menimbulkan konflik
+E. Terlalu sering berganti kabinet akibat mosi tidak percaya dari partai lawan sehingga program kabinet tidak maksimal
+29. Berikut yang bukan ciri pokok demokrasi kepemimpinan adalah
+A. Pelaksanaan ajaran presiden soekarno
+B. Kedudukan lembaga tinggi negara cenderung di bawah presiden 
+C. Partai-partai dapat menciptakan suasana demokratis
+D. Kuatnya kedudukan dalam pemerintahan
+E. Orientasi sistem ekonomi yang sesuai dengan manipool
+30. Perhatikan data data berikut
+1. Membina terwujudnya persatuan dan kesatuan
+2. Pemerintah dijalankan berdasarkan konstitusi
+3. Pemilu dilaksanakan secara berkesinambungan
+4. Mengimplementasikan bhineka tunggal ika
+5. Penghargaan terhadap HAM dan hak-hak minoritas
+Ciri pokok demokrasi pancasila masa orde baru ditunjukkan pada nomor
+A. 1,2 dan 3
+B.1,2 dan 4
+C. 2,3 dan 4
+D. 2,3 dan 5 
+E. 3,4 dan 5
+31.Perhatikan informasi berikut
+1. Kekuasaan presiden sebagai pemegang kekuasaan eksekutif berkurang dengan diterapkannya otonomi daerah (desentralisasi)
+2. Sistem perekonomian yang kegiatannya diatur dan dikendalikan pemerintah
+3 sebagai pemegang kekuasaan eksekutif presiden harus berbagi dengan DPR sehingga unsur legislatif 
+4. Demokrasi yang konstitusional dan mengedepankan kepentingan presiden
+Demokrasi pancasila yang dilaksanakan pada masa reformasi mencatat beberapa hal penting yang ditunjukkan oleh nomor
+A. 1 dan 2
+B. 1 dan 3
+C.2 dan 3
+D. 2 dan 4
+E. 3 dan 4
+Bantu jawab... </h2><br />
+                        23. A<br />24. B<br />25. D<br />26. D <br />30. B<br />29. A<br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah">
+                            14. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia ialah ....</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>dasar pengembangan / pelaksanaan dari demokrasi adalah:</p><p> bentuk atau sistem pemerintahan yang seluruh rakyatnya turut serta memerintah dengan perantaraan wakilnya.</p><p></p><p>smoga membantu ya</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-adalah">
+                            15. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia adalah</h2><br />
+                        <p><strong>jawabannya</strong><strong> </strong><strong>pancasila</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="10-ideologi-adalah-seperangkat-ide-asasi-tentangmanusia-dan-seluruh-realitas-yang-dijadikanpedoman-dan-cita-cita-hidup-kalimat-tersebutmerupakan-pendapat-dari-a-ir-soekarnob-mr-moh-yamindrs">
+                            16. -10. Ideologi adalah seperangkat ide asasi tentangmanusia dan seluruh realitas yang dijadikanpedoman dan cita-cita hidup. Kalimat tersebutmerupakan pendapat dari....a Ir. Soekarnob. Mr. Moh YaminDrs. Moh Hattad. Gunawan Setiardjo11. Pancasila merupakan pedoman dan petunjukyang mampu memberikan arah bagi bangsaIndonesia merupakan kedudukan Pancasilasebagaia. dasar Negarab. pandangan hidup bangsac. jiwa dan kepribadian bangsad. cita-cita bangsa12. Pancasila merupakan ideologi yang berbedadengan ideologi negara lain, karena Pancasilabersumber dari....a. kepribadian bangsa Indonesiab. tradisi yang turun-temurunc. budaya bangsa yang agungd. ajaran paraleluhur13. Setiap warga negara wajib mengembangkanpergaulan demi persatuan dan kesatuanbangsa yang ...a. ber-Bhinneka Tunggal Ikab. memiliki keanekaragaman budayac. menjunjung semangat persaudaraand. terbina sejak nenek moyang kita14. Secara singkat dapat disimpulkan bahwaPancasila sebagai ideologi nasional berfungsisebagai tujuan atau cita-cita dari bangsaIndonesia sebagai ....a. modal dasar dalam pembangunanb. pemersatu berbagai umat beragamac. sarana pemersatu bangsad. sarana memahami hukum yang berlaku15. Berikut ini yang merupakan butir-butirpengamalan Pancasila sila Kerakyatan yangDipimpin oleh Hikmat Kebijaksanaan dalamPermusyawaratan/Perwakilan adalah ....a. berani membela kebenaran dan keadilanb. mengembangkan rasa cinta kepada tanahair dan bangsac. menjaga keseimbangan antara hak dankewajiband. mengutamakan musyawarah dalammengambil keputusan16. Tujuan dan fungsi moral adalah pengamalannilai dan norma, sekaligus perwujudan ....a. nilai-nilai dasar manusiab. harkat martabat kepribadian manusiac. hak-hak dasar manusiad. sikap kepribadian manusia17. Pancasila sila kesatu menuntun manusiauntuka. memperhatikan peribadatan orang lainb. membantu tetangga yang kekuranganc. percaya dan takwa terhadap Tuhan YMEd. mempelajari agama/kepercayaan orang lain18. Sila Persatuan Indonesia dari Pancasilamengembangkan nilai-nilaia. pengakuan keberadaan bangsa Indonesiab. pengakuan bahwa bangsa Indonesiabangsa yang beraneka ragamc. bangsa Indonesia terdiri atas berbagai sukubangsad. hanya satu kebudayaan yang dilindunginegara19. Sikap yang sesuai dengan nilai-nilai Pancasilamerupakan sesuatu sikap yang menunjukkankebanggaan dan kesetiaan serta komitmenuntuka. menjalankan Pancasila dalam kehidupansehari-harib. mempelajari nilai-nilai Pancasila danberusaha memasyarakatkanc. mengkaji nilai-nilai yang terkandung didalam Pancasilad. mempelajari nilai-nilai Pancasila danberusaha menjaganya20. Nilai-nilai keadilan menganjurkan agar kitamenjaga keseimbangan antara ...a. tugas dan tanggung jawabb. kepentingan pribadi dan golonganc. kepentingan sekarang dan yang akandatangd. hak dan kewajiban21. Di dalam Pembukaan UUD 1945 alinea ke-4ditegaskan bahwa pembentukan pemerintahannegara Indonesia dilandasi oleh ....a. Pancasilab. undang-undangc. hukum dasar tertulisd. semangat persatuan22. Dengan kedudukan Pancasila sebagai dasarnegara dan pandangan hidup, maka Pancasilaa. wajib diamalkan oleh seluruh pejabat negarab. wajib dilaksanakan oleh seluruh rakyatIndonesiac. perlu dipahami oleh generasi mudad. perlu dipelajari oleh tokoh masyarakat23. Ciri atau karakteristik yang terkandung dalamnilai-nilai Pancasila sila keempat merupakansendi utama demokrasi di Indonesia berdasaratas asas ....a. persatuan dan kebersamaanb. kebersamaan dan kekeluargaanc. musyawarah dan asas kekeluargaand. musyawarah dan asas kebersamaan15PPKn/VIII/ Ganjil​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>11.b</p><p>12.a</p><p>13.c</p><p>14.c</p><p>15.d</p><p>16.a</p><p>17.c</p><p>18.a</p><p>19.a</p><p>20.d</p><p>21.a</p><p>22.b</p><p>23.c</p><p></p><p><strong>semoga</strong><strong> </strong><strong>membantu</strong><strong> </strong><strong>ya</strong><strong>:</strong><strong>)</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tolong-jawab-inipengetahuan-yang-membahas-tentang-nasionalisme-hubungan-antara-warganegara-dengan-negara-antara-warganegara-dan-hak-asasi-manusia-adalah-a-pancasila-c-demokrasib-kewarganeg">
+                            17. Tolong jawab ini!!!
+Pengetahuan yang membahas tentang nasionalisme, hubungan antara warganegara dengan negara, antara warganegara dan hak asasi manusia adalah :
+A. Pancasila C. Demokrasi
+B. Kewarganegaraan D. Good Governance
+2. Pendidikan kewargaan yang dijadikan sumber nilai dalam proses pengembangan dan penyelenggaraan program studi dalam rangka menghan tarkan mahasiswa memantapkan kepribadiannya, merupakan :
+A. Visi Pendidikan Kewarganegaraan C. Misi Pendidikan Kewarganegaraan
+B. Strategi Pendidikan Kewarganegaraan D. Kompetensi Pendidikan Kewarganegaraan
+3. Pendidikan kewarganegaraan yang digunakan untuk membantu mahasiswa mengembangkan kepribadiannya agar konsisten dalam menerapkan ilmu dan pengetahuan yang se suai dengan nilai-nilai Pancaila adalah :
+A. Visi Pendidikan Kewarganegaraan C. Misi Pendidikan Kewarganegaraan
+B. Strategi Pendidikan Kewarganegaraan D. Kompetensi Pendidikan Kewarganegaraan
+4. Setelah mengikuti pendidikan kewargaan, maka mahasiswa akan memiliki Civics knowlegde, civics disposition/attitude dan ciivics skills/know-how, adalah :
+A. Visi Pendidikan Kewarganegaraan C. Misi Pendidikan Kewarganegaraan
+B. Strategi Pendidikan Kewarganegaraan D. Kompetensi Pendidikan Kewarganegaraan
+5. Pendidikan Kewarganegaraan termasuk dalam kelompok pengetahuan rumpu-rampe (m ultidisipliner, yaitu yang terdiri dari , kecuali:
+A. Ilmu Filsafat C. Ilmu Hukum
+B. Imu Politik D. Ilmu Bumi.
+6. Setiap orang yang memiliki hubungan timbal balik (hak dan kewajiban) terhadap negara, disebut:
+A. Wargnegara C. Rakyat
+B. Penduduk D. Masyarakat
+7. Lima (5) unsur dasar bela negara sebagaimana disebutkan dibawah ini, kecuali:
+A. Kesadaran berbangsa dan bernegara C. Cinta tanah air
+B. Yakin Pancasila sebagai Dasar Negara D. Menolak wajib militer
+8. Berikut ini adalah bentuk pembelaan negara oleh masyarakat, kecuali :
+A. Masuk menjadi anggota TNI C. Masuk menjadi POLRI
+B. Mengintimidasi warganegara asing. D. Menjalankan tugas dengan tanggungjawab9. Seseeorang yang mendapatkan kewarganegaraannya karena tempat kelahiran, disebut :
+A. Ius Sanguinis C. Ius Soli
+B. Natutalisasi D. Kesamaan hukum
+10. Seseorang yang memiliki 2 (dua) kewarganegaraan, disebut:
+A. Apartheid C. Bipartheid
+B. Treepartheid D. Mutlipartheid
+11. Berikut ini adalah fungsi yang harus dijalankan oleh negara, kecuali:
+A. Melaksanakan ketertiban C. Mengusahakan kesejahteraan rakyatnya
+B. Mempertahankan kelangsungan hidup negara. D. Meminjam uang dari negara lain.
+12. Yang berikiut ini adalah prinsip-perinsip kewarganegaraan, kecuali:
+A. Ius Soli C. Ius Sanguinis
+B. Natuiralisasi D. Kestuan Hukum
+13. Seorang anak yang kebetulan kedua orangtuanya berlibur di suatu negara yang menganut prinsip IUS SOLI, namun orang tuannya kedua orang tuanya berasal dari negara yang mengant pprinsip Ius Sanguinis makn anak yang dilahirkan mendapat status kewarganegaraan :
+A. Apartheid C. Bipartheid
+B. Treepartheid D. Multipartheid
+14. Nasionalisme Indonesia dibangun atas fondasi /fondasi :
+A. Perkembangan Ipteks C. Ingin memperluas wilayah negara Indonesia
+B. Memperluas wilayah perdaagangan. D. Reaksi terhadap penjajahan/kolonialisme asing.
+15. Berikut ini adalah Unsur Pembentuk Identitas Nasional , kecuali :
+A. Agama C. Bahasa
+B. Lambang Negara D. Kebudayaan
+16. Pilar negara Indonesia menurut Alm. Taufik Kiemas, adalah :
+A. Pancasila C. Otonomi daerah
+B. Dekonsentrasi D. Negara Kepualauan
+17. Integrasi nasional dinyatakkan penting, karena negara Indonesia merupakan negara yang heterogen dalam berbagai aspek, kecuali:
+A. Suku C. Agama
+B. Ideologi negara D. Budaya
+18. Abraham Lincol (Mantan Presiden USA) menyatakan bahwa hakekat Demokrasi adalah :
+A. Rakyat tidak perlu mengontrol pemerintah
+B. Pemeritah menjalankan kekuasaan sesuai dengan keinginaginnya
+C. Pemerintahan harus didukung rakyat
+D. Rakyat sebagai obyek negara
+19. Kebebasan sebagai salah satu nilai demokrasi memiliki pemahaman dasar berikut ini, kecuali:
+A. Bebas dalam menentukan pilihan pekerjaan yang layak
+B. Bebas dari tekanan penguasa/orang lain
+C. Bebas menjalankan ibadah menurut keryakinan
+D. Bebas melakukan aktivitas yang bertentangan dengan nilai dan norma hukum.
+20. Hak-hak dasar sebagai salah satu nilai demokrasi yang tercantum dalam Undang Undang Dasar 1945, adalah :
+A. Pegawai negera/pemerintah hanya untuk kelompok orang tertentu saja
+B. Pegawai negeri dilarang memiliki anak lebih dari tiga orang
+C. Hanya TNI dan Polisi yang berwenang mempertahankan negara
+D. Pendidikan terbuka bagi semua warganegara.</h2><br />
+                        <p>Berikut ini jawaban pertanyaan pilihan ganda yang membahas mengenai <strong>Kewarganegaraan</strong> : </p><p>1. B. Kewarganegaraan. </p><p>2. A. Visi pendidikan kewarganegaraan. </p><p>3. C. Misi pendidikan kewarganegaraan. </p><p>4. D. Kompetensi pendidikan. </p><p>5. D. Ilmu bumi. </p><p>6. A, Warganegara. </p><p>7. D. Menolak wajib militer.</p><p>8. B. Mengintimidasi warga asing. </p><p>9. B. Lus Soli. </p><p>10. C. Bipartheid. </p><p>11. D. Meminjam uang dari negara lain. </p><p>12. D. Kesatuan hukum. </p><p>13. C. Bipartheid. </p><p>14. D. Reaksi terhadap penjajahan/kolonialisme asing.</p><p>15. A. Agama. </p><p>16. A. Pancasila. </p><p>17. B. Ideologi negara. </p><p>18. C. Pemerintah harus didukung rakyat. </p><p>19. D. Bebas melakukan aktivitas yang bertentangan dengan nilai dan norma hukum. </p><p>20. D. Pendidikan terbuka bagi semua warga negara. </p>Pembahasan <p>1. Jawaban adalah <strong>kewarganegaraan</strong> karena berdasarkan pendapat sejumlah ahli, <strong>pendidikan kewarganegaraan</strong> secara teoritis berarti ilmu tentang kewarganegaraan, hubungan antar manusia baik secara individual atau kelompok maupun hubungan manusia dengan negaranya. </p><p>2. Jawaban adalah <strong>visi pendidikan kewarganegaraan</strong> karena sebuah visi biasanya berlandaskan pada sumber nilai, peraturan dan prinsip tertinggi. </p><p>3. Jawaban adalah <strong>misi pendidikan kewarganegaraan</strong> karena bentuk misi bisa berupa langkah-langkah sebagai upaya untuk menerapkan dan mengamalkan nilai-nilai atau prinsip tertinggi yang dalam hal ini disebutkan adalah Pancasila. </p><p>4. Jawaban adalah <strong>kompetensi pendidikan kewarganegaraan.</strong> Bahwa kompetensi merupakan standar baku yang menjadi tujuan atau target yang akan dicapai dalam program pendidikan. </p><p>5. Jawaban adalah ilmu bumi, karena ilmu bumi tidak termasuk dalam <strong>kelompok pendidikan kewarganegaraan</strong>. </p><p>6. Jawaban adalah <strong>warganegara</strong>. Karena hubungan timbal balik (hak dan kewajiban) berkaitan dengan hubungan masyarakat sebagai individu terhadap negara. Oleh karena itu disebut warga negara. </p><p>7. Jawaban adalah menolak wajib militer karena sikap menolak wajib militer merupakan sikap yang tidak bersedia mematuhi <strong>kewajiban bela negara</strong>.</p><p>8. Jawaban adalah mengintimidasi <strong>warga asing</strong>. Sebab tindakan mengintimidasi merupakan tindakan yang mengganggu orang lain meski orang tersebut adalah warga asing atau berasal dari negara lain. </p><p>9. Jawaban adalah <strong>Los Soli</strong>, karena definisi los soli adalah azas yang mendasarkan penentuan <strong>status kewarganegaraan</strong> seseorang berdasarkan tempat kelahiran. </p><p>10. Jawaban adalah <strong>Bipartheid</strong>. Bi artinya dua, partheid berarti kewarganegaraan. </p><p>11. Jawaban adalah meminjam uang dari negara lain, karena hal tersebut bukan termasuk <strong>fungsi yang harus dijalankan negara</strong>. </p><p>12. Jawaban adalah kesatuan hukum. Karena <strong>kesatuan hukum </strong>berkaitan dengan bidang hukum, tidak termasuk <strong>prinsip-prinsip kewarganegaraan</strong>. </p><p>13. Jawaban adalah <strong>Bipartheid</strong>. Karena anak tersebut memiliki <strong>2 kewarganegaraan</strong> yaitu warga negara dari negara tempatnya dilahirkan dari warga negara dari kedua orang tuanya. </p><p>14. Jawaban adalah reaksi terhadap penjajahan/kolonialisme asing. Karena salah satu <strong>tujuan nasionalisme</strong> adalah menjamin kemauan dan kekuatan mempertahankan masyarakat nasional melawan musuh dari luar sehingga melahirkan semangat rela berkorban. </p><p>15. Jawaban adalah agama, karena agama mengatur <strong>hubungan manusia terhadap Tuhan</strong>. </p><p>16. Jawaban adalah Pancasila. Menurut almarhum Taufik Kiemas, <strong>pilar negara Indonesia</strong> ada 4 yaitu Pancasila, UUD 1945, NKRI dan Bhinneka Tunggal Ika. </p><p>17. Jawaban adalah <strong>ideologi negara</strong>, karena ideologi negara hanya satu, tidak beraneka ragam atau heterogen. </p><p>18. Jawaban adalah pemerintah harus didukung rakyat karena <strong>demokrasi </strong>menurut Lincoln adalah suatu pemerintahan dari rakyat, oleh rakyat dan untuk rakyat. </p><p>19. Jawaban adalah bebas melakukan aktivitas yang bertentangan dengan nilai dan norma hukum. Karena <strong>prinsip demokrasi</strong> adalah memberikan kebebasan kepada rakyat untuk mendapatkan haknya namun tetap harus sesuai dengan <strong>norma dan hukum </strong>yang berlaku.</p><p>20. Jawaban adalah pendidikan terbuka bagi semua warga negara. Karena memperoleh <strong>pendidikan merupakan hak dasar</strong> yang dimiliki setiap warga negara berdasarkan konstitusi. </p>Pelajari lebih lanjut Materi tentang kewarganegaraan https://brainly.co.id/tugas/47382700Materi tentang pengertian demokrasi https://brainly.co.id/tugas/14161670Materi tentang macam-macam status kewarganegaraan https://brainly.co.id/tugas/13891184Detail jawaban <p><strong>Kelas</strong> : Sekolah Menengah Atas </p><p><strong>Mata pelajaran</strong> : PPKN</p><p><strong>Bab</strong> : 5 - Warga Negara Indonesia </p><p><strong>Kode</strong> : 10.9.5</p><p><strong>#AyoBelajar</strong></p><p><strong>#SPJ2</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">
+                            18. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia, yaitu.....</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>pancasila</strong></p><p><strong>UUD </strong><strong>1</strong><strong>9</strong><strong>4</strong><strong>5</strong></p><p></p><p></p><p></p><p><strong>Penjelasan:</strong></p><p>Pancasila merupakan ideologi negara , selain itu Pancasila juga dijadikan dasar demokrasi yang diterapkan diindonesia , karena karakteristik Pancasila yg sesuai dengan karakter bangsa Indonesia</p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu-%e2%80%a6">
+                            19. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia, yaitu ….?</h2><br />
+                        <p>Dasar pengembangan dan pelaksanaan <strong>demokrasi </strong>yang berjalan di indonesia, yaitu <strong>Pancasila</strong>, <strong>Undang-Undang Dasar 1945</strong>, dan <strong>Ketetapan Majelis Permusyawaratan Rakyat</strong>.</p><p>Penjelasan:</p><p>Indonesia merupakan negara hukum dan demokrasi. Ciri dari negara demokrasi salah satunya adalah kedaulatan berada di tangan rakyat. Pernyataan tersebut tertuang dalam <strong>Pembukaan UUD 1945.</strong></p><p><strong>Pancasila, Undang-Undang Dasar 1945, dan TAP MPR</strong> menjadi landasan formal yang berlaku di Indonesia pada masa Orde Baru. Oleh karena itu, periode ini disebut juga dengan demokrasi Pancasila.</p><p><strong></strong></p><p><strong>Pelajari lebih lanjut</strong></p><p>Pelajari lebih lanjut tentang Dasar Pelaksanaan Demokrasi pada https://brainly.co.id/tugas/26237808</p><p><strong>#BelajarBersamaBrainly</strong></p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu-a-pancasilab-tapi-mprc-keputusan-presidend-pembukaan-uud-1945e-batang-tubuh-uud-1945%e2%80%8b">
+                            20. dasar pengembangan dan pelaksanaan Demokrasi yang berjalan di Indonesia yaitu....a. pancasilab. tapi mprc. keputusan presidend. pembukaan UUD 1945e. batang tubuh UUD 1945​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a.pancasila</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah.</p><p><strong>Jawaban:</strong></p><p>a. pancasila
+</p><p><strong>Penjelasan:</strong></p><p>Pancasila adalah dasar negara indonesia dan sebagai pedoman kehidupan bangsa indonesia.</p><p></p><p>Jadikan Jawaban Tercerdas Ya :)</p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah-%e2%80%8b">
+                            21. dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia ialah ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pancasila</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="c-jawablah-pertanyaan-pertanyaan-dibawah-ini-dengan-benar1-sebutkan-upaya-yang-dapat-dilakukan-untuk-mempertahankan-pancasila-jawablah-menyelesaikan-masalah-dengan-musyawarah-saling-mengharga">
+                            22. C. Jawablah pertanyaan pertanyaan dibawah ini dengan benar!
+1. Sebutkan upaya yang dapat dilakukan untuk mempertahankan pancasila 
+ Jawablah : menyelesaikan masalah dengan musyawarah 
+saling menghargai 
+tetap menjujung tinggi nilai kesatuan dan kesatuan 
+bertanggung jawab 
+tidak mudah terpengaruh oleh budaya asing 
+toleransi dan saling tolong menolong antar sesama
+2. Jelaskan bahwa sikap setia terhadap ideologi pancasila sangat penting dikembangkan karena alasan sejarah!
+ Jawaban : karena ideologi Pancasila sudah diterapkan dan diamalkan oleh pejuang bangsa Indonesia. sudah dilaksanakan sebelum NKRI merdeka. jadi sikap setia terhadap Ideologi Pancasila sangat penting karna bisa mencerminkan sikap cinta terhadap tanah air dan menghargai pejuang bangsa
+3. sebutkan tindakan yang menunjukkan pengamalan Pancasila sila ketiga sesuai pokok pikiran pembukaan uud 1945 
+ Jawaban : Tindakan yang mengamalkan sila ketiga : Bangga dan cinta terhadap tanah air dan bangsa. Mengembangkan sikap saling menghargai. Memajukan pergaulan demi peraturan bangsa.
+4. Sebutkan faktor faktor yang menyebabkan ideologi menjadi sesuatu yang sangat penting bagi kelangsungan hidup suatu bangsa 
+ Jawaban : 1. Ideologi merupakan tujuan hidup bangsa
+2. dengan ideologi kita bisa melihat hal-hal yang memang ingin dicapai suatu negara
+3.sebagai pandangan hidup bangsa
+5. Jelaskan yang dimaksud nilai nilai pancasila yang bersifat objektif
+ Jawaban : Nilai-nilai Pancasila bersifat objektif, maksudnya: 1) Rumusan dari Pancasila itu sendiri memiliki makna yang terdalam, menunjukan adanya sifat umum Universal dan abstrak. 3) Pancasila dalam Pembukaan UUD 1945 merupakan sumber dari segala sumber hukum di Indonesia.
+6. Sebutkan ciri ciri penerapan ideologi terbuka
+ Jawaban : Merupakan kekayaan rohani, budaya, dan masyarakat.
+Tidak diciptakan oleh negara, tetapi digali dari budaya masyarakat.
+Isinya tidak instan atau operasional, sehingga tiap generasi boleh menafsirkannya.
+Menginspirasi masyarakat untuk bertanggung jawab.
+7. sebutkan karakterisitik ideologi pancasila yang membedakan dengan ideologi ideologi lainnya
+ Jawaban : Pertama: Tuhan Yang Maha Esa Kedua : ialah penghargaan kepada sesama umat manusia apapun suku bangsa dan bahasanya. Ketiga : bangsa Indonesia menjunjung tinggi persatuan bangsa. Keempat : bahwa kehidupan kita dalam kemasyarakatan dan bernegara berdasarkan atas sistem demokrasi. Kelima : Keadilan Sosial bagi seluruh rakyat Indonesia.
+8. sebutkan fungsi pancasila bagi negara indonesia
+ Jawaban : Sebagai pandangan hidup bangsa, Pancasila memiliki fungsi utama sebagai dasar negara Indonesia. Pancasila menempati kedudukan yang paling tinggi, sebagai sumber dari segala sumber hukum atau sebagai sumber hukum dasar nasional dalam tata hukum di Indonesia.
+9. Jelaskan bahwa pancasila bersifat subjektif
+ Jawaban : dikatakan bersifat subjektif karena: Nilai-nilai Pancasila timbul dari bangsa Indonesia. ... Nilai-nilai Pancasila adalah pandangan hidup bangsa Indonesia, sehingga menjadi jati diri bangsa yang diyakini sebagai sumber nilai kebenaran.
+10.Sebutkan nilai nilai yang terkandung dalam pancasila sebagai ideologi negara
+ Jawaban : 1. Ketuhanan Yang Maha Esa. Yaitu meyakini adanya Tuhan yang diwujudkan dalam ketaatan kepada Tuhan Yang Maha Esa, dengan menjalankan segala perintah-Nya dan menjauhi segala larangannya. 2.Kemanusiaan Yang Adil dan Berarab. Mengandung rumusan sifat keseluruhan budi manusia Indonesia yang mengakui kedudukan manusia yang sederajat. 3.Persatuan Indonesia Merupakan perwujudan dari paham kebangsaan Indonesia yang mengatasi paham perseorangan, suku bangsa, dan mendahulukan persatuan dan kesatuan bangsa. 4.Kerakyataan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan Perwakilan Merupakan sendi utama demokrasi di Indonesia berdasar atas asas musyawarah dan asas kekeluargaan 5.Keadilan Sosial bagi Seluruh Rakyat Indonesia. Merupakan salah satu tujuan negara yang hendak mewujudkan tata masyarakat Indonesia yang adil dan makmur berdasarkan pancasila</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>dek soalnya mana dek </p><p>tolong tulis/foto lagi</p><p>soalnya yg adik kasih itu soal sama jawabannya^_^</p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah-%e2%80%a6">
+                            23. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia ialah ….</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>adalah negara demokrasi tentu memiliki dasar. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia, yaitu Pancasila, Undang-Undang Dasar 1945, dan TAP MPR.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-adalah">
+                            24. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia adalah ......</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia, yaitu Pancasila, Undang-Undang Dasar 1945, dan TAP MPR.</p><p><strong>Penjelasan:</strong></p><p>Semoga membantu ^_^</p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-ialah">
+                            25. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia ialah......</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pancasila karena Pancasila merupakan ideologi negara</p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yg-berjalan-di-indonesia-ialah">
+                            26. Dasar pengembangan dan pelaksanaan demokrasi yg berjalan di Indonesia ialah.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia, yaitu Pancasila, Undang-Undang Dasar 1945, dan TAP MPR.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="22-dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu-%e2%80%a6-%e2%80%8b">
+                            27. 22. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia, yaitu ….​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Demokrasi di Indonesia adalah suatu prosessejarah dan politik perkembangan demokrasidi dunia secara umum, hingga khususnya diIndonesia, mulai dari pengertian dan konsepsidemokrasi menurut para tokoh dan founding fathers Kemerdekaan Indonesia, terutamaSoekarno, Mohammad Hatta, dan Soetan Sjahrir. Selain itu juga proses ini menggambarkan perkembangan demokrasi di Indonesia, dimulai saat Kemerdekaan Indonesia, berdirinya Republik Indonesia Serikat, kemunculan fase kediktatoranSoekarno dalam Orde Lama dan Soehartodalam Orde Baru, hingga proses konsolidasi demokrasi pasca Reformasi 1998 hingga saat ini.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="apa-dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia">
+                            28. Apa dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia </h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pancasila dan uud tahun 1945</p><p></p><p>maaap klo salah :D</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="9-susunan-negara-republik-indonesia-yangberkedaulatan-rakyat-hendaknya-didasarkanpada-nilai-nilai-a-ketuhananb-persatuan-dan-kesatuanc-keadilan-dan-kemanusiaand-ketuhanan-perikemanusiaan-pe">
+                            29. 9. Susunan Negara Republik Indonesia yangberkedaulatan rakyat hendaknya didasarkanpada nilai-nilai ....a. ketuhananb. persatuan dan kesatuanc. keadilan dan kemanusiaand. ketuhanan, perikemanusiaan, persatuan,permusyawaratan, dan keadilan10. Berikut arti dari asas kekeluargaan dalam koperasiadalah ....a. kesadaran anggota untuk melaksanakankegiatan koperasi oleh, dari, dan untuk semuaanggota di bawah kepengurusan koperasib. berjuang dan berkoban bersama memajukankoperasic koperasi dijalankan dengan merekrutmenkeluarga terdekatd. koperasi soko guru perekonomian Indonesia11. Koperasi dibentuk oleh para anggota dijalankanoleh anggota dan hasilnya untuk kepentingananggota. Hal ini keunggulan koperasi, yaitua. persatuanb. pendidikanc. dasar persamaand. demokrasi ekonomie demokrasi kooperatif12. Tiap warga negara harus bekerja saa dalammewujudkan keamanan dan pertahanan negara.Kerja sama ini merupakan bagian dari contohsikapa. bela negarab. saling menolongc. adil kepada sesamad. pantang menyerah13. Dalam mengembangkan kerja sama di berbagaibidang kehidupan perlu menghindari sikapa. fanatik yang sempit dan individualisb. gotong royong dan persatuanc. sosial yang tinggid. kekeluargaan14. Sikap selalu memisahkan diri dari kehidupan sosialdi masyarakat karena adanya jurang pemisahakibat perbedaan suku bangsa, adat istiadat,agama, dan bahasa daerah disebuta individualismeb. primedalismec.ekslusivismed.egoismetolong bantu ya kak ,makasih...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>9) d</p><p>10)a</p><p>11)c</p><p>12)d</p><p>13)a</p><p>14)a</p><p></p><p><strong>Penjelasan:</strong></p><p>MAAF KALAU SALAH</p><p>#SEMOGA MEMBANTU</p><p>#JANGAN LUPA FOLLOW</p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">
+                            30. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia yaitu ...</h2><br />
+                        <p>Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia yaitu : Pasal ke 4 Pancasila yang mengandung nilai musyawarah dan demokrasi yang berbunyi = Kerakyatan yang dipimpin oleh Hikmat kebijaksanaan dalam permusyawaratan perwakilan.</p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">
+                            31. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia, yaitu </h2><br />
+                        <p><strong>Demokrasi </strong>yaitu merupakan bentuk atau sistem pemerintahan yang seluruh rakyatnya dan memerintah dengan perantaraan wakilnya. Selain itu, dapat dikatakan pula bahwa demokrasi adalah pemerintahan rakyat. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di Indonesia, yaitu <strong>Pancasila, Undang-Undang Dasar 1945, dan TAP MPR.</strong></p>Pembahasan<p><strong>Demokrasi </strong>yang digunakan bangsa Indonesia adalah demokrasi pancasila. <strong>Demokrasi Pancasila</strong> sendiri yaitu merupakan kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan dan perwakilan, yang berketuhanan, berperikemanusiaan yang adil dan beradab, serta mempersatukan Indonesia, dan bertujuan mencapai keadilan sosial bagi seluruh rakyat Indonesia.</p><p><strong>Ciri-ciri demokrasi Pancasila:</strong></p>Kedaulatan terdapat di tangan rakyat.Demokrasi berdasarkan kekeluargaan dan gotong royong.Cara pengambilan keputusan yaitu dengan jalan melalui musyawarah untuk mencapai mufakat.Adanya keselarasan antara hak dan kewajiban yang seimbang.Menghargai hak asasi manusia.Ketidaksetujuan terhadap kebijakan pemerintah yang bisa disalurkan melalui wakil-wakil rakyat.Tidak menganut sistem partai tunggal.Pemilihan umum yaitu juga dilaksanakan secara langsung, bebas, terbuka, jujur, dan adil.Tidak adanya dikatator atas mayoritas dan tirani minoritas.Mendahulukan kepentingan rakyat atau kepentingan bersama atau umum.Pelajari lebih lanjutMateri penjelasan tentang demokrasi terdapat pada link https://brainly.co.id/tugas/14161670Materi penjelasan tentang demokrasi Pancasila terdapat pada link https://brainly.co.id/tugas/2332894Materi penjelasan tentang demokrasi di Indonesia yaitu terdapat pada link https://brainly.co.id/tugas/8653977Detil Jawaban<p>Kelas  : SD/SMP</p><p>Mapel : PPKN</p><p>Bab     : -</p><p>Kode  : -</p><p><strong>#TingkatkanPrestasimu</strong></p><p><strong>#SPJ6</strong></p><br />
+                                            <h2 class="ez-toc-section" id="17-gotong-royong-adalah-kerjasama-yang-dilakukan-sejumlah-warga-masyarakat-untuk-menyelesaikan-tugas-atau-pekerjaan-sikap-gotong-royong-adalah-bekerja-sama-sama-dalam-menyelesaikan-pekerjaan-dan-me">
+                            32. 17.	Gotong royong  adalah kerjasama yang dilakukan sejumlah warga masyarakat untuk menyelesaikan tugas atau pekerjaan. Sikap gotong royong adalah bekerja sama-sama dalam menyelesaikan pekerjaan dan menikmati hasil pekerjaan tersebut secara adil. Kelebihan gotong  royong dibandingkan  bentuk kerja sama yang lainnya adalah …A.	dilakukan tanpa pamrih			C. dilakukan dalam berbagai kegiatanB.	dilakukan secara bersama			D. hasil yang didapat menguntungkan semua   pihak18.	Di sebuah kampung, ada kegiatan yang rutin dilakukan setiap hari minggu. Kegiatan ini dilakukan secara bersama-sama untuk membersihkan lingkungan sekitar rumah warga, jalan-jalan sepanjang kampung, dan  lapangan yang ada di kampung tersebut. Hal ini menunjukkan bentuk gotong royong, yaitu …A.	tolong menolong				C. kerja sosialB.	gugur gunung				D. kerja bakti19.	Musyawarah  untuk mufakat merupakan cerminan dari pelaksanaan  sila ke-4 Pancasila yang pada prinsipnya menegaskan bahwa bangsa Indonesia akan terus memelihara dan mengembangkan semangat bermusyawarah dalam perwakilan. Gambar  tersebut di atas merupakan bentuk kerjasama dalam kehidupan …A.	keamanan dan pertahanan				B.	sosial politik				C.	ekonomi D.	umat beragama20.	Dalam pasal 33 ayat 1 UUD Negara Republik Indonesia Tahun 1945 menyatakan “ Perekonomian disusun sebagai usaha bersama berdasarkan asas kekeluargaan “. Hal ini berarti dalam  kegiatan usaha ekonomi  digunakan prinsip kerjasama, saling membantu dalam suasana demokrasi ekonomi untuk mencapai kesejahteraan bersama secara adil. Salah satu bentuk kerjasama dalam bidang ekonomi yang diharapkan dalam pasal ini  adalah …A.	Firma					C. KoperasiB.	BUMN					D. CV​</h2><br />
+                        <p>Berikut jawaban soal-soal di atas:</p>(17) Gotong royong merupakan kerja sama yang dilaksanakan warga dengan kelebihan <strong>dilakukan secara bersama-sama (B). </strong>Jika dilakukan bersama-sama, segala sesuatu terasa mudah dan cepat selesai.(18) Pada suatu kampung terdapat kegiatan yang terlaksana tiap hari minggu. Kegiatan tersebut dilaksanakan dengan cara membersihkan lingkungan, berjalan-jalan bersama dan lain-lain. Ini menunjukkan bentuk dari gotong royong yakni <strong>Gugur Gunung (B).</strong>(19) Musyawarah dengan tujuan mufakat adalah cerminan pelaksanaan sila ke-4 Pancasila di mana ada semangat untuk mengembangkan permusyawaratan dalam perwakilan. Gambaran ini adalah bentuk kerja sama di dalam kehidupan <strong>sosial politik (B).</strong>(20) Pada Pasal 33 Ayat (1) UUD RI 1945 dinyatakan bahwa perekonomian disusun sebagai usaha bersama dengan berdasarkan pada asas kekeluargaan. Ini bermakna prinsip yang diterapkan adalah kerja sama, saling bantu dengan semangat demokrasi. Adapun salah satu bentuk kerja sama dalam bidang ekonomi yang diharapkan oleh Pasal 33 Ayat (1) adalah <strong>koperasi (C).</strong>Pembahasan<p>Jawaban untuk soal-soal di atas secara berturut-turut adalah B, B, B, dan C. Namun agar lebih yakin dengan jawaban terpilih, silahkan simak analisis semua opsi yang ada sebagai berikut:</p>(17) Jawaban yang benar adalah B, dilakukan bersama-sama. <strong>Gotong royong </strong>prinsipnya adalah dilaksanakan <strong>bersama-sama </strong>sehingga beban seberat apapun bisa terbagi, pekerjaan mudah dilaksanakan dan cepat selesai. Jawaban A, C dan D bisa juga dijumpai juga pada jenis kerja sama lainnya seperti kerja bakti.(18) Jawaban yang benar adalah<strong> Gugur Gunung (B). </strong>Gugur Gunung adalah salah satu bentuk gotong royong yang dilaksanakan masyarakat<strong> Gunung Kidul</strong>. Kegiatan dilaksanakan dengan membersihkan lingkungan kampung termasuk jalanan juga lapangan.(19) Jawaban yang benar adalah <strong>sosial politik (B). </strong>Perwakilan dalam hal ini maksudnya adalah <strong>wakil-wakil rakyat </strong>yang ada di pemerintahan sehingga tentu berkaitan dengan aspek politik.(20) Jawaban yang benar adalah <strong>koperasi (C).</strong> Koperasi ini adalah badan ekonomi yang berdasarkan pada <strong>prinsip kekeluargaan</strong> di mana tujuan pokoknya adalah<strong> kesejahteraan</strong> semua anggota secara adil dan merata.Pelajari Lebih LanjutMateri tentang 5 manfaat gotong royong dalam kehidupan sehari-hari https://brainly.co.id/tugas/5449410Materi tentang gotong royong merupakan ciri khas dan budaya masyarakat Indonesia  https://brainly.co.id/tugas/46989797Materi tentang bedanya demokrasi dengan gotong royong https://brainly.co.id/tugas/14155267<p>• • • • • • • • • • • • • • • • • • • • • • • • • • •</p>Detail Jawaban<p><strong>Kelas      : SMP</strong></p><p><strong>Mapel    : PPKN</strong></p><p><strong>Bab        : -</strong></p><p><strong>Kode      : -</strong></p><p></p><p><strong>#AyoBelajar</strong></p><p><strong>#SPJ2</strong></p><br />
+                                            <h2 class="ez-toc-section" id="i-1-berikut-wujud-partisipasi-terhadap-konstitusi-negara-yang-diterapkan-dalam-sekolah-kecuali-a-taat-dan-patuh-terhadap-tata-tertib-sekolahb-melaksanakan-program-kegiatan-osis-dengan-baik">
+                            33. 
+I. 
+1. Berikut wujud partisipasi terhadap konstitusi negara yang diterapkan dalam sekolah, kecuali....
+a. taat dan patuh terhadap tata tertib sekolah
+b. melaksanakan program kegiatan OSIS dengan baik
+c. mengembangkan sikap sadar dan rasional
+d. melaksanakan hasil keputusan bersama
+e. taat dan patuh terhadap orang tua
+2. Wujud partisipasi terhadap konstitusi negara dapat dimulai dari....
+a. negara
+b. diri sendiri
+c. pemerintah
+d. keluarga
+e. masyarakat
+3. Hubungan pembukaan teradap pasal-pasal UUD 1945 adalah hubungan yang bersifat....
+a. kausa-organik
+b. satu kesatuan yang erat
+c. hierarki piramida
+d. penjelasan
+e. sistematis
+4. Aturan untuk mengubah UUD 1945 diatur didalam....
+a. Pasal 36 UUD 1945
+b. Pasal 35 UUD 1945
+c. Pasal 37 UUD 1945
+d. Pasal 27 UUD 1945
+e. Pasal 30 UUD 1945
+5. Berikut ciri-ciri konstitusi Negara, kecuali....
+a. bersifat adil agar suatu bentuk pemerintahan dapat dijalankan secara demokrasi
+b. melindungi asas demokrasi
+c. menciptakan kedaulatan tertinggi yang berada di tangan rakyat
+d. menciptakan kedaulatan tertinggi yang berada di tangan pemerintah
+e. menentukan suatu hukum
+6. Pancasila sebagai dasar negara tercantum didalam pembukaan UUD 1945 pada....
+a. Alinea 3
+b. Alinea 1
+c. Alinea 2
+d. Alenia 4
+e. Alenia 1 dan 2
+7. Jiwa dan semangat persatuan yang telah menjiwai kehidupan masyarakat Indonesia tersirat dalam 
+Pancasila yaitu sila ke....
+a. Satu
+b. Tiga
+c. Lima
+d. Dua
+e. Empat
+1</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.E.taat dan patuh terhadap orang tua</p><p>2.B.diri sendiri</p><p>3.B.satu kesatuan yang erat</p><p>4.</p><p>5.E.menentukan suatu hukum</p><p>6.E.alenia 1 dan 2</p><p>7.B.tiga </p><p></p><p>maaf ada yg belum dijawab </p><p>semoga bermanfaat </p><br />
+                                            <h2 class="ez-toc-section" id="21-sebutkan-merupakan-tokoh-teori-kedaulatan-rakyat22-sebutkan-negara-penganut-teori-kedaulatan-negara23-jelaskan-peengertian-negara-sekuler24-meneteri-negara-diangkat-dan-diberhetikan-oleh25-p">
+                            34. 21. Sebutkan merupakan tokoh teori kedaulatan rakyat22. Sebutkan negara penganut teori kedaulatan negara!23. Jelaskan peengertian negara sekuler!24. Meneteri negara diangkat dan diberhetikan oleh25. Presiden berkedudukan sebagai kepala pemerintah sekaligus sebagai kepala negara adalah salah satu ciri pemerintahan26. Berdasarkan ketentuan UUD 1945 dalam hubungan kerja antar lembaga negara Badan Pemeriksa Keuangan menyampaikan laporanan pekerjaannya kepada ....27. Mengajukan rancangan undang-undang berkaitan dengan otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta pengembangan daerah adalah salah satu tugas....28. Menetapkan undang-undang dengan persetujuan Presiden adalah fungsi...DPR29. MPR hanya dapat memberhentikan Presiden dan/atau wakil Prseiden pada masa jabatannya menurut UUD. Pernyataan ini tercantum dalam UUD NRI Tahun 1945 pasal... 30. Pada saat pemilu Presiden, capres Joko Widodo mendapat suara lebih banyak dari capres Prabowo Subianto, namun capres Prabowo tidak percaya pada hasil pemilu tersebut.Akhirnya capres Prabowo mengadukannya pada.... 31. Dalam UUD NRI Tahun 1945 pasal 3 ayat (1) tugas MPR yang tepat adalah ....32. Presiden tidak dapat membekukan dan atau membubarkan DPR adalah salah satu prinsip pelaksanaan kedailatan di Indonesia yang diatur dalam UUD NRI 1945 pasal...33. Dalam pelaksanaan Demokrasi Parlementer Di Indonesia(1945-1950) Pemerintahan dijalankan oleh ...., sedangkan Presiden hanya sebagai lambang.34. Demokrasi PancasilaMengutamakan kepentingan bangsa dan negara sedangkan demokrasi liberal lebih mengutamakan kepentingan...35. Sebutkan Prinsip-prinsip kedaulatan Negara Republik Indonesia menurut UUD NRI 1945 36. “Negara Indonesia adalah negara hukum”. Adalah bunyi UUD 1945 pasal...37. Mostesquieu, seorang ahli dari Prancis, berpendapat bahwa agar kekuasaan dalam suatu negara tidak terpusat pada seseorang, kekuasaan dalam suatu negara dibagi ke dalam tiga kekuasaan yang terpisah (separated of power).yaitu 38. diskripsikan istilah negara sekuler39. Sebutkan negara penganut teori kedaulatan negara40. Sebutkan dan jelaskan Azas Pemilu di Indonesia​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>21. Penganut teori ini adalah John Locke, Montesquieu dan J.J Rousseau. John Locke menyatakan bahwa terbentuknya negara didasarkan pada asas pactum unionis dan pactum subjectionis.</p><p></p><p>22. Negara yang menganut teori kedaulatan ini adalah Indonesia dan Swiss.</p><p></p><p>23.Negara sekuler adalah salah satu konsep sekularisme, di mana sebuah negara menjadi netral dalam permasalahan agama, dan tidak mendukung orang beragama maupun orang yang tidak beragama. Dengan kata lain negara tidak dapat masuk ke dalam kehidupan pribadi agama setiap warganya.</p><p></p><p>24.Menteri-menteri itu diangkat dan diberhentikan Presiden.</p><p></p><p>25. Presiden secara bersamaan menjabat sebagai kepala negara dan kepala pemerintahan dan dalam jabatannya ini mengangkat pejabat-pejabat pemerintahan yang terkait. Presiden harus dijamin memiliki kewenangan legislatif oleh UUD atau konstitusi.</p><p></p><p>maaf kalo nomer 26 sampai 40 saya kurang mengerti</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu-ae%c2%a6">
+                            35. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia, yaitu â€¦.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>yaitu Pancasila, Undang-Undang Dasar 1945, dan TAP MPR.</p><p><strong>#</strong><strong>s</strong><strong>e</strong><strong>m</strong><strong>o</strong><strong>g</strong><strong>a</strong><strong>m</strong><strong>e</strong><strong>m</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong>t</strong><strong>u</strong></p><br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">
+                            36. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia, yaitu </h2><br />
+                        Demokrasi di Indonesia adalah suatu prosessejarah dan politik perkembangan demokrasidi dunia secara umum, hingga khususnya diIndonesia, mulai dari pengertian dan konsepsidemokrasi menurut para tokoh dan founding fathers Kemerdekaan Indonesia, terutamaSoekarno, Mohammad Hatta, dan Soetan Sjahrir. Selain itu juga proses ini menggambarkan perkembangan demokrasi di Indonesia, dimulai saat Kemerdekaan Indonesia, berdirinya Republik Indonesia Serikat, kemunculan fase kediktatoranSoekarno dalam Orde Lama dan Soehartodalam Orde Baru, hingga proses konsolidasi demokrasi pasca Reformasi 1998 hingga saat ini.<br />
+                                            <h2 class="ez-toc-section" id="dasar-pengembangan-dan-pelaksanaan-demokrasi-yang-berjalan-di-indonesia-yaitu">
+                            37. Dasar pengembangan dan pelaksanaan demokrasi yang berjalan di indonesia yaitu? </h2><br />
+                        <p><strong>Jawaban:</strong></p><p> Pancasila</p><p></p><p><strong>Penjelasan:</strong></p><p>Pancasila merupakan dasar negara dan dasar demokrasi Indonesia, demokrasi pancasila.</p><br />
+                                            <h2 class="ez-toc-section" id="36-dasar-pengembangan-dan-pelaksanaandemokrasi-yang-berjalan-di-indonesiayaitu-a-pancasilab-tap-mprc-keputusan-presidend-pembukaan-uud-1945e-batang-tubuh-uud-1945%e2%80%8b">
+                            38. 36. Dasar pengembangan dan pelaksanaandemokrasi yang berjalan di Indonesia,yaitu ....a. pancasilab. tap MPRc. keputusan presidend. pembukaan UUD 1945e. batang tubuh UUD 1945​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pancasila</p><p><strong>Penjelasan:</strong></p><p>Pancasila merupakan dasar negara dan dasar demokrasi Indonesia, demokrasipancasila.</p><p>jdkan jawaban trcrds ya kak</p><br />
+                                            <h2 class="ez-toc-section" id="1-berdasarkan-titik-perhatiannya-sistem-politikdemokrasi-dibedakan-menjadi-tiga-macam-yaitu2-dasar-pengembangan-dan-pelaksanaan-demokrasi-yangberjalan-di-indonesia-ialah3-isi-pokok-demokrasi-panc">
+                            39. 1. Berdasarkan titik perhatiannya, sistem politikdemokrasi dibedakan menjadi tiga macam, yaitu2. Dasar pengembangan dan pelaksanaan demokrasi yangberjalan di Indonesia ialah3. Isi pokok demokrasi Pancasila adalah ....4. Dalam UUD 1945 pasal 31 ayat 2 menjelaskan tentanghak warga negara untuk mendapatkan pembiayaan5. Salah satu nilai dalam demokrasi menurut Hendry B.Mayo ialah​</h2><br />
+                        <p></p><p>1 ) 1. Demokrasi Material adalah demokrasi yang dititikberatkan pada upaya-upaya menghilangkan perbedaan di bidang ekonomi, sedangkan persamaan di bidang politik kurang diperhatikan, bahkan cenderung dihilangkan.</p><p>2. Demokrasi Formal adalah demokrasi yang menjunjung tinggi persamaan dalam bidang politik, tanpa disertai dengan upaya untuk mengurangi dan menghilangkan kesenjangan dalam bidang ekonomi.</p><p>3. Demokrasi Gabungan adalah demokrasi yang menggabungkan kebaikan-kebaikan sistem demokrasi formal dan material serta menghilangkan keburukan dan keduanya.</p><p></p><p>2. pancasila sila ke 4 dan pembukaan UUD 1945 Alenia ke 4</p><p></p><p>3. 1. Pelaksanaannya dalam Undang-undang dasar 1945 juga penjabarannya dituangkan dalam batang tubuh dan penjelasan UUD 1945</p><p>2. Demokrasi pancasila juga melindungi hak asasi manusia (HAM)</p><p>3. Pelaksanna dalam hidup ketatanegaraannya diatur dalam kelembagaan</p><p>4.Isi demokrasi pancasila juga dijadikan sebagai sendi dari hukum yang dijelaskan dalam UUD 1945 yaitu negara hukumnya yang demokratif</p><p></p><p>4. Pendidikan</p><p></p><p>5. Pengakuan penghormatan atas kebebasan. Demokrasi sangat mendukung kebebasan yang terbatas.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="16-bentuk-kerja-sama-atau-gotong-royong-dalam-kehidupan-bermasyarakat-berbangsa-dan-bernegara-dapat-tampak-dalam-kehidupan-%e2%80%a6-a-sosial-politik-ekonomi-pertahanan-dan-keamanan-dan-kehidup">
+                            40. 16. Bentuk kerja sama atau gotong royong dalam kehidupan bermasyarakat, berbangsa, dan bernegara dapat tampak dalam kehidupan ….A. sosial politik, ekonomi, pertahanan dan keamanan, dan kehidupan umat beragamaB. sosial politik, ekonomi, pertahanan dan keamanan, dan sistem peradilanC. hukum, ekonomi, keamanan dan pertahanan, dan kehidupan umat beragamaD. perdagangan, keamanan dan pertahanan, hukum, dan kehidupan umat beragama17. Tujuan  nasional  bangsa Indonesia yang hendak dicapai melalui upaya pembangunan nasional, tercantum dalam  Pembukaan UUD Negara Republik Indonesia Tahun 1945 alinea …A. pertama   B.  kedua   C.  ketiga   D.  keempat18. Gotong royong  adalah kerjasama yang dilakukan sejumlah warga masyarakat untuk menyelesaikan tugas atau pekerjaan. Sikap gotong royong adalah bekerja sama-sama dalam menyelesaikan pekerjaan dan menikmati hasil pekerjaan tersebut secara adil. Kelebihan gotong  royong dibandingkan  bentuk kerja sama yang lainnya adalah …A. dilakukan tanpa pamrih      C. dilakukan dalam berbagai kegiatanB. dilakukan secara bersama   D. hasil yang didapat menguntungkan semua   pihak19. Di sebuah kampung, ada kegiatan yang rutin dilakukan setiap hari minggu. Kegiatan ini dilakukan secara bersama-sama untuk membersihkan lingkungan sekitar rumah warga, jalan-jalan sepanjang kampung, dan  lapangan yang ada di kampung tersebut. Hal ini menunjukkan bentuk gotong royong, yaitu …A. tolong menolong       C. kerja sosialB. gugur gunung            D. kerja bakti20. Musyawarah  untuk mufakat merupakan cerminan dari pelaksanaan  sila ke-4 Pancasila yang pada prinsipnya menegaskan bahwa bangsa Indonesia akan terus memelihara dan mengembangkan semangat bermusyawarah dalam perwakilan. Gambar  tersebut di atas merupakan bentuk kerjasama dalam kehidupan …A. keamanan dan pertahanan    B. sosial politik    C. ekonomi D. umat beragama21. Dalam pasal 33 ayat 1 UUD Negara Republik Indonesia Tahun 1945 menyatakan “ Perekonomian disusun sebagai usaha bersama berdasarkan asas kekeluargaan “. Hal ini berarti dalam  kegiatan usaha ekonomi  digunakan prinsip kerjasama, saling membantu dalam suasana demokrasi ekonomi untuk mencapai kesejahteraan bersama secara adil. Salah satu bentuk kerjasama dalam bidang ekonomi yang diharapkan dalam pasal ini  adalah …A. Firma                     C. KoperasiB. BUMN                   D. CV​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>16. <strong>B</strong></p><p><strong>1</strong><strong>7</strong><strong>.</strong><strong>D</strong></p><p><strong>18.A</strong></p><p><strong>1</strong><strong>9</strong><strong>.</strong><strong>B</strong></p><p><strong>2</strong><strong>0</strong><strong>.</strong><strong>D</strong></p><p><strong>2</strong><strong>1</strong><strong>.</strong><strong>B</strong></p><p></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/kAs-Hh0_svQ?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ppkn</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/latihan-back-up-bertujuan-untuk-mengencangkan-otot/">Latihan Back Up Bertujuan Untuk Mengencangkan Otot</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bekasi-jakarta-apa/">Bekasi Jakarta Apa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sinonim-apresiasi/">Sinonim Apresiasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dipunwastani-tegese/">Dipunwastani Tegese</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pemes-adalah/">Pemes Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/400-ml-berapa-sendok-makan/">400 Ml Berapa Sendok Makan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/standart-atau-standard/">Standart Atau Standard</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kegiatan-belajar-mengajar-termasuk-interaksi-sosial-di-lingkungan/">Kegiatan Belajar Mengajar Termasuk Interaksi Sosial Di Lingkungan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nada-yang-mempunyai-jarak-12-adalah/">Nada Yang Mempunyai Jarak 1/2 Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/10-pertanyaan-wawancara-pedagang/">10 Pertanyaan Wawancara Pedagang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kepanjangan-asean/">Kepanjangan Asean</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-yang-harus-kita-lakukan-untuk-mendapat-hidup-berkelimpahan/">Apa Yang Harus Kita Lakukan Untuk Mendapat Hidup Berkelimpahan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5-juta-berapa-nol/">5 Juta Berapa Nol</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pentingnya-membuat-rencana-aksi-dalam-perencanaan-usaha-adalah/">Pentingnya Membuat Rencana Aksi Dalam Perencanaan Usaha Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-pengertian-terminologis-tentang-masyarakat/">Jelaskan Pengertian Terminologis Tentang Masyarakat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-pengertian-diskusi/">Jelaskan Pengertian Diskusi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/wasana-tegese/">Wasana Tegese</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jawaban-lks-bahasa-inggris-kelas-7-semester-2/">Jawaban Lks Bahasa Inggris Kelas 7 Semester 2</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/urutan-peredaran-darah-yg-benar-adalah/">Urutan Peredaran Darah Yg Benar Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bahasa-inggris-nya/">Bahasa Inggris Nya</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

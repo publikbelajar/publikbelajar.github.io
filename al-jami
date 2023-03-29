@@ -1,0 +1,1300 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Al Jami - BELAJAR</title>
+    <meta name="description" content="Al Jami, , , , , , , 0, Al-Jami&#039; Artinya, Arab dan Dalil - Freedomnesia, www.freedomnesia.id, 1280 x 720, jpeg, , 20, al-jami, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Al Jami - BELAJAR" />
+    <meta property="og:description" content="Al Jami, , , , , , , 0, Al-Jami&#039; Artinya, Arab dan Dalil - Freedomnesia, www.freedomnesia.id, 1280 x 720, jpeg, , 20, al-jami, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Al Jami - BELAJAR" />
+    <meta name="twitter:description" content="Al Jami, , , , , , , 0, Al-Jami&#039; Artinya, Arab dan Dalil - Freedomnesia, www.freedomnesia.id, 1280 x 720, jpeg, , 20, al-jami, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Al Jami</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">erikarihadatulaisha</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Al+Jami" alt="Al Jami">
+                    </div>
+                    <p></p>
+                    <p>orang yang menyebutkan suatu manuskrip kitab jami&#039; yang mu&#039;tamad secara berlebihan adalah?a.al jami al kabirb.al jami as sagirc.al jami al kubrad.al jami al basire.al jami as sahih​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#orang-yang-menyebutkan-suatu-manuskrip-kitab-jami-yang-mutamad-secara-berlebihan-adalaha-al-jami-al-kabirb-al-jami-as-sagirc-al-jami-al-kubrad-al-jami-al-basire-al-jami-as-sahih%e2%80%8b">1.
+                                            orang yang menyebutkan suatu manuskrip kitab jami' yang mu'tamad secara berlebihan adalah?a.al jami al kabirb.al jami as sagirc.al jami al kubrad.al jami al basire.al jami as sahih​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hadits-tentang-asmaul-husna-al-jami-dan-pendapat-ulam-tentang-al-jami">2.
+                                            hadits tentang asmaul husna al-jami dan pendapat ulam tentang al-jami</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buat-pengertian-al-matin-al-jami-al-jami-al-adl-al-akhir-beserta-ayat-alqurannya%e2%80%8b">3.
+                                            buat pengertian Al Matin al jami' al jami' al adl Al Akhir beserta ayat Alqurannya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pengertian-al-jami">4.
+                                            pengertian al jami ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-seorang-hamba-dapat-dikatakan-al-jami">5.
+                                            bagaimana seorang hamba dapat dikatakan al jami?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-yang-merupakan-pengalaman-al-asmau-al-husna-al-jami-adalah">6.
+                                            berikut yang merupakan pengalaman al asma'u al husna al-Jami' adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sasaran-dari-al-jami">7.
+                                            Sasaran dari al-jami'</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-al-mumin-al-wakil-al-jami-al-adlu">8.
+                                            apa arti al-mu'min , al-wakil,  al-jami, al adlu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-perilaku-al-mukmin-dan-al-jami">9.
+                                            contoh perilaku al mukmin dan al jami'</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-pengertian-al-jami">10.
+                                            Apa pengertian Al jami'</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-perilaku-al-jami">11.
+                                            contoh perilaku al-jami</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-arti-al-jami">12.
+                                            Jelaskan arti Al jami'</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-dari-sifat-al-jami%e2%80%99-adalah%e2%80%a6%e2%80%8b">13.
+                                            contoh dari sifat Al-Jami’ adalah…​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#makna-surat-al-jami">14.
+                                            makna surat al jami .</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pendapat-para-ulama-tentang-al-jami">15.
+                                            pendapat para ulama tentang al jami</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-dari-al-jami-al-akhir-dan-al-adl-jelaskan">16.
+                                            Apa arti dari al jami al akhir dan al adl jelaskan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-penerapan-dari-al-jami%e2%80%8b">17.
+                                            contoh penerapan dari al jami​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimanakah-seorang-hamba-dapat-dikatakan-al-jami">18.
+                                            Bagaimanakah seorang hamba dapat dikatakan al jami</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tanda-atau-bukti-al-jami">19.
+                                            Tanda atau bukti al-jami'</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#keistimewaan-al-jami">20.
+                                            Keistimewaan al jami</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-pengertian-al-jami">21.
+                                            Apa pengertian Al jami'</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sifat-al-jami-artinya">22.
+                                            sifat al-jami artinya ....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#implementasi-al-jami">23.
+                                            implementasi al jami</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-pengertian-al-matinal-jamial-akhir%e2%80%8b">24.
+                                            Tuliskan pengertian al matin,al jami',al akhir​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#manfaat-kita-meneladani-al-jami">25.
+                                            Manfaat kita meneladani al jami</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#keistimewaan-al-jami">26.
+                                            Keistimewaan al jami</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-pertanyaan-al-jami">27.
+                                            Contoh pertanyaan Al-Jami'</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-maksud-al-jami-jelaskan">28.
+                                            Apa maksud al-jami Jelaskan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hadis-riwayat-tentang-al-jami">29.
+                                            hadis riwayat tentang Al jami'</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hadis-tentang-al-jami">30.
+                                            Hadis tentang al jami'</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalil-al-jami-selain">31.
+                                            dalil al jami selain</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hikmah-al-jami-adalah">32.
+                                            Hikmah al jami adalah </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-pengertian-al-jami">33.
+                                            Apa pengertian al jami?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#al-jami-artinya-dan-contohnya">34.
+                                            Al jami artinya dan contohnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hadis-tentang-al-jami%e2%80%8b">35.
+                                            hadis tentang al - jami​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalil-tentang-al-jami">36.
+                                            dalil tentang al-jami</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ayat-alquran-tentang-al-jami">37.
+                                            ayat Alquran tentang al jami</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-manfaat-kita-meneladani-al-jami">38.
+                                            Apa manfaat kita meneladani al jami?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-al-jami">39.
+                                            Apa yang dimaksud dengan al-jami</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pertanyaan-sulit-tentang-al-jami">40.
+                                            Pertanyaan sulit tentang Al jami</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="orang-yang-menyebutkan-suatu-manuskrip-kitab-jami-yang-mutamad-secara-berlebihan-adalaha-al-jami-al-kabirb-al-jami-as-sagirc-al-jami-al-kubrad-al-jami-al-basire-al-jami-as-sahih%e2%80%8b">
+                            1. orang yang menyebutkan suatu manuskrip kitab jami' yang mu'tamad secara berlebihan adalah?a.al jami al kabirb.al jami as sagirc.al jami al kubrad.al jami al basire.al jami as sahih​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>E. Al- jami as sahih</p><p></p><p><strong>Penjelasan:</strong></p><p>Al-Jami’, yaitu literatur hadis yang memuat bab dari berbagai dimensi keagamaan, seperti aqidah, hukum, akhlak, sejarah, manaqib, bahkan juga gambaran tentang akhir zaman.</p><p>Dari sekian banyak karya Imam al-Bukhari, yang paling terkenal di antaranya adalah kitab Sahih al-Bukhari. Judul lengkap kitab tersebut adalah al-Jami’ al-Musnad al-Sahih al-Mukhtasar min Umur Rasulillah wa Sunanih wa Ayyamih. Kitab ini disusunnya dalam kurun waktu lebih kurang 16 tahun. Imam al-Bukhari mulai membuat kerangka penulisan kitab tersebut pada saat ia berada di Masjidil Haram, Mekkah, dan secara terus menerus dia menulis kitab tersebut sampai kepada draft terakhir yang dikerjakannya di Mesjid Nabawi di Madinah.</p><p>TOLONG JADIKAN JAWABAN YANG TERBAIK DAN FOLLOW AKU TERIMAKASIH </p><br />
+                                            <h2 class="ez-toc-section" id="hadits-tentang-asmaul-husna-al-jami-dan-pendapat-ulam-tentang-al-jami">
+                            2. hadits tentang asmaul husna al-jami dan pendapat ulam tentang al-jami</h2><br />
+                        AL JAMI ITU MENGUMPULKAN (DALAM hadits nasa'i dan thabrani) jadi <strong>maksud para ulama tentang al jami allah mengumpulkan seluruh makhluknya di hari akhir dan mengumpulkan manusia di dunia ini</strong>al jami itu mengumpulkan <br />   kalau gak salah <br />
+                                            <h2 class="ez-toc-section" id="buat-pengertian-al-matin-al-jami-al-jami-al-adl-al-akhir-beserta-ayat-alqurannya%e2%80%8b">
+                            3. buat pengertian Al Matin al jami' al jami' al adl Al Akhir beserta ayat Alqurannya​</h2><br />
+                        <p>Jawaban:</p><p>Al-Matin adalah salah satu nama Allah al-Husna. Nama ini disebutkan di salah satu ayat pada surat adz-Dzariyat.</p><p></p><p>إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ ٥٨</p><p>“Sesungguhnya Allah, Dialah Maha Pemberi Rezeki, Yang Mempunyai Kekuatan lagi Sangat Kokoh.”</p><p>Al – Jami’ secara Bahasa memiliki arti Yang Maha Mengumpulkan/ Menghimpun, ialah bahwa Allah SWT. Maha Mengumpulkan / Menghimpun seluruh sesuatu yang tersebar. Allah Swt. Maha Mengumpulkan apa yang dikehendaki- Nya serta di mana juga Allah Swt. berkehendakDalam Pengumpulan tersebut terdapat bermacam berbagai wujudnya, di antara lain merupakan mengumpulkan segala makhluk yang berbagai macam, tercatat manusia serta lain - lainnya, di permukaan bumi ini serta setelah itu mengumpulkan mereka di padang mahsyar pada hari kiamat. Allah Swt. berfirman:</p><p></p><p></p><p></p><p>Artinya : “Ya Tuhan kami, sesungguhnya Engkau mengumpulkan manusia untuk (menerima pembalasan pada) hari yang tak ada keraguan padanya”. Sesungguhnya Allah Swt. tidak menyalahi janji.”(Q.S. Ali Imrān/3:9).</p><p>Pengertian Al-Adl secara bahasa adalah sama, setara, tidak berat sebelah, seimbang, semisal dan lain sebagainya. Adapun secara istilah, pengertian dari Al-Adl adalah salah satu sifat Allah SWT Yang Maha Adil, artinya menempatkan sesuatu sesuai dengan semestinya.</p><p>Nama Allah “Al-Akhir” ditafsirkan oleh Nabi shallallahu ‘alaihi wa sallam dengan “Tidak ada sesuatu setelah-Mu”. Hal ini tidaklah menunjukkan bahwa Allah Ta’ala akan memiliki titik akhir. Karena Allah Ta’ala adalah Dzat yang kekal (abadi). Memang terdapat sebagian makhluk yang juga bersifat kekal (abadi), seperti surga dan neraka. Akan tetapi, kekekalan makhluk tersebut adalah karena dikehendaki oleh Allah Ta’ala, bukan berdiri sendiri. </p><p></p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="pengertian-al-jami">
+                            4. pengertian al jami ?</h2><br />
+                        Dia adalah Dzat yang menghimpun seluruh manusia pada hari kiamat. Dan
+ ada pendapat lain mengatakan, bahwa Dia adalah Dzat yang mengumpulkan 
+bagia-bagian tubuh manusia sesudah ia bercerai-berai, dan yang 
+membangkitkan mereka kembali, serta menghimpun mereka di padang mahsyar.
+Penghimpunan ini ada berbagai macam bentuknya, di antaranya adalah 
+mengumpulkan seluruh makhluk yang beraneka ragam, termasuk manusia dan 
+lain-lainnya, di permukaan bumi ini dan kemudian mengumpulkan mereka di 
+padang mahsyar pada hari kiamat. Dan Dia mengumpulkan langit, planet, 
+udara di bumi, lautan, binatang, tumbuh-tumbuhan, dan barang-barang 
+tambang yang aneka rupa di bumi. Dia mengumpulkan tulang, urat, keringat
+ dan otot, dan lain-lain. Dia mengumpulkan antara dua sifat yang 
+berlawanan, seperti panas dan dingin, kering dan lembab, di dalam unsur 
+hewan dan tumbuh-tumbuhan dan ini termasuk penghimpunan yang paling 
+sempurna di antara yang ada.
+Dan Allah juga mengumpulkan di dalam diri seorang hamba adab yang 
+lahir di anggota tubuh dan hakikat batin di dalam hati. Barangsiapa yang
+ sempurna makrifatnya dan baik tingkah lakunya, maka ia disebut juga 
+sebagai jami’. Dikatakan bahwa jami’ ialah orang yang tidak padam cahaya makrifatnya.
+Khasiatnya<br />
+Barangsiapa membanyakkan zikir dengan ism ini, maka ia akan berhasil mencapai segala cita-citanya. Dan jika orang kehilangan sesuatu barang, lalu membaca: Allahumma ya jami’an-nasi li yaumin la raiba fihi, ijma’ dhallati
+ (Ya Allah, ya Tuhan yang mengumpulkan manusia pada hari kiamat, 
+kumpulkanlah aku dengan barangku), maka insya Allah barangnya akan 
+dikembalikan Allah, atau digantikan-Nya dengan yang lebih baik, berkat 
+karunia dan kemurahan-Nya.<br />Al Jami’Dia adalah Dzat yang menghimpun seluruh manusia pada hari kiamat. Dan ada pendapat lain mengatakan, bahwa Dia adalah Dzat yang mengumpulkan bagia-bagian tubuh manusia sesudah ia bercerai-berai, dan yang membangkitkan mereka kembali, serta menghimpun mereka di padang mahsyar.<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-seorang-hamba-dapat-dikatakan-al-jami">
+                            5. bagaimana seorang hamba dapat dikatakan al jami?</h2><br />
+                        Barang siapa yang sempurna ma’rifatnya dan baik tingkah lakunya<br />
+                                            <h2 class="ez-toc-section" id="berikut-yang-merupakan-pengalaman-al-asmau-al-husna-al-jami-adalah">
+                            6. berikut yang merupakan pengalaman al asma'u al husna al-Jami' adalah</h2><br />
+                        hati hati dalam bertindak karena semu akan diminati pertanggung jawaban<br />
+                                            <h2 class="ez-toc-section" id="sasaran-dari-al-jami">
+                            7. Sasaran dari al-jami'</h2><br />
+                        tolong kepada saudara untuk memperjelas ertayaannya trims<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-al-mumin-al-wakil-al-jami-al-adlu">
+                            8. apa arti al-mu'min , al-wakil,  al-jami, al adlu</h2><br />
+                        al mu'min:maha melimpahkan keamanan<br />al walid:maha melindungi<br />al adl:maha adil<br />al jami':yang maha besar serta mulia<br /><br />
+                                            <h2 class="ez-toc-section" id="contoh-perilaku-al-mukmin-dan-al-jami">
+                            9. contoh perilaku al mukmin dan al jami'</h2><br />
+                        Al Mu'min<br /><br /><br />              1. Menenangkan teman yang sedang merasa takut<br /><br />              2. Tidak mengganggu teman<br /><br />              3. Menjaga diri sendiri dari ancaman dan gangguan orang atau makhluk lain<br /><br />              4. Tidak takut kepada apapun, kecuali kepada Allah<br /><br /> Al jami'<br /><br />Ø Mengajak orang untuk sholat berjamah<br /><br />Ø Melerai teman/orang lain yang sedang bertengkar<br /><br />Ø Ketika sedang musnyawarah dan memberikan pendapat, kita harus menghargai pendapat orang lain walaupun tidak bersependapat dengan kita.<br /><br />Ø Menjaga pergaulan dengan baik<br /><br />Ø Melakukan kerja sama dengan orang lain<br /><br /><br />Ø Menabung setiap hari<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="apa-pengertian-al-jami">
+                            10. Apa pengertian Al jami'</h2><br />
+                        Al-Jami' = Yang maha mengumpulkan<br /><br />#semogabenar19<br />
+                                            <h2 class="ez-toc-section" id="contoh-perilaku-al-jami">
+                            11. contoh perilaku al-jami</h2><br />
+                        al-jami'u yang berarti mengumpulkan meneladani sifat ini kita harus mampu mengumpulkan sifat-sifat terpuji yang ada didalam diri kita.kita harus mampu berkerja sama dalam hal kebaikan.<br /><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-arti-al-jami">
+                            12. Jelaskan arti Al jami'</h2><br />
+                        Al Jami artinya Maha Mengumpulkan<br />Jami’ berasal dari kata jama’ah yang artinya kumpulan, lebih dari satu, banyak. Al-Jami’ secara bahasa artinya Yang Maha Mengumpulkan / Menghimpun, yaitu bahwa Allah SWT Maha Mengumpulkan/Menghimpun segala sesuatu yang tersebar atau terserak. Allah SWT Maha Mengumpulkan apa yang dikehendaki-Nya dan di manapun Allah SWT berkehendak.<br />
+                                            <h2 class="ez-toc-section" id="contoh-dari-sifat-al-jami%e2%80%99-adalah%e2%80%a6%e2%80%8b">
+                            13. contoh dari sifat Al-Jami’ adalah…​</h2><br />
+                        <p>mengumpulkan amal baik</p><p>mengumpulkan pr</p><p>mengumpulkan tugas</p><br />
+                                            <h2 class="ez-toc-section" id="makna-surat-al-jami">
+                            14. makna surat al jami .</h2><br />
+                        Allah Yang Maha Pengumpul<br />
+                                            <h2 class="ez-toc-section" id="pendapat-para-ulama-tentang-al-jami">
+                            15. pendapat para ulama tentang al jami</h2><br />
+                        Al jami adalah nama baik Allah yg artinya maha mengumpulkan, jadi pada hari kebangkitan di alam kubur nanti, manusia akan dikumpulkan dan di hitung amal perbuatannya...<br />
+                                            <h2 class="ez-toc-section" id="apa-arti-dari-al-jami-al-akhir-dan-al-adl-jelaskan">
+                            16. Apa arti dari al jami al akhir dan al adl jelaskan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Secara bahasa, Al-Jami artinya Yang Maha Mengumpulkan atau Menghimpun, yaitu Allah SWT Maha Mengumpulkan atau Menghimpun segala sesuatu yang tersebar atau terserak," tulis Jateng Pintar.</p><p></p><p>Salah satu Asmaul Husna adalah Al Akhir yang artinya adalah Yang Maha Akhir. Asmaul Husna ini menunjukkan kekekalan Allah SWT saat makhluk lain yang fana menemui akhir. "Dia Maha Kekal ketika semua makhluk hancur, Maha Kekal dengan kekekalanNya.</p><p></p><p>Asmaul Husna Al Adl artinya Yang Maha Adil. ... Akar katanya adalah 'adala yang berarti lurus dan sama. Senada dengan makna adil dari Kamus Besar Bahasa Indonesia (KBBI) yakni sama berat, tidak berat sebelah, dan tidak memihak.</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-penerapan-dari-al-jami%e2%80%8b">
+                            17. contoh penerapan dari al jami​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>Al-Jami</p><p>Alah Maha Mengumpulkan. Mengumpulkan segala sesuatu (amal perbuatan manusia, tulang belulang yang berserakan =&gt; manusia utuh, seluruh manusia dipadang mahsar, dll)</p><p></p><p>Cara kita mengamalkan al-Jami dalam kehidupan dengan cara:</p><p></p><p>Mempersatukan orang-orang yang sedang berselisih.</p><p>Melaksanakan sholat berjama’ah</p><p>Hidup bermasyarakat.</p><p>Menjaga pergaulan dengan baik</p><p>Memperbanyak silaturahmi</p><p>Menjalin kerjasama dengan orang lain.</p><p> </p><br />
+                                            <h2 class="ez-toc-section" id="bagaimanakah-seorang-hamba-dapat-dikatakan-al-jami">
+                            18. Bagaimanakah seorang hamba dapat dikatakan al jami</h2><br />
+                        barang siapa yang sempurna ma'rifatnya dan baik tingkah lakunya.<br />semoga membantu<br /><br />
+                                            <h2 class="ez-toc-section" id="tanda-atau-bukti-al-jami">
+                            19. Tanda atau bukti al-jami'</h2><br />
+                        al-jami' artinya maha mengumpulkan.Allah swt adalah dzat yang maha mengumpulkan manusia pada hari kiamat,setelah manusia wafat manusia akan kembali dibangkitkan di suatu tempat yang bernama padang mahsyar<br />
+                                            <h2 class="ez-toc-section" id="keistimewaan-al-jami">
+                            20. Keistimewaan al jami</h2><br />
+                        Secara bahasa artinya Yang Maha Mengumpulkan / Menghimpun, yaitu bahwa Allah Swt. Maha Mengumpulkan /Menghimpun segala sesuatu yang tersebar.<br /><br /> Maaf jika ada kesalahan <br />
+                                            <h2 class="ez-toc-section" id="apa-pengertian-al-jami">
+                            21. Apa pengertian Al jami'</h2><br />
+                        Al-jami menurut bahasa artinya yang maha mengumpulkan atau menghimpun,yaitu allah swt maha mengumpulkan atau menghimpun segala sesuatu yang tersebar atau terserakJami' berasal dari kata jama'ah yang berarti mengumpulkan, lebih dari satu atau banyak. <br /><br />secara bahasa artinya mengumpulkan atau menghimpun, maksudnya Allah maha mengumpulkan segala sesuatu yang tersebar. <br /><br />menurut istilah Al Jami' yaitu mengumpulkan berbagai hakikat yang telah bercerai dan juga mengumpulkan umat manusia pada hari kiamat.<br /><br />semoga membantu :)<br />
+                                            <h2 class="ez-toc-section" id="sifat-al-jami-artinya">
+                            22. sifat al-jami artinya ....</h2><br />
+                        yang Maha Mengumpulkan/MenghimpunYang maha Mengumpulkan / Menghimpun<br />
+                                            <h2 class="ez-toc-section" id="implementasi-al-jami">
+                            23. implementasi al jami</h2><br />
+                        al jami artinya Allah maha mengumpulkan<br />1. melaksanakan sholat berjamaah<br />2. hidup bermasyarakat<br />3. menjalin kerjasama dengan orang lain dalam hal kebaikan<br /><br />semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="tuliskan-pengertian-al-matinal-jamial-akhir%e2%80%8b">
+                            24. Tuliskan pengertian al matin,al jami',al akhir​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Al Matin ( Maha Kokoh ), maksudnya yaitu Allah merupakan zat yang Maha memiliki kekuatan dan kekokohan. Dimana Allah memiliki kehebatan perbuatan yang sangat kokoh dari kekuatan yang tidak ada taranya.</p><p></p><p>Al-Jami' secara bahasa artinya Yang Maha Mengumpulkan / Menghimpun, yaitu bahwa Allah SWT Maha Mengumpulkan/Menghimpun segala sesuatu yang tersebar atau terserak</p><p></p><p>Maksud asmaul husna Al-Akhir adalah bahwa Allah SWT Yang Maha Akhir, sehingga tak ada sesuatu apapun itu yang ada setelah Allah. Dalam artian Allah SWT adalah kekal, Yang Awal dan Yang Akhir.</p><p></p><p><strong>Jawaban:</strong></p><p>•Al Matin adalah Maha Kokoh.</p><p></p><p>•Al Jami adalah Maha Mengumpulkan.</p><p></p><p>•Al Akhir adalah Maha Akhir.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="manfaat-kita-meneladani-al-jami">
+                            25. Manfaat kita meneladani al jami</h2><br />
+                        yang paling utama manfaat kita meneladani al jami adalah menyambung silaturrahmi antar saudara<br />
+                                            <h2 class="ez-toc-section" id="keistimewaan-al-jami">
+                            26. Keistimewaan al jami</h2><br />
+                        al jami' artinya maha mengumpulkan Allah maha mengumpulkan seluruh makhluk yang beraneka ragam, termasuk manusia dan lain-lainya, di permukaan bumi  dan kemudian mengumpulkan mereka di padang mahsyar pada hari kiamat<br />
+                                            <h2 class="ez-toc-section" id="contoh-pertanyaan-al-jami">
+                            27. Contoh pertanyaan Al-Jami'</h2><br />
+                        apakah Allah itu Mempunyai Asma yg Bernama Al-Jami' dan Apa Makna Dari Al-Jami'??<br />semoga bermanfaat<br />
+                                            <h2 class="ez-toc-section" id="apa-maksud-al-jami-jelaskan">
+                            28. Apa maksud al-jami Jelaskan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Al-Jāmi' secara bahasa artinya Yang Maha Mengumpulkan atau Menghimpun, yaitu bahwa Allah Swt. Maha Mengumpulkan atau Menghimpun segala sesuatu yang tersebar atau terserak</p><p><strong>Penjelasan:</strong></p><p></p><p>maaf kalau salah jadikan jawaban tercerdas ya</p><p><strong>Jawaban:</strong></p><p>al-jami artinya yg maha mengumpulkan</p><p><strong>Penjelasan:</strong></p><p>Maha Mengumpulkan/Menghimpun segala sesuatu yang tersebar atau terserak.</p><br />
+                                            <h2 class="ez-toc-section" id="hadis-riwayat-tentang-al-jami">
+                            29. hadis riwayat tentang Al jami'</h2><br />
+                        yang menghimpun sehingga dapat dipahami bahwa kitab al-jami'adalah kitab yang menghimpun banyak hal<br />
+                                            <h2 class="ez-toc-section" id="hadis-tentang-al-jami">
+                            30. Hadis tentang al jami'</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p>Dalil dan hadits dari Al-Jami'(Asmaul Husna)?</p><p></p><p></p><p>Al-Jami' adalah salah satu dari asmaul husna yang berarti Maha Mengumpulkan, mengumpulkan yang tercerai berai, atau mengumpulkan umat manusia pada hari pembalasan</p><p></p><p></p><p>Dalil naqli yang berkenaan dengan Al-Jami'</p><p></p><p></p><p>surat saba' ayat 26</p><p></p><p></p><p>قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِالْحَقِّ وَهُوَ الْفَتَّاحُ الْعَلِيمُ</p><p></p><p></p><p>artinya : Katakanlah: "Tuhan kita akan mengumpulkan kita semua, kemudian Dia memberi keputusan antara kita dengan benar. Dan Dialah Maha Pemberi keputusan lagi Maha Mengetahui".</p><p></p><p></p><p>surat ali-imran ayat 9</p><p></p><p></p><p>رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَا رَيْبَ فِيهِ ۚ إِنَّ اللَّهَ لَا يُخْلِفُ الْمِيعَادَ</p><p></p><p></p><p>artinya : "Ya Tuhan kami, sesungguhnya Engkau mengumpulkan manusia untuk (menerima pembalasan pada) hari yang tak ada keraguan padanya". Sesungguhnya Allah tidak menyalahi janji.</p><p></p><p></p><p><strong>m</strong><strong>a</strong><strong>a</strong><strong>f</strong><strong> </strong><strong>k</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>u</strong><strong> </strong><strong>s</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>h</strong></p><br />
+                                            <h2 class="ez-toc-section" id="dalil-al-jami-selain">
+                            31. dalil al jami selain</h2><br />
+                        Dalil Al - Jami dalam surah Ali Imran ayat 9<br />
+                                            <h2 class="ez-toc-section" id="hikmah-al-jami-adalah">
+                            32. Hikmah al jami adalah </h2><br />
+                        Hikmah dari Al Jamii (Maha Mengumpulkan)  adalah:<br /><br />1. Hidup dengan sesama manusia dan makhluk Allah yang lain secara baik.<br />2. Memilih teman dan sahabat yang bisa membawa pada kebaikan.<br />3. Memperbanyak silaturrahim.<br />4. Tidak berbuat sombong terhadap makhluk Allah di dunia ini, tetapi saling bekerja sama untuk menggapai ridha AllahJami’ berasal dari kata jama’ah yang artinya kumpulan, lebih dari satu, banyak. Allah bersifat al-Jami’ artinya Allah maha mengumpulkan/mempersatukan.<br />
+                                            <h2 class="ez-toc-section" id="apa-pengertian-al-jami">
+                            33. Apa pengertian al jami?</h2><br />
+                        yang maha mengumpulkanLafal Al-jami berasal dari kata Jama'a yg berarti mengumpulkan segala sesuatu yg tersebar.<br />sifat allah al-jami artinya yang maha mengumpulkan<br /><br />
+                                            <h2 class="ez-toc-section" id="al-jami-artinya-dan-contohnya">
+                            34. Al jami artinya dan contohnya</h2><br />
+                        <p><strong>Al-Jami’ adalah salah satu nama-nama Allah yang indah dan baik(Asmaul Husna), yang memiliki arti mengumpulkan atau menghimpun.</strong></p><p></p><p><strong>Contoh perilaku sehari-hari</strong></p><p></p><p><strong>a.  Mengajak orang untuk sholat berjamah</strong></p><p></p><p><strong>b.  Melerai teman/orang lain yang sedang bertengkar</strong></p><p></p><p><strong>c.	Ketika sedang bermusyawarah dan memberikan pendapat, kita harus menghargai pendapat orang lain walaupun tidak sependapat dengan kita.</strong></p><p></p><p><strong>d.	Menjaga pergaulan dengan baik dan benar</strong></p><p></p><p><strong>e.  Melakukan kerja sama dengan orang lain</strong></p><p></p><p></p><p></p><p></p><p></p><strong>Pembahasan</strong><p></p><p>Haloo adik adik yang ganteng ganteng dan cantik cantik balik lagi nih sama kakak kece. Gimana kabar kalian? Insyaallah sehat sehat terus yaa. Kali ini kakak a1m akan mencoba membantu menjawab pertanyaan ini ya, kuy deh dibaca pelan pelan biar masuk hati</p><p></p><p></p><p>Al-Jami’ adalah salah satu nama-nama Allah yang indah dan baik (Asmaul Husna). Al – Jami’ secara Bahasa memiliki arti Yang Maha Mengumpulkan/ Menghimpun, ialah bahwa Allah Ta'ala Maha Mengumpulkan / Menghimpun seluruh sesuatu yang tersebar. Allah Maha Mengumpulkan apa yang dikehendaki- Nya serta di mana juga Allah  berkehendak.</p><p></p><p>Dalam Pengumpulan tersebut terdapat berbagai macam wujudnya, di antaranya merupakan mengumpulkan segala makhluk yang berbagai macam, tercatat manusia serta lain - lainnya, di permukaan bumi ini serta setelah itu mengumpulkan mereka di padang mahsyar pada hari kiamat.</p><p></p><p></p><p>Dalil Al Qur’an</p><p></p><p>رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ</p><p></p><p>Artinya: “Ya Tuhan Kami, sesungguhnya Engkau mengumpulkan manusia untuk (menerima pembalasan pada) hari yang tak ada keraguan padanya”. Sesungguhnya Allah Ta'ala Tidak menyalahi janji.” (Q.S. Ali Imron/3:9)</p><p></p><p> </p><p>Perilaku yang berkaitan dengan Al-jami’</p><p></p><p>a. Menghargai pendapat orang lain</p><p></p><p> b. Menjunjung tinggi hasil keputusan musyawarah</p><p></p><p>c . Mendamaikan orang yang bertengkar</p><p></p><p>d. Membina persatuan dan kesatuan</p><p></p><p>e. Menyatukan keberagaman suku dan adat</p><p></p><p>Contoh perilaku sehari-hari</p><p></p><p>a.  Mengajak orang lain untuk sholat berjamah</p><p></p><p>b.  Melerai teman/orang lain yang sedang bertengkar</p><p></p><p>c.  Ketika sedang musyawarah dan memberikan pendapat, kita harus menghargai pendapat orang lain walaupun tidak sependapat dengan kita.</p><p></p><p>d. Menjaga pergaulan dengan baik dan benar</p><p></p><p>e. Melakukan kerja sama dengan orang lain</p><p></p><p>f.  Menabung setiap harinya</p><p></p><p></p><p></p><p>Demikian lah penjabar dari kakak, semoga dengan ilmu yang sedikiti ini dapat bermanfaat untuk adik adik semua.</p><p></p><p>Jangan lupa terus berusaha dan berdoa.</p><p></p><strong>Pelajari lebih lanjut
+</strong><p>1. Jelaskan makna asmaul husna al-jami</p><p>https://brainly.co.id/tugas/12205404</p><p></p><p>2. Perilaku yang mencerminkan asmaul husna al jami</p><p>https://brainly.co.id/tugas/13549718</p><p></p><p>3. Contoh wujud meneladani asmaul husna al jami' dalam kehidupan sehari-hari</p><p>https://brainly.co.id/tugas/7773280</p><p></p><p></p><strong>Detil jawaban</strong><p>Kelas:  7 SMP</p><p>Mapel: Agama</p><p>Bab: Bab 3 Asma’ul Husna</p><p>Kode: 7.14.3</p><p>Kata kunci: Al jami, Asmaul Husna, Allah SWT</p><p></p><p>#AyoBelajar</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="hadis-tentang-al-jami%e2%80%8b">
+                            35. hadis tentang al - jami​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>semua al jami hadis tentangnya </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dalil-tentang-al-jami">
+                            36. dalil tentang al-jami</h2><br />
+                        artinya: "Ya Tuhan kami, janganlah Engkau jadikan hati kami condong kepada 
+kesesatan sesudah Engkau beri petunjuk kepada kami, dan karuniakanlah 
+kepada kami rahmat dari sisi Engkau; karena sesungguhnya Engkau-lah Maha
+ Pemberi (karunia)".surah ali imron :9<br /><br />aartinya:Sesungguhnya Allah tidak menganiaya seseorang walaupun sebesar zarrah, 
+dan jika ada kebajikan sebesar zarrah, niscaya Allah akan melipat 
+gandakannya dan memberikan dari sisi-Nya pahala yang besar.(surah an nisa :40)<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="ayat-alquran-tentang-al-jami">
+                            37. ayat Alquran tentang al jami</h2><br />
+                        Maha mengumpulkan segala sesuatu yg tersebar baik Serupa, Berbeda, Bahkan berlawanan.Contohnya : Gugusan galaksi, bintang², Hewan², Tumbuh tumbuhan, Dan macam macam lainnya.Dan kita sebagai manusia harus menjaga ciptaan allah swt<br />
+                                            <h2 class="ez-toc-section" id="apa-manfaat-kita-meneladani-al-jami">
+                            38. Apa manfaat kita meneladani al jami?</h2><br />
+                        KENAPA AL JAMI HARUS DITELADANI  KARENA AL JAMI ADALAH BAHASA ARAB DAN DICIPTAKAN OLEH NABI ATAU ALLAH SWT <br /><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-al-jami">
+                            39. Apa yang dimaksud dengan al-jami</h2><br />
+                        Allah Maha Mengumpulkan<br />
+                                            <h2 class="ez-toc-section" id="pertanyaan-sulit-tentang-al-jami">
+                            40. Pertanyaan sulit tentang Al jami</h2><br />
+                        gak nyambung pertanyaanya<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_arab</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/he-s/">He s</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/keunikan-karya-tari-dapat-dilihat-dari/">Keunikan Karya Tari Dapat Dilihat Dari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/0-05-diubah-menjadi-pecahan-biasa/">0 05 Diubah Menjadi Pecahan Biasa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/teknik-dan-cara-pengolahan-pempek/">Teknik Dan Cara Pengolahan Pempek</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kalimat-angkasa/">Kalimat Angkasa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jika-5x-4-8x-11-maka-nilai-x-2-adalah/">Jika 5x 4 8x 11 Maka Nilai X 2 Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/media-penerangan/">Media Penerangan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/andai-kalian-sebagai-pemilik-bank-pemberi-pinjaman-modal/">Andai Kalian Sebagai Pemilik Bank Pemberi Pinjaman Modal</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/75-dollar-berapa-rupiah/">75 Dollar Berapa Rupiah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dibawah-ini-yang-bukan-termasuk-elemen-elemen-komputer-adalah/">Dibawah Ini Yang Bukan Termasuk Elemen Elemen Komputer Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-formal/">Contoh Formal</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebutkan-50-hewan-buas/">Sebutkan 50 Hewan Buas</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1-newton-berapa-kg/">1 Newton Berapa Kg</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nama-file-data-bisnis-harus-unik-artinya/">Nama File Data Bisnis Harus Unik Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/manusia-berdosa-tidak-akan-pernah-mengalami-pembaharuan-kehidupan-tanpa-melalui/">Manusia Berdosa Tidak Akan Pernah Mengalami Pembaharuan Kehidupan Tanpa Melalui</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/simbol-pangkat-2/">Simbol Pangkat 2</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fungsi-lambung-brainly/">Fungsi Lambung Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/faktor-internal-dan-eksternal/">Faktor Internal Dan Eksternal</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sistem-pemerintahan-kamboja-adalah/">Sistem Pemerintahan Kamboja Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/aspek-adalah/">Aspek Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

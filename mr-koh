@@ -1,0 +1,1273 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mr Koh - BELAJAR</title>
+    <meta name="description" content="Mr Koh, , , , , , , 0, Mr Koh Juay Meng-01 - THYE HUA KWAN MORAL CHARITIES, www.thkmc.org.sg, 768 x 768, png, , 20, mr-koh, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Mr Koh - BELAJAR" />
+    <meta property="og:description" content="Mr Koh, , , , , , , 0, Mr Koh Juay Meng-01 - THYE HUA KWAN MORAL CHARITIES, www.thkmc.org.sg, 768 x 768, png, , 20, mr-koh, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Mr Koh - BELAJAR" />
+    <meta name="twitter:description" content="Mr Koh, , , , , , , 0, Mr Koh Juay Meng-01 - THYE HUA KWAN MORAL CHARITIES, www.thkmc.org.sg, 768 x 768, png, , 20, mr-koh, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Mr Koh</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">Septanintyas4195</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Mr+Koh" alt="Mr Koh">
+                    </div>
+                    <p></p>
+                    <p>Tentukan kemolalan larutan koh 25 (mr koh</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-kemolalan-larutan-koh-25-mr-koh">1.
+                                            Tentukan kemolalan larutan koh 25 (mr koh</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hitunglah-mr-dari-koh">2.
+                                            Hitunglah Mr dari KOH</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hitunglah-mr-dari-koh">3.
+                                            hitunglah Mr dari KOH</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapa-massa-koh-yang-dilarutkan-untuk-membuat-larutan-koh-01m-sebanyak-2000ml-mr-koh-56">4.
+                                            Berapa massa KOH yang dilarutkan untuk membuat larutan KOH 0,1M sebanyak 2000ml ? (Mr KOH = 56)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapakah-mr-dari-senyawa-koh">5.
+                                            berapakah Mr dari senyawa KOH</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#untuk-membuat-500-ml-larutan-koh-02-m-diperlukan-kristal-koh-murni-sebanyak-mr-koh-56">6.
+                                            untuk membuat 500 ml larutan KOH 0,2 M diperlukan kristal KOH murni sebanyak.. (Mr KOH = 56)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#larutan-koh-25-ml-hcl-02-m-menggunakan-indikator-fenolftalein-massa-koh-tersebut-adalah-mr-koh-56">7.
+                                            larutan KOH 25 mL. HCL 0,2 M menggunakan indikator fenolftalein. Massa KOH tersebut adalah ....... ( Mr KOH : 56 )</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#untuk-membuat-500ml-larutan-koh-02-m-diperlukan-kristal-koh-murni-sebanyak-mr-koh-56">8.
+                                            untuk membuat 500ML larutan KOH 0,2 M diperlukan kristal KOH murni sebanyak...
+(Mr KOH= 56)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#larutan-koh-mempunyai-ph-12-jika-mr-koh-56-hitunglah-massa-koh-yang-terlarut-dalam-2-liter-larutan-tersebut">9.
+                                            Larutan KOH mempunyai pH = 12 jika Mr KOH = 56 hitunglah massa KOH yang terlarut dalam 2 liter larutan tersebut </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#seorang-siswa-diminta-menyediakan-100-ml-larutan-koh-02m-massa-larutan-koh-yang-diperlukan-adalah-sebanyak-mr-koh56">10.
+                                            Seorang siswa diminta menyediakan 100 ml larutan KOH 0,2M. Massa larutan KOH yang diperlukan adalah sebanyak....(Mr KOH=56) </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#seorang-siswa-menyediakan-500-mllarutan-koh-02-m-massa-koh-yang-diperlukan-sebanyak-mr-koh-56">11.
+                                            seorang siswa menyediakan 500 mllarutan KOH 0,2 m massa KOH yang diperlukan sebanyak.? (Mr KOH =56)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#untuk-membuat-500-ml-larutan-koh-02-m-diperlukan-kristal-koh-sebanyak-mr-koh">12.
+                                            Untuk membuat 500 ml larutan KOH 0,2 M diperlukan kristal KOH sebanyak...(Mr KOH</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#terdapat-larutan-koh-25-jika-mr-koh-56-tentukan-fraksi-mol-koh">13.
+                                            Terdapat larutan KOH 25%, jika Mr KOH = 56, tentukan fraksi mol KOH !</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#seorang-siswa-diminta-menyediakan-500-ml-larutan-koh-02-m-massa-koh-yang-diperlukan-sebanyak-mr-koh-56">14.
+                                            Seorang siswa diminta menyediakan 500 ml larutan KOH 0,2 M. massa KOH yang diperlukan sebanyak... ( mr KOH = 56 )</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapa-gram-koh-mr56-dalam-air-mr18-yang-harus-dicampur-untuk-membuat-larutan-koh-2-molal-sebanyak-200-gram">15.
+                                            berapa gram KOH (Mr=56) dalam air (Mr=18) yang harus dicampur untuk membuat larutan KOH 2 molal sebanyak 200 gram ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-massa-jenis-koh-12-gml-maka-kadar-koh-dalam-larutan-adalah-dik-koh-6m-mr-56">16.
+                                            Jika massa jenis KOH 1,2 g/mL, maka kadar KOH dalam larutan adalah... (dik KOH 6M, Mr = 56) </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#koh-dengan-mr-56-dan-memiliki-berat-10-gram-maka-mol-koh-adalah-%c2%a0%e2%80%8b">17.
+                                            Koh dengan mr 56 dan memiliki berat 10 gram maka mol koh adalah.... *​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#untuk-membuat-500ml-larutan-koh-0-2-m-diperlukan-kristal-koh-murni-sebanyak-mr-koh56">18.
+                                            Untuk membuat 500ml larutan koh 0.2 m diperlukan kristal koh murni sebanyak mr koh=56</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#larutan-kalium-hidroksida-koh-02-m-artinya-%e2%80%a6%e2%80%a6mr-koh-56">19.
+                                            Larutan kalium hidroksida (KOH) 0,2 M artinya ……(Mr KOH = 56)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebanyak-7-gram-koh-mr56-dilarutkan-dalam-250-ml-air-maka-molaritas-dari-koh-adalah">20.
+                                            sebanyak 7 gram KOH (Mr=56) dilarutkan dalam 250 ml air, maka molaritas dari KOH adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#untuk-membuat-500-ml-larutan-koh-02m-diperlukan-kristal-koh-murni-sebanyak-mr-koh56">21.
+                                            untuk membuat 500 mL larutan KOH 0,2M diperlukan kristal KOH murni sebanyak..... (Mr KOH=56)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#terdapat-larutan-koh-25-jika-mr-koh-56tentukan-fraksi-mol-koh">22.
+                                            terdapat larutan koh 25%. Jika Mr KOH =56,tentukan fraksi mol KOH</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#untuk-membuat-500-ml-larutan-koh-02-m-diperlukan-kristal-koh-murni-sebanyak-mr-koh-56">23.
+                                            Untuk membuat 500 ML larutan KOH 0,2 M diperlukan kristal KOH murni sebanyak (Mr KOH =56)?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapakah-massa-koh-untuk-membuat-500ml-koh-04-m-jika-mr-koh56">24.
+                                            Berapakah massa koh untuk membuat 500ml koh 0,4 m jika mr koh=56</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-11-2-gram-koh-mr-56-dilarutkan-dalam-90-gram-air-mr-18-maka-fraksi-mol-koh-dalam-air-adalah">25.
+                                            Jika 11.2 gram KOH (Mr 56) dilarutkan dalam 90 gram air (Mr 18) maka fraksi mol KOH dalam air adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#500-ml-larutan-koh-02-m-memiliki-gram-mr-koh-56">26.
+                                            500 ml larutan KOH 0,2 M memiliki..gram (Mr KOH =56)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-liter-koh-dengan-ph14-jika-mr-koh-56-maka-banyaknya-koh-yg-dilarutkan-adalah">27.
+                                            2 liter KOH dengan ph=14 jika mr KOH 56 maka banyaknya KOH yg dilarutkan adalah...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#larutan-koh-1-molar-mr56dapat-dibuat-dengan-melarutkan-28-gr-koh-dengan">28.
+                                            larutan KOH 1 molar (Mr:56)dapat dibuat dengan melarutkan 28 gr KOH dengan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapa-gram-koh-mr-56-dan-air-mr-18-yang-harus-dicampur-untuk-membuat-larutan-koh-2-molal-sebanyak-200-gram">29.
+                                            Berapa gram KOH (Mr = 56) dan air (Mr = 18) yang harus dicampur untuk membuat larutan KOH 2 molal sebanyak 200 gram?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#terdapat-larutan-koh-25-mr-koh-40-tentukan-fraksi-mol-koh-tersebut">30.
+                                            terdapat larutan KOH 25% (Mr KOH = 40) tentukan fraksi mol KOH tersebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapa-kemolaran-dari-28-gram-koh-dalam-20-ml-larutanmr-koh-56%e2%80%8b">31.
+                                            Berapa kemolaran dari 2,8 gram KOH dalam 20 ML larutan?(Mr KOH = 56)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#massa-kohmr56-yang-bereaksi">32.
+                                            massa KOH(Mr=56) yang bereaksi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#untuk-membuat-500-ml-larutan-koh-02m-diperlukan-kristal-koh-murni-sebanyak-mr-koh56">33.
+                                            untuk membuat 500 mL larutan KOH 0,2M diperlukan kristal KOH murni sebanyak..... (Mr KOH=56)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapa-massa-koh-yang-dilarutkan-untuk-membuat-larutan-koh-01m-sebanyak-2000-ml-mr-koh-56">34.
+                                            Berapa massa KOH yang dilarutkan untuk membuat larutan KOH 0,1M sebanyak 2000 ml ? (Mr KOH = 56 )</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapa-gram-kohmr56-yg-harus-dicampur-untuk-membuat-larutan-koh-2-molal-sebanyak-700-gram-air-mr18">35.
+                                            Berapa gram KoH(mr=56) yg harus dicampur untuk membuat larutan KoH 2 molal sebanyak 700 gram air (mr=18)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#larutan-koh-mr-koh-56-dibuat-dengan-melarutkan-padatan-koh-yang-di-buat-dapat-menetralkan-02-mol-ch3-cooh-massa-koh-yang-di-larutkan-sebanyak">36.
+                                            Larutan KOH (Mr KOH= 56) dibuat dengan melarutkan padatan KOH yang di buat dapat menetralkan 0,2 mol CH3 COOH ,massa KOH yang di larutkan sebanyak </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-l-koh-dengan-ph14-jika-mr-koh56-banyaknya-koh-yang-dilarutkan-adalah">37.
+                                            2 L KOH dengan PH=14 jika Mr KOH=56 banyaknya KOH yang dilarutkan adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#untuk-membuat-500-ml-larutan-koh-02-m-mr-koh-56-diperlukan-kristal-koh-murni-sebanyak">38.
+                                            untuk membuat 500 mL larutan KOH 0,2 M (Mr KOH= 56) diperlukan kristal KOH murni sebanyak</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#larutan-koh-mempunyai-ph-12-jika-mr-koh-56-hitunglah-massa-koh-yang-terlarut-dalam-2-liter-larutan-tersebut">39.
+                                            Larutan KOH mempunyai pH = 12 jika Mr KOH = 56 hitunglah massa KOH yang terlarut dalam 2 liter larutan tersebut </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-massa-relatif-mr-koh%e2%80%8b">40.
+                                            tentukan massa relatif (Mr) KOH​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="tentukan-kemolalan-larutan-koh-25-mr-koh">
+                            1. Tentukan kemolalan larutan koh 25 (mr koh</h2><br />
+                        <p>KOH 25% = 25 gr KOH, 100 larutan </p><p>Mr terlarut = 65</p><p>Dit: Kemolalan?</p><p>Masa pelarut= Masa larutan - Masa terlarut</p><p>= 100 - 25</p><p>= 75 gr</p><p>= 0,075 kg</p><br />
+                                            <h2 class="ez-toc-section" id="hitunglah-mr-dari-koh">
+                            2. Hitunglah Mr dari KOH</h2><br />
+                        k = 19 <br />O = 16 <br />H = 1<br /><br />KOH = 19 + 16 + 1 = 36<br />
+                                            <h2 class="ez-toc-section" id="hitunglah-mr-dari-koh">
+                            3. hitunglah Mr dari KOH</h2><br />
+                        Mr KOH = Ar K + Ar O + Ar H = 39 + 16 + 1 = 56<br />
+                                            <h2 class="ez-toc-section" id="berapa-massa-koh-yang-dilarutkan-untuk-membuat-larutan-koh-01m-sebanyak-2000ml-mr-koh-56">
+                            4. Berapa massa KOH yang dilarutkan untuk membuat larutan KOH 0,1M sebanyak 2000ml ? (Mr KOH = 56)</h2><br />
+                        Diketahui :<br />Larutan KOH 0,1 M<br />Mr = 56<br />V = 2000mL = 2 L<br />Ditanya : massa KOH ?<br />Jawab :<br />Pertama, cari mol nya<br />mol = M x V<br />mol = 0,1M x 2L = 0,2 mol<br />Lalu, tentukan massa dgn rumus :<br />massa = mol x Mr<br />massa = 0,2 x 56 = 11,2 gram<br /><strong>Jadi, dibutuhkan KOH sebanyak 11,2 gram.</strong><br />
+                                            <h2 class="ez-toc-section" id="berapakah-mr-dari-senyawa-koh">
+                            5. berapakah Mr dari senyawa KOH</h2><br />
+                        <p>Nilai Mr dari senyawa KOH adalah <strong>56 g/mol</strong> atau <strong>56 sma (satuan massa atom)</strong>. Nilai ini memberikan informasi di mana untuk setiap mol senyawa kalium hidroksida mempunyai massa sebesar 56 gram.</p><p></p>Penjelasan dengan langkah-langkah<p><strong>KOH </strong>atau <strong>kalium hidroksida</strong> merupakan senyawa basa di mana ketika dilarutkan dalam air akan membentuk larutan basa kuat karena akan terionisasi sempurna di dalam pelarutnya. Nilai Mr atau massa molekul relatif KOH dapat diperoleh dengan menjumlahkan massa atom relatif unsur kalium, oksigen, dan hidrogen.</p><p><strong>Diketahui</strong>:</p>Referensi : Tabel periodik unsur.<br />Ar H = 1 sma.<br />Ar O = 16 sma.<br />Ar K = 39 sma. <p><strong>Ditanyakan</strong>:</p><p>Mr KOH = ?</p><p><strong>Penyelesaian</strong>:</p><p>Mr KOH = Ar K + Ar O + Ar H<br />Mr KOH = 39 + 16 + 1<br />Mr KOH =<strong> 56 sma.</strong></p><p></p>Pelajari lebih lanjutMateri tentang perhitungan Mr dan mol dari asam laurate dan asam palmitat, serta kadar campuran:<br />https://brainly.co.id/tugas/52733882Materi tentang perhitungan Mr HI, HCN, LiOH, dan CH₃OH:<br />https://brainly.co.id/tugas/11392533Materi tentang perhitungan Mr AgNO₃:<br />https://brainly.co.id/tugas/29445658<p>______________</p>Detail jawaban<p><strong>Kelas    </strong>: X<br /><strong>Mapel  </strong>: Kimia<br /><strong>Bab      </strong>: 7 - Stoikiometri<br /><strong>Kode</strong>    : 10.7.7</p><br />
+                                            <h2 class="ez-toc-section" id="untuk-membuat-500-ml-larutan-koh-02-m-diperlukan-kristal-koh-murni-sebanyak-mr-koh-56">
+                            6. untuk membuat 500 ml larutan KOH 0,2 M diperlukan kristal KOH murni sebanyak.. (Mr KOH = 56)</h2><br />
+                        M=m/mr x 1000/v<br />0,2=m/56 x 1000/500<br />0,2=m/56 x 2<br />m=(0,2 x 56)/2=5,6 gram<br />
+                                            <h2 class="ez-toc-section" id="larutan-koh-25-ml-hcl-02-m-menggunakan-indikator-fenolftalein-massa-koh-tersebut-adalah-mr-koh-56">
+                            7. larutan KOH 25 mL. HCL 0,2 M menggunakan indikator fenolftalein. Massa KOH tersebut adalah ....... ( Mr KOH : 56 )</h2><br />
+                        baca ya<br /><br />maaf jika salah^^<br />
+                                            <h2 class="ez-toc-section" id="untuk-membuat-500ml-larutan-koh-02-m-diperlukan-kristal-koh-murni-sebanyak-mr-koh-56">
+                            8. untuk membuat 500ML larutan KOH 0,2 M diperlukan kristal KOH murni sebanyak...
+(Mr KOH= 56)</h2><br />
+                        1. dicari mol KOH dulu, caranya : Volume x konsentrasi<br />mol= 500 x 0,2 = 100 mmol = 100 x [tex]  10^{-3} [/tex]<br />=0,1 mol<br />2. dicari massa kristal KOH<br />mol= massa/Mr KOH<br />massa = mol x Mr KOH<br />= 0,1 x 56 = 5,6 gram kristal KOH<br />Volume x konsentrasi<br />mol= 500 x 0,2 = 100 mmol = 100 x <br />=0,1 mol<br />2. dicari massa kristal KOH<br />mol= massa/Mr KOH<br />massa = mol x Mr KOH<br />= 0,1 x 56 = 5,6 gram kristal KOH<br /><br />
+                                            <h2 class="ez-toc-section" id="larutan-koh-mempunyai-ph-12-jika-mr-koh-56-hitunglah-massa-koh-yang-terlarut-dalam-2-liter-larutan-tersebut">
+                            9. Larutan KOH mempunyai pH = 12 jika Mr KOH = 56 hitunglah massa KOH yang terlarut dalam 2 liter larutan tersebut </h2><br />
+                        Selamat belajar semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="seorang-siswa-diminta-menyediakan-100-ml-larutan-koh-02m-massa-larutan-koh-yang-diperlukan-adalah-sebanyak-mr-koh56">
+                            10. Seorang siswa diminta menyediakan 100 ml larutan KOH 0,2M. Massa larutan KOH yang diperlukan adalah sebanyak....(Mr KOH=56) </h2><br />
+                        M = n/v = 0,2M/0,1L = 2<br />M = gram/Mr x 1L/volume larutan<br />2 = gram/56 x 1L/0,1L<br />2 = gram/56 x 10L<br />2 = 10gram/56<br />112 = 10gram<br />11,2 gram = gram (massa)<br /><br />
+                                            <h2 class="ez-toc-section" id="seorang-siswa-menyediakan-500-mllarutan-koh-02-m-massa-koh-yang-diperlukan-sebanyak-mr-koh-56">
+                            11. seorang siswa menyediakan 500 mllarutan KOH 0,2 m massa KOH yang diperlukan sebanyak.? (Mr KOH =56)</h2><br />
+                        M = massa/Mr x 1000/V<br />0,2=m/56 x 1000/500<br />0,2=m/56 x 2<br />m=0,2/2 x 56<br />   = 5,6 gram<br />maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="untuk-membuat-500-ml-larutan-koh-02-m-diperlukan-kristal-koh-sebanyak-mr-koh">
+                            12. Untuk membuat 500 ml larutan KOH 0,2 M diperlukan kristal KOH sebanyak...(Mr KOH</h2><br />
+                        Rumus:<br />M = massa/Mr x 1000/V<br />0,2 = massa/56 x 1000/500<br />massa = 5,6 gram<br /><br />
+                                            <h2 class="ez-toc-section" id="terdapat-larutan-koh-25-jika-mr-koh-56-tentukan-fraksi-mol-koh">
+                            13. Terdapat larutan KOH 25%, jika Mr KOH = 56, tentukan fraksi mol KOH !</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>0.0976</p><p><strong>Penjelasan:</strong></p><p>dik : KOH = 25% = 25/100 = 0.25 gram</p><p>pelarut (air) = 100%-25%=75% = 75/100 = 0.75 gram</p><p>Mr KOH = 56 g/mol</p><p>Mr H2O = 18 g/mol</p><p>dit : X KOH</p><p>penyelesaian :</p><p>n KOH = g/Mr = 0.25/56 = 0.0045 </p><p>n H2O = g/Mr = 0.75/18 = 0.0416</p><p></p><p>X KOH = n KOH /(n KOH + n H2O) </p><p>X KOH = 0.0045 /(0.0045 + 0.0416)</p><p>X KOH = 0.0045/0.0461</p><p>X KOH = 0.0976</p><br />
+                                            <h2 class="ez-toc-section" id="seorang-siswa-diminta-menyediakan-500-ml-larutan-koh-02-m-massa-koh-yang-diperlukan-sebanyak-mr-koh-56">
+                            14. Seorang siswa diminta menyediakan 500 ml larutan KOH 0,2 M. massa KOH yang diperlukan sebanyak... ( mr KOH = 56 )</h2><br />
+                        jawabanya sebagai berikut 1.harus mengaliakan dulu untukendapat mol yaitu 500×0,2=100mol<br />2.baru mencari massa dengan rumus (mol=massa/Mr)<br />setelah itu(100=massa/56)<br />pindah ruas menjadi (massa =100×56)<br />jadi jawabnya 5600 gram <br />
+                                            <h2 class="ez-toc-section" id="berapa-gram-koh-mr56-dalam-air-mr18-yang-harus-dicampur-untuk-membuat-larutan-koh-2-molal-sebanyak-200-gram">
+                            15. berapa gram KOH (Mr=56) dalam air (Mr=18) yang harus dicampur untuk membuat larutan KOH 2 molal sebanyak 200 gram ?</h2><br />
+                        Dik: Mr t=56<br />        Mr p=18<br />        gr p=200<br />        m=2<br />Dit: gr t?<br />jwb:<br />m=gr t/mr t x 1000/gr p<br />2=gr t/56 x 1000/200<br />2=1000gr t/11.200<br />22.400=1000gr t<br />gr t=22.400/1000<br />gr t=22,4 gram<br /><br />semoga membantu^_^<br />
+                                            <h2 class="ez-toc-section" id="jika-massa-jenis-koh-12-gml-maka-kadar-koh-dalam-larutan-adalah-dik-koh-6m-mr-56">
+                            16. Jika massa jenis KOH 1,2 g/mL, maka kadar KOH dalam larutan adalah... (dik KOH 6M, Mr = 56) </h2><br />
+                        massa jenis= 1,2<br />M= 6<br />Mr= 56<br />Jawab:<br />M= %.10.massa jenis/Mr<br />6= %.10.1,2/56<br />6.56= 12.%<br />336= 12.%<br />%= 336/12<br />%= 28<br />jadi kadar KOH = 28%<br />
+                                            <h2 class="ez-toc-section" id="koh-dengan-mr-56-dan-memiliki-berat-10-gram-maka-mol-koh-adalah-%c2%a0%e2%80%8b">
+                            17. Koh dengan mr 56 dan memiliki berat 10 gram maka mol koh adalah.... *​</h2><br />
+                        <p><strong>Jawab:</strong><strong> </strong><strong>0</strong><strong>,</strong><strong>1</strong><strong>8</strong><strong> </strong><strong>mol</strong><strong> </strong></p><p></p><p></p><p><strong>Diketahui</strong><strong>:</strong><strong> </strong> </p><p>Mr KOH = 56 gr/mol</p><p>m KOH = 10 gr</p><p></p><p><strong>Ditanya:</strong><strong> </strong>n KOH?</p><p></p><p><strong>Langkah-langkah:</strong></p><p>n= m/Mr</p><p><strong>[tex]n =  \frac{10gr}{56gr.{mol}^{ - 1} } [/tex]</strong></p><p><strong>n</strong><strong> </strong><strong>=</strong><strong> </strong><strong>0</strong><strong>,</strong><strong>1</strong><strong>8</strong><strong> </strong><strong>mol.</strong></p><br />
+                                            <h2 class="ez-toc-section" id="untuk-membuat-500ml-larutan-koh-0-2-m-diperlukan-kristal-koh-murni-sebanyak-mr-koh56">
+                            18. Untuk membuat 500ml larutan koh 0.2 m diperlukan kristal koh murni sebanyak mr koh=56</h2><br />
+                        volume = 500 ml<br />Molaritas = 0,2 M<br />mol = molaritas x volume<br />= 500 x 0,2<br />= 100 mmol<br /><br />Mr KOH = 56<br />massa = mol x mr<br />= 100 x 56<br />= 5600 mg<br />= 5,6 gram<br /><br />
+                                            <h2 class="ez-toc-section" id="larutan-kalium-hidroksida-koh-02-m-artinya-%e2%80%a6%e2%80%a6mr-koh-56">
+                            19. Larutan kalium hidroksida (KOH) 0,2 M artinya ……(Mr KOH = 56)</h2><br />
+                        <p>KOH 0,2M artinya dalam 1 liter larutan terdapat 0,2 mol KOH.</p><p></p><p>Jika dinyatakan dalam gram:</p><p>gram = n x Mr</p><p>         = 0,2 x 56</p><p>         = 11,2 gram</p><p></p><p>Kalimat di atas bisa diubah menjadi</p><p>KOH 0,2M artinya dalam 1 liter larutan terdapat 11,2 gram KOH.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="sebanyak-7-gram-koh-mr56-dilarutkan-dalam-250-ml-air-maka-molaritas-dari-koh-adalah">
+                            20. sebanyak 7 gram KOH (Mr=56) dilarutkan dalam 250 ml air, maka molaritas dari KOH adalah</h2><br />
+                        dik :<br />m KOH = 7 gram<br />Mr = 56<br />V = 250 ml = 0,25 l<br /><br />dit :<br />Molaritas ?<br /><br />jwb :<br />n = m / Mr<br />n = 7/56<br />n = 1/8<br />n = 0,125<br /><br />M = n / v<br />M = 0,125 / 0,25<br />M = 0,5 M<br /><br />molaritasnya adalah 0,5m= 7 gr<br />Mr= 56<br />M.pelarut= = 250= 0,25<br />.<br />M?<br /><br />n= m/Mr<br />   = 7/56= 1/8= 0,125<br />M= n/volume= 0,125/0,25= 0,25<br /><br />semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="untuk-membuat-500-ml-larutan-koh-02m-diperlukan-kristal-koh-murni-sebanyak-mr-koh56">
+                            21. untuk membuat 500 mL larutan KOH 0,2M diperlukan kristal KOH murni sebanyak..... (Mr KOH=56)</h2><br />
+                        V = 500 mL = 0,5 L<br /><br />[tex]M= \frac{gr/Mr}{V} \\  \\ 0,2= \frac{gr/56}{0,5} \\  \\ 0,1= \frac{gr}{56} \\  \\ gr=5,6~gram   [/tex]<br />
+                                            <h2 class="ez-toc-section" id="terdapat-larutan-koh-25-jika-mr-koh-56tentukan-fraksi-mol-koh">
+                            22. terdapat larutan koh 25%. Jika Mr KOH =56,tentukan fraksi mol KOH</h2><br />
+                        <p>#sifat koligatif larutan<br />#fraksi mol<br />#XII semester 1<br /><br />Fraksi mol (X)<br />Hasil bagi mol zat terlarut/pelarut dengan jumlah mol total (mol terlarut + mol pelarut)<br /><br />%massa KOH = 25%<br />Kita misalkan massa total = 100 gram<br />massa KOH = 25 gram<br />Massa air/H2O = 75 gram<br /><br />nt = massa/Mr = 25/56 = 0,446 mol<br />np = massa/Mr = 75/18 = 4,167 mol<br /><br />Xt (fraksi mol KOH) = nt / nt + np<br />= 0,446 / 0,446 + 4,167<br />= 0,446 / 4,613<br />= 0,0967<br /><br />Xp (fraksi mol H2O) = 1 - Xt<br />= 1 - 0,0967<br />= 0,9033<br /><br /><br />@kimiaischemistry</p>#sifat koligatif larutan<br />#fraksi mol<br />#XII semester 2<br /><br />gr KOH = 25% = 25 gram.<br />gr H2O = (100 - 25) = 75 gram.<br /><br />KOH sebagai Xt<br />H2O sebagai Xp<br /><br />mol KOH = gr / Mr<br />mol KOH = 25 / 56<br />mol KOH = 0,45 mol<br /><br />mol H2O = gr / Mr<br />mol H2O = 75 / 18<br />mol H2O = 4,2<br /><br />fn KOH = nXp / (nXp+nXt)<br />fn KOH = 0,45 / (0,45+4,2)<br />fn KOH = 0,45 / 4,65<br />fn KOH = 0,0967<br /><br />fn H2O = 1 - 0,0967<br />fn H2O = 0,9033<br /><br />catatan: <br />fn = fraksi mol<br /><br />#kimiaschemistry<br /><br />
+                                            <h2 class="ez-toc-section" id="untuk-membuat-500-ml-larutan-koh-02-m-diperlukan-kristal-koh-murni-sebanyak-mr-koh-56">
+                            23. Untuk membuat 500 ML larutan KOH 0,2 M diperlukan kristal KOH murni sebanyak (Mr KOH =56)?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>5,6 gram</p><p><strong>Penjelasan:</strong></p><p>M = n/V</p><p>0,2 M = (massa/56) / (0,5 L)</p><p>massa/56 = 0,2 × 0,5</p><p>massa/56 = 0,1</p><p>massa = 5,6 gram ✔️</p><p>∴ <strong>Kristal </strong><strong>KOH </strong><strong>murni </strong><strong>yang </strong><strong>diperlukan </strong><strong>sebanyak </strong><strong>5</strong><strong>,</strong><strong>6</strong><strong> </strong><strong>gram.</strong></p><br />
+                                            <h2 class="ez-toc-section" id="berapakah-massa-koh-untuk-membuat-500ml-koh-04-m-jika-mr-koh56">
+                            24. Berapakah massa koh untuk membuat 500ml koh 0,4 m jika mr koh=56</h2><br />
+                        mol KOH = M x V <br />                = 0,4 M x 0,5 L = 0,2 mol<br />massa = mol x Mr = 0,2 x 56 = 11,2 gram<br /><br />
+                                            <h2 class="ez-toc-section" id="jika-11-2-gram-koh-mr-56-dilarutkan-dalam-90-gram-air-mr-18-maka-fraksi-mol-koh-dalam-air-adalah">
+                            25. Jika 11.2 gram KOH (Mr 56) dilarutkan dalam 90 gram air (Mr 18) maka fraksi mol KOH dalam air adalah</h2><br />
+                        wt = 11,2 gr (Mr = 56)<br />wp = 90 (Mr =18)<br />Xt = ....................?<br /><br />nt = wt/Mr = 11,2/56 = 0,2 mol<br />np = wp/Mr = 90/18 = 5 mol<br /><br />Xt = nt/(nt+np) = 0,2/(0,2+5) = 0,2/5,2 = <strong>0,038</strong><br /><br />
+                                            <h2 class="ez-toc-section" id="500-ml-larutan-koh-02-m-memiliki-gram-mr-koh-56">
+                            26. 500 ml larutan KOH 0,2 M memiliki..gram (Mr KOH =56)</h2><br />
+                        500 ml = 0,5 liter<br />M = 0,2 M<br /><br />massa = mol x Mr<br />massa KOH = (M x V) Mr = (0,2 x 0,5) 56 = 5,6 gram<br /><br />Semoga dapat membantu<br />
+                                            <h2 class="ez-toc-section" id="2-liter-koh-dengan-ph14-jika-mr-koh-56-maka-banyaknya-koh-yg-dilarutkan-adalah">
+                            27. 2 liter KOH dengan ph=14 jika mr KOH 56 maka banyaknya KOH yg dilarutkan adalah...</h2><br />
+                        pH = 14<br /><br />pOH = 14 -pH = 14 -14 = 0<br /><br />[OH⁻] = 10⁰ = 1 M<br /><br />mol = M X V = 1 M  X 2 L = 2 mol<br /><br />mol KOH = 2 OH⁻ = 2 mol<br /><br />massa KOH = mol X Mr = 2 X 56 = 112 gram<br /><br />
+                                            <h2 class="ez-toc-section" id="larutan-koh-1-molar-mr56dapat-dibuat-dengan-melarutkan-28-gr-koh-dengan">
+                            28. larutan KOH 1 molar (Mr:56)dapat dibuat dengan melarutkan 28 gr KOH dengan</h2><br />
+                        laritan KOH 1 molar (Mr : 56) dapat di buat dengan melarutkan 28g KOH dengan 0,5 liter air<br />
+                                            <h2 class="ez-toc-section" id="berapa-gram-koh-mr-56-dan-air-mr-18-yang-harus-dicampur-untuk-membuat-larutan-koh-2-molal-sebanyak-200-gram">
+                            29. Berapa gram KOH (Mr = 56) dan air (Mr = 18) yang harus dicampur untuk membuat larutan KOH 2 molal sebanyak 200 gram?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p>M(molal)= n*1000/p</p><p></p><p>Dimana, n=mol dan p = massa air</p><p></p><p>•n=gr/Mr</p><p></p><p>Jdi , m=(gr/Mr)*1000/p</p><p>2= (gr/56)*1000/200</p><p>2= (gr/56)*5</p><p>2*56 = 5gr</p><p>gr = 22,4 gram</p><p> </p><p>semoga membantu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="terdapat-larutan-koh-25-mr-koh-40-tentukan-fraksi-mol-koh-tersebut">
+                            30. terdapat larutan KOH 25% (Mr KOH = 40) tentukan fraksi mol KOH tersebut</h2><br />
+                        karena massa larutan tidak diberitahu, maka kita anggap saja massa larutannya 100 gram.<br /><br />jika massa larutan 100 gram, massa KOH adalah 25 gram dan massa air jelas 75 gram.<br /><br />mol KOH = massa / Mr = 25 / 40 = 0,625 mol<br />mol air = massa / Mr = 75 / 18 = 4,167 mol<br /><br />X KOH = mol KOH / (mol KOH + mol air)<br />X KOH = 0,625 / (0,625 + 4,167)<br />X KOH = 0,13<br />
+                                            <h2 class="ez-toc-section" id="berapa-kemolaran-dari-28-gram-koh-dalam-20-ml-larutanmr-koh-56%e2%80%8b">
+                            31. Berapa kemolaran dari 2,8 gram KOH dalam 20 ML larutan?(Mr KOH = 56)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawaban terlpir dalam foto</p><br />
+                                            <h2 class="ez-toc-section" id="massa-kohmr56-yang-bereaksi">
+                            32. massa KOH(Mr=56) yang bereaksi</h2><br />
+                        1/56 mol yg beraksi pd 1 grm KOH<br />
+                                            <h2 class="ez-toc-section" id="untuk-membuat-500-ml-larutan-koh-02m-diperlukan-kristal-koh-murni-sebanyak-mr-koh56">
+                            33. untuk membuat 500 mL larutan KOH 0,2M diperlukan kristal KOH murni sebanyak..... (Mr KOH=56)</h2><br />
+                        V = 500 mL = 0,5 L<br /><br />[tex]M= \frac{gr/Mr}{V} \\ \\ 0,2= \frac{gr/56}{0,5} \\ \\ 0,1= \frac{gr}{56} \\ \\ gr=5,6~gram [/tex]<br />
+                                            <h2 class="ez-toc-section" id="berapa-massa-koh-yang-dilarutkan-untuk-membuat-larutan-koh-01m-sebanyak-2000-ml-mr-koh-56">
+                            34. Berapa massa KOH yang dilarutkan untuk membuat larutan KOH 0,1M sebanyak 2000 ml ? (Mr KOH = 56 )</h2><br />
+                        [tex]\displaystyle M=\frac{a}{Mr}\times\frac{1000}{V}\\\\0,1=\frac{a}{56}\times\frac{1000}{2000}\\a=\boxed{11,2~gram}[/tex]<br />
+                                            <h2 class="ez-toc-section" id="berapa-gram-kohmr56-yg-harus-dicampur-untuk-membuat-larutan-koh-2-molal-sebanyak-700-gram-air-mr18">
+                            35. Berapa gram KoH(mr=56) yg harus dicampur untuk membuat larutan KoH 2 molal sebanyak 700 gram air (mr=18)</h2><br />
+                        m=gr×1000/Mr×P<br />2=gr×1000/56×700<br />2=1000×gr/39200<br />78400=1000×gr<br />gr=78400/1000<br />gr KoH=78,4 gram<br />
+                                            <h2 class="ez-toc-section" id="larutan-koh-mr-koh-56-dibuat-dengan-melarutkan-padatan-koh-yang-di-buat-dapat-menetralkan-02-mol-ch3-cooh-massa-koh-yang-di-larutkan-sebanyak">
+                            36. Larutan KOH (Mr KOH= 56) dibuat dengan melarutkan padatan KOH yang di buat dapat menetralkan 0,2 mol CH3 COOH ,massa KOH yang di larutkan sebanyak </h2><br />
+                        ini jawabannya,maaf kalo salah.<br />
+                                            <h2 class="ez-toc-section" id="2-l-koh-dengan-ph14-jika-mr-koh56-banyaknya-koh-yang-dilarutkan-adalah">
+                            37. 2 L KOH dengan PH=14 jika Mr KOH=56 banyaknya KOH yang dilarutkan adalah</h2><br />
+                        diketahui : KOH<br />pH = 14<br />Mr = 56<br />Vb = 1 (1OH^-)<br />V = 2 L<br /><br />ditanya : m<br /><br />jawab :<br />pOH = 14 - pH<br />= 14 - 14 = 0<br /><br />pOH = -log[OH^-]<br />0 = -log[OH^-]<br />-log1 = -log[OH^-] (-log habis)<br />1 = [OH^-]<br /><br />[OH^-] = M × Vb<br />1 = M × 1<br />M = 1 M<br /><br />n = M × V<br />= 1 × 2 = 2 mol<br /><br />m = n × Mr<br />= 2 × 56 = 112 gram<br /><br />keterangan :<br />n = mol (mol)<br />m = massa (gram)<br />Mr = massa molekul relatif (gram/mol)<br />[OH^-] = konsentrasi OH^-<br />M = molaritas (M)<br />V = Volume (L)<br />Vb = koefisien OH^-<br /><br />^ = pangkat<br /><br />maaf kalau salah<br />semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="untuk-membuat-500-ml-larutan-koh-02-m-mr-koh-56-diperlukan-kristal-koh-murni-sebanyak">
+                            38. untuk membuat 500 mL larutan KOH 0,2 M (Mr KOH= 56) diperlukan kristal KOH murni sebanyak</h2><br />
+                        [tex]M= \frac{gr/Mr}{V} \\  \\ 0,2= \frac{gr/56}{0,5} \\  \\ 0,1= \frac{gr}{56} \\  \\ gr=5,6~gram   [/tex]<br /><br />kristal KOH yang dibutuhkan adalah 5,6 gram<br />
+                                            <h2 class="ez-toc-section" id="larutan-koh-mempunyai-ph-12-jika-mr-koh-56-hitunglah-massa-koh-yang-terlarut-dalam-2-liter-larutan-tersebut">
+                            39. Larutan KOH mempunyai pH = 12 jika Mr KOH = 56 hitunglah massa KOH yang terlarut dalam 2 liter larutan tersebut </h2><br />
+                        pOH=14-12=2<br />[OH]=2<br />2=mol/2<br />4=mol<br />4=massa/56<br />224g=massa<br />:)<br />
+                                            <h2 class="ez-toc-section" id="tentukan-massa-relatif-mr-koh%e2%80%8b">
+                            40. tentukan massa relatif (Mr) KOH​</h2><br />
+                        <p>K=39 O=16 H=1</p><p>39+16+1=56</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>kimia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/when-did-habibie-s-father-die/">When Did Habibie s Father Die</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mendamaikan-teman-yang-sedang-berselisih/">Mendamaikan Teman Yang Sedang Berselisih</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/40-3/">40 3</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/inti-dari-sebuah-gagasan-dan-mudah-untuk-diingat-adalah/">Inti Dari Sebuah Gagasan Dan Mudah Untuk Diingat Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pangjejer/">Pangjejer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1-100-dalam-bahasa-inggris/">1 100 Dalam Bahasa Inggris</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/toyyib/">Toyyib</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/volume-gabungan-bangun-ruang-diatas-adalah/">Volume Gabungan Bangun Ruang Diatas Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/buah-j/">Buah J</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/cara-memasak-air/">Cara Memasak Air</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lakukan-pengubahan-satuan-di-bawah-ini/">Lakukan Pengubahan Satuan Di Bawah Ini</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apakah-yang-dimaksud-dengan-kerajinan-berbasis-media-campuran/">Apakah Yang Dimaksud Dengan Kerajinan Berbasis Media Campuran</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ciri-pernapasan-dada-pada-waktu-inspirasi-adalah/">Ciri Pernapasan Dada Pada Waktu Inspirasi Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sheher-artinya/">She/her Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-biosolar-b30-dibuat/">Bagaimana Biosolar B30 Dibuat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/wib/">Wib</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-olahraga-yang-memanfaatkan-gaya-tarik-adalah/">Contoh Olahraga Yang Memanfaatkan Gaya Tarik Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/100-300/">100 300</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pengertian-teknik-carving-adalah/">Pengertian Teknik Carving Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jalur-tanah-pada-kanan-kiri-sungai/">Jalur Tanah Pada Kanan Kiri Sungai</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

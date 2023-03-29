@@ -1,0 +1,1153 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sider Adalah - BELAJAR</title>
+    <meta name="description" content="Sider Adalah, , , , , , , 0, Sider Adalah - Crissy Morant Blog, crissymorantblogs.blogspot.com, 729 x 729, jpeg, , 20, sider-adalah, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Sider Adalah - BELAJAR" />
+    <meta property="og:description" content="Sider Adalah, , , , , , , 0, Sider Adalah - Crissy Morant Blog, crissymorantblogs.blogspot.com, 729 x 729, jpeg, , 20, sider-adalah, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Sider Adalah - BELAJAR" />
+    <meta name="twitter:description" content="Sider Adalah, , , , , , , 0, Sider Adalah - Crissy Morant Blog, crissymorantblogs.blogspot.com, 729 x 729, jpeg, , 20, sider-adalah, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Sider Adalah</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">chankywud</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Sider+Adalah" alt="Sider Adalah">
+                    </div>
+                    <p></p>
+                    <p>apa itu sider? terus gimana ciri&quot; orang sider-_-? gw bosen njir di katain sider terus awokawok pdhl gw gtau sider apaan:v bantu jawab ka​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-sider-terus-gimana-ciri-orang-sider-_-gw-bosen-njir-di-katain-sider-terus-awokawok-pdhl-gw-gtau-sider-apaanv-bantu-jawab-ka%e2%80%8b">1.
+                                            apa itu sider? terus gimana ciri" orang sider-_-? gw bosen njir di katain sider terus awokawok pdhl gw gtau sider apaan:v bantu jawab ka​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-sider">2.
+                                            apa itu sider??????????</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-sider">3.
+                                            apa yang dimaksud dengan sider</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-matahari-juga-bergerak-jika-bergerak-bagaimanakah-gerakannya3-tata-surya-terdiri-atas-matahari-dan-planet-planet-yang-berputar-mengelilinginya-jelaskan-secaraurut-susunan-planet-planet-dal">4.
+                                            Apakah matahari juga bergerak? jika bergerak, bagaimanakah gerakannya?3. tata surya terdiri atas matahari dan planet-planet yang berputar mengelilinginya. jelaskan secaraurut susunan planet-planet dalam tata surya dan karakteristiknya.4. suhu di lapisan inti matahari diperkirakan 16 jutac, oleh karena itu di lapisan ini terjadi reaksi fusi.jelaskan apa yang kamu ketahui tentang reaksi yang terjadi di matahari.5. apa penyebab utama terjadinya pergantian musim?6. mengapa bulan memiliki kala revolusi sider is dan sinodis?7. pasang laut adalah naik atau turunnya posisi permukaan perairan atau samudra yang disebabkanoleh pengaruh gaya gravitasi bulan dan matahari. ada tiga sumber gaya yang saling berinteraksi:laut, matahari, dan bulan. pasang air laut dibedakan menjadi pasang purnama dan pasang perbani.jelaskanlah perbedaannya.8. perhatikan gambar berikut.bulanumbra​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yang-gak-jawab-sider%e2%80%8b">5.
+                                            Yang gak jawab SIDER​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pari-2018wat-is-die-problem-apa-masa-yang-ada-semana-diatasfor-bniyanto2-what-are-the-choices-you-have-sebus-berasa-puan-alternative-yangakan-kamu-ambil-untuk-dilakukan-minimaldande-semalt-betrokk">6.
+                                            Pari 2018Wat is die problem (Apa masa yang ada semana diatas)For BNiyanto2 What are the choices you have? (Sebus berasa puan alternative yangakan kamu ambil untuk dilakukan minimaldande Semalt betrokke cha kusababu turlihatAlphet folk songs bosons for addi493 What do you think the consequences of these choices will be to yourself andothers who are involved? (Menurut kamu konsekuensi apa yang akan terjadibila kamu mengamba 3 pilihan/alternative diatas dan apa yang dilibaticanb. hanno lan hosek Panickador para todos eorgmakon siangBemor Y TONomor 5 Tahun 2016• Pacmandirbud RIMengacuWhat is your decision? (Dan 3 pilihan yang kamu buat di atas, mana yang akankamu pilih?)koberct spot koondon, Pokgin moborika AgumonbahwaSelenek felek fenel dedor part de la cara delikaS Do you you made the right decision? Wy? Apakah menurut kamukamu sudah membuat keputusan yang tepat? jelaskan mengapato one sider recta el segona testTorone Il Porteat long I dir toler dekker​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#questions-for-number-36-37-based-on-the-text-belowarifs-familymy-name-is-amr-denis-my-father-and-ms-nun-is-my-mother-they-love-me-very-muchi-have-two-brother-they-are-andi-and-jaka-and-i-have-one">7.
+                                             Questions for number 36-37 based on the text belowARIF'S FAMILYMy name is AMr Denis my father and Ms Nun is my mother they love me very muchI have two brother, they are Andi and Jaka, and I have one sider, her name is DewiI also have uncle and sunt the name are Robert and Tamara They have two childrenTia is their daughter and Micky is their son36. How many brother does All have37. Does Arif have uncle and aunt? Who are their name?38. Write these words into Indonesiana. No EnterWaiting roomc. Park here!39. Write this sentence below into EnglishAyu gadis yang cantik. Dia mempunyai hidung mancung dan mata besarDia juga mempunyai rambut yang panjang40. Write the antonym of these words:a HandsomeThinc. YoungJan Jawab asal plsyg punya ghaca yuk ^^subs ch ku jg yo-!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#answer-the-questions-based-on-the-dialoguedialogueaurelia-wow-this-banana-cake-is-so-yummy-1-did-you-take-it-by-yourselfliv-no-it-was-bakst-by-my-sider-sister-ana-s-maminaurelia-why-dont-you-try-bak">8.
+                                            Answer the questions based on the dialogueDialogueAurelia Wow! This banana cake is so yummy 1 Did you take it by yourselfLIV No It was bakst by my sider sister ana s maminAurelia Why don't you try baking one by yourself?Livia I'm not sure it will be yummyAurelia Don't say like that believe you have ability to make more delicious banana cakeLivia Thanks for the spirit Actually, I have something special for youAurelia What is thatLivia It is banana cake It was made for you by meAurelia Wow! Thank you very muchLivia Let's taste it I hope you like itAurelia Of courseQuestions:31. How are they in the dialogue? Mention their names32. Who makes banana cake?33 How is the taste of the banana cake?34 What is the active sentence of the underlined passive sentence in the dialogue?35 What special thing was made by Ajeng for Aurelia?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#saya-merupakan-ketua-kelas-di-sma-saya-juga-sering-menjadi-ketua-dalam-suatu-kelompok-belajar-saya-bingung-lebih-baik-saya-pakai-line-lite-saja-seperti-sehari-harinya-versi-line-yg-tdk-bisa-liat-p">9.
+                                            Saya merupakan ketua kelas di SMA. Saya juga sering menjadi ketua dalam suatu kelompok belajar.
+Saya bingung, lebih baik saya pakai line lite saja seperti sehari-harinya (versi line yg tdk bisa liat postingan dan bisa melihat siapa saja yg sider) atau ganti saja dengan line biasa? Menurut Anda?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pertanyaan-1-apa-alasan-kalian-ikut-open-inti-2-apa-aja-yang-bakal-kalian-lakuin-kalo-keterima-seleksi-3-kenapa-kita-harus-pilih-kalian-buat-lolos-seleksi-4-kalo-ada-member-yang-langgar-rules">10.
+                                            PERTANYAAN : 1. Apa alasan kalian ikut open inti? 2. Apa aja yang bakal kalian lakuin kalo keterima seleksi? 3. Kenapa kita harus pilih kalian buat lolos seleksi? 4. Kalo ada member yang langgar rules, kalian bakal ngelakuin apa? 5. Apa yang bakal kalian lakuin kalo sq ada masalah sama sq lain? 6. Gimana cara kalian bagi waktu antara sq ini dan rl? 7. Semisalkan ada atasan kalian yg ngelakuin kesalahan kalian bakal ngapain? 8. Apa tanggapan kamu tentang sider? 9. Menurutmu, tanggung jawab itu apa sih? 10. Jika antar inti sedang ribut/mempunyai masalah, dan mereka membawanya ke dalam sq, bagaimana menurut kalian? 11. Semisal sq ini sepi dan para membernya sudah jenuh untuk nimbrung, apa yang akan kalian lakukan? 12. Saran event? 13. Saat ini kamu lagi jadi foi di sq lain ga? Kalo iya, bagaimana caramu membagi waktu saat 2 sq atau lebih mempunyai jadwal rapat yang sama? 14. Jelaskan kelebihan dan kekurangan beserta visi misimuyang main rp bantu jawab yuk​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#answer-the-questions-based-on-the-dialoguedialogueaurelia-wow-this-banana-cake-is-so-yummy-1-did-you-take-it-by-yourselfliv-no-it-was-bakst-by-my-sider-sister-ana-s-maminaurelia-why-dont-you-try-bak">11.
+                                            Answer the questions based on the dialogueDialogueAurelia Wow! This banana cake is so yummy 1 Did you take it by yourselfLIV No It was bakst by my sider sister ana s maminAurelia Why don't you try baking one by yourself?Livia I'm not sure it will be yummyAurelia Don't say like that believe you have ability to make more delicious banana cakeLivia Thanks for the spirit Actually, I have something special for youAurelia What is thatLivia It is banana cake It was made for you by meAurelia Wow! Thank you very muchLivia Let's taste it I hope you like itAurelia Of courseQuestions:31. How are they in the dialogue? Mention their names32. Who makes banana cake?33 How is the taste of the banana cake?34 What is the active sentence of the underlined passive sentence in the dialogue?35 What special thing was made by Ajeng for Aurelia?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#my-name-is-dewi-i-live-in-a-small-house-it-has-five-rooms-there-are-two-bedrooms-a-bathroom-and-a-kitchen-indeed-it-has-a-small-house-but-i-like-living-in-there-for-wasting-my-spare-time-when">12.
+                                            My name is Dewi. I live in a small house. It has five rooms. There are two bedrooms, a bathroom, and a kitchen, indeed, it has a small house, but I like living in there for wasting my spare time. When the door is open, I can see the living room. It’s so small with only three chairs and a table. I prefer reading a novel in this room. My bedroom is in the left side of the living room, in this room there is a night table lamp next to the bed. A TV, A radio and a computer. When being bored reading. I usually play online game, chat with my friends via facebook. Next to my bed room is my mother’s room, in the right side of the living room is a kitchen. In the kitchen, I have everything, I need when I get hungry. It’s very pleasure when my mother cooks. The smell fills my whole house. I love my house very much. (Soal No. 1-5) 1.	What does the text talk about…? A. Dewi’s houseB. Dewi’s roomC. Dewi’s bedroomD. Dewi’s living room.2.	Where is her bedroom…?A. It’s the right side of the kitchen,B. It’s in the right side of living room,C. It’s in the left side of the kitchen,D. It’s in the left side of the living room.3.	Where does she read the novel…? A. KitchenB. BathroomC. BedroomD. livingroom4.	How many rooms are there in the house…? A. 3B. 4C. 5D. 65.	What does she do when she feels bored…? A. She plays with her friendB. She cooks in the kitchenC. She help her motherD. She plays online games.Peter is youngest in our family. He is fourteen years old and four years younger than me. He has long, straight hair, bright eyes, and a friendly smile. Sometimes he is rather naughty at home, but he usually does what he is asked to do. Peter is interested in sports very much and at school he plays football and tennis. He is the badminton player in our family. Soal no. 6-15 .6.	How old is Peter..? He is ….. years old. A. FourB. FourteenC. FortyD. Ten7.	The writer is ….. years old. A. FourteenB. SiteenC. EighteenD. nineteen8.	Which is the following statement is not true about Peter…? A. He has long and straight hair.B. He has bright eyes,C. He is interested in sports,D. He plays football and tennis9.	According to the passage, we know that Peter is….?A. The write’s younger brotherB. The writer’s sider brother,C. A naughty boyD. A friendly boy10.	It is implied in the passage thatA. Peter is naughtyB. Peter is lazyC. Peter is unfriendlyD. Peter is diligent11.	From the text, we may conclude that… A. Many people do not like PeterB. People is older that the writerC. Peter is welcoming personD. Peter is diligent at all12.	What is the text mostly about…?A. PeterB. Peter’s hobbyC. Peter’s familyD. Peter’s elder brother.13.	He is fourteen years old…..than me…?The underlined word refers to…? A. PeterB. The writerC. The writer’s brotherD. The writer’s family14.	“Peter is interested in sports very much. And at school he play football and tennis”. The underline phrase can be replaced by…? A. Dislike sportB. Really like sportC. Hates sport very muchD. Finds sport not only entertaining15.	“But he usually does what he is asked to do.” The underlined phrase means…? A. He does anything he wantsB. He always askedC. He is lazyD. He is diligent​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ppkn-kd-3-4nilaijelaskanjawabsoal-high-order-thinking-skills2-bagaimana-pejuang-kemerdekaan-berusaha-melawan-penjajahjawab3-jawab4-jelaskan-makna-dari-bersatu-kita-teguh-bercerai-kita-runt">13.
+                                            PPKn (KD 3.4)Nilai:Jelaskan!Jawab:Soal High Order Thinking Skills2. Bagaimana pejuang kemerdekaan berusaha melawan penjajah?Jawab:3.Jawab:4. Jelaskan makna dari "bersatu kita teguh, bercerai kita runtuh"! Soal High SiderJawab:5. Bagaimana cara generasi penerus bangsa mempertahankan kemerdekaan?Jawab:Ayo, mengerjakan soal-soal berikut dengan tepat!1. Mengapa kita harus menghargai jerih payah para pejuang kemerdekaan Indonesia?Sebutkan keragaman yang terdapat di NKRI!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-sider-dan-gwssaya-kurang-ngerti-bahasa-mendia-sosial-kak">14.
+                                            Apa itu Sider dan GWS?saya kurang ngerti bahasa mendia sosial kak? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#answer-the-questions-based-on-the-dialoguedialogueaurelia-wow-this-banana-cake-is-so-yummy-1-did-you-take-it-by-yourselfliv-no-it-was-bakst-by-my-sider-sister-ana-s-maminaurelia-why-dont-you-try-bak">15.
+                                            Answer the questions based on the dialogueDialogueAurelia Wow! This banana cake is so yummy 1 Did you take it by yourselfLIV No It was bakst by my sider sister ana s maminAurelia Why don't you try baking one by yourself?Livia I'm not sure it will be yummyAurelia Don't say like that believe you have ability to make more delicious banana cakeLivia Thanks for the spirit Actually, I have something special for youAurelia What is thatLivia It is banana cake It was made for you by meAurelia Wow! Thank you very muchLivia Let's taste it I hope you like itAurelia Of courseQuestions:31. How are they in the dialogue? Mention their names32. Who makes banana cake?33 How is the taste of the banana cake?34 What is the active sentence of the underlined passive sentence in the dialogue?35 What special thing was made by Ajeng for Aurelia?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#aoa-funsi-dari-view-bottons-zoom-sider-rubon-ruler-dan-close-botton">16.
+                                            Aoa funsi dari View bottons, Zoom sider, rubon, ruler , dan close botton ??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-cara-menyikapi-orang-yang-sider-apa-usaha-yang-akan-kamu-lakukan-jika-terpilih-jadi-inti-avex-jika-ada-member-lain-terkena-war-apakah-kalian-akan-ikut-membantu-atau-menyelesaikan-atau-tida">17.
+                                            -bagaimana cara menyikapi orang yang sider-apa usaha yang akan kamu lakukan jika terpilih jadi inti avex?-jika ada member lain terkena war apakah kalian akan ikut membantu atau menyelesaikan atau tidak mencampuri urusannya,berikan alasannya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#answer-the-questions-based-on-the-dialoguedialogueaurelia-wow-this-banana-cake-is-so-yummy-1-did-you-take-it-by-yourselfliv-no-it-was-bakst-by-my-sider-sister-ana-s-maminaurelia-why-dont-you-try-bak">18.
+                                            Answer the questions based on the dialogueDialogueAurelia Wow! This banana cake is so yummy 1 Did you take it by yourselfLIV No It was bakst by my sider sister ana s maminAurelia Why don't you try baking one by yourself?Livia I'm not sure it will be yummyAurelia Don't say like that believe you have ability to make more delicious banana cakeLivia Thanks for the spirit Actually, I have something special for youAurelia What is thatLivia It is banana cake It was made for you by meAurelia Wow! Thank you very muchLivia Let's taste it I hope you like itAurelia Of courseQuestions:31. How are they in the dialogue? Mention their names32. Who makes banana cake?33 How is the taste of the banana cake?34 What is the active sentence of the underlined passive sentence in the dialogue?35 What special thing was made by livia for Aurelia?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#20-1-elemen-header2-elemen-sider3-elemen-navigation4-elemen-konten5-elemen-footerberikut-adalah-elemen-elemen-penting-dalamdesain-balaman-sebuah-websited-facebookb-bisnis-onlinee-instragram">19.
+                                            20. 1) Elemen Header2) Elemen Sider3) Elemen Navigation4) Elemen Konten5) Elemen FooterBerikut adalah elemen-elemen penting dalamdesain balaman sebuah...Websited. facebookb. Bisnis onlinee. instragramc Blog​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-siderjawab-yang-jelas-ya-mks">20.
+                                            apa arti sider?jawab yang jelas ya mks</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#what-is-the-effect-on-the-amount-of-safety-stock-provided-by-the-stochastic-continuous-review-model-presented-in-sec-19-5-when-the-following-change-is-made-in-the-inventory-system-con-sider-each-c">21.
+                                            What is the effect on the amount of safety stock provided by the stochastic continuous-review model presented in Sec. 19.5 when the following change is made in the inventory system. (Con- sider each change independently.)  (a) The lead time is reduced to 0 (instantaneous delivery).  (b) The service level (measure 1) is decreased.  (c) The unit shortage cost is doubled.  (d) The mean of the probability distribution of demand during the lead time is increased (with no other change to the distribu- tion).  (e) The probability distribution of demand during the lead time is a uniform distribution from a to b, but now (ba) has been doubled.  (f) The probability distribution of demand during the lead time is a normal distribution with mean μ and standard deviation σ, but now σ has been doubled.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bantuin-gw-pls-jangan-sider-tt">22.
+                                            BANTUIN GW PLS, JANGAN SIDER TT</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolongin-guaaaa-pls-jangan-sider%e2%80%8b">23.
+                                            TOLONGIN GUAAAA PLS, JANGAN SIDER​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yang-bisa-menjawab-ini-master-klik-fotonya-ya-jangan-jadi-sider-aja">24.
+                                            Yang bisa menjawab Ini Master! Klik Fotonya ya jangan jadi Sider aja</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#desain-jembatan-zaman-pertengahan-mempunyai-ciri-20-poin-a-menghubungkan-dua-ruas-kawasan-b-mempunyai-konstruksi-tambahan-c-mempunyai-konstruksi-tambahan-pada-sisinya-on-sider-d-mempuny">25.
+                                            Desain jembatan zaman pertengahan mempunyai ciri.... * 20 poin A. Menghubungkan dua ruas kawasan. B. Mempunyai konstruksi tambahan. C. Mempunyai konstruksi tambahan pada sisinya (on sider). D. Mempunyai jalur pejalan kaki di bagian tepi (foot walks).</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="apa-itu-sider-terus-gimana-ciri-orang-sider-_-gw-bosen-njir-di-katain-sider-terus-awokawok-pdhl-gw-gtau-sider-apaanv-bantu-jawab-ka%e2%80%8b">
+                            1. apa itu sider? terus gimana ciri" orang sider-_-? gw bosen njir di katain sider terus awokawok pdhl gw gtau sider apaan:v bantu jawab ka​</h2><br />
+                        <p>Jawaban:</p><p>Sider adalah singkatan dari kata silent reader.</p><p>Penjelasan:</p><p>Yaitu seseorang yang saat berada di grup atau di forum hanya bersikap pasif dan hanya menjadi pembaca saja, jarang sekali atau bahkan tidak pernah aktif memberikan komentar atau gagasan.</p><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-sider">
+                            2. apa itu sider??????????</h2><br />
+                        sider itu silent rider, artinya dia hanya pembaca namun tidak aktif<br /><br />sori kalo salahsider itu silent rider yaitu ketika di chat grup hanya membaca pesan saja, tidak menanggapinya.<br /><br />maaf jika salah :)<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-sider">
+                            3. apa yang dimaksud dengan sider</h2><br />
+                        <p>Sider merupakan singkatan kata dari <strong>silent reader yang sering ditujukan pada salah satu orang  muncul pada sebuah grup sosial media yang mempunyai kepribadian pasif</strong>. Anggota-anggota ini biasanya cuma membaca pesan-pesan dari anggota lain, akan tetapi enggan untuk ikutan meramaikan. Maka anggota seperti ini sering dipanggil pembaca gelap.</p><p></p>Pembahasan<p>Sider ini sering terjadi kepada anggota baru grup yang biasanya masih canggung dikarenakan masih bingung ataupun belum paham topik pembicaraan yang ada didalam group. Adapun faktor lain yang sering memicu munculnya sider yaitu takut dianggap sebagai angin lewat, ketinggalan obrolan ataupun dia sibuk dengan urusanya. Maka dari itu kita sebagai orang yang aktif dalam sebuah group diharapkan dapat merangkul teman-teman yang mempunyai kepribadian sider agar mereka bisa lebih step up dan dapat berkontribusi dalam grup.</p>Pelajari lebih lanjut<p>1. Materi tentang foto soal yang bersinggungan dengan sider </p><p>https://brainly.co.id/tugas/14016481</p><p>2. Materi tentang sider dan ciri-ciri​</p><p>https://brainly.co.id/tugas/44169046</p><p>3. Materi tentang arti sider</p><p>https://brainly.co.id/tugas/12044673</p><p>-----------------------------</p>Detil jawaban<p>Kelas: 9</p><p>Mapel: B. Indonesia</p><p>Bab: Bab 2 - Mendeskripsikan Sesuatu</p><p>Kode: 9.1.2</p><p>#TingkatkanPrestasimu</p><br />
+                                            <h2 class="ez-toc-section" id="apakah-matahari-juga-bergerak-jika-bergerak-bagaimanakah-gerakannya3-tata-surya-terdiri-atas-matahari-dan-planet-planet-yang-berputar-mengelilinginya-jelaskan-secaraurut-susunan-planet-planet-dal">
+                            4. Apakah matahari juga bergerak? jika bergerak, bagaimanakah gerakannya?3. tata surya terdiri atas matahari dan planet-planet yang berputar mengelilinginya. jelaskan secaraurut susunan planet-planet dalam tata surya dan karakteristiknya.4. suhu di lapisan inti matahari diperkirakan 16 jutac, oleh karena itu di lapisan ini terjadi reaksi fusi.jelaskan apa yang kamu ketahui tentang reaksi yang terjadi di matahari.5. apa penyebab utama terjadinya pergantian musim?6. mengapa bulan memiliki kala revolusi sider is dan sinodis?7. pasang laut adalah naik atau turunnya posisi permukaan perairan atau samudra yang disebabkanoleh pengaruh gaya gravitasi bulan dan matahari. ada tiga sumber gaya yang saling berinteraksi:laut, matahari, dan bulan. pasang air laut dibedakan menjadi pasang purnama dan pasang perbani.jelaskanlah perbedaannya.8. perhatikan gambar berikut.bulanumbra​</h2><br />
+                        <p></p><p><strong>Penjelasan:</strong></p><p>matahari tidak bergerak tetapi bumi yang mengelilingi matahari</p><p></p><p>3.merkurius</p><p>   venus</p><p>   bumi</p><p>   mars</p><p>   Jupiter</p><p>   Saturnus </p><p>   Uranus</p><p>   Neptunus</p><p>4. reaksi fusi atau reaksi termonuklir adalah ketika dua inti atom bergabung menjadi satu atau lebih, sehingga terbentuk inti atom baru yang lebih besar.</p><p>5.Bumi mengelilingi Matahari dengan posisi miring sebesar 23,5 derajat ke arah timur laut dari sumbu Bumi. Posisi ini menyebabkan pergantian musim.</p><br />
+                                            <h2 class="ez-toc-section" id="yang-gak-jawab-sider%e2%80%8b">
+                            5. Yang gak jawab SIDER​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawabannya b</p><p></p><p></p><p></p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="pari-2018wat-is-die-problem-apa-masa-yang-ada-semana-diatasfor-bniyanto2-what-are-the-choices-you-have-sebus-berasa-puan-alternative-yangakan-kamu-ambil-untuk-dilakukan-minimaldande-semalt-betrokk">
+                            6. Pari 2018Wat is die problem (Apa masa yang ada semana diatas)For BNiyanto2 What are the choices you have? (Sebus berasa puan alternative yangakan kamu ambil untuk dilakukan minimaldande Semalt betrokke cha kusababu turlihatAlphet folk songs bosons for addi493 What do you think the consequences of these choices will be to yourself andothers who are involved? (Menurut kamu konsekuensi apa yang akan terjadibila kamu mengamba 3 pilihan/alternative diatas dan apa yang dilibaticanb. hanno lan hosek Panickador para todos eorgmakon siangBemor Y TONomor 5 Tahun 2016• Pacmandirbud RIMengacuWhat is your decision? (Dan 3 pilihan yang kamu buat di atas, mana yang akankamu pilih?)koberct spot koondon, Pokgin moborika AgumonbahwaSelenek felek fenel dedor part de la cara delikaS Do you you made the right decision? Wy? Apakah menurut kamukamu sudah membuat keputusan yang tepat? jelaskan mengapato one sider recta el segona testTorone Il Porteat long I dir toler dekker​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.   No</p><p>2. Yes</p><p>3. No</p><p>4. Yes</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="questions-for-number-36-37-based-on-the-text-belowarifs-familymy-name-is-amr-denis-my-father-and-ms-nun-is-my-mother-they-love-me-very-muchi-have-two-brother-they-are-andi-and-jaka-and-i-have-one">
+                            7.  Questions for number 36-37 based on the text belowARIF'S FAMILYMy name is AMr Denis my father and Ms Nun is my mother they love me very muchI have two brother, they are Andi and Jaka, and I have one sider, her name is DewiI also have uncle and sunt the name are Robert and Tamara They have two childrenTia is their daughter and Micky is their son36. How many brother does All have37. Does Arif have uncle and aunt? Who are their name?38. Write these words into Indonesiana. No EnterWaiting roomc. Park here!39. Write this sentence below into EnglishAyu gadis yang cantik. Dia mempunyai hidung mancung dan mata besarDia juga mempunyai rambut yang panjang40. Write the antonym of these words:a HandsomeThinc. YoungJan Jawab asal plsyg punya ghaca yuk ^^subs ch ku jg yo-!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>36. he has two brother</p><p>37. Yes, their name is Robert and Tamara</p><p>38. a. Jangan memasuk</p><p>      b. ruang tunggu!</p><p>      c. parkir disini!</p><p>39. Ayu is a beautiful girl,she has a sharp nose and big eyes she also has a long hair</p><p><strong>Penjelasan:</strong></p><p>semoga membantuu &lt;3</p><p>aku nggak ngasal kok</p><strong>Questions for number 36-37 based on the text below</strong><p>(Soal nomor 36-37 berdasarkan teks di bawah ini)</p>~<p>ARIF'S FAMILY</p><p>My name is All. Mr Denis is my father and Ms Nun is my mother. They love me very much. I have two brother, they are Andi and Jaka, and I have one sister, her name is Dewi. I also have uncle and aunt, their names are Robert and Tamara. They have two children. Tia is their daughter and Micky is their son.</p>Translation Into Indonesian:<p>KELUARGA ARIF</p><p>Nama saya All. Pak Denis adalah ayah saya dan Bu Nun adalah ibu saya. Mereka sangat mencintai saya. Saya memiliki dua saudara laki-laki, mereka adalah Andi dan Jaka, dan saya memiliki satu saudara perempuan, namanya Dewi. Saya juga punya paman dan bibi, nama mereka Robert dan Tamara. Mereka memiliki dua anak. Tia adalah putri mereka dan Micky adalah putra mereka.</p>Question (Pertanyaan):<p>36. How many brother does All have?</p><p>(Berapa banyak saudara laki-laki yang dimiliki All?)</p>Answer (Jawaban):<p>He has two brother. (Dia memiliki dua saudara laki-laki)</p>Explanation (Penjelasan):<p>Terdapat pada kalimat...</p><p>"I have two brother, they are Andi and Jaka"</p>Dari kalimat tersebut, penulis menjelaskan bahwa Ia memiliki dua saudara laki-laki bernama Andi dan Jaka.<p></p>Question:<p>37. Does Arif have uncle and aunt? Who are their name?</p><p>(Apakah Arif punya paman dan bibi? Siapa nama mereka?)</p>Answer:<p>Yes, their names are Robert and Tamara.</p><p>(Ya, nama mereka adalah Robert dan Tamara.)</p>Explanation:<p>Terdapat pada kalimat...</p><p>"I also have uncle and aunt, their names are Robert and Tamara."</p>Dari kalimat tersebut, penulis menjelaskan bahwa Ia memiliki paman bernama Robert dan bibi bernama Tamara.<p></p>Question:<p>38. Write these words into Indonesian </p><p>(Tulis kata-kata ini ke dalam bahasa Indonesia)</p><p>a. No Enter = <strong>Jangan masuk</strong></p><p>b. Waiting room = <strong>Ruang tunggu</strong></p><p>c. Park here! = <strong>Parkir disini</strong></p><p><strong></strong></p>Question:<p>39. Write this sentence below into English</p><p>(Tulislah kalimat di bawah ini ke dalam bahasa Inggris)</p><p>Ayu gadis yang cantik. Dia mempunyai hidung mancung dan mata besar.</p><p>Dia juga mempunyai rambut yang panjang.</p>Answer:<p>Ayu is a beautiful girl. He has a sharp nose and big eyes. He also has long hair.</p><p></p>Question:<p>40. Write the antonym of these words:</p><p>a Handsome (Tampan) = <strong>ugly </strong>(Jelek)</p><p>b. Thin (Kurus) = <strong>Fat</strong> (Gendut)</p><p>Can also... Thin (Tipis) = <strong>Thick</strong> (Tebal)</p><p>c. Young (Muda) = <strong>Old</strong> (Tua)</p><p></p><p></p>~I Hope This Help ^^#CMIIW#HaveANiceDay#LearnWithBrainly<br />
+                                            <h2 class="ez-toc-section" id="answer-the-questions-based-on-the-dialoguedialogueaurelia-wow-this-banana-cake-is-so-yummy-1-did-you-take-it-by-yourselfliv-no-it-was-bakst-by-my-sider-sister-ana-s-maminaurelia-why-dont-you-try-bak">
+                            8. Answer the questions based on the dialogueDialogueAurelia Wow! This banana cake is so yummy 1 Did you take it by yourselfLIV No It was bakst by my sider sister ana s maminAurelia Why don't you try baking one by yourself?Livia I'm not sure it will be yummyAurelia Don't say like that believe you have ability to make more delicious banana cakeLivia Thanks for the spirit Actually, I have something special for youAurelia What is thatLivia It is banana cake It was made for you by meAurelia Wow! Thank you very muchLivia Let's taste it I hope you like itAurelia Of courseQuestions:31. How are they in the dialogue? Mention their names32. Who makes banana cake?33 How is the taste of the banana cake?34 What is the active sentence of the underlined passive sentence in the dialogue?35 What special thing was made by Ajeng for Aurelia?​</h2><br />
+                        <p>1. They are friends. They are Aurelia and Livia</p><p>2. It's Livia's sister</p><p>3. It's yummy</p><p>4. njir kalimat passivenya aja salah.. gimana sih tuh guru</p><p>anyway ini jawabannya.</p><p>My elder sister, Kinara baked it this morning</p><p>5. ajeng.. ajeng siapa yah LOL</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="saya-merupakan-ketua-kelas-di-sma-saya-juga-sering-menjadi-ketua-dalam-suatu-kelompok-belajar-saya-bingung-lebih-baik-saya-pakai-line-lite-saja-seperti-sehari-harinya-versi-line-yg-tdk-bisa-liat-p">
+                            9. Saya merupakan ketua kelas di SMA. Saya juga sering menjadi ketua dalam suatu kelompok belajar.
+Saya bingung, lebih baik saya pakai line lite saja seperti sehari-harinya (versi line yg tdk bisa liat postingan dan bisa melihat siapa saja yg sider) atau ganti saja dengan line biasa? Menurut Anda?</h2><br />
+                        lebih baik anda pakai line lite, jadi setidaknya anda tahu siapa saja yang sudah membaca pesan dari anda dan siapa saja yang belum. itu menurut saya.<br />mungkin bisa buat akun baru untuk line yang biasa, krn biasanya di grup penting ada juga post yang penting dan perlu dilihat<br />
+                                            <h2 class="ez-toc-section" id="pertanyaan-1-apa-alasan-kalian-ikut-open-inti-2-apa-aja-yang-bakal-kalian-lakuin-kalo-keterima-seleksi-3-kenapa-kita-harus-pilih-kalian-buat-lolos-seleksi-4-kalo-ada-member-yang-langgar-rules">
+                            10. PERTANYAAN : 1. Apa alasan kalian ikut open inti? 2. Apa aja yang bakal kalian lakuin kalo keterima seleksi? 3. Kenapa kita harus pilih kalian buat lolos seleksi? 4. Kalo ada member yang langgar rules, kalian bakal ngelakuin apa? 5. Apa yang bakal kalian lakuin kalo sq ada masalah sama sq lain? 6. Gimana cara kalian bagi waktu antara sq ini dan rl? 7. Semisalkan ada atasan kalian yg ngelakuin kesalahan kalian bakal ngapain? 8. Apa tanggapan kamu tentang sider? 9. Menurutmu, tanggung jawab itu apa sih? 10. Jika antar inti sedang ribut/mempunyai masalah, dan mereka membawanya ke dalam sq, bagaimana menurut kalian? 11. Semisal sq ini sepi dan para membernya sudah jenuh untuk nimbrung, apa yang akan kalian lakukan? 12. Saran event? 13. Saat ini kamu lagi jadi foi di sq lain ga? Kalo iya, bagaimana caramu membagi waktu saat 2 sq atau lebih mempunyai jadwal rapat yang sama? 14. Jelaskan kelebihan dan kekurangan beserta visi misimuyang main rp bantu jawab yuk​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Untuk membantu anggota inti yang lain agar lebih terkoordinasi</p><p>2. Saya akan menjalankan dengan baik tugas saya sesuai devisi saya saat diwawancarai</p><p>3. Karna saya yakin bahwa saya dapat dengan baik melakukan tugas sesui devisi saya dengan baik</p><p>4. Menegur dengan baik terlebih dahulu dan apabila member tsb masih melanggar akan diberikan sansi sesuai kesepakatan anggota inti</p><p>5. Mencari tahu dulu apa permasalahannya kemudian didistribusikan dengan member inti yg lain apa pendapat yg masing2 orang jika sudah diadakan pertemuan digc baru untuk membahas masalah tsb dgn sq yg bermasalah tadi dgn baik²</p><p>6. Dengan melihat waku senggang yang ada dalam jadwal keseharian (jelasin kmu senggangnya waktu kapan)</p><p>7. Menegur dengan sopan dan memberi alasan knp menegur hal tsb</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="answer-the-questions-based-on-the-dialoguedialogueaurelia-wow-this-banana-cake-is-so-yummy-1-did-you-take-it-by-yourselfliv-no-it-was-bakst-by-my-sider-sister-ana-s-maminaurelia-why-dont-you-try-bak">
+                            11. Answer the questions based on the dialogueDialogueAurelia Wow! This banana cake is so yummy 1 Did you take it by yourselfLIV No It was bakst by my sider sister ana s maminAurelia Why don't you try baking one by yourself?Livia I'm not sure it will be yummyAurelia Don't say like that believe you have ability to make more delicious banana cakeLivia Thanks for the spirit Actually, I have something special for youAurelia What is thatLivia It is banana cake It was made for you by meAurelia Wow! Thank you very muchLivia Let's taste it I hope you like itAurelia Of courseQuestions:31. How are they in the dialogue? Mention their names32. Who makes banana cake?33 How is the taste of the banana cake?34 What is the active sentence of the underlined passive sentence in the dialogue?35 What special thing was made by Ajeng for Aurelia?​</h2><br />
+                        <p>31.They in the dialogue are friendly.Their names are Aurelia and Livia.</p><p>32.Banana cake makes by Kinara, an elder sister Livia.</p><p>33.The taste of banana cake is so yummy.</p><p>34.The active sentence of the underlined passive sentence in the dialogue is "My elder sister was bake a banana cake, Kinara this morning.".</p><p>35.Special thing was made by Ajeng for Aurelia is Banana cake.</p><p>no. 35 maaf kalau salah.</p><br />
+                                            <h2 class="ez-toc-section" id="my-name-is-dewi-i-live-in-a-small-house-it-has-five-rooms-there-are-two-bedrooms-a-bathroom-and-a-kitchen-indeed-it-has-a-small-house-but-i-like-living-in-there-for-wasting-my-spare-time-when">
+                            12. My name is Dewi. I live in a small house. It has five rooms. There are two bedrooms, a bathroom, and a kitchen, indeed, it has a small house, but I like living in there for wasting my spare time. When the door is open, I can see the living room. It’s so small with only three chairs and a table. I prefer reading a novel in this room. My bedroom is in the left side of the living room, in this room there is a night table lamp next to the bed. A TV, A radio and a computer. When being bored reading. I usually play online game, chat with my friends via facebook. Next to my bed room is my mother’s room, in the right side of the living room is a kitchen. In the kitchen, I have everything, I need when I get hungry. It’s very pleasure when my mother cooks. The smell fills my whole house. I love my house very much. (Soal No. 1-5) 1.	What does the text talk about…? A. Dewi’s houseB. Dewi’s roomC. Dewi’s bedroomD. Dewi’s living room.2.	Where is her bedroom…?A. It’s the right side of the kitchen,B. It’s in the right side of living room,C. It’s in the left side of the kitchen,D. It’s in the left side of the living room.3.	Where does she read the novel…? A. KitchenB. BathroomC. BedroomD. livingroom4.	How many rooms are there in the house…? A. 3B. 4C. 5D. 65.	What does she do when she feels bored…? A. She plays with her friendB. She cooks in the kitchenC. She help her motherD. She plays online games.Peter is youngest in our family. He is fourteen years old and four years younger than me. He has long, straight hair, bright eyes, and a friendly smile. Sometimes he is rather naughty at home, but he usually does what he is asked to do. Peter is interested in sports very much and at school he plays football and tennis. He is the badminton player in our family. Soal no. 6-15 .6.	How old is Peter..? He is ….. years old. A. FourB. FourteenC. FortyD. Ten7.	The writer is ….. years old. A. FourteenB. SiteenC. EighteenD. nineteen8.	Which is the following statement is not true about Peter…? A. He has long and straight hair.B. He has bright eyes,C. He is interested in sports,D. He plays football and tennis9.	According to the passage, we know that Peter is….?A. The write’s younger brotherB. The writer’s sider brother,C. A naughty boyD. A friendly boy10.	It is implied in the passage thatA. Peter is naughtyB. Peter is lazyC. Peter is unfriendlyD. Peter is diligent11.	From the text, we may conclude that… A. Many people do not like PeterB. People is older that the writerC. Peter is welcoming personD. Peter is diligent at all12.	What is the text mostly about…?A. PeterB. Peter’s hobbyC. Peter’s familyD. Peter’s elder brother.13.	He is fourteen years old…..than me…?The underlined word refers to…? A. PeterB. The writerC. The writer’s brotherD. The writer’s family14.	“Peter is interested in sports very much. And at school he play football and tennis”. The underline phrase can be replaced by…? A. Dislike sportB. Really like sportC. Hates sport very muchD. Finds sport not only entertaining15.	“But he usually does what he is asked to do.” The underlined phrase means…? A. He does anything he wantsB. He always askedC. He is lazyD. He is diligent​</h2><br />
+                        <p><strong>Penjelasan:</strong></p>ADDCCBAGada jwbnnya CADABBD<p><strong>Jawaban dan Penjelasan (Answer and Explanation) :</strong></p><p>1. What does the text talk about (Apa yang dibicarakan dalam teks itu)?</p><p><strong>A. Dewi’s house </strong>(Rumah Dewi)</p><p>2. Where is her bedroom (Di mana kamar tidurnya) ?</p><p> <strong>D. It’s in the left side of the living room. </strong>(Letaknya di sisi kiri ruang tamu)</p><p>3. Where does she read the novel (Di mana dia membaca novel itu) ?</p><p><strong>D. livingroom </strong>(Ruang tamu)</p><p>4. How many rooms are there in the house (Ada berapa ruangan di dalam rumah) ?</p><p><strong>C. 5</strong></p><p>5. What does she do when she feels bored (Apa yang dia lakukan saat merasa bosan) ?</p><p><strong>D. She plays online games. </strong>(Dia memainkan game online.)</p><p></p><p></p><p><strong>Because the points are only 5 so I just answered 5 questions;)</strong></p><p><strong>I hope this helps^^</strong></p><p><strong></strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="ppkn-kd-3-4nilaijelaskanjawabsoal-high-order-thinking-skills2-bagaimana-pejuang-kemerdekaan-berusaha-melawan-penjajahjawab3-jawab4-jelaskan-makna-dari-bersatu-kita-teguh-bercerai-kita-runt">
+                            13. PPKn (KD 3.4)Nilai:Jelaskan!Jawab:Soal High Order Thinking Skills2. Bagaimana pejuang kemerdekaan berusaha melawan penjajah?Jawab:3.Jawab:4. Jelaskan makna dari "bersatu kita teguh, bercerai kita runtuh"! Soal High SiderJawab:5. Bagaimana cara generasi penerus bangsa mempertahankan kemerdekaan?Jawab:Ayo, mengerjakan soal-soal berikut dengan tepat!1. Mengapa kita harus menghargai jerih payah para pejuang kemerdekaan Indonesia?Sebutkan keragaman yang terdapat di NKRI!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>2.dengan rasa semangat persatuan untuk mencapai kemerdekaan</p><p>3.-</p><p>4.makna ny ialah ketika kita bersatu maka semua masalah dapat kita selesaikan dengan mudah sedang ketika kita bercerai maka suatu masalah mudah sangat rumit untuk di selesai kan</p><p>5.dengan selalu mengingat pengorbanan para pahlawan kemerdekaan Indonesia dengan cara itu kita akan selalu menghargai perjuangan para pahlawan</p><p></p><p></p><p>1.karna para pahlawan Indonesia bertaruh nyawa demi mempertahankan kemerdekaan Indonesia</p><p></p><p></p><p>      keragaman suku,ras,agama,budaya,dan lain-lain</p><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-sider-dan-gwssaya-kurang-ngerti-bahasa-mendia-sosial-kak">
+                            14. Apa itu Sider dan GWS?saya kurang ngerti bahasa mendia sosial kak? </h2><br />
+                        GWS= Get Well Soon<br />yg artinya: semoga cepat sembuh<br />Sider= Silent Reader<br />makna: tidak ada yg merespon<br />
+                                            <h2 class="ez-toc-section" id="answer-the-questions-based-on-the-dialoguedialogueaurelia-wow-this-banana-cake-is-so-yummy-1-did-you-take-it-by-yourselfliv-no-it-was-bakst-by-my-sider-sister-ana-s-maminaurelia-why-dont-you-try-bak">
+                            15. Answer the questions based on the dialogueDialogueAurelia Wow! This banana cake is so yummy 1 Did you take it by yourselfLIV No It was bakst by my sider sister ana s maminAurelia Why don't you try baking one by yourself?Livia I'm not sure it will be yummyAurelia Don't say like that believe you have ability to make more delicious banana cakeLivia Thanks for the spirit Actually, I have something special for youAurelia What is thatLivia It is banana cake It was made for you by meAurelia Wow! Thank you very muchLivia Let's taste it I hope you like itAurelia Of courseQuestions:31. How are they in the dialogue? Mention their names32. Who makes banana cake?33 How is the taste of the banana cake?34 What is the active sentence of the underlined passive sentence in the dialogue?35 What special thing was made by Ajeng for Aurelia?​</h2><br />
+                        <p>1. Aurelia And Livia</p><p>2. Aurelia Sider Sister And Mamin</p><p>3. Very Tasty</p><p>Sorry If i was Answer Until Number 3 Only</p><p><strong></strong></p><br />
+                                            <h2 class="ez-toc-section" id="aoa-funsi-dari-view-bottons-zoom-sider-rubon-ruler-dan-close-botton">
+                            16. Aoa funsi dari View bottons, Zoom sider, rubon, ruler , dan close botton ??</h2><br />
+                        close button : untuk menutup aplikasi<br />ruler : sesuai namanya, penggaris untuk patokan dalam mengetik<br />ribbon : untuk mengakses bbrapa fungsi group<br />zoom slider : utk mmperbesar/mmperkecil tampilan lembar krjaview buttons : melihat buttons<br />zoom slider : memperbesar <br />
+                                            <h2 class="ez-toc-section" id="bagaimana-cara-menyikapi-orang-yang-sider-apa-usaha-yang-akan-kamu-lakukan-jika-terpilih-jadi-inti-avex-jika-ada-member-lain-terkena-war-apakah-kalian-akan-ikut-membantu-atau-menyelesaikan-atau-tida">
+                            17. -bagaimana cara menyikapi orang yang sider-apa usaha yang akan kamu lakukan jika terpilih jadi inti avex?-jika ada member lain terkena war apakah kalian akan ikut membantu atau menyelesaikan atau tidak mencampuri urusannya,berikan alasannya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>dengan cara membloknya</p><p>saya akan mendirikan beberapa perusahaan</p><p>tidak mencampuri</p><br />
+                                            <h2 class="ez-toc-section" id="answer-the-questions-based-on-the-dialoguedialogueaurelia-wow-this-banana-cake-is-so-yummy-1-did-you-take-it-by-yourselfliv-no-it-was-bakst-by-my-sider-sister-ana-s-maminaurelia-why-dont-you-try-bak">
+                            18. Answer the questions based on the dialogueDialogueAurelia Wow! This banana cake is so yummy 1 Did you take it by yourselfLIV No It was bakst by my sider sister ana s maminAurelia Why don't you try baking one by yourself?Livia I'm not sure it will be yummyAurelia Don't say like that believe you have ability to make more delicious banana cakeLivia Thanks for the spirit Actually, I have something special for youAurelia What is thatLivia It is banana cake It was made for you by meAurelia Wow! Thank you very muchLivia Let's taste it I hope you like itAurelia Of courseQuestions:31. How are they in the dialogue? Mention their names32. Who makes banana cake?33 How is the taste of the banana cake?34 What is the active sentence of the underlined passive sentence in the dialogue?35 What special thing was made by livia for Aurelia?​</h2><br />
+                        <p>35. it was banana cake.. yg sebelumnya udah kujawab</p><br />
+                                            <h2 class="ez-toc-section" id="20-1-elemen-header2-elemen-sider3-elemen-navigation4-elemen-konten5-elemen-footerberikut-adalah-elemen-elemen-penting-dalamdesain-balaman-sebuah-websited-facebookb-bisnis-onlinee-instragram">
+                            19. 20. 1) Elemen Header2) Elemen Sider3) Elemen Navigation4) Elemen Konten5) Elemen FooterBerikut adalah elemen-elemen penting dalamdesain balaman sebuah...Websited. facebookb. Bisnis onlinee. instragramc Blog​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawaban nya c </p><p><strong>Penjelasan:</strong></p><p>jadikan yang terbaik ya jawaban ini :)</p><p>maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-siderjawab-yang-jelas-ya-mks">
+                            20. apa arti sider?jawab yang jelas ya mks</h2><br />
+                        SIDER adalah seseorang yang hanya melihat feed / balasan di Grup / Chat pribadi tanpa membalas chat yg diterima. padahal chat tersebut penting dan ia tak peduli<br />
+                                            <h2 class="ez-toc-section" id="what-is-the-effect-on-the-amount-of-safety-stock-provided-by-the-stochastic-continuous-review-model-presented-in-sec-19-5-when-the-following-change-is-made-in-the-inventory-system-con-sider-each-c">
+                            21. What is the effect on the amount of safety stock provided by the stochastic continuous-review model presented in Sec. 19.5 when the following change is made in the inventory system. (Con- sider each change independently.)  (a) The lead time is reduced to 0 (instantaneous delivery).  (b) The service level (measure 1) is decreased.  (c) The unit shortage cost is doubled.  (d) The mean of the probability distribution of demand during the lead time is increased (with no other change to the distribu- tion).  (e) The probability distribution of demand during the lead time is a uniform distribution from a to b, but now (ba) has been doubled.  (f) The probability distribution of demand during the lead time is a normal distribution with mean μ and standard deviation σ, but now σ has been doubled.</h2><br />
+                        <p><strong>Jawab:</strong></p><p>(a) If the lead time is reduced to 0, the amount of safety stock would be reduced because there is no longer a need to account for the time it takes to receive a new shipment.</p><p></p><p>(b) If the service level (measure 1) is decreased, the amount of safety stock would be increased because a lower service level means a higher risk of stockouts, and therefore, a greater need for safety stock.</p><p></p><p>(c) If the unit shortage cost is doubled, the amount of safety stock would be increased because a higher cost of stockouts means that there is a greater need to avoid them, and therefore, a greater need for safety stock.</p><p></p><p>(d) If the mean of the probability distribution of demand during the lead time is increased, the amount of safety stock would be increased because a higher mean demand means a higher likelihood of stockouts, and therefore, a greater need for safety stock.</p><p></p><p>(e) If (ba) is doubled, the amount of safety stock would be increased because a wider range of possible demand means a higher risk of stockouts, and therefore, a greater need for safety stock.</p><p></p><p>(f) If σ is doubled, the amount of safety stock would be increased because a larger standard deviation means a higher risk of stockouts, and therefore, a greater need for safety stock.</p><p></p><p></p><p></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bantuin-gw-pls-jangan-sider-tt">
+                            22. BANTUIN GW PLS, JANGAN SIDER TT</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Rangkaian Hambatan Listrik</p><p>Hambatan seri. Dua hambatan atau lebih yang disusun secara berurutan disebut hambatan seri. ...</p><p>V = V1 + V2 + V3. Berdasarkan Hukum I Kirchoff pada rangkaian seri (tak bercabang) berlaku:</p><p>I = I1 = I2 = I3.</p><p>Hambatan Paralel. ...</p><p>I1 = V/R1 I2 = V/R2 I3 = V/R3. ...</p><p>V = V1 = V2 = V3. ...</p><p>I = V/Rp. ...</p><p>1/Rp = 1/R1 + 1/R2 + 1/R3.</p><br />
+                                            <h2 class="ez-toc-section" id="tolongin-guaaaa-pls-jangan-sider%e2%80%8b">
+                            23. TOLONGIN GUAAAA PLS, JANGAN SIDER​</h2><br />
+                        <p><strong>Fisika</strong></p><p>Hambatan penggantinya adalah <strong>6 Ω</strong></p><p></p>Pembahasan<p><strong>Rangkaian Listrik </strong>adalah rangkaian yang terdiri dari elemen pasif berupa saklar, tegangan, dll.</p><p></p><p><strong>Diketahui :</strong></p><p>R1 &amp; R2 [Paralel] = 3Ω dan 6Ω</p><p>R3 = 4Ω</p><p></p><p><strong>PARALEL</strong></p><p>[tex]\frac{1}{Rtotal} = \frac{1}{3} + \frac{1}{6}[/tex]</p><p>[tex]\frac{1}{Rtotal} = \frac{2}{6} + \frac{1}{6}[/tex]</p><p>[tex]\frac{1}{Rtotal} = \frac{3}{6}[/tex]</p><p>[tex]Rtotal = \frac{6}{3}[/tex]</p><p>[tex]Rtotal = 2[/tex]</p><p></p><p><strong>TOTAL</strong></p><p>[tex]R = R3 + Rtotal[/tex]</p><p>[tex]R = 4 + 2[/tex]</p><p>[tex]R = 6[/tex]</p><p></p><p>Pelajari lebih lanjut</p><p>Hambatan Pengganti : https://brainly.co.id/tugas/4463480</p><p>-------------------------</p><p><strong>Mapel : Fisika</strong></p><p><strong>Bab : Listrik Statis</strong></p><p><strong>Kata Kunci : Rangkaian Listrik, Hambatan Pengganti</strong></p><br />
+                                            <h2 class="ez-toc-section" id="yang-bisa-menjawab-ini-master-klik-fotonya-ya-jangan-jadi-sider-aja">
+                            24. Yang bisa menjawab Ini Master! Klik Fotonya ya jangan jadi Sider aja</h2><br />
+                        --•Qustions•--<br />Responsio :<br />2) B. Asking Patricia to accompany Cindy to the library<br />Reason : The card sender is Cindy (located below the last sentence, and the recipient is Patricia. Second sentence "Would you like to go together to the library to look up for resources?" Means asking the recipient to accompany the sender<br /><br />----------------------------<br />Be beautiful on the inside, you will see the universe a beautiful place. -Elia Abu MadiB. Asking Patricia to accompany Cindy to the library<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="desain-jembatan-zaman-pertengahan-mempunyai-ciri-20-poin-a-menghubungkan-dua-ruas-kawasan-b-mempunyai-konstruksi-tambahan-c-mempunyai-konstruksi-tambahan-pada-sisinya-on-sider-d-mempuny">
+                            25. Desain jembatan zaman pertengahan mempunyai ciri.... * 20 poin A. Menghubungkan dua ruas kawasan. B. Mempunyai konstruksi tambahan. C. Mempunyai konstruksi tambahan pada sisinya (on sider). D. Mempunyai jalur pejalan kaki di bagian tepi (foot walks).</h2><br />
+                        <p>Jawaban:a</p><p></p><p>Penjelasan:</p><p></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/xAw53jyMmr8?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_indonesia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/www-ladzidzan-ice-bakery-com/">Www Ladzidzan Ice bakery Com</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jejer-adalah/">Jejer Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sikap-badan/">Sikap Badan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/x2-4x-4-0/">X2 4x 4 0</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/saiko/">Saiko</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/2x-2/">2x 2</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-teks-persuasif-beserta-strukturnya-brainly/">Contoh Teks Persuasif Beserta Strukturnya Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/rumus-mr/">Rumus Mr</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tulang-ikan-dapat-diberi-warna-dengan-menggunakan/">Tulang Ikan Dapat Diberi Warna Dengan Menggunakan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/toyyib/">Toyyib</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/artikan-potongan-hadis-berikut/">Artikan Potongan Hadis Berikut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/teknik-teknik-berikut-adalah-teknik-dalam-permainan-bola-voli-kecuali/">Teknik Teknik Berikut Adalah Teknik Dalam Permainan Bola Voli Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/produk-kerajinan-umumnya-diproduksi-ulang-atau-diperbanyak-dalam-skala/">Produk Kerajinan Umumnya Diproduksi Ulang Atau Diperbanyak Dalam Skala</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-saja-yang-harus-kamu-tuliskan-dalam-formulir/">Apa Saja Yang Harus Kamu Tuliskan Dalam Formulir</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/100-300/">100 300</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-yang-dimaksud-pengembangan-melodi-lagu/">Jelaskan Yang Dimaksud Pengembangan Melodi Lagu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/desc/">Desc</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nabi-ibrahim-sejak-masih-bayi-diasingkan-untuk-menghindari-kekejaman-raja/">Nabi Ibrahim Sejak Masih Bayi Diasingkan Untuk Menghindari Kekejaman Raja</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/alasan-atom-c-dapat-membentuk-molekul-yang-panjang-adalah/">Alasan Atom C Dapat Membentuk Molekul Yang Panjang Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/promosi-secara-langsung-dapat-dilakukan-di/">Promosi Secara Langsung Dapat Dilakukan Di</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

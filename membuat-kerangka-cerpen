@@ -1,0 +1,1326 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Membuat Kerangka Cerpen - BELAJAR</title>
+    <meta name="description" content="Membuat Kerangka Cerpen, , , , , , , 0, Contoh Pembuatan Cerpen – Gambaran, belajarbahasa.github.io, 632 x 550, jpeg, , 8, membuat-kerangka-cerpen, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Membuat Kerangka Cerpen - BELAJAR" />
+    <meta property="og:description" content="Membuat Kerangka Cerpen, , , , , , , 0, Contoh Pembuatan Cerpen – Gambaran, belajarbahasa.github.io, 632 x 550, jpeg, , 8, membuat-kerangka-cerpen, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Membuat Kerangka Cerpen - BELAJAR" />
+    <meta name="twitter:description" content="Membuat Kerangka Cerpen, , , , , , , 0, Contoh Pembuatan Cerpen – Gambaran, belajarbahasa.github.io, 632 x 550, jpeg, , 8, membuat-kerangka-cerpen, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Membuat Kerangka Cerpen</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">yusufarachmadaryatam</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Membuat+Kerangka+Cerpen" alt="Membuat Kerangka Cerpen">
+                    </div>
+                    <p></p>
+                    <p>Buatlah kerangka cerpen dari cerpen berikut​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-cerpen-dari-cerpen-berikut%e2%80%8b">1.
+                                            Buatlah kerangka cerpen dari cerpen berikut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-cerpen">2.
+                                            buatlah kerangka cerpen</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-cerpen%e2%80%8b">3.
+                                            Buatlah kerangka cerpen​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-cerpen-tentang-pengalaman-pribadi">4.
+                                            buatlah kerangka cerpen tentang pengalaman pribadi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-poin-poin-alur-dari-tema-tersebut-sehingga-menjadi-kerangka-cerpen%e2%80%8b">5.
+                                            buatlah poin poin alur dari tema tersebut sehingga menjadi kerangka cerpen​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#uraikan-cara-membuat-kerangka-cerpen-berdasarkan-pengalaman-%e2%80%8b">6.
+                                            uraikan cara membuat kerangka cerpen Berdasarkan pengalaman!! ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-sebuah-kerangka-karangan-sebagai-landasan-untuk-menulis-sebuah-cerpen-berdasarkan-periatiwa-yang-kamu-alami">7.
+                                            Buatlah sebuah kerangka karangan sebagai landasan untuk menulis sebuah cerpen berdasarkan periatiwa yang kamu alami!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-karangan-cerita-berbahasa-jawa-cengkoronganeseperti-cerpen-tapi-kerangkanya-saja">8.
+                                            buatlah kerangka karangan cerita berbahasa jawa (cengkorongane)!
+seperti cerpen tapi kerangkanya saja</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-cerpen%e2%80%8b">9.
+                                            buatlah kerangka cerpen​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-cerpen-bertema-belajar-dimasa-pandemicerpen-nya-yang-ada-pada-gambar-tapi-dengan-kerangka-hasil-buatan-mu-sendiri-plisss-kk-jawab-%e2%80%8b">10.
+                                            Buatlah cerpen bertema "belajar dimasa pandemi"cerpen nya yang ada pada gambar tapi dengan kerangka hasil buatan mu sendiri PLISSS KK JAWAB ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#uraikan-cara-membuat-kerangka-cerpen-berdasakan-pengalaman-%e2%80%8b">11.
+                                            uraikan cara membuat kerangka cerpen berdasakan pengalaman ?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#uraikan-cara-membuat-kerangka-cerpen-berdasarkan-pengalaman">12.
+                                            Uraikan cara membuat kerangka cerpen berdasarkan pengalaman</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#membuat-kerangka-cerpen-sosial-budaya-untuk-tugas-bhs-indo-tidak-terlalu-panjang-dan-tidak-terlalu-pendek-%e2%80%8b">13.
+                                            membuat kerangka cerpen sosial budaya untuk tugas bhs.indo.tidak terlalu panjang dan tidak terlalu pendek.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-cerpen-dengan-tema-hiburan">14.
+                                            Buatlah kerangka cerpen dengan tema hiburan !</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-buatkan-kerangka-karangan-cerpen-yang-berasal-dari-hikayat-bayan-budiman-tersebut%e2%80%8b">15.
+                                            tolong buatkan kerangka karangan cerpen yang berasal dari hikayat bayan budiman tersebut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-cara-membuat-kerangka-cerpen-berdasarkan-pengalaman">16.
+                                            bagaimana cara membuat kerangka cerpen berdasarkan pengalaman</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-bagian-oembuka-cerpen-berdasarkan-kerangka-tersebut">17.
+                                            buatlah bagian oembuka cerpen berdasarkan kerangka tersebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-satu-tema-cerpen-berdasarkan-pengalaman-atau-gagasanmu-buatlah-7-kalimat-sebagai-kerangka-dari-cerpenmu-berdasarkan-pengalaman-atau-gagasanmu-kembangkanlah-kerangka-cerpen-tersebut-menjadi-s">18.
+                                            buatlah satu tema cerpen berdasarkan pengalaman atau gagasanmu! buatlah 7 kalimat sebagai kerangka dari cerpenmu berdasarkan pengalaman atau gagasanmu! kembangkanlah kerangka cerpen tersebut menjadi sebuah cerpen dengan memperhatikan struktur teks dan kebahasaan!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#terangkan-cara-membuat-kerangka-cerpen-berdasarkan-pengalaman">19.
+                                            Terangkan cara membuat kerangka cerpen Berdasarkan pengalaman</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-teks-cerpen-tema-persahabatan%e2%80%8b">20.
+                                            buatlah kerangka teks cerpen tema persahabatan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-buatkan-contoh-kerangka-cerpen-dengan-tema-kejujurantolong-bantu%e2%80%8b">21.
+                                            Tolong buatkan contoh kerangka cerpen dengan tema kejujuranTolong bantu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-karangan-cerpen">22.
+                                            buatlah kerangka karangan cerpen</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#membuat-teks-cerpen-disertai-kerangka-dan-struktur">23.
+                                            membuat teks cerpen disertai kerangka dan struktur</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bang-buatkan-aku-1-cerpen-cerpen-nya-itu-harus-lengkap-dengan-kaifah-kebahasaan-dan-kerangka-cerpen-nya-teratur%e2%80%8b">24.
+                                            bang... buatkan aku 1 cerpen, cerpen nya itu harus lengkap dengan kaifah kebahasaan, dan kerangka cerpen nya teratur​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-satu-tema-cerpen-buatlah-7-kalimat-sebagai-kerangka-dari-cerpenmu-kembangkanlah-kerangka-cerpen-tersebut-menjadi-sebuah-cerpen-dengan-memperhatikan-struktur-teks-dan-kebahasaan%e2%80%8b">25.
+                                            buatlah satu tema cerpen! buatlah 7 kalimat sebagai kerangka dari cerpenmu! kembangkanlah kerangka cerpen tersebut menjadi sebuah cerpen dengan memperhatikan struktur teks dan kebahasaan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-cerpen-dengan-tema-pahlawan%e2%80%8b">26.
+                                            buatlah kerangka cerpen dengan tema pahlawan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-sebuah-kerangka-karangan-sebagai-landasan-untuk-menulis-sebuah-cerpen-berdasarkan-peristiwa-yang-kamu-alami">27.
+                                            Buatlah sebuah kerangka karangan sebagai landasan untuk menulis sebuah cerpen berdasarkan peristiwa yang kamu alami!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kembangkan-kerangka-yang-telah-dibuat-menjadi-cerpen">28.
+                                            Kembangkan kerangka yang telah dibuat menjadi cerpen</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-cerpen-orientasi-dan-komplikasi-evaluasi-dan-resolusi-cerita-nya-harus-sama%e2%80%8b">29.
+                                            Buatlah Kerangka Cerpen , Orientasi Dan Komplikasi , Evaluasi Dan Resolusi. (Cerita Nya Harus Sama)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#membuat-cerpen-dan-kerangka-cerpen-sesuai-tema-struktur-dan-kaidah-kebahasaan-%e2%80%8b">30.
+                                            Membuat cerpen dan kerangka cerpen sesuai tema, struktur, dan kaidah kebahasaan. ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-manfaat-membuat-kerangka-cerpen%e2%80%8b">31.
+                                            Apa manfaat membuat kerangka cerpen​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#membuat-cerpen-dari-kerangka-tersebut%e2%80%8b">32.
+                                            membuat cerpen dari kerangka tersebut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-manfaat-membuat-kerangka-cerpen%e2%80%8b">33.
+                                            Apa manfaat membuat kerangka cerpen​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cara-membuat-cerpen-yang-menggunakan-4-kerangka-dan-tidak-menggunakan-kata-akhir-di-dalam-cerpen">34.
+                                            cara membuat cerpen yang menggunakan 4 kerangka dan tidak menggunakan kata akhir.di dalam cerpen </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-cerita-cerpen-dan-contoh">35.
+                                            buatlah kerangka cerita cerpen dan contoh</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#4-kerangka-cerpen-itu-dan-buatlah-sebuah-cerpen-dengan-memiliki-4-kerangka-contohnya-di-dalam-sebuah-cerpen-terdapat-kerangka-pertama-1-tanaman1-1-bunga-anggrek1-2-bunga-mawar-1-3bunga-melati2-2">36.
+                                            4 kerangka cerpen itu dan buatlah sebuah cerpen dengan memiliki 4 kerangka 
+contohnya di dalam sebuah cerpen terdapat kerangka pertama 1.tanaman
+1.1 bunga anggrek
+1.2 bunga mawar 
+1.3Bunga melati
+2.
+2.1 dijaga
+2.2 di rawat 
+3.
+3,1 dan seterusnya
+Bagi yang dapat menjawab saya sangat berterima kasih</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-cerpen-lengkap-dengan-kerangkanya-cepat-ya%e2%80%8b">37.
+                                            buatlah cerpen lengkap dengan kerangkanya! cepat ya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-kerangka-cerpen">38.
+                                            buatlah kerangka cerpen?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-sebuah-cerpen-beserta-kerangkanya">39.
+                                            buatlah sebuah cerpen beserta kerangkanya ??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-cerpen-dan-kerangka-cerpen-contohjwb-yg-benar-dan-tepat-jgn-asal-krn-poin-nya-gede%e2%80%8b">40.
+                                            buatlah cerpen dan kerangka cerpen, contoh:jwb yg benar dan tepat, jgn asal krn poin nya gede​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-cerpen-dari-cerpen-berikut%e2%80%8b">
+                            1. Buatlah kerangka cerpen dari cerpen berikut​</h2><br />
+                        <p>Jawaban:</p><p>Sorry mana soalnya ngak jelas</p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-cerpen">
+                            2. buatlah kerangka cerpen</h2><br />
+                        aku yang pergi<br />    duduk berdampingan sambil mengurai tawa.<br />     itu kerajaan kita dikala waktu istirahat datang.<br />namaku Fitria dan kedua orang ini sahabatku Mutia dan Siti.<br />entah mereka orang keberapa yang aku anggap  sahabat,karena nyatanya persahabatanku tidak bisa awet seperti bintang yang setia menemani bulan di atas sana.<br />tapi aku bersyukur selalu<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-cerpen%e2%80%8b">
+                            3. Buatlah kerangka cerpen​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>ini jawab nya ya maaf kalo salah</p><br />Berikut ini adalah beberapa kerangka sebuah cerpen, antara lain adalah :<br /><br />1. Observasi, Pada tahapan observasi adalah langkah awal pada penulisan sebuah cerpen yang dilakukan secara langsung dengan cara mengamati objek-objek peristiwa sehari-hari.<br /><br />2. Menentukan Judul dan Tema Pada Cerpen, Pada tahapan kedua ini adalah tahap menentukan sebuah judul dan tema yang akan dibuat pada cepen.<br /><br />3. Menentukan Latar Belakang Cerpen, Tahap selanjutnya adalah menentukan latar belakang cerpen yang mengikuti alur pada tema yang dipilih oleh penulis.<br /><br />4. Menentukan Para Tokoh, Pada sebuah cerpen, tokoh sangat penting dalam menulis sebuah cerita.<br /><br />5. Menciptakan Konflik, Dalam sebuah sebuah cerpen, penulis harus membuat beberapa alur cerita yang terjadi sebuah konflik agar cerita tersebut tidak monoton.<br /><br />6. Menentukan Sudut Pandang, Penulis harus menggunakan sudut pandang untuk menyajikan latar belakang, tokoh dan peristiwa pada cerita cerpen.<br /><br />7. Menentukan alur, Pada sebuah cerpen, alur sangat dibutukan dalam penulisan cerita.<br /><br />
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-cerpen-tentang-pengalaman-pribadi">
+                            4. buatlah kerangka cerpen tentang pengalaman pribadi</h2><br />
+                        pokok nya kamu pikir mau judul nya apa terus buat deh<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="buatlah-poin-poin-alur-dari-tema-tersebut-sehingga-menjadi-kerangka-cerpen%e2%80%8b">
+                            5. buatlah poin poin alur dari tema tersebut sehingga menjadi kerangka cerpen​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Kerangka karangan bagi penulis pemula seperti kita sangat penting. Ini akan membantu kita mengatur konsep cerita dalam mengarahkan alur logika pembaca. Jika pembaca sudah ikut dalam jalur logika yang kita tata, jalan menjadi penulis handal suda terbuka lebar.</p><p></p><p>Tema dan kejadian cerita harus dengan kreasi sendiri, tapi kita bisa menyajikannya dalam bentuk-bentuk berikut..</p><p></p><p>1) Kerangka Lamunan</p><p></p><p>Kenapa saya beri nama Lamunan, adalah karena kerangka ini biasa di usung dengan menyajikan lamunan sang tokoh. Gimana sih bentuknya..</p><p></p><p>Konflik pemeran utama yang sedang dihadapi - Melamunkan sejarah kemunculan konflik - Kembali ke keadaan sekarang</p><p></p><p>Kerangka jenis ini meiliki beberapa ciri-ciri :</p><p>-Alur maju mundur</p><p>-Kejutan di akhir cerita</p><p>-Konflik tidak tertangani sampai tuntas</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="uraikan-cara-membuat-kerangka-cerpen-berdasarkan-pengalaman-%e2%80%8b">
+                            6. uraikan cara membuat kerangka cerpen Berdasarkan pengalaman!! ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.menentukan sumber tema berupa khayalan, pengamatan, pengalaman, atau waktu opini (pendapat)</p><p>2. judul</p><p>3.menentukan alur</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-sebuah-kerangka-karangan-sebagai-landasan-untuk-menulis-sebuah-cerpen-berdasarkan-periatiwa-yang-kamu-alami">
+                            7. Buatlah sebuah kerangka karangan sebagai landasan untuk menulis sebuah cerpen berdasarkan periatiwa yang kamu alami!</h2><br />
+                        Kisah Misteri<br />karya: saya<br /> Suatu hari yang cerah, saya duduk termenung di dekat kolam sambil menatap langit yang biru dan kupu-kupu yang indah.Tiba-tiba "Bulukss" sayapun terkejut ketika ada sesuatu yang aneh di dalam air, dan saya dengan berani menatap air itu dengan mata yang tanpa berkedip. Dan apa yg terjadi, tiba-tiba "Swing" saya pun jadi basah kuyub karena jatuh ke dalam kolam itu, dan seterusnya cerita yg terjadi di kolan itu sampai sekarang masih misteri. TAMAT…<br /><br />maaf kalau agak aneh. hehehehe<br />
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-karangan-cerita-berbahasa-jawa-cengkoronganeseperti-cerpen-tapi-kerangkanya-saja">
+                            8. buatlah kerangka karangan cerita berbahasa jawa (cengkorongane)!
+seperti cerpen tapi kerangkanya saja</h2><br />
+                        - nentukake tema<br />- nentukake judul<br />- nentukake paraga lan watake<br />- nentukake latar =<br />  1. latar tempat / panggonan <br />  2. latar wektu<br />  3  latar suasana / kaanan<br />- nentukake alur<br />- nentukake gaya bahasa<br />- nentukake kesimpulane cerita <br />- nentukake amanat / saran<br /><br />
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-cerpen%e2%80%8b">
+                            9. buatlah kerangka cerpen​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>saya cantumkan di gambar </p><p></p><p>moga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-cerpen-bertema-belajar-dimasa-pandemicerpen-nya-yang-ada-pada-gambar-tapi-dengan-kerangka-hasil-buatan-mu-sendiri-plisss-kk-jawab-%e2%80%8b">
+                            10. Buatlah cerpen bertema "belajar dimasa pandemi"cerpen nya yang ada pada gambar tapi dengan kerangka hasil buatan mu sendiri PLISSS KK JAWAB ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Kerangka Cerpen</p><p>1. Tema : Belajar Dimasa Pandemi</p><p>2. Tokoh dan penokohan :</p><p>      Revi : pemalas, ceroboh dan nakal</p><p>      Ibu : penyayang</p><p>     ayah : tegas</p><p>    adik : rajin, berbakti</p><p>3. kerangka</p><p>pengenalan/ eksposisi</p><p>      Revi seorang anak pengusaha yang sangat terkenal sekaligus pengusaha sukses</p><p>         Revi adalah seorang anak yang sangat pemalas</p><p>    Revi selalu menunda- nunda pekerjaan online sekolahnya</p><p>       Revi memiliki adik yang sifatnya berbeda jauh dengan dirinya</p><p>   Ayah seorang kepala keluarga sekaligus ayah yang tegas kepada anak-anaknya</p><p>  4.konflik</p><p>      Revi seorang anak yang sangat malas ia selalu tidak mengerjakan tugas sekolah online nya</p><p>  Ayah ingin Revi sebagai kakak mencontohkan hal baik kepada adiknya</p><p>  Ayah selalu memberikan nasehat kepada Revi agar ia tidak menjadi seorang anak yang pemalas</p><p>5. klimaks</p><p>      Revi sangat tidak menyukai perilaku ayahnya kepadanya</p><p>    Revi selalu meninggalkan Ayahnya ketika sedang berbicara atau menasehati nya</p><p>    Ayahnya Revi meninggal karena kecelakaan ketika ia sedang mengendarai mobilnya </p><p>6. anti klimaks</p><p>      Revi sangat menyesali perbuatannya kepada ayahnya</p><p></p><p>  Revi memutuskan memperbaiki diri/ sifatnya itu</p><p>7. penyelesaian</p><p>  </p><p>Revi sadar dengan apa yang ia perbuat oleh ayahnya, dan sekarang ia menyesalinya</p><br />
+                                            <h2 class="ez-toc-section" id="uraikan-cara-membuat-kerangka-cerpen-berdasakan-pengalaman-%e2%80%8b">
+                            11. uraikan cara membuat kerangka cerpen berdasakan pengalaman ?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tentukan topik atau tema</p><p>buat judul </p><p>kemudian alurnya </p><p>susun ceritanya</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="uraikan-cara-membuat-kerangka-cerpen-berdasarkan-pengalaman">
+                            12. Uraikan cara membuat kerangka cerpen berdasarkan pengalaman</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>dndndkss</p><p><strong>Penjelasan:</strong></p><p>shdjdjdjjdkdkdkd</p><br />
+                                            <h2 class="ez-toc-section" id="membuat-kerangka-cerpen-sosial-budaya-untuk-tugas-bhs-indo-tidak-terlalu-panjang-dan-tidak-terlalu-pendek-%e2%80%8b">
+                            13. membuat kerangka cerpen sosial budaya untuk tugas bhs.indo.tidak terlalu panjang dan tidak terlalu pendek.​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>Observasi</p><p>Pada tahapan observasi ini ialah langkah awal pada penulisan sebuah cerpen yang dilakukan secara langsung, yaitu mengamati objek-objek peristiwa sehari-hari dan memilih salah satu untuk menjadi tokoh utama pada cerpen tersebut.</p><p></p><p>2. Menentukan Judul &amp; Tema Pada Cerpen</p><p>Pada tahapan kedua ini ialah menentukan sebuah judul &amp; tema apa yang akan dibuat pada cepen. Untuk membuat cerpen semenarik mungkin, penulis akan memilih tema yang menarik seperti tema, olahraga, sosial maupun budaya.</p><p></p><p>3. Menentukan Latar Belakang Cerpen</p><p>Ketika tema sudah dibuat, maka latar belakang cerpen mengikuti alur pada tema yang dipilih oleh penulis.</p><p></p><p>Lihat Juga  Fosil adalah</p><p>4. Menentukan Para Tokoh</p><p>Menulis sebuah cerita, maka tokoh sangat penting dalam menulis sebuah cerita. Dalam menentukan tokoh, penulis menentukan sifat dan karakter tokoh tersebut yang sesuai dengan alur cerita.</p><p></p><p>5. Menciptakan Konflik</p><p>Dalam sebuah cerita pasti kita disuguhkan dengan beberapa konflik di dalamnya, maka penulis membuat beberapa alur cerita terjadi konflik agar cerita tersebut tidak monoton. Penulis memilih konflik yang menarik pada alur cerita tersebut, karena dalam menulis sebuah cerpen terdapat sebuah konflik yang ditemukan titik penyelesaian konflik tersebut.</p><p></p><p>6. Menentukan Sudut Pandang</p><p>Penulis menggunakan sudut pandang untuk menyajikan latar belakang, tokoh dan peristiwa pada cerita cerpen dan membentuk sebuah karya fiksi.</p><p></p><p>7. Menentukan alur</p><p>Alur sangat dibutukan dalam penulisan cerita, maka penulis memilih alur yang sangat menarik agar pembaca tidak merasakan jenuh.</p><p></p><p> </p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-cerpen-dengan-tema-hiburan">
+                            14. Buatlah kerangka cerpen dengan tema hiburan !</h2><br />
+                        Pada saat Liburan sekolah aku dan keluarga pergi berlibur ke Bali, kami mengunjungi beberapa tempat wisata<br />
+                                            <h2 class="ez-toc-section" id="tolong-buatkan-kerangka-karangan-cerpen-yang-berasal-dari-hikayat-bayan-budiman-tersebut%e2%80%8b">
+                            15. tolong buatkan kerangka karangan cerpen yang berasal dari hikayat bayan budiman tersebut​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>gambar nya bangggģgggggg</p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-cara-membuat-kerangka-cerpen-berdasarkan-pengalaman">
+                            16. bagaimana cara membuat kerangka cerpen berdasarkan pengalaman</h2><br />
+                        <p>Berikut ini cara membuat kerangka <strong>cerpen</strong> berdasarkan pengalaman:</p>Menentukan pengalaman yang akan kita gunakan dalam cerpen sekaligus menentukan tema <strong>cerpen</strong>. Menentukan judul <strong>cerpen</strong>.Menentukan sasaran pembaca.Menentukan tokoh, latar dan alur <strong>cerpen</strong>.Menyusun <strong>cerpen </strong>berdasarkan pengalaman secara urut.<p></p><strong>Pembahasan</strong><p><strong>Cerpen </strong>merupakan singkatan dari cerita pendek. <strong>Cerpen </strong>berisi karangan cerita yang dibuat secara singkat, padat dan jelas. Berikut ini struktur <strong>cerpen</strong>, yaitu:</p>Abstrak yaitu bagian yang memaparkan gambaran awal dari cerita yang dikisahkan. Orientasi yaitu bagian yang menjelaskan tentang latar cerita seperti suasana, waktu serta tempat atau lokasi yang digunakan dalam penggambaran cerita <strong>cerpen</strong>.Komplikasi yaitu bagian yang menjelaskan pemaparan awal suatu masalah yang dihadapi oleh tokoh. Bagian ini juga menjelaskan watak dari tokoh.Evaluasi yaitu bagian yang berisi terjadinya konflik masalah yang semakin memuncak. Resolusi yaitu bagian akhir permasalahan yang terjadi pada cerpen. Bagian ini menjelaskan solusi permasalahan yang dialami tokoh.Koda yaitu bagian yang menjelaskan nilai atau pesan moral yang terdapat pada sebuah <strong>cerpen</strong>.<p></p><strong>Pelajari lebih lanjut</strong>Materi tentang contoh cerpen beserta tanggapan, kritik dan pujian https://brainly.co.id/tugas/19331612Materi tentang contoh bacaan cerpen https://brainly.co.id/tugas/506748Materi tentang pengerian cerpen https://brainly.co.id/tugas/599619<p></p><strong>Detail jawaban</strong><p>Kelas: 9</p><p>Mapel: Bahasa Indonesia</p><p>BAB: 3</p><p>Kode: 9.1.3</p><p></p><p><strong>#AyoBelajar</strong></p><p><strong>#SPJ2</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-bagian-oembuka-cerpen-berdasarkan-kerangka-tersebut">
+                            17. buatlah bagian oembuka cerpen berdasarkan kerangka tersebut</h2><br />
+                        Dikisahkan pada pagi hari, ada seorang gadis di jalan sedang membawa belanjaan dari pasar. Dia berjalan menuju jalan pulang. Kemudian tiba tiba ada orang yang sedang terburu buru dan menabrak gadis tersebut dengan tidak sengaja, semua belanjaan gadis itu terjatuh , karena sedang terburu buru orang itu tidak bisa membantu gadis tersebut, dan orang itu hanya bisa mengucapkan "maaf".<br />Kemudian, lewatlah dua orang kakak beradik yang sedang lari lari pagi, kemudian mereka menyapa gadis itu yang sedang membersihkan belanjaan nya yang berantakan. Kakak beradik itu ingin menolong gadis tersebut, sayang si gadis itu menolak bantuan dari mereka.<br />{maaf kalau salah}<br />
+                                            <h2 class="ez-toc-section" id="buatlah-satu-tema-cerpen-berdasarkan-pengalaman-atau-gagasanmu-buatlah-7-kalimat-sebagai-kerangka-dari-cerpenmu-berdasarkan-pengalaman-atau-gagasanmu-kembangkanlah-kerangka-cerpen-tersebut-menjadi-s">
+                            18. buatlah satu tema cerpen berdasarkan pengalaman atau gagasanmu! buatlah 7 kalimat sebagai kerangka dari cerpenmu berdasarkan pengalaman atau gagasanmu! kembangkanlah kerangka cerpen tersebut menjadi sebuah cerpen dengan memperhatikan struktur teks dan kebahasaan!​</h2><br />
+                        <p>1.besrsifat fisktif atau karangan dari penulis </p><br />
+                                            <h2 class="ez-toc-section" id="terangkan-cara-membuat-kerangka-cerpen-berdasarkan-pengalaman">
+                            19. Terangkan cara membuat kerangka cerpen Berdasarkan pengalaman</h2><br />
+                        <p>Cara membuat kerangka cerpen berdasarkan pengalaman pribadi yaitu dengan </p><p>tulis saja apa yang terjadi ketika pengalaman anda berlangsung</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-teks-cerpen-tema-persahabatan%e2%80%8b">
+                            20. buatlah kerangka teks cerpen tema persahabatan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Tema:Persahabatan</p><p>Judul:Persahabatan yang indah</p><p>Tokoh:Didi,alien</p><p>Alur:-Pesawat alien terjatuh di bumi</p><p>-Didi ketakutan</p><p>-Alien minta tolong bantuan Didi membenarkan</p><p>pesawat alien</p><p>-Didi berusaha mencoba</p><p>-Didipun berhasil membenarkan pesawat alien</p><p>-Alien pun memberikan sebuah hadiah yg digunakan untuk mereka bercakap-cakap</p><p>-Alien kembali ke planet asalnya</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tolong-buatkan-contoh-kerangka-cerpen-dengan-tema-kejujurantolong-bantu%e2%80%8b">
+                            21. Tolong buatkan contoh kerangka cerpen dengan tema kejujuranTolong bantu​</h2><br />
+                        <p></p><p>maaf ya kalau salah.............</p><p> </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-karangan-cerpen">
+                            22. buatlah kerangka karangan cerpen</h2><br />
+                        Untuk membuat kerangka karangan cerpen ikutilah langkah" ini : 
+1. Merumuskan tema dan menetukan judul suatu karangan
+2.mengumpulkan bahan
+3.menyeleksi bahan
+4. Mengembangkan kerangka karangan<br />
+                                            <h2 class="ez-toc-section" id="membuat-teks-cerpen-disertai-kerangka-dan-struktur">
+                            23. membuat teks cerpen disertai kerangka dan struktur</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>dengan menyiapkan objek dan memperhatikan objek. yang akan  kamu buat</p><br />
+                                            <h2 class="ez-toc-section" id="bang-buatkan-aku-1-cerpen-cerpen-nya-itu-harus-lengkap-dengan-kaifah-kebahasaan-dan-kerangka-cerpen-nya-teratur%e2%80%8b">
+                            24. bang... buatkan aku 1 cerpen, cerpen nya itu harus lengkap dengan kaifah kebahasaan, dan kerangka cerpen nya teratur​</h2><br />
+                        <p>“Din, ada Devi tuh di depan nyariin kamu katanya, ditemuin gih. Dah nungguin dari tadi.” Sahut Devi kepada Dinda yang sedang mengerjakan tugas sekolah di rumah Dinda.</p><p></p><p>“Bi surti, bilang aja aku gak ada, lagi keluar apa cari alasan lain gitu.” Pinta Dinda pada Bi Surti yang bekerja di rumahnya.</p><p></p><p>“Iya, Non.”</p><p></p><p>“Kamu kenapa kaya gitu sama Devi? Dia sudah datang jauh-jauh malah kamu gituin. Devi itu anak baik lho, Din.”</p><p></p><p>“Iya dari memang luarnya keliatan baik, manis, ramah. Tapi apa hanya itu saja kamu mengukur sifat seseorang? Dari luar memang manis. Tapi dalamnya tuh pahit.”</p><p></p><p>“Pahit gimana maksudnya?”</p><p></p><p>“Devi itu sering ngomongin keburukan temannya sendiri di belakang orangnya. Banyak pokoknya, yang gak bisa aku jelasin ke kamu.</p><p></p><p>“Beda sama kamu, lihatlah kamu ini. Judes, ceplas-ceplos kalo ngomong sama aku. Tapi hatimu tulus, Tin, bukan baik di luar tapi dalamnya busuk. Aku gak butuh kawan yang tampilan luar orang dalam berteman.” Jelas Dinda.</p><p></p><p>judulnya baik luar dalam</p><p>semoga membantu yachhh</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-satu-tema-cerpen-buatlah-7-kalimat-sebagai-kerangka-dari-cerpenmu-kembangkanlah-kerangka-cerpen-tersebut-menjadi-sebuah-cerpen-dengan-memperhatikan-struktur-teks-dan-kebahasaan%e2%80%8b">
+                            25. buatlah satu tema cerpen! buatlah 7 kalimat sebagai kerangka dari cerpenmu! kembangkanlah kerangka cerpen tersebut menjadi sebuah cerpen dengan memperhatikan struktur teks dan kebahasaan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p>Pada sebuah desa hiduplah seorang ibu bernama mbok srini, mbok srini mempunyai anak,, akan tetapi durhaka pada nya .. </p><p>keesokan harinya mbok srini pergi mencari nafkah melalui berkebun atau berladang.. </p><p>tetapi anak nya malah santai² saja di rumah sambil menonton dan merawat wajah,, akan tetapi anak nya tidak peduli akan mbok srini.. </p><p>bertahun tahun berbulan bulan</p><p>anak nya kena karma nya.. </p><p>mbok srini jatuh sakit dan tidak bs di selamatkan atau meninggal... </p><p>ia sangat menyesal dg perbuatan nya yg buruk itu.. </p><p><strong>Penjelasan:</strong></p><p>kalo kurang bagus menurutmu jgn di pake yaa.. </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-cerpen-dengan-tema-pahlawan%e2%80%8b">
+                            26. buatlah kerangka cerpen dengan tema pahlawan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Sepeda Buntut Bungkarno</p><p><strong>Penjelasan:</strong></p><p>Sepedah antik yang saat ini menjadi incaran banyak orang karena sepeda itu bekas peninggalan dari pejuang bapak Soekarno Sang proklamator.</p><p></p><p>Pada saat itu aku dan teman-teman sedang membicarakan tentang sepeda yang menjadi perhatian banyak orang karena sepeda tersebut peninggalan dari bapak Ir. Soekarno sang pejuang kita.</p><p></p><p>Mengagumkan BUKAN. Sepeda yang saat ini dimiliki oleh seorang kakek. Veteran 45 Yang tetap gagah dan perkasa.</p><p></p><p>Namanya kakek Burhan. Kakek tersebut sudah lama memiliki sepeda dari tahun 1947, keadaanya memang begitulah karena sepeda sejarah dari para pejuang.</p><p></p><p>Aku terkadang heran,, bagaimana bisa kakek yang sudah tua itu memiliki sepeda sangat banyak di incar oleh pemburu barang antik.</p><p></p><p>Hingga suatu ketika aku bertanya pada kakek tersebut dan kebetulan rumah kakek tersebut, tidak begitu jauh dari rumah ku.</p><p></p><p>pada malam hari aku dan teman – teman, berkunjung ke rumah kakek tersebut, dan kamipun bertanya tentang dari mana kakek mempunyai sepeda itu, hingga alasan apa kakek mendapatkan warisan sepeda yang bagus itu.</p><p></p><p>Dengan senang hati kakek itu mencertitakan kepada kami. singkat cerita mengapa dia mempunya sepeda dan bagaimana dia mempunyai sepeda itu.</p><p></p><p>Lantas kakek pun bercerita, dia mendapatkan sepeda tersebut karena dia pahlawan veteran perang pada masa penjajahan dulu.</p><p></p><p>Terus kami bertanya lagi pada kakek tersebut, bagaimana dia mempunyai sepeda tersebut, dengan cara merampas atau sengaja di kasih oleh Bung Karno sang pejuang.</p><p></p><p>Memang sedikit kejam pertanyaan kami, ya itulah kamikan anak muda yang kadang semaunya bertanya kepada orang yang tua tanpa pandang bulu lagi.</p><p></p><p>Kakek pun menjawab nya, dulu saya mantan asisten Bung Karno dapa saat Bung Karno singgah terus di asingkan di palembang.</p><p></p><p>Kami juga lantas menanyakan tentang kelanjutanya dari cerita kakek tersebut.</p><p></p><p>Kami pun bertanya kembali, kek maaf apa benar dulu kakek di kasih Bung Karno sepeda itu,,,,? gagah nya kami bertanya seakan akan mengharapkan jawaban atau seperti menginterogasi nya.</p><p></p><p>Maklum kami kan orang mahasiswa hukum.</p><p></p><p>Kakek pun menjawab lagi,,,, ya benar saya mendapatkan sepeda itu dari pemberian Bung Karno sendiri pada saat Bung Karno singgah dan di asingkan di palembang.</p><p></p><p>Saya juga tidak menyangka mengapa Bung Karno bisa memberikan sepedanya kesayanganya kepada saya.</p><p></p><p>“Bung Karno cuma berpesan agar merawat dan menjaga sepeda sampai bisa di wariskan kepada anak dan cucu kami nantinya.”</p><p></p><p>Pesan Bung Karno sepeda itu simbol dari perjuangan dan alat dari perjuangan hingga rakyat dapat melawan penjajah belanda pada waktu itu.</p><p></p><p>Mendengar dari cerita nya itu kami tidak percaya dengan cerita nya. Tapi kami percaya dengan pernyataan kakek itu, “Sepeda saat itu memang simbol dari perjuangan dan alat rakyat jelata pada saat melawan penjajahan belanda.</p><p></p><p>Kami juga saat itu berbisik kepada teman-teman disamping apa dia percaya apa cerita dari kakek itu,,,, ” Teman pun menjawab bahwa dia juga tak percaya apa yang dicerita kakek tersebut,,,” dari segi arsitek tentang sepeda nya benar sepeda yang dimiliki Bung Karno. Sepeda itu banyak yang mencari nya.</p><p></p><p>Kami akhirnya bertanya lagi pada kakek tersebut. Apa yang kakek katakan benar. Dengan nada menyinggung perasaan kakek tersebut.</p><p></p><p>Kakek pun kembali menjawab, “Saya mendapatkan sepeda nya dari pemberian Bung Karno, kalian tidak percaya sini saya lihatkan surat surat kelengkapan dari sepeda itu,,,,</p><p></p><p>Kakek pun bergegas menuju kamarnya akan mencari surat sepeda tersebut,,” tidak lama kakek itu dapat menunjukan surat dari sepeda itu,,”</p><p></p><p>Memang iya di dalam surat nya terdapat tanggal dari pembuatan dan penerimaan dari sepeda nya kepada kakek tersebut.</p><p></p><p>Tetapi kami pun masih belum begitu yakin dengan apa yang terjadi cerita yang mistis dari kakek tersebut. maksud nya kakek itu mungkin bercerita bohong.</p><p></p><p>Beberapa menit kemudian kami melihat isi dari surat nya apa kata kakek itu tentang surat yang asli dari Bung Karno. setelah kami perhatikan dan kami cermati bahwa surat itu ternyata palsu.</p><p></p><p>kami menanyakan kembali kepada kakek itu apa benar surat itu asli atau palsu.</p><p></p><p>Kakek pun menjawab surat itu surat yang asli dari Bung Karno,,,,” Setelah mendengar ceritanya dari Bung Karno kami berpikir dan melihat lagi surat tersebut.</p><p></p><p>saat kami melihat dan kami angkat kertas,, ternyata kami lihat tidak adanya tanda pada surat nya,,,, kami pun sangat yakin bahwa surat itu adalah surat yang palsu, hanya di buat sendiri dari kakek tersebut.</p><p></p><p>Kami juga tidak mempermasalahkan apa ini surat itu dan kami bergegas akan pamit kepada kakek tersebut.</p><p></p><p>pada saat kami berada di perjalanan kami berfikir tentang semua jawaban dari kakek katakan tentang semua surat yang kakek tunjukkan tadi.</p><p></p><p>Belum sempat memperoleh jawabannya aku terbangun dari tidur ternyata tadi aku sedang bermimpi,,,,”</p><p></p><p>Betapa kaget nya aku ternyata cuma bermimpi dan berkhayal.</p><p> </p><p></p><p>JADIKAN JAWABAN TERBAIK</p><p></p><p></p><p></p><strong>Jawaban:</strong>pada zaman dahulu ada banyak penjajahdari negara lain yang menyerang negara kita tetapi orang orang yang hidup di masa itu berjuang demi cucu cucu mereka agar negara mereka tidak di ambil negara lain. akhirnya mereka berhasil menyerang pejajah itu dan mereka ada yang selamat dan ada juga yang tidak selamat oleh karna itu kita di wajibkan mencontoh para pahlawan dan memperingatinya sebagai hari pahlawan.<strong>Penjelasan:</strong>terima kasih ya atas pahlawan yang berjuang demi negara kita.     <p></p><p></p>selamat hari pahlawan<p></p><p></p><p></p><p></p>semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="buatlah-sebuah-kerangka-karangan-sebagai-landasan-untuk-menulis-sebuah-cerpen-berdasarkan-peristiwa-yang-kamu-alami">
+                            27. Buatlah sebuah kerangka karangan sebagai landasan untuk menulis sebuah cerpen berdasarkan peristiwa yang kamu alami!</h2><br />
+                        ceritanya gimana. kumpulin inti inti Atau bagian pentingnya dari awal sampe akhir<br />
+                                            <h2 class="ez-toc-section" id="kembangkan-kerangka-yang-telah-dibuat-menjadi-cerpen">
+                            28. Kembangkan kerangka yang telah dibuat menjadi cerpen</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>membuat sebua cerita pendek begitu mudah jelas dan benar</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-cerpen-orientasi-dan-komplikasi-evaluasi-dan-resolusi-cerita-nya-harus-sama%e2%80%8b">
+                            29. Buatlah Kerangka Cerpen , Orientasi Dan Komplikasi , Evaluasi Dan Resolusi. (Cerita Nya Harus Sama)​</h2><br />
+                        <p></p><p></p><p>Orientasi</p><p></p><p>Dikisahkan pada suatu hari yang cerah ada seekor semut berjalanjalan di taman. Ia sangat bahagia karena bisa berjalan-jalan melihat taman yang indah. Sang semut berkeliling taman sambil menyapa binatang-binatang yang berada di taman itu.</p><p></p><p>Komplikasi</p><p></p><p>Ia melihat sebuah kepompong di atas pohon. Sang semut mengejek bentuk kepompong yang jelek yang tidak bisa pergi ke mana-mana.</p><p></p><p>“Hei, kepompong alangkah jelek nasibmu. Kamu hanya bisa menggantung di ranting itu. Ayo jalan-jalan, lihat dunia yang luas ini. Bagaimana nasibmu jika ranting itu patah?”</p><p></p><p>Sang semut selalu membanggakan dirinya yang bisa pergi ke tempat ia suka. Bahkan, sang semut kuat mengangkat beban yang lebih besar dari tubuhnya. Sang semut merasa bahwa dirinya adalah binatang yang paling hebat. Si kepompong hanya diam saja mendengar ejekan tersebut.</p><p></p><p>Pada suatu pagi sang semut kembali berjalan ke taman itu. Karena hujan, di mana-mana terdapat genangan lumpur. Lumpur yang licin membuat semut tergelincir ke dalam lumpur. Ia terjatuh ke dalam lumpur. Sang semut hampir tenggelam dalam genangan itu. Semut berteriak sekencang mungkin untuk meminta bantuan. “ Tolong, bantu aku! Aku mau tenggelam, tolong..., tolong....!</p><p></p><p>Resolusi</p><p></p><p>Untunglah saat itu ada seekor kupu-kupu yang terbang melintas. Kemudian, kupu-kupu menjulurkan sebuah ranting ke arah semut.</p><p></p><p>“Semut, peganglah erat-erat ranting itu! Nanti aku akan mengangkat ranting itu.”</p><p></p><p>Lalu, sang semut memegang erat ranting itu. Si kupu-kupu mengangkat ranting itu dan menurunkannya di tempat yang aman. Kemudian, sang semut berterima kasih kepada kupu-kupu karena kupu-kupu telah menyelamatkan nyawanya. Ia memuji kupu-kupu sebagai binatang yang hebat dan terpuji.</p><p></p><p>Mendengar pujian itu, kupu-kupu berkata kepada semut. “Aku adalah kepompong yang pernah diejek,” kata si kupukupu. Ternyata, kepompong yang dulu ia ejek sudah menyelamatkan dirinya.”</p><p></p><p>Koda</p><p></p><p>Akhirnya, sang semut berjanji kepada kupu-kupu bahwa dia tidak akan menghina semua makhluk ciptaan Tuhan yang ada di taman itu.</p><br />
+                                            <h2 class="ez-toc-section" id="membuat-cerpen-dan-kerangka-cerpen-sesuai-tema-struktur-dan-kaidah-kebahasaan-%e2%80%8b">
+                            30. Membuat cerpen dan kerangka cerpen sesuai tema, struktur, dan kaidah kebahasaan. ​</h2><br />
+                        <p><strong>Pak Tani dan Ladangnya
+</strong></p><p><strong></strong></p><p>Abstrak  </p><p>Di suatu hari yang amat cerah, Pak Tani sedang menggarap sawahnya untuk ditanami jagung dan umbi-umbian lainnya. Dengan hati riang, Pak Tani mulai menanam bibit-bibitnya, berharap esok-esok cepat tumbuh sehingga bisa cepat dijual.
+</p><p>
+</p><p>“Semoga tidak lebih dari dua minggu, bibit-bibit ini sudah tumbuh dengan baik. Uang hasil menjual hasil panen kali ini akan aku belikan sebuah sepeda untuk anakku” ujar Pak Tani sambil bersiul-siul dengan wajah yang ceria.
+</p><p>
+</p><p>Orientasi</p><p>Hari demi hari mulai terlewati. Pak Tani merawat ladangnya denghan baik hingga semua tanaman mulai berbuah.
+</p><p>
+</p><p>“Wah tanamanku sudah mulai berbuah, akan aku panen esok hari, saat ini biarlah aku menikmati hari yang cerah bersama hasil ladangku yang banyak” ucap Pak Tani dalam hati, seraya mengambil pacul dan peralatan lainnya untuk pulang.
+</p><p>
+</p><p>komplikasi</p><p>Malam harinya, tikus yang suka mencuri makanan datang ke ladang Pak Tani.
+</p><p>
+</p><p>“Hmmm, wangi makanan di ladang ini membuatku lapar. Aku akan mengajak teman-temanku untuk berpesta disini” Lalu si tikus memanggil teman-temannya untuk datang ke ladang. Dalam sekejap, setengah hasil ladang Pak Tani sudah habis dimakan oleh tikus. Dan tikus-tikus itupun pergi setelah merasa kenyang.
+</p><p>
+</p><p>Esok harinya, Pak Tani datang ke ladang, bersiap-siap untuk memanen. Alangkah terkejutnya Pak tani melihat ladangnya sudah berantakan.
+</p><p>
+</p><p>“Apa-apaan ini! Mengapa hasil ladangku hampir habis dimakan hewan?! Lihat saja, akan aku balas mereka semua!”
+</p><p>
+</p><p>Pak Tani sangat marah, ia lalu menaruh jerat-jerat di sekitar ladang agar tikus-tikus yang datang tidak akan pernah bisa masuk ke ladangnya lagi.
+</p><p>
+</p><p>“Rasakan tikus-tikus nakal! Espok pagi akan aku tangkap mereka semua!” ujar Pak Tani menahan amarah.
+</p><p>
+</p><p>“Ah, aku lelah sekali siang ini. Tenagaku habis untuk memasang jerat-jerat ini. Esok saja lah aku lanjutkan memanen hasil ladang yang tersisa. Biar saja malam ini tikus-tikus itu merasakan akibatnya”
+</p><p></p><p>Evaluasi</p><p>
+Setelah pak tani pergi, sekawanan burung terbang melewati ladang Pak tani. Burung-burung itu melihat masih ada banyak buah yang bisa dimakan.
+</p><p>
+</p><p>“Wah rupanya tikus tidak menghabiskan isi ladang ini semalam. Ayo teman-teman, kita isi perut kita agar tak kelaparan di perjalanan.” Ajak si burung kepada kawanan burung lainnya.
+</p><p>
+</p><p>Resolusi</p><p>Dan dalam waktu yang singkat, ladang Pak Tani sudah semakin berantakan oleh kawanan burung itu. Sekarang bahkan tidak ada lagi yang bisa dipanen oleh Pak Tani.
+</p><p>
+</p><p>Koda</p><p>“Sepertinya Pak Tani harus belajar untuk tidak pernah menunda pekerjaan” ucap tikus dan burung seraya tertawa meninggalkan ladang Pak Tani.</p><p></p><p></p><p></p><p>Kaidah kebahasaannya memiliki</p><p>- bahasa baku yang benar</p><p>- kalimat abstrak</p><p>- menggunakan kunjungsi penghubung</p><p>- menggunakan imbuhan</p><p></p><p></p><p></p><p>Belajar Bersama Brainly</p><br />
+                                            <h2 class="ez-toc-section" id="apa-manfaat-membuat-kerangka-cerpen%e2%80%8b">
+                            31. Apa manfaat membuat kerangka cerpen​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>agar lebih mudah untuk menentukan isi pokok dari cerpen tersebut, dan agar dapat membentuk cerpen dengan alur yang tepat</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="membuat-cerpen-dari-kerangka-tersebut%e2%80%8b">
+                            32. membuat cerpen dari kerangka tersebut​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a:menyiapkansarapan</p><p>a:adik akan berulang.tahun</p><p>f:menawarkan jasa mendorong mobil</p><p>b:membagunkan adik nya</p><p><strong>Jawaban:</strong></p><p>SELAMAT ULANG TAHUN DEDE</p><p>Seperti biasa,, pada pagi hari aku sudah sibuk. Karena Ibuku sedang sakit dan terbaring lemah di kasur,, jadi aku yang harus membuat sarapan untuk adikku. Aku punya satu Adik. aku membuat sarapan sederhana,, cuma telur dadar dan nasi panas. setelah sarapan siap,, Dede sarapan dengan lahap. aku pun lanjut untuk mencuci baju yang sudah menumpuk. Dari kemarin belum di cuci karena pasokan air kebetulan sedang habis. Saat sedang mencuci,, Dede berteriak untuk menyuruh ku mengantar sekolah. "Sebentar Dee,, lagi tanggung. bentar lagi selesai kok". Dede menunggu dengan sabar sampai aku beres mencuci. lalu akupun berangkat untuk mengantar Dede sekolah sambil membawa oerlengkapan menyemir sepatu di terminal. Walaupun penghasilan menyemir sepatu tidak terlalu besar,, tetapi yang penting bisa mencukupi kebutuhan sehari hari. Di terminal banyak orang orang yang pergi bekerja. Dan mereka biasanya menyemir sepatu mereka agar terlihat hitam. Aku bekerja sampai siang,, tepatnya pukul 12. aku pulang sambil menjemput Dede pulang sekolah. Saat pulang Dede tiba tiba ingin kue tart dan eskrim. " A,, tadi di sekolah temen temen Dede pada bahas kue tart sama eskrim. Dede mau dong A,, mau nyobain dikit aja." kata Dede. oh iya,, hari ini kan Dede ulang tahun. "Iya de,, nanti AA beliin ya kalau ada uang" aku mencari alasan karena uang ku sekarang cuma cukup untuk membeli obat dan untuk makan nanti. Saat pulang ke rumah,, aku memberikan obat pada ibu. Tadinya aku mau bicarakan soal kue dan eskrim ke ibu,, tapi tidak jadi deh,, nanti ibu bisa stress mikirin nya. Aku melihat uang di tabungan ku. Uang nya lumayan banyak. aku mencoba ke toko kue terdekat. Aku melihat harga kue tart ternyata sangat mahal. Aku juga melihat yang kecil,, itu memang lumayan murah tetapi uang nya masih belum cukup. Aku berfikir "Bagaimana ya aku bisa beli kue sama eskrim sebelum besok? apa aku pinjam uang dulu saja ya sama tetangga? aah ide bagus. aku memang pintar" lalu perjalanan pulang aku belok dulu ke rumah tetangga untun meminjam uang. tetapi tidak ada yang meminjamkan. ada yang kehabisan uang lah,, belum gajian lah,, dan alasan yang lain lagi. aku hampir putus asa. Aku melihat anak lain berulang tahun dengan mewah. tak sadar air mataku menetes. "Andai saja aku anak orang kaya,, aku tak perlu capek capek cari uang buat beli kue tart". Aku memutuskan untuk pulang saja. tapi Ada yang menghalangi. ada mobil mogok di depan. " Ada apa pak? mobilnya mogok ya pak?. "Iya nih. kenapa ya? apa aku lupa ganti aki?". Lalu aku menawarkan untuk mendorong mobil nya sampai ketujuan. " Emangnya bapak mau ke mana? mau saya dorong pak?". " Wah makasih ya. gausah jauh jauh,, sampai bengkel depan sana saja. biar kamu nanti tidak kecapean". Lalu aku membantu bapak tadi mendorong mobil. setelah sampai bapak tadi memberi imbalan berupa uang yang besar jumlahnya. awalnya aku sempat menolak,, tapi lumayan lah yang buat beli kue tart sama eskrim. aku pun bahagia kegirangan. aku langsung berlari ke toko kue tadi untuk beli kue tart kecil dan eskrim. Setelah membeli aku langsung pulang,, tak sabar mau menunjukan ini oada Dede. Sampai di rumah aku lihat Dede sedang tidur nyenyak sekali. Aku membangunkan Dede yang sedang tidur. saat bangun aku menunjukan kue dan eskrim yang aku beli. Dede berteriak kegirangan karena bisa merasakan kue tart yang ia dambakan. Lalu kami berpelukan dan mengucap Syukur tanpa henti. akupun menangis haru melihat Dede sebahagia ini. Selamat ulang tahun Dede.</p><br />
+                                            <h2 class="ez-toc-section" id="apa-manfaat-membuat-kerangka-cerpen%e2%80%8b">
+                            33. Apa manfaat membuat kerangka cerpen​</h2><br />
+                        <p>Jawaban:</p><p>Memudahkan kita dalam menulis cerpen, karena point" nya sudah ada</p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="cara-membuat-cerpen-yang-menggunakan-4-kerangka-dan-tidak-menggunakan-kata-akhir-di-dalam-cerpen">
+                            34. cara membuat cerpen yang menggunakan 4 kerangka dan tidak menggunakan kata akhir.di dalam cerpen </h2><br />
+                        1. Mengadakan observasi atau pengamatanMengadakan observasi atau pengamatan merupakan tahap pertama dalam cara praktis menulis cerita cerpen atau cara membuat cerpen. Cara Observasi dapat dilakukan dengan mengadakan pengamatan secara langsung. Selain itu, observasi dapat dilakukan dengan mengingat atau mendengarkan kejadian yang dilakukan oleh orang lain.<br />Contoh observasi atau pengamatan dalam menulis cerpen:<br />Teman Anda menceritakan peristiwa yang terjadi di pegunungan saat ia berlibur. Pegunungan itu dapat dijadikan latar tempat dalam cerpen Anda.<br /><br />2. Menentukan temaTahap kedua dalam cara menulis ataucara membuat cerpen yaitu menentukan tema. Tema cerpen sering disebut ide cerpen. Tema dapat Anda tentukan dari hasil observasi yang telah dilakukan, misalnya kehidupan di pegunungan.<br /><br />3. Menentukan latar cara berikutnya dalam membuat ataumenulis cerpen yaitu menentukan latar. Seluruh hasil observasi yang telah dilakukan dapat Anda gunakan untuk menciptakan latar. Latar yangAnda buat harus sesuai dengan tema yang Anda tentukan. Anda juga harusingat bahwa latar terdiri atas latar tempat, latar waktu, dan latar suasana.Contoh menentukan latar cerpen:latar tempat : di pegununganlatar waktu : senja harilatar suasana : menyenangkan4. Menciptakan tokoh cara untuk menulis sebuah cerpen atau cara membuat cerpen pada tahap ke-4 yaitu menciptakan tokoh. Anda dapat menciptakan tokoh dari orang-orang yang diceritakan oleh teman Anda atau orang-orang yang mengalami peristiwa yang Anda lihat. Anda dapat mengganti nama tokohnya. Anda harus menentukan tokoh utama dalam cerpen yang akan Anda buat. Jangan lupa, Anda juga harus menentukan watak dan bentuk fisik tokoh-tokoh yang Anda ciptakan.<br />Contoh menciptakan tokoh dalam cerpen:Tokoh utama: IdaIda seorang siswa SMA yang peduli dengan lingkungan. Ia seorang wanitayang berumur tujuh belas tahun yangberambut panjang dan lurus. Kulitnya yang putih dan halus menambah kecantikannya.<br /><br />5. Menciptakan konflikTahap ke-5 dalam cara membuat cerpen atau menulis cerpen yaitu menciptakan konflik. Konflik adalah pertentangan atau ketegangan dalamsebuah cerpen. Konflik dapat mengangkat masalah yang terjadi dalam peristiwa yang diceritakan teman Anda atau masalah yang terjadi dalam peristiwa yang Anda lihat.<br />Contoh menciptakan konflik dalam menulis cerpen:Misalnya, Anda melihat pertengkaranantar anak. Anda dapat mengangkat penyebab pertengkaran itu menjadi sebuah konflik dalam cerpen.<br /><br />6. Menentukan sudut pandangTahap ke-6 dalam cara menulis atau membuat cerpen yaitu menentukan sudut pandang. Sudut pandang yang akan Anda gunakan harus sesuai dengan cara Anda menceritakan tokoh utama. Contoh: Sudut pandangpersona ketiga ”ia”.<br /><br />7. Menentukan alurPada tahap ke-7 dalam menulis atau cara membuat cerpen yaitu menentukan alur. Untuk mempermudah menuliskan cerita ke dalam cerpen, Anda harus menentukan alur. Anda akan menggunakan alur maju, alur mundur,ataukah alur campuran.<br /><br />8. Menulis cerpenPada tahap ke-8 cara mudah menuliscerita cerpen atau cara membuat cerpen yaitu mengembangkan tema yang ada atau bisa dikatakan kita mulai menulis cerpen tersebut. Kembangkanlah tema yang telah Andatentukan menjadi sebuah cerpen. Cerpen yang Anda tulis harus memuatlatar, tokoh, konflik, sudut pandang,dan alur yang telah Anda tentukan. Gunakanlah katakata sederhana dan komunikatif. Perhatikan pula ejaan dan pilihan kata yang Anda gunakan<br />9. Menentukan judulSedangkan tahap terakhir cara membuat cerpen atau menulis cerpen yaitu menentukan judul. Judul dapat Anda tentukan saat akan menulis atau sesudah menulis. Judul cerpen harus sesuai dengan tema dan peristiwa-peristiwa cerpen.Contoh menentukan judul dalam menulis cerpen:Tema cerpen : kehidupan di pegununganJudul cerpen : Senja di Pegunungan<br />
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-cerita-cerpen-dan-contoh">
+                            35. buatlah kerangka cerita cerpen dan contoh</h2><br />
+                        kerangka cerpen harus ada unsur ekstrisik seperti biografi penulis,  dan unsur intrisiknya juga seperti tokoh,  judul,  tema,  sudut pandang,  alur,  latar,  amanat<br />
+                                            <h2 class="ez-toc-section" id="4-kerangka-cerpen-itu-dan-buatlah-sebuah-cerpen-dengan-memiliki-4-kerangka-contohnya-di-dalam-sebuah-cerpen-terdapat-kerangka-pertama-1-tanaman1-1-bunga-anggrek1-2-bunga-mawar-1-3bunga-melati2-2">
+                            36. 4 kerangka cerpen itu dan buatlah sebuah cerpen dengan memiliki 4 kerangka 
+contohnya di dalam sebuah cerpen terdapat kerangka pertama 1.tanaman
+1.1 bunga anggrek
+1.2 bunga mawar 
+1.3Bunga melati
+2.
+2.1 dijaga
+2.2 di rawat 
+3.
+3,1 dan seterusnya
+Bagi yang dapat menjawab saya sangat berterima kasih</h2><br />
+                        bunga angrek memiliki bermacam-macam jenis spesies di mana pada setiap spesies yang sama dapat memiliki berbedaan yang beragam tergantung varietasnya. bunga anggrek banyak diminati karena memiliki bnetuk yang unik dan pada beberapa jenis yang langka bahkan memilki bentuk yang jarang ditemui. hal ini yang menjadikan harganya begitu tinggi hingga hanya dapat dijangkau oleh kolektor yang serius.<br /><br />bunga lain yang tidak kalah memiliki daya tarik adalah bunga mawar. daya tarik utamanya terletak pada warna dan keharumannya yang mempesona. secara sederhana, bunga mawar memikat melalu bentuk kelopaknya yang bertumpuk-tumpuk, warnanya yang menarik dan keharuman yang menggoda.<br /><br />bunga harum lainnya yang tak kalah menggoda adalah bunga melati. dari segi warna, bunga mayoritas berwarna putih ini, wanginya yang khas adalah hal yang tak tergantikan. bahkan dalam beberapa minuman tradisional tetap mencampurkan aroma melati sebagai pelengkap.<br /><br />perkembangan zaman membuat bunga-bunga tadi ikut terpinggirkan. banyak varietas baru ditumbuhkan, sementara spesies liar banyak juga yang punah. hal ini bila dibiarkan akan berdampak buruk pada keanekaragaman hayati. karenanya perlu dijaga dan dilestarikan. dan upaya perlindungannya harus terus dilakukan.<br /><br />spesies alami biasanya berbeda dengan spesies yang dikembangkan di laboratorium yang cenderung tahan terhadap perubahan lingkungan dan serangan hama. walaupun pada dasarnya memilki perawatan standar yang sama, pemberian perlakuan khusus tetap harus diperhatikan tergantung jenis tumbuhan.<br /><br />..dst.<br />
+                                            <h2 class="ez-toc-section" id="buatlah-cerpen-lengkap-dengan-kerangkanya-cepat-ya%e2%80%8b">
+                            37. buatlah cerpen lengkap dengan kerangkanya! cepat ya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Kerangka Cerpen berjudul Catatan tentang Dia</p><p>Kumpulan Cerpen Singkat Terbaru</p><p></p><p>Tema: </p><p>Kehilangan orang yang dicintai. </p><p></p><p>Amanat </p><p>Jangan terlalu cepat menilai seseorang. </p><p>Harus sabar dalam menghadapi masalah. </p><p>Satiap kejadian itu pasti ada hikmahnya. </p><p></p><p>Tokoh dan penokohan: </p><p>Aku : Terbelenggu masa lalu, pasrah </p><p>Kevin: Baik, perhatian, lembut</p><p></p><p>Latar: </p><p>Waktu : dulu, suatu hari </p><p>Tempat : di tempat keramaian </p><p>Suasana : menyedihkan</p><p></p><p>Sudut pandang: </p><p>Sudut pandang orang pertama pelaku utama </p><p></p><p>Gaya bahasa: </p><p>Lugas, mudah dimengerti, di pahami. </p><p></p><p>Konflik:</p><p>Aku terlalu menyayangi Kevin</p><p>Mendapatkan ujian kehilangan orang-orang yang disayanginya</p><p></p><p>semoga benar </p><p>kalo salah ya maaf :)</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-kerangka-cerpen">
+                            38. buatlah kerangka cerpen?</h2><br />
+                        tema<br />judul<br />isi<br />penutup<br />amanat <br />waktu<br />tempat kejadian<br />
+                                            <h2 class="ez-toc-section" id="buatlah-sebuah-cerpen-beserta-kerangkanya">
+                            39. buatlah sebuah cerpen beserta kerangkanya ??</h2><br />
+                        <strong>Contoh :</strong><br /><strong>                                                Manfaat Tidur Cukup Bagi Kesehatan</strong><br /><br />Tidur adalah suatu ativitas dimana seluruh tubuh sedang berada dalam keadaan istirahat total. Menurut para ahli, manusia membutuhkan tidur yang cukup yaitu sekitar 6 sampai 8 jam setiap hari. Lamanya waktu tersebut tidak bisa dicicil, dengan kata lain waktu 6 sampai 8 jam adalah waktu sekali tidur.<br /><br />Ada beberapa dampak buruk yang disebabkan jika kita tidak mendapatkan tidur yang cukup. Dampak-dampak tersebut sangat berpengaruh bagi kesehatan kita, diantaranya adalah kurang tidur dapat menggangu konsenterasi. Hal ini dikarenakan otak kita mengalami kelelahan sehingga memacu mata dan mempengaruhi tubuh menjadi lemas dan mengantuk. Hilangnya konsentrasi ini sangat berbahaya, terutama bagi mereka yang mengendarai kendaraan bermotor.<br /><br />Dampak selanjutnya adalah kurang tidur membuat tubuh lebih mudah terserang penyakit. Hal ini terjadi akibat dari melemahnya sistem imun atau kekebalan tubuh sehingga penyakit dapat dengan mudah menyerang. Terlebih lagi, kurang tidur membuat emosi seseorang menjadi terganggu. Biasanya orang yang mengalami kekurangan tidur akan mudah lelah dan cepat marah.<br /><br />Agar terhindar dari dampak-dampak tersebut, usahkanlah untuk selalu mendapatkan tidur yang cukup, karena tubuh kita akan mendapatkan manfaat yang baik, diantaranya adalah dengan tidur yang cukup, tubuh akan berkonsentarsi dengan baik karena otak mendapatkan istirahat yang cukup.<br /><br />Selain itu, tidur yang cukup bisa meningkatkan daya tahan tubuh sehingga terhindar dari penyakit-penyakit yang akan menyerang. Yang terakhir adalah tubuh akan mendapatkan energy yang banyak untuk melakukan aktifitas di hari esok.<br /><br />Demikianlah manfaat dari tidur yang cukup, agar mendapatkan manfaat-manfaat tidur di atas. Usahakan untuk mendapatkan tidur yang nyenyak kareana tidur yang cukup dan nyeyak merupakan kombinasi yang baik. Berikut ini adalah tips-tips untuk membuat tidur nyenyak.<br />yang pertama adalah berolahraga sebelum tidur, dengan berolahraga tubuh akan menjadi lelah dan memudahkannya untuk tidur nyenyak. kemudian usahakan untuk membuat jadwal tidur yang teratur agar tidur menjadi suatu kebiasaan yang baik dan yang terakhir jangan makan-makanan yang berat sebelum tidur agar tubuh tidak kembung.<br /><br /><br /><strong>Kerangka Cerpen :<br /></strong><br /><strong>Tema</strong>    : Kesehatan <br /><strong>Judul</strong>    : Manfaat Tidur Cukup Bagi Kesehatan<br /><br /><strong>Definisi</strong><br /><br />1 Pengertian tidur cukup<br /><br /><strong>Dampak Kurang tidur</strong><br /><br />1 Kurang tidur dapat menyebabkan tergangunya konsentarsi<br />2 Kurang tidur mudah terserang penyakit<br />3 Kurang tidur dapat mempengaruhi emosi <br /><br /><strong>Manfaat tidur cukup</strong><br /><br />1 Meningkatkan konsentrasi<br />2 Meningkatkan daya tahan tubuh<br />3 Meningkatkan energi<br /><br /><strong>Tips agar tidur nyenyak</strong><br /><br />1. Berolahraga<br />2. Membuat jadwal tidur<br />3. Jangan mengkonsumsi makanan berat sebelum tidur<br /><br /><br />Enjoy ;)<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="buatlah-cerpen-dan-kerangka-cerpen-contohjwb-yg-benar-dan-tepat-jgn-asal-krn-poin-nya-gede%e2%80%8b">
+                            40. buatlah cerpen dan kerangka cerpen, contoh:jwb yg benar dan tepat, jgn asal krn poin nya gede​</h2><br />
+                        <p> Judul :banjir bandan</p><p>Tokoh:Naura,Salma,indra dan Louis</p><p>Cerita: suatu hari di tanggal 24 April 2021 banjir bandang melanda Aceh</p><p></p><p> </p><p></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/80f1Vjvsw20?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_indonesia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/thank-you-for-all-you-ve-done-from-the-of-my-heart/">Thank You For All You ve Done From The of My Heart</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-cara-menghayati-lagu/">Bagaimana Cara Menghayati Lagu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-ini-yang-termasuk-laporan-kunjungan-adalah/">Berikut Ini Yang Termasuk Laporan Kunjungan Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-bentuk-tanggapan/">Bagaimana Bentuk Tanggapan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/awanna-be-with-you-artinya/">Awanna Be With You Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-teks-anekdot-singkat-brainly/">Contoh Teks Anekdot Singkat Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/then-she-got-an-idea/">Then She Got An Idea</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ungkapan-tanggapan-dapat-berupa/">Ungkapan Tanggapan Dapat Berupa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hal-hal-yg-belum-dapat-dilakukan/">Hal Hal Yg Belum Dapat Dilakukan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/under-ring/">Under Ring</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/8-1-3/">8 1 3</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lele-bersifat-aktif-bergerak-mencari-makanan-pada-malam-hari-disebut/">Lele Bersifat Aktif Bergerak Mencari Makanan Pada Malam Hari Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ringkasan-malin-kundang/">Ringkasan Malin Kundang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-tema-puisi-tersebut/">Apa Tema Puisi Tersebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tanggal-17-ramadhan-tahun-611-m-bertepatan-dengan/">Tanggal 17 Ramadhan Tahun 611 M Bertepatan Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-olahraga-yang-memanfaatkan-gaya-tarik-adalah/">Contoh Olahraga Yang Memanfaatkan Gaya Tarik Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-bentuk-bentuk-ragam-hias/">Jelaskan Bentuk Bentuk Ragam Hias</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/textbox-adalah/">Textbox Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tujuan-pemerintah-menerapkan-wajib-belajar-12-tahun-merupakan-upaya-untuk/">Tujuan Pemerintah Menerapkan Wajib Belajar 12 Tahun Merupakan Upaya Untuk</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/judge-artinya/">Judge Artinya</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

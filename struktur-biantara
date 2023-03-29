@@ -1,0 +1,1317 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Struktur Biantara - BELAJAR</title>
+    <meta name="description" content="Struktur Biantara, , , , , , , 0, Struktur Biantara Dalam Bahasa Sunda - Berbagi Struktur, berbagistruktur.blogspot.com, 768 x 1024, jpeg, , 20, struktur-biantara, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Struktur Biantara - BELAJAR" />
+    <meta property="og:description" content="Struktur Biantara, , , , , , , 0, Struktur Biantara Dalam Bahasa Sunda - Berbagi Struktur, berbagistruktur.blogspot.com, 768 x 1024, jpeg, , 20, struktur-biantara, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Struktur Biantara - BELAJAR" />
+    <meta name="twitter:description" content="Struktur Biantara, , , , , , , 0, Struktur Biantara Dalam Bahasa Sunda - Berbagi Struktur, berbagistruktur.blogspot.com, 768 x 1024, jpeg, , 20, struktur-biantara, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Struktur Biantara</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">erniratnasari</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Struktur+Biantara" alt="Struktur Biantara">
+                    </div>
+                    <p></p>
+                    <p>bagaimana struktur biantara?</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-struktur-biantara">1.
+                                            bagaimana struktur biantara?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-struktur-biantara">2.
+                                            jelaskan struktur biantara</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkeun-struktur-biantara%e2%80%8b">3.
+                                            Sebutkeun struktur Biantara​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikan-contoh-biantara-bahasa-sunda-dan-strukturnya">4.
+                                            Berikan Contoh biantara bahasa sunda dan strukturnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-sebutkeun-bagian-struktur-dina-biantara2-naon-bedana-surat-dines-jeun-surat-pribadi">5.
+                                            1. Sebutkeun bagian struktur dina biantara?
+2. Naon bedana surat dines jeun surat pribadi?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#biantara-bahasa-sundastrukturnya">6.
+                                            Biantara bahasa Sunda/strukturnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#6-dina-nyusun-teks-biantara-eusina-kudu-mundel-naon-harti-tina-kecap-mundel-teh%e2%80%a6-a-loba-mangpaat-jeung-loba-pulunganeunana-b-luyu-jeung-aturan-nyieun-teks-biantara-c-kudu-loba-make-ke">7.
+                                            6.	Dina nyusun téks biantara eusina kudu mundel, naon harti tina kecap mundel téh….  A.	loba mangpaat jeung loba pulunganeunana  B.	luyu jeung aturan nyieun téks biantara  C.	kudu loba maké kecap anu éndah dina biantara  D.	merhatikeun kaédah-kaédah biantara  E.	dumasar kana struktur biantara </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-6-struktur-tahapan-nu-aya-dina-biantara%e2%80%8b">8.
+                                            Sebutkan 6 struktur tahapan nu aya dina biantara?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nu-teu-kaasup-struktur-naskah-biantara-nyaeta-tolong-bantu%e2%80%8b">9.
+                                            Nu teu kaasup struktur naskah biantara, nyaeta tolong bantu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dina-biantara-aya-uraian-ka-arah-materi-poko-disebutna-a-panutup-biantarab-panganteur-biantarac-materi-biantarad-bubuka-biantara%e2%80%8b">10.
+                                            dina biantara aya uraian ka arah materi poko, disebutna ... a.panutup biantarab.panganteur biantarac.materi biantarad.bubuka biantara​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jieun-naskah-biantara-temana-cara-ngungkulan-copid-19-tong-hilap-gunakeun-struktur-biantarana-bubuka%e2%80%8b">11.
+                                            Jieun Naskah Biantara temana cara ngungkulan copid 19, Tong hilap Gunakeun Struktur Biantarana Bubuka​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-omongan-dina-biantara-teh-ngawengku">12.
+                                            Struktur omongan dina biantara teh ngawengku !</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#naon-wae-struktur-biantara-teh-jelasken-sarta-bere-conto">13.
+                                            Naon wae struktur biantara teh? jelasken sarta bere conto</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-struktur-biantara">14.
+                                            sebutkan struktur biantara</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-omongan-dina-biantara-teh-nngawengku">15.
+                                            struktur omongan Dina biantara teh nngawengku?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#biantara-berbahasa-sunda-berdasarkan-strukturnya">16.
+                                            Biantara berbahasa Sunda berdasarkan strukturnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dina-struktur-biantara-nu-disebut-eusinaon-maksudna%e2%80%8b">17.
+                                            dina struktur biantara nu disebut eusi,naon maksudna?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkeun-bagian-jeung-eusi-struktur-biantara">18.
+                                            sebutkeun bagian jeung eusi struktur biantara</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#conto-teks-biantara-lengkap-jeung-struktur-teks-na%e2%80%8b">19.
+                                            conto teks biantara lengkap jeung struktur teks na​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskeun-struktur-biantara%e2%80%8b">20.
+                                            Jelaskeun struktur Biantara??​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-biantara-teh-aya-bubuka-eusi-jeung-panutup-pek-tangtukeun-mana-bagian-bubuka-eusi-jeung-panutup-dina-biantara-di-luhur-cara-menuliskan-paragraf%e2%80%8b">21.
+                                            struktur Biantara teh Aya bubuka eusi jeung panutup pek tangtukeun mana bagian bubuka eusi jeung panutup Dina Biantara di Luhur cara menuliskan paragraf​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-biantara-diantarana-aya-bubuka-eusi-pedaran-jeung-panutup-jieun-ku-hidep-anu-mangrupa-bubuka-dina-biantara">22.
+                                            Struktur biantara diantarana aya bubuka, eusi pedaran jeung panutup.Jieun ku hidep anu mangrupa bubuka dina biantara!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dumasar-kana-sifatna-biantara-biantara-anu-isi-hiji-laporan-pertanggungjawaban-disebuta-biantara-pangabeab-biantara-paresmianc-biantara-laporan-d-biantara-pertanggungjawaban-%e2%80%8b">23.
+                                            dumasar Kana sifatna Biantara Biantara anu isi hiji laporan pertanggungjawaban disebutA. Biantara pangabeaB. Biantara paresmianC. Biantara laporan D. Biantara pertanggungjawaban ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nu-kaasup-kana-struktur-biantara-nyaeta">24.
+                                            Nu kaasup kana struktur biantara nyaéta... *</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskeun-struktur-atawa-adegan-dina-biantara">25.
+                                            Tuliskeun struktur atawa adegan dina biantara</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-biantara-dan-sebutkan-contoh-biantara%e2%80%8b">26.
+                                            apa itu biantara dan sebutkan contoh biantara​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-biantara-di-sebut-oge2-naon-hartina-biantara3-sebutkeun-jenis-jenis-biantara-jeung-contona4-sebutkeun-metode-atawa-teknik-dina-biantara5-sebutkeun-struktur-teks-dina-biantara%e2%80%8b">27.
+                                            1.biantara di sebut oge?2.naon hartina biantara?3.sebutkeun jenis jenis biantara jeung contona!4.sebutkeun metode atawa teknik dina biantara!5.sebutkeun struktur teks dina biantara!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yg-dimaksud-dengan-struktur-teks-biantara">28.
+                                            Apa Yg dimaksud dengan Struktur Teks Biantara </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-sebutkeun-bagian-struktur-dina-biantara2-naon-bedana-surat-dines-jeun-surat-pribadi">29.
+                                            1. Sebutkeun bagian struktur dina biantara?
+2. Naon bedana surat dines jeun surat pribadi?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-atawa-sistematika-biantara-adalah">30.
+                                            struktur atawa sistematika biantara adalah ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutken-struktur-biantara%e2%80%8b">31.
+                                            sebutken struktur biantara​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tataan-bagian-bagian-struktur-teks-biantara%e2%80%8b">32.
+                                            Tataan bagian-bagian struktur teks Biantara​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#coba-uraikan-struktur-biantara-jeung-teknik-natural-mencontoh-nabi-antara%e2%80%8b">33.
+                                            coba Uraikan struktur Biantara jeung teknik natural mencontoh nabi antara​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-struktur-biantara%e2%80%8b">34.
+                                            sebutkan struktur biantara​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kumaha-struktur-teks-biantara%e2%80%8b">35.
+                                            Kumaha struktur téks biantara?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-struktur-biantara-jeung-8-hal-anu-kudu-diperhatikan-dina-biantara">36.
+                                            tuliskan struktur biantara jeung 8 hal anu kudu diperhatikan dina biantara</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nu-teu-kaasup-struktur-naskah-biantaranyaeta">37.
+                                            nu teu kaasup struktur naskah biantara,nyaeta</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ngahaturken-kawilujengan-kaasup-kana-struktur-biantaraa-bubukab-salam-pamukac-eusid-panutup%e2%80%8b">38.
+                                            Ngahaturken kawilujengan kaasup kana struktur biantara?A.BubukaB.Salam pamukaC.EusiD.Panutup​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskeun-tilu-bagian-adegan-atawa-struktur-naskah-biantara">39.
+                                            jelaskeun tilu bagian adegan atawa struktur naskah biantara</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-struktur-biantara-bahasa-sunda">40.
+                                            sebutkan struktur biantara bahasa sunda</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="bagaimana-struktur-biantara">
+                            1. bagaimana struktur biantara?</h2><br />
+                        Mangaruhan batur ambéh daék nuturkeun kahayang urang jeung resep rela.<br />Méré hiji pamahaman atawa informasi ka batur.<br />Nyieun batur gumbira jeung biantara anu ngahibur ku kituna batur gumbira sarta sugema jeung kedalan anu ku urang diungkaokeun<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-struktur-biantara">
+                            2. jelaskan struktur biantara</h2><br />
+                        <p>Biantara nyaeta nepikeun kedalan di hareupeun balarea anu naskahna disusun sacara rapih tur merenah. Dina basa Indonesia mah biantara teh sarua hartina jeung pidato. <strong>Struktur biantara</strong> nyaeta salam bubuka, pangbagea, bubuka, eusi, panutup, salam panutup.  </p><p>
+</p>Pembahasan
+<p>
+</p><p>Ditilik tina suasanana aya dua rupa biantara nyaeta biantara resmi jeung biantara teu resmi. Komunikasi nu aya dina biantara nyaeta saarah atawa monologis. Biantara direspon ku anu ngaregepkeun ngan saukur ku unggek, godeg, keprok, seuri. Di handap ieu penjelasan ngeunaan struktur biantara sacara rinci:
+</p><p>
+</p>Salam bubuka, nyaeta saperti "Assalamualaikum Wr Wb."
+Pangbagea, nyaeta saperti "Bapa sareng ibu guru anu ku simkuring dipikahormat, rerencangan anu ku simkuring dipikacinta..." jeung saterusna
+Bubuka, nyaeta saperti "Puji sinareng sukur mangga urang sanggakeun ka Gusti Allah SWT. Shalawat sareng salam mugi ngocor ka jungjunan urang sadayana Nabi Muhammad SAW. Langkung ti payun dina waktos anu sae ieu simkuring peryogi ngauningakeun wirehna simkuring kapapancenan tugas kanggo ngadugikeun biantara Pentingna Kaberesihan..." jeung saterusna.
+Eusi, nyaeta saperti "Sapertos anu ku urang sadayana kauninga, kaberesihan teh kacida pentingna..." jeung saterusna  Panutup, nyaeta saperti "Rupina sakitu cariosan ti simkuring..." jeung saterusna
+Salam panutup nyaeta saperti "Wassalamualaikum Wr Wb.
+"<p>
+</p>Pelajari lebih lanjut
+<p>
+</p>Nu kudu dipikanyaho samemeh nulis biantara https://brainly.co.id/tugas/11711758
+Cara nepikeun biantara dina basa Sunda brainly.co.id/tugas/6508865
+Pasemon dina nepikeun biantara https://brainly.co.id/tugas/20892770
+<p>__________
+</p><p>
+</p>Detil Jawaban
+<p>
+</p><p><strong>Kelas : </strong>VIII </p><p><strong>Mapel : </strong>Bahasa Sunda - Biantara </p><p><strong>Bab :</strong> 5 </p><p><strong>Kode :</strong> 8.13.5 </p><p><strong>Kata Kunci : </strong>Struktur biantara</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkeun-struktur-biantara%e2%80%8b">
+                            3. Sebutkeun struktur Biantara​</h2><br />
+                        <p>pembukaan, eusi atau isi, bahasasan dan kacindekan atau kesimpulan. </p><p><strong>Jawaban:</strong></p><p>Struktur biantara bahasa Sunda adalah bubuka atau pembukaan, eusi atau isi, bahasasan dan kacindekan atau kesimpulan. Biantara adalah berbicara di depan orang banyak untuk menyampaikan suatu hal, yang sifatnya monologis, berbicara satu arah yang naskahnya disusun secara rapi.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="berikan-contoh-biantara-bahasa-sunda-dan-strukturnya">
+                            4. Berikan Contoh biantara bahasa sunda dan strukturnya</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Assalamualaikum Warrahmatulohi Wabarakattuh</p><p></p><p>Langkung tipayun urang panjatkeun puji sareng syukur ka Allah SWT, Tuhan Nu Esa anu mana masihan hidayah sareng inayah-Na ka urang sadaya. Janten urang sadaya tiasa kempel di acara ieu, dina kaayaan sehat wal afiat alhamdulilah.</p><p>Para wargi sakalian anu dipikahormat kusimkuring,</p><p></p><p>Dina waktos ieu abdi bade nerangkeun tentang tema kebersihan, nyaeta kumaha pentingna ngajaga diri dina hidup sehat jeung manfaat ngajaga kasehatan. Nu mana urang sadaya teh kedah atau wajib ngajaga lingkungan sekitar urang, sareng awak nyalira yen urang sadaya tiasa ngajaga kasehatan tina sagala rupi panyakit nu aya.Ku margi kitu urang sadaya ge kedah ningkatkeun carana pola hidup nu sehat kanggo kapayuna hirup urang sakalian di kawitan ti ayeuna. Siga anu pernah diterangkeun dina salah sahiji hadist, ‘ Inna dhofatu minal iman.’ Anu hartosna teh, kabersihan sabagen tina iman.’ Nu matak kudu dijaga ku urang-urang.</p><p></p><p>Sebagai urang muslim anu taat, anu gaduh kaimanan di jero hate urang tangtu urang teh kudu bersih sareng suci tina sagala kotor atau najis anu nyebabkeun urang jadi teu suci. Allah SWT mah resep kanu hamba anu merhatikeun jeung ngajaga kabersihan. Bersih eta teh kaasup kana raga urang, diri urang, sareng lingkungan di sakitar urang.</p><p></p><p>Tapi kabersihan eta teh rupina macem-macem, aya nu disebut bersih hate, bersih jiwa, bersih raga, sareng bersih rohani. Urang kedah jadi jalma anu kaasup bersih sadayana, sabab ngan bersih raga tapi hatena teu bersih mah nya percuma. Matak ti mulai ayeuna, hayu urang ngabersihan sagala rupina, sareng ningkatkeun pola hidup sehat kanggo urang sadayana.Cekap sakitu abdi nyanggakeun pihatur, hatur nuhun.</p><p></p><p>Wassalamualaikum salam Wr. Wb.</p><p></p><p></p><p></p><p>strukturnya : </p><p>1.Menggunakan bahasa yang mudah dipahami, karena tidak mungkin anda menyampaikan pidato bahasa Sunda yang sangat halus pada anak-anak SD. Anda juga harus memerhatikan pola dan struktur dari bahasa Sunda, yang harus dipahami terlebih dahulu dan penting untuk diperhatikan.</p><p>2.Memberikan salam pembukaan terlebih dahulu, di awal penyampaian pidato. Yang bertujuan untuk bentuk rasa hormat kepada audience yang hadir saat itu. Anda juga bisa menyelipkan humor atau basa basi sedikit di kalimat pembukaan tersebut.</p><p>3.Menyampaikan isi pidato secara garis besarnya saja, lalu menguraikannya dengan jelas dan lengkap agar orang yang menerima paham apa yang disampaikan. Anda bisa menjelaskan secara rinci, dari mulai pembukaan sampai akhir pidato.</p><p>4.Beri kesimpulan dari isi pidato yang telah Anda sampaikan.</p><p>5.Beri juga saran atau anjuran dari pidato yang disampaikan.</p><p>6.Jika Anda memberikan pidato di suatu pedesaan, maka gunakanlah bahasa sunda yang umum yang dimengerti oleh mereka. Gunakanlah bahasa yang sederhana saja, tetapi tetap formal dan berkualitas.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-sebutkeun-bagian-struktur-dina-biantara2-naon-bedana-surat-dines-jeun-surat-pribadi">
+                            5. 1. Sebutkeun bagian struktur dina biantara?
+2. Naon bedana surat dines jeun surat pribadi?</h2><br />
+                        1. Pembukaan<br />2. Isi <br />3. Penutup <br /><br />yg nomor 2 nya kurang tau<br />
+                                            <h2 class="ez-toc-section" id="biantara-bahasa-sundastrukturnya">
+                            6. Biantara bahasa Sunda/strukturnya</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>struktur biantara basa sunda</p><p><strong>Penjelasan:</strong></p><p>adalah bubuka atau pembukaan,eusi atau isi,kebahasaan dan kacindekan atau kasimpulan</p><br />
+                                            <h2 class="ez-toc-section" id="6-dina-nyusun-teks-biantara-eusina-kudu-mundel-naon-harti-tina-kecap-mundel-teh%e2%80%a6-a-loba-mangpaat-jeung-loba-pulunganeunana-b-luyu-jeung-aturan-nyieun-teks-biantara-c-kudu-loba-make-ke">
+                            7. 6.	Dina nyusun téks biantara eusina kudu mundel, naon harti tina kecap mundel téh….  A.	loba mangpaat jeung loba pulunganeunana  B.	luyu jeung aturan nyieun téks biantara  C.	kudu loba maké kecap anu éndah dina biantara  D.	merhatikeun kaédah-kaédah biantara  E.	dumasar kana struktur biantara </h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A</p><p><strong>Penjelasan:</strong></p><p>Karna jawabannya adlh A</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-6-struktur-tahapan-nu-aya-dina-biantara%e2%80%8b">
+                            8. Sebutkan 6 struktur tahapan nu aya dina biantara?​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>Bagian-bagian nu aya dina biantara nyaeta salam bubuka, pangbagea, bubuka, eusi, panutup jeung salam panutup.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="nu-teu-kaasup-struktur-naskah-biantara-nyaeta-tolong-bantu%e2%80%8b">
+                            9. Nu teu kaasup struktur naskah biantara, nyaeta tolong bantu​</h2><br />
+                        jawaban :<p></p><p>Struktur biantara bahasa Sunda adalah bubuka atau pembukaan, eusi atau isi, bahasasan dan kacindekan atau kesimpulan. Biantara adalah satu istilah dalam bahasa Sunda yang artinya sama dengan pidato dalam bahasa Indonesia. Biantara adalah berbicara di depan orang banyak untuk menyampaikan suatu hal, yang sifatnya monologis, berbicara satu arah yang naskahnya disusun secara rapi.  </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dina-biantara-aya-uraian-ka-arah-materi-poko-disebutna-a-panutup-biantarab-panganteur-biantarac-materi-biantarad-bubuka-biantara%e2%80%8b">
+                            10. dina biantara aya uraian ka arah materi poko, disebutna ... a.panutup biantarab.panganteur biantarac.materi biantarad.bubuka biantara​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>b.panganteur biantara</p><p><strong>Penjelasan:</strong></p><p>semoga bermamfaat:)</p><br />
+                                            <h2 class="ez-toc-section" id="jieun-naskah-biantara-temana-cara-ngungkulan-copid-19-tong-hilap-gunakeun-struktur-biantarana-bubuka%e2%80%8b">
+                            11. Jieun Naskah Biantara temana cara ngungkulan copid 19, Tong hilap Gunakeun Struktur Biantarana Bubuka​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Assalamualaikum Wr.Wb</p><p>Bapak Kepala Sekolah anu ku simkuring dipihormat,</p><p>Bapak Ibu Guru anu dipihormat,</p><p>Oge teu hilap ka rerencangan sadayana.</p><p>Bismillahirrahmanirrahim,</p><p>Puji sinareng syukur hayu urang sanggakeun ka Allah anu maha Agung. Kulantaran nikmat ti Mantenna, urang saya dina dinten ieu tiasa ngariung patepung lawung, patepang wajah dina acara mieling tepang umur Kamerdekaan Indonesia anu ka-76</p><p>Sholawat sinareng salam mugia tetep dugi ka kanjeng Nabi Muhammad SAW, ka kulawargina, ka para sahabat, tur dugi ka urang sadaya salaku umatna.</p><p></p><p>Hadirin anu dipihormat,</p><p>Dina raraga mieling Kamerdekaan RI anu ka-76 dina kaping 17 Agustus 2021, urang sadaya kudu tiasa syukuran ka Allah.</p><p>Kumargi, Kamerdekaan bangsa Indonesia salain tina perjuangan para pahlawan, eta oge mangrupakeun hiji kanikmatan ti Allah SWT.</p><p>Salah sahiji cara syukuran ka Allah dina momentum poe kamerdekaan ie nyaeta urang kudu bisa ningkatkeun kaimanan sareng katakwaan ka Allah.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="struktur-omongan-dina-biantara-teh-ngawengku">
+                            12. Struktur omongan dina biantara teh ngawengku !</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Bubuka</p><p>→ salam bubuka :</p><p></p><p>"Assalamualaikum Wr Wb"</p><p></p><p>→ Mukadimah :</p><p></p><p>Sanduk sanduk kanu maha kawasa, Nabi Muhammad saw</p><p></p><p>Ucapan pangwilujeng, nepikeun penghormat</p><p></p><p>Eusi</p><p>Panutup</p><p>→ Kacindekan</p><p></p><p>→ Sanduk sanduk neda dihapunten</p><p></p><p>→ Dalam panutup</p><p><strong>Penjelasan:</strong></p>#Maafkalosalah Jadikanjawabanterbaik ya SEMOGA MEMBANTU ANDA JANGAN lupa kasih likenya <br />
+                                            <h2 class="ez-toc-section" id="naon-wae-struktur-biantara-teh-jelasken-sarta-bere-conto">
+                            13. Naon wae struktur biantara teh? jelasken sarta bere conto</h2><br />
+                        <p></p><p></p><p>1. <strong>Pamuka.</strong> Téks pembuka biantara diwangun ku tilu bagian, nyaéta salam, salam, sareng sukur</p><p></p><p>2. <strong>isi</strong><strong>.</strong><strong> </strong>isi biantara mangrupikeun bagian anu penting sabab dina eusi ieu ngandung hakékat hal anu bakal ditepikeun jeung dibahas</p><p></p><p>3. <strong>Biantara </strong><strong>Panutup.</strong></p><p>Panutupan biantara biasana diwangun ku harepan panyatur ngeunaan isi biantara anu ditepikeun</p><p></p><p>semoga membantu...</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-struktur-biantara">
+                            14. sebutkan struktur biantara</h2><br />
+                        Biantara adalah suatu istilah di dalam bahasa Sunda yang dalam bahasa Indonesia artinya sama dengan pidato. Biantara pada intinya adalah berbicara di depan orang banyak untuk menyampaikan suatu hal secara monologis, berbicara satu arah.<br /><br />Biantara direspon oleh yang hadir, penonton atau pendengarnya biasanya dengan hanya mengangguk atau menggelengkan kepala dan tepuk tangan. Tujuan dari biantara antara lain adalah untuk menyampaikan sesuatu yang sifatnya informatif, persuasif, instruktif, edukatif atau entertaint atau menghibur.<br /><br />Struktur dari suatu biantara dalam bahasa Sunda yaitu pembukaan atau dalam bahasa Sunda disebut bubuka, isi atau eusi, bahasan dan kesimpulan atau kacindekan. Tahapan yang ada dalam biantara adalah tahapan persiapan dan tahapan penyampaian biantara.<br />
+                                            <h2 class="ez-toc-section" id="struktur-omongan-dina-biantara-teh-nngawengku">
+                            15. struktur omongan Dina biantara teh nngawengku?</h2><br />
+                        <p><strong>Jawaban:</strong></p>Bubuka<p>→ salam bubuka :</p><p>"Assalamualaikum Wr Wb"</p><p>→ Mukadimah :</p><p>Sanduk sanduk kanu maha kawasa,  Nabi Muhammad saw </p><p>Ucapan pangwilujeng, nepikeun penghormat</p>EusiPanutup<p>→ Kacindekan</p><p>→ Sanduk sanduk neda dihapunten</p><p>→ Dalam panutup</p><br />
+                                            <h2 class="ez-toc-section" id="biantara-berbahasa-sunda-berdasarkan-strukturnya">
+                            16. Biantara berbahasa Sunda berdasarkan strukturnya</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>struktur biantara</p><p><strong>Penjelasan:</strong></p><p>bubukA,eusi ,Jeung kacindekan</p><br />
+                                            <h2 class="ez-toc-section" id="dina-struktur-biantara-nu-disebut-eusinaon-maksudna%e2%80%8b">
+                            17. dina struktur biantara nu disebut eusi,naon maksudna?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Bagian eusi biantara biasana ngébréhkeun pamaksudan biantara</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="sebutkeun-bagian-jeung-eusi-struktur-biantara">
+                            18. sebutkeun bagian jeung eusi struktur biantara</h2><br />
+                        pambuka <br />eusi <br />panutup <br /> .<br />.<br />.<br />.<br />.<br />.<br />.<br />............<br />............<br />
+                                            <h2 class="ez-toc-section" id="conto-teks-biantara-lengkap-jeung-struktur-teks-na%e2%80%8b">
+                            19. conto teks biantara lengkap jeung struktur teks na​</h2><br />
+                        <p>Jawaban:Narasi adalah salah satu jenis pengembangan paragraf dalam sebuah tulisan yang rangkaian peristiwa dari waktu ke waktu dijabarkan dengan urutan awal, tengah, dan akhir.</p><p></p><p>Penjelasan: sorry</p><p>Hanya iseng</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskeun-struktur-biantara%e2%80%8b">
+                            20. Jelaskeun struktur Biantara??​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur biantara bahasa Sunda adalah bubuka atau pembukaan, eusi atau isi, bahasasan dan kacindekan atau kesimpulan. Biantara adalah satu istilah dalam bahasa Sunda yang artinya sama dengan pidato dalam bahasa Indonesia.</p><p><strong>Penjelasan:</strong></p><p>JADIKAN JAWABAN TERBAIK MAKASIH</p><p>NO GOOGLE</p><p><strong>Jawaban:</strong></p><p>struktur Biantara adalah bubuka atau pembukaan, eusi atau isi, bahasasan dan kacindekan atau kesimpulan. Biantara adalah berbicara di depan orang banyak untuk menyampaikan suatu hal, yang sifatnya monologis, berbicara satu arah yang naskahnya disusun secara rapi.</p><p><strong>Penjelasan:</strong></p>jadikan jawaban tercerdas ya<br />
+                                            <h2 class="ez-toc-section" id="struktur-biantara-teh-aya-bubuka-eusi-jeung-panutup-pek-tangtukeun-mana-bagian-bubuka-eusi-jeung-panutup-dina-biantara-di-luhur-cara-menuliskan-paragraf%e2%80%8b">
+                            21. struktur Biantara teh Aya bubuka eusi jeung panutup pek tangtukeun mana bagian bubuka eusi jeung panutup Dina Biantara di Luhur cara menuliskan paragraf​</h2><br />
+                        <p>duka Abi mah te apal hampura</p><br />
+                                            <h2 class="ez-toc-section" id="struktur-biantara-diantarana-aya-bubuka-eusi-pedaran-jeung-panutup-jieun-ku-hidep-anu-mangrupa-bubuka-dina-biantara">
+                            22. Struktur biantara diantarana aya bubuka, eusi pedaran jeung panutup.Jieun ku hidep anu mangrupa bubuka dina biantara!</h2><br />
+                        <p>Di luhur disebutkeun yen struktur biantara diantarana aya bubuka, eusi pedaran jeung panutup. Jadi, sabenerna struktur biantara sacara lengkep teh nyaeta salam bubuka, pangbagea, bubuka, eusi, panutup jeung salam panutup.
+</p><p>Conto biantara ti mimiti salam bubuka, pangbagea jeung <strong>bubuka biantara</strong> nyaeta saperti :
+</p><p>
+</p><p>(salam bubuka) Assalamualaikum wr wb,
+</p><p>
+</p><p>(pangbagea) Bapa, ibu guru anu ku simkuring dipikahormat. Rerencangan sadayana anu ku simkuring dipikacinta. Alhamdulilah dina dinten anu sae ieu urang tiasa kempel dina raraga mieling hari pendidikan nasional. 
+</p><p>
+</p><p>(bubuka) Puji sinareng sukur mangga urang sanggakeun ka Allah SWT, oge shalawat sinareng salam mugi ngocor ka jungjunan urang sadayana Nabi Muhammad SAW. Ibu sareng Bapa guru, rerencangan simkuring sadayana, langkung ti payun simkuring dina waktos anu sae ieu peryogi ngauningakeun wirehna..." jst.
+</p><p>
+</p><p>Kategori Soal : Bahasa Sunda - Biantara </p><p>Kelas : X (1 SMA) </p><p>Kata Kunci : Bubuka biantara</p><br />
+                                            <h2 class="ez-toc-section" id="dumasar-kana-sifatna-biantara-biantara-anu-isi-hiji-laporan-pertanggungjawaban-disebuta-biantara-pangabeab-biantara-paresmianc-biantara-laporan-d-biantara-pertanggungjawaban-%e2%80%8b">
+                            23. dumasar Kana sifatna Biantara Biantara anu isi hiji laporan pertanggungjawaban disebutA. Biantara pangabeaB. Biantara paresmianC. Biantara laporan D. Biantara pertanggungjawaban ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D.biantara pertanggungjawaban</p><p>maap klo slh</p><p></p><p> d Biantara pertanggung jawaban </p><p></p><p> </p><p>semoga benar</p><br />
+                                            <h2 class="ez-toc-section" id="nu-kaasup-kana-struktur-biantara-nyaeta">
+                            24. Nu kaasup kana struktur biantara nyaéta... *</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1) Pembukaan </p><p>2) eusi pokok</p><p>3) panutup</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tuliskeun-struktur-atawa-adegan-dina-biantara">
+                            25. Tuliskeun struktur atawa adegan dina biantara</h2><br />
+                        aya pembukaan, eusi, jeung panutup<br />
+                                            <h2 class="ez-toc-section" id="apa-itu-biantara-dan-sebutkan-contoh-biantara%e2%80%8b">
+                            26. apa itu biantara dan sebutkan contoh biantara​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>Biantara nyaeta nyarita dihareupeun balarea kalawan aya maksud nu tangtu atawa hiji kedalan jeung susunan anu alus pikeun kajalma loba.</p><p>contohna:tentang pendidikan dan perpisahan</p><br />
+                                            <h2 class="ez-toc-section" id="1-biantara-di-sebut-oge2-naon-hartina-biantara3-sebutkeun-jenis-jenis-biantara-jeung-contona4-sebutkeun-metode-atawa-teknik-dina-biantara5-sebutkeun-struktur-teks-dina-biantara%e2%80%8b">
+                            27. 1.biantara di sebut oge?2.naon hartina biantara?3.sebutkeun jenis jenis biantara jeung contona!4.sebutkeun metode atawa teknik dina biantara!5.sebutkeun struktur teks dina biantara!​</h2><br />
+                        <p><strong>Penjelasan:</strong></p>Biantara nyaeta nepikeun caritaan atawa kedalan di hareupeun jalma loba anu disusun sacara merenah tur rapih. Dina basa Indonesia mah biantara teh sok disebut pidato.Biantara teh hartina nyaeta nyarita di hareupeun jalma anu loba atawa balarea pikeun nepikeun hiji pasualan sacara monologis, nyarita saarah. ... Struktur hiji biantara biasana mangrupa bubuka, eusi, bahasan jeung kacindekan.Jenis-jenis pidato :Pidato Impromptu : pidato yang dilakukan dengan spontan atau tiba-tiba menyampaikan pidato tanpa ada persiapan.Pidato Manuskrip : pidato yang dilakukan dengan membaca naskah dari awal sampai akhir.  Pidato Memoriter : pidato yang dilakukan dengan menulis naskah lalu dihapalkan kalimat demi kalimat.Pidato Ekstempore : pidato yang disampaikan oleh orang yang berpengalaman karena hanya menyiapkan garis besar atau pokok bahasan yang akan disampaikan saja.Metode impromptu (Langsung) Gurat Badagna. metode  ngapalkeun (memoriter). metode naskah (manuskrip).Struktur biantara bahasa Sunda adalah bubuka atau pembukaan, eusi atau isi, bahasasan dan kacindekan atau kesimpulan. ... Biantara adalah berbicara di depan orang banyak untuk menyampaikan suatu hal, yang sifatnya monologis, berbicara satu arah yang naskahnya disusun secara rapi.<br />
+                                            <h2 class="ez-toc-section" id="apa-yg-dimaksud-dengan-struktur-teks-biantara">
+                            28. Apa Yg dimaksud dengan Struktur Teks Biantara </h2><br />
+                        Rangkay Biantara:<br /><br />1.       Salam pamuka     :<br /> A. Salam kaagamaan<br /> B. Salam kasundaan<br />C. Salam nuduhkeun wanci<br /><br /><br />2. Kalimat bubuka         : <br />A. Pupujian<br />B. Solawatan<br />C. Ngahaturkeun Nuhun<br />D. Pangeling-eling<br />E. Ngabacakeun anu ngayakeun acara<br /><br /> 3. Eusi Biantara            : <br />A.  umum<br />B. Khusus<br /><br /><br />4. Kalimat panutup       :<br /> A. Nyuhunkeun panghampura<br /> B. Ngahaturkeun nuhun<br /> C. Ngajieun kacindekan<br /><br />  5. Salam Panutup<br /><br /><br /><br />semoga membantu <br /><br /><br />
+                                            <h2 class="ez-toc-section" id="1-sebutkeun-bagian-struktur-dina-biantara2-naon-bedana-surat-dines-jeun-surat-pribadi">
+                            29. 1. Sebutkeun bagian struktur dina biantara?
+2. Naon bedana surat dines jeun surat pribadi?</h2><br />
+                        no2:surat dines nya eta surat nu eusina nepikeun hal hal nu sipatna dines nu di tulis ku hiji intansi sejen.sedengkeun surat pribadi nya eta surat nu eusina neupikeun hal hal nu sipatna pribadi nuditulis ti hiji jalma ka jalma lianna.insya alloh betul ya.maaf no 1ngga di isi<br />
+                                            <h2 class="ez-toc-section" id="struktur-atawa-sistematika-biantara-adalah">
+                            30. struktur atawa sistematika biantara adalah ?</h2><br />
+                        1. Bubuka<br />2. eusi biantara<br />3. bagian pinutup<br />
+                                            <h2 class="ez-toc-section" id="sebutken-struktur-biantara%e2%80%8b">
+                            31. sebutken struktur biantara​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pembukaan, eusi atau isi, bahasasan dan kacindekan atau kesimpulan.</p><p><strong>Penjelasan:</strong></p><p>Maaf klo salah:)</p><br />
+                                            <h2 class="ez-toc-section" id="tataan-bagian-bagian-struktur-teks-biantara%e2%80%8b">
+                            32. Tataan bagian-bagian struktur teks Biantara​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur biantara bahasa Sunda adalah bubuka atau pembukaan, eusi atau isi, bahasasan dan kacindekan atau kesimpulan</p><p><strong>Penjelasan:</strong></p><p>semoga bermanfaat</p><p><strong>Jawaban:</strong></p><p>Struktur biantara bahasa Sunda adalah bubuka atau pembukaan, eusi atau isi, bahasasan dan kacindekan atau kesimpulan</p><br />
+                                            <h2 class="ez-toc-section" id="coba-uraikan-struktur-biantara-jeung-teknik-natural-mencontoh-nabi-antara%e2%80%8b">
+                            33. coba Uraikan struktur Biantara jeung teknik natural mencontoh nabi antara​</h2><br />
+                        <p>coba Uraikan struktur Biantara jeung teknik natural mencontoh nabi antara</p><p><strong>Artinya</strong><strong> </strong><strong>:</strong></p><p>Pelajari lebih lanjut tentang pidato!</p><p></p><p><strong>Penjelasan:</strong></p><p><strong>Semoga</strong><strong> </strong><strong>Membantu</strong></p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-struktur-biantara%e2%80%8b">
+                            34. sebutkan struktur biantara​</h2><br />
+                        <p>Telah terdapat <strong>struktur</strong> dari <strong>biantara</strong> yang di dalam bahasa Indonesia telah disebut sebagai <strong>pidato</strong> yaitu ialah sebagai berikut: </p>Bubuka (Pembukaan) Eusi (Isi) Panutup (Penutup) Pembahasan<p><strong>Pengertian</strong> dari <strong>pidato</strong> yaitu ialah pengungkapan pikiran yang terdapat di dalam bentuk dari kata-kata yang telah ditujukan kepada banyak orang ataupun wacana yang di mana telah disiapkan untuk segera diucapkan di hadapan khalayak masyarakat. </p><p>Secara umum, <strong>pidato</strong> telah menjadi sebuah kegiatan berbicara yang dilakukan di depan umum yang telah dilakukan dengan menyatakan sebuah pendapat, memberikan sebuah gambaran tentang suatu hal tertentu. </p><p><strong>Tujuan</strong> dari adanya sebuah <strong>teks</strong> <strong>pidato</strong> yaitu ialah sebagai berikut: </p>Informatif yaitu memberikan sebuah informasi ataupun pemahaman mengenai sesuatu hal kepada orang lain. Argumentatif yaitu ialah meyakinkan bagi para pendengar. Rekreatif yaitu ialah membuat orang lain menjadi senang dengan teks <strong>pidato</strong> yang telah disampaikan dikarenakan telah memiliki sifat yang menghibur. Persuasif yaitu ialah memberikan sebuah pengaruh kepada orang lain agar mereka dapat bersedia untuk mengikuti sebuah kemauan yang telah diinginkan dari seorang orator ataupun orang yang telah memiliki <strong>pidato</strong>. <p>Selain itu, juga terdapat <strong>macam-macam</strong> dari <strong>pidato</strong> yaitu ialah sebagai berikut: </p><strong>Pidato</strong> radio <strong>Pidato</strong> pengukuhan <strong>Pidato</strong> kenegaraan <strong>Pidato</strong> televisi <strong>Pelajari lebih lanjut</strong><p><strong>1. Materi tentang contoh teks pidato https://brainly.co.id/tugas/31693277</strong></p><p><strong>2. Materi tentang struktur teks pidato persuasif https://brainly.co.id/tugas/14690653</strong></p><p><strong>3. Materi tentang contoh teks pidato https://brainly.co.id/tugas/16967418</strong></p><p><strong>-----------------------------</strong></p><strong>Detil jawaban</strong><p><strong>Kelas: 7</strong></p><p><strong>Mapel: B. Indonesia</strong></p><p><strong>Bab: Bab 10 - Pidato</strong></p><p><strong>Kode: 7.1.10</strong></p><p><strong></strong></p><p><strong>#TingkatkanPrestasimu #SPJ3</strong></p><br />
+                                            <h2 class="ez-toc-section" id="kumaha-struktur-teks-biantara%e2%80%8b">
+                            35. Kumaha struktur téks biantara?​</h2><br />
+                        <p><strong>Jawaban:</strong></p>Struktur Biantara<p>1)Bubuka</p><p> -Salam Bubuka:Assalamualaikum wr.wb</p><p>            puji syukur ka tuhan yang maha esa</p><p>2)Eusi</p><p> -Ngeunaan kebersihan sakola</p><p>3)Panutup</p><p> -Salam panutup=Wabillahi toofik walhidayah </p><p>         Wassalamualaikum wr.wb</p><p></p><p>#SemogaMembantu</p><p>#StayAtHome</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-struktur-biantara-jeung-8-hal-anu-kudu-diperhatikan-dina-biantara">
+                            36. tuliskan struktur biantara jeung 8 hal anu kudu diperhatikan dina biantara</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur Biantara</p>BubukaEusipanutup<p>anu kudu diperhatikeun dina biantara: </p>sora/artikulasilentong/intonasiwirahmaNadaPasemon/ mimikPasang petak / gestur<p></p><br />
+                                            <h2 class="ez-toc-section" id="nu-teu-kaasup-struktur-naskah-biantaranyaeta">
+                            37. nu teu kaasup struktur naskah biantara,nyaeta</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>inpormasi</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="ngahaturken-kawilujengan-kaasup-kana-struktur-biantaraa-bubukab-salam-pamukac-eusid-panutup%e2%80%8b">
+                            38. Ngahaturken kawilujengan kaasup kana struktur biantara?A.BubukaB.Salam pamukaC.EusiD.Panutup​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawabnya yg A. bubuka</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskeun-tilu-bagian-adegan-atawa-struktur-naskah-biantara">
+                            39. jelaskeun tilu bagian adegan atawa struktur naskah biantara</h2><br />
+                        <p>Runtuyan naskah biatara ilaharna diwangun tina bagbagan ieu:</p><p>1. Bubuka</p><p>2. Eusi</p><p>3. Panutup</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-struktur-biantara-bahasa-sunda">
+                            40. sebutkan struktur biantara bahasa sunda</h2><br />
+                        <p><strong>Struktur biantara bahasa Sunda</strong> adalah bubuka atau pembukaan, eusi atau isi, bahasasan dan kacindekan atau kesimpulan. Biantara adalah satu istilah dalam bahasa Sunda yang artinya sama dengan pidato dalam bahasa Indonesia. Biantara adalah berbicara di depan orang banyak untuk menyampaikan suatu hal, yang sifatnya monologis, berbicara satu arah yang naskahnya disusun secara rapi.  </p><p>
+</p>Pembahasan
+<p>
+</p><p>Dilihat dari suasananya ada dua jenis biantara yaitu biantara resmi dan biantara tidak resmi. Biantara biasanya direspon oleh yang hadir, penonton atau pendengarnya dengan hanya mengangguk atau menggeleng dan tepuk tangan. Tujuan dari biantara antara lain adalah untuk menyampaikan sesuatu yang sifatnya informatif, persuasif, instruktif, edukatif atau entertaint atau menghibur.  </p><p>
+</p>Pelajari lebih lanjut
+<p>
+</p>Yang perlu diketahui sebelum menulis biantara, dalam bahasa Sunda https://brainly.co.id/tugas/11711758
+Cara menyampaikan biantara, dalam bahasa Sunda brainly.co.id/tugas/6508865
+Hal-hal yang perlu diperhatikan dalam biantara, dalam bahasa Sunda brainly.co.id/tugas/4565331
+<p>__________
+</p><p>
+</p>Detil Jawaban
+<p>
+</p><p><strong>Kelas : </strong>X </p><p><strong>Mapel :</strong> Bahasa Sunda - Biantara </p><p><strong>Bab :</strong> 1 </p><p><strong>Kode : </strong>10.13.1 </p><p><strong>Kata Kunci :</strong> Struktur biantara bahasa Sunda</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/DMnN-MLrsxU?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_daerah</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sinonim-klasifikasi/">Sinonim Klasifikasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pbb-dasar/">Pbb Dasar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gambar-tersebut-menunjukkan-kelainan-tulang-yang-disebut/">Gambar Tersebut Menunjukkan Kelainan Tulang Yang Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ekosistem-adalah-brainly/">Ekosistem Adalah Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/yang-dimaksud-metode-pengawetan-dengan-artificial-frying-adalah/">Yang Dimaksud Metode Pengawetan Dengan Artificial Frying Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5-juta-usd/">5 Juta Usd</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-kang-diarani-serat-wedhatama/">Apa Kang Diarani Serat Wedhatama</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-fonologi/">Contoh Fonologi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jumlah-rasul-yang-termaktub-dalam-al-quran-adalah/">Jumlah Rasul Yang Termaktub Dalam Al Quran Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kunci-jawaban-bahasa-indonesia-kelas-7-halaman-104/">Kunci Jawaban Bahasa Indonesia Kelas 7 Halaman 104</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ruas-garis-pada-bangun-datar/">Ruas Garis Pada Bangun Datar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/penjagaan-yang-dilakukan-dengan-ketat-dan-lawan-tidak-perlu-ditinggalkan/">Penjagaan Yang Dilakukan Dengan Ketat Dan Lawan Tidak Perlu Ditinggalkan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dapatkah-kamu-hidup-sendiri-tanpa-bantuan-teman/">Dapatkah Kamu Hidup Sendiri Tanpa Bantuan Teman</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/di-bawah-ini-adalah-persyaratan-tanah-liat-kecuali/">Di Bawah Ini Adalah Persyaratan Tanah Liat Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/titikane-geguritan-yaiku/">Titikane Geguritan Yaiku</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/a-1-2-3-4/">A 1 2 3 4</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/penyesuaian-diri-makhluk-hidup-terhadap-lingkungannya-disebut/">Penyesuaian Diri Makhluk Hidup Terhadap Lingkungannya Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/faktor-internal-dan-eksternal/">Faktor Internal Dan Eksternal</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-sajakah-susunan-acara-yang-dilakukan-pada-pembacaan-teks-proklamasi/">Apa Sajakah Susunan Acara Yang Dilakukan Pada Pembacaan Teks Proklamasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/divisi-adalah/">Divisi Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

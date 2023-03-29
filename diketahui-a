@@ -1,0 +1,1296 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Diketahui A - BELAJAR</title>
+    <meta name="description" content="Diketahui A, , , , , , , 0, Diketahui matriks p=(x-y 2x+5y 1 2z+3 )dan q=(-1 33 1 -5) jika p=q, brainly.co.id, 1435 x 1875, jpeg, , 20, diketahui-a, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Diketahui A - BELAJAR" />
+    <meta property="og:description" content="Diketahui A, , , , , , , 0, Diketahui matriks p=(x-y 2x+5y 1 2z+3 )dan q=(-1 33 1 -5) jika p=q, brainly.co.id, 1435 x 1875, jpeg, , 20, diketahui-a, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Diketahui A - BELAJAR" />
+    <meta name="twitter:description" content="Diketahui A, , , , , , , 0, Diketahui matriks p=(x-y 2x+5y 1 2z+3 )dan q=(-1 33 1 -5) jika p=q, brainly.co.id, 1435 x 1875, jpeg, , 20, diketahui-a, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Diketahui A</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">Young01000</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Diketahui+A" alt="Diketahui A">
+                    </div>
+                    <p></p>
+                    <p>Diketahui himpunan A={×|×&amp;lt;4,×€ Asli }
+Anggota diketahui A adalah </p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-himpunan-a%c3%97%c3%974%c3%97e-asli-anggota-diketahui-a-adalah">1.
+                                            Diketahui himpunan A={×|×&lt;4,×€ Asli }
+Anggota diketahui A adalah </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-himpunan-a%c3%97%c3%974%c3%97e-asli-anggota-diketahui-a-adalah%e2%80%8b">2.
+                                            Diketahui himpunan A={×|×&lt;4,×€ Asli }Anggota diketahui A adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a-135791113diketahui-b-23456789-tentukan-a-b-tentukan-a-b">3.
+                                            Diketahui A = (1,3,5,7,9,11,13)
+Diketahui B = (2,3,4,5,6,7,8,9)
+         Tentukan A ^ B =
+         Tentukan A    B =</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a-124456">4.
+                                            Diketahui A = { 1,2,4,4,5,6</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a01maka-na">5.
+                                            diketahui A={0,1},maka n(A)=</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a-0-banyak-anggota-a-adalah">6.
+                                            diketahui A {0} banyak anggota A adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yaxby-diketahuia-diketahuib-diketahuibagaimana-mencari-x">7.
+                                            Y=ax+b
+Y diketahui
+A diketahui
+B diketahui
+Bagaimana mencari X?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a-32-744-nilai-a-adalah-%e2%80%8b">8.
+                                            Diketahui a = 32.744 Nilai a adalah ....​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-matriks-a">9.
+                                            diketahui matriks a </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a13579-na">10.
+                                            diketahui A={1,3,5,7,9}.n(A)=</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-f2x-xjika-diketahui-fa-4-maka-nilai-a-yangmemenuhi-adalah-%e2%80%8b">11.
+                                            Diketahui f(2x)= xJika diketahui f'(a)= 4 maka nilai a yangmemenuhi adalah ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#36-diketahui-vector-a-23-b-23-tentukan-nilai-x-jika-diketahui-xab36-diketahui-vector-a-23-b-23-tentukan-nilai-x-jika-diketahui-xab">12.
+                                            36. Diketahui vector a= 23 , b= -23,    tentukan nilai  x  jika diketahui x+a=b36. Diketahui vector a= 23 , b= -23,    tentukan nilai  x  jika diketahui x+a=b</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-diketahui-a-maka-berapa-nilai-dari-7-a%e2%80%8b">13.
+                                            jika diketahui a, maka berapa nilai dari 7-a​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-fungsi-f%c3%97-15%c3%974-jika-diketahui-fa-4-maka-nilai-a-adalah%e2%80%8b">14.
+                                            diketahui fungsi f(×) = 15×+4 jika diketahui f(a) = 4 maka nilai a adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a2-nilai-dari-a%c2%b2-%c2%b2">15.
+                                            diketahui a=2 nilai dari (a²)-²</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yaxby-diketahuia-diketahuib-diketahuibagaimana-mencari-x%e2%80%8b">16.
+                                            Y=ax+bY diketahuiA diketahuiB diketahuiBagaimana mencari X?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-coa-a-atan-a">17.
+                                            diketahui coa a = a,tan a =</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a2-nilai-dari-a%c2%b2-%c2%b2">18.
+                                            diketahui a=2 nilai dari (a²)-²</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-cos-aa-maka-aa">19.
+                                            diketahui cos a=a, maka a=a</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-matriks-aa2%e2%80%8b">20.
+                                            diketahui matriks A=(a+2​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yaxby-diketahuia-diketahuib-diketahuibagaimana-mencari-x%e2%80%8b">21.
+                                            Y=ax+bY diketahuiA diketahuiB diketahuiBagaimana mencari X?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a12345678-na-%e2%80%8b">22.
+                                            Diketahui A=[1,2,3,4,5,6,7,8]     n(A)=.....​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-cotan-a-maka-cos-a">23.
+                                            Diketahui cotan (a)  maka cos (a) </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a-1357911banyak-anggota-a-adalah">24.
+                                            Diketahui A ={1,3,5,7,9,11},banyak anggota A adalah? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a-1357911-banyak-anggota-a-adalah-%e2%80%8b">25.
+                                            Diketahui A = { 1,3,5,7,9,11 },banyak anggota A adalah... ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-%c2%be-%e2%85%93a%c2%bc-maka-nilai-a-adalah%e2%80%8b">26.
+                                            diketahui ¾-⅓=A+¼, maka nilai A adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-diketahui-martriks-p2-diketahui-a-%e2%80%8b">27.
+                                            1.Diketahui martriks P=2.Diketahui A =​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a15cm-persegi-p-f-per-a-10-f10-diketahui-p">28.
+                                            diketahui A=15cm persegi p F per A =10  F=10 diketahui P</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a1-2-3-4-5-maka-na">29.
+                                            diketahui A=(1.2.3.4.5) maka N(A)=</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-transport-matriks-a-adalah-a%e2%80%8b">30.
+                                            diketahui transport matriks a adalah a​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-abc345-jika-diketahui-abc-60tentukan-a">31.
+                                            Diketahui A:B:C=3:4:5.jika diketahui A+B+C =60tentukan A! </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a-210-maka-a-%e2%80%8b">32.
+                                            diketahui a = ( 2,1,0) maka | a | =​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a-merupakan-sudut-lancip-jika-diketahui-sin-a-24-per-25-nilai-dari-tan-a-adalah">33.
+                                            Diketahui A merupakan sudut lancip jika diketahui sin A = 24 per 25 nilai dari tan A adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-diketahui-a235-maka-a-na">34.
+                                            jika diketahui A={2,3,5} maka ,a. n(a)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-diketahui-a-2p3q-2-maka-a%e2%80%8b">35.
+                                            Jika diketahui a = 2p3q-2, maka a=​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-a0123456-na-adalah">36.
+                                            diketahui A={0,1,2,3,4,5,6}.n(A) adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-sin-aa-maka-tan-a">37.
+                                            diketahui sin a=a, maka tan a=...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-diketahui-cos-a-1213-dan-a-sudut-lancip-nilai-sin-2-adalah">38.
+                                            Diketahui diketahui cos A = 12/13 dan a sudut lancip. nilai Sin 2 adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-jika-vektor-2-diketahui-a-3-diketahui-vektor-a-tolong-yang-bisa-ya">39.
+                                            1. jika vektor ....
+2. diketahui | a | =
+3. diketahui vektor a =
+Tolong yang bisa ya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-cos-aa-maka-tan-a">40.
+                                            diketahui cos a=a maka tan a=</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="diketahui-himpunan-a%c3%97%c3%974%c3%97e-asli-anggota-diketahui-a-adalah">
+                            1. Diketahui himpunan A={×|×&lt;4,×€ Asli }
+Anggota diketahui A adalah </h2><br />
+                        A= {1,2,3}<br />Jadi, anggota dari himpunan A adalah 1,2,3.<br />Semoga Membantu.<br />
+                                            <h2 class="ez-toc-section" id="diketahui-himpunan-a%c3%97%c3%974%c3%97e-asli-anggota-diketahui-a-adalah%e2%80%8b">
+                            2. Diketahui himpunan A={×|×&lt;4,×€ Asli }Anggota diketahui A adalah​</h2><br />
+                        bilangan asli yg kurang dari 4 adalah (1,2,3)<br />
+                                            <h2 class="ez-toc-section" id="diketahui-a-135791113diketahui-b-23456789-tentukan-a-b-tentukan-a-b">
+                            3. Diketahui A = (1,3,5,7,9,11,13)
+Diketahui B = (2,3,4,5,6,7,8,9)
+         Tentukan A ^ B =
+         Tentukan A    B =</h2><br />
+                        Kalau A^B  {1,2,3,4,5,6,7,8,9,11,13}<br />Maaf kalau slah.. <br />
+                                            <h2 class="ez-toc-section" id="diketahui-a-124456">
+                            4. Diketahui A = { 1,2,4,4,5,6</h2><br />
+                        <p>soal kamu kayanya belum selesai.</p><p>berarti A =bilangan asli(jika angka 4 hanya satu)</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-a01maka-na">
+                            5. diketahui A={0,1},maka n(A)=</h2><br />
+                        A = {0,1}<br />n(A) = 2 (kardinalitas)<br /><br />
+                                            <h2 class="ez-toc-section" id="diketahui-a-0-banyak-anggota-a-adalah">
+                            6. diketahui A {0} banyak anggota A adalah</h2><br />
+                        {} jadi anggotanya ada 1<br />Maaf kalau salah <br />Jawaban : 1<br />Karena A memiliki satu anggota yaitu 0<br />  SEMOGA MEMBANTU<br />
+                                            <h2 class="ez-toc-section" id="yaxby-diketahuia-diketahuib-diketahuibagaimana-mencari-x">
+                            7. Y=ax+b
+Y diketahui
+A diketahui
+B diketahui
+Bagaimana mencari X?</h2><br />
+                        y = ax + b<br />y - b = ax<br />(y - b)/a = x<br /> y         = ax + b, ax sama juga a . x<br /> y         = a.x +b<br /> (y-b)/2 = x<br /><strong>x = (y - b)/2.</strong><br /><br /><br /> <br />
+                                            <h2 class="ez-toc-section" id="diketahui-a-32-744-nilai-a-adalah-%e2%80%8b">
+                            8. Diketahui a = 32.744 Nilai a adalah ....​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a = 32.744 Nilai a adalah <strong>3</strong><strong>2</strong><strong>.</strong><strong>7</strong><strong>4</strong><strong>4</strong></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-matriks-a">
+                            9. diketahui matriks a </h2><br />
+                        jawaban nya a <br />(3×-4)  (3×2) <br />(3×1)    (3×0) <br /><br />(12  6) <br />(3   3) jawabanya a<br />semoga bermanfaat<br />
+                                            <h2 class="ez-toc-section" id="diketahui-a13579-na">
+                            10. diketahui A={1,3,5,7,9}.n(A)=</h2><br />
+                        A={1,3,5,7,9} banyaknya anggota A adalah n(A)=5<br />semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="diketahui-f2x-xjika-diketahui-fa-4-maka-nilai-a-yangmemenuhi-adalah-%e2%80%8b">
+                            11. Diketahui f(2x)= xJika diketahui f'(a)= 4 maka nilai a yangmemenuhi adalah ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pertama kita harus memahami dulu arti dari f(a) = -2..</p><p></p><p>f(a) = -2 artinya :</p><p>jika "x" pada fungsi f(x) diganti dengan "a", maka hasilnya -2.</p><p>f(x) = 2x - 4</p><p>ganti semua "x" dengan "a"</p><p>f(a) = 2a - 4</p><p>Ingat bahwa f(a) = -2. </p><p>Jadi kita ganti f(a) yang paling depan dengan -2</p><p>Sehingga :</p><p></p><p>-2 = 2a - 4</p><p></p><p>Sudah jelas sampai disini ya?</p><p>Inilah yang harus dipahami agar tidak keliru dalam mendapatkan hasilnya..</p><p></p><p> </p><p>-2 = 2a - 4</p><p>sekarang kita pindahkan -4 ke ruas kiri menjadi +4</p><p>-2 + 4 = 2a</p><p></p><p>2 = 2a</p><p>untuk mendapatkan "a", bagi 2 dengan 2</p><p>a = 2 : 2</p><p></p><p>a = 1.</p><p></p><p>Nah, nilai "a" yang kita cari adalah 1.</p><br />
+                                            <h2 class="ez-toc-section" id="36-diketahui-vector-a-23-b-23-tentukan-nilai-x-jika-diketahui-xab36-diketahui-vector-a-23-b-23-tentukan-nilai-x-jika-diketahui-xab">
+                            12. 36. Diketahui vector a= 23 , b= -23,    tentukan nilai  x  jika diketahui x+a=b36. Diketahui vector a= 23 , b= -23,    tentukan nilai  x  jika diketahui x+a=b</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>36. Diketahui vector a= 23 , b= -23, tentukan nilai x jika diketahui x+a=b36. Diketahui vector a= 23 , b= -23, tentukan nilai x jika diketahui x+a=b</p><br />
+                                            <h2 class="ez-toc-section" id="jika-diketahui-a-maka-berapa-nilai-dari-7-a%e2%80%8b">
+                            13. jika diketahui a, maka berapa nilai dari 7-a​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tetap 7 - a</p><p></p><p></p><p></p><p>sepertinya soal kurang komplit </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-fungsi-f%c3%97-15%c3%974-jika-diketahui-fa-4-maka-nilai-a-adalah%e2%80%8b">
+                            14. diketahui fungsi f(×) = 15×+4 jika diketahui f(a) = 4 maka nilai a adalah​</h2><br />
+                        <p>f(x) = 15x + 4</p><p>f(a) = 15a + 4</p><p>4 = 15a + 4</p><p>15a = 0</p><p><strong>a = 0</strong></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-a2-nilai-dari-a%c2%b2-%c2%b2">
+                            15. diketahui a=2 nilai dari (a²)-²</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>(a²)-²</p><p></p><p>jika a = 2</p><p>berarti</p><p></p><p>(2²)-²</p><p></p><p>2²×-²</p><p></p><p>2-⁴ = 16</p><p></p><p></p><p>pangkat dikalikan dengan pangkat.</p><p></p><p>✧༺♥༻✧</p><p><strong>Jawaban:</strong></p><p>16</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a=2 </p><p>(2²)-²</p><p>4²</p><p>4x4= 16 </p><br />
+                                            <h2 class="ez-toc-section" id="yaxby-diketahuia-diketahuib-diketahuibagaimana-mencari-x%e2%80%8b">
+                            16. Y=ax+bY diketahuiA diketahuiB diketahuiBagaimana mencari X?​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>y = ax + b
+</p><p>y - b = ax
+</p><p>(y - b)/a = x</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-coa-a-atan-a">
+                            17. diketahui coa a = a,tan a =</h2><br />
+                        cos a = a<br />sisi miring = 1<br />= √1 - a²<br />maka nilai <br />tan a = (√1-a²)/a<br /><br />
+                                            <h2 class="ez-toc-section" id="diketahui-a2-nilai-dari-a%c2%b2-%c2%b2">
+                            18. diketahui a=2 nilai dari (a²)-²</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>2-⁴ = 16</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a = 2</p><p></p><p>=  (2²)-²</p><p>= 2²×-²</p><p>= 2-⁴</p><p>= 16</p><p></p><p>pangkat dikalikan dengan pangkat</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-cos-aa-maka-aa">
+                            19. diketahui cos a=a, maka a=a</h2><br />
+                        jawabannya adalah  sin: a:a<br />
+                                            <h2 class="ez-toc-section" id="diketahui-matriks-aa2%e2%80%8b">
+                            20. diketahui matriks A=(a+2​</h2><br />
+                        <p>A + B = C</p><p>[a+2...1-3b] + [2a....b-3] = [5......5]</p><p>[-1...........-6]....[-1..........2].....[-2...-4]</p><p>[3a+2....-2-2b] = [5....5]</p><p>[-2.............-4...].....[-2..-4]</p><p></p><p>3a + 2 = 5</p><p>3a = 5 - 2</p><p>3a = 3</p><p>a = 3/3</p><p>a = 1</p><p></p><p>-2 - 2b = 5</p><p>-2b = 5 + 2</p><p>-2b = 7</p><p>b = 7/-2</p><p>b = -7/2</p><p></p><p></p><p>2a + b</p><p>= 2(1) + (-7/2)</p><p>= 2 - 7/2</p><p>= 4/2 - 7/2</p><p>= -3/2</p><p></p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="yaxby-diketahuia-diketahuib-diketahuibagaimana-mencari-x%e2%80%8b">
+                            21. Y=ax+bY diketahuiA diketahuiB diketahuiBagaimana mencari X?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>dengan operasi aljabar</p><p><strong>Penjelasan:</strong></p><p>y=ax+b, kurangi kedua ruas dengan b, diperoleh</p><p>y-b=ax+b-b</p><p>y-b=ax, bagi kedua ruas dengan a, diperoleh</p><p>(y-b)/a =ax/a</p><p>(y-b)/a=x</p><p> jadi diperoleh x=(y-b)/a</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-a12345678-na-%e2%80%8b">
+                            22. Diketahui A=[1,2,3,4,5,6,7,8]     n(A)=.....​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>A = [1, 2, 3, 4, 5, 6, 7, 8] maka n(A) = 8.</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Himpunan adalah kumpulan benda ataupun obyek yang anggota"nya dapat didefinisikan secara jelas , sehingga antara satu orang dengan yang lain tdk akan terjadi multi tafsir.</p><p>Himpunan dapat dinyatakan dengan cara:</p>Notasi pembentuk himpunanKata-kataMenyebutkan anggotanya<p>Banyak anggota himpunan A biasa ditulis n(A).</p><p>A = [1, 2, 3, 4, 5, 6, 7, 8] maka n(A) = 8.</p><p><strong></strong></p><p><strong>Pelajari Lebih Lanjut</strong> Bab himpunan di https://brainly.co.id/tugas/23970728</p><p></p><p>#BelajarBersamaBrainly</p><p></p><p>n(A) dari himpunan A adalah <strong>8</strong><strong>.</strong></p><p></p><p></p>Pendahuluan<p>.</p><p>.</p><p>.</p><p>.</p><p></p>Himpunan Suatu Bilangan<p></p><p><strong>Himpunan</strong> adalah kumpulan dari benda benda atau objek yang diterangkan dengan jelas. Himpunan dapat ditulis menjadi 3 bagian :</p>Dengan kata kataDengan notasi pembentuk angkaDengan mendaftrkan anggotanya<p></p><p>Misal :</p>A = {bilangan prima antara 1 - 5} <strong>=</strong><strong> </strong><strong>D</strong><strong>e</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>k</strong><strong>a</strong><strong>t</strong><strong>a</strong><strong> </strong><strong>k</strong><strong>a</strong><strong>t</strong><strong>a</strong>A = {x |1 &lt; x &lt; 5, x ϵ bilangan prima} <strong>=</strong><strong> </strong><strong>D</strong><strong>e</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>N</strong><strong>o</strong><strong>t</strong><strong>a</strong><strong>s</strong><strong>i</strong><strong> </strong><strong>p</strong><strong>e</strong><strong>m</strong><strong>b</strong><strong>e</strong><strong>n</strong><strong>t</strong><strong>u</strong><strong>k</strong><strong> </strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>k</strong><strong>a</strong>A = {1,2,3,5} = <strong>D</strong><strong>e</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>m</strong><strong>e</strong><strong>n</strong><strong>d</strong><strong>a</strong><strong>f</strong><strong>t</strong><strong>a</strong><strong>r</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>g</strong><strong>o</strong><strong>t</strong><strong>a</strong><strong>n</strong><strong>y</strong><strong>a</strong><p></p><p></p><p></p>Mengenal lambang lambang himpunanS = Himpunan Semestan(A) = Banyak himpunan AA |_| B = Gabungan A dan BA = B = Himpunan A dan B yang sama<p></p><p></p>Pembahasan<p></p>Diket<p>Diketahui A=[1,2,3,4,5,6,7,8] </p><p></p>Dit<p>n(A) dari himpunan tersebut adalah....</p><p></p>Jawab[tex]\rm{n(A) =  merupakan \: banyaknya \: himpunan}[/tex]<p></p><p>maka,</p>[tex]\rm{n(A) =  8}[/tex]<p></p><p>A = {1,2,3,4,5,6,7,8}</p><p>n(A) = 8 </p><p></p><p></p>Kesimpulan<p></p><p>Jadi n(A) dari himpunan A adalah <strong>8</strong><strong>.</strong></p><p></p>Pelajari Lebih Lanjut<p></p><strong>Pengertian himpunan</strong>: https://brainly.co.id/tugas/31974374<strong>Macam-macam himpunan</strong>: https://brainly.co.id/tugas/1398798<strong>10 contoh yang termasuk himpunan dan yang bukan himpunan masing-masing</strong>: https://brainly.co.id/tugas/7795941<p></p><p></p>Detail Jawaban<p></p><strong>K</strong><strong>e</strong><strong>l</strong><strong>a</strong><strong>s</strong><strong> </strong><strong>:</strong><strong> </strong>7 SMP<strong>B</strong><strong>a</strong><strong>b</strong><strong> </strong><strong>:</strong><strong> </strong>4 - Himpunan <strong>M</strong><strong>a</strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>i</strong> : Matematika<strong>K</strong><strong>o</strong><strong>d</strong><strong>e</strong><strong> </strong>: 7.2.4<strong>K</strong><strong>a</strong><strong>t</strong><strong>a</strong><strong> </strong><strong>k</strong><strong>u</strong><strong>n</strong><strong>c</strong><strong>i</strong><strong> </strong><strong>:</strong><strong> </strong>Banyaknya anggota dari himpunan A adalah<p></p><p></p><p></p>#SolusiBrainly<br />
+                                            <h2 class="ez-toc-section" id="diketahui-cotan-a-maka-cos-a">
+                            23. Diketahui cotan (a)  maka cos (a) </h2><br />
+                        berikut penyelesaiannya.. Dik :<br />0° &lt; a &lt; 90° ( kw . 1, semua bernilai positif)<br />ctg (a) = 1/2 √7 <br /><br /><br />Dit :<br />cos (a)<br /><br />Penyelesaian :<br />perhatikan bahwa <br />ctg (a) = sisi samping / sisi depan<br />maka cari sisi miring terlebih dahulu<br />sm = √(√7)^2 + (2)^2<br />sm = √(7 + 4)<br />sm = √11<br /><br />Ingat bahwa :<br />cos (a) = sisi samping / sisi miring<br />cos (a) = (√7) / (√11)<br />cos (a) = (√7) / (√11) · (√11) / (√11)<br />cos (a) = (√7·11)/ 11<br />cos (a) = 1/11 √77<br /><br />Jawaban E<br /><br /><br />______________________________<br />Lebih lanjut mengenai Trigonometri : <br />-&gt; brainly.co.id/tugas/10593972 <br />-&gt; brainly.co.id/tugas/12323357<br />-&gt; brainly.co.id/tugas/9873061<br />-&gt; brainly.co.id/tugas/61918<br />-&gt; brainly.co.id/tugas/7857415<br /><br /><br />Kelas 10 Matematika Bab 6 - Trigonometri Dasar<br />Kata Kunci : perbandingan sisi segitiga<br />Kode soal : 10.2.6<br /><br /><br />#backtoschoolcampaign<br />
+                                            <h2 class="ez-toc-section" id="diketahui-a-1357911banyak-anggota-a-adalah">
+                            24. Diketahui A ={1,3,5,7,9,11},banyak anggota A adalah? </h2><br />
+                        Ada 6 angggota ^.^ ^.^6 anggota yaitu 1,3,5,7,9,11<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="diketahui-a-1357911-banyak-anggota-a-adalah-%e2%80%8b">
+                            25. Diketahui A = { 1,3,5,7,9,11 },banyak anggota A adalah... ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1,3,5,7,9,11 (bilangan ganjil)</p><p></p><p>semoga benar</p><p>Jawaban:6</p><p></p><p>Penjelasan:krn ad 6 anggota d situ yaitu (1,3,5,7,9,11)yg berjumlah 6</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-%c2%be-%e2%85%93a%c2%bc-maka-nilai-a-adalah%e2%80%8b">
+                            26. diketahui ¾-⅓=A+¼, maka nilai A adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1/6</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>3/4 - 1/3 = A + 1/4 </p><p>(dijadikan x/12) </p><p>9/12 - 4/12 = A + 3/12</p><p>5/12 = A + 3/12 </p><p>A = 5/12 - 3/12 </p><p>A = 2/12 </p><p>A = 1/6 </p><p></p><p>cmiiw</p><p><strong>Jawaban:</strong></p><p>[tex] \frac{1}{6} [/tex]</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex] \frac{3}{4}  -  \frac{1}{3}  = a +  \frac{1}{4}  \\ [/tex]</p><p>[tex] \frac{9 - 4}{12}  = a +  \frac{1}{4}  \\  \frac{5}{12}  = a +  \frac{1}{4} [/tex]</p><p>[tex]a +  \frac{1}{4}  =  \frac{5}{12}[/tex]</p><p>[tex]a =  \frac{5}{12}  -  \frac{1}{4} [/tex]</p><p>[tex]a =  \frac{5 - 3}{12}  \\ a =  \frac{2}{12}  \\ a =  \frac{1}{6} [/tex]</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-diketahui-martriks-p2-diketahui-a-%e2%80%8b">
+                            27. 1.Diketahui martriks P=2.Diketahui A =​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>maaf kalo jawabannya kurang tepat, mungkin bisa dibantu koreksi di kolom komentar</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-a15cm-persegi-p-f-per-a-10-f10-diketahui-p">
+                            28. diketahui A=15cm persegi p F per A =10  F=10 diketahui P</h2><br />
+                        FISIKA<br /><br /><br />Mungkin yang dimaksud<br />F= 10 N<br />A= 15 cm =&gt; 0,15 m<br /><br />Ditanya<br />P?<br /><br />Dijawab:<br />P= F/A<br />P= 10/0,15<br />P= 66,6 N/m<br />
+                                            <h2 class="ez-toc-section" id="diketahui-a1-2-3-4-5-maka-na">
+                            29. diketahui A=(1.2.3.4.5) maka N(A)=</h2><br />
+                        n= jumlah anggota<br />jadinya n=5<br />
+                                            <h2 class="ez-toc-section" id="diketahui-transport-matriks-a-adalah-a%e2%80%8b">
+                            30. diketahui transport matriks a adalah a​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pertanyaan kurang jelas,silahkan di perbaiki lagi atau disertai gambar boleh juga :)</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-abc345-jika-diketahui-abc-60tentukan-a">
+                            31. Diketahui A:B:C=3:4:5.jika diketahui A+B+C =60tentukan A! </h2><br />
+                         A +b +c=60<br /><br />A+5+5=60<br />A=6Dik : A:B:C               <br />        3:4:5<br />        Jumlah : 60<br />Dit : Tentukan A!<br />Jwb : A = 3/12 × 60= 15<br /><br />Semoga sukses<br /><br />
+                                            <h2 class="ez-toc-section" id="diketahui-a-210-maka-a-%e2%80%8b">
+                            32. diketahui a = ( 2,1,0) maka | a | =​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>√5</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a = 2, 1, 0</p><p>|a| = ?</p><p>Jwb:</p><p>|a| = √(2² + 1² + 0²)</p><p>|a| = √(4 + 1 + 0)</p><p><strong>|a| = √5</strong></p><p>a = [2 , 1 , 0]</p><p></p><p>|a| = V(2^2 + 1^2 + 0^2)</p><p>|a| = V(4 + 1 + 0)</p><p>|a| = V5 (B)</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-a-merupakan-sudut-lancip-jika-diketahui-sin-a-24-per-25-nilai-dari-tan-a-adalah">
+                            33. Diketahui A merupakan sudut lancip jika diketahui sin A = 24 per 25 nilai dari tan A adalah</h2><br />
+                        Sin A = 24/25<br />√25^2 -24^2<br />√625-576<br />√49= 7<br />Tan A = de/sa = 24/7<br />
+                                            <h2 class="ez-toc-section" id="jika-diketahui-a235-maka-a-na">
+                            34. jika diketahui A={2,3,5} maka ,a. n(a)</h2><br />
+                        A={2,3,5}, maka n=(a)adalah 3<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="jika-diketahui-a-2p3q-2-maka-a%e2%80%8b">
+                            35. Jika diketahui a = 2p3q-2, maka a=​</h2><br />
+                        <p><strong>Jawaban:</strong></p>a=2232<p></p>maaf ya kalau salah<br />
+                                            <h2 class="ez-toc-section" id="diketahui-a0123456-na-adalah">
+                            36. diketahui A={0,1,2,3,4,5,6}.n(A) adalah</h2><br />
+                        jadi n(A) adalah 7<br />n(A) itu artinya jumlah anggota A<br />Jadi, n(7)<br />n(A) adalah jumlah dari anggota A<br />
+                                            <h2 class="ez-toc-section" id="diketahui-sin-aa-maka-tan-a">
+                            37. diketahui sin a=a, maka tan a=...</h2><br />
+                        Tan a=[tex] \frac{a}{ \sqrt{1- a^{2} } } [/tex]<br />
+                                            <h2 class="ez-toc-section" id="diketahui-diketahui-cos-a-1213-dan-a-sudut-lancip-nilai-sin-2-adalah">
+                            38. Diketahui diketahui cos A = 12/13 dan a sudut lancip. nilai Sin 2 adalah</h2><br />
+                        <p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>cos A = 12/13 → x/r</p><p></p><p>y = √(r² - x²)</p><p>y = √(13² - 12²)</p><p>y = √(169 - 144)</p><p>y = √25</p><p>y = 5</p><p></p><p>sin 2A</p><p>= 2 . sin A . cos A</p><p>= 2 . y/r . 12/13</p><p>= 2 . 5/13 . 12/13</p><p>= 120/169</p><p></p><p>Kode Kategorisasi : 10.2.6</p><p>Kelas 10</p><p>Pelajaran Matematika</p><p>Bab 6 - Trigonometri Dasar</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-jika-vektor-2-diketahui-a-3-diketahui-vektor-a-tolong-yang-bisa-ya">
+                            39. 1. jika vektor ....
+2. diketahui | a | =
+3. diketahui vektor a =
+Tolong yang bisa ya</h2><br />
+                        <p>jika vektor adalah diketahui | a | itulah </p><p></p><p><strong>Jawaban:</strong></p><p>46</p><p>maaf ya kalo salah</p><p>gpp klo bener</p><p>makasih atas pointbya</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-cos-aa-maka-tan-a">
+                            40. diketahui cos a=a maka tan a=</h2><br />
+                        cos A = a<br />cos^2 A + sin^2 A = 1<br />sin^2 A = 1'- cos^2 A<br />sin^2 A = 1 - a^2<br />sin A = V(1-a^2)<br />tan A = sin A / cos A<br />= V(1-a^2) / a<br />= (1/a)V(1-a^2)<br />V adalah lambang akar.<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/FqSj4sousN0?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>matematika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/arti-it-s-okay/">Arti It s Okay</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/teks-prosedur-di-koran/">Teks Prosedur Di Koran</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/abu-jafar-al-mansur-masih-memiliki-garis-keturunan-dengan/">Abu Jafar Al Mansur Masih Memiliki Garis Keturunan Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apakah-yang-dimaksud-produk-kerajinan-limbah-digunakan-sebagai-produk-pakai/">Apakah Yang Dimaksud Produk Kerajinan Limbah Digunakan Sebagai Produk Pakai</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/putrane-puntadewa-yaiku/">Putrane Puntadewa Yaiku</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/akibat-membuang-sampah-sembarangan-brainly/">Akibat Membuang Sampah Sembarangan Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perhatikan-gambar-di-samping-besar-nilai-x-adalah/">Perhatikan Gambar Di Samping Besar Nilai X Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sankyu-artinya/">Sankyu Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sheher-artinya/">She/her Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/siapa-yang-menyiram-kaktus-di-sekolah/">Siapa Yang Menyiram Kaktus Di Sekolah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fathonah-artinya/">Fathonah Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nama-file-data-bisnis-harus-unik-artinya/">Nama File Data Bisnis Harus Unik Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bentuk-pemerintahan-negara-jerman-adalah-republik-parlementer-hal-ini-berarti/">Bentuk Pemerintahan Negara Jerman Adalah Republik Parlementer Hal Ini Berarti</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/2x-1-9/">2x 1 9</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-pengertian-garis-lintang/">Jelaskan Pengertian Garis Lintang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-bentuk-bentuk-ragam-hias/">Jelaskan Bentuk Bentuk Ragam Hias</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/titikane-geguritan-yaiku/">Titikane Geguritan Yaiku</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebuah-pabrik-terletak-berdekatan-dengan-sungai-yang-mengalir-melalui-perumahan/">Sebuah Pabrik Terletak Berdekatan Dengan Sungai Yang Mengalir Melalui Perumahan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-itu-koreografer/">Apa Itu Koreografer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/predasi-adalah/">Predasi Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

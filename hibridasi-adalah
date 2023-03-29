@@ -1,0 +1,1330 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hibridasi Adalah - BELAJAR</title>
+    <meta name="description" content="Hibridasi Adalah, , , , , , , 0, journal of dhamar: [IKATAN KIMIA] Bentuk Molekul Berdasarkan Teori, safi-tri.blogspot.com, 1089 x 582, jpeg, , 20, hibridasi-adalah, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Hibridasi Adalah - BELAJAR" />
+    <meta property="og:description" content="Hibridasi Adalah, , , , , , , 0, journal of dhamar: [IKATAN KIMIA] Bentuk Molekul Berdasarkan Teori, safi-tri.blogspot.com, 1089 x 582, jpeg, , 20, hibridasi-adalah, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Hibridasi Adalah - BELAJAR" />
+    <meta name="twitter:description" content="Hibridasi Adalah, , , , , , , 0, journal of dhamar: [IKATAN KIMIA] Bentuk Molekul Berdasarkan Teori, safi-tri.blogspot.com, 1089 x 582, jpeg, , 20, hibridasi-adalah, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Hibridasi Adalah</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">Elnisaf</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Hibridasi+Adalah" alt="Hibridasi Adalah">
+                    </div>
+                    <p></p>
+                    <p>SiF4 dengan teori hibridasi dan jenis hibridasinya</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sif4-dengan-teori-hibridasi-dan-jenis-hibridasinya">1.
+                                            SiF4 dengan teori hibridasi dan jenis hibridasinya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-itu-hibridasi">2.
+                                            Apakah itu hibridasi?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-di-maksud-dihibridasi">3.
+                                            apa yang di maksud dihibridasi?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#persamaan-dari-hibridasi%e2%80%8b">4.
+                                            persamaan dari hibridasi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-produk-hibridasi-dalam-otoritas-jasa-keuangan">5.
+                                            apa itu produk hibridasi dalam otoritas jasa keuangan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-tanaman-hasil-hibridasi%e2%80%8b">6.
+                                            contoh tanaman hasil hibridasi?!!?!?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-tujuan-diadakannya-persilangan-hibridasi">7.
+                                            Apakah tujuan diadakannya persilangan hibridasi?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-hibridasi-dari-se-dalam-sef6">8.
+                                            Jelaskan hibridasi dari se dalam SeF6-</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perbedaan-teknik-hibridasi-dan-kultur-jaringan">9.
+                                            perbedaan teknik hibridasi dan kultur jaringan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-peran-hibridasi-di-bidang-kehutanan">10.
+                                            Apa peran hibridasi di bidang kehutanan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pengertian-dan-contoh-hibridasi">11.
+                                            pengertian dan contoh hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-produk-hibridasi">12.
+                                            contoh produk hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-cara-mencari-teori-hibridasi">13.
+                                            jelaskan cara mencari teori hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kekurangan-dari-hibridasi">14.
+                                            kekurangan dari hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pernyataan-mengenai-pembastaran-hibridasi">15.
+                                            pernyataan mengenai pembastaran / hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-hibridasi">16.
+                                            apa yang dimaksud dengan hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-hibridasi-dan-seleksi">17.
+                                            Apa yang dimaksud dengan hibridasi dan seleksi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-hibridasi-dan-apa-dampaknya-bagi-kehati">18.
+                                            Apa yang dimaksud dengan hibridasi dan apa dampaknya bagi kehati</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sinonim-dari-kata-hibridasi-adalah%e2%80%8b">19.
+                                            sinonim dari kata hibridasi adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hibridasi-tergolong-perkembang-biakan-secara">20.
+                                            hibridasi tergolong perkembang biakan secara</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-yang-dimaksud-dengan-teori-hibridasi">21.
+                                            apakah yang dimaksud dengan teori hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-hibridasi-molekul-pf5">22.
+                                            tentukan hibridasi molekul PF5</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-produk-hibridasi-dalam-ekonomi">23.
+                                            Apa yang dimaksud produk hibridasi dalam ekonomi?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-tipe-hibridasi-dari-senyawa-h2o">24.
+                                            tentukan tipe hibridasi dari senyawa H2O </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimasud-dengan-produk-hibridasi">25.
+                                            Apa yang dimasud dengan Produk Hibridasi? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hibridasi-dan-bentuk-molekul-dari-h2o">26.
+                                            hibridasi dan bentuk molekul dari H2O</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-apa-yang-dimaksud-dengan-faktor-hibridasi">27.
+                                            Jelaskan apa yang dimaksud dengan faktor hibridasi!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-di-maksud-dengan-produk-hibridasi">28.
+                                            apa yang di maksud dengan produk hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-produk-hibridasi-dalam-bank">29.
+                                            apa yang dimaksud produk hibridasi dalam bank</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tipe-tipe-hibridasi-senyawa-limonene%e2%80%8b">30.
+                                            tipe-tipe hibridasi senyawa limonene​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hasil-persilangan-hibridasi-antarparental-disebut-sebagai-%e2%80%a6">31.
+                                            Hasil persilangan (hibridasi) antarparental disebut sebagai …</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-di-maksud-dengan-produk-hibridasi">32.
+                                            apa yang di maksud dengan produk hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-yg-dimaksud-hibridasi">33.
+                                            apakah yg dimaksud hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jenis-hewan-yang-dihasilkan-melalu-hibridasi">34.
+                                            Jenis hewan yang dihasilkan melalu hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-hibridasi-dari-bf3">35.
+                                            tentukan hibridasi dari BF3</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-yang-dimaksud-hibridasipolinasidan-konjugasi">36.
+                                            Apakah yang dimaksud Hibridasi,Polinasi,dan Konjugasi?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-hibridasi">37.
+                                            apa yang dimaksud hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-yang-dimaksud-hibridasi">38.
+                                            apakah yang dimaksud hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cabang-biologi-dalam-teknik-hibridasi">39.
+                                            cabang biologi dalam teknik hibridasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#orbital-hibridasi-karbon-dalam-molekul-co2-adalah">40.
+                                            Orbital hibridasi karbon dalam molekul CO2 adalah</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="sif4-dengan-teori-hibridasi-dan-jenis-hibridasinya">
+                            1. SiF4 dengan teori hibridasi dan jenis hibridasinya</h2><br />
+                        ini jawabannya menurutku<br />
+                                            <h2 class="ez-toc-section" id="apakah-itu-hibridasi">
+                            2. Apakah itu hibridasi?</h2><br />
+                        persilangan dari populasi yang berbeda<br />hibridisasi pada tumbuhan : itu seperti perkawinan silang<br />hibridisasi molekul : tempat bersatunya orbital-orbital atom membentuk orbital hibrid yang baru,,<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-di-maksud-dihibridasi">
+                            3. apa yang di maksud dihibridasi?</h2><br />
+                        <p>hibridisasi  adalah pembentukan ikatan dupleks stabil antara dua rangkaian nukleotida yang saling komplementer melalu perpasangan basa N. Hibridisasi dapat menunjukkan suatu keseragaman sekuens. Pasangan DNA–DNA, DNA–RNA, atau RNA–RNA dapat terbentuk melalui proses ini .</p>Dalam kimia, hibridisasi adalah sebuah konsep bersatunya orbital-orbital atom membentuk orbital hibrid yang baru yang sesuai dengan penjelasan kualitatif sifat ikatan atom.<br />
+                                            <h2 class="ez-toc-section" id="persamaan-dari-hibridasi%e2%80%8b">
+                            4. persamaan dari hibridasi​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>hibridasi​ =<strong> persilangan dari populasi yang berbeda</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-produk-hibridasi-dalam-otoritas-jasa-keuangan">
+                            5. apa itu produk hibridasi dalam otoritas jasa keuangan</h2><br />
+                        Produk hibridasi adalah salah satu kegiatan usaha bank yang merupakan salah satu wewenang OJK dalam melaksanakan tugas  pengaturan dan pengawasan disektor perbankan.<br />
+                                            <h2 class="ez-toc-section" id="contoh-tanaman-hasil-hibridasi%e2%80%8b">
+                            6. contoh tanaman hasil hibridasi?!!?!?​</h2><br />
+                        ^ JAWAB ^ <br /><br />_______________________________<br /><br />Tanaman hibrida merupakan tanaman yang mudah beradaptasi terhadap lingkungan ataupun iklim. Tanaman hibrida juga akan tahan terhadap berbagai jenis hama dan tanaman yang menganggu.<br /><br />Mudah beradaptasi terhadap lingkungan ataupun iklim. Tanaman hibrida juga akan tahan terhadap berbagai jenis hama dan tanaman yang menganggu.<br /><br />Keunggulan lain dari tanaman hibrida, yaitu hasil yang didapatkan lebih tinggi daripada jenis lainnya. Hal ini dikarenakan tanaman hibrida merupakan jenis tanaman yang telah dikembangkan melalui beberapa teknik.<br /><br />Tanaman hibrida adalah jenis generasi pertama tanaman yang diperoleh dari persilangan tanaman berbeda jenis. Selanjutnya, tanaman ini dikembangkan lagi hingga tercipta varietas hibrida yang biasa digunakan sebagai benih tanaman.<br /><br />Gejala ini dikenal sebagai heterosis dan merupakan dasar bagi produksi berbagai kultivar hibrida, seperti jagung, padi, kelapa sawit, kakao, dan berbagai jenis tanaman sayuran seperti tomat, mentimun, dan cabai. Heterosis membuat kultivar hibrida memiliki daya tumbuh (vigor) yang lebih tinggi, relatif lebih tahan penyakit, dan potensi hasilnya lebih tinggi. Heterosis akan muncul kuat apabila kedua tetuanya relatif homozigot dan memiliki latar belakang genetik yang relatif jauh (tidak banyak memiliki kesamaan alel). Khusus dalam pembuatan kelapahibrida, gejala heterosis tidak dimanfaatkan, tetapi dua sifat baik dari kedua tetua yang tergabung pada keturunannya dimanfaatkan .<br /><br />_______________________________<br /><br />DETAIL JAWABAN :<br />https://brainly.co.id/tugas/21980548<br /><br />Kelas : IX <br /><br />Mapel : Biologi (IPA) <br /><br />kata kunci : hibrida, heterosis ,varietas, alel , homozigot , vigor , relatif , kultivar hibrida .<br />
+                                            <h2 class="ez-toc-section" id="apakah-tujuan-diadakannya-persilangan-hibridasi">
+                            7. Apakah tujuan diadakannya persilangan hibridasi?</h2><br />
+                        Mencari Hasil Persilangan Yang Lebih Baik Dan Berkualitas<br />Untuk menghasilkan keturunan yang baru dengan jenis yang baru<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-hibridasi-dari-se-dalam-sef6">
+                            8. Jelaskan hibridasi dari se dalam SeF6-</h2><br />
+                        Hibridisasinya sp3d2. Bentuk molekulnya oktahedral.<br />
+                                            <h2 class="ez-toc-section" id="perbedaan-teknik-hibridasi-dan-kultur-jaringan">
+                            9. perbedaan teknik hibridasi dan kultur jaringan</h2><br />
+                        hibridasi : pernyilangan dengan harapan mendapatkan sifat baru hasil perpaduan sifat-sifat unggul yang dimiliki kedua induknya
+kultur jarungan : bertujuan memperoleh tanaman baru dalam waktu singjat &amp; memperoleh bibit dalam jumlah banyak :D•hibridasi : perkawinan antara dua individu yang mempunyai dua sifat beda, tetapi masih dalam satu spesies.<br />•kultur jaringan : membudidayakan suatu jaringan tanaman menjadi tanaman kecil yang mempunyai sifat sama seperti induknya.<br />
+                                            <h2 class="ez-toc-section" id="apa-peran-hibridasi-di-bidang-kehutanan">
+                            10. Apa peran hibridasi di bidang kehutanan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Persilangan merupakan salah satu cara untuk menghasilkan rekombinasi gen.</p><p></p><p>Secara teknis, persilangan dilakukan dengan cara memindahkan tepung sari ke kepala putik pada tanaman yang diinginkan sebagai indukan, baik pada tanaman yang menyerbuk sendiri (self polination crop) maupun pada tanaman yang menyerbuk silang (cross polination crop).</p><br />
+                                            <h2 class="ez-toc-section" id="pengertian-dan-contoh-hibridasi">
+                            11. pengertian dan contoh hibridasi</h2><br />
+                        hibridisasi atau hibridasi??  aku taunya hibridisasi<br /><br />hibridisasi adalah sebuah konsep bersatunya orbitsl orbital atom membentuk orbital hibrid yang baru yang sesuai dengan penjelasan kualitatif sifat ikatan atom <br /><br />semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="contoh-produk-hibridasi">
+                            12. contoh produk hibridasi</h2><br />
+                        Ojk: otoritas jasa keuangan(sorry jika salah)<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-cara-mencari-teori-hibridasi">
+                            13. jelaskan cara mencari teori hibridasi</h2><br />
+                        cara mencari'a dengan terlihat jelas pada ikatan yang melibatkan orbital d, seperti yang terdapat pada kimia koordinasi dan kimia organologam.<br /><br />
+                                            <h2 class="ez-toc-section" id="kekurangan-dari-hibridasi">
+                            14. kekurangan dari hibridasi</h2><br />
+                        Kelemahan Hibridisasia.       Secara tidak langsung banyaknya proses hibridisasi membuat varietas asli (alam) terancam punah sehingga perlunya pembudidayaan varietas asli secara seimbang agar sifat asli tanaman tidak hilang.b.      Sukar untuk mendapatkan suatu hibrida antar spesies dan antar genera. Hibridasi somatic dapat mengatasi hal tersebut.c.      Sitoplasma pada perkawinan hanya berasal dari tetua betina saja.d.      Butuh tenaga, biaya dan waktu yang banyake.       Sulit dilakukan karena perlu keterampilan khusus.<br />
+                                            <h2 class="ez-toc-section" id="pernyataan-mengenai-pembastaran-hibridasi">
+                            15. pernyataan mengenai pembastaran / hibridasi</h2><br />
+                        <p><strong>Jawab :
+</strong></p><p><strong>Pembastaran atau perkawinan silang </strong>merupakan perkawinan antara dua individu yang berlainan varietas dalam satu spesies. <strong>Pembastaran merupakan cara sederhana dan paling mudah untuk mendapatkan bibit unggul.
+</strong></p><p><strong>PEMBAHASAN :
+</strong></p><p><strong>Salah satu contoh teknologi reproduksi adalah perkawinan silang. </strong>Perkawinan silang ini disebut juga dengan pembastaran. <strong>Perkawinan silang adalah perkawinan antara dua individu yang berlainan varietas dalam satu spesies.</strong> Teknik perkawinan silang ini dilakukan dengan cara <strong>memperhatikan sifat-sifat unggul dari individu-individu yang akan di silangkan.</strong> Tujuannya adalah <strong>untuk mendapatkan varietas baru pada spesies tersebut dan merupakan yang paling unggul bila dibandingkan dengan yang lain.
+</strong></p><p>Adapun beberapa contoh perkawinan silang (pembastaran/hibridisasi) sehingga dihasilkan bibit unggul antara lain:
+</p><p>•	Perkawinan silang antara sapi shorthor dengan sapi brahman.
+</p><p>-	Sapi shorthor hidup di daerah sub tropis yang tidak tahan terhadap iklim panas tetapi dagingnya banyak.
+</p><p>-	Sapi brahman (dari india) tahan terhadap iklim yang panas, akan tetapi daging yang dihasilkan oleh sapi ini relatif sedikit
+</p><p>Persilangan dari kedua sapi diatas, diharapkan dapat menghasilkan varietas baru yaitu sapi yang tahan terhapad iklim panas dan mampu menghasilkan daging dalam jumlah yang banyak. Dengan begitu, sapi ini dapat di kembang biakan di daerah tropis karena sudah tahan terhadap panas. Persilangan dari kedua sapi diatas menghasilkan sapi santa gertrudis.
+</p><p>•	Perkawinan silang antara kopi robusta dengan kopi arabica
+</p><p>-	Kopi robista memiliki batang dan perakaran yang sangat kuat, tahan terhadap hama, serta dapat hidup di lingkungan dengan kondisi yang kurang baik (atau buruk). Akan tetapi kopi ini memiliki kekurangan rasa yang kurang enak.
+</p><p>-	Kopi arabica memiliki batang dan perakaran yang lemah, mudah terserang hama akan tetapi rasa dari kopinya yang sungguh nikmat.
+</p><p>Dari persilangan kedua jenis kopi diatas, diharapkan dapat menghasilkan jenis kopi yang kuat, tahan terhadap hama, dan dapat hidup di lingkungan dengan kondisi yang kurang baik serta rasa kopi yang enak.
+</p><p>Pelajari lebih lanjut :
+</p><p>https://brainly.co.id/tugas/5249710
+</p><p>https://brainly.co.id/tugas/13583076
+</p><p>https://brainly.co.id/tugas/1577622
+</p><p>
+</p><p><strong>DETIL JAWABAN
+</strong></p><p>MAPEL : IPA
+</p><p>KELAS : 9
+</p><p>MATERI : Pewarisan Sifat
+</p><p>KATA KUNCI : Pengertian Pembastaran/Hibridisasi
+</p><p>KODE SOAL : 4
+</p><p>KODE KATEGORISASI : 9.4.6
+</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-hibridasi">
+                            16. apa yang dimaksud dengan hibridasi</h2><br />
+                        Hibirdasi adalah pembentukan ikatan dupleks stabil antara dua rangkaian nukleotida yang saling komplementer melalui perpasangan basa N<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-hibridasi-dan-seleksi">
+                            17. Apa yang dimaksud dengan hibridasi dan seleksi</h2><br />
+                        <p>Mata pelajaran: Biologi   </p>
+
+<p>Kelas: 12 SMA</p>
+
+<p>Kategori: bioteknologi</p>
+
+<p>Kata kunci: Hibridisasi, Seleksi</p>
+
+<p>Kode kategori berdasarkan kurikulum KTSP: 12.4.8</p>
+
+<p>Jawaban: </p>
+
+<p> </p>
+
+<p>Hibridisasi merupakan proses perkawinan antara dua jenis tanaman
+atau hewan (perkawinan silang) yang memiliki sifat dan varietas tertentu untuk
+mendapatkan organisme baru dengan sifat-sifat dan variasi yang diharapkan.</p>
+
+<p> </p>
+
+<p>Seleksi adalah proses pemilihan variabel dari sebuah kelompok
+variabel berdasarkan kriteria yang telah ditentukan sebelumnya.</p>
+
+<p> </p>
+
+<p>Kaitan antara keduanya yaitu proses seleksi digunakan untuk
+memilih organisme yang sesuai dengan kriteria, untuk kemudian dikawinkan silang
+(hibridisasi) sehingga didapatkan orgnaisme baru dengan sifat-sifat yang sesuai
+dengan yang diharapkan.</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-hibridasi-dan-apa-dampaknya-bagi-kehati">
+                            18. Apa yang dimaksud dengan hibridasi dan apa dampaknya bagi kehati</h2><br />
+                        hibrida atau hibridisasi merupakan penggabungan 2 sifat yang berbeda. ini merupakan bagian dari hukum mendel II. <br />
+                                            <h2 class="ez-toc-section" id="sinonim-dari-kata-hibridasi-adalah%e2%80%8b">
+                            19. sinonim dari kata hibridasi adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Sinonim Kata Hibridisasi adalah:</p><p>Persilangan</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><p><strong>Jawaban:</strong></p><p>Kakak coba bantu ya☺️</p><p>Sinonim dari kata hibridasi adalah <strong>persilangan</strong></p><p><strong>Penjelasan:</strong></p><p>terima kasih semoga membantu,</p><p>Mohon <strong>jadikan jawaban tercerdas</strong> sebagai bentuk terima kasih ya dik </p><br />
+                                            <h2 class="ez-toc-section" id="hibridasi-tergolong-perkembang-biakan-secara">
+                            20. hibridasi tergolong perkembang biakan secara</h2><br />
+                        Hibridisasi adalah persilangan antara varietas dalam species yang sama yang memiliki sifat unggul. Contoh hasil persilangan: ayam, sapi, kuda, anjing, kucing, itik, jagug, kelapa, padi, tebu, dan anggrek.<br />secara generatifMengindari orang dan pergi<br />
+                                            <h2 class="ez-toc-section" id="apakah-yang-dimaksud-dengan-teori-hibridasi">
+                            21. apakah yang dimaksud dengan teori hibridasi</h2><br />
+                        hibridisasi itu
+sebuah konsep bersatunya orbital-
+orbital atom membentuk orbital
+hibrid yang baru yang sesuai
+dengan penjelasan kualitatif sifat
+ikatan atom.<br />
+                                            <h2 class="ez-toc-section" id="tentukan-hibridasi-molekul-pf5">
+                            22. tentukan hibridasi molekul PF5</h2><br />
+                        Hibridisasi dari molekul PF5 adalah sp3d<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-produk-hibridasi-dalam-ekonomi">
+                            23. Apa yang dimaksud produk hibridasi dalam ekonomi?</h2><br />
+                        Produk hibridasi adalah produk unggulan. Biasanya dalam suatu perusahaan, ada satu produk unggulan. Semua Sumberdaya diarahkan untuk mendukung keberhasilan suatu produk tersebut. Mulai dari iklan, pemasaran, dan bagian lain dalam perusahaan.<br /><br />Semoga membantu :)<br />
+                                            <h2 class="ez-toc-section" id="tentukan-tipe-hibridasi-dari-senyawa-h2o">
+                            24. tentukan tipe hibridasi dari senyawa H2O </h2><br />
+                        elektron valensi total H2O = (2 × 7) + 6 = 20<br /><br />x = 20/8 = 2, sisa 4<br />y = 4/2 = 2<br /><br />sehingga <br />PEI = x = 2<br />PEB = y = 2<br /><br />x + y = 4<br />hibridasi yang terbentuk adalah, sp^3<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimasud-dengan-produk-hibridasi">
+                            25. Apa yang dimasud dengan Produk Hibridasi? </h2><br />
+                        produk yang bermutu tinggi <br />semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="hibridasi-dan-bentuk-molekul-dari-h2o">
+                            26. hibridasi dan bentuk molekul dari H2O</h2><br />
+                         sp3 bentuk molekul tetrahedral<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-apa-yang-dimaksud-dengan-faktor-hibridasi">
+                            27. Jelaskan apa yang dimaksud dengan faktor hibridasi!</h2><br />
+                        Faktor Hibridasi yaitu Faktor yang menggabungan/membaurkan Makhluk hidup yang satu dengan Makhluk Hidup yang Lainnya.<br /><br />~Semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-di-maksud-dengan-produk-hibridasi">
+                            28. apa yang di maksud dengan produk hibridasi</h2><br />
+                        produk hasil penyilangan dari berbagai macam jenis dengan tujuan memperoleh produk baru<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-produk-hibridasi-dalam-bank">
+                            29. apa yang dimaksud produk hibridasi dalam bank</h2><br />
+                        bapak mu tanyak dadong mu tanyak <br />
+                                            <h2 class="ez-toc-section" id="tipe-tipe-hibridasi-senyawa-limonene%e2%80%8b">
+                            30. tipe-tipe hibridasi senyawa limonene​</h2><br />
+                        <p>Tipe-tipe <strong>hibridasi</strong> senyawa <strong>limonene</strong> adalah sp² dan sp³. Limonene adalah senyawa yang sering digunakan untuk produk kosmetik dan ditambahkan pada produk pembersih (sabun) yang memberikan wangi jeruk.</p><p><strong>Pe</strong><strong>m</strong><strong>b</strong><strong>a</strong><strong>h</strong><strong>a</strong><strong>s</strong><strong>a</strong><strong>n</strong></p><p><strong>Orbital hibrida sp² dan sp³</strong></p><p>Orbital hibrida sp² adalah penggabungan antara satu orbital s dengan dua orbital p menghasilkan tiga orbital hibrida sp². Orbital s dipromosikan pada orbital py. Orbital hibrida sp³ adalah penggabungan satu orbital s dengan tiga orbital p membentuk empat orbital hibrida sp³.</p><p></p><p><strong>Struktur Limonene</strong></p><p>            CH₃ </p><p>             I</p><p>            C        </p><p>          //    \      </p><p>        CH    CH₂   </p><p>         I         I</p><p>        CH₂   CH₂</p><p>            \   /</p><p>              CH</p><p>               I</p><p>               C</p><p>             /     \\</p><p>          CH₃    CH₂</p><p>sp³ = ikatan tunggal = 2</p><p>sp² = ikatan rangkap 2 =  2</p><p>sp = ikatan rangkap 3 = -</p><p></p><p><strong>Pelajari lebih lanjut</strong></p>Teori hibridisasi PCl₅ brainly.co.id/tugas/11917959#Teori hibridisasi H₂S brainly.co.id/tugas/11678155Teori hibridisasi BCl₃ brainly.co.id/tugas/26221448<p><strong>#BelajarBersamaBrainly</strong></p><p><strong>#SPJ1</strong></p><br />
+                                            <h2 class="ez-toc-section" id="hasil-persilangan-hibridasi-antarparental-disebut-sebagai-%e2%80%a6">
+                            31. Hasil persilangan (hibridasi) antarparental disebut sebagai …</h2><br />
+                        <p>disebut sebagai persilangan monohibrid</p><p></p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-di-maksud-dengan-produk-hibridasi">
+                            32. apa yang di maksud dengan produk hibridasi</h2><br />
+                        Produk hibridasi adalah sebuah konsep bersatunya orbital - orbital atom membentuk orbital hibrid dapat menghemat biaya/tenaga diharapkan dapat menghasilkan produk yang bermutu<br />
+                                            <h2 class="ez-toc-section" id="apakah-yg-dimaksud-hibridasi">
+                            33. apakah yg dimaksud hibridasi</h2><br />
+                        hibridasi atau hibridisasi yaitu mengawinkan dua jenis hewan atau tumbuhan yg berbeda varietas dan memiliki sifat2 yg unggul.hibridasi adalah konsep bersatunya orbital-orbital atom membentuk orbital hibrid yang baru yang sesuai dengan penjelasan kualitatif sifat ikatan atom<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="jenis-hewan-yang-dihasilkan-melalu-hibridasi">
+                            34. Jenis hewan yang dihasilkan melalu hibridasi</h2><br />
+                        domba dolly<br />maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="tentukan-hibridasi-dari-bf3">
+                            35. tentukan hibridasi dari BF3</h2><br />
+                        Jadi untuk B harus menyediakan 3 kamar kosong, jadi 1 e- B di eksitasi ke balok P.<br />
+                                            <h2 class="ez-toc-section" id="apakah-yang-dimaksud-hibridasipolinasidan-konjugasi">
+                            36. Apakah yang dimaksud Hibridasi,Polinasi,dan Konjugasi?</h2><br />
+                        hibridasi adalah persilangan 2 spesies mahluk hidup berbeda sehingga hasilnya di sebut hibrid<br /><br />polinasi adalah proses penyerbukan melalui agen2 penyerbuk<br /><br />konjugasi adalah proses pentransferan genetik  / genom pada bakteri dan beberapa protozoa melalui jembatan konjugasi<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-hibridasi">
+                            37. apa yang dimaksud hibridasi</h2><br />
+                        Hibridisasi adalah pembentukan ikatan dupleks stabil antara dua rangkaian nukleotida yang saling komplementer melalui perpasangan basa N. <br /><br /><br /><br /><br />Semoga benar <br />Maaf kalau salah <br />Jadikan jawaban yang terbaik ya Hibridisasi adalh sebuah konsep bersatunya orbital-orbital membentuk orbital hidris yg baru yang sesuai dengan penjelasan kualitatif sifat ikatan atom<br />
+                                            <h2 class="ez-toc-section" id="apakah-yang-dimaksud-hibridasi">
+                            38. apakah yang dimaksud hibridasi</h2><br />
+                        Hibridisasi adalah mengawinkan dua jenis hewan atau tumbuhan yang berbeda varietas dan memiliki sifat-sifat unggul.Pembastaran atau (perkawinan silang/Hibridisasi) adalah teknik perkawinan antara dua individu yang berlainan varietas dalam satu spesies.<br />
+                                            <h2 class="ez-toc-section" id="cabang-biologi-dalam-teknik-hibridasi">
+                            39. cabang biologi dalam teknik hibridasi</h2><br />
+                        Hibridisasi itu persilangan kan ya yang hukum mendel. Nah pada persilangan itu ada pewarisan sifat keturunan atau pewarisan gen. Jadi cabang biologi pada teknik hibridisasi adalah genetika.<br />
+                                            <h2 class="ez-toc-section" id="orbital-hibridasi-karbon-dalam-molekul-co2-adalah">
+                            40. Orbital hibridasi karbon dalam molekul CO2 adalah</h2><br />
+                        sp3 larena seluruh orbital terisi sepenuhnya oleh elektron<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/N9mYP4cMo8Y?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>kimia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gerak-tari-tradisi-papua-banyak-menggunakan-gerak/">Gerak Tari Tradisi Papua Banyak Menggunakan Gerak</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/verb-2-cook/">Verb 2 Cook</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kelestarian-adalah-brainly/">Kelestarian Adalah Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tas-sepatu-wayang-dompet-jaket-merupakan-contoh-hasil-kerajinan/">Tas Sepatu Wayang Dompet Jaket Merupakan Contoh Hasil Kerajinan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-yg-dimaksud-pola-lantai/">Jelaskan Yg Dimaksud Pola Lantai</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/putrane-puntadewa-yaiku/">Putrane Puntadewa Yaiku</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/proses-perancangan-produk-teknologi-rekayasa-biasanya-diawali-dengan/">Proses Perancangan Produk Teknologi Rekayasa Biasanya Diawali Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-sikapmu-ketika-sedang-bernyanyi/">Bagaimana Sikapmu Ketika Sedang Bernyanyi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bangsa-arab-sebelum-islam-terkenal-dengan-sebutan-bangsa-jahiliyah-karena/">Bangsa Arab Sebelum Islam Terkenal Dengan Sebutan Bangsa Jahiliyah Karena</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/no3-2/">No3 2</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-identitas-individu-dan-identitas-kelompok-terbentuk/">Bagaimana Identitas Individu Dan Identitas Kelompok Terbentuk</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kunci-jawaban-bahasa-indonesia-kelas-7-halaman-104/">Kunci Jawaban Bahasa Indonesia Kelas 7 Halaman 104</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebutan-untuk-arsitektur-yang-digunakan-sebagai-investasi-modal-adalah/">Sebutan Untuk Arsitektur Yang Digunakan Sebagai Investasi Modal Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ruas-garis-pada-bangun-datar/">Ruas Garis Pada Bangun Datar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/terangkan-tentang-manfaat-bahan-kulit-bagi-kerajinan-nusantara/">Terangkan Tentang Manfaat Bahan Kulit Bagi Kerajinan Nusantara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tuliskan-fungsi-hiasan-interior/">Tuliskan Fungsi Hiasan Interior</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/komoditi-yang-akan-diusahakan-harus-memperhatikan/">Komoditi Yang Akan Diusahakan Harus Memperhatikan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/peristiwa-sejarah-indonesia/">Peristiwa Sejarah Indonesia</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/typing-artinya/">Typing Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/as-sami/">As Sami</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

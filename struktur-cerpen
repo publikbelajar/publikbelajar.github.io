@@ -1,0 +1,1283 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Struktur Cerpen - BELAJAR</title>
+    <meta name="description" content="Struktur Cerpen, , , , , , , 0, Memahami Cerpen dari Struktur sampai Ciri-cirinya, www.brainacademy.id, 1251 x 1251, jpeg, , 20, struktur-cerpen, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Struktur Cerpen - BELAJAR" />
+    <meta property="og:description" content="Struktur Cerpen, , , , , , , 0, Memahami Cerpen dari Struktur sampai Ciri-cirinya, www.brainacademy.id, 1251 x 1251, jpeg, , 20, struktur-cerpen, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Struktur Cerpen - BELAJAR" />
+    <meta name="twitter:description" content="Struktur Cerpen, , , , , , , 0, Memahami Cerpen dari Struktur sampai Ciri-cirinya, www.brainacademy.id, 1251 x 1251, jpeg, , 20, struktur-cerpen, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Struktur Cerpen</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">putri299</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Struktur+Cerpen" alt="Struktur Cerpen">
+                    </div>
+                    <p></p>
+                    <p>Pengertian cerpen?Struktur cerpen terdiri dari apa saja?Jelaskan masing-masing struktur cerpen?</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pengertian-cerpenstruktur-cerpen-terdiri-dari-apa-sajajelaskan-masing-masing-struktur-cerpen">1.
+                                            Pengertian cerpen?Struktur cerpen terdiri dari apa saja?Jelaskan masing-masing struktur cerpen?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cerpen-yang-ada-struktur-cerpen">2.
+                                            cerpen yang ada struktur cerpen</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-cerpen-bersama-cerpennya">3.
+                                            struktur cerpen bersama cerpennya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#beri-saya-contoh-cerpen-dan-struktur-cerpennya">4.
+                                            beri saya contoh cerpen dan struktur cerpennya ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-cerpen-dan-tentukan-struktur-dari-cerpen">5.
+                                            contoh cerpen dan tentukan struktur dari cerpen</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-dalam-cerpen">6.
+                                            struktur dalam cerpen?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-cerpen-adalah">7.
+                                            struktur cerpen adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-mengapa-struktur-cerpen-selalu-ada-dalam-teks-cerpen">8.
+                                            jelaskan mengapa struktur cerpen selalu ada dalam teks cerpen ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-dalam-sebuah-cerpen-struktur-teks-cerpennya-harus-berurutan-atau-tidak">9.
+                                            apakah dalam sebuah cerpen, struktur teks cerpennya harus berurutan atau tidak?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-cerpen-dan-struktur-cerpennya">10.
+                                            sebutkan cerpen dan struktur cerpennya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-cerpen-dan-kaidah-cerpen">11.
+                                            struktur cerpen dan kaidah cerpen </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-struktur-dari-cerpen">12.
+                                            apa saja struktur dari cerpen?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-cerpen-dan-contoh-strukturnya-dari-cerpen-tersebut%e2%80%8b">13.
+                                            Contoh cerpen dan contoh strukturnya dari cerpen tersebut?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatkan-saya-cerpen-menurut-struktur-cerpen">14.
+                                            Buatkan Saya Cerpen Menurut Struktur Cerpen</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-struktur-cerpen">15.
+                                            apa saja struktur cerpen ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-ini-yang-merupakan-struktur-teks-cerpen-adalahberikut-ini-yang-merupakan-struktur-teks-cerpen-adalah-%e2%80%8b">16.
+                                            berikut ini yang merupakan struktur teks cerpen adalahBerikut ini yang merupakan struktur teks Cerpen adalah ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-struktur-cerpen%e2%80%8b">17.
+                                            apa saja struktur cerpen​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-lah-struktur-struktur-dari-cerpen-tersebut">18.
+                                            Tentukan lah struktur-struktur dari cerpen tersebut.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-dari-cerpen-adalah-%e2%80%8b">19.
+                                            struktur dari cerpen adalah...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-bedanya-struktur-cerpen-dengan-unsur-cerpen">20.
+                                            Apa bedanya struktur cerpen dengan unsur cerpen</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-dalam-cerpen-harus-ada-struktur-cerpen">21.
+                                            Mengapa dalam cerpen harus ada struktur cerpen?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-pengertian-teks-cerpen-bagaimana-struktur-teks-dari-teks-cerpen-bagaimana-struktur-bahasa-dari-teks-cerpen-contoh-teks-cerpen">22.
+                                            apa pengertian teks cerpen..?
+bagaimana struktur teks dari teks cerpen..?
+bagaimana struktur bahasa dari teks cerpen..?
+contoh teks cerpen..</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-cerpen-itu-apa-saja">23.
+                                            struktur cerpen itu apa saja.....?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-cerpen-dan-contoh-cerpen">24.
+                                            struktur teks cerpen dan contoh cerpen</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-struktur-dari-cerpen">25.
+                                            Apa saja struktur dari cerpen??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-cerpen-dan-struktur-alur-cerpen-sama-tidak-mksih-atas-jwbannya">26.
+                                            struktur teks cerpen dan struktur alur cerpen sama tidak? mksih atas jwbannya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-struktur-dalam-cerpen">27.
+                                            struktur struktur dalam cerpen ???</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-struktur-cerpen">28.
+                                            Apa struktur cerpen?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-struktur-struktur-dalam-cerpen">29.
+                                            jelaskan struktur-struktur dalam cerpen ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#beda-atau-sama-struktur-cerpen-dengan-intrinsik-cerpen">30.
+                                            Beda atau sama struktur cerpen dengan intrinsik cerpen?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-cerpen-dan-strukturnya-dari-cerpen-tersebut%e2%80%8b">31.
+                                            contoh cerpen dan strukturnya dari cerpen tersebut?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-bagian-cerpen-penjelasan-tentang-cerpen">32.
+                                            struktur bagian cerpen !
+penjelasan tentang cerpen!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-struktur-dari-cerpen">33.
+                                            apa struktur dari cerpen</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-struktur-dari-cerpen">34.
+                                            apakah struktur dari cerpen?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pengertian-struktur-cerpen-dan-kaidah-cerpen">35.
+                                            pengertian struktur cerpen dan kaidah cerpen?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengidentifikasi-struktur-cerpen-isi-cerpen-dan-tentang">36.
+                                            Mengidentifikasi struktur cerpen isi cerpen dan tentang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-struktur-dari-cerpen-%e2%80%8b">37.
+                                            apa struktur dari cerpen? ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-cerpen-beserta-struktur-cerpennya">38.
+                                            contoh cerpen beserta struktur cerpennya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-struktur-cerpen">39.
+                                            apa saja struktur cerpen</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-struktur-cerpen">40.
+                                            apa saja struktur cerpen ?</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="pengertian-cerpenstruktur-cerpen-terdiri-dari-apa-sajajelaskan-masing-masing-struktur-cerpen">
+                            1. Pengertian cerpen?Struktur cerpen terdiri dari apa saja?Jelaskan masing-masing struktur cerpen?</h2><br />
+                        cerpen, merupakan karangan fiktif yang berisi sebagian kehidupan seseorang atau kehidupan yang di ceritakan secara ringkas yg berfokus pada suatu tokoh.<br />-struktur cerpen: orientasi, komplikasi, resolusi<br />-orientasi, berisi pengenalan tokoh, latar tempat dan waktu<br />-komplikasi, tokoh berhadapan dengan masalah.<br />-resolusi, kelanjutan dari komplikasi, yaitu pemecahan masalah harus di selesaikan.<br /><br />
+                                            <h2 class="ez-toc-section" id="cerpen-yang-ada-struktur-cerpen">
+                            2. cerpen yang ada struktur cerpen</h2><br />
+                        1 Orientasi:bagian pendahuluan dlm sebuah cerita baik pengenalan sifat tokoh,tempat peristiwa dlm cerita,maupun pengenalan suasana dan alur cerita.<br />2 Komplikasi:memuat masalah/konflik yg terdapat dlm cerita.<br />3 Resolusi : bagian pemecahan masalah atas konflik yg ada dlm cerita<br />
+                                            <h2 class="ez-toc-section" id="struktur-cerpen-bersama-cerpennya">
+                            3. struktur cerpen bersama cerpennya</h2><br />
+                        struktur <br />Judul <br />perkenalan<br />komplikasi<br />klimaks <br />penyelesaian masalah<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="beri-saya-contoh-cerpen-dan-struktur-cerpennya">
+                            4. beri saya contoh cerpen dan struktur cerpennya ?</h2><br />
+                        Stuktur penyusunan cerpen | struktur cerpen<br />1. ABSTRAK<br />ABSTRAK adalah gambaran awal dalam cerita, seperti menceritakan latar belakangnya.<br /><br />2. ORIENTASI<br />ORIENTASI berupa waktu, tempat kejadian<br /><br />3. Komplikasi = kerumitan<br /><br />4. resolusi = putusan atau bulatan pendapat berupa permintaan atau tuntutan yang rditetapkan oleh rapat<br /><br />5. evaluasi = penilaian<br /><br />6. Koda = penutup/ bagian terakhir dalam sebuah cerpen ATAU RINGKASAN<br /><br />Kumpulan Cerpen Terbaik Karya Dewi Lestari<br /><br />2008 di Pinggir Selokan<br />Cinta Tak Bertuan <br />Guruji <br />Harta Karun untuk Semua<br />Imagosentris<br />keenan dan Memetika <br />Kiamat Memang Sudah Dekat dll<br />
+                                            <h2 class="ez-toc-section" id="contoh-cerpen-dan-tentukan-struktur-dari-cerpen">
+                            5. contoh cerpen dan tentukan struktur dari cerpen</h2><br />
+                        Senyum karyamin<br />1. Abstrak<br /><br />Mereka tertawa bersama. Mereka, para pengumpul batu itu, memang pandai bergembira dengancara menertawakan diri mereka sendiri. Dan Karyamin tidak ikut tertawa, melainkan cukup tersenyum. Bagi mereka, tawa atau senyum sama-sama sah sebagai perlindungan terakhir. Tawa dan senyum bagi mereka adalah simbol kemenangan terhadap tengkulak, terhadap rendahnyaharga batu, atau terhadap licinnya tanjakan. Pagi itu senyum Karyamin pun menjadi tandakemenangan atas perutnya yang sudah mulai melilit dan matanya yang berkunang-kunang.<br /><br />2.Orientasi<br /><br />Karyamin melangkah pelan dan sangat hati-hati. Beban yang menekan pundaknya adalah pikulanyang digantungi dua keranjang batu kali. Jalan tanah yang sedang didakinya sudah licin dibasahi air yang menetes dari tubuh Karyamin dan kawan-kawan, yang pulang balik mengangkat batu dari sungai ke pangkalan material di atas sana.<br /><br />Karyamin sudah berpengalaman agar setiap perjalananya selamat. Yakni berjalan menanjak sambil menjaga agar titik berat beban dan badannya tetap berada pada telapak kaki kiri atau kanannya. Pemindahan titik berat dari kaki kirike kaki kanannya pun harus dilakukan dengan baik. Karyamin harus memperhitungkan tarikannapas serta ayunan tangan demi keseimbangan yang sempurna.<br /><br />3. Komplikasi<br /><br />Sebelum habis mendaki tanjakan, Karyamin mendadak berhenti. Dia melihat dua buah sepeda jengki diparkir di halaman rumahnya. Denging dalam telinganya terdengar semakin nyaring. Kunang-kunang di matanya pun semakin banyak. Maka Karyamin sungguh-sungguh berhenti,dan termangu.<br /><br />Dibayangkan istrinya yang sedang sakit harus menghadapi dua penagih bank harian. Padahal Karyamin tahu, istrinya tidak mampu membayar kewajibannya hari ini, hari esok, hari lusa, dan entah hingga kapan, seperti entah kapan datangnya tengkulak yang telah setengah bulan membawa batunya.<br /><br />4. Evaluasi<br /><br />”Ya, kamu memangmbeling , Min. di gerumbul ini hanya kamu yang belum berpartisipasi.Hanya kamu yang belum setor uang dana Afrika, dana untuk menolong orang-orang yangkelaparan di sana. Nah, sekarang hari terakhir. Aku tak mau lebih lama kau persulit.”<br /><br />Karyamin mendengar suara napas sendiri. Samar-samar Karyamin juga mendengar detak jantung sendiri. Tetapi karyamin tidak melihat bibir sendiri yang mulai menyungging senyum.<br /><br />5. Resolusi<br /><br />Kali ini Karyamin tidak hanya tersenyum, melainkan tertawa keras-keras. Demikian keras sehingga mengundang seribu lebah masuk ke telinganya. Seribu lunang masuk ke matanya. Lambungnya yang kampong berguncang-guncang dan merapuhkan keseimbangan seluruh tubuhnya. Ketika melihat tubuh Karyamin jatuh terguling ke lembah Pak Pamong berusaha menahannya. Sayang, gagal.<br />
+                                            <h2 class="ez-toc-section" id="struktur-dalam-cerpen">
+                            6. struktur dalam cerpen?</h2><br />
+                        abstrak, orientasi, komplikasi, evaluasi, resolusi, koda<br /><br />
+                                            <h2 class="ez-toc-section" id="struktur-cerpen-adalah">
+                            7. struktur cerpen adalah</h2><br />
+                        abstrak, orientasi,  komplikasi, evaluasi, resolusi, koda<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-mengapa-struktur-cerpen-selalu-ada-dalam-teks-cerpen">
+                            8. jelaskan mengapa struktur cerpen selalu ada dalam teks cerpen ?</h2><br />
+                        Karena abstrak orientasi komplikasi evaluasi resolusi dan koda . merupakan tahapan2 yg bisa menjadikan sebuah cerita / bisa di sebut juga mencakup sebuah cerita.<br />
+                                            <h2 class="ez-toc-section" id="apakah-dalam-sebuah-cerpen-struktur-teks-cerpennya-harus-berurutan-atau-tidak">
+                            9. apakah dalam sebuah cerpen, struktur teks cerpennya harus berurutan atau tidak?</h2><br />
+                        struktur teks cerita pendek menurut saya sih harus urut :)<br />kalo nentuin abstraksi biasanya inti dari awal cerita itu di kembangin sendiri, dan kembangan sendiri itu jangan yang nimbulin pertanyaan..hehe sekian :)<br /><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-cerpen-dan-struktur-cerpennya">
+                            10. sebutkan cerpen dan struktur cerpennya</h2><br />
+                        Struktur cerpen<br />- Orientasi<br />- Komplikasi<br />- RedolusiKisah Seekor Keledai<br />Orientasi Seorang pedagang menuntun keledainya untuk melewati sebuah sungai<br />yang dangkal. Selama ini mereka telah melalui sungai tersebut tanpa<br />pernah mengalami satu pun kecelakaan, tetapi keledainya tergelincir<br />dan jatuh ketika mereka berada tepat di tengah-tengah sungai tersebut.<br />Ketika pedagang tersebut akhirnya berhasil membawa keledainya beserta<br />muatannya ke pinggir sungai dengan selamat, kebanyakan dari garam<br />yang dimuat oleh keledai telah meleleh dan larut ke dalam air sungai.<br />Keledai merasakan muatannya telah berkurang sehingga beban yang<br />dibawa menjadi lebih ringan. Hal itu membuat keledai merasa sangat<br />gembira ketika mereka melanjutkan perjalanan.<br />Pada hari berikutnya, pedagang kembali membawa muatan garam.<br />Keledai yang mengingat pengalamannya kemarin saat tergelincir di<br />tengah sungai itu, dengan sengaja membiarkan dirinya tergelincir jatuh ke<br />dalam air. Akhirnya dia bisa mengurangi bebannya kembali dengan cara<br />itu.<br />Komplikasi Pedagang yang merasa marah, kemudian membawa keledainya tersebut<br />kembali ke pasar. Keledai tersebut di muati dengan keranjang-keranjang<br />yang sangat besar dan berisikan spons. Ketika mereka kembali tiba di<br />tengah sungai, keledai kembali dengan sengaja menjatuhkan diri. Namun,<br />saat pedagang tersebut membawanya ke pinggir sungai, keledai menjadi<br />sangat tidak nyaman karena harus dengan terpaksa menyeret dirinya<br />pulang ke rumah dengan beban yang sepuluh kali lipat lebih berat dari<br />sebelumnya. Spons yang dimuatnya menyerap air sungai dan menambah<br />berat beban.<br />Resolusi Tidak setiap cara dapat dilakukan pada situasi atau kondisi yang sama.<br />Keledai menerapkan cara di setiap kondisi. Pada akhirnya, hal itu membuat<br />keadaannya tidak seperti yang diinginkannya.<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="struktur-cerpen-dan-kaidah-cerpen">
+                            11. struktur cerpen dan kaidah cerpen </h2><br />
+                        1) kalimat tunggal  = kalimat yg mempnyai satu pola / subjek<br />2) kalimat majemuk = klmt yg mempnyai 2 pola kalimat<br />3) frasa = penggabungan 2 kata<br />4) repetisi = perulangan suku kata / kalimat<br />5) kata ganti <br />
+                                            <h2 class="ez-toc-section" id="apa-saja-struktur-dari-cerpen">
+                            12. apa saja struktur dari cerpen?</h2><br />
+                        Orientasi, komplikasi, resolusi, kodaOrientasi,komplikasi dan resolusi<br /><br />
+                                            <h2 class="ez-toc-section" id="contoh-cerpen-dan-contoh-strukturnya-dari-cerpen-tersebut%e2%80%8b">
+                            13. Contoh cerpen dan contoh strukturnya dari cerpen tersebut?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Akan Terus Bertahan</p><p>Kesedihan masih mendera diriku. Setelah ditinggal pergi pendamping hidupku, kini anakku satu-satunya juga telah tiada. Hujan air mata tentu saja menetes di sini; di mataku. Terkadang aku merasa, Tuhan mengujiku terlalu berat. Ingin menghakimi-Nya, namun apa daya, aku tak bisa. Sungguh aku tak sanggup memaki Pencipta diriku yang telah menyelamatkanku dari sebuah insiden naas beberapa tahun yang lalu. Aku percaya ada hikmah dari semua ini. Aku sungguh percaya bahwa Dia tidak akan menjahatiku. ucapku kepada batinku sendiri.</p><p></p><p>Tak terasa ini sudah 40 hari kepergian istriku, dan 7 hari kepergian anakku. Sedih dan duka itu tentu masih ada, namun menipis, setipis kain tissue yang sering aku gunakan untuk menyeka air mata dan ingusku karena berduka. Namun aku sadar, bahwa berduka terlalu lama tak akan ada gunanya. Menjalani hidup sekuat mungkin adalah solusi atas kekosongan dan kesedihanku ini.</p><p></p><p>Ada pepatah yang bilang, bahwa kesibukan bisa membuat kita lalai dari kesedihan dan keresahan hati kita. Dan ternyata itu benar. Kesibukan yang kujalani sebagai layouter cukup menguras hati dan pikiran. Bayang-bayang sang pendamping hidup, serta bayang-bayang sang anak tidak terlalu sering menghantuiku; membuat air mata menetes di mataku.</p><p></p><p>Tak pernah kupikirkan siapa yang akan menggantikan pendamping hidupku di dunia ini. Yang aku pikirkan saat ini adalah bagaimana menjalani hidupku sebaik mungkin dan tidak larut dalam duka. Dan aku akan terus bertahan, terus menjalani hidupku, hingga nanti aku menyusul anak dan kekasihku di Sana.</p><p></p><p>Struktur Cerpen:</p><p></p><p>Abstraksi: Kesedihan masih mendera diriku. Setelah ditinggal pergi pendamping hidupku, kini anakku satu-satunya juga telah tiada. Hujan air mata tentu saja menetes di sini; di mataku.</p><p>Orientasi: latar suasana: sedih, latar waktu: kini, serta 40 hari setelah si pendamping hidup wafat dan 7 hari setelah sang anak wafat.</p><p>Komplikasi: sang tokoh sedih karena ditinggal mati sang anak padahal sebelumnya telah ditinggal pendamping hidupnya, sang tokoh mulai menghilangkan rasa sedihnya dengan terus menjalani hidup dan menyibukkan diri, dan sang tokoh pun memutuskan untuk tetap bertahan hidup dan tidak mencari pendamping hidup yang baru.</p><p>Evaluasi: pengenalan konflik sudah ada sejak di paragraf awal, yakni saat sang tokoh kehilangan anak tercintanya, padahal sebelumnya dia telah ditinggalkan sang pendamping hidup. Alur cerita semakin berlanjut, dan si tokoh ini pun mulai mencoba lebih tegar dalam menjalani hidup dan kedukaan yang dia rasakan. DI akhir cerita, si tokoh pun menentukan sikap hidupnya terhadap apa yang dia alami.</p><p>Resolusi: si tokoh memutuskan untuk menjalani hidupnya dan mulai menyibukkan diri dengan bekerja sebagai layouter. Selain itu, si tokoh memutuskan untuk tidak mencari pendamping hidup lagi. Hal ini bisa dilihat pada kalimat-kalimat yang ada di paragraf akhir.</p><p>Koda: pesan yang hendak disampaikan pada cerpen tersebut adalah bahwa kita harus tetap tegar dalam mejalani hidup meski ditimpa kesedihan yang mendalam. Selain itu, cerpen di atas juga mengajarkan kita untuk tidak menyalahkan Tuhan saat terpuruk, dan tetap setia kepada pasangan hidup kita.</p><p>Demikian contoh cerpen singkat dan strukturnya Jika ingin melihat contoh cerpen lain, pembaca bisa membuka artikel contoh cerpen singkat tentang lingkungan alam dan contoh cerpen singkat tentang lingkungan. Terima kasih.</p><p></p><p></p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="buatkan-saya-cerpen-menurut-struktur-cerpen">
+                            14. Buatkan Saya Cerpen Menurut Struktur Cerpen</h2><br />
+                        <br />Agar lebih paham berikut disajikan contoh cerpen singkat berikut strukturnya.<br /><br />Akan Terus Bertahan<br /><br />Kesedihan masih mendera diriku. Setelah ditinggal pergi pendamping hidupku, kini anakku satu-satunya juga mendapat tiada. Hujan udara mata tentu saja menetes di sini; di mataku. Terkadang aku merasa, Tuhan mengujiku terlalu berat. Ingin menghakimi-Nya, namun apa daya, aku tak bisa. Sungguh aku tak sanggup memaki Pencipta diri yang telah menyelamatkanku dari sebuah insiden beberapa tahun yang lalu. Aku percaya ada hikmah dari semua ini. Aku sungguh percaya bahwa Dia tidak akan menjahatiku. ucapku kepada batinku sendiri.<br /><br />Tak terasa ini sudah 40 hari kepergian istriku, dan 7 hari kepergian anakku. Sedih dan duka itu tentu masih ada, namun menipis, setipis kain tisu yang sering digunakan untuk menyeka udara mata dan ingusku karena berduka. Namun aku sadar, bahwa berduka terlalu lama tak akan ada gunanya. Menjalani hidup adalah solusi atas kekosongan dan kesedihanku ini.<br /><br />Ada pepatah yang bilang, bahwa kesibukan bisa membuat kita lalai dari kesedihan dan keresahan hati kita. Dan nyatanya itu benar. Kesibukan yang kujalani sebagai layouter cukup menguras hati dan pikiran. Bayang-bayang sang pendamping hidup, dan bayang-bayang sang anak tidak terlalu sering menghantuiku; membuat udara mata menetes di mataku.<br /><br /><br />Tak pernah kupikirkan siapa yang akan terlibat pendamping hidupku di dunia ini. Yang aku pikirkan saat ini adalah bagaimana caranya menjalani hidupku sebaik mungkin dan tidak larut dalam duka. Dan aku akan terus bertahan, terus hidupkan hidupku, hingga aku akan anak dan kekasihku di Sana.<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="apa-saja-struktur-cerpen">
+                            15. apa saja struktur cerpen ?</h2><br />
+                        orientasi<br />komplikasi<br />resolusiStruktur cerpen : 1. Orientasi 2. Komplikasi 3. Resolusi <br />Struktur cerpen (fabel) : 1.Orientasi 2. Komplikasi 3. Resolusi 4. Koda<br /><br />#maafjikasalah<br />
+                                            <h2 class="ez-toc-section" id="berikut-ini-yang-merupakan-struktur-teks-cerpen-adalahberikut-ini-yang-merupakan-struktur-teks-cerpen-adalah-%e2%80%8b">
+                            16. berikut ini yang merupakan struktur teks cerpen adalahBerikut ini yang merupakan struktur teks Cerpen adalah ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>6 struktur teks cerpen yaitu : Abstrak, Orientasi, Komplikasi, Evaluasi, Resolusi, Koda. Cerita pendek atau yang dikenal dengan singkatan 'cerpen' merupakan sebuah teks yang biasanya menggambarkan atau menceritakan kisah fiktif dengan tema kehidupan sehari - hari.</p><p><strong>Penjelasan:</strong></p><p>Semoga Membantu</p><br />
+                                            <h2 class="ez-toc-section" id="apa-saja-struktur-cerpen%e2%80%8b">
+                            17. apa saja struktur cerpen​</h2><br />
+                        <p>Jawaban:</p><p></p><p>Penjelasan:Struktur Cerpen</p><p>Di bawah ini akan dijelaskan struktur cerpen beserta penjelasannya meliputi abstrak, orientasi, komplikasi, evaluasi, resolusi dan koda selengkapnya.</p><p></p><p>1. Abstrak</p><p></p><p>Abstrak termasuk struktur cerpen di awal cerita. Pengertian abstrak pada cerpen adlaah gambaran awal dari cerita yang akan diceritakan. Abstrak bersifat optional pada cerpen, artinya boleh ada namun boleh juga jika cerpen tidak memiliki abstrak.</p><p></p><p>2. Orientasi</p><p></p><p>Orientasi menjadi salah satu struktur teks cerpen yang selanjutnya. Pengertian orientasi pada cerpen berhubungan dengan waktu, suasana dan tempat di dalam cerita pendek tersebut, yang menjawab pertanyaan kapan, dimana serta bagaimana.</p><p></p><p>3. Komplikasi</p><p></p><p></p><p> </p><p>Struktur teks cerpen berikutnya adalah komplikasi. Pengertian komplikasi pada cerpen adalah urutan kejadian yang dihubungkan secara sebab dan akibat. Karakter dan watak tokoh biasanya terlihat di struktur komplikasi ini yang menggambarkan plot cerita.</p><p></p><p>4. Evaluasi</p><p></p><p>Evaluasi menjadi jenis struktur cerpen yang selanjutnya. Pengertian evaluasi pada cerpen adalah konflik yang terjadi dan menuju pada klimaks. Dalam evaluasi, konflik sudah mulai mendapatkan solusi dan penyelesaian serta menuju ke tahap akhir.</p><p></p><p>5. Resolusi</p><p></p><p>Resolusi merupakan salah satu dari struktur teks cerpen. Pengertian resolusi pada cerpen adalah ketika pengarang mengungkapkan solusi terhadap masalah yang dialami tokoh dalam cerpen. Dalam resolusi, masalah sudah mendapat penyelesaian di tahap akhir cerita.</p><p></p><p>6. Koda</p><p></p><p>Struktur cerpen berikutnya dan yang terakhir adalah koda. Pengertian koda pada cerpen adalah nilai atau pelajaran yang bisa didapat dari teks cerita pendek oleh pembaca. Pesan dan amanat menjadi intisari cerita yang bisa dipetik oleh pembaca setelah membaca teks cerpen.</p><p></p><p>Nah itulah referensi penjelasan struktur-struktur cerpen yang ada pada tiap cerita pendek. Secara umum struktur teks cerpen adalah abstrak, orientasi, komplikasi, evaluasi, resolusi dan koda. Semoga info tersebut bisa menjadi referensi dan menambah wawasan.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-lah-struktur-struktur-dari-cerpen-tersebut">
+                            18. Tentukan lah struktur-struktur dari cerpen tersebut.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Abstrak, Orientasi, Komplikasi, Evaluasi, Resolusi, Koda</p><p><strong>Penjelasan:</strong></p><p>Cerita pendek atau yang dikenal dengan singkatan 'cerpen' merupakan sebuah teks yang biasanya menggambarkan atau menceritakan kisah fiktif dengan tema kehidupan sehari - hari.</p><br />
+                                            <h2 class="ez-toc-section" id="struktur-dari-cerpen-adalah-%e2%80%8b">
+                            19. struktur dari cerpen adalah...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>-abstrak</p><p>-orientasi</p><p>-komplikasi</p><p>-evaluasi</p><p>-resolusi</p><p> </p><p>semoga membantu:) </p><p>tandai sebagai terbaik yaa:) </p><p><strong>Jawaban:</strong></p><p>Struktur Cerpen </p><p><strong>Penjelasan:</strong></p><p>1. Abstrak</p><p></p><p>Abstrak termasuk struktur cerpen di awal cerita. Pengertian abstrak pada cerpen adlaah gambaran awal dari cerita yang akan diceritakan. Abstrak bersifat optional pada cerpen, artinya boleh ada namun boleh juga jika cerpen tidak memiliki abstrak.</p><p></p><p>2. Orientasi</p><p></p><p>Orientasi menjadi salah satu struktur teks cerpen yang selanjutnya. Pengertian orientasi pada cerpen berhubungan dengan waktu, suasana dan tempat di dalam cerita pendek tersebut, yang menjawab pertanyaan kapan, dimana serta bagaimana.</p><p></p><p>3. Komplikasi</p><p></p><p>Struktur teks cerpen berikutnya adalah komplikasi. Pengertian komplikasi pada cerpen adalah urutan kejadian yang dihubungkan secara sebab dan akibat. Karakter dan watak tokoh biasanya terlihat di struktur komplikasi ini yang menggambarkan plot cerita.</p><p></p><p>4. Evaluasi</p><p></p><p>Evaluasi menjadi jenis struktur cerpen yang selanjutnya. Pengertian evaluasi pada cerpen adalah konflik yang terjadi dan menuju pada klimaks. Dalam evaluasi, konflik sudah mulai mendapatkan solusi dan penyelesaian serta menuju ke tahap akhir.</p><p></p><p>5. Resolusi</p><p></p><p>Resolusi merupakan salah satu dari struktur teks cerpen. Pengertian resolusi pada cerpen adalah ketika pengarang mengungkapkan solusi terhadap masalah yang dialami tokoh dalam cerpen. Dalam resolusi, masalah sudah mendapat penyelesaian di tahap akhir cerita.</p><p></p><p>6. Koda</p><p></p><p>Struktur cerpen berikutnya dan yang terakhir adalah koda. Pengertian koda pada cerpen adalah nilai atau pelajaran yang bisa didapat dari teks cerita pendek oleh pembaca. Pesan dan amanat menjadi intisari cerita yang bisa dipetik oleh pembaca setelah membaca teks cerpen.</p><br />
+                                            <h2 class="ez-toc-section" id="apa-bedanya-struktur-cerpen-dengan-unsur-cerpen">
+                            20. Apa bedanya struktur cerpen dengan unsur cerpen</h2><br />
+                        <p>Struktur cerpen disebut juga dengan kerangka cerpen dan terdiri dari 6, yaitu: abstrak, orientasi, komplikasi, evaluasi, resolusi, koda.</p><p>Sedangkan unsur cerpen merupakan unsur-unsur pembangun cerpen itu sendiri dan terdiri dari 2 saja, yaitu: unsur intrinsik dan unsur ekstrinsik.</p><p>-semoga membantu-</p><br />
+                                            <h2 class="ez-toc-section" id="mengapa-dalam-cerpen-harus-ada-struktur-cerpen">
+                            21. Mengapa dalam cerpen harus ada struktur cerpen?</h2><br />
+                        karena cerpen akan sempurna jika memiliki unsur cerpen itu sendirikarena jika ada cerpen yang tanpa struktur, tidak akan jelaslah yang mana bagian abstrak, orientasi, komplikasi, evaluasi, resolusi, dan koda,<br /><br />
+                                            <h2 class="ez-toc-section" id="apa-pengertian-teks-cerpen-bagaimana-struktur-teks-dari-teks-cerpen-bagaimana-struktur-bahasa-dari-teks-cerpen-contoh-teks-cerpen">
+                            22. apa pengertian teks cerpen..?
+bagaimana struktur teks dari teks cerpen..?
+bagaimana struktur bahasa dari teks cerpen..?
+contoh teks cerpen..</h2><br />
+                        Cerita pendek adalah kisah yang memiliki alur yang singkat sehingga hanya terdiri atas beberapa halaman<br /><br />Struktur:<br />1.judul<br />2. perkenalan<br />3.komplikasi<br />4.klimaks<br />5.penyelesaian<br />6.amanat<br /><br />Maaf kak tidak ada contoh cerpen<br />
+                                            <h2 class="ez-toc-section" id="struktur-cerpen-itu-apa-saja">
+                            23. struktur cerpen itu apa saja.....?</h2><br />
+                        orientasi, komplikasi, resolusi<br />- Orientasi<br />- Komplikasi<br />- Resolusi<br /><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-cerpen-dan-contoh-cerpen">
+                            24. struktur teks cerpen dan contoh cerpen</h2><br />
+                        struktur teks cerita pendek :<br />-orientasi<br />-komplikasi<br />-resolusi<br />contoh cerita pendek adalah kupu kupu ibu karya komang ira puspitaningsih<br />
+                                            <h2 class="ez-toc-section" id="apa-saja-struktur-dari-cerpen">
+                            25. Apa saja struktur dari cerpen??</h2><br />
+                        abstrak,komplikasi,koda,orientasi<br />jadikan jawaban terbaik<br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-cerpen-dan-struktur-alur-cerpen-sama-tidak-mksih-atas-jwbannya">
+                            26. struktur teks cerpen dan struktur alur cerpen sama tidak? mksih atas jwbannya</h2><br />
+                        berbeda karena alur itu di bagi mnjadi 3 yaitu alur maju,alur mundur dan alur campuran.kalo struktur cerpen nggak ada yang kyk gtu..  maav klo jwbanny salah<br /><br />
+                                            <h2 class="ez-toc-section" id="struktur-struktur-dalam-cerpen">
+                            27. struktur struktur dalam cerpen ???</h2><br />
+                        <p>Struktur-struktur dalam cerpen adalah <strong>orientasi</strong><strong>,</strong><strong> </strong><strong>komplikasi</strong><strong>,</strong><strong> </strong><strong>resolusi</strong><strong>,</strong><strong> </strong>dan <strong>koda.</strong></p><p></p>Pembahasan :<p><strong>Cerpen</strong>/cerita pendek adalah teks fiksi yang menceritakan tentang kehidupan seseorang dalam imajinasi penulis. Cerpen hampir mirip dengan novel. Hanya saja novel selalu lebih panjang, rumit, dan lebih kompleks. </p><p></p><p><strong>Struktur-struktur dalam cerpen :</strong></p>Orientasi, berisi pengenalan tokoh, latar, hingga awal terjadinya masalah.Komplikasi, berisi permasalahan yang harus dihadapi oleh tokoh hingga masalah mencapai klimaks (puncak masalah).Resolusi, berisi penyelesaian masalah hingga masalah itu berakhir.Koda, berisi kesimpulan dan amanat yang dapat dipetik dari cerpen.<p></p>Pelajari lebih lanjut :<p>Struktur teks cerpen =&gt; https://brainly.co.id/tugas/276078</p><p>6 struktur cerpen =&gt; https://brainly.co.id/tugas/7317326</p><p>Menyebutkan dan menjelaskan struktur cerpen =&gt; https://brainly.co.id/tugas/349481</p><p>Struktur cerpen =&gt; https://brainly.co.id/tugas/19643753</p><p></p>Detail jawaban :<p>Kelas : 8</p><p>Mapel : Bahasa Indonesia</p><p>Bab : Sastra</p><p>Kode : 8.1.1</p><p>Kata kunci : Cerpen, struktur</p><br />
+                                            <h2 class="ez-toc-section" id="apa-struktur-cerpen">
+                            28. Apa struktur cerpen?</h2><br />
+                        Struktur teks cerpen  ada 6 bagian<br />Abstrak – merupakan ringkasan ataupun inti dari cerita yang akan dikembangkan menjadi rangkaian-rangkaian peristiwa<br />Orientasi – berkaitan dengan waktu, suasana, maupun tempat yang berkaitan dengan cerpen tersebut.<br />Komplikasi –berisi urutan kejadian-kejadian yang dihubungkan secara sebab dan akibat,<br />Evaluasi –struktur konflik yang terjadi  mengarah pada klimaks<br />Resolusi – pengarang mengungkapkan solusi yang dialami tokoh atau pelaku.<br />Koda – nilai ataupun pelajaran yang dapat diambil dari suatu teks ceriita oleh pembacanya.<strong>1. Abstrak</strong> (merupakan ringkasan/inti dari cerita)<br /><strong>2. Orientasi</strong> (yang berkaitan dengan latar tempat, waktu, suasana dalam cerita tersebut)<br /><strong>3. Komplikasi</strong> (berisi urutan kejadian)<br /><strong>4. Evaluasi</strong>  (berisi struktur penyelesain dari konflik tersebut)<br /><strong>5. Resolusi</strong> (berisi solusi yang dialami tokoh atau pelaku)<br /><strong>6. Koda</strong> (berisi nilai/pelajaran yang dapat diambil oleh pembaca)<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-struktur-struktur-dalam-cerpen">
+                            29. jelaskan struktur-struktur dalam cerpen ?</h2><br />
+                        Struktur Cerpen:<br />1 Orientasi:bagian pendahuluan dlm sebuah 
+cerita baik pengenalan sifat tokoh,tempat peristiwa dlm cerita,maupun 
+pengenalan suasana dan alur cerita.<br />2 Komplikasi:memuat masalah/konflik yg terdapat dlm cerita.<br />3 Resolusi : bagian pemecahan masalah atas konflik yg ada dlm cerita<br />Tema, judul, tokoh dan penokohan, alur , sudut pandang, gaya bahasa dan amanat<br />
+                                            <h2 class="ez-toc-section" id="beda-atau-sama-struktur-cerpen-dengan-intrinsik-cerpen">
+                            30. Beda atau sama struktur cerpen dengan intrinsik cerpen?</h2><br />
+                        Beda karna Mengandung Contoh yg beda. <br />
+                                            <h2 class="ez-toc-section" id="contoh-cerpen-dan-strukturnya-dari-cerpen-tersebut%e2%80%8b">
+                            31. contoh cerpen dan strukturnya dari cerpen tersebut?​</h2><br />
+                        <p>Judul: Akan Terus Bertahan</p><p></p><p>Kesedihan masih mendera diriku. Setelah ditinggal pergi pendamping hidupku, kini anakku satu-satunya juga telah tiada. Hujan air mata tentu saja menetes di sini; di mataku. Terkadang aku merasa, Tuhan mengujiku terlalu berat. Ingin menghakimi-Nya, namun apa daya, aku tak bisa. Sungguh aku tak sanggup memaki Pencipta diriku yang telah menyelamatkanku dari sebuah insiden naas beberapa tahun yang lalu. Aku percaya ada hikmah dari semua ini. Aku sungguh percaya bahwa Dia tidak akan menjahatiku. ucapku kepada batinku sendiri.</p><p></p><p>Tak terasa ini sudah 40 hari kepergian istriku, dan 7 hari kepergian anakku. Sedih dan duka itu tentu masih ada, namun menipis, setipis kain tissue yang sering aku gunakan untuk menyeka air mata dan ingusku karena berduka. Namun aku sadar, bahwa berduka terlalu lama tak akan ada gunanya. Menjalani hidup sekuat mungkin adalah solusi atas kekosongan dan kesedihanku ini.</p><p>Ada pepatah yang bilang, bahwa kesibukan bisa membuat kita lalai dari kesedihan dan keresahan hati kita. Dan ternyata itu benar. Kesibukan yang kujalani sebagai layouter cukup menguras hati dan pikiran. Bayang-bayang sang pendamping hidup, serta bayang-bayang sang anak tidak terlalu sering menghantuiku; membuat air mata menetes di mataku.</p><p>Tak pernah kupikirkan siapa yang akan menggantikan pendamping hidupku di dunia ini. Yang aku pikirkan saat ini adalah bagaimana menjalani hidupku sebaik mungkin dan tidak larut dalam duka. Dan aku akan terus bertahan, terus menjalani hidupku, hingga nanti aku menyusul anak dan kekasihku di Sana.</p><p>Struktur Cerpen:</p><p></p><p>Abstraksi: Kesedihan masih mendera diriku. Setelah ditinggal pergi pendamping hidupku, kini anakku satu-satunya juga telah tiada. Hujan air mata tentu saja menetes di sini; di mataku.</p><p></p><p>Orientasi: latar suasana: sedih, latar waktu: kini, serta 40 hari setelah si pendamping hidup wafat dan 7 hari setelah sang anak wafat.</p><p></p><p>Komplikasi: sang tokoh sedih karena ditinggal mati sang anak padahal sebelumnya telah ditinggal pendamping hidupnya, sang tokoh mulai menghilangkan rasa sedihnya dengan terus menjalani hidup dan menyibukkan diri, dan sang tokoh pun memutuskan untuk tetap bertahan hidup dan tidak mencari pendamping hidup yang baru.</p><p></p><p>Evaluasi: pengenalan konflik sudah ada sejak di paragraf awal, yakni saat sang tokoh kehilangan anak tercintanya, padahal sebelumnya dia telah ditinggalkan sang pendamping hidup. Alur cerita semakin berlanjut, dan si tokoh ini pun mulai mencoba lebih tegar dalam menjalani hidup dan kedukaan yang dia rasakan. DI akhir cerita, si tokoh pun menentukan sikap hidupnya terhadap apa yang dia alami.</p><p></p><p>Resolusi: si tokoh memutuskan untuk menjalani hidupnya dan mulai menyibukkan diri dengan bekerja sebagai layouter. Selain itu, si tokoh memutuskan untuk tidak mencari pendamping hidup lagi. Hal ini bisa dilihat pada kalimat-kalimat yang ada di paragraf akhir.</p><p></p><p>Koda: pesan yang hendak disampaikan pada cerpen tersebut adalah bahwa kita harus tetap tegar dalam mejalani hidup meski ditimpa kesedihan yang mendalam. Selain itu, cerpen di atas juga mengajarkan kita untuk tidak menyalahkan Tuhan saat terpuruk, dan tetap setia kepada pasangan hidup kita.</p><p></p><p></p><p></p><p></p><p>maaf kalau salah </p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="struktur-bagian-cerpen-penjelasan-tentang-cerpen">
+                            32. struktur bagian cerpen !
+penjelasan tentang cerpen!</h2><br />
+                        Struktur cerpen abstrak ,orientasi,komplikasi,evaluaso,resolusi dankoda orientasi, komplikasi , evaluasi, resolusi, koda<br /><br />maaf kalau salah <br />
+                                            <h2 class="ez-toc-section" id="apa-struktur-dari-cerpen">
+                            33. apa struktur dari cerpen</h2><br />
+                        1. abstrak<br />2. orientasi<br />3. komplikasi<br />4. evaluasi<br />5. resolusi<br />6. koda<br /><br />semoga membantu yah...<br />Abstrak<br />Orientasi<br />Komplikasi<br />Evaluasi<br />Resolusi<br />Dan koda<br />
+                                            <h2 class="ez-toc-section" id="apakah-struktur-dari-cerpen">
+                            34. apakah struktur dari cerpen?</h2><br />
+                        ceritanya harus pendekAbstrak
+Orientasi
+Komplikasi<br />
+                                            <h2 class="ez-toc-section" id="pengertian-struktur-cerpen-dan-kaidah-cerpen">
+                            35. pengertian struktur cerpen dan kaidah cerpen?</h2><br />
+                        Struktur teks cerpen dintaranya ada 6 (enam) bagian yaitu:<br /><br />1.Abstrak – merupakan ringkasan ataupun inti dari cerita yang akan dikembangkan menjadi rangkaian-rangkaian peristiwa atau bisa juga gambaran awal dalam cerita. Abstrak bersifat opsional yang artinya sebuah teks cerpen boleh tidak memakai abstrak.<br />2.Orientasi – adalah yang berkaitan dengan waktu, suasana, maupun tempat yang berkaitan dengan cerpen tersebut.<br />3.Komplikasi – Ini berisi urutan kejadian-kejadian yang dihubungkan secara sebab dan akibat, pada struktur ini kamu bisa mendapatkan karakter ataupun watak dari tokoh cerita sebab kerumitan mulai bermunculan.<br />4.Evaluasi – Yaitu struktur konflik yang terjadi yang mengarah pada klimaks mulai mendapatkan penyelesainya dari konflik tersebut.<br />5.Resolusi – Pada struktur bagian ini si pengarang mengungkapkan solusi yang dialami tokoh atau pelaku.<br />6.Koda – Ini merupakan nilai ataupun pelajaran yang dapat diambil dari suatu teks ceriita oleh pembacanya.<br />
+                                            <h2 class="ez-toc-section" id="mengidentifikasi-struktur-cerpen-isi-cerpen-dan-tentang">
+                            36. Mengidentifikasi struktur cerpen isi cerpen dan tentang</h2><br />
+                        struktur cerpen<br />1.abstrak<br />2.orientasi<br />3.komplikasi<br />4.evaluasi<br />5.resolusi<br />6.koda(boleh ada atau tidak)<br /><br />isi cerpen menceritakan tentang khayalan/fiksi<br />
+                                            <h2 class="ez-toc-section" id="apa-struktur-dari-cerpen-%e2%80%8b">
+                            37. apa struktur dari cerpen? ​</h2><br />
+                        <p>Struktur Cerpen :</p><p></p><p>- Judul = Isi dari seluruh cerita</p><p>- Orientasi = pengenalan tokoh</p><p>- Komplikasi = isi atau munculnya konflik</p><p>- Resolusi = Jalan keluar</p><p>- Penyelesaian = Akhir cerita</p><p></p><p>mohon maaf jika ada kesalahan.</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-cerpen-beserta-struktur-cerpennya">
+                            38. contoh cerpen beserta struktur cerpennya</h2><br />
+                         Gelisah dalam penantian, resah yang mengganggu jiwa, dan khawatir yang menggerogoti hati, kini telah diusir pergi oleh pelukan cowok berperawakan tinggi, putih, dengan rambut tertata rapi dan hidung mancung serta kemeja putih dan jas warna hitam yang ia kenakan bak pangeran harry yang gagah dan juga menawan.<br /> Larut dalam kebahagiaan tak menyadarkan ku bahwa matahari mulai bersembunyi di ufuk barat, pancaran cahayanya mulai tak pijar dan redup.<br />Sekali lagi aku bertanya kepada Abel yang saat ini memelukku,<br />“oh, benarkah ini semua… Atau ini hanya ilusi ku saja”<br />Perlahan cowok tampan bernama Abel itu melepaskan pulukannya dan kemudian menatapku dalam dalam, pancaran sinar matanya begitu kuat membuat siapa saja yang ditatapnya akan merasakan hawa kedamaian. Emtah malaikat mana yang berdiam diri di mata Abel, yang jelas sorot matanya begitu indah, bahkan lebih indah dari beribu mata bidadari bidadari surga. Betapa beruntungnya aku.. Meluluhkan hatinya yang keras.<br />Dengan lembut Abel menggenggam kedua tanganku<br />“Gita sayang, ilusimu itu sudah jadi kenyataan sekarang, lihatlah cincin yang singgah di masing masing jari manis kita, serta 2 buah kitab kecil satu untukku dan satu lagi untukmu, lihat juga orang orang di sekeliling kita, mereka semua di sini untuk kita untuk menghadiri sebuah ritual suci yang dipimpin oleh seorang penghulu, satu lagi Gita ku sayang pesta kecil ini telah kita rancang dengan susah payah dengan segala macam rintangan”.Lalu Abel mengembangkan senyum menawannya yang begitu manis namun penuh harapan.<br />Air mataku tak tertahankan ketika semua orang bersorak sorai mengiringi alunan kebahagiaan yang baru beberapa menit yang lalu disahkan oleh penghulu.<br />Air mata bercampur haru membentuk sebuah harapan akan keharmonisan rumah tanggaku dengan pangeran pujaan ku Abel.<br />Dan untuk kesekian kalinya Abel memelukku kembali.<br />strukturnya = (abstrak, orientasi, komplikasi, evaluasi, resolusi, koda)Kisah Seekor Keledai<br />Orientasi Seorang pedagang menuntun keledainya untuk melewati sebuah sungai<br />yang dangkal. Selama ini mereka telah melalui sungai tersebut tanpa<br />pernah mengalami satu pun kecelakaan, tetapi keledainya tergelincir<br />dan jatuh ketika mereka berada tepat di tengah-tengah sungai tersebut.<br />Ketika pedagang tersebut akhirnya berhasil membawa keledainya beserta<br />muatannya ke pinggir sungai dengan selamat, kebanyakan dari garam<br />yang dimuat oleh keledai telah meleleh dan larut ke dalam air sungai.<br />Keledai merasakan muatannya telah berkurang sehingga beban yang<br />dibawa menjadi lebih ringan. Hal itu membuat keledai merasa sangat<br />gembira ketika mereka melanjutkan perjalanan.<br />Pada hari berikutnya, pedagang kembali membawa muatan garam.<br />Keledai yang mengingat pengalamannya kemarin saat tergelincir di<br />tengah sungai itu, dengan sengaja membiarkan dirinya tergelincir jatuh ke<br />dalam air. Akhirnya dia bisa mengurangi bebannya kembali dengan cara<br />itu.<br />Komplikasi Pedagang yang merasa marah, kemudian membawa keledainya tersebut<br />kembali ke pasar. Keledai tersebut di muati dengan keranjang-keranjang<br />yang sangat besar dan berisikan spons. Ketika mereka kembali tiba di<br />tengah sungai, keledai kembali dengan sengaja menjatuhkan diri. Namun,<br />saat pedagang tersebut membawanya ke pinggir sungai, keledai menjadi<br />sangat tidak nyaman karena harus dengan terpaksa menyeret dirinya<br />pulang ke rumah dengan beban yang sepuluh kali lipat lebih berat dari<br />sebelumnya. Spons yang dimuatnya menyerap air sungai dan menambah<br />berat beban.<br />Resolusi Tidak setiap cara dapat dilakukan pada situasi atau kondisi yang sama.<br />Keledai menerapkan cara di setiap kondisi. Pada akhirnya, hal itu membuat<br />keadaannya tidak seperti yang diinginkannya.<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="apa-saja-struktur-cerpen">
+                            39. apa saja struktur cerpen</h2><br />
+                        Orientasi, komplikasi, resolusi.<br />
+                                            <h2 class="ez-toc-section" id="apa-saja-struktur-cerpen">
+                            40. apa saja struktur cerpen ?</h2><br />
+                        evoluasi , gaya bahsa , orientasi<br />komplikasi<br />resolusi<br />koda<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/KQi9GN2PQR8?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_indonesia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jenis-tari-piring/">Jenis Tari Piring</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nama-pekerjaan-tindakan-ekonomi-motif-ekonomi-karakter-yang-diharapkan/">Nama Pekerjaan Tindakan Ekonomi Motif Ekonomi Karakter Yang Diharapkan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tekanan-hidrostatis-pada-benda-x-dan-y-adalah/">Tekanan Hidrostatis Pada Benda X Dan Y Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/untu-bahasa-kramane/">Untu Bahasa Kramane</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-adalah-ruang-lingkup-perdagangan-internasional-kecuali/">Berikut Adalah Ruang Lingkup Perdagangan Internasional Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pidato-tentang-pubertas/">Pidato Tentang Pubertas</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pada-bagian-atas-sebuah-peta-kita-dapat-mengetahui/">Pada Bagian Atas Sebuah Peta Kita Dapat Mengetahui</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-gambaran-barang-tradisional-koleksi-di-topeng/">Bagaimana Gambaran Barang Tradisional Koleksi Di Topeng</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/100gr-berapa-kg/">100gr Berapa Kg</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/x-25-0/">X 25 0</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perhatikan-gambar-di-samping-besar-nilai-x-adalah/">Perhatikan Gambar Di Samping Besar Nilai X Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sankyu-artinya/">Sankyu Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/atmosfer-adalah/">Atmosfer Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ayo-kita-berlatih-1-5-matematika-kelas-8/">Ayo Kita Berlatih 1 5 Matematika Kelas 8</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/griling/">Griling</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kegiatan-mengapresiasi-tari-mancanegara-dilakukan-melalui/">Kegiatan Mengapresiasi Tari Mancanegara Dilakukan Melalui</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tangga-nada-yang-memiliki-5-buah-nada-adalah-tangga-nada/">Tangga Nada Yang Memiliki 5 Buah Nada Adalah Tangga Nada</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/banyak-sisi-pada-tabung-adalah/">Banyak Sisi Pada Tabung Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/larutan-natrium-hidroksida-mempunyai-derajat-ionisasi-1-artinya/">Larutan Natrium Hidroksida Mempunyai Derajat Ionisasi 1 Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perkalian-9/">Perkalian 9</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

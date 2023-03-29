@@ -1,0 +1,1381 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Rumus Luas Permukaan Persegi Panjang - BELAJAR</title>
+    <meta name="description" content="Rumus Luas Permukaan Persegi Panjang, , , , , , , 0, Belemak Menghitung Luas Dan Keliling Segi Empat Menggunakan Python, mobillegends.net, 997 x 523, jpeg, , 20, rumus-luas-permukaan-persegi-panjang, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Rumus Luas Permukaan Persegi Panjang - BELAJAR" />
+    <meta property="og:description" content="Rumus Luas Permukaan Persegi Panjang, , , , , , , 0, Belemak Menghitung Luas Dan Keliling Segi Empat Menggunakan Python, mobillegends.net, 997 x 523, jpeg, , 20, rumus-luas-permukaan-persegi-panjang, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Rumus Luas Permukaan Persegi Panjang - BELAJAR" />
+    <meta name="twitter:description" content="Rumus Luas Permukaan Persegi Panjang, , , , , , , 0, Belemak Menghitung Luas Dan Keliling Segi Empat Menggunakan Python, mobillegends.net, 997 x 523, jpeg, , 20, rumus-luas-permukaan-persegi-panjang, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Rumus Luas Permukaan Persegi Panjang</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">DxDark</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Rumus+Luas+Permukaan+Persegi+Panjang" alt="Rumus Luas Permukaan Persegi Panjang">
+                    </div>
+                    <p></p>
+                    <p>apa rumus luas permukaan persegi panjang dan persegi​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-rumus-luas-permukaan-persegi-panjang-dan-persegi%e2%80%8b">1.
+                                            apa rumus luas permukaan persegi panjang dan persegi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-persegi-panjang-dan-persegi%e2%80%8b">2.
+                                            rumus luas permukaan persegi panjang dan persegi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-persegi-panjang">3.
+                                            rumus luas permukaan persegi panjang ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jumlah-luas-persegi-panjang-dan-luas-seluruh-sisi-tegak-adalah-rumus-luas-permukaan-%e2%80%8b">4.
+                                            jumlah luas persegi panjang dan luas seluruh Sisi tegak adalah rumus luas permukaan ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-balok-dan-persegi-panjang-apakah-sama-dan-sebutkan-rumus-nya%e2%80%8b">5.
+                                            rumus luas permukaan balok dan persegi panjang Apakah sama dan sebutkan rumus nya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-untuk-mencari-luas-permukaan-persegi-panjang%e2%80%8b">6.
+                                            rumus untuk mencari luas permukaan persegi panjang​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-rumus-luaskelilingvolume-dan-luas-permukaan-dari-bagun-persegipersegi-panjang-prisma-lingkaran">7.
+                                            Apa Rumus Luas,keliling,Volume dan Luas permukaan dari bagun ,Persegi,persegi panjang, prisma ,lingkaran</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-limas-persegi-panjang-dengan-p-32-l-18-t-12berapa-luas-permukaannya">8.
+                                            Rumus Limas persegi panjang dengan P 32 L 18 T 12
+Berapa luas permukaannya???</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tulislah-rumus-luas-permukaan-limas-persegi-panjang">9.
+                                            Tulislah rumus luas permukaan limas persegi panjang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-limas-persegi-panjang">10.
+                                            Rumus luas permukaan limas persegi panjang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-rumus-volume-dan-luas-permukaan-limas-segiempat-segitiga-jajargenjang-persegi-panjang-dan-belah-ketupat">11.
+                                            ***apa rumus volume dan luas permukaan= limas segiempat, segitiga, jajargenjang, persegi panjang dan belah ketupat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-bangun-persegi-panjang">12.
+                                            rumus luas permukaan bangun persegi panjang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#saatnya-quizzzz1-rumus-luas-persegi2-rumus-luas-trapesium3-rumus-keliling-persegi-panjang4-rumus-luas-permukaan-balokjawab-dengan-benarno-asal-no-copas-%e2%80%8b">13.
+                                            SAATNYA QUIZZZZ1. Rumus Luas Persegi2. Rumus Luas Trapesium3. Rumus Keliling Persegi Panjang4. Rumus Luas Permukaan BalokJAWAB DENGAN BENARNO ASAL , NO COPAS !​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#quis-1-rumus-luas-permukaan-persegi-panjang2-rumus-luas-permukaan-bola3-rumus-volume-limas4-rumus-volume-kerucutnt-dulu-mencintai-sekarang-membenci-%e2%80%8b">14.
+                                             quis 1. rumus luas permukaan persegi panjang2. rumus luas permukaan bola3. rumus volume Limas4. rumus volume kerucutNT =&gt; dulu mencintai sekarang membenci ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-lingkaranpersegi-panjang">15.
+                                            rumus luas permukaan lingkaran,persegi panjang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-persegi-panjang-dan-kubus">16.
+                                            Rumus luas permukaan persegi panjang dan kubus</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-limas-persegi-panjang-sisi-10-cm-dan-tinggi-12-cm%e2%80%8b">17.
+                                            rumus luas permukaan limas persegi panjang sisi 10 cm dan tinggi 12 cm​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-limas-jika-alasnya-persegi-panjang%e2%80%8b">18.
+                                            rumus luas permukaan limas jika alasnya persegi panjang​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jumlah-luas-persegi-panjang-dan-luas-seluruh-sisi-tegak-adalah-rumus-luas-permukaan%e2%80%8b">19.
+                                            Jumlah luas persegi panjang dan luas seluruh sisi tegak adalah rumus luas permukaan?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-mencari-luas-permukaan-persegi-panjang">20.
+                                            Rumus mencari luas permukaan persegi panjang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kak-rumus-luas-permukaan-persegi-panjang-apa-%e2%80%8b">21.
+                                            Kak rumus luas permukaan persegi panjang apa? ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#carilah-luas-permukaansegitiga-dan-persegi-panjang-segitiga-abc-defpersegi-panjangabedbcfe-acfdrumusnya-%e2%80%8b">22.
+                                            carilah luas permukaan:segitiga dan persegi panjang SEGITIGA =ABC, DEFPERSEGI PANJANG=ABED,BCFE, ACFDRumusnya :​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-persegi-panjang-luas-permukaan-dan-volumenya">23.
+                                            Rumus persegi panjang luas permukaan dan volumenya!!!!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-rumus-volume-dan-luas-permukaan-limas-segiempat-segitiga-jajargenjang-persegi-panjang-dan-belah-ketupat">24.
+                                            apa rumus volume dan luas permukaan= limas segiempat, segitiga, jajargenjang, persegi panjang dan belah ketupat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-mencari-luas-permukaan-prisma-persegi-panjang">25.
+                                            Rumus Mencari Luas permukaan prisma persegi panjang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-persegi-panjang-%e2%80%8b">26.
+                                            Rumus luas permukaan persegi panjang ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-prisma-segi-empat-jika-diketahui-panjang-rusuknya%e2%80%8b">27.
+                                            rumus luas permukaan prisma segi empat jika diketahui panjang rusuknya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-rumus-luas-permukaan-limas-persegi-panjang">28.
+                                            Apa rumus luas permukaan limas persegi panjang ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-limas-persegi-panjang">29.
+                                            rumus luas permukaan limas persegi panjang?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-rumus-volume-dan-luas-permukaan-limas-segiempat-segitiga-jajargenjang-persegi-panjang-dan-belah-ketupat">30.
+                                            apa rumus volume dan luas permukaan= limas segiempat, segitiga, jajargenjang, persegi panjang dan belah ketupat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-rumus-volume-dan-luas-permukaan-limas-segiempat-segitiga-jajargenjang-persegi-panjang-dan-belah-ketupat">31.
+                                            **apa rumus volume dan luas permukaan= limas segiempat, segitiga, jajargenjang, persegi panjang dan belah ketupat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-prisma-persegi-panjang">32.
+                                            rumus luas permukaan prisma persegi panjang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-volume-balok-adalahrumus-luas-persegi-panjang-adalahrumus-keliling-persegi-adalahrumus-luas-permukaan-tabung-adalahbntu-jwb-yaa-kk">33.
+                                            Rumus Volume Balok adalah?
+Rumus  Luas Persegi Panjang adalah?
+Rumus Keliling Persegi adalah?
+Rumus Luas Permukaan Tabung adalah?
+Bntu jwb yaa Kk</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-mencari-luas-permukaan-limas-dengan-alas-persegi-panjang">34.
+                                            rumus mencari luas permukaan limas dengan alas persegi panjang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-limas-persegi-panjang">35.
+                                            rumus luas permukaan limas persegi panjang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-rumus-mencari-volume-limas-segiempat-persegi-panjang-dan-luas-permukaannya2-rumus-mencari-volume-prisma-persegi-panjang-dan-luas-permukaannyatolong-dijawab-yabutuh-bgt">36.
+                                            1. rumus mencari volume limas segiempat {persegi panjang} dan luas permukaannya!2. rumus mencari volume prisma persegi panjang dan luas permukaannya!Tolong dijawab ya,butuh bgt:)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-dan-volume-limas-persegi-panjang">37.
+                                            Rumus luas permukaan dan volume limas persegi panjang </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#q-6-dri-10-%e2%80%a2%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e0%ae%9c%db%a9%db%9e%db%a9%e0%ae%9c%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e2%80%a26s%c2%b2rumus">38.
+                                            Q. [ 6 dri 10 ]•▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬•6s²Rumus tersebut merupakan Rumus ?A. Luas permukaan persegiB. Luas permukaan bolaC. Luas permukaan persegi panjangD. Luas permukaan tabung •▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬•​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-mencari-tinggi-prisma-alasnya-persegi-panjang-dan-jika-diketahui-luas-permukaan-prisma-adalah-___">39.
+                                            Rumus mencari tinggi prisma alasnya persegi panjang dan 
+Jika diketahui luas permukaan prisma adalah ___</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-rumus-luas-permukaan-persegi-panjang">40.
+                                            apa rumus Luas permukaan persegi panjang?</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="apa-rumus-luas-permukaan-persegi-panjang-dan-persegi%e2%80%8b">
+                            1. apa rumus luas permukaan persegi panjang dan persegi​</h2><br />
+                        <p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Persegi panjang = panjang kali lebar</p><p>Persegi = sisi kali sisi</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-persegi-panjang-dan-persegi%e2%80%8b">
+                            2. rumus luas permukaan persegi panjang dan persegi​</h2><br />
+                        rumus luas permukaan kubus =<br /><br />6 x s x s<br /><br />rumus luas permukaan balok =<br /><br />2 x (pxl + pxt + lxt)<br /><br />smg membantuu<br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-persegi-panjang">
+                            3. rumus luas permukaan persegi panjang ?</h2><br />
+                        Kelas : 4<br />Mapel : Matematika<br />Kategori : Keliling dan Luas Bangun Datar<br />Kata Kunci : luas, persegi panjang<br />Kode : 4.2.6 [Kelas 4 Matematika KTSP - Bab 6 - Keliling dan Luas Bangun Datar]<br /><br />Pembahasan :<br /><p>Persegi panjang adalah bangun segi empat memiliki dua pasang sisi sama
+panjang dan sejajar serta empat buah sudut sama besar dan siku-siku.</p>
+
+<p>Sifat-sifat persegi panjang, yaitu:<br />
+1. sisi-sisi berhadapan sama panjang dan sejajar<br />
+AB = DC, AB//DC dan AD = BC, AD//BC;<br />
+2. sudut-sudut sama besar dan siku-siku<br />∠DAB = ∠ABC = ∠BCD = ∠CDA = 90°;<br />
+3. memiliki dua buah simetri lipat atau sumbu simetri;<br />
+4. memiliki dua buah simetri putar;<br />
+5. menempati bingkainya dengan empat cara.</p>
+
+<p><br />
+Keliling persegi panjang adalah</p>
+
+<p>K = 2 x p + 2 x l</p>
+
+<p>= 2 x (p + l)</p>
+
+<p>dengan p merupakan panjang dan l merupakan lebar.</p>
+
+<p><br />
+Luas persegi panjang adalah</p>
+
+<p>L = p x l</p>
+
+dengan p merupakan panjang dan
+l merupakan lebar.<br /><br />Mari kita lihat soal tersebut.<br />Ralat Soal.<br />Rumus luas persegi panjang adalah...<br /><br />Jawab :<br />Luas persegi panjang adalah<br />L = p x l<br /><br />Soal lain untuk belajar : https://brainly.co.id/tugas/1240615<br /><br />Semangat!<br /><br />Stop Copy Paste!<br /><br />
+                                            <h2 class="ez-toc-section" id="jumlah-luas-persegi-panjang-dan-luas-seluruh-sisi-tegak-adalah-rumus-luas-permukaan-%e2%80%8b">
+                            4. jumlah luas persegi panjang dan luas seluruh Sisi tegak adalah rumus luas permukaan ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>balok </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jawaban nya dijamin bener sumpah</p><p>kerjain soal gw juga dongh</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-balok-dan-persegi-panjang-apakah-sama-dan-sebutkan-rumus-nya%e2%80%8b">
+                            5. rumus luas permukaan balok dan persegi panjang Apakah sama dan sebutkan rumus nya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Lp balok= 2 × (p x l) + (p x t +l x t)</p><p></p><p>L persegi panjang = panjang x lebar</p><p></p><p>Rumusnya beda karena balok adalah bangun ruang yg memiliki volume sedangkan persegi panjang adalah bangun datar </p><p></p><p><strong>#</strong><strong>s</strong><strong>e</strong><strong>m</strong><strong>o</strong><strong>g</strong><strong>a</strong><strong> </strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong>t</strong><strong>u</strong></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-untuk-mencari-luas-permukaan-persegi-panjang%e2%80%8b">
+                            6. rumus untuk mencari luas permukaan persegi panjang​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>Luas Permukaan Persegi panjang adalah <strong>Tidak ada.</strong></p><p><strong></strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong></strong></p><p>MENGAPA <strong>TIDAK ADA</strong><strong> </strong>???</p><p></p><p>      Persegi panjang adalah bangun datar 2 dimensi yang memiliki 2 pasang sisi dan 4 buah sudut yang semuanya berbentuk siku - siku. Dalam konsep bangun datar dan bangun ruang, Luas permukaan hanya berlaku kepada <strong>bangun ruang</strong> saja sehingga untuk bangun datar seperti persegi panjang ini hanya memiliki Rumus <strong>Luas </strong>dan Rumus <strong>Keliling, </strong>Berbeda dengan bangun datar, bangun ruang memiliki Rumus<strong> Luas Permukaan </strong>dan Rumus <strong>Volume.</strong> </p><p></p><p>Berikut adalah Rumus Luas pada Persegi Panjang</p><p><strong>P x L</strong> atau biasa di baca <strong>Panjang di kali Lebar, </strong>Lalu untuk Rumus mencari kelilingnya sendiri adalah 2P + 2L atau biasa di baca ( 2 di kali panjang + 2 di kali Lebar ). </p><p></p><p>Semoga membantu</p><p>Sekian, Terima kasih</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-rumus-luaskelilingvolume-dan-luas-permukaan-dari-bagun-persegipersegi-panjang-prisma-lingkaran">
+                            7. Apa Rumus Luas,keliling,Volume dan Luas permukaan dari bagun ,Persegi,persegi panjang, prisma ,lingkaran</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Rumus Persegi</p><p></p><p></p><p>Luas Persegi</p><p></p><p>L  =  s x s  =  s2</p><p></p><p>Keliling Persegi</p><p></p><p>K  =  4 x s</p><p></p><p>Keterangan :  s = panjang sisi </p><p></p><p>Rumus Persegi Panjang</p><p></p><p></p><p>Luas Persegi Panjang</p><p></p><p>L  =  p x l</p><p></p><p>Keliling Persegi Panjang</p><p></p><p>K = 2 x p + 2 x l  =  2 x ( p + L )</p><p></p><p>Keterangan :  p = panjang,  l = lebar</p><p></p><p>Rumus Segitiga</p><p></p><p></p><p>Luas Segitiga</p><p></p><p>L  = ½  x  a  x  t</p><p></p><p>Keliling segitiga</p><p></p><p>K = sisi a + sisi b + sisi c</p><p></p><p>Keterangan :</p><p></p><p>a = panjang sisi alas, t = tinggi, segitiga memiliki tiga sisi yakni a, b dan c</p><p>Rumus Jajar Genjang</p><p></p><p></p><p>Luas Jajar Genjang</p><p></p><p>L  =  a  x  t</p><p></p><p>Keliling Jajar Genjang</p><p></p><p>K = Sisi  +  Sisi  +  Sisi  +  Sisi = 2 ( p x q )</p><p></p><p>Keterangan : a = alas, t = tinggi</p><p></p><p>Rumus Trapesium</p><p></p><p></p><p>Luas Trapesium</p><p></p><p>L  =  ½  x  ( s1  +  s2 )  x  t</p><p></p><p>Keliling Trapesium</p><p></p><p>K = sisi  + sisi + sisi  + sisi</p><p></p><p>Keterangan :   s1 &amp; s2  =  sisi-sisi sejajar,  t = tinggi</p><p></p><p>Rumus Layang-layang</p><p></p><p></p><p>Luas Layang-Layang</p><p></p><p>L =  ½  x  d1 x d2</p><p></p><p>Keliling Layang-Layang</p><p></p><p>K = sisi  + sisi + sisi  + sisi</p><p></p><p>Keterangan : d1 = diagonal 1, d2 = diagonal 2</p><p></p><p>Rumus Belah Ketupat</p><p></p><p></p><p>Rumusnya sama dengan layang-layang</p><p></p><p>Luas Belah Ketupat</p><p></p><p>L =  ½  x  d1 x d2</p><p></p><p>Keliling Layang-Layang</p><p></p><p>K = sisi  + sisi + sisi  + sisi</p><p></p><p>Keterangan : d1 = diagonal 1, d2 = diagonal 2</p><p></p><p>Rumus Lingkaran</p><p></p><p></p><p>Luas Lingkaran</p><p></p><p>L = π  x r2</p><p></p><p>Keliling Lingkaran</p><p></p><p>K = 2 x π  x r</p><p></p><p>Keterangan : r = jari-jari, π = 22/7 atau 2,14</p><p></p><p><strong>Jawaban beserta penjelasan :</strong></p><p>[tex]\boxed{ Rumus² Bangun Persegi }[/tex]</p><p>❏ Luas :</p><p>L = s × s</p><p>❏ Keliling : </p><p>K = 4 × s</p><p>❏ Volume :</p><p>V = s × s × s</p><p>❏ Luas permukaan :</p><p>Lp = 6 × s²</p><p>__________________</p><p>[tex]\boxed{ Rumus² Bangun Persegi panjang }[/tex]</p><p>❏ Luas :</p><p>L = p × l</p><p>❏ Keliling :</p><p>K = 2 × (p+l)</p><p>❏ Volume :</p><p>V = p × l × t</p><p>❏ Luas permukaan :</p><p>Lp = 2 × (p.l + p.t + l.t)</p><p>__________________</p><p>[tex]\boxed{ Rumus² Bangun Prisma }[/tex]</p><p>❏ Luas :</p><p>L = 2 × [(alas × tinggi) : 2]</p><p>❏ Keliling :</p><p>K = 3s (s + s + s)</p><p>❏ Volume :</p><p>V = [(a × t) : 2] × t</p><p>❏ Luas permukaan :</p><p>Lp =  (2 × Luas alas)  + (Keliling alas × tinggi prisma)</p><p>__________________</p><p>[tex]\boxed{ Rumus² Bangun Lingkaran }[/tex]</p><p>❏ Luas :</p><p>L = π . r²</p><p>❏ Keliling :</p><p>K = 2.π.r</p><p>❏ Volume :</p><p>V = π × r² × t</p><p>❏Luas permukaan :</p><p>Lp = 2 × π × r × (r + t)</p><p>[tex]\:\:\boxed{\tt\red{\:semoga membantu\:}}[/tex]</p><p>#CMIIW</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-limas-persegi-panjang-dengan-p-32-l-18-t-12berapa-luas-permukaannya">
+                            8. Rumus Limas persegi panjang dengan P 32 L 18 T 12
+Berapa luas permukaannya???</h2><br />
+                        <p><strong>Jawaban</strong><strong> </strong><strong>:</strong></p><p></p><p><strong>Luas</strong><strong> </strong><strong>permukaan</strong><strong> </strong><strong>=</strong><strong> </strong></p><p><strong>[tex]2 \times  \frac{p \times l}{2 }  + 2 \times  \frac{l \times t}{2}  + p \times l \\  \\  = 2 \times  \frac{32 \times 12}{2}   + 2 \times  \frac{18 \times 12}{2}  + 32 \times 18 \\  = 2 \times 16 \times 12 + 2 \times 9 \times 12 + 32 \times 18 \\  = 384 + 236 + 576 \\  = 1196 \: cm \\ [/tex]</strong></p><br />
+                                            <h2 class="ez-toc-section" id="tulislah-rumus-luas-permukaan-limas-persegi-panjang">
+                            9. Tulislah rumus luas permukaan limas persegi panjang</h2><br />
+                        <p><strong>Jawaban:</strong></p>rumusnya L = p x l<p></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p>semoga membantu <br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-limas-persegi-panjang">
+                            10. Rumus luas permukaan limas persegi panjang</h2><br />
+                        Luas permukaan limas = luas alas + luas 4 sisi tegak<br /><br />Limas persegi panjang mempunyai 2 pasang sisi tegak yang sama<br />Luas permukaan limas persegi panjang<br />= Luas alas + (2 . Luas sisi tegak 1) + (2 . Luas sisi tegak 2)<br /><br />
+                                            <h2 class="ez-toc-section" id="apa-rumus-volume-dan-luas-permukaan-limas-segiempat-segitiga-jajargenjang-persegi-panjang-dan-belah-ketupat">
+                            11. ***apa rumus volume dan luas permukaan= limas segiempat, segitiga, jajargenjang, persegi panjang dan belah ketupat</h2><br />
+                        volume limas : 1/3 La. t<br />luas permukaan limas : La. jmlh Lsegitiga <br />segitiga,  jajargenjang,  persegi  panjang,  belah ketupat,  tidak mempunyai volume dan luas permukaan,  Karena mereka bangun datarrumus bangun datar dan bangun ruang <br /><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-bangun-persegi-panjang">
+                            12. rumus luas permukaan bangun persegi panjang</h2><br />
+                        L.Permukaan Balok, maksudnya?<br /><br />Luas Permukaan balok = 2 (pl + pt + lt)<br /><br />*p = panjang<br />*t = tinggi<br />*l = lebar<br /><br />#Semoga membantu :)Luas permukaan balok<br />(2xpxl) + (2xpxt) + (2xlxt)<br /><br />Luas persegi panjang<br />pxl<br /><br />Keterangan<br />p= panjang<br />l= lebar<br />t= tinggi<br />
+                                            <h2 class="ez-toc-section" id="saatnya-quizzzz1-rumus-luas-persegi2-rumus-luas-trapesium3-rumus-keliling-persegi-panjang4-rumus-luas-permukaan-balokjawab-dengan-benarno-asal-no-copas-%e2%80%8b">
+                            13. SAATNYA QUIZZZZ1. Rumus Luas Persegi2. Rumus Luas Trapesium3. Rumus Keliling Persegi Panjang4. Rumus Luas Permukaan BalokJAWAB DENGAN BENARNO ASAL , NO COPAS !​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. L = s x s</p><p>2. L = (a + b)/2 × t</p><p>3. K = 2(p + l)</p><p>4. L= 2(pxl)+2(pxt)+2(lxt)</p><p></p><p><strong>Rumus :</strong></p><p><strong>Rumus Luas Persegi : S² Atau S x S </strong></p><p><strong>Rumus Luas Trapesi : ½(b1+b2)t</strong></p><p><strong>Rumus Kell Persepa : 2 x (p + l) </strong></p><p><strong>Rumus Permu Balok : 2 x (pxl) + 2 x (pxt) + 2 x (lxt)</strong></p><p><strong>Mapel : Matematika</strong></p><p><strong>Kelas : 6</strong></p><p><strong>Kategori : Bangun Ruang</strong></p><br />
+                                            <h2 class="ez-toc-section" id="quis-1-rumus-luas-permukaan-persegi-panjang2-rumus-luas-permukaan-bola3-rumus-volume-limas4-rumus-volume-kerucutnt-dulu-mencintai-sekarang-membenci-%e2%80%8b">
+                            14.  quis 1. rumus luas permukaan persegi panjang2. rumus luas permukaan bola3. rumus volume Limas4. rumus volume kerucutNT =&gt; dulu mencintai sekarang membenci ​</h2><br />
+                        soal:<p>1.rumus luas permukaan persegi panjang?</p><p>2.rumus luas permukaan bola?</p><p>3.rumus volume limas?</p><p>4.rumus volume kerucut?</p><p></p>pembahasan dan jawaban:<p>1.keliling:2(p+l)</p><p> luas:p×l</p><p>2.luas permukaan=4×π×r²</p><p>3.Volume=1/3×luas alas×tinggi prisma arau p×l×t</p><p>4.Volume=1/3×πr²×t</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-lingkaranpersegi-panjang">
+                            15. rumus luas permukaan lingkaran,persegi panjang</h2><br />
+                        lingkrn ; pi kali r kuadrat<br /><br />persegi : p x lL lingkaran: pi(22/7 atau 3,14)xr kuadrat(jari-jari)<br />L persegi panjang: pxl <br /><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-persegi-panjang-dan-kubus">
+                            16. Rumus luas permukaan persegi panjang dan kubus</h2><br />
+                        Luas persegi panjang<br />= panjang x lebar<br /><br />Luas permukaan kubus <br />= 6 x rusuk x rusukLuas permukaan persegi panjang = P x L<br />Luas permukaan kubus = 6 x luas persegi<br />semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-limas-persegi-panjang-sisi-10-cm-dan-tinggi-12-cm%e2%80%8b">
+                            17. rumus luas permukaan limas persegi panjang sisi 10 cm dan tinggi 12 cm​</h2><br />
+                        <p>Tinggi sisi tegak</p><p>= √(12²+(10/2)²) = √(144+25) = √(169) = 13 cm</p><p></p><p>Luas Permukaan</p><p>= 10² + 2 x 10 x 13</p><p>= 100 + 260</p><p>= 360 cm²</p><p><strong>Jawaban:</strong></p><p>T.Sisi Tegak =</p><p>✓(12²+10:2²) = ✓(12²+5²) =</p><p></p><p>✓(144 + 25) = ✓169 = 13 Cm</p><p></p>T.sisi tegak = 13 Cm<p></p><p>L.Permukaan Limas</p><p>P x L + 2 x 1/2 x P x T.sisi Tegak</p><p></p><p>(10 x 10) + 2x1/2 x 10 x 13</p><p></p><p>100 + 130 = 230</p><p></p>Jawabannya adalah 230<p></p><p>maaf kalo salah</p><p>jadikan jawaban tercerdas ya</p><p>#gakmaksa</p><p>Jan lupa follow :</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-limas-jika-alasnya-persegi-panjang%e2%80%8b">
+                            18. rumus luas permukaan limas jika alasnya persegi panjang​</h2><br />
+                        <p> rumus volume umum limas = ¹/₃ x luas alas x tinggi limas, sehingga rumus volume limas berubah" berdasarkan bentuk alasnya.</p><p>Maaf kalo salah </p><p>Sebaiknya koreksi dlu ya kak</p><br />
+                                            <h2 class="ez-toc-section" id="jumlah-luas-persegi-panjang-dan-luas-seluruh-sisi-tegak-adalah-rumus-luas-permukaan%e2%80%8b">
+                            19. Jumlah luas persegi panjang dan luas seluruh sisi tegak adalah rumus luas permukaan?​</h2><br />
+                        <p>Jawab:</p><p></p><p>Penjelasan dengan langkah-langkah:</p><p>Luas permukaan balok</p><p>Karena balok memiliki 2 persegi panjang dan 4 sisi tegak</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-mencari-luas-permukaan-persegi-panjang">
+                            20. Rumus mencari luas permukaan persegi panjang</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Luas = 2 x ( p x l ) + 2 x ( p x t ) + 2 x ( l x t )</p><p><strong>Jawaban:</strong></p><p>p × l</p><p></p><p>ket : p = panjang</p><p>        l = lebar</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Persegi panjang merupakan sebuah bangunan 2 dimensi maka hanya memiliki panjang dan lebar, sehingga rumus menghitung luas persegi panjang yaitu p × l</p><br />
+                                            <h2 class="ez-toc-section" id="kak-rumus-luas-permukaan-persegi-panjang-apa-%e2%80%8b">
+                            21. Kak rumus luas permukaan persegi panjang apa? ​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>P × L × T ini rumus nya maaf kalau salah</p><p><strong>Jawaban:</strong></p><p>2 x (pxL+pxt + Lxt)</p><p></p><p>semoga membantu &gt;_&lt;</p><br />
+                                            <h2 class="ez-toc-section" id="carilah-luas-permukaansegitiga-dan-persegi-panjang-segitiga-abc-defpersegi-panjangabedbcfe-acfdrumusnya-%e2%80%8b">
+                            22. carilah luas permukaan:segitiga dan persegi panjang SEGITIGA =ABC, DEFPERSEGI PANJANG=ABED,BCFE, ACFDRumusnya :​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>(2×luas alas)+(keliling alas×tinggi)</p><p>(2×(a×t÷2))+((a+b+c)×(tinggi)</p><p>(2×(18×20÷2))+((18+20+20)×30)</p><p>(2×180)+(58×30)</p><p>360+1.740=2.100</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-persegi-panjang-luas-permukaan-dan-volumenya">
+                            23. Rumus persegi panjang luas permukaan dan volumenya!!!!</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>selamat belajar</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>2 (pl+pt+lt )</p><p>V= p.l.t</p><p><strong>Jawaban:</strong></p>Mungkin maksudnya rumus luas permukaan dan volume pada <strong>balok</strong><strong>.</strong><strong> </strong><p></p><p>Keterangan :</p><p>p = panjang</p><p>l = lebar</p><p>t = tinggi</p><p></p><p>Luas permukaan</p><p>2 × (p × l + p × t + l × t) </p><p></p><p>Volume</p><p>p × l × t</p><p></p><p>Contoh soal :</p><p>Diketahui pada bangun ruang balok memiliki panjang 3 cm, lebar 2 cm, dan tinggi 4 cm. Hitunglah volume dan luas permukaan balok! </p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p><p>Volume = p × l × t</p><p>Volume = 3 × 2 × 4</p><p>Volume = <strong>24</strong><strong> </strong><strong>cm3</strong></p><p></p><p>Luas permukaan = 2 × (p × l + p × t + l × t) </p><p>Luas permukaan = 2 × (3 × 2 + 3 × 4 + 2 × 4)</p><p>Luas permukaan = 2 × 26</p><p>Luas permukaan = <strong>52</strong><strong> </strong><strong>cm2</strong></p><br />
+                                            <h2 class="ez-toc-section" id="apa-rumus-volume-dan-luas-permukaan-limas-segiempat-segitiga-jajargenjang-persegi-panjang-dan-belah-ketupat">
+                            24. apa rumus volume dan luas permukaan= limas segiempat, segitiga, jajargenjang, persegi panjang dan belah ketupat</h2><br />
+                        v limas = 1/3 x Luas Alas x tinggi<br /><br /><br />Limas segi empat<br />V= 1/3 Luas alas persegi x tinggi<br />Luas permukaan= Luas persegi + 4 LSegitiga tegak<br /><br />Limas Segitiga sama sisi<br />V=1/3 Luas alas x tinggi<br />Luas permukaan= 1/4 s²√3+ Luas segitiga tegak<br /><br />Limas Persegi panjang<br />Luas permukaan= Luas persegi panjang+ 2 Lsegitiga+ 2 LSegitiga<br /><br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="rumus-mencari-luas-permukaan-prisma-persegi-panjang">
+                            25. Rumus Mencari Luas permukaan prisma persegi panjang</h2><br />
+                        <p>2LA (luas alas )+KA(keliling alas)×t</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-persegi-panjang-%e2%80%8b">
+                            26. Rumus luas permukaan persegi panjang ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> rumus: Keliling = 2 × (p + l) Luas = p × l</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>kaloo ga salah ituu</p><p>K = 2 × (p + ℓ)</p><p>L = p × ℓ </p><p>Lpermukaan = 2(p × ℓ + p × t + ℓ × t)</p><p></p><p>SEMOGA MEMBANTU :)</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-prisma-segi-empat-jika-diketahui-panjang-rusuknya%e2%80%8b">
+                            27. rumus luas permukaan prisma segi empat jika diketahui panjang rusuknya​</h2><br />
+                        <p>Panjang Rusuk x panjang rusuk x 6</p><p><strong>Penjelasan:</strong></p><p>Karena bentuk prisma segi 4 menyerupai sebuah kubus / kotak maka rumusnya hampir sama.</p><br />
+                                            <h2 class="ez-toc-section" id="apa-rumus-luas-permukaan-limas-persegi-panjang">
+                            28. Apa rumus luas permukaan limas persegi panjang ?</h2><br />
+                        lp= s²+jumlah luas sisi tegak<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-limas-persegi-panjang">
+                            29. rumus luas permukaan limas persegi panjang?</h2><br />
+                        L.permukaan limas=L.alas(L.persegi panjang...p x l)+L.sisi tegak limas<br />
+                                            <h2 class="ez-toc-section" id="apa-rumus-volume-dan-luas-permukaan-limas-segiempat-segitiga-jajargenjang-persegi-panjang-dan-belah-ketupat">
+                            30. apa rumus volume dan luas permukaan= limas segiempat, segitiga, jajargenjang, persegi panjang dan belah ketupat</h2><br />
+                        rumus volume limas segi empat adalah 1/3 × alas × tinggi <br />
+                                            <h2 class="ez-toc-section" id="apa-rumus-volume-dan-luas-permukaan-limas-segiempat-segitiga-jajargenjang-persegi-panjang-dan-belah-ketupat">
+                            31. **apa rumus volume dan luas permukaan= limas segiempat, segitiga, jajargenjang, persegi panjang dan belah ketupat</h2><br />
+                        rumus volume limas: ⅓ x luas alas x tinggi<br />rumus luas permukaan limas: luas alas + jumlah luas segitiga bidang tegak.volume limas segiempat=1/3×luas alas×t<br />                                         1/3×s×s×t<br /><br />volume limas segitiga=1/3×luas alas×t<br />                                     1/3×a×t÷2×t<br /><br />volume limas jajargenjang=1/3×luas alas×t<br />                                            1/3×a×t(jajargenjang)×t<br /><br />volume limas persegi panjang=1/3×luas alas×t<br />                                                  1/3×p×l×t<br /><br />volume limas belah ketupat=1/3×luas alas×t<br />                                              1/3×d1×d2÷2×t<br /><br />lp.limas segi empat=s×s+4×luas segitiga<br />maaf hanya tau segini doang.<br /><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-prisma-persegi-panjang">
+                            32. rumus luas permukaan prisma persegi panjang</h2><br />
+                        K = 2(p +l) <br />L.Alas = p x l <br />L = 2.luas alas + keliling alas.tinggi prisma2 x luas alas + kel alas + t prisma<br />
+                                            <h2 class="ez-toc-section" id="rumus-volume-balok-adalahrumus-luas-persegi-panjang-adalahrumus-keliling-persegi-adalahrumus-luas-permukaan-tabung-adalahbntu-jwb-yaa-kk">
+                            33. Rumus Volume Balok adalah?
+Rumus  Luas Persegi Panjang adalah?
+Rumus Keliling Persegi adalah?
+Rumus Luas Permukaan Tabung adalah?
+Bntu jwb yaa Kk</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Rumus Volume Balok</p><p><strong>P</strong><strong> </strong><strong>×</strong><strong> </strong><strong>L</strong><strong> </strong><strong>×</strong><strong> </strong><strong>T</strong><strong> </strong></p><p><strong>Panjang</strong><strong> </strong><strong>×</strong><strong> </strong><strong>Lebar</strong><strong> </strong><strong>×</strong><strong> </strong><strong>Tinggi</strong></p><p></p><p>Rumus Luas Persegi Panjang</p><p><strong>P</strong><strong> </strong><strong>×</strong><strong> </strong><strong>L</strong></p><p><strong>Panjang</strong><strong> </strong><strong>×</strong><strong> </strong><strong>Lebar</strong></p><p></p><p>Rumus Keliling Persegi</p><p><strong>S</strong><strong>⁴</strong><strong> </strong><strong>(</strong><strong>Sisi</strong><strong> </strong><strong>+</strong><strong> </strong><strong>Sisi</strong><strong> </strong><strong>+</strong><strong> </strong><strong>Sisi</strong><strong> </strong><strong>+</strong><strong> </strong><strong>Sisi</strong><strong>)</strong><strong> </strong><strong>/</strong><strong>/</strong><strong> </strong><strong>Sisi</strong><strong> </strong><strong>×</strong><strong> </strong><strong>4</strong></p><p></p><p>Rumus Luas Permukaan Tabung</p><p><strong>2 x luas </strong><strong>alas</strong><strong> </strong><strong>(</strong><strong>LA</strong><strong>)</strong><strong> </strong><strong>+ Luas selimut tabung. </strong></p><p><strong>Luas Permukaan Tabung = 2 (π r 2 )+ 2 π r t </strong></p><p><strong>= 2 π r ( r + t )</strong></p><p><strong>Jawaban:</strong></p><p>Rumus Volume Balok = p × l × t</p><p>Rumus Luas Persegi Panjang = p × l</p><p>Rumus Keliling Persegi = sisi × 4</p><p>Rumus Luas Pemukaan tabung = 2 x luas alas + Luas selimut tabung</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><strong>J</strong><strong>a</strong><strong>d</strong><strong>i</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>J</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>c</strong><strong>e</strong><strong>r</strong><strong>d</strong><strong>a</strong><strong>s</strong><p></p><strong>K</strong><strong>o</strong><strong>r</strong><strong>e</strong><strong>k</strong><strong>s</strong><strong>i</strong><strong> </strong><strong>K</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>u</strong><strong> </strong><strong>S</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>h</strong><br />
+                                            <h2 class="ez-toc-section" id="rumus-mencari-luas-permukaan-limas-dengan-alas-persegi-panjang">
+                            34. rumus mencari luas permukaan limas dengan alas persegi panjang</h2><br />
+                        L = luas alas + jumlah luas segitiga*<br /><br />* = luas segitiga sisi tegak1) Mencari Luas Segitiga #1 Dan #3 2(Axt/2) Atau AxT Pada segitiga Yang berhadapan<br />2)Mencari Luas Segitiga #2 Dan #4 Dengan AxT Pada segitiga Lain Yang Berhadapan <br />3)Mencari luas Persegi panjang Dengan Rumus : PxL <br />4) Jumlahkan Semua Luas Dan itulah Hasilnya<br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-limas-persegi-panjang">
+                            35. rumus luas permukaan limas persegi panjang</h2><br />
+                        Luas permukaan= Luas persegi panjang+ 2 Lsegitiga+ 2 LSegitiga<br />
+                                            <h2 class="ez-toc-section" id="1-rumus-mencari-volume-limas-segiempat-persegi-panjang-dan-luas-permukaannya2-rumus-mencari-volume-prisma-persegi-panjang-dan-luas-permukaannyatolong-dijawab-yabutuh-bgt">
+                            36. 1. rumus mencari volume limas segiempat {persegi panjang} dan luas permukaannya!2. rumus mencari volume prisma persegi panjang dan luas permukaannya!Tolong dijawab ya,butuh bgt:)</h2><br />
+                        1. V = ⅓ × La × t<br /><br />   La adalah luas alas dan t adalah tinggi<br /><br />    L permukaan = La + n × Lst<br /><br />   La adalah luas alas , n adalah bnykny sisi tegak dan Lst adalah luas sisi tegak limas<br /><br />2. V = La × t<br /><br />     La adalah luas alas dan t adalah tiggi<br /><br />        L permukaan = 2 × La + ( Ka × t )<br /><br /><br />      La adlh luas als,Ka adlh keliling alsdan t adlh tinggi<br /><br />moga mmbntu dn maaf klo slh<br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-dan-volume-limas-persegi-panjang">
+                            37. Rumus luas permukaan dan volume limas persegi panjang </h2><br />
+                        <p><strong>Jawaban:</strong></p><p>( p = 2 x(p x l + p x t + l x t) </p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>   keliling</p><p>( 2 x (p x l )</p><p></p><p>     luas</p><p>p x l</p><br />
+                                            <h2 class="ez-toc-section" id="q-6-dri-10-%e2%80%a2%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e0%ae%9c%db%a9%db%9e%db%a9%e0%ae%9c%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e2%96%ac%e2%80%a26s%c2%b2rumus">
+                            38. Q. [ 6 dri 10 ]•▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬•6s²Rumus tersebut merupakan Rumus ?A. Luas permukaan persegiB. Luas permukaan bolaC. Luas permukaan persegi panjangD. Luas permukaan tabung •▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬•​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>6s²</p><p></p><p>Rumus tersebut merupakan Rumus ?</p><p></p><p>A. Luas permukaan persegi</p><p>B. Luas permukaan bola</p><p>C. Luas permukaan persegi panjang</p><p>D. Luas permukaan tabung </p>Luas Permukaan KubusMisalnya<p>Sisi Kubus adalah 4 cm Maka Berapa Lpnya?</p><p>Lp = 6s²</p><p>Lp = 6 × 4²</p><p>Lp = 6 × 16</p><p>Lp = <strong>9</strong><strong>6</strong><strong> </strong><strong>cm²</strong></p><p>[tex]{ \boxed{ \tt \color{ff968a}{l} \color{f3b0c3}{u} \color{ffccb6}{v} \color{ffffb5}{v} \color{abdee6}{v} \color{fee1e8}{v} \color{ffc5bf}{v} \color{cce2cb}{i} \color{d4f0f0}{v} \color{a2e1db}{a} \color{ffdbcc}{a } \color{a2e1bd}{} \color{ffaea5}{}{\color{a2e1bd}{ \ddot \smile} }}}[/tex]</p><strong>J</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>=</strong><strong> </strong><strong> </strong><p>1..)</p><p>Rumus tidak ada opsi.</p><p></p><p>Sebab itu tidak ada rumus.</p><p></p><p>6 x s^2 = 6 x sisi x sisi = rumus kubus.</p><p></p><p>Sedangkan</p><p>Rumus Lp Persegi = 4 x sisi.</p><p>Rumus Lp persegi panjang = 2 x (p + l) .</p><p></p><p>Sampai dengan opsi yang lain.</p><p></p><p></p><p>Semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-mencari-tinggi-prisma-alasnya-persegi-panjang-dan-jika-diketahui-luas-permukaan-prisma-adalah-___">
+                            39. Rumus mencari tinggi prisma alasnya persegi panjang dan 
+Jika diketahui luas permukaan prisma adalah ___</h2><br />
+                        t = 2 x l x k : lp<br /><br />keterangan :<br />t = tinggi prisma<br />l = luas persegi panjang<br />k= keliling persegi panjang<br />lp= luas permukaan prisma<br />
+                                            <h2 class="ez-toc-section" id="apa-rumus-luas-permukaan-persegi-panjang">
+                            40. apa rumus Luas permukaan persegi panjang?</h2><br />
+                        <p><strong>Apa rumus Luas permukaan persegi panjang</strong>? Persegi panjang adalah bangun datar yang dibatasi oleh dua sisi yang sejajar dan sama panjang. Dua sisi yang sejajar tersebut kita namakan panjang dan lebar. Ukuran yang bisa dihitung pada bangun datar adalah luas daerah dan keliling. Sedangkan pada bangun ruang seperti prisma dan limas, ukuran yang bisa dihitung adalah volume dan luas permukaan.
+</p><br />Pembahasan
+<br /><p>Persegi panjang memiliki rumus:
+</p>Keliling = 2 × (p + l)
+Luas = p × l
+<p>dengan
+</p><p>p = panjang
+</p><p>l = lebar
+</p><p>Contoh
+</p><p><strong>Sebuah persegi panjang memiliki panjang 20 cm dan lebar 6 cm, maka luas persegi panjang tersebut adalah
+</strong></p><p>Jawab
+</p><p>Luas = panjang × lebar
+</p><p>Luas = 20 cm × 6 cm
+</p><p><strong>Luas = 120 cm²
+</strong></p><br /><br /><p>Jika maksud soal adalah prisma persegi panjang (balok), maka rumus
+</p><p><strong>Luas permukaan prisma persegi panjang (balok)
+</strong></p><p>Lp = 2 (p × l + p × t + l × t)
+</p><p>dengan
+</p><p>p = panjang
+</p><p>l = lebar
+</p><p>t = tinggi
+</p><p>Contoh
+</p><p><strong>Sebuah prisma dengan alas persegi panjang. Jika ukuran alasnya adalah 24 cm × 6 cm dan tinggi prisma adalah 5 cm, maka luas permukaan prisma tersebut adalah
+</strong></p><p>Jawab
+</p><p>p = 24 cm
+</p><p>l = 6 cm
+</p><p>t = 5 cm
+</p><p><strong>Luas permukaan prisma persegi panjang </strong>adalah
+</p><p>= 2 (p × l + p × t + l × t)
+</p><p>= 2 (24 cm × 6 cm + 24 cm × 5 cm + 6 cm × 5 cm)
+</p><p>= 2 (144 cm² + 120 cm² + 30 cm²)
+</p><p>= 2 (294 cm²)
+</p><p>= <strong>588 cm²
+</strong></p><br /><p>Jika maksud soal adalah limas persegi panjang, maka rumus
+</p><p><strong>Luas permukaan limas persegi panjang </strong>adalah
+</p><p>Lp = luas alas + (2 × luas segitiga 1) + (2 × luas segitiga 2)
+</p><p>dengan
+</p>luas alas = luas persegi panjang = p × l
+Luas segitiga = ½ × alas × tinggi
+Segitiga 1 adalah segitiga dengan alas = panjang persegi panjang
+Segitiga 2 adalah segitiga dengan alas = lebar persegi panjang
+<p>Contoh
+</p><p><strong>Sebuah limas dengan alas persegi panjang. Jika ukuran alasnya adalah 20 cm × 14 cm dan tinggi limas adalah 24 cm, maka luas permukaan limas tersebut adalah</strong>
+</p><p>Jawab
+</p><p>p = 20 cm
+</p><p>l = 14 cm
+</p><p>t = 24 cm
+</p><br /><p><strong>tinggi segitiga 1 dengan alas 20 cm</strong> adalah
+</p><p>t₁ = √(24² + (14/2)²)
+</p><p>t₁ = √(24² + 7²)
+</p><p>t₁ = √(576 + 49)
+</p><p>t₁ = √(625)
+</p><p>t₁ = 25
+</p><br /><p><strong>tinggi segitiga 1 dengan alas 14 cm</strong> adalah
+</p><p>t₂ = √(24² + (20/2)²)
+</p><p>t₂ = √(24² + 10²)
+</p><p>t₂ = √(576 + 100)
+</p><p>t₂ = √(676)
+</p><p><strong>t₂ = 26
+</strong></p><br /><p>Jadi <strong>luas permukaan limas persegi panjang</strong> adalah
+</p><p>= luas alas + (2 × luas segitiga 1) + (2 × luas segitiga 2)
+</p><p>= (20 cm × 14 cm) + (2 × ½ × 20 cm × 25 cm) + (2 × ½ × 14 cm × 26 cm)
+</p><p>= 280 cm² + 500 cm² + 364 cm²
+</p><p>= <strong>1.144 cm²
+</strong></p><br />Pelajari lebih lanjut  
+<br /><p>Contoh soal lain tentang diagonal persegi panjang
+</p><p>https://brainly.co.id/tugas/19736946
+</p><br /><p>------------------------------------------------
+</p><br />Detil Jawaban    
+<br /><p><strong>Kelas</strong> : 8
+</p><p><strong>Mapel</strong> : Matematika  </p><p><strong>Kategori </strong>: Bangun Ruang
+</p><p><strong>Kode</strong> : 8.2.8
+</p><br /><p><strong>Kata Kunci</strong> : Apa rumus Luas permukaan persegi panjang</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/DNimJuM4WKs?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>matematika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/innamal-mu-minuna-ikhwatun/">Innamal Mu Minuna Ikhwatun</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/wangsulan-artinya/">Wangsulan Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gradien-garis-yang-melalui/">Gradien Garis Yang Melalui</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-sesongan/">Contoh Sesongan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/verb-3-find/">Verb 3 Find</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kotor-dan-tercemar/">Kotor Dan Tercemar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-campuran-mempunyai-sifat-yang-berbeda-dengan-senyawa/">Mengapa Campuran Mempunyai Sifat Yang Berbeda Dengan Senyawa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/secara-umum-demokrasi-liberal-tidak-cocok-digunakan-bangsa-indonesia-karena/">Secara Umum Demokrasi Liberal Tidak Cocok Digunakan Bangsa Indonesia Karena</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pemes-adalah/">Pemes Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/akibat-membuang-sampah-sembarangan-brainly/">Akibat Membuang Sampah Sembarangan Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pandhusa/">Pandhusa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/71-jam-berapa-hari/">71 Jam Berapa Hari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-perbedaan-antara-prototipe-visual-dengan-fungsional/">Apa Perbedaan Antara Prototipe Visual Dengan Fungsional</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tuliskan-fungsi-hiasan-interior/">Tuliskan Fungsi Hiasan Interior</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/2x-1-9/">2x 1 9</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sugeng-rawuh/">Sugeng Rawuh</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jawaban-lks-bahasa-inggris-kelas-8-semester-2-kurikulum-2013/">Jawaban Lks Bahasa Inggris Kelas 8 Semester 2 Kurikulum 2013</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/peristiwa-sejarah-indonesia/">Peristiwa Sejarah Indonesia</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/molekul-senyawa/">Molekul Senyawa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-perbedaan-gambar-rancangan-dengan-gambar-kerja/">Apa Perbedaan Gambar Rancangan Dengan Gambar Kerja</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

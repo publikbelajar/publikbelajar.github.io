@@ -1,0 +1,1344 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Struktur Budaya - BELAJAR</title>
+    <meta name="description" content="Struktur Budaya, , , , , , , 0, Pengantar Saka Widya Budaya Bakti - SAKA WIDYA BUDAYA BAKTI, sakawidyabudayabakti.kwarcabsubang.or.id, 1600 x 884, jpeg, , 20, struktur-budaya, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Struktur Budaya - BELAJAR" />
+    <meta property="og:description" content="Struktur Budaya, , , , , , , 0, Pengantar Saka Widya Budaya Bakti - SAKA WIDYA BUDAYA BAKTI, sakawidyabudayabakti.kwarcabsubang.or.id, 1600 x 884, jpeg, , 20, struktur-budaya, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Struktur Budaya - BELAJAR" />
+    <meta name="twitter:description" content="Struktur Budaya, , , , , , , 0, Pengantar Saka Widya Budaya Bakti - SAKA WIDYA BUDAYA BAKTI, sakawidyabudayabakti.kwarcabsubang.or.id, 1600 x 884, jpeg, , 20, struktur-budaya, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Struktur Budaya</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">getsa51</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Struktur+Budaya" alt="Struktur Budaya">
+                    </div>
+                    <p></p>
+                    <p>pengertian seni budaya dan struktur-strukturnya​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pengertian-seni-budaya-dan-struktur-strukturnya%e2%80%8b">1.
+                                            pengertian seni budaya dan struktur-strukturnya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kebudayaan-khusus-dalam-sebuah-struktur-yang-tidak-bertentangan-dengan-kebudayaan-induk-adalah%e2%80%8b">2.
+                                            kebudayaan khusus dalam sebuah struktur yang tidak bertentangan dengan kebudayaan induk adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-struktur-kebudayaan">3.
+                                            sebutkan struktur kebudayaan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ciri-struktur-sosial-kebudayaan-berkaitan-dengan">4.
+                                            Ciri struktur sosial kebudayaan berkaitan dengan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-budaya-negara-timor-leste">5.
+                                            struktur budaya negara timor leste</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-pengembangan-budaya-dapat-mendorong-struktur-peristiwa%e2%80%8b">6.
+                                            Mengapa pengembangan budaya dapat mendorong struktur peristiwa​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-teks-eksplanasi-tentang-budaya-beserta-strukturnya">7.
+                                            Contoh teks eksplanasi Tentang budaya beserta strukturnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#teks-diskusi-tentang-kebudayaan-indonesia-apa-aja-termasuk-strukturnya">8.
+                                            teks diskusi tentang kebudayaan indonesia (apa aja) termasuk strukturnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-hubungan-antara-masalah-sosial-dengan-struktur-dan-unsur-kebudayaan%e2%80%8b">9.
+                                            apa hubungan antara masalah sosial dengan struktur dan unsur kebudayaan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#maksud-dari-budaya-dapat-mempengaruhi-struktur-ruang-desa-adalah-%e2%80%8b">10.
+                                            maksud dari "budaya dapat mempengaruhi struktur ruang desa" adalah ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-teks-deskripsi-budaya-dengan-struktur-nya%e2%80%8b">11.
+                                            contoh teks deskripsi budaya dengan struktur nya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tipe-budaya-politik-yang-memiliki-struktur-hirarki">12.
+                                            Tipe budaya politik yang memiliki struktur hirarki</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-konsep-struktur-sosial-dan-kebudayaan-indonesia">13.
+                                            Jelaskan konsep struktur sosial dan kebudayaan Indonesia</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-struktur-yang-bersifat-pemerintahan-politik-yang-berbeda-beda-dan-merupakan-suatu-kebudayaan-disebut-sistem">14.
+                                            struktur struktur yang bersifat pemerintahan politik yang berbeda beda dan merupakan suatu kebudayaan disebut sistem</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-struktur-sosial-dan-budaya-kerajaan-singasari">15.
+                                            Bagaimana struktur sosial dan budaya kerajaan singasari</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-budaya-politik-masyarakat-sangat-dipengaruhi-oleh-struktur-politik">16.
+                                            mengapa budaya politik masyarakat sangat dipengaruhi oleh struktur politik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-teks-deskripsi-berstruktur-dengan-tema-budaya-indonesia">17.
+                                            Contoh teks deskripsi berstruktur dengan tema budaya indonesia</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-globalisasi-budaya-dan-strukturnya%e2%80%8b">18.
+                                            jelaskan globalisasi budaya dan strukturnya?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-budaya-vietnam%e2%80%8b">19.
+                                            struktur budaya vietnam​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-bahwa-kegiatan-pertambangan-dapat-mengacaukan-struktur-sosial-budaya">20.
+                                            jelaskan bahwa kegiatan pertambangan dapat mengacaukan struktur sosial budaya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mana-yang-paling-penting-struktur-atau-budaya-sertakan-dengan-alasan">21.
+                                            mana yang paling penting,  struktur atau budaya?  sertakan dengan alasan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-budaya-politik-di-indonesia">22.
+                                            struktur budaya politik di Indonesia</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berilah-contoh-ceramah-di-bidang-kebudayaan-beserta-strukturnya">23.
+                                            berilah contoh ceramah di bidang kebudayaan beserta strukturnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-hubungan-struktur-sosial-dengan-kebudayaan-serta-contohnya">24.
+                                            Jelaskan hubungan struktur sosial dengan kebudayaan serta contohnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-peran-struktur-sosial-dalam-kebudayaan">25.
+                                            apa saja peran struktur sosial dalam kebudayaan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-peran-struktur-sosial-dalam-kebudayaan">26.
+                                            apa peran struktur sosial dalam kebudayaan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-struktur-dalam-seni-budaya%e2%80%8b">27.
+                                            apa itu struktur dalam seni budaya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-persuasi-tentang-sosial-budaya-%e2%80%8b">28.
+                                            struktur teks persuasi tentang sosial budaya ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tulislah-struktur-dalam-teks-budaya-nasional-semakin-tergerus-%e2%80%8b">29.
+                                            Tulislah struktur dalam teks, budaya nasional semakin tergerus.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-hasil-budaya-manusia-purba">30.
+                                            struktur hasil budaya manusia purba</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-struktur-fonemenal-budaya">31.
+                                            apa struktur fonemenal budaya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-hubungan-struktur-sosial-dengan-kebudayaan">32.
+                                            apa hubungan struktur sosial dengan kebudayaan?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#proses-moditifikasi-struktur-sosial-dan-pola-budaya-dalam-suatu-masyarakat-adalah">33.
+                                            Proses moditifikasi struktur sosial dan pola budaya dalam suatu masyarakat adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-hubungan-konseptual-antara-kebudayaan-dengan-struktur-sosial-keluarga">34.
+                                            apa hubungan konseptual antara kebudayaan dengan struktur sosial keluarga?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-perbedaan-antara-masyarakat-dengan-struktur-budaya">35.
+                                            Jelaskan perbedaan antara masyarakat dengan struktur budaya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#keseluruhan-struktur-struktur-sosial-dan-religi-yang-di-dalamnya-terkandung-pengetahuan-kepercayaan-kesenian-adat-istiadat-yang-ada-di-masyarakat-disebut-a-kesenian-budayab-keberagaman-budaya">36.
+                                            Keseluruhan struktur-struktur sosial dan religi yang di dalamnya terkandung pengetahuan, kepercayaan, kesenian, adat istiadat yang ada di masyarakat disebut.......A.Kesenian budayaB.keberagaman budayaC.Sosial budayaD.keselarasan budayatolong di jawab tks​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dampak-kolonialisme-terhadap-struktur-sosial-budaya-masyarakat-indonesia-adalah%e2%80%8b">37.
+                                            dampak kolonialisme terhadap struktur sosial budaya masyarakat Indonesia adalah?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-deskripsi-struktur-tentang-kebudayaan-indonesia">38.
+                                            contoh deskripsi struktur tentang kebudayaan indonesia</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-yang-dimaksud-struktur-sosial-budaya">39.
+                                            jelaskan yang dimaksud struktur sosial budaya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-struktur-masyarakat-bisa-mempengaruhi-system-sosial-budaya">40.
+                                            Mengapa struktur masyarakat bisa mempengaruhi system sosial budaya?</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="pengertian-seni-budaya-dan-struktur-strukturnya%e2%80%8b">
+                            1. pengertian seni budaya dan struktur-strukturnya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>seni budaya adalah kerajinan tangan yang dihasilkan manusia</p><br />
+                                            <h2 class="ez-toc-section" id="kebudayaan-khusus-dalam-sebuah-struktur-yang-tidak-bertentangan-dengan-kebudayaan-induk-adalah%e2%80%8b">
+                            2. kebudayaan khusus dalam sebuah struktur yang tidak bertentangan dengan kebudayaan induk adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Subculture</p><p><strong>Penjelasan:</strong></p><p>Subculture, merupakan kebudayaan khusus dalam sebuah culture, tetapi tidak bertentangan dengan kebudayaan induknya, contohnya budaya gotong royong.</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-struktur-kebudayaan">
+                            3. sebutkan struktur kebudayaan</h2><br />
+                        <p><strong>Struktur kebudayaan</strong> antara lain ialah sebagai berikut ini :</p>Gagasan atau wujud idealAktivitas atau tindakanArtefak atau hasil karyaPembahasan  <p><strong>Struktur</strong> dapat diartikan sebuah susunan yang membahas mengenai bagaimana terbentuknya suatu bangunan. Dalam kebudayaan, struktur ialah suatu hal yang selalu dikaitkan dengan sebuah wujud kebudayaan. Wujud kebudayaan dibagi menjadi tiga antara lain ialah kebudayaan yang berupa gagasan, aktivitas, dan artefak atau hasil karya.</p><strong>Gagasan atau wujud ideal </strong>: Wujud ideal kebudayaan ialah merupakan kebudayaan yang berbentuk kumpulan ide-ide, gagasan, nilai-nilai, norma-norma, peraturan, dan sebagainya yang sifatnya ialah abstrak atau tidak dapat diraba dan disentuh. Wujud dari kebudayaan ini ialah terletak dalam kepala-kepala atau di alam pemikiran warga masyarakat. Jika masyarakat tersebut menyatakan sebuah gagasan mereka itu ke dalam bentuk tulisan maka lokasi dari kebudayaan ideal itu berada dalam karangan dan buku-buku hasil karya para penulis warga masyarakat tersebut.<strong>Aktivitas atau tindakan</strong> : Aktivitas ialah merupakan wujud kebudayaan yang dilakukan sebagai suatu tindakan berpola dari manusia dalam masyarakat itu sendiri.  Wujud ini sering juga disebut sebagai sistem sosial. Sistem sosial inilah yang biasanya terdiri dari berbagai aktivitas-aktivitas manusia yang saling berinteraksi, mengadakan kontak, serta bergaul dengan manusia-manusia yang lainnya menurut pola-pola tertentu yang berdasarkan adat tata kelakuan. Sifatnya konkret, yaitu terjadi dalam kehidupan sehari-hari dan dapat diamati dan didokumentasikan.<strong>Artefak atau hasil karya</strong> : Artefak ialah merupakan wujud kebudayaan fisik yang berupa hasil dari aktivitas, perbuatan, dan karya semua manusia-manusia dalam masyarakat yang berupa benda-benda atau hal-hal yang dapat diraba, dilihat dan didokumentasikan. Sifatnya paling konkret diantara diantara ketiga wujud kebudayaan tersebut. Dalam kenyataan kehidupan bermasyarakat, antara wujud kebudayaan yang satu tidak bisa dipisahkan dengan wujud kebudayaan yang lainnya. Sebagai contoh wujud kebudayaan ideal yang mengatur dan memberi arah kepada tindakan atau aktivitas dan karya artefak manusia.<p>Selain dari pembagian tersebut terdapat klasifikasi lain. Klasifikasi tersebut membagi kebudayaan dalam kebudayaan materiil dan kebudayaan nonmateriil.</p><strong>Kebudayaan material</strong> : Kebudayaan material mengacu kepada semua ciptaan masyarakat yang nyata dan konkret. Termasuk dalam kebudayaan material ini ialah temuan-temuan yang dihasilkan dari suatu penggalian arkeologi, seperti mangkuk tanah liat, perhiasan, senjata dan seterusnya. Kebudayaan material juga mencangkup barang-barang, seperti televisi, pesawat terbang, stadion olahraga, pakai, gedung pencakar langit, dan mesin cuci.<strong>Kebudayaan non-material</strong> : Kebudayaan non-material ialah merupakan ciptaan-ciptaan abstrak yang diwariskan dari setiap generasi ke generasi, misalnya berupa dongeng, cerita rakyat, dan lagu atau tarian tradisional.<p></p> Pelajari lebih lanjut
+<p>1. Materi tentang  struktur hasil budaya manusia purba https://brainly.co.id/tugas/1602975</p><p>2. Materi tentang  apa hubungan konseptual antara kebudayaan dengan struktur sosial keluarga https://brainly.co.id/tugas/13094549</p><p>3. Materi tentang proses moditifikasi struktur sosial dan pola budaya dalam suatu masyarakat adalah  https://brainly.co.id/tugas/15470746</p><p>-----------------------------
+</p><p>  </p>Detil jawaban
+<p><strong>Kelas</strong>:  11</p><p><strong>Mapel</strong>:  Sosiologi</p><p><strong>Bab</strong>:  Bab 5 - Kebudayaan dan Multikulturalisme</p><p><strong>Kode</strong>:  11.20.5</p><p>
+</p><p><strong>Kata Kunci</strong>:  kebudayaan, struktur kebudayaan, multikulturalisme</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="ciri-struktur-sosial-kebudayaan-berkaitan-dengan">
+                            4. Ciri struktur sosial kebudayaan berkaitan dengan</h2><br />
+                        berkaitan dengan adat istiadat masyarakat sekitarnya<br />
+                                            <h2 class="ez-toc-section" id="struktur-budaya-negara-timor-leste">
+                            5. struktur budaya negara timor leste</h2><br />
+                        . Sistem Budaya<br />Pada zaman dahulu orang Timor membangun desanya di tempat-tempat yang tidak mudah didatangi orang karena takut serangan musuh secara mendadak. Biasanya desa – desa dibangun di atas puncak – puncak gunung karang yang dikelilingin dengan dinding batu atau semak berduri. <br />Rumah asli orang Timor di pedesaan berbentuk seperti sarang lebah, dengan atapnya yang hampir mencapai tanah. Rumah biasanya didiami oleh keluarga batih dan di situ mereka makan, tidur, bekerja dan menerima tamu. Rumah juga merupakan tempat para wanita bekerja yaitu mencuci, memasak dan menyimpan hasil ladang mereka. Di samping itu rumah juga merupakan tempat untuk menjalankan upacara keagamaan asli yang bertalian dengan klan mereka.<br /><br />• Kebudayaan Fisik :<br />Bahasa<br />Suku Timor terdiri dari beberapa sub suku yang yang antara lain:<br />Orang Rote, Orang Helon, Orang Belu, Orang Helon, Orang Atoni, Orang Kemak, Orang Buna’, Orang Marae dan Orang Kupang <br />dengan bahasa yang berbeda.<br /><br />Maaf kalau salah ya^^<br />
+                                            <h2 class="ez-toc-section" id="mengapa-pengembangan-budaya-dapat-mendorong-struktur-peristiwa%e2%80%8b">
+                            6. Mengapa pengembangan budaya dapat mendorong struktur peristiwa​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Karena budaya mampu menjadi daya tarik bagi para wisatawan dan budaya dapat menjadi identitas dari pariwisata.</p><p></p><p><strong>Semoga </strong><strong>membantu </strong></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-teks-eksplanasi-tentang-budaya-beserta-strukturnya">
+                            7. Contoh teks eksplanasi Tentang budaya beserta strukturnya</h2><br />
+                        Indonesia merupakan bangsa yang kaya akan budaya. Kita sebagai warga 
+harus prihatin bahwa orang Indonesia tidak dapat memegang erat budayanya
+ dari genggamannya. Meskipun budaya kita adalah budaya yang non-modern, 
+kita harus melestarikannya dan memberitahukan kepada bangsa lain. 
+Kebudayaan Indonesia mulai tersisihkan oleh kebudayaan yang datang dari 
+Barat. Sehingga Budaya Indonesia banyak yang diakui oleh negara lain.<br /><br />*SEMOGA MEMBANTU*<br /><br />
+                                            <h2 class="ez-toc-section" id="teks-diskusi-tentang-kebudayaan-indonesia-apa-aja-termasuk-strukturnya">
+                            8. teks diskusi tentang kebudayaan indonesia (apa aja) termasuk strukturnya</h2><br />
+                        StrukturIsu, berisi masalah yang akan didiskusikan lebih lanjut.<br />Argumen mendukung, berisi argumen (alasan) mendukung hal yang menjadi pokok masalah diskusi.<br />Argumen menentang, berisi argumen yang bertentangan dengan argumen yang mendukung.<br />Kesimpulan, berisi kesimpulan dan rekomendasi mengenai isu yang dibahas. Usahakan mengambil jalan tengah dari isu yang dibahas.<br /><br />jenis<br />Seminar<br />Sarasehan<br />Simposium<br />Diskusi panel<br />Kongres<br />Muktamar<br />Lokakarya.<br /><br /><p>#semogabermanfaat<br />
+#semogajawabansayaadalahyangterbaik<br />Good Luck:D</p><br />
+                                            <h2 class="ez-toc-section" id="apa-hubungan-antara-masalah-sosial-dengan-struktur-dan-unsur-kebudayaan%e2%80%8b">
+                            9. apa hubungan antara masalah sosial dengan struktur dan unsur kebudayaan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>masalah sosial adalah segala sesuatu yang dianggap mengamcan oleh masyarakat dan dapat membahayakan mereka. dapat juga diartikan sebagai adanya ketidak sesuaian antara yang diharapkan oleh masyarakat dengan yang terjadi dalam masyarakat.</p><p><strong>Penjelasan:</strong></p><p>hubungannya dengan struktur dan unsur kebudayaan adalah bahwa struktur masyarakat merupakan seperangkat peran sehingga apa yang terjadi dalam masyarakat adalah hasil dari aplikasi struktur, ketika tidak sesuai dengan harapan hal tersebut akan menjadi masalah. Begitupun unsur budaya, ketika tidak sesuai dengan kondisi masyarakat pun akan menimbulkan masalah.</p><p></p><p>sederhannyan struktur dan unsur budaya dapat menjadi sebab munculnya masalah sosial</p><br />
+                                            <h2 class="ez-toc-section" id="maksud-dari-budaya-dapat-mempengaruhi-struktur-ruang-desa-adalah-%e2%80%8b">
+                            10. maksud dari "budaya dapat mempengaruhi struktur ruang desa" adalah ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Tata ruang erat kaitannya dengan perencanaan, untuk melihat struktur ruang pada kota.</p><p></p><p>Pengertian tata ruang, diambil dari buku Pengantar Hukum Tata Ruang (2016) karya Yunus Wahid, merupakan ekspresi geografis yang merupakan cermin lingkup kebijakan yang dibuat masyarakat terkait dengan ekonomi, sosial dan kebudayaan.</p><p></p><p>Di Indonesia, konsep perencanaan tata ruang dikembangkan dari masa ke masa. Dengan gagasan bahwa pembangunan infrastruktur akan mampu mempercepat terjadinya pengembangan wilayah.</p><p></p><p>Pada era 90-an, konsep pengembangan wilayah mulai diarahkan untuk mengatasi kesenjangan wilayah.</p><p></p><p>Jenis perencanaan tata ruang</p><p></p><p>Perencanaan tata ruang terbagi menjadi tiga, yaitu</p><p></p><p>Arahan kebijakan dan strategi pemanfaatan ruang wilayah negara yang dijadikan acuan untuk perencanaan jangka panjang.</p><p></p><p>Jangka waktu perencanaan tata ruang wilayah nasional</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-teks-deskripsi-budaya-dengan-struktur-nya%e2%80%8b">
+                            11. contoh teks deskripsi budaya dengan struktur nya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Rumah Adat adalah bangunan yang memiliki cirikhas khusus, digunakan untuk tempat hunian oleh suatu suku bangsa tertentu.Rumah adat merupakan salah satu representasi kebudayaan yang paling tinggi dalam sebuah komunitas suku/masyarakat. Keberadaan rumah adat di Indonesia sangat beragam dan mempunyai arti yang penting dalam perspektif sejarah, warisan, dan kemajuan masyarakat dalam sebuah peradaban.
+</p><p>
+</p><p>Rumah-rumah adat di indonesia memiliki bentuk dan arsitektur masing-masing daerah sesuai dengan budaya adat lokal.Rumah adat pada umumnya dihiasi ukiran-ukiran indah, pada jaman dulu, rumah adat yang tampak paling indah biasa dimiliki para keluarga kerajaan atau ketua adat setempat menggunakan kayu-kayu pilihan dan pengerjaannya dilakukan secara tradisional melibatkan tenaga ahli dibidangnya, Banyak rumah-rumah adat yang saat ini masih berdiri kokoh dan sengaja dipertahankan dan dilestarikan sebagai simbol budaya Indonesia.
+</p><p>
+</p><p>struktur teks deskripsinya :
+</p><p>paragraf 1 :deskripsi umum
+</p><p>paragraf 2 : deskripsi bagian</p><p><strong>Penjelasan:</strong></p><p></p><p><strong>Jawaban:</strong></p><p>Rumah Adat adalah bangunan yang memiliki cirikhas khusus, digunakan untuk tempat hunian oleh suatu suku bangsa tertentu.Rumah adat merupakan salah satu representasi kebudayaan yang paling tinggi dalam sebuah komunitas suku/masyarakat. Keberadaan rumah adat di Indonesia sangat beragam dan mempunyai arti yang penting dalam perspektif sejarah, warisan, dan kemajuan masyarakat dalam sebuah peradaban.</p><p></p><p>Rumah-rumah adat di indonesia memiliki bentuk dan arsitektur masing-masing daerah sesuai dengan budaya adat lokal.Rumah adat pada umumnya dihiasi ukiran-ukiran indah, pada jaman dulu, rumah adat yang tampak paling indah biasa dimiliki para keluarga kerajaan atau ketua adat setempat menggunakan kayu-kayu pilihan dan pengerjaannya dilakukan secara tradisional melibatkan tenaga ahli dibidangnya, Banyak rumah-rumah adat yang saat ini masih berdiri kokoh dan sengaja dipertahankan dan dilestarikan sebagai simbol budaya Indonesia.</p><p></p><p>struktur teks deskripsinya :</p><p>paragraf 1 :deskripsi umum</p><p>paragraf 2 : deskripsi bagian</p><br />
+                                            <h2 class="ez-toc-section" id="tipe-budaya-politik-yang-memiliki-struktur-hirarki">
+                            12. Tipe budaya politik yang memiliki struktur hirarki</h2><br />
+                        Tipe budaya politik yang hierarki bersifat hierarki yang<br />menunjukan adanya pembedaan antara golongan atas<br />dan golongan bawah uang jelas, pengusaha menganggap<br />bahwa dirinya paling unggul dan cenderung memandang<br />rendah rakyatnya.<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-konsep-struktur-sosial-dan-kebudayaan-indonesia">
+                            13. Jelaskan konsep struktur sosial dan kebudayaan Indonesia</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> Pengertian Struktur Sosial</p><p>Dari ilustrasi di atas, kamu tentu sudah bisa menyimpulkan apa yang dimaksud struktur sosial? Agar lebih jelas lagi, mari kita bahas lebih jauh tentang fungsi struktur sosial sebagai berikut:</p><p></p><p>Pengertian struktur sosial dapat dikatakan sebagai pola hubungan sosial antar manusia atau kelompok dalam suatu masyarakat di kehidupan sehari-hari. Kenapa masyarakat perlu dikelompokkan?</p><p></p><p>Bukan bermaksud untuk membeda-bedakan, kelompok sosial ini dibagi berdasarkan peran, hak dan kewajiban yang saling melengkapi satu sama lain. Namun, pada prosesnya pembagian kelompok berdasarkan keberagaman suku, ras dan  budaya seringkali memicu terjadinya konflik di masyarakat.</p><p></p><p>Secara sosiologis fungsi struktur sosial tersebut dapat mempermudah integrasi sosial. Yaitu suatu proses penyesuaian unsur-unsur yang saling berbeda dalam kehidupan masyarakat, sehingga menghasilkan pola kehidupan masyarakat yang memiliki keserasian fungsi.</p><p></p><p>Fungsi Struktur Sosial di Masyarakat</p><p>Setiap kelompok masyarakat, sudah pasti memiliki struktur sosial. Lalu apakah sebenarnya fungsi struktur sosial yang berhubungan dengan peran kelompok masyarakat? Sebagai berikut:</p><p></p><p>Sebagai Pengawas Sosial</p><p>Dalam hal ini, struktur sosial berfungsi sebagai penekan atau antisipasi adanya pelanggaran terhadap norma-norma, atau nilai dan peraturan dalam kelompok masyarakat.</p><p></p><p>Identitas Kelompok Masyarakat</p><p>Pada poin ini, struktur sosial berfungsi sebagai penegas identitas suatu kelompok masyarakat. Identitas ini membuat kelompok masyarakat memiliki ciri khas atau karakteristik yang berbeda dengan kelompok lainnya.</p><p></p><p>Menanamkan Disiplin Sosial Pada Kelompok Masyarakat</p><p>Karena terbentuk dari kelompok masyarakat, fungsi struktur sosial membantu setiap individu yang tergabung dalam suatu kelompok masyarakat, untuk memiliki kesadaran bersikap, kebiasaan dan perilaku yang mencerminkan kelompok masyarakatnya.</p><p></p><p></p><p></p><p>Contoh Struktur Sosial Masyarakat Indonesia</p><p>Nah, itulah beberapa fungsi struktur sosial di masyarakat. Lantas, bagaimana dengan contoh struktur sosial masyarakat Indonesia?</p><p></p><p>Secara sosiologis, struktur sosial masyarakat Indonesia terbentuk dari perbedaan sosial horizontal atau diferensiasi sosial, dan perbedaan sosial vertikal atau stratifikasi sosial. Berikut merupakan penjelasan beserta contoh struktur sosial masyarakat Indonesia:</p><p></p><p>Berdasarkan Diferensiasi Sosial</p><p>Diferensiasi sosial adalah klasifikasi atau penggolongan masyarakat terhadap perbedaan – perbedaan tertentu yang posisinya sama, setara, dan sejajar. Dalam struktur sosial di masyarakat, diferensiasi tidak memposisikan golongan atau kelompok mana yang lebih tinggi, atau lebih rendah dari kelompok lainnya.</p><p></p><p>Semua kelompok dan golongan dianggap sama dan sejajar, baik itu berdasarkan ras, suku, klan, agama, profesi dan jenis kelamin. Semua kelompok sosial tersebut dianggap sama, setara atau sejajar di Indonesia.</p><p></p><p>Contoh struktur sosial masyarakat Indonesia adalah berdasarkan klan, seperti yang dialami oleh klan Da Costa dari Flores, atau klan Siregar dari Batak. Meskipun nama klan mereka berbeda, namun tiap klan memiliki peran dan posisi yang sama di masyarakat.</p><p></p><p><strong>Maaf </strong><strong>Kalo </strong><strong>Salah. </strong></p><p></p><p><strong>Salam </strong><strong>Mlbb. </strong></p><p></p><p><strong>Jangan </strong><strong>Lupa </strong><strong>Kasih </strong><strong>Bintang. </strong></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="struktur-struktur-yang-bersifat-pemerintahan-politik-yang-berbeda-beda-dan-merupakan-suatu-kebudayaan-disebut-sistem">
+                            14. struktur struktur yang bersifat pemerintahan politik yang berbeda beda dan merupakan suatu kebudayaan disebut sistem</h2><br />
+                        sistem politik dunia <br />maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-struktur-sosial-dan-budaya-kerajaan-singasari">
+                            15. Bagaimana struktur sosial dan budaya kerajaan singasari</h2><br />
+                        <p><strong>Kehidupan Sosial Ekonomi Kerajaan Singasari</strong></p><p></p><p>Pada awalnya pada masa Ken Arok, kehidupan masyarakat Tumapel aman dan sejahtera karena perhatian Ken Arok yang bagus untuk rakyatnya. Namun kemudian pada masa Anusapati rakyat menjadi kurang diperhatikan dan sulit untuk mencari ekonomi. Baru kemudian menjadi stabil kembali ketika pada masa raja Wisnuwardana atau Ranggawuni. Dan mencapai puncaknya ketika Kerajaan Singasari dipimpin oleh Raja Kertanegara yang merupakan putra Wisnuwardhana. Rakyat sejahtera, keamanan terjamin, dan Kerajaan Sriwijaya bahkan bisa melakukan ekspansi ke berbagai daerah di Nusantara untuk memperluas daerah kekuasaannya.</p><p></p><p><strong>Kehidupan Budaya Kerajaan Singasari</strong></p><p></p><p>Kehidupan budaya kerajaan Singasari termasuk memiliki peradaban yang cukup maju. Hal ini bisa dilihat dari beberapa peninggalan Kerajaan Singasari yang berupa candi seperti Candi Kidal, Candi Jago, dan Candi Singasari. Sedangkan peninggalan kerajaan Singasari dalam bentuk yang lain, bisa ditemukan dalam wujud patung Ken Dedes sebagai perwujudan Prajnyaparamita yang merupakan lambang kesempurnaan ilmu. Kemudian juga patung Kertanegara dalm wujud Patung Joko Dolog.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="mengapa-budaya-politik-masyarakat-sangat-dipengaruhi-oleh-struktur-politik">
+                            16. mengapa budaya politik masyarakat sangat dipengaruhi oleh struktur politik</h2><br />
+                        Karna di lingkungan masyarakat selalu di pengaruhi politik.<br />maka dari itu<br />budaya politik bangsa kita di masyarakat harus kita jaga dengan sebaik baiknya <br />
+                                            <h2 class="ez-toc-section" id="contoh-teks-deskripsi-berstruktur-dengan-tema-budaya-indonesia">
+                            17. Contoh teks deskripsi berstruktur dengan tema budaya indonesia</h2><br />
+                        Budaya lokal Indonesia memang sangat beraneka ragam. Kekayaan budaya lokal ini membuat Indonesia menjadi salah satu negara dengan daya tarik wisata yang tinggi di dunia.<br /><br />Budaya-budaya lokal menghasilkan tradisi dan adat istiadat yang spesifik untuk masing-masing wilayah. Tradisi dan adat-istiadat setiap daerah, jika dikelola dengan baik, bisa menjadi salah satu sumber pendapatan bidang pariwisata daerah tersebut.<br /><br />Selain itu, budaya lokal mengandung kearifan universial yang membuatnya menjadi dasar hubungan manusia dengan alam, manusia dengan sesama manusia dan manusia dengan sang Penciptanya. Budaya-budaya lokal yang ada tentu memiliki kaitan humanis dengan budaya lainnya.<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-globalisasi-budaya-dan-strukturnya%e2%80%8b">
+                            18. jelaskan globalisasi budaya dan strukturnya?​</h2><br />
+                        <p>Globalisasi budaya adalah penyebaran gagasan, makna, dan nilai ke seluruh dunia dengan cara tertentu untuk memperluas dan mempererat hubungan sosial. Proses ini ditandai oleh konsumsi budaya bersama yang dibantu oleh Internet, media budaya masyarakat, dan perjalanan luar negeri.</p><p></p><p></p><p>#maaf kalo salah</p><p>#jadi kan jawaban tercerdas </p><p></p><p><strong>Jawaban:</strong></p><p>Globalisasi budaya adalah penyebaran gagasan, makna, dan nilai ke seluruh dunia dengan cara tertentu untuk memperluas dan mempererat hubungan sosial. Proses ini ditandai oleh konsumsi budaya bersama yang dibantu oleh Internet, media budaya masyarakat, dan perjalanan luar negeri.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><p>no copas</p><p>no google</p><p><strong>b</strong><strong>i</strong><strong>s</strong><strong>m</strong><strong>i</strong><strong>l</strong><strong>l</strong><strong>a</strong><strong>h</strong><strong> </strong><strong>s</strong><strong>e</strong><strong>m</strong><strong>o</strong><strong>g</strong><strong>a</strong><strong> </strong><strong>d</strong><strong>i</strong><strong>j</strong><strong>a</strong><strong>d</strong><strong>i</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>j</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>c</strong><strong>e</strong><strong>r</strong><strong>d</strong><strong>a</strong><strong>s</strong><strong> </strong><strong>a</strong><strong>m</strong><strong>i</strong><strong>n</strong><strong> </strong><strong>d</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>d</strong><strong>i</strong><strong>f</strong><strong>o</strong><strong>l</strong><strong>l</strong><strong>o</strong><strong>w</strong><strong> </strong><strong>t</strong><strong>o</strong><strong>l</strong><strong>o</strong><strong>n</strong><strong>g</strong><strong> </strong><strong>j</strong><strong>a</strong><strong>d</strong><strong>i</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>j</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>c</strong><strong>e</strong><strong>r</strong><strong>d</strong><strong>a</strong><strong>s</strong><strong> </strong><strong>y</strong><strong>a</strong></p><br />
+                                            <h2 class="ez-toc-section" id="struktur-budaya-vietnam%e2%80%8b">
+                            19. struktur budaya vietnam​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Kebudayaan Vietnam berkembang selama berabad-abad semenjak budaya kuno Đông Sơn yang berasaskan ekonomi pertanian padi. Sesetengah elemen budaya kebangsaan berasal dari Cina yang menerapkan unsur-unsur Konfusianisme dan Taoisme pada sistem politik dan falsafah tradisional. Struktur masyarakat Vietnam berkisarkan làng (kampung leluhur); semua orang Vietnam menyambut ulang tahun nenek moyang sepunya pada 10 hari bulan tiga takwim lunar.[1] Juga ternyata pengaruh budaya kaum pendatang seperti Cina Selatan padahal agama Buddha amat bersangkut-paut dengan budaya rakyat.</p><p></p><p>maaf kalo salah, semoga membantu:)</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-bahwa-kegiatan-pertambangan-dapat-mengacaukan-struktur-sosial-budaya">
+                            20. jelaskan bahwa kegiatan pertambangan dapat mengacaukan struktur sosial budaya</h2><br />
+                        <p><strong>kegiatan pertambangan dapat mengacaukan struktur sosial budaya, diantaranya adalah
+</strong></p><p>1.	Mengakibatkan terganggunya arus jalan
+</p><p>2.	Mengakibatkan konflik pada suatu masyarakat  
+</p><p>3.	Dapat menjadikan mengakibatkan konflik lahan
+</p><p>4.	dapat menjadikan perpecahan antar perusahaan, misal perusahaan A tidak memberikan upah sesuai dengan daerah penghasil tambang tersebut
+</p><p>
+</p>Pembahasan
+<p>Hallo kawan-kawan disini saya akan membahas tentang kegiatan pertambangan yang dapat mengacaukn struktur sosial budaya. Untuk lebih jelasnya simak pembahasan berikut ini yaa.....
+</p><p>pertambangan dapat menimbulkan beberap konflik horizontal maupun vertikal antar masyarakat dengan pihak pemerintah maupun dengan beberapa perusahaan. Ini tentu saja dapat mengacaukan sturktur sosial budaya, dimana terdapat beberapa masalah sosial yang timbul secara nyata di bidang industri pertambangan. Masalah tersebut ialah terjadinya sebuah eksploitasi buruh. Terdapat beberapa tindakan yang menunjukkan adanya sikap tidak adil terhadap para karyawan, seperti tidak disediakannya peralatan kerja ringan bagi para karyawan, tentu saja itu dapat menyebabkan resiko untuk mereka.  </p><p>
+</p>Pelajari lebih lanjut  
+<p>1.	Pertambangan di mexsico merupakan hasil terbesar di dunia adalah tambang apa? : brainly.co.id/tugas/8836225  
+</p><p>2.	Pertambangan batu bara yang berada di permukaan bumi sehingga orang2 tinggal mengambil saja disebut... : brainly.co.id/tugas/13517504  
+</p><p>3.	Pertambangan yang banyak dilakukan di Pulau Bintan adalah tambang.....  
+</p><p>A . timah
+</p><p>B. bauksit
+</p><p>C. batubara
+</p><p>D. minyak bumi : brainly.co.id/tugas/11840434  
+</p><p>
+</p>Detil jawaban
+<p>Kelas: 7
+</p><p>Mapel: Geografi
+</p><p>Bab: Bab 7 - Interaksi Sosial
+</p><p>Kode: 7.8.7
+</p><p>Kata Kunci: pertambangan, dampak pertambangan.
+</p><br /><br />
+                                            <h2 class="ez-toc-section" id="mana-yang-paling-penting-struktur-atau-budaya-sertakan-dengan-alasan">
+                            21. mana yang paling penting,  struktur atau budaya?  sertakan dengan alasan</h2><br />
+                        yang paling penting adalah  budaya karena kalo kita melestarikan budaya indonesia  semakin bermanfaat keaneka ragamannya <br />semoga membantu Menurutku hal yang penting adalah budaya. Sebab dari budaya segala struktur baik seni rupa,tari,teater,dan musik dapat menjadi kesatuan yang utuh.<br />
+                                            <h2 class="ez-toc-section" id="struktur-budaya-politik-di-indonesia">
+                            22. struktur budaya politik di Indonesia</h2><br />
+                         Bagan Struktur Politik<br /><br />Struktur politik adalah susunan komponen-komponen politik yang saling berhubungan satu sama lain atau secara fungsional diartikan sebagai pelembagaan hubungan antara komponen-komponen yang membentuk sistem politik. Struktur politik suatu negara menggambarkan susunan kekuasaan di dalam negara itu.<br /><br />Struktur politik mempunyai kaitan yang erat dengan struktur-struktur lainnya yang ada di dalam masyarakat, seperti struktur ekonomi, struktur sosial, dan struktur budaya. Keseluruhan struktur-struktur ini membentuk bangunan masyarakat.<br /><br />Struktur politik Indonesia diatur dalam UUD 1945 dan peraturan perundang-undangan lainnya, yang secara garis besar terdiri atas suprastruktur dan infrastruktur politik. Berdasarkan kategori lain, struktur politik dibagi atas struktur politik formal dan struktur politik informal.<br /><br />Struktur politik merupakan keseluruhan bagian atau komponen (yang berupa lembaga-lembaga) dalam suatu sistem politik yang menjalankan fungsi atau tugas tertentu.<br /><br />Umumnya struktur yang dimiliki oleh suatu sistem politik terdapat beberapa kategori seperti, kelompok kepentingan, partai politik, badan peradilan, dewan eksekutif, legislative, birokrasi dsb. Akan tetapi struktur tersebut tidak banyak membantu dalam memperbandingakan satu system politik yang satu terhadap system politik yang lainnya terkecuali struktur politik tersebut berjalan beriringan dengan fungsi dari system politik itu sendiri, atau dengan lain kata struktur dapat efektif dan tertata sejauh fungsinya sesuai dengan system politik yang ada.<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="berilah-contoh-ceramah-di-bidang-kebudayaan-beserta-strukturnya">
+                            23. berilah contoh ceramah di bidang kebudayaan beserta strukturnya</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pernyataan Umum
+</p><p>
+</p><p>Budaya tidak selamanya identik dengan hal-hal yang tradisional, misalnya pakaian, bahasa, kesenian, makanan khas, dan lainnya.
+</p><p>
+</p><p>Tetapi seringkali saat kita mendengar kata “budaya”, maka yang terlintas di pikiran kita adalah simbol budaya dari suatu daerah atau negara, seperti pakaian, bahasa, makanan, bentuk bangunan, adat istiadat, tari-tarian, musik, dan sebagainya.
+</p><p>
+</p><p>Bagian Penjelasan
+</p><p>
+</p><p>Budaya adalah suatu cara hidup yang berkembang, dan dimiliki bersama oleh sebuah kelompok orang, dan diwariskan dari generasi ke generasi.
+</p><p>
+</p><p>Maka dari itu antara satu daerah dengan daerah yang lain mempunyai budaya yang berbeda. Selain itu, masa lalu dan masa kini juga mempengaruhi budaya yang ada pada suatu daerah.
+</p><p>
+</p><p>Jika dikelompokkan, hasil budaya dibagi menjadi 3 jenis, yaitu kepercayaan, pengetahuan, dan estetika.
+</p><p>
+</p><p>Ketiga hal tersebut saling berpengaruh satu sama lain dan timbul hasil seperti hukum, bahasa, adat istiadat, teknologi, pakaian, makanan, tempat tinggal, dan lainnya.
+</p><p>
+</p><p>Mengapa budaya selalu berkembang dan berubah seiring berjalannya zaman? karena disebabkan oleh beberapa faktor. Seperti:
+</p><p>
+</p><p>Manusia berhubungan satu sama lain secara langsung maupun tidak langsung antar daerah. Saat ini, perkembangan teknologi membuat pengaruh satu budaya dengan budaya lain semakin mudah.
+</p><p>Manusia selalu berkembang, yang menghasilkan adanya perubahan cara hidup, kebutuhan hidup, dan sebagainya sehingga memberikan pengaruh pada perubahan budaya.
+</p><p>Perubahan lingkungan yang lumayan ekstrim.
+</p><p>Sehingga tidak mungkin perubahan budaya tidak terjadi, dan wacana mengenai pelestarian budaya hanya akan berbentuk wacana simbolis saja. Karena manusia juga pastinya tidak bisa hidup dengan menggunakan cara hidup yang lama.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-hubungan-struktur-sosial-dengan-kebudayaan-serta-contohnya">
+                            24. Jelaskan hubungan struktur sosial dengan kebudayaan serta contohnya</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>[tex](y) {58 \times \frac{2}{3} }^{2}[/tex]</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-saja-peran-struktur-sosial-dalam-kebudayaan">
+                            25. apa saja peran struktur sosial dalam kebudayaan</h2><br />
+                        ) Pasal 27 UUD 1945, berbunyi:(1) “Segala warga negara bersamaan kedudukan di dalam hukum dan pemerintahan dan wajib menjungjung hukum dan pemerinatah itu dengan tidak ada kecualinya”.(2) Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.(3) “Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara.”2) Pasal 28 UUD 1945”Kemerdekaan berserikat danberkumpul, mengeluarkan pikiran dengan lisan dan tulisan dan sebagainya ditetapkan dengan undang-undang”3) Pasal 28 A         Setiap orang berhak untuk hidup serta berhak mempertahankan hidup dan kehidupannya4) Pasal 28 B(1) Setiap orang berhak membentuk keluarga dan melanjutkan keturunan melalui perkawinan yang sah(2) Setiap orang berhak atas kelangsungan hidup, tumbuh dan berkembang serta berhakatas perlindungan dari kekerasan dan diskriminasi5) Pasal 28 C(1) Setiap orang berhak mengembangkan diri melalui pemenuhan kebutuhan dasarnya, berhak mendapatkan pendidikan danmemperoleh manfaat dari ilmu pengetahuan dan teknologi, seni dan budaya demi meningkatkan kualitas hidupnya dan demi kesejahteraan umat manusia.(2) Setiap orang berhak untukmemajukan dirinya dalam memperjuangkan haknya secara kolektif untuk membangun masyarakat, bangsa dan negaranya<br />
+                                            <h2 class="ez-toc-section" id="apa-peran-struktur-sosial-dalam-kebudayaan">
+                            26. apa peran struktur sosial dalam kebudayaan</h2><br />
+                        dapat membentuk kebudayaan karena struktur sosial berdasarkan kesesuaian antara manusia manusia di dalamnya yang jika tercipta kesesuaian maka akan ada pembiasaan yang dapat membuat suatu kebudayaan<br />
+                                            <h2 class="ez-toc-section" id="apa-itu-struktur-dalam-seni-budaya%e2%80%8b">
+                            27. apa itu struktur dalam seni budaya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur, adalah unsur pembentuk internal karya seni, misalnya : garis, bentuk, warna, bentuk dan tekstur untuk seni rupa.</p><p><strong>Jawaban:</strong></p><p><strong>Struktur dalam seni budaya adalah tata yang menghubungkan sejumlah unsur" seni yang dapat membentuk suatu kesatuan karya seni utuh. </strong></p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-persuasi-tentang-sosial-budaya-%e2%80%8b">
+                            28. struktur teks persuasi tentang sosial budaya ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur teks persuasi tentang sosial budaya terdiri dari pengenalan, pemaparan masalah sosial budaya, penjelasan solusi atau tindakan yang dapat dilakukan, dan penutup yang memperkuat argumen.</p><p><strong></strong></p><p>jika sesuai tolong bantu jadikan jawaban tercerdas ya. terimakasih sehat selalu</p><p><strong>Jawaban:</strong></p><p>Teks persuasi adalah teks yang berisi tiga unsur yang wajib ada, yakni pendahuluan, fakta dan ajakan. Pendahuluan menjadi struktur yang harus ada dan paling penting, kemudian fakta menjadi hal dasar yang penting digunakan untuk mempersuasi calon pembaca. Sementara ajakan tentu ditujukan kepada orang lain atau pembaca.</p><p><strong>Penjelasan:</strong></p><p>#<strong>s</strong><strong>e</strong><strong>m</strong><strong>o</strong><strong>g</strong><strong>a</strong><strong>m</strong><strong>e</strong><strong>m</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong>t</strong><strong>u</strong><strong> </strong><strong>:</strong><strong>)</strong></p><br />
+                                            <h2 class="ez-toc-section" id="tulislah-struktur-dalam-teks-budaya-nasional-semakin-tergerus-%e2%80%8b">
+                            29. Tulislah struktur dalam teks, budaya nasional semakin tergerus.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>paragraf ketiga</p><p></p><p><strong></strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="struktur-hasil-budaya-manusia-purba">
+                            30. struktur hasil budaya manusia purba</h2><br />
+                        barang2 kuno yg udh lama gk dipakebarang- barang yg terbuat dari batu<br />
+                                            <h2 class="ez-toc-section" id="apa-struktur-fonemenal-budaya">
+                            31. apa struktur fonemenal budaya</h2><br />
+                        <p>Jawaban...........</p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-hubungan-struktur-sosial-dengan-kebudayaan">
+                            32. apa hubungan struktur sosial dengan kebudayaan?</h2><br />
+                        Struktur sosial sangat berkaitan erat dengan hubungan, posisi dan prinsip yang digunakan untuk mengatur hubungan tersebut. Atau biasa dikatakan bahwa struktur merupakan pola hubungan yang melembaga diantara posisi yang berbeda dan membentuk kerangka hubungan interaksi dalam suatu masyarakat <br />Struktur sosial juga bisa diartikan suatu pola perilaku dari setiap individu di dalam masyarakat yang tersusun sebagai suatu sistem.<br />
+                                            <h2 class="ez-toc-section" id="proses-moditifikasi-struktur-sosial-dan-pola-budaya-dalam-suatu-masyarakat-adalah">
+                            33. Proses moditifikasi struktur sosial dan pola budaya dalam suatu masyarakat adalah</h2><br />
+                        Proses moditifikasi struktur sosial dan pola budaya dalam suatu masyarakat adalah Perubahan sosial <br /><br />-Umaku ikeba benridesu<br />
+                                            <h2 class="ez-toc-section" id="apa-hubungan-konseptual-antara-kebudayaan-dengan-struktur-sosial-keluarga">
+                            34. apa hubungan konseptual antara kebudayaan dengan struktur sosial keluarga?</h2><br />
+                        interaksi sosial didalam keluarga akan menghasil kan kebudayaan dan konsep baru dalam struktur keluarga itu sendiri.<br /><br /><br />^-^<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-perbedaan-antara-masyarakat-dengan-struktur-budaya">
+                            35. Jelaskan perbedaan antara masyarakat dengan struktur budaya</h2><br />
+                        <p>masyarakat adalah organisasi,budaya adalah ciri khas nya.</p><br />
+                                            <h2 class="ez-toc-section" id="keseluruhan-struktur-struktur-sosial-dan-religi-yang-di-dalamnya-terkandung-pengetahuan-kepercayaan-kesenian-adat-istiadat-yang-ada-di-masyarakat-disebut-a-kesenian-budayab-keberagaman-budaya">
+                            36. Keseluruhan struktur-struktur sosial dan religi yang di dalamnya terkandung pengetahuan, kepercayaan, kesenian, adat istiadat yang ada di masyarakat disebut.......A.Kesenian budayaB.keberagaman budayaC.Sosial budayaD.keselarasan budayatolong di jawab tks​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>c. sosial budaya</p><p><strong>Penjelasan:</strong></p><p>Maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="dampak-kolonialisme-terhadap-struktur-sosial-budaya-masyarakat-indonesia-adalah%e2%80%8b">
+                            37. dampak kolonialisme terhadap struktur sosial budaya masyarakat Indonesia adalah?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Dampak Kolonialisme dari 
+</p><p>Segi Politik</p><p><strong>Penjelasan:</strong></p><p>Politik adalah perjuangan 
+</p><p>untuk memperoleh kekuasaan 
+</p><p>(Struggle to gain power) / teknik 
+</p><p>menjalankan kekuasaan-
+</p><p>kekuasaan (technique to execute 
+</p><p>powers / masalah masalah 
+</p><p>pelaksanaan dan kontrol kekuasaan 
+</p><p>(matter of execute and control of 
+</p><p>power ) pembentukan dan 
+</p><p>penggunaan kekuasaan (and last, 
+</p><p>making and use the power) (Suardi, 
+</p><p>2015).</p><p></p><p><strong>Jawaban:</strong></p><p>Dampak Kolonialisme dari</p><p></p><p>Segi Politik</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-deskripsi-struktur-tentang-kebudayaan-indonesia">
+                            38. contoh deskripsi struktur tentang kebudayaan indonesia</h2><br />
+                        Struktur sosial budaya dimaksudkan sebagai jalinan unsur- unsur sosial budaya yang pokok dalam masyarakat. Ia merupakan cara bertingkah laku yang menandai adanya kelompok sosial. Struktur sosial melekat kedalam institusi sosial yang dibentuk secara historis. Dasar hubungan dalam struktur sosial adalah hubungan antar manusia berdasarkan status dan peranan yang saling berkaitan sehingga hubungan itu menjadi terpolakan.<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-yang-dimaksud-struktur-sosial-budaya">
+                            39. jelaskan yang dimaksud struktur sosial budaya</h2><br />
+                        struktur sosial diartikan sebagai hubungan timbal balik antara posisi-posisi sosial dan peranan-peranan sosial.<br />
+                                            <h2 class="ez-toc-section" id="mengapa-struktur-masyarakat-bisa-mempengaruhi-system-sosial-budaya">
+                            40. Mengapa struktur masyarakat bisa mempengaruhi system sosial budaya?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>alasannya yaitu:</p><p>1.Ketidakpuasan terhadap kondisi yang ada.</p><p>2.Penemuan baru (discovery dan invention).</p><p>3.Sikap terbuka terhadap perubahan.</p><p>5.Perubahan standar hidup.</p><p>6.Sikap pendidikan yang maju.</p><p>7.Keadaan masyarakat yang majemuk.</p><p></p><p>maaf kalo salah:)</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/isjttgtXNec?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>seni</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/uƒusu-o­o§u-uƒ/">ÙƒÙŠÙ Ø­Ø§Ù Ùƒ</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/x2-4x-4-0/">X2 4x 4 0</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/alas-sebuah-prisma-berbentuk-segitiga-siku-siku/">Alas Sebuah Prisma Berbentuk Segitiga Siku Siku</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengukir-kayu-harus-memperhatikan-alur/">Mengukir Kayu Harus Memperhatikan Alur</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berapa-kali-berapa/">Berapa Kali Berapa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-yang-dimaksud-dengan-reaksi/">Apa Yang Dimaksud Dengan Reaksi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-perbedaan-tangga-nada-diatonik-dan-pentatonis/">Jelaskan Perbedaan Tangga Nada Diatonik Dan Pentatonis</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/artikan-potongan-hadis-berikut/">Artikan Potongan Hadis Berikut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dedicated-komputer/">Dedicated Komputer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sheher-artinya/">She/her Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/membuat-variasi-dalam-melakukan-smash-bola-voli-bertujuan/">Membuat Variasi Dalam Melakukan Smash Bola Voli Bertujuan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/u…u†/">Ù…Ù†</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tanggal-17-ramadhan-tahun-611-m-bertepatan-dengan/">Tanggal 17 Ramadhan Tahun 611 M Bertepatan Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/langkah-akhir-yang-harus-diperhatikan-dalam-menyusun-program-pameran-adalah/">Langkah Akhir Yang Harus Diperhatikan Dalam Menyusun Program Pameran Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1-per-8/">1 Per 8</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dekel-artinya/">Dekel Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1km-20-hm-km/">1km 20 Hm Km</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/partitur-adalah/">Partitur Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebutkan-nabi-nabi-yang-bergelar-ulul-azmi/">Sebutkan Nabi Nabi Yang Bergelar Ulul Azmi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/takdir-yang-tidak-bisa-diubah-disebut-takdir/">Takdir Yang Tidak Bisa Diubah Disebut Takdir</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

@@ -1,0 +1,1407 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Nasi Betadin - BELAJAR</title>
+    <meta name="description" content="Nasi Betadin, , , , , , , 0, Resep Nasi Ungu oleh Ermi Kartika Dwi Wari - Cookpad, cookpad.com, 751 x 532, jpeg, , 20, nasi-betadin, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Nasi Betadin - BELAJAR" />
+    <meta property="og:description" content="Nasi Betadin, , , , , , , 0, Resep Nasi Ungu oleh Ermi Kartika Dwi Wari - Cookpad, cookpad.com, 751 x 532, jpeg, , 20, nasi-betadin, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Nasi Betadin - BELAJAR" />
+    <meta name="twitter:description" content="Nasi Betadin, , , , , , , 0, Resep Nasi Ungu oleh Ermi Kartika Dwi Wari - Cookpad, cookpad.com, 751 x 532, jpeg, , 20, nasi-betadin, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Nasi Betadin</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">embuhembuh98</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Nasi+Betadin" alt="Nasi Betadin">
+                    </div>
+                    <p></p>
+                    <p>nasi ketika diteteskan betadin termasuk perubahan​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nasi-ketika-diteteskan-betadin-termasuk-perubahan%e2%80%8b">1.
+                                            nasi ketika diteteskan betadin termasuk perubahan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#simpulan-pa-yang-didapatkan-pada-nasi-dan-betadin%e2%80%8b">2.
+                                            simpulan pa yang didapatkan pada nasi dan betadin​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-nasi-betadin-buah-putri-salju-pelicin-kucing-kelereng-maspermen-marsanda">3.
+                                            Apa arti nasi betadin, buah putri salju, pelicin kucing, kelereng mas,permen marsanda</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-cara-mengetes-makanan-yang-mengandung-vitamin-c-dengan-menggunakan-betadin">4.
+                                            bagaimana cara mengetes makanan yang mengandung vitamin C dengan menggunakan betadin?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#menurut-ananda-apa-fungsi-betadin-dalam-percobaan-ini-jelaskan-mekanismenya%e2%80%8b">5.
+                                            menurut ananda apa fungsi betadin dalam percobaan ini ? jelaskan mekanismenya!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-terjadi-pada-air-yang-di-campurkan-dengan-betadin">6.
+                                            apa yang terjadi pada air yang di campurkan dengan betadin ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-cara-mengatasi-perih-jika-terseret-aspal-tanpa-obat-betadin-atau-yg-lain">7.
+                                            bagaimana cara mengatasi perih jika terseret  aspal tanpa obat betadin atau yg lain??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alkohol-dan-betadin-adalah-obat-yang-bisa-digunakan-untuk-memberikan">8.
+                                            Alkohol dan betadin adalah obat yang bisa digunakan untuk memberikan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimaana-hasil-percobaan-mengenai-kerja-enzim-pitalin-seperti-dibawah-ini-larutan-kanji-betadin-dengan-0-menit-perubahan-warnanya-apa-larutan-kanji-air-liur-betadin-dengan">9.
+                                            Bagaimaana hasil percobaan mengenai Kerja Enzim Pitalin seperti dibawah ini ! Larutan kanji + betadin (dengan 0 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 3 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 6 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 9 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warnanya apa.............. 1. Apa yang terjadi pada tabung reaksi nomor 1, larutan kanji yang langsung ditetesi betadin? 2. Apa yang menyebabkan terjadinya perubahan warna larutan kanji yang langsung ditetesi betadin? Jelaskan! 3 Pada tabung reaksi mana mulai tidak terjadi perubahan warna larutan kanji? Apa sebabnya demikian? Jelaskan! 4 Apa yang dapat disimpulkan dari hasil kegiatan tersebut di atas?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-kemasan-betadin-tertera-bahwa-betadin-mengandung-protein-iodine-10-dengan-iodin-1-iodin-inilah-yang-sebenarnya-menjadi-indikator-karena-reaksi-antara-askorbat-dalam-vitamin-c-dan-iodin-akan-mengh">10.
+                                            pada kemasan betadin tertera bahwa betadin mengandung protein iodine 10% dengan iodin 1% iodin inilah yang sebenarnya menjadi indikator karena reaksi antara askorbat dalam vitamin C dan iodin akan menghilangkan warna betadin hal yang dapat disimpulkan berdasarkan teks diatas adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimaana-hasil-percobaan-mengenai-kerja-enzim-pitalin-seperti-dibawah-ini-larutan-kanji-betadin-dengan-0-menit-perubahan-warnanya-apa-larutan-kanji-air-liur-betadin-dengan">11.
+                                            Bagaimaana hasil percobaan mengenai Kerja Enzim Pitalin seperti dibawah ini ! Larutan kanji + betadin (dengan 0 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 3 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 6 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 9 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warnanya apa.............. 1. Apa yang terjadi pada tabung reaksi nomor 1, larutan kanji yang langsung ditetesi betadin? 2. Apa yang menyebabkan terjadinya perubahan warna larutan kanji yang langsung ditetesi betadin? Jelaskan! 3 Pada tabung reaksi mana mulai tidak terjadi perubahan warna larutan kanji? Apa sebabnya demikian? Jelaskan! 4 Apa yang dapat disimpulkan dari hasil kegiatan tersebut di atas?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-nama-batang-pohon-betadin">12.
+                                            apa nama batang pohon betadin</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#makanan-setelah-di-tetesin-betadin%e2%80%8b">13.
+                                            makanan setelah di tetesin betadin​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kanji-yang-ditambah-betadin-akan-berwarna-apa">14.
+                                            kanji yang ditambah betadin akan berwarna apa</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-betadin-aman-untuk-kucing-juga%e2%80%8b">15.
+                                            apakah betadin aman untuk kucing juga?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ciri-ciri-daun-betadin">16.
+                                            Ciri-ciri daun betadin</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#warna-kentang-setelah-terkena-betadin-maka-akan-berubah-menjadi-warna%e2%80%8b">17.
+                                            warna kentang setelah terkena betadin maka akan berubah menjadi warna?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#betadin-termasuk-halogen-apa">18.
+                                            betadin termasuk halogen apa?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yang-diperlukan-dalam-percobaan-sederhana-ini-adalah-betadinpiringnasitepung-terigu-dan-sendok-penulisan-tanda-baca-pada-kalimat-diatas-salah-karena%e2%80%8b">19.
+                                            yang diperlukan dalam percobaan sederhana ini adalah betadin,piring,nasi,tepung terigu dan sendok. penulisan tanda baca pada kalimat diatas salah karena​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimaana-hasil-percobaan-mengenai-kerja-enzim-pitalin-seperti-dibawah-ini-larutan-kanji-betadin-dengan-0-menit-perubahan-warnanya-apa-larutan-kanji-air-liur-betadin-dengan">20.
+                                            Bagaimaana hasil percobaan mengenai Kerja Enzim Pitalin seperti dibawah ini !
+Larutan kanji + betadin (dengan 0 menit ) perubahan warnanya apa..............
+Larutan  kanji + air liur + betadin (dengan 3 menit ) perubahan warnanya apa..............
+Larutan kanji + air liur + betadin (dengan 6 menit ) perubahan warnanya apa..............
+Larutan kanji + air liur + betadin (dengan 9 menit ) perubahan warnanya apa..............
+Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warnanya apa..............
+Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warnanya apa..............
+1. Apa yang terjadi pada tabung reaksi nomor 1, larutan kanji yang
+langsung ditetesi betadin?
+2. Apa yang menyebabkan terjadinya perubahan warna larutan kanji yang
+langsung ditetesi betadin? Jelaskan!
+3 Pada tabung reaksi mana mulai tidak terjadi perubahan warna larutan
+kanji? Apa sebabnya demikian? Jelaskan!
+4 Apa yang dapat disimpulkan dari hasil kegiatan tersebut di atas?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsinya-bahan-kimia-pada-betadin">21.
+                                            apa fungsinya bahan kimia pada betadin.?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ospek-sma-arti-dari-nasi-betadin-t-kekebalan-kacang-kimia-balok-coklat-berjerawat-bantal-manis-berisi-oli">22.
+                                            Ospek Sma : Arti dari , NASI BETADIN. T+ KEKEBALAN KACANG KIMIA BALOK COKLAT BERJERAWAT BANTAL MANIS BERISI OLI</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perubahan-warna-larutan-yang-terjadi-pada-masing-masing-tabung-reaksi-dicatat-pada-tabel-hasil-pengamatan-berikut-ini-hasil-pengamatan-kerja-enzim-ptialintabung-reaksi-larutanwaktuperubahan-warn">23.
+                                            Perubahan warna larutan yang terjadi pada masing-masing tabung reaksi dicatat pada tabel hasil pengamatan berikut ini.
+Hasil Pengamatan Kerja Enzim Ptialin
+Tabung reaksi  	Larutan	Waktu	Perubahan warna
+1	kanji + betadin	0 menit 	….
+2	kanji + air liur + betadin	3 menit	….
+3	kanji + air liur + betadin	6 menit	….
+4	kanji + air liur + betadin	9 menit	….
+5	kanji + air liur + betadin	12 menit	….
+6	kanji + air liur + betadin	15 menit	….</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perubahan-warna-pada-kanjibetadin-setelah-0-menit">24.
+                                            perubahan warna pada kanji+betadin setelah 0 menit</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kenapa-cairan-tepung-bila-bercampur-dengan-betadin-bisa-berwarna-unguu-toloong-jawabbb">25.
+                                            kenapa cairan tepung bila bercampur dengan betadin bisa berwarna unguu, 
+??
+toloong jawabbb </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#warna-tempe-setelah-terkena-betadin-maka-akan-berubah-menjadi-warna%e2%80%8b">26.
+                                            warna tempe setelah terkena betadin maka akan berubah menjadi warna?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#warna-tahu-setelah-terkena-betadin-maka-berubah-menjadi-warna%e2%80%8b">27.
+                                            warna tahu setelah terkena betadin maka berubah menjadi warna?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#betadin-atau-obat-merah-berguna-untuk-merawat%e2%80%8b">28.
+                                            betadin atau obat merah berguna untuk merawat?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-terjadi-pada-air-bila-di-campur-kan-dengan-betadin">29.
+                                            Apa yang terjadi pada air bila di campur kan dengan betadin</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nasi-segenggam-air-roti-tawar-es-balon-tepung-terigu-betadin-tahu-put">30.
+                                            -nasi segenggam                                     -air
+-roti Tawar                                               -es balon 
+-Tepung Terigu                                         -Betadin
+-Tahu
+-Putih Telur 
+-Larutan gula
+Kira2 dari bahan tersebut menguji tentang apa dan hal-hal yang biasa ditanyakan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cirikhusus-tanaman-betadinmanfaat-tumbuhanmedia-tanam-dan-perawatan">31.
+                                            Cirikhusus tanaman betadin,manfaat tumbuhan,media tanam dan perawatan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#betadin-7-satu-per-2-atau-75-buatlah-sebanyak-30-mili%e2%80%8b">32.
+                                            betadin 7 satu per 2% atau 7,5% Buatlah sebanyak 30 mili​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gimana-pengamatan-tentang-mie-instan-yang-di-campur-dengan-betadin">33.
+                                            gimana pengamatan tentang mie instan yang di campur dengan betadin</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-betadin-di-campur-vitamin-c-dan-a-maka-reaksi-berubah-menjadi-apa">34.
+                                            jika betadin di campur vitamin C dan A maka reaksi berubah menjadi apa...................?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hasil-percobaan-menggunakan-betadin-air-liur-dan-larutan-kanji">35.
+                                            hasil percobaan menggunakan betadin, air liur dan larutan kanji </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-menyebabkan-air-campuran-betadin-berubah-saat-dituangkan-pemutih">36.
+                                            apa yang menyebabkan air campuran betadin berubah saat dituangkan pemutih ???</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-bayam-akan-berubah-warna-ketika-diuji-mengunakan-betadin%e2%80%8b">37.
+                                            apakah bayam akan berubah warna ketika diuji mengunakan betadin​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#senyawa-apa-yang-terkadung-di-dalam-betadin%e2%80%8b">38.
+                                            Senyawa apa yang terkadung di dalam betadin?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perubahan-warna-larutan-yang-terjadi-hasil-pengamatan-kerja-enzim-ptialintabung-reaksi-larutanwaktuperubahan-warna1kanji-betadin0-menit-ungu-kebiruan2kanji-air-liur-betadin3-menitku">39.
+                                            Perubahan warna larutan yang terjadi Hasil Pengamatan Kerja Enzim Ptialin
+Tabung reaksi  	Larutan	Waktu	Perubahan warna
+1	kanji + betadin	0 menit 	Ungu kebiruan
+2	kanji + air liur + betadin	3 menit	Kuning 0ranye
+3	kanji + air liur + betadin	6 menit	….
+4	kanji + air liur + betadin	9 menit	….
+5	kanji + air liur + betadin	12 menit	….
+6	kanji + air liur + betadin	15 menit	….</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-warna-susu-kental-manis-setelah-ditetesi-betadin-maka-berubah-menjadi-warna-apa-2-warna-roti-setelah-ditetesi-betadin-maka-berubah-menjadi-warna-apa-bantu-jawab-ya-makasih%e2%80%8b">40.
+                                            1. Warna susu kental manis setelah ditetesi betadin maka berubah menjadi warna apa 2. Warna roti setelah ditetesi betadin maka berubah menjadi warna apa Bantu jawab ya makasih​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="nasi-ketika-diteteskan-betadin-termasuk-perubahan%e2%80%8b">
+                            1. nasi ketika diteteskan betadin termasuk perubahan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>perubahan warna/bau yang berbeda</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah :)</p><p><strong>Jawaban:</strong></p><p>Nasi yang ditetesi betadine akan berubah warna menjadi ungu pekat/hitam, hal tersebut menunjukkan bahwa nasi termasuk ke dalam amilum atau karbohidrat.</p><br />
+                                            <h2 class="ez-toc-section" id="simpulan-pa-yang-didapatkan-pada-nasi-dan-betadin%e2%80%8b">
+                            2. simpulan pa yang didapatkan pada nasi dan betadin​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>nasi:yaitu makanan untuk di makan /makanan pokok</p><p>betadin:untuk menyembuhkan luka yg sakit</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah ya</p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-nasi-betadin-buah-putri-salju-pelicin-kucing-kelereng-maspermen-marsanda">
+                            3. Apa arti nasi betadin, buah putri salju, pelicin kucing, kelereng mas,permen marsanda</h2><br />
+                        nasi betadine = nasi goreng karena coklat sperti betadine<br />buah putri salju adalah = Apel atau kesemek karena di film putri salju ada adegan dengan buah apel/kesemek<br />pelicin kucing = kitkat <br />kelereng mas = makanan Polong mas snack gitu<br />permen marshanda = permen cha cha (coklat kecil kecil itu )<br />semoga membantu hehe karena saya juga lagi di mos hehe ! <br />
+                                            <h2 class="ez-toc-section" id="bagaimana-cara-mengetes-makanan-yang-mengandung-vitamin-c-dengan-menggunakan-betadin">
+                            4. bagaimana cara mengetes makanan yang mengandung vitamin C dengan menggunakan betadin?</h2><br />
+                        Uji vitamin C pada buah yang menggunakan betadine harus terlebih dahulu mengambil air perasan dari buah tersebut. Cara memerasnya dapat dilakukan secara langsung atau dapat dilakukan dengan menghaluskannya menggunakan blender. Jika menggunakan blender, Anda tidak boleh mencampurkannya dengan air, karena dapat merubah hasil pengujian. Jika sudah di dapatkan air perasan buah, Anda harus langsung memberikan beberapa tetes betadine menggunakan pipet tetes agar lebih akurat.Tunggu beberapa saat untuk melihat hasil uji pada buah tersebut. Indikator perubahan warna pada air perasan buah akan berubah warna menjadi lebih jernih. Contohnya, air perasan jeruk yang berwarna kekuningan, akan berubah menjadi jernih jika ditetesi larutan iodine atau betadine. Warna yang berubah menjadi lebih jernih memberikan tanda bahwa buah tersebut memiliki kandungan vitamin C yang tinggi. Semakin jernih warnanya, maka semakin tinggi vitamin C di dalamnya.<br />
+                                            <h2 class="ez-toc-section" id="menurut-ananda-apa-fungsi-betadin-dalam-percobaan-ini-jelaskan-mekanismenya%e2%80%8b">
+                            5. menurut ananda apa fungsi betadin dalam percobaan ini ? jelaskan mekanismenya!​</h2><br />
+                        <p>mengeringkan luka,dan sebagainya pereda keluar nya darah</p><p></p><p><strong>Jawaban:</strong></p><p>untuk memberikan warna biru-hitam pada pati</p><p><strong>Penjelasan:</strong></p><p>karena dalam betadine terdapat iodine yang dapat berikatan dengan struktur pati membentuk struktur kimia yang berwarna</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-terjadi-pada-air-yang-di-campurkan-dengan-betadin">
+                            6. apa yang terjadi pada air yang di campurkan dengan betadin ?</h2><br />
+                        coba langsung di praktekin aja :) kan lebih bagus * saran<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-cara-mengatasi-perih-jika-terseret-aspal-tanpa-obat-betadin-atau-yg-lain">
+                            7. bagaimana cara mengatasi perih jika terseret  aspal tanpa obat betadin atau yg lain??</h2><br />
+                        maka langkah pertama yang harus anda lakukan adalah mencuci luka tersebut. mencuci luka bertujuan untuk menghindari luka dihuni oleh kuman-kuman atau tanah dan pasir yang menempel. Selain itu dengan mencuci luka sampai bersih, maka obat yang anda berikan pada luka akan bekerja dengan maksimal karena tidak terhalang oleh tanah dan debu.
+Selanjutnya, cara mengobati luka jatuh agar cepat kering adalah dengan menggunakan rivanol. Rivanol adalah obat yang digunakan untuk menetralkan luka, serta membersihkan luka yang tersisa setelah dibersihkan dengan air, hal ini dilakukan demi menghambat pembusukan luka dan juga menghambat pertumbuhan kuman.
+Dalam memberikan rivanol ke luka baiknya tidak menggunakan kapas karena biasanya serat kapas menempel pada luka, gunakanlah kain. Berikan rivanol secara perlahan dan jika perlu diulangi agar luka benar-benar bersih dari kuman.dengan menggunakan daun pepaya yang di blender lalu di tempelkan pada luka , sekitar 1 hari luka sudah menutup , menurut penelitian juga ekstrak daun pepaya memiliki daya bunuh mikroba yang cepat<br />
+                                            <h2 class="ez-toc-section" id="alkohol-dan-betadin-adalah-obat-yang-bisa-digunakan-untuk-memberikan">
+                            8. Alkohol dan betadin adalah obat yang bisa digunakan untuk memberikan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawabnya: pengobatan pada luka</p><p></p><p>maaf ya kalau salah</p><p>Jawaban: alkohol dan betadin Merupakan antiseptik atau larutan disifektan yang digunakan untuk membunuh kuman pada luka.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bagaimaana-hasil-percobaan-mengenai-kerja-enzim-pitalin-seperti-dibawah-ini-larutan-kanji-betadin-dengan-0-menit-perubahan-warnanya-apa-larutan-kanji-air-liur-betadin-dengan">
+                            9. Bagaimaana hasil percobaan mengenai Kerja Enzim Pitalin seperti dibawah ini ! Larutan kanji + betadin (dengan 0 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 3 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 6 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 9 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warnanya apa.............. 1. Apa yang terjadi pada tabung reaksi nomor 1, larutan kanji yang langsung ditetesi betadin? 2. Apa yang menyebabkan terjadinya perubahan warna larutan kanji yang langsung ditetesi betadin? Jelaskan! 3 Pada tabung reaksi mana mulai tidak terjadi perubahan warna larutan kanji? Apa sebabnya demikian? Jelaskan! 4 Apa yang dapat disimpulkan dari hasil kegiatan tersebut di atas?</h2><br />
+                        Larutan kanji di tetesi betadin berubah warna menjadi coklat ke merah-merahan<br /><br />Maaf jika salah<br />Semoga bermanfaat<br />Good luck!<br /><br />
+                                            <h2 class="ez-toc-section" id="pada-kemasan-betadin-tertera-bahwa-betadin-mengandung-protein-iodine-10-dengan-iodin-1-iodin-inilah-yang-sebenarnya-menjadi-indikator-karena-reaksi-antara-askorbat-dalam-vitamin-c-dan-iodin-akan-mengh">
+                            10. pada kemasan betadin tertera bahwa betadin mengandung protein iodine 10% dengan iodin 1% iodin inilah yang sebenarnya menjadi indikator karena reaksi antara askorbat dalam vitamin C dan iodin akan menghilangkan warna betadin hal yang dapat disimpulkan berdasarkan teks diatas adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Provodine iodine akan bereaksi jika tercampur vitamin C </p><p></p><p></p><p></p><p>*<strong>maaf </strong><strong>kalo</strong><strong> </strong><strong>salah</strong>* </p><br />
+                                            <h2 class="ez-toc-section" id="bagaimaana-hasil-percobaan-mengenai-kerja-enzim-pitalin-seperti-dibawah-ini-larutan-kanji-betadin-dengan-0-menit-perubahan-warnanya-apa-larutan-kanji-air-liur-betadin-dengan">
+                            11. Bagaimaana hasil percobaan mengenai Kerja Enzim Pitalin seperti dibawah ini ! Larutan kanji + betadin (dengan 0 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 3 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 6 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 9 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warnanya apa.............. Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warnanya apa.............. 1. Apa yang terjadi pada tabung reaksi nomor 1, larutan kanji yang langsung ditetesi betadin? 2. Apa yang menyebabkan terjadinya perubahan warna larutan kanji yang langsung ditetesi betadin? Jelaskan! 3 Pada tabung reaksi mana mulai tidak terjadi perubahan warna larutan kanji? Apa sebabnya demikian? Jelaskan! 4 Apa yang dapat disimpulkan dari hasil kegiatan tersebut di atas?</h2><br />
+                        agak berwarna merah Dan kuning <br />
+                                            <h2 class="ez-toc-section" id="apa-nama-batang-pohon-betadin">
+                            12. apa nama batang pohon betadin</h2><br />
+                        Jatropha multifida Linn .. maaf kalo slhJatropha multifida linn<br /><br />
+                                            <h2 class="ez-toc-section" id="makanan-setelah-di-tetesin-betadin%e2%80%8b">
+                            13. makanan setelah di tetesin betadin​</h2><br />
+                        <p><strong>jawaban:</strong><strong> </strong></p><p>warna nasi setelah ditetesi Betadine : biru keungguan / biru kehitaman</p><p>warna roti setelah ditetesi Betadine: hitam keungguan</p><p>warna tahu setelah ditetesi Betadine: biru keungguan </p><p>warna tempe setelah ditetesi Betadine: orangge</p><p>warna mentega setelah ditetesi Betadine: orangge</p><p><strong>.</strong></p><p><strong>.</strong></p><p><strong>.</strong></p><p><strong>.</strong></p><p><strong>.</strong></p><p><strong>.</strong></p><p><strong>.</strong></p><p><strong>.</strong><strong>mohon </strong><strong>maaf </strong><strong>bila </strong><strong>jawaban </strong><strong>salah</strong></p><p><strong>.</strong><strong>mohon </strong><strong>beri </strong><strong>masukan </strong><strong>jika </strong><strong>jawaban </strong><strong>salah!</strong><strong>(≧▽≦)</strong></p><p><strong>.</strong><strong> thank </strong><strong>you </strong><strong></strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="kanji-yang-ditambah-betadin-akan-berwarna-apa">
+                            14. kanji yang ditambah betadin akan berwarna apa</h2><br />
+                        merah bata <br />menandakan didalam kanji terdapat Karbohidrat<br /><br /><br />semoga bisa membantu<br />
+                                            <h2 class="ez-toc-section" id="apakah-betadin-aman-untuk-kucing-juga%e2%80%8b">
+                            15. apakah betadin aman untuk kucing juga?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p><strong>A</strong><strong>M</strong><strong>A</strong><strong>N</strong><strong> </strong><strong>.</strong></p><p></p><p><strong>K</strong><strong>A</strong><strong>R</strong><strong>E</strong><strong>N</strong><strong>A</strong><strong> </strong><strong>B</strong><strong>E</strong><strong>T</strong><strong>A</strong><strong>D</strong><strong>I</strong><strong>N</strong><strong> </strong><strong>B</strong><strong>I</strong><strong>S</strong><strong>A</strong><strong> </strong><strong>U</strong><strong>N</strong><strong>T</strong><strong>U</strong><strong>K</strong><strong> </strong><strong>M</strong><strong>E</strong><strong>M</strong><strong>P</strong><strong>E</strong><strong>R</strong><strong>C</strong><strong>E</strong><strong>P</strong><strong>A</strong><strong>T</strong><strong> </strong><strong>P</strong><strong>E</strong><strong>N</strong><strong>Y</strong><strong>E</strong><strong>M</strong><strong>B</strong><strong>U</strong><strong>H</strong><strong>A</strong><strong>N</strong><strong> </strong><strong>L</strong><strong>U</strong><strong>K</strong><strong>A</strong><strong> </strong><strong>P</strong><strong>A</strong><strong>D</strong><strong>A</strong><strong> </strong><strong>H</strong><strong>E</strong><strong>W</strong><strong>A</strong><strong>N</strong><strong> </strong><strong>.</strong><strong> </strong><strong>Y</strong><strong>G</strong><strong> </strong><strong>P</strong><strong>E</strong><strong>N</strong><strong>T</strong><strong>I</strong><strong>N</strong><strong>G</strong><strong> </strong><strong>B</strong><strong>E</strong><strong>T</strong><strong>A</strong><strong>D</strong><strong>I</strong><strong>N</strong><strong> </strong><strong>J</strong><strong>A</strong><strong>N</strong><strong>G</strong><strong>A</strong><strong>N</strong><strong> </strong><strong>D</strong><strong>I</strong><strong>M</strong><strong>I</strong><strong>N</strong><strong>U</strong><strong>M</strong><strong> </strong><strong>A</strong><strong>T</strong><strong>A</strong><strong>U</strong><strong> </strong><strong>D</strong><strong>I</strong><strong>T</strong><strong>E</strong><strong>L</strong><strong>A</strong><strong>N</strong><strong> </strong><strong>H</strong><strong>E</strong><strong>W</strong><strong>A</strong><strong>N</strong><strong>!</strong></p><p></p><p><strong>Jawaban:</strong></p><p>Aman </p><p><strong>Penjelasan:</strong></p><p>karena betadin untuk menyembuh kan luka</p><br />
+                                            <h2 class="ez-toc-section" id="ciri-ciri-daun-betadin">
+                            16. Ciri-ciri daun betadin</h2><br />
+                        <p>Pohon Betadine atau pohon yodium ini memiliki berbagai nama di tiap daerah, seperti di Ternate, ada yang menyebutnya Balacai, Jarak Tintir, Jarak Cina, Jarak Gurita (karena bentuk daunnya yang menjari panjang bak gurita), Miodine di Afrika dan disebut Coral Plant di Inggris</p><br />
+                                            <h2 class="ez-toc-section" id="warna-kentang-setelah-terkena-betadin-maka-akan-berubah-menjadi-warna%e2%80%8b">
+                            17. warna kentang setelah terkena betadin maka akan berubah menjadi warna?​</h2><br />
+                        <p>jawaban:</p><p>warna biru atau keunguan </p><p><strong>Penjelasan:</strong></p><p>maaf kl9 salah ;)</p><p><strong>Jawaban:</strong></p><p>bahan-bahan seperti: nasi putih, <strong>kentang</strong>, jagung, biskuit, sagu dan tepung terjadi perubahan warna. Dari warna <strong>betadine</strong> yang kemerahan, berubah menjadi berwarna <strong>BIRU TUA.</strong></p><br />
+                                            <h2 class="ez-toc-section" id="betadin-termasuk-halogen-apa">
+                            18. betadin termasuk halogen apa?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Unsur halogen yang dipakai sebagai antiseptik adalah iodin atau yodium (I)</p><p><strong>Penjelasan:</strong></p><p>Unsur halogen (golongan VIIA) terdiri dari unsur-unsur yaitu fluorin (F), klorin (Cl), bromin (Br), yodium (I), dan astatin (At). Unsur halogen dinamakan demikian karena unsur ini mudah bereaksi membentuk garam. Semua halogen memiliki elektron valensi sebanyak 7.</p><p></p><p>Iodin atau Yodium adalah unsur kimia dari jenis halogen dengan simbol I dan nomor atom 53. Iodin adalah unsur halogen yang paling berat yang masih stabil (Astatin bersifat radioaktif dan tidak stabil).</p><p></p><p>Iodin banyak digunakan dalam bidang kesehatan sebagai antiseptik untuk membersihkan luka, mencegah infeksi mikroba, mensterilkan sayatan untuk operasi dan alat-alat bedah. Tindakan antimikroba iodin berlangsung cepat dan bekerja meski pada konsentrasi rendah, dan karenanya digunakan di ruang operasi.</p><p></p><p>Yodium menembus ke dalam mikroba penyebab infeksi dan menyerang asam amino tertentu, nukleotida, dan asam lemak, yang akhirnya menyebabkan kematian sel mikroba. Yodium juga memiliki kemampuan membunuh beberapa jenis virus. Contoh larutan yang mengandung yodium sebagai antiseptik adalah betadine.</p><p></p><p>Selain sebagai antiseptik, yodium sangat penting dalam pembuatan hormon tiroid. Kekurangan yodium merupakan penyebab utama kecacatan dan penyakit gondok akibat kekurangan hormon ini.</p><br />
+                                            <h2 class="ez-toc-section" id="yang-diperlukan-dalam-percobaan-sederhana-ini-adalah-betadinpiringnasitepung-terigu-dan-sendok-penulisan-tanda-baca-pada-kalimat-diatas-salah-karena%e2%80%8b">
+                            19. yang diperlukan dalam percobaan sederhana ini adalah betadin,piring,nasi,tepung terigu dan sendok. penulisan tanda baca pada kalimat diatas salah karena​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>Betadin</strong></p><p><strong>Penjelasan:</strong></p><p><strong>ma</strong><strong>af</strong><strong> kalau</strong><strong> salah</strong></p><br />
+                                            <h2 class="ez-toc-section" id="bagaimaana-hasil-percobaan-mengenai-kerja-enzim-pitalin-seperti-dibawah-ini-larutan-kanji-betadin-dengan-0-menit-perubahan-warnanya-apa-larutan-kanji-air-liur-betadin-dengan">
+                            20. Bagaimaana hasil percobaan mengenai Kerja Enzim Pitalin seperti dibawah ini !
+Larutan kanji + betadin (dengan 0 menit ) perubahan warnanya apa..............
+Larutan  kanji + air liur + betadin (dengan 3 menit ) perubahan warnanya apa..............
+Larutan kanji + air liur + betadin (dengan 6 menit ) perubahan warnanya apa..............
+Larutan kanji + air liur + betadin (dengan 9 menit ) perubahan warnanya apa..............
+Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warnanya apa..............
+Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warnanya apa..............
+1. Apa yang terjadi pada tabung reaksi nomor 1, larutan kanji yang
+langsung ditetesi betadin?
+2. Apa yang menyebabkan terjadinya perubahan warna larutan kanji yang
+langsung ditetesi betadin? Jelaskan!
+3 Pada tabung reaksi mana mulai tidak terjadi perubahan warna larutan
+kanji? Apa sebabnya demikian? Jelaskan!
+4 Apa yang dapat disimpulkan dari hasil kegiatan tersebut di atas?</h2><br />
+                        hasil percobaan mengenai Kerja Enzim Pitalin seperti tertera dibawah ini:<br /><br />
+Larutan kanji + betadin (dengan 0 menit ) perubahan warnanya : berubah menjadi biru kehitaman<br /><br />
+Larutan  kanji + air liur + betadin (dengan 3 menit ) perubahan warnanya : tetap putih keruh<br /><br />
+Larutan kanji + air liur + betadin (dengan 6 menit ) perubahan warna <br />: tetap putih keruh<br /><br /> Larutan kanji + air liur + betadin (dengan 9 menit ) perubahan warna <br />: tetap putih keruh<br /><br /> Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warna <br />: tetap putih keruh<br /><br /> Larutan kanji + air liur + betadin (dengan 12 menit ) perubahan warna <br />: tetap putih keruh<br /><br /><br />
+1. yang terjadi pada tabung reaksi nomor 1, larutan kanji yang<br />
+langsung ditetesi betadin akan memunculkan reaksi terlihat perubahan warna dari putih keruh kanji menjadi biru kehitaman.<br /><br />
+2. yang menyebabkan terjadinya perubahan warna larutan kanji yang<br />
+langsung ditetesi betadin adalah reaksi dari amilum yang terkandung pada kanji dengan yodium yang terkandung dalam betadin.<br /><br />
+3 Pada tabung reaksi 2 mulai tidak terjadi perubahan warna larutan<br />
+kanji, karena terdapat penambahan air liur yang dapat memecah amilum menjadi glukosa sehingga tidak ada lagi reaksi amilum dengan yodium sehingga tidak memunculkan perubahan warna.<br /><br />
+4 yang dapat disimpulkan dari hasil kegiatan tersebut di atas antara lain:<br />-kanji mengandung amilum, sehingga memunculkan warna biru kehitaman saat ditetesi betadin<br />-air liur mengtandung ptialin yang dapat memecah amilum menjadi glukosa sehingga tidak dapat bereaksi dengan yodium dan tidak memunculkan perubahan warna.<br /><br /><br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="apa-fungsinya-bahan-kimia-pada-betadin">
+                            21. apa fungsinya bahan kimia pada betadin.?</h2><br />
+                        untuk mempercepat atau membantu proses pembekuan darah.agar luka tidak mudah infeksi<br />
+                                            <h2 class="ez-toc-section" id="ospek-sma-arti-dari-nasi-betadin-t-kekebalan-kacang-kimia-balok-coklat-berjerawat-bantal-manis-berisi-oli">
+                            22. Ospek Sma : Arti dari , NASI BETADIN. T+ KEKEBALAN KACANG KIMIA BALOK COKLAT BERJERAWAT BANTAL MANIS BERISI OLI</h2><br />
+                        nasi betadin itu nasi beras merah.. Coklat berjerawat itu coklat yg ada mede nya.. Bantal manis isi oli itu snack merk pillow yg rasa coklat.. <p>Nadi betadin = Nasi Goreng + kecap / Nasi+kecap</p><p>T+Kekebalan = Timun (Kekebalan=imun)</p><p>Kacang Kimia = kacang atom</p><p>Balok cokelat = Coklat yang ada kacang mede /atau/ Beng beng</p><p>Bantal manis berisi oli = Roti sobek isi coklat</p><br /><p>#Jangan lupa jadikan jawaban terbaik #</p><br /><br />
+                                            <h2 class="ez-toc-section" id="perubahan-warna-larutan-yang-terjadi-pada-masing-masing-tabung-reaksi-dicatat-pada-tabel-hasil-pengamatan-berikut-ini-hasil-pengamatan-kerja-enzim-ptialintabung-reaksi-larutanwaktuperubahan-warn">
+                            23. Perubahan warna larutan yang terjadi pada masing-masing tabung reaksi dicatat pada tabel hasil pengamatan berikut ini.
+Hasil Pengamatan Kerja Enzim Ptialin
+Tabung reaksi  	Larutan	Waktu	Perubahan warna
+1	kanji + betadin	0 menit 	….
+2	kanji + air liur + betadin	3 menit	….
+3	kanji + air liur + betadin	6 menit	….
+4	kanji + air liur + betadin	9 menit	….
+5	kanji + air liur + betadin	12 menit	….
+6	kanji + air liur + betadin	15 menit	….</h2><br />
+                        1	kanji + betadin	0 menit larutan menjadi ungu kebiruan<br />2	kanji + air liur + betadin	3 menit kuning oranye<br />3	kanji + air liur + betadin	6 menit	larutan mengendap<br />4	kanji + air liur + betadin	9 menit larutan mengendap<br />5	kanji + air liur + betadin	12 menit larutan mengendap<br />6	kanji + air liur + betadin	15 menit larutan mengendap<br /><br />Air liur mengandung enzim amilase yang memecah amilum menjadi maltosa. Peran enzim adalah mempercepat metabolisme dan proses pencernaan makanan. Enzim bekerja berdasarkan waktu, jika lebih lama waktunya, enzim akan berhenti karena laju enzim sangat cepat dan tergantung waktu.<br />
+                                            <h2 class="ez-toc-section" id="perubahan-warna-pada-kanjibetadin-setelah-0-menit">
+                            24. perubahan warna pada kanji+betadin setelah 0 menit</h2><br />
+                        kalau 0 menit, mungkin masih belum berubah warna. tapi kalau berubah, warnanya akan berubah menjadi biru kehitaman yang berarti mengandung vit.C<br /><br />
+                                            <h2 class="ez-toc-section" id="kenapa-cairan-tepung-bila-bercampur-dengan-betadin-bisa-berwarna-unguu-toloong-jawabbb">
+                            25. kenapa cairan tepung bila bercampur dengan betadin bisa berwarna unguu, 
+??
+toloong jawabbb </h2><br />
+                        Reaksi yang terjadi di antara tepung dan betadin adalah merupakan reaksi biuret.<br />Reaksi biuret adalah salah satu cara menguji tidak adanya protein, reaksi ini juga bisa terjadi menggunakan larutan tembaga sulfat dan larutan natrium hidroksida. Jika mengandung protein, larutan akan berubah menjadi ungu atau biru tua.<br /><br />
+                                            <h2 class="ez-toc-section" id="warna-tempe-setelah-terkena-betadin-maka-akan-berubah-menjadi-warna%e2%80%8b">
+                            26. warna tempe setelah terkena betadin maka akan berubah menjadi warna?​</h2><br />
+                        <p><strong>Jawaban:</strong></p>biru gelap atau merah bata <p></p><p><strong>Penjelasan:</strong></p>semuga membantu dan bermanfaat<p></p><br />
+                                            <h2 class="ez-toc-section" id="warna-tahu-setelah-terkena-betadin-maka-berubah-menjadi-warna%e2%80%8b">
+                            27. warna tahu setelah terkena betadin maka berubah menjadi warna?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Biru keunguan</p><p><strong>Penjelasan:</strong></p><p>Bahan makanan yang mengandung amilum jika ditetesi larutan yodium/betadine akan berubah warnanya menjadi biru keunguan atau biru kehitaman. Berdasarkan teori diatas, makanan yang ditetesi betadine apabila warnannya berubah menjadi biru ungu sampai hitam menandakan bahwa makanan tersebut mengandung karbohidrat.</p><br />
+                                            <h2 class="ez-toc-section" id="betadin-atau-obat-merah-berguna-untuk-merawat%e2%80%8b">
+                            28. betadin atau obat merah berguna untuk merawat?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Betadine bermanfaat untuk mencegah pertumbuhan dan membunuh kuman penyebab infeksi pada kulit, seperti infeksi akibat luka gores atau luka bakar ringan.</p><p><strong>Penjelasan:</strong></p><p>#Semoga Membantu:)</p><p>#MaafKloSalah</p><p>#BelajarbersamaBrainly</p><p></p><p>JANGAN LUPA LIKE &amp; JADIKAN JAWABAN TERBAIK </p><p></p><p>@devi17052008</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-terjadi-pada-air-bila-di-campur-kan-dengan-betadin">
+                            29. Apa yang terjadi pada air bila di campur kan dengan betadin</h2><br />
+                        tidak akan menyatu srperti air dengan minyak .<br />
+                                            <h2 class="ez-toc-section" id="nasi-segenggam-air-roti-tawar-es-balon-tepung-terigu-betadin-tahu-put">
+                            30. -nasi segenggam                                     -air
+-roti Tawar                                               -es balon 
+-Tepung Terigu                                         -Betadin
+-Tahu
+-Putih Telur 
+-Larutan gula
+Kira2 dari bahan tersebut menguji tentang apa dan hal-hal yang biasa ditanyakan</h2><br />
+                        mengandung sifat apa, basah asam atau garam.<br />itu yng biasa ditanyakan<br />
+                                            <h2 class="ez-toc-section" id="cirikhusus-tanaman-betadinmanfaat-tumbuhanmedia-tanam-dan-perawatan">
+                            31. Cirikhusus tanaman betadin,manfaat tumbuhan,media tanam dan perawatan</h2><br />
+                        cirinya<br />memiliki daun yg panjang dan bergerigi<br />memiliki batang dan didalamnya terdapat lendir yg biasanya dipakai untuk pengobatan<br />
+                                            <h2 class="ez-toc-section" id="betadin-7-satu-per-2-atau-75-buatlah-sebanyak-30-mili%e2%80%8b">
+                            32. betadin 7 satu per 2% atau 7,5% Buatlah sebanyak 30 mili​</h2><br />
+                        <p><strong>Jaw</strong><strong>abannya</strong><strong> </strong><strong>:</strong></p><p><strong>3</strong><strong>0</strong><strong>0</strong><strong>m</strong><strong>i</strong><strong>l</strong><strong>i</strong></p><p><strong>penj</strong><strong>elasan</strong><strong>:</strong></p><p><strong> maaf</strong><strong> </strong><strong>ji</strong><strong>ka</strong><strong> </strong><strong>salah</strong></p><p><strong>Jawaban:</strong></p><p>300 mili perjalan</p><p><strong>Penjelasan:</strong></p><p>maaf kalu salah</p><br />
+                                            <h2 class="ez-toc-section" id="gimana-pengamatan-tentang-mie-instan-yang-di-campur-dengan-betadin">
+                            33. gimana pengamatan tentang mie instan yang di campur dengan betadin</h2><br />
+                        akan menjadi busuk dan basi<br />
+                                            <h2 class="ez-toc-section" id="jika-betadin-di-campur-vitamin-c-dan-a-maka-reaksi-berubah-menjadi-apa">
+                            34. jika betadin di campur vitamin C dan A maka reaksi berubah menjadi apa...................?</h2><br />
+                        Menjadi cairan lugol<br />
+                                            <h2 class="ez-toc-section" id="hasil-percobaan-menggunakan-betadin-air-liur-dan-larutan-kanji">
+                            35. hasil percobaan menggunakan betadin, air liur dan larutan kanji </h2><br />
+                        akan menjadi air bersih<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-menyebabkan-air-campuran-betadin-berubah-saat-dituangkan-pemutih">
+                            36. apa yang menyebabkan air campuran betadin berubah saat dituangkan pemutih ???</h2><br />
+                        <p>karena zat zat nya tercampur air yang beda jenisnya</p><p></p><p>karena betadin berwarna merah sedangkan pemutih berwarna putih</p><p></p><p>maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="apakah-bayam-akan-berubah-warna-ketika-diuji-mengunakan-betadin%e2%80%8b">
+                            37. apakah bayam akan berubah warna ketika diuji mengunakan betadin​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>makanan yang dioleskan di kertas dan dari situ akan terlihat makanan yang mengandung lemak maka tempat yang kita oleskan tersebut maka kertas tersebut akan transparan dan apabila tidak berati tidak mengandung lemak, yang kedua makanan yang diberi 5 tetes betadin maka makanan itu akan berubah menjadi warna ungu, yang ketiga makanannya dicampur oleh cairan dan jika warnanya berubah menjadi biru kehitaman berati makanan tersebut mengandung amilum</p><br />
+                                            <h2 class="ez-toc-section" id="senyawa-apa-yang-terkadung-di-dalam-betadin%e2%80%8b">
+                            38. Senyawa apa yang terkadung di dalam betadin?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Poviidone-iodine :C6 H9 N0)</p><p>CITRIC ACID : ( C6 H8 07 )</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="perubahan-warna-larutan-yang-terjadi-hasil-pengamatan-kerja-enzim-ptialintabung-reaksi-larutanwaktuperubahan-warna1kanji-betadin0-menit-ungu-kebiruan2kanji-air-liur-betadin3-menitku">
+                            39. Perubahan warna larutan yang terjadi Hasil Pengamatan Kerja Enzim Ptialin
+Tabung reaksi  	Larutan	Waktu	Perubahan warna
+1	kanji + betadin	0 menit 	Ungu kebiruan
+2	kanji + air liur + betadin	3 menit	Kuning 0ranye
+3	kanji + air liur + betadin	6 menit	….
+4	kanji + air liur + betadin	9 menit	….
+5	kanji + air liur + betadin	12 menit	….
+6	kanji + air liur + betadin	15 menit	….</h2><br />
+                        <p>kategori : biologi – system pencernaan / uji makanan</p>
+
+<p>kelas : 6 Sd / vi sd</p>
+
+<p>pembahasan :</p>
+
+<p> </p>
+
+Perubahan warna larutan yang terjadi pada percobaan uji makanan dengan
+judul :
+
+ Hasil Pengamatan Kerja Enzim Ptialin<br /><br />
+
+setelah perlakuaan percobaan , maka  didapat
+hasil sebagai berikut ini :
+
+<br /><br /><br />
+pada tabung reaksi 1 :
+
+larutan kanji + betadin pada waktu 0 menit akan menghasilkan warna Ungu
+kebiruan 
+
+<br /><br /> hal ini membuktikan bahwa larutan kanji mengandung amilum sehingga saat
+ditetesi betadin yang mengandung yodium dapat menghasilkan reaksi positif yaitu
+perubahan warna menjadi ungi kebiruan .
+
+ 
+
+. <br /><br /><br />pada tabung reaksi 2 :
+<br /><br />larutan kanji + air liur + betadin setelah 3 menit akan menghasilkan warna Kuning
+0ranye .
+
+ 
+
+<br /><br /><br />hasil ini menunjukkan bahwa air liur mengandung enzim ptyalin yang akan
+menguraikan kanji semjadi glukosa sehingga saat ditetesi betadin tidak lagi
+menghasilkan reaksi positif seperti pada tabung reaksi 1 melainkan menghasilkan
+reaksi negative sehingga warna nya hanya seperti warna awal betadin yaitu
+kuning oranye . <br /><br />
+
+pada tabung reaksi 3 :<br /><br /> larutan kanji + air liur + betadin setelah 6 menit akan menghasilkan warna Kuning
+0ranye .
+
+ 
+<br /><br /><br />hasil ini menunjukkan bahwa air liur mengandung enzim ptyalin yang akan
+menguraikan kanji semjadi glukosa sehingga saat ditetesi betadin tidak lagi
+menghasilkan reaksi positif seperti pada tabung reaksi 1 melainkan menghasilkan
+reaksi negative sehingga warna nya hanya seperti warna awal betadin yaitu
+kuning oranye .
+
+<p> </p>
+
+<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="1-warna-susu-kental-manis-setelah-ditetesi-betadin-maka-berubah-menjadi-warna-apa-2-warna-roti-setelah-ditetesi-betadin-maka-berubah-menjadi-warna-apa-bantu-jawab-ya-makasih%e2%80%8b">
+                            40. 1. Warna susu kental manis setelah ditetesi betadin maka berubah menjadi warna apa 2. Warna roti setelah ditetesi betadin maka berubah menjadi warna apa Bantu jawab ya makasih​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Warna merah kecoklatan</p><p>2. Warna hitam keunguan</p><p></p><p><strong>Penjelasan:</strong></p><p></p><p>Uji amilum dilakukan untuk mendeteksi bahan makanan yang mengandung amilum (karbohidrat)</p><p></p><p>Larutan yang dibutuhkan untuk melakukan uji amilum adalah lugol atau kalium iodida (betadine).</p><p></p><p>Bahan makanan yang mengandung amilum (karbohidrat) bila ditetesi lugol/kalium iodida akan berubah warna menjadi hitam keunguan. Semakin gelap warnyanya berarti makanan tersebut banyak kandungan karbohidratnya.</p><p></p><p>Berdasarkan pengamatan diatas, roti memiliki banyak kandungan amilum.</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/Sb140-jxjyM?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>kimia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/let-s-to-go-to-the-sushi-of-restaurant-for-lunch/">Let s To Go To The Sushi Of Restaurant For Lunch</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bilangan-oksidasi-s/">Bilangan Oksidasi S</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/untu-bahasa-kramane/">Untu Bahasa Kramane</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jenis-pena-yang-dapat-menggantikan-fungsi-dari-maru-pen-adalah/">Jenis Pena Yang Dapat Menggantikan Fungsi Dari Maru Pen Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-yg-dimaksud-pola-lantai/">Jelaskan Yg Dimaksud Pola Lantai</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ungkapan-tanggapan-dapat-berupa/">Ungkapan Tanggapan Dapat Berupa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/8-1-3/">8 1 3</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perhatikan-gambar-berikut-pernyataan-yang-benar-adalah/">Perhatikan Gambar Berikut Pernyataan Yang Benar Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nada-yang-mempunyai-jarak-12-adalah/">Nada Yang Mempunyai Jarak 1/2 Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/koreografer-dapat-menunjukkan-kemampuannya-dalam-menciptakan-karya-tari-melalui/">Koreografer Dapat Menunjukkan Kemampuannya Dalam Menciptakan Karya Tari Melalui</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bangsa-yang-melakukan-migrasi-pertama-ke-indonesia-adalah/">Bangsa Yang Melakukan Migrasi Pertama Ke Indonesia Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/siapa-yang-menyiram-kaktus-di-sekolah/">Siapa Yang Menyiram Kaktus Di Sekolah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/100-300/">100 300</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pos-pos-pengeluaran-apbn/">Pos Pos Pengeluaran Apbn</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/terangkan-tentang-manfaat-bahan-kulit-bagi-kerajinan-nusantara/">Terangkan Tentang Manfaat Bahan Kulit Bagi Kerajinan Nusantara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/manusia-berdosa-tidak-akan-pernah-mengalami-pembaharuan-kehidupan-tanpa-melalui/">Manusia Berdosa Tidak Akan Pernah Mengalami Pembaharuan Kehidupan Tanpa Melalui</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gambarlah-ragam-hias-geometris-dengan-motif-kawung/">Gambarlah Ragam Hias Geometris Dengan Motif Kawung</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jumlah-permainan-rounders-dalam-satu-regu-adalah/">Jumlah Permainan Rounders Dalam Satu Regu Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/penyesuaian-diri-makhluk-hidup-terhadap-lingkungannya-disebut/">Penyesuaian Diri Makhluk Hidup Terhadap Lingkungannya Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/alinea-ke-4/">Alinea Ke 4</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

@@ -1,0 +1,1331 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mr N - BELAJAR</title>
+    <meta name="description" content="Mr N, , , , , , , 0, Mr. N - YouTube, www.youtube.com, 900 x 900, jpeg, , 20, mr-n, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Mr N - BELAJAR" />
+    <meta property="og:description" content="Mr N, , , , , , , 0, Mr. N - YouTube, www.youtube.com, 900 x 900, jpeg, , 20, mr-n, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Mr N - BELAJAR" />
+    <meta name="twitter:description" content="Mr N, , , , , , , 0, Mr. N - YouTube, www.youtube.com, 900 x 900, jpeg, , 20, mr-n, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Mr N</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">aminonci92</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Mr+N" alt="Mr N">
+                    </div>
+                    <p></p>
+                    <p>Jika diketahui mol (n) dan Massa Molekul relative (Mr), maka massa (m) dapat dihitung dengan rumus…4 poinA. m = n + MrB. m = n - MrC. m = n.MrD.m = n/Mr​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-diketahui-mol-n-dan-massa-molekul-relative-mr-maka-massa-m-dapat-dihitung-dengan-rumus%e2%80%a64-poina-m-n-mrb-m-n-mrc-m-n-mrd-m-nmr%e2%80%8b">1.
+                                            Jika diketahui mol (n) dan Massa Molekul relative (Mr), maka massa (m) dapat dihitung dengan rumus…4 poinA. m = n + MrB. m = n - MrC. m = n.MrD.m = n/Mr​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-nm%c3%b7mr-maka-m-adalah">2.
+                                            Jika n=m÷mr maka m adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-mr-dari-nch33%e2%80%8b">3.
+                                            tentukan Mr dari N(CH3)3​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-a-r-n-14-maka-kadar-n-dalam-amonium-sulfat-mr-132-adalah">4.
+                                            Jika A r N = 14 maka kadar N dalam Amonium sulfat (Mr = 132) adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-senyawa-terdiri-dari-28-massa-n-72-massa-oksigan-jika-mr-senyawa-tersebut-ar-n-14-dan-o-18-adalah">5.
+                                            suatu senyawa terdiri dari 28% massa N 72% massa oksigan. jika Mr senyawa tersebut (Ar : N = 14 dan O = 18) adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebanyak-n-monomer-glisin-mr75-membentuk-polipeptida-mr-645-maka-harga-x-adalah">6.
+                                            Sebanyak n monomer glisin mr75 membentuk polipeptida mr 645. Maka harGa x adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#antara-pupuk-dibawah-ini-yang-paling-banyak-mengandung-persentase-nitrogen-ar-n-14-adalah-a-nh4no3-mr80b-nano3-mr85-c-conh22-mr85d-nh43-so4-mr142e-nh43-po4-mr150">7.
+                                            Antara pupuk dibawah ini yang paling banyak mengandung persentase nitrogen ( Ar N = 14 ) adalah 
+A. NH4NO3 (Mr=80)
+B. NaNO3 (Mr=85) 
+C. CO(NH2)2 (Mr=85)
+D. (NH4)3 SO4 (Mr=142)
+E. (NH4)3 PO4 (Mr=150)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pupuk-yang-paling-banyak-mengandung-nitrogen-ar-n14-adalah-a-nh42-so4-mr142b-nh43-po4-mr150c-nh22-co-mr-60-d-nh4no3-mr-80-e-nano3-mr-85">8.
+                                            pupuk yang paling banyak mengandung nitrogen (Ar N=14) adalah.. 
+A. (NH4)2 SO4 (Mr=142)
+B. (NH4)3 PO4 (Mr=150)
+C. (NH2)2 CO (Mr = 60 )
+D. NH4NO3 (Mr = 80 )
+E. NaNO3 (Mr = 85 )</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentuka-n-gr-mr-jika-dik-massa-gula-5-gram-dan-mr-gula-342">9.
+                                            tentuka n = Gr/ Mr jika dik massa gula = 5 gram dan Mr gula = 342</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#4-jika-ar-h1-dan-n-14-hitunglah-mr-dari-nh3">10.
+                                            4.	Jika Ar H=1 dan N= 14, hitunglah Mr dari NH3!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-masa-molekul-relatif-mr-nch33%e2%80%8b">11.
+                                            tentukan masa molekul relatif (mr) N(CH3)3​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapakah-mr-dari-ng-3-ar-h1-n14%e2%80%8b">12.
+                                            berapakah Mr dari Ng 3 (ar h=1 n=14)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yang-n-po-mr-sepuluh-ka">13.
+                                            Yang n po mr sepuluh ka</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-n-pentana-mempunyai-titik-didih-daripada-2-metil-butana-padahal-mr-keduanya-sama">14.
+                                            mengapa n-pentana mempunyai titik didih daripada 2-metil butana padahal mr keduanya sama</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapa-jumlah-partikel-atom-n-pada-334-gram-senyawa-n2omr44">15.
+                                            Berapa jumlah partikel atom N pada, 33,4 gram senyawa N2o(mr=44)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-arn-14-maka-kadar-n-dalam-amonium-sulfat-mr132adalah">16.
+                                            jika ArN = 14 maka kadar n dalam amonium sulfat (mr=132)adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-cara-memperolehrumus-n-10%c3%97-%c3%97-p-%c3%97-valensi-mr">17.
+                                            bagaimana cara memperolehrumus  N: 10×% × p × valensi / mr</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-makna-bilangan-kuantum-n1mr-dan-ms">18.
+                                            jelaskan makna bilangan kuantum n,1,mr dan ms</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hitunglah-persentase-nitrogen-ar-n14-dalam-nh4-2so4-mr132">19.
+                                            Hitunglah persentase nitrogen (Ar N=14) dalam (NH4) 2SO4 (mr=132)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#a-r-n-14-ar-o-16-berapakah-mr-n2o%e2%80%8b">20.
+                                            a r n = 14 Ar o = 16 Berapakah MR n2o​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#the-student-by-mr-andrian-right-now%e2%80%8b">21.
+                                            The student...by Mr Andrian right now​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-n-pentana-memiliki-titik-didih-lebih-tinggi-dari-neopentana-padahal-mr-nya-sama">22.
+                                            mengapa n-pentana memiliki titik didih lebih tinggi dari neopentana padahal Mr nya sama ? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapakah-massa-n-dalam-88-gram-n2o-mr-44-bantu-plisssss%e2%80%8b">23.
+                                            Berapakah massa N dalam 88 gram N2O (Mr = 44) !BANTU PLISSSSS​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-diketahuiar-n-14-h-1-o-16maka-mr-nh4oh-adalah-%e2%80%a6">24.
+                                            Jika diketahui
+Ar N = 14, H = 1, O = 16,
+maka Mr NH4OH adalah ….</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#massa-dari-10-mol-amonia-nh3-adalah-mr-n-h3-17">25.
+                                            Massa dari 1,0 mol amonia (NH3) adalah (mr N H3= 17)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diantara-senyawa-berikut-yang-mengandung-persentase-nitrogen-ar-n14-paling-besar-adalah-a-nh4no3-mr80b-nano3-mr85c-conh22-mr60d-nh42so4-mr132e-nh43po4-mr150">26.
+                                            Diantara senyawa berikut yang mengandung persentase nitrogen (Ar N=14) paling besar adalah..
+a. NH4NO3  (Mr=80)
+b. NaNO3     (Mr=85)
+c CO(NH2)2 (Mr=60)
+d. (NH4)2SO4  (Mr=132)
+e. (NH4)3PO4   (Mr=150)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-ar-n-14-maka-kadar-n-dalam-amonium-sulfat-mr-132-adalah">27.
+                                            Jika ar n = 14 , maka kadar n dalam amonium sulfat (mr = 132) adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-n-pentana-mempunyai-titik-didih-daripada-2-metil-butana-padahal-mr-keduanya-sama">28.
+                                            Mengapa n-pentana mempunyai titik didih daripada 2-metil butana padahal mr keduanya sama?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#3-pada-suhu-dan-tekanan-yang-sama-diantara-gas-gas-berikut-yang-memiliki-volumeterbesar-per-gram-adalah-a-n-mr-28b-0-mr-32c-co-mr-44d-nh-mr-17e-ch-mr-16%e2%80%8b">29.
+                                            3. Pada suhu dan tekanan yang sama, diantara gas-gas berikut yang memiliki volumeterbesar per gram adalah ....a. N, (Mr = 28)b. 0, (Mr = 32)c. CO, (Mr = 44)d. NH, (Mr = 17)e. CH, (Mr = 16)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#di-antara-senyawa-berikut-yang-mengandung-presentase-nitrogen-ar-n-14-paling-besar-adalaha-nh4no3-mr-80b-nano3-mr-85c-conh22-mr-60d-nh42so4-mr-132e-nh4">30.
+                                            Di antara senyawa berikut yang mengandung presentase nitrogen (Ar N = 14) paling besar adalah
+A. NH4NO3     (Mr = 80)
+B. NaNO3        (Mr = 85)
+C. CO(NH2)2   (Mr = 60)
+D. (NH4)2SO4 (Mr = 132)
+E. (NH4)3PO4  (Mr = 150)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-ar-na23-n14-dan-o16-mr-senyawa-nnano3-adalah">31.
+                                            Jika Ar na=23 n=14 dan o=16 mr senyawa n
+NaNO3 adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-mr-dari-senyawa-nh3-ar-n14-h1">32.
+                                            Tentukan Mr dari senyawa NH3( ar N=14 H=1 )</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-rumus-molekul-dari-senyawa-c2h6on-jika-diketahui-mr-senyawa-tersebut-adalah-92">33.
+                                            tuliskan rumus molekul dari senyawa (C2H6O)n jika diketahui Mr senyawa tersebut adalah 92</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-mr-dari-senyawa-nh3-ar-n14-h1">34.
+                                            Tentukan Mr dari senyawa NH3( ar N=14 H=1 )</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hitunglah-persentase-nitrogen-ar-n14-dalam-nh4-2so4-mr132">35.
+                                            Hitunglah persentase nitrogen (Ar N=14) dalam (NH4) 2SO4 (mr=132)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahan-pupuk-yang-kadar-nitrogennya-ar-n14-paling-tinggi-adalah-a-nh42so4-mr-128b-conh22-mr60c-nh4no3-mr80d-nano3-mr85e-nh43po4-mr149">36.
+                                            Bahan pupuk yang kadar nitrogennya (Ar N=14) paling tinggi adalah...
+a. (NH4)2SO4 (Mr =128)
+b. CO(NH2)2 (Mr=60)
+c. NH4NO3 (Mr=80)
+d. NaNO3 (Mr=85)
+e.(NH4)3PO4 (Mr=149)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-ar-n-14-berapa-kadar-n-dalam-amonium-sulfatmr-132-adalah">37.
+                                            jika  Ar N =14 , berapa kadar N dalam amonium sulfat(Mr = 132 ) adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-tentukan-mol-dari36-gram-h%c2%b2o-jika-diketahui-mr-h%c2%b2o-18-rumus-nmmr%e2%80%8b">38.
+                                            1) Tentukan mol dari36 gram H²O.Jika diketahui Mr H²O =18 !rumus n=m/Mr​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#massa-nitrogen-n-dalam-conh22-adalah-mr-co-nh2260-ar-n14-adalah">39.
+                                            Massa nitrogen (N) dalam CO(NH2)2 adalah Mr CO (NH2)2=60, Ar N=14 adalah...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapa-mr-dari-hno-ar-h1-nm-016">40.
+                                            Berapa Mr dari HNO (Ar H=1 N=M 0=16)</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="jika-diketahui-mol-n-dan-massa-molekul-relative-mr-maka-massa-m-dapat-dihitung-dengan-rumus%e2%80%a64-poina-m-n-mrb-m-n-mrc-m-n-mrd-m-nmr%e2%80%8b">
+                            1. Jika diketahui mol (n) dan Massa Molekul relative (Mr), maka massa (m) dapat dihitung dengan rumus…4 poinA. m = n + MrB. m = n - MrC. m = n.MrD.m = n/Mr​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C. m = n.Mr</p><p></p><p><strong>Penjelasan:</strong></p><p>n = m/Mr</p><p>m = n.Mr</p><br />
+                                            <h2 class="ez-toc-section" id="jika-nm%c3%b7mr-maka-m-adalah">
+                            2. Jika n=m÷mr maka m adalah</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>Molaritas Larutan (M)</p><p>Molaritas yaitu besaran yang menyatakan jumlah mol zat terlarut pada tiap satuan volume larutan.</p><p></p><p>Satuan molaritas ialah molar (M) yang sama dengan mol/liter. Jika terdapat n mol senyawa terlarut dalam V liter larutan, maka rumus molaritas larutan yaitu :</p><p></p><p>M = n/V</p><p></p><p>Keterangan:</p><p>M = molaritas suatu zat (mol/L)</p><p>V = volume larutan (ml)</p><p>gr = massa suatu zat (gram)</p><p>Mr = massa molekul relatif suatu zat (gr/mol)</p><p></p><p>Jumlah Mol Suatu Senyawa</p><p>Pada ilmu kimia, banyaknya suatu zat atau senyawa seringkali dinyatakan pada besaran mol. Besaran konsentrasi molaritas, molalitas, normalitas, dan fraksi mol memakai satuan kuantitas zat atau senyawa dalam mol. Mol yaitu gram zat dibagi dengan massa molekul relatif (Mr). Rumus menghitung mol suatu senyawa yaitu :</p><p></p><p>n = gram/Mr</p><p></p><p>Keterangan:</p><p>n = mol suatu zat (mol)</p><p>Mr = massa molekul relatif suatu zat (gram/mol)</p><p>gr = massa suatu zat (gr)</p><p></p><p></p><p> </p><p>Molalitas Larutan (m)</p><p>Molalitas yaitu besaran yang menyatakan jumlah mol zat terlarut pada tiap satuan berat pelarut. Satuan molalitas ialah molal (m) yang sama dengan mol/kilogram. Jika n mol senyawa dilarutkan dalam P kilogram pelarut, maka rumus molalitas larutan yaitu :</p><p></p><p>m = n/p</p><p></p><p>Keterangan:</p><p>m = molalitas suatu zat (molal)</p><p>p = massa pelarut (gr)</p><p>n = mol suatu zat (mol)</p><p></p><p>Normalitas Larutan (N)</p><p>Normalitas yaitu besaran yang menyatakan jumlah mol ekivalen zat terlarut pada tiap satuan volume larutan. Satuan normalitas ialah normal (N) yang sama dengan mol ekivalen/liter. Rumus normalitas larutan adalah</p><p></p><p>N = ek/V</p><p>atau N = n x a /V</p><p>atau N = M x a</p><p><strong>Jawaban:</strong></p><p>jika n=m÷mr maka m =n x mr</p><p><strong>Penjelasan:</strong></p><p><strong></strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-mr-dari-nch33%e2%80%8b">
+                            3. tentukan Mr dari N(CH3)3​</h2><br />
+                        <p>untuk menghitung Mr senyawa N(CH3)3, kita harus melihat data Ar dari unsurnya masing-masing , Ar dari unsurnya masing-masing dapat di lihat di SPU(Sistem periodik unsur).</p><p>Ar N = 14</p><p>Ar C = 12</p><p>Ar H = 1</p><p></p><p>Mr N(CH3)3 = ( 1 x Ar N) + ( 3 x Ar C ) + (9 x Ar H)</p><p>                    = ( 1 x 14) + (3 x 12) + (9 x 1)</p><p>                    = 14 + 36 + 9</p><p>                    = 59</p><br />
+                                            <h2 class="ez-toc-section" id="jika-a-r-n-14-maka-kadar-n-dalam-amonium-sulfat-mr-132-adalah">
+                            4. Jika A r N = 14 maka kadar N dalam Amonium sulfat (Mr = 132) adalah</h2><br />
+                        (NH₄)₂SO₄ <br />28/132 x 100 = 21,212%Mapel: Kimia<br />Kelas: X<br />Materi: Stoikiometri<br />Kata Kunci: Kadar Unsur<br /><br />Jawab<br /><br />Amonium = (NH4)2SO4 <br /><br />misalkan massa = 100% <br /> Kadar N = n Ar N/Mr × 100%<br />Kadar N = 2×Ar N/Mr×100%<br />Kadar N= 2×14/132×100% <br />Kadar N = 28/132 × 100% <br />Kadar N = 21,21% <br />
+                                            <h2 class="ez-toc-section" id="suatu-senyawa-terdiri-dari-28-massa-n-72-massa-oksigan-jika-mr-senyawa-tersebut-ar-n-14-dan-o-18-adalah">
+                            5. suatu senyawa terdiri dari 28% massa N 72% massa oksigan. jika Mr senyawa tersebut (Ar : N = 14 dan O = 18) adalah</h2><br />
+                        N : O<br />28/14 : 72/18<br />2 : 4 =&gt; 1 : 2<br /><br />maka rumus senyawanya adalah NO2. maka Mr nya = Ar N + Ar O2 = 14 + 32 = 46<br />
+                                            <h2 class="ez-toc-section" id="sebanyak-n-monomer-glisin-mr75-membentuk-polipeptida-mr-645-maka-harga-x-adalah">
+                            6. Sebanyak n monomer glisin mr75 membentuk polipeptida mr 645. Maka harGa x adalah</h2><br />
+                        Mr monomer. n = <br />Mr polipeptida+(n-1)18<br /><br />75. n = 645+18n-18<br />n       = 11<br />
+                                            <h2 class="ez-toc-section" id="antara-pupuk-dibawah-ini-yang-paling-banyak-mengandung-persentase-nitrogen-ar-n-14-adalah-a-nh4no3-mr80b-nano3-mr85-c-conh22-mr85d-nh43-so4-mr142e-nh43-po4-mr150">
+                            7. Antara pupuk dibawah ini yang paling banyak mengandung persentase nitrogen ( Ar N = 14 ) adalah 
+A. NH4NO3 (Mr=80)
+B. NaNO3 (Mr=85) 
+C. CO(NH2)2 (Mr=85)
+D. (NH4)3 SO4 (Mr=142)
+E. (NH4)3 PO4 (Mr=150)</h2><br />
+                        a. 14/80 x 100% = 17,5%<br />b. 14/85 x 100% = 16,47 %<br />c. 28/85 x 100% = 32,941%<br />d. 42/142 x 100% = 29,577%<br />e. 42/150 x 1005 = 28%<br /><br />Pupuk yang mengandung persentase N paling banyak adalah = C<br />
+                                            <h2 class="ez-toc-section" id="pupuk-yang-paling-banyak-mengandung-nitrogen-ar-n14-adalah-a-nh42-so4-mr142b-nh43-po4-mr150c-nh22-co-mr-60-d-nh4no3-mr-80-e-nano3-mr-85">
+                            8. pupuk yang paling banyak mengandung nitrogen (Ar N=14) adalah.. 
+A. (NH4)2 SO4 (Mr=142)
+B. (NH4)3 PO4 (Mr=150)
+C. (NH2)2 CO (Mr = 60 )
+D. NH4NO3 (Mr = 80 )
+E. NaNO3 (Mr = 85 )</h2><br />
+                        jawabannya C (NH2)2 CO (Mr =60) memang di urea banyak terdapat nitrogen# No CopasA. %N = 2 x Ar N / Mr (NH₄)₂SO₄ x 100% = 2 x 14 / 142 x 100% = 19,71%<br />B. %N = 3 x Ar N / Mr (NH₄)₃PO₄ x 100% = 3 x 14 / 150 x 100% = 28%<br />C. %N = 2 x Ar N / Mr (NH₂)₂CO x 100% = 2 x 14 / 60 x 100% = 46,67%<br />D. %N = 2 x Ar N / Mr NH₄NO₃ x 100% = 2 x 14 / 80 x 100% = 35%<br />E. %N = 1 x Ar N / Mr NaNO₃ x 100% = 14 / 85 x 100% = 16,47%<br /><br />Jadi, Pupuk yang paling banyak mengandung nitrogen adalah <strong>Urea (C)</strong>  <br /><br />
+                                            <h2 class="ez-toc-section" id="tentuka-n-gr-mr-jika-dik-massa-gula-5-gram-dan-mr-gula-342">
+                            9. tentuka n = Gr/ Mr jika dik massa gula = 5 gram dan Mr gula = 342</h2><br />
+                        semoga membantu :) mohon cek kembali yaJawaban :<br /><br />Diketahui :<br /><br />massa gula = 5 gr<br />Mr gula = 342<br />V = 100 ml = 0,1 liter<br /><br />Ditanya : M?<br /><br />mol = gr / Mr<br /><br />mol = 5 / 342<br /><br />mol = 0,014 mol<br /><br />Jadi,<br /><br />M = mol / V<br /><br />M = 0,014 / 0,1<br /><br />M = 0,14 M<br /><br />
+                                            <h2 class="ez-toc-section" id="4-jika-ar-h1-dan-n-14-hitunglah-mr-dari-nh3">
+                            10. 4.	Jika Ar H=1 dan N= 14, hitunglah Mr dari NH3!</h2><br />
+                        <p><strong>D</strong><strong>i</strong><strong>k</strong><strong>e</strong><strong>t</strong><strong>a</strong><strong>h</strong><strong>u</strong><strong>i</strong><strong> </strong><strong>:</strong><strong> </strong>Ar H = 1</p><p>                   Ar N = 14</p><p><strong>D</strong><strong>i</strong><strong>t</strong><strong>a</strong><strong>n</strong><strong>y</strong><strong>a</strong><strong> </strong><strong>:</strong><strong> </strong>Mr NH3</p><p><strong>J</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong> </strong><strong>:</strong><strong> </strong>Mr NH3 = Ar N + ( 3 x Ar H)</p><p>                            = 14 + ( 3 x 1)</p><p>                            = 14 + 3</p><p>                            = 17 </p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-masa-molekul-relatif-mr-nch33%e2%80%8b">
+                            11. tentukan masa molekul relatif (mr) N(CH3)3​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>untuk menghitung Mr senyawa N(CH3)3, kita harus melihat data Ar dari unsurnya masing-masing , Ar dari unsurnya masing-masing dapat di lihat di SPU(Sistem periodik unsur).</p><p></p><p>Ar N = 14</p><p></p><p>Ar C = 12</p><p></p><p>Ar H = 1</p><p></p><p>Mr N(CH3)3 = ( 1 x Ar N) + ( 3 x Ar C ) + (9 x Ar H)</p><p></p><p>                   = ( 1 x 14) + (3 x 12) + (9 x 1)</p><p></p><p>                   = 14 + 36 + 9</p><p></p><p>                   = 59</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p><strong>Penjelasan:</strong></p><p>maaf y klau slh</p><br />
+                                            <h2 class="ez-toc-section" id="berapakah-mr-dari-ng-3-ar-h1-n14%e2%80%8b">
+                            12. berapakah Mr dari Ng 3 (ar h=1 n=14)​</h2><br />
+                        <p>NG3? mungkin maksudnya NH3 kali ya</p><p><strong>M</strong><strong>r</strong><strong> </strong><strong>N</strong><strong>H</strong><strong>3</strong><strong> </strong><strong>=</strong><strong> </strong><strong>(</strong><strong>A</strong><strong>r</strong><strong> </strong><strong>N</strong><strong>)</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong>3</strong><strong> </strong><strong>x</strong><strong> </strong><strong>A</strong><strong>r</strong><strong> </strong><strong>H</strong><strong>)</strong></p><p><strong>M</strong><strong>r</strong><strong> </strong><strong>N</strong><strong>H</strong><strong>3</strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>4</strong><strong> </strong><strong>+</strong><strong> </strong><strong>3</strong><strong> </strong><strong>x</strong><strong> </strong><strong>1</strong></p><p><strong>M</strong><strong>r</strong><strong> </strong><strong>N</strong><strong>H</strong><strong>3</strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>4</strong><strong> </strong><strong>+</strong><strong> </strong><strong>3</strong></p><p><strong>M</strong><strong>r</strong><strong> </strong><strong>N</strong><strong>H</strong><strong>3</strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>7</strong></p><br />
+                                            <h2 class="ez-toc-section" id="yang-n-po-mr-sepuluh-ka">
+                            13. Yang n po mr sepuluh ka</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>ibu sedang memasak menggunakan kompor dengan perubahan energi gas menjadi panas</p><br />
+                                            <h2 class="ez-toc-section" id="mengapa-n-pentana-mempunyai-titik-didih-daripada-2-metil-butana-padahal-mr-keduanya-sama">
+                            14. mengapa n-pentana mempunyai titik didih daripada 2-metil butana padahal mr keduanya sama</h2><br />
+                        karna n-pentana mempunyai rantai induk yg lbh panjang drpd 2-metilbutana1. Karena n-pentana mempunyai rantai induk yang lebih panjang
+2. Karena 2-metilbutana memiliki cabang yang lebih banyak dibandingkan n-pentana<br />
+                                            <h2 class="ez-toc-section" id="berapa-jumlah-partikel-atom-n-pada-334-gram-senyawa-n2omr44">
+                            15. Berapa jumlah partikel atom N pada, 33,4 gram senyawa N2o(mr=44)</h2><br />
+                        Mol = massa/Mr<br />       = 33.4/44<br />       =0.76<br />Mol = P/L<br />0.76= P / 6.02 × 10^23<br />4.57 ×10^23 =P<br /><br />^ = pangkat<br />
+                                            <h2 class="ez-toc-section" id="jika-arn-14-maka-kadar-n-dalam-amonium-sulfat-mr132adalah">
+                            16. jika ArN = 14 maka kadar n dalam amonium sulfat (mr=132)adalah</h2><br />
+                        Amonium Sulfat = [tex](NH_4)_2SO_4[/tex]<br />[tex]\% ~N=\frac{2\times14}{132}\times100\%=\boxed{21,21~\%}[/tex]<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-cara-memperolehrumus-n-10%c3%97-%c3%97-p-%c3%97-valensi-mr">
+                            17. bagaimana cara memperolehrumus  N: 10×% × p × valensi / mr</h2><br />
+                        1 jawaban · Ilmu Kimia <br /><br />Jawabab<br /><br />M = mol / Volume (liter) <br /><br />mol = gram / Mr <br /><br />jadi : M = gram (terlarut) / (Mr x V ) <br /><br />V = V larutan. Hubungan antara V larutan dengan rho larutan adalah : <br />V larutan = massa larutan / rho larutan <br /><br />Hubungan antara massa larutan dengan persen massa adalah : <br />Q % = (gram terlarut / massa larutan) x 100 % <br />sehingga : <br />massa larutan = gram terlarut x 100 / Q <br /><br />Jadi, V larutan = gram terlarut / (Q x rho larutan). satuannya adalah mL, karena massa yang digunakan adalah gram. untuk mengubahnya menjadi liter, maka volume larutan ini harus dibagi 1000, sehingga <br /><br />V larutan = gram terlarut / (Q x rho x 1000) <br /><br />Jadi, <br />M = gram terlarut <br />----------------------------------------... <br />Mr x ((gram terlarut x 100) / (Q x rho x 1000)) <br />dengan mencoret gram terlarut dan angka 100 / 1000 sehingga tinggal angka 10 di bawah. Q, rho, dan angka 10 bisa dinaikkan ke atas, sehingga didapatlah rumus di atas : <br /><br />M = 10 x rho x Q / Mr <br /><br />Q = persen massa (%) <br /><br />M dan N hanya berbeda valensi saja.<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-makna-bilangan-kuantum-n1mr-dan-ms">
+                            18. jelaskan makna bilangan kuantum n,1,mr dan ms</h2><br />
+                         -(n) Bilangan kuantum utama (n) yang menyatakan tingkat energi.<br /> -(l) Bilangan kuantum azimut/momentum sudut (l) yang menyatakan bentuk orbital<br /> -(m) .Bilangan kuantum magnetik (m) yang menyatakan orientasi orbital dalam ruang tiga dimensi.<br /> -(s) Bilangan kuantum spin (s) yang menyatakan spin elektron pada sebuah atom.<br />
+                                            <h2 class="ez-toc-section" id="hitunglah-persentase-nitrogen-ar-n14-dalam-nh4-2so4-mr132">
+                            19. Hitunglah persentase nitrogen (Ar N=14) dalam (NH4) 2SO4 (mr=132)</h2><br />
+                        28/132 x 100%<br />= 21,21%2.Ar N/Mr.seny x 100% = 2.14 / 132 x 100%<br />                                      = 28 / 132x100%<br />                                      = 21,2%<br /><br />
+                                            <h2 class="ez-toc-section" id="a-r-n-14-ar-o-16-berapakah-mr-n2o%e2%80%8b">
+                            20. a r n = 14 Ar o = 16 Berapakah MR n2o​</h2><br />
+                        ~Hanyacatatann<p></p>Pendahuluan<p></p><p>a r n = 14 Ar o = 16 Berapakah MR n2o</p><p>______________________</p><p></p>Pembahasan<p></p>Diketahui :<p></p><p>Ar N = 14</p><p>Ar O = 16</p><p></p>Diketahui :<p></p>Mr NO2.. ?<p></p>Dijawab :<p></p>Massa Molekul Relatif ( Mr)<p></p><p>Mr NO2 = Ar N + 2 . Ar O</p><p>Mr NO2 = 14 + 2 . 16 </p><p>Mr NO2 = 14 + 32</p><p>Mr NO2 = 46</p><p></p>jadi, Mr NO2 <strong>adalah </strong><strong>4</strong><strong>6</strong><p></p><p>____________________________</p><p></p>Pelajari Lebih Lanjut<p></p>brainly.co.id/tugas/4734894brainly.co.id/tugas/10034421brainly.co.id/tugas/2369103                      <p></p><p>=================================</p><p></p>Detail Jawaban        <p></p><p>Mapel : Kimia</p><p>Bab : Stoikiometri</p><p>Kelas : X</p><p>Kode : 10.7.9</p><p>Kata kunci : massa molekul relatif</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="the-student-by-mr-andrian-right-now%e2%80%8b">
+                            21. The student...by Mr Andrian right now​</h2><br />
+                        <p>Jawaban:</p><p>Is being taught </p><p>Penjelasan:</p><p>Menggunakan tenses present continuous</p><p>Passive Voice:</p><p>S + is/am/are + being + past participle +/- by …</p><br />
+                                            <h2 class="ez-toc-section" id="mengapa-n-pentana-memiliki-titik-didih-lebih-tinggi-dari-neopentana-padahal-mr-nya-sama">
+                            22. mengapa n-pentana memiliki titik didih lebih tinggi dari neopentana padahal Mr nya sama ? </h2><br />
+                        n-pentana memiliki struktur molekul linear atau lurus, sementara neopentana memiliki struktur molekul yang bercabang. 
+Meski rumus molekul mereka sama tapi karena neopentana memiliki lebih banyak cabang maka ia lebih mudah mendidih dibanding n-pentana, sehingga n-pentana memiliki titik didih lebih tinggi.
+
+Semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="berapakah-massa-n-dalam-88-gram-n2o-mr-44-bantu-plisssss%e2%80%8b">
+                            23. Berapakah massa N dalam 88 gram N2O (Mr = 44) !BANTU PLISSSSS​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>56 gram</p><p><strong>Penjelasan:</strong></p><p>massa N = ( jumlah atom N x Ar N ) / Mr N2O x massa N2O</p><p></p><p>( 2 x 14 ) / 44 x 88 gram = 56 gram</p><br />
+                                            <h2 class="ez-toc-section" id="jika-diketahuiar-n-14-h-1-o-16maka-mr-nh4oh-adalah-%e2%80%a6">
+                            24. Jika diketahui
+Ar N = 14, H = 1, O = 16,
+maka Mr NH4OH adalah ….</h2><br />
+                        NH4OH<br />= Ar N + 4 Ar H + Ar O + Ar H<br />= 14 + 4.1 + 16 + 1<br />= 14 + 4 + 17<br />= 35<br /><br />semoga membantu <br />
+                                            <h2 class="ez-toc-section" id="massa-dari-10-mol-amonia-nh3-adalah-mr-n-h3-17">
+                            25. Massa dari 1,0 mol amonia (NH3) adalah (mr N H3= 17)</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>17 gram</p><p><strong>Penjelasan:</strong></p><p>Rumus:</p><p>M = g / mr</p><p>g = M × mr</p><p>diketahui:</p><p>mol NH3 = 1,0 mol</p><p>mr NH3 = 17</p><p></p><p>ditanya:</p><p>massa = .... ?</p><p></p><p>dijawab:</p><p>g = M × mr</p><p>g = 1,0 × 17</p><p>g = 17 gram</p><p></p><p>semoga membantu ya... :)</p><p>semoga bermanfaat (^_^)</p><br />
+                                            <h2 class="ez-toc-section" id="diantara-senyawa-berikut-yang-mengandung-persentase-nitrogen-ar-n14-paling-besar-adalah-a-nh4no3-mr80b-nano3-mr85c-conh22-mr60d-nh42so4-mr132e-nh43po4-mr150">
+                            26. Diantara senyawa berikut yang mengandung persentase nitrogen (Ar N=14) paling besar adalah..
+a. NH4NO3  (Mr=80)
+b. NaNO3     (Mr=85)
+c CO(NH2)2 (Mr=60)
+d. (NH4)2SO4  (Mr=132)
+e. (NH4)3PO4   (Mr=150)</h2><br />
+                        % N<br />a. 2 Ar N/Mr x 100% = 2 x 14 /80 x 100%<br />                                    = 35 %<br />b. 1 Ar N/Mr x 100% = 1 x 14 / 85 x 100%<br />                                    = 16,47 %<br />c. 1 Ar N / Mr x 100% = 2 x 14 / 60 x 100%<br />                                     = 40%<br />d. 2 Ar N / Mr x 100% = 2 x 14 / 132 x 100%<br />                                      = 21,21 %<br />e. 3 Ar N/Mr x 100% = 3 x 14 / 150 x 100%<br />                                    = 28%<br /><br />jadi, persentase N paling besar adalah C<br /><br />semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="jika-ar-n-14-maka-kadar-n-dalam-amonium-sulfat-mr-132-adalah">
+                            27. Jika ar n = 14 , maka kadar n dalam amonium sulfat (mr = 132) adalah</h2><br />
+                        <p></p><p></p><p>jadi jawaban nya tu Amonium sulfat=(NH⁴)²SO⁴</p><p>% N = 2×14 per 132 × 100%=21,21% </p><br />
+                                            <h2 class="ez-toc-section" id="mengapa-n-pentana-mempunyai-titik-didih-daripada-2-metil-butana-padahal-mr-keduanya-sama">
+                            28. Mengapa n-pentana mempunyai titik didih daripada 2-metil butana padahal mr keduanya sama?</h2><br />
+                        karena n-pentana memiliki rantai isomer yang normal<br />n-pentana memiliki rantai lurus lebih panjang daripada 2 metil butana sehingga titik didihnya lebih tinggi<br />
+                                            <h2 class="ez-toc-section" id="3-pada-suhu-dan-tekanan-yang-sama-diantara-gas-gas-berikut-yang-memiliki-volumeterbesar-per-gram-adalah-a-n-mr-28b-0-mr-32c-co-mr-44d-nh-mr-17e-ch-mr-16%e2%80%8b">
+                            29. 3. Pada suhu dan tekanan yang sama, diantara gas-gas berikut yang memiliki volumeterbesar per gram adalah ....a. N, (Mr = 28)b. 0, (Mr = 32)c. CO, (Mr = 44)d. NH, (Mr = 17)e. CH, (Mr = 16)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>NH, (MR=16)</p><p>OKEEEEEEEEEEEEE GGGGOOOODDDDDD</p><br />
+                                            <h2 class="ez-toc-section" id="di-antara-senyawa-berikut-yang-mengandung-presentase-nitrogen-ar-n-14-paling-besar-adalaha-nh4no3-mr-80b-nano3-mr-85c-conh22-mr-60d-nh42so4-mr-132e-nh4">
+                            30. Di antara senyawa berikut yang mengandung presentase nitrogen (Ar N = 14) paling besar adalah
+A. NH4NO3     (Mr = 80)
+B. NaNO3        (Mr = 85)
+C. CO(NH2)2   (Mr = 60)
+D. (NH4)2SO4 (Mr = 132)
+E. (NH4)3PO4  (Mr = 150)</h2><br />
+                        presentase Nitrogen paling besar adalah C. CO(NH2)2 karena,<br />% N = jlh unsur N x Ar N / Mr x 100%<br />% N = 2 x 14 / 60 x 100%<br />% N = 28/60 x 100%<br />% N = 0,46 x 100%<br />% N = 46% <br /><br />option A, %N = 35%<br />option B, %N = 16,4 %<br />option D, %N = 21%<br />option E, %N = 28% <br /><br />maka %N paling besar adalah option C, 46%.<br /><br />
+                                            <h2 class="ez-toc-section" id="jika-ar-na23-n14-dan-o16-mr-senyawa-nnano3-adalah">
+                            31. Jika Ar na=23 n=14 dan o=16 mr senyawa n
+NaNO3 adalah</h2><br />
+                        Mr = Ar Na + Ar N + 3 Ar O<br />= 23 + 14 + 3 (16)<br />= 23 + 14 + 48<br />= 85<br />
+                                            <h2 class="ez-toc-section" id="tentukan-mr-dari-senyawa-nh3-ar-n14-h1">
+                            32. Tentukan Mr dari senyawa NH3( ar N=14 H=1 )</h2><br />
+                        <p>Jawaban:</p><p>17</p><p>Penjelasan:</p><p>Mr = 1. Ar N + 3. Ar H = 1 . 14 + 3 . 1 = 14 + 3 = 17</p><p><strong>Penjelasan:</strong></p><p>Mr tinggal digabungkan</p><p></p><p>1×ar N + 3×ArH</p><p>1.14+3.1=14+3=17</p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-rumus-molekul-dari-senyawa-c2h6on-jika-diketahui-mr-senyawa-tersebut-adalah-92">
+                            33. tuliskan rumus molekul dari senyawa (C2H6O)n jika diketahui Mr senyawa tersebut adalah 92</h2><br />
+                        n(C₂) + n(H₆) + n(O) = 92<br />= n(2 x 12) + n(6 x 1) + n(16) = 92<br />==&gt; 24n + 6n + 16n = 92<br />===&gt; 46n = 92<br />====&gt; n = 2<br /><br />Maka rumus molekul :<br />(C₂H₆O)₂ = C₄H₁₂O₂(C2H6O)n = 92<br />=&gt;Ar C=12; Ar H=1; Ar O=16.<br />(12 x 2 + 1 x 6 + 16)n = 92<br />(24 + 6 + 16)n = 92<br />(46)n = 92<br />n= 92/46<br />n= 2<br />.<br />.<br />(C2H6O)n=(C2H6O)2<br />Rumus Molekul = C4H12O2<br />
+                                            <h2 class="ez-toc-section" id="tentukan-mr-dari-senyawa-nh3-ar-n14-h1">
+                            34. Tentukan Mr dari senyawa NH3( ar N=14 H=1 )</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>17</p><p><strong>Penjelasan:</strong></p><p>Mr NH3 = Ar N + Ar H</p><p>              = 14 + 3 . 1 </p><p>              = 17</p><br />
+                                            <h2 class="ez-toc-section" id="hitunglah-persentase-nitrogen-ar-n14-dalam-nh4-2so4-mr132">
+                            35. Hitunglah persentase nitrogen (Ar N=14) dalam (NH4) 2SO4 (mr=132)</h2><br />
+                        %N=n*Ar N/Mr x 100%<br />=2*14/132 x 100%<br />=700/33%<br />=21,2%<br /><br />maaf ya kalau salah<br />semoga bermanfaat<br />
+                                            <h2 class="ez-toc-section" id="bahan-pupuk-yang-kadar-nitrogennya-ar-n14-paling-tinggi-adalah-a-nh42so4-mr-128b-conh22-mr60c-nh4no3-mr80d-nano3-mr85e-nh43po4-mr149">
+                            36. Bahan pupuk yang kadar nitrogennya (Ar N=14) paling tinggi adalah...
+a. (NH4)2SO4 (Mr =128)
+b. CO(NH2)2 (Mr=60)
+c. NH4NO3 (Mr=80)
+d. NaNO3 (Mr=85)
+e.(NH4)3PO4 (Mr=149)</h2><br />
+                        kadar N = jml N x Ar N / Mr.senyawa * 100%<br /><br />tinggal dicari hasilnya yang paling besar. jawabannya B <br /><br />kadar N = 2 x 14 / 60 * 100<br />              = 46.6%<br />
+                                            <h2 class="ez-toc-section" id="jika-ar-n-14-berapa-kadar-n-dalam-amonium-sulfatmr-132-adalah">
+                            37. jika  Ar N =14 , berapa kadar N dalam amonium sulfat(Mr = 132 ) adalah</h2><br />
+                        Amonium Sulfat = (NH₄)₂SO₄<br />Rumus mengitung kadar:<br /><br />%N = Ar N × banyaknya N / Mr Senyawanya × 100%<br />        = (14 × 2) / 132 × 100%<br />        = 28/132 × 100%<br /><br />       21,2% ≈ <strong>21%<br /><br />:)<br /></strong><br />
+                                            <h2 class="ez-toc-section" id="1-tentukan-mol-dari36-gram-h%c2%b2o-jika-diketahui-mr-h%c2%b2o-18-rumus-nmmr%e2%80%8b">
+                            38. 1) Tentukan mol dari36 gram H²O.Jika diketahui Mr H²O =18 !rumus n=m/Mr​</h2><br />
+                        <p>Diketahui:</p><p>m = 36 gram</p><p>Mr = 18</p><p></p><p>Ditanya:</p><p>n</p><p></p><p>Jawab:</p><p>n = m/Mr</p><p>n = 36/18</p><p>n = 2 mol</p><br />
+                                            <h2 class="ez-toc-section" id="massa-nitrogen-n-dalam-conh22-adalah-mr-co-nh2260-ar-n14-adalah">
+                            39. Massa nitrogen (N) dalam CO(NH2)2 adalah Mr CO (NH2)2=60, Ar N=14 adalah...</h2><br />
+                        massa N = ((2 x Ar N) / Mr urea) x massa urea<br />massa N = ((2 x 14) / 60) x massa urea<br />massa N = (28 / 60) x massa urea<br />massa N = 7/15 x massa urea<br /><br />tinggal massa urea dimasukkan ke persamaan yang di atas, nanti kita dapat massa nitrogennya.<br />
+                                            <h2 class="ez-toc-section" id="berapa-mr-dari-hno-ar-h1-nm-016">
+                            40. Berapa Mr dari HNO (Ar H=1 N=M 0=16)</h2><br />
+                        H= 1<br />N= 14<br />O=16<br />jadi 1+14+16= 31<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>kimia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lagu-daerah-dan-penciptanya/">Lagu Daerah Dan Penciptanya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kalimat-angkasa/">Kalimat Angkasa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/abu-jafar-al-mansur-masih-memiliki-garis-keturunan-dengan/">Abu Jafar Al Mansur Masih Memiliki Garis Keturunan Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/komunikatif-adalah-brainly/">Komunikatif Adalah Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/penyempurnaan-produk-dapat-dilakukan-dengan-cara/">Penyempurnaan Produk Dapat Dilakukan Dengan Cara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ketukan-kuat-terdapat-pada/">Ketukan Kuat Terdapat Pada</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-perbedaan-tangga-nada-diatonik-dan-pentatonis/">Jelaskan Perbedaan Tangga Nada Diatonik Dan Pentatonis</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/no3-2/">No3 2</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/muatan-cu/">Muatan Cu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perhatikan-gambar-berikut-pernyataan-yang-benar-adalah/">Perhatikan Gambar Berikut Pernyataan Yang Benar Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bahasa-jawanya-selamat-sore/">Bahasa Jawanya Selamat Sore</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/segitiga/">Segitiga</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ragam-hias-atau-ornamen-banyak-kita-temukan-pada-kain/">Ragam Hias Atau Ornamen Banyak Kita Temukan Pada Kain</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ruas-garis-pada-bangun-datar/">Ruas Garis Pada Bangun Datar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fungsi-batang-singkong/">Fungsi Batang Singkong</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/makna-puisi-cita-citaku-menjadi-guru/">Makna Puisi Cita Citaku Menjadi Guru</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perhatikan-gambar-berikut-tentukan-panjang-ab/">Perhatikan Gambar Berikut Tentukan Panjang Ab</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/saat-sebuah-benda-bergerak-dengan-kecepatan-tetap-maka/">Saat Sebuah Benda Bergerak Dengan Kecepatan Tetap Maka</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/metodologis-adalah/">Metodologis Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kontravensi-adalah/">Kontravensi Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

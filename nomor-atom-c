@@ -1,0 +1,1473 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Nomor Atom C - BELAJAR</title>
+    <meta name="description" content="Nomor Atom C, , , , , , , 0, Nomor Atom dan Nomor Massa – Anashir Learning, www.anashir.com, 1290 x 912, jpeg, , 20, nomor-atom-c, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Nomor Atom C - BELAJAR" />
+    <meta property="og:description" content="Nomor Atom C, , , , , , , 0, Nomor Atom dan Nomor Massa – Anashir Learning, www.anashir.com, 1290 x 912, jpeg, , 20, nomor-atom-c, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Nomor Atom C - BELAJAR" />
+    <meta name="twitter:description" content="Nomor Atom C, , , , , , , 0, Nomor Atom dan Nomor Massa – Anashir Learning, www.anashir.com, 1290 x 912, jpeg, , 20, nomor-atom-c, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Nomor Atom C</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">rakena009</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Nomor+Atom+C" alt="Nomor Atom C">
+                    </div>
+                    <p></p>
+                    <p>Yang merupakan atom C sekunder yaitu atom C nomor....</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yang-merupakan-atom-c-sekunder-yaitu-atom-c-nomor">1.
+                                            Yang merupakan atom C sekunder yaitu atom C nomor....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#atom-c-nomor-atom-1-bereaksi-dengan-atom-cl-nomor-atom-17-akan-membentuk">2.
+                                            Atom C nomor atom 1 bereaksi dengan atom Cl nomor atom 17 akan membentuk</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pertanyaan-yang-benar-mengenai-isoton-adalah-a-atom-atom-yang-memiliki-nomor-atom-dan-nomor-massa-samab-atom-atom-yang-memiliki-nomor-atom-sama-tetapi-nomor-massa-berbedac-atom-atom-yang-memiliki">3.
+                                            Pertanyaan yang benar mengenai isoton adalah..a. Atom-atom yang memiliki nomor atom dan nomor massa samab. Atom-atom yang memiliki nomor atom sama, tetapi nomor massa berbedac. Atom-atom yang memiliki nomor atom berbeda, tetapi nomor massa samad. Atom-atom yang memiliki nomor atom dan nomor massa berbeda, tetapi jumlah neutron sama​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-konfigurasi-dan-jumlah-orbital-atom-atom-berikut-a-o-nomor-atom-8-b-s-nomor-atom-16-c-na-nomor-atom-11-d-ca-nomor-atom-20">4.
+                                            Tentukan konfigurasi dan jumlah Orbital atom -atom berikut : a. O nomor atom 8; b. S nomor atom 16; c. Na nomor atom 11; d. Ca nomor atom 20</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gambarkan-struktur-lewis-dari-atom-f-nomor-atom-9c-nomor-atom-6-dan-kr-nomor-atom-18-%e2%80%8b">5.
+                                            Gambarkan struktur lewis dari atom F (nomor atom 9),C (nomor atom 6), dan Kr (nomor atom 18).​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-konfigurasi-atom-berikut-a-na-nomor-atom-11-b-al-nomor-atom-13-c-ca-nomor-atom-20-d-br-nomor-atom-35%e2%80%8b">6.
+                                            buatlah konfigurasi atom berikut a. NA, nomor atom 11 b. Al, Nomor atom 13, c. Ca nomor atom 20, d. Br nomor atom 35​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-nomor-atom-dan-nomor-massa-pada-atom-c-dan-atom-ca-tersebut-mohon-segera-donggpleasee%e2%80%8b">7.
+                                            Tentukan nomor atom dan nomor massa pada atom C dan atom Ca tersebut...Mohon segera dongg#pleasee​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#atom-c-kuartener-pada-struktur-alkana-tersebut-adalah-atom-c-nomor-%e2%80%a6-%e2%80%8b">8.
+                                            Atom C kuartener pada struktur alkana tersebut adalah atom C nomor ….​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#atom-c-memiliki-nomor-atom-7dan-nomor-massa-14sedangkan-atom-n-memiliki-nomor-massa-14-dan-memiliki-nomor-atom-8-maka-kedua-atom-tersebut-termasuk-dalam%e2%80%8b">9.
+                                            Atom C memiliki nomor atom 7dan nomor massa 14sedangkan atom N memiliki nomor massa 14 dan memiliki nomor atom 8 . Maka kedua atom tersebut termasuk dalam*​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#atom-c-memiliki-nomor-atom-7dan-nomor-massa-14sedangkan-atom-n-memiliki-nomor-massa-14-dan-memiliki-nomor-atom-8-maka-kedua-atom-tersebut-termasuk-dalam%e2%80%8b">10.
+                                            Atom C memiliki nomor atom 7dan nomor massa 14sedangkan atom N memiliki nomor massa 14 dan memiliki nomor atom 8 . Maka kedua atom tersebut termasuk dalam​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-konfigurasi-elektron-jumlah-kulit-dan-elektron-valensi-pada-atom-dibawah-ini1-atom-na-nomor-atom-112-atom-c-nomor-atom-63-atom-ge-nomor-atom-324-atom-xe-nomor-atom-545-atom">11.
+                                            Tuliskan konfigurasi elektron, jumlah kulit dan elektron valensi pada atom dibawah ini
+1. Atom Na (nomor atom 11)
+2. Atom C (nomor atom 6)
+3. Atom Ge (nomor atom 32)
+4. Atom Xe (nomor atom 54)
+5. Atom Sr (nomor atom 38)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-konfigurasi-elektron-berdasarkan-kulit-dan-sub-kulit-pada-atom-atom-berikuta-atom-k-dengan-nomor-atom-19b-atom-ai-dengan-nomor-atom-13c-atom-s-dengan-nomor-atom-16d-atom-as-dengan-no">12.
+                                            Tuliskan konfigurasi elektron berdasarkan KULIT dan SUB KULIT pada atom atom berikut:
+a. Atom K dengan nomor atom 19
+b. Atom AI dengan nomor atom 13
+c. Atom S dengan nomor atom 16
+d. Atom As dengan nomor atom 33</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-konfigurasi-elktron-dan-diagram-ordital-berikut-ini-a-c-dengan-nomor-atom-6-b-k-dengan-nomor-atom-19-c-cl-dengan-nomor-atom-17-d-cr-dengan-nomor-atom-24">13.
+                                            Tuliskan konfigurasi elktron dan diagram ordital berikut ini: A. C dengan nomor atom 6 B. K dengan nomor atom 19 C. CL dengan nomor atom 17 D. CR dengan nomor atom 24</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#di-antara-atom-atom-berikut-atom-manakah-yang-merupakan-isotop-isobar-dan-isoton-antara-satu-atom-dengan-atom-yang-lain-a-massa-atom-12-nomor-atom-6-notasi-cb-massa-atom-14-nomo">14.
+                                            di antara atom-atom berikut, atom manakah yang merupakan isotop, isobar ,dan isoton, antara satu atom dengan atom yang lain? a. Massa atom = 12    Nomor atom = 6   Notasi = Cb. Massa atom = 14    Nomor atom = 7    Notasi = Nc. Massa atom = 16    Nomor atom = 8    Notasi = Od. Massa atom = 12    Nomor atom = 5    Notasi = Be. Massa atom = 14    Nomor atom = 6    Notasi = Cf. Massa atom = 13   Nomor atom = 6   Notasi = CTolong ya abang dan kakak</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#atom-c-memiliki-nomor-atom-6-maka-konfigurasi-elektron-atom-c-adalah">15.
+                                            Atom C memiliki nomor atom 6. Maka konfigurasi elektron atom C adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#atom-c-tersier-pada-struktur-alkana-tersebut-adalah-atom-c-nomor">16.
+                                            Atom c tersier pada struktur alkana tersebut adalah atom c nomor</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-beberapa-unsur-dengan-nomor-atom-sebagai-berikut-nomor-atom-a-6-nomor-atom-b-8-nomor-atom-c-11-nomor-atom-d-17-nomor-atom-e-20-pasangan-unsur-yang-dapat-membentuk-ikatan-ion">17.
+                                            Diketahui beberapa unsur dengan nomor atom sebagai berikut : nomor atom A = 6, nomor atom B = 8, nomor atom C = 11, nomor atom D = 17, nomor atom E = 20. Pasangan unsur yang dapat membentuk ikatan ion adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#susunlah-konfigurasi-elektron-pada-kulit-dari-atom-a-nomor-atom-8-atom-b-nomor-atom-15-dan-atom-c-nomor-atom-20%e2%80%8b">18.
+                                            susunlah konfigurasi elektron pada kulit dari atom A nomor atom 8, atom B nomor atom 15, dan atom C nomor atom 20​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#atom-c-memiliki-nomor-atom-6-jumlah-elektron-valensi-dari-atom-c-adalah">19.
+                                            Atom C memiliki nomor atom 6 , jumlah elektron valensi dari atom C adalah..</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-konfigurasi-elktron-atom-berikut-ini-a-al-dengan-nomor-atom-13b-zn-dengan-nomor-atom-30c-xe-dengan-nomor-atom">20.
+                                            Tentukan Konfigurasi elktron atom berikut ini : 
+a. Al dengan nomor atom 13
+b. Zn dengan nomor atom 30
+c. Xe dengan nomor atom</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#unsur-nomor-atom-15-unsur-b-nomor-atom-19-unsur-c-nomor-atom-21-unsur-dengan-nomor-atom-25-unsur-nomor-atom-3-diantara-unsur-unsur-tersebut-yang-dalam-satu-golongan-adalah">21.
+                                            unsur nomor atom 15 unsur b nomor atom 19 unsur C nomor atom 21 unsur dengan nomor atom 25 unsur nomor atom 3 diantara unsur-unsur tersebut yang dalam satu golongan adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-konfigurasi-elktron-atom-berikut-ini-a-al-dengan-nomor-atom-13b-zn-dengan-nomor-atom-30c-xe-dengan-nomor-atom%e2%80%8b">22.
+                                            Tentukan Konfigurasi elktron atom berikut ini : a. Al dengan nomor atom 13b. Zn dengan nomor atom 30c. Xe dengan nomor atom​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-jumlah-atom-c-primeratom-c-sekunderatom-c-tersier-dan-atom-c-kuartener-berikan-nomor-%e2%80%8b">23.
+                                            tentukan jumlah atom c primer,atom c sekunder,atom c tersier dan atom c kuartener ( berikan nomor )​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-bantu-dijawab-ya-1-pernyataan-yang-benar-mengenai-isobar-adalah-a-atom-atom-yang-memiliki-nomor-atom-dan-nomor-massa-sama-b-atom-atom-yang-memiliki-nomor-atom-sama-tetapi-nomor-massa">24.
+                                            tolong bantu dijawab ya.
+1. pernyataan yang benar mengenai isobar adalah....
+a. atom-atom yang memiliki nomor atom dan nomor massa sama.
+b. atom-atom yang memiliki nomor atom sama, tetapi nomor massa berbeda.
+c. atom-atom yang memiliki nomor atom berbeda, tetapi nomor massa sama.
+d. atom-atom yang memiliki nomor atom dan nomor massa berbeda, tetapi     jumlah neutron sama.
+2. dalam satu molekul CH3COOH terdapat...
+a. satu atom O
+b. dua atom H
+c. tiga atom C
+d. empat atom H
+3. atom aluminium mempunyai nomor atom 13 dan nomor massa 27. jumlah neutron yang dimiliki oleh atom fosfor tersebut adalah....
+a. 13
+b. 14
+c. 27
+d. 40</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-tentukan-jumlah-proton-elektron-dan-neutronyang-terdapat-dalam-beberapa-atom-berikut-a-atom-si-dengan-nomor-atom-14-dan-nomormassa-28b-atom-ca-dengan-nomor-atom-20-dan-nomormassa-40c-atom-zr-d">25.
+                                            1. Tentukan jumlah proton, elektron, dan neutronyang terdapat dalam beberapa atom berikut.a. Atom Si dengan nomor atom 14 dan nomormassa 28b. Atom Ca dengan nomor atom 20 dan nomormassa 40c. Atom Zr dengan nomor atom 40 dan nomormassa 91d. Atom Ir dengan nomor atom 77 dan nomormassa 192​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#atom-c-mempunyai-nomor-massa-12-dan-nomor-atom-6-berapakah-jumlah-proton-dan-elektron-pada-atom-c-%e2%80%8b">26.
+                                            Atom C mempunyai nomor massa 12 dan nomor atom 6.Berapakah jumlah proton dan elektron pada atom C ?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-atom-a-nomor-atom1-b-nomor-atom6-c-nomor-atom12-d-nomor-atom-11-dan-e-nomor-atom-10-pasangan-atom-yang-berikatan-kovalen-adalah">27.
+                                            diketahui atom A (nomor atom=1), B (nomor atom=6), C (nomor atom=12), D (nomor atom =11) dan E (nomor atom =10). pasangan atom yang berikatan kovalen adalah...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yang-termasuk-atom-c-primer-adalah-atom-c-nomor">28.
+                                            yang termasuk atom c primer adalah atom c nomor? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gambar-electron-dengan-symbol-lewis-untuk-atom-dibawah-inia-br-nomor-atom-35b-ca-nomor-atom-20c-o-nomor-atom-8d-c-nomor-atom-6%e2%80%8b">29.
+                                            gambar electron dengan symbol lewis untuk atom dibawah inia. Br, nomor atom 35b. Ca, nomor atom 20c. O, nomor atom 8d. C, nomor atom 6​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#manakah-yang-memiliki-jari-jari-atom-lebih-besar-jelaskan-a-b-nomor-atom-5-dan-c-nomor-atom-6b-b-nomor-atom-5-dan-a1-nomor-atom-13c-na-nomor-atom-11-dan-c1-nomor-atom-17">30.
+                                            manakah yang memiliki jari jari atom lebih besar ? Jelaskan !a. B (nomor atom = 5) dan C (nomor atom = 6)b. B (nomor atom = 5) dan A1 (nomor atom = 13)c. Na (nomor atom = 11) dan C1 (nomor atom = 17)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-yang-merupakan-atom-c-primer-adalah-gambar-tanpa-teksatom-karbon-nomor-1atom-karbon-nomor-2atom-karbon-nomor-3atom-karbon-nomor-4atom-karbon-nomor-5atom-karbon-nomor-6atom-karbon-nom">31.
+                                            1. Yang merupakan atom C primer adalah ..... *
+Gambar Tanpa Teks
+Atom karbon nomor 1
+Atom karbon nomor 2
+Atom karbon nomor 3
+Atom karbon nomor 4
+Atom karbon nomor 5
+Atom karbon nomor 6
+Atom karbon nomor 7
+Atom karbon nomor 8
+Atom karbon nomor 9
+Atom karbon nomor 10
+Atom karbon nomor 11
+Pada senyawa karbon di soal nomor 1, yang merupakan atom C sekunder adalah ..... *
+Atom karbon nomor 1
+Atom karbon nomor 2
+Atom karbon nomor 3
+Atom karbon nomor 4
+Atom karbon nomor 5
+Atom karbon nomor 6
+Atom karbon nomor 7
+Atom karbon nomor 8
+Atom karbon nomor 9
+Atom karbon nomor 10
+Atom karbon nomor 11
+3. Pada senyawa karbon di soal nomor 1, yang merupakan atom C tersier adalah ..... *
+Atom karbon nomor 1
+Atom karbon nomor 2
+Atom karbon nomor 3
+Atom karbon nomor 4
+Atom karbon nomor 5
+Atom karbon nomor 6
+Atom karbon nomor 7
+Atom karbon nomor 8
+Atom karbon nomor 9
+Atom karbon nomor 10
+Atom karbon nomor 11
+4. Pada senyawa karbon di soal nomor 1, yang merupakan atom C kuarterner adalah ..... *
+Atom karbon nomor 1
+Atom karbon nomor 2
+Atom karbon nomor 3
+Atom karbon nomor 4
+Atom karbon nomor 5
+Atom karbon nomor 6
+Atom karbon nomor 7
+Atom karbon nomor 8
+Atom karbon nomor 9
+Atom karbon nomor 10
+Atom karbon nomor 11</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yang-merupakan-pasangan-atom-c-sekunder-dan-atom-c-tersier-adalah-atom-c-nomor-%e2%80%a6-%e2%80%8b">32.
+                                            Yang merupakan pasangan atom C sekunder dan atom C tersier adalah atom C nomor ….​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kelompokkan-atom-yang-termasuk-isotonisotope-dan-isobarc-nomor-atom-6-nomor-massa12c-nomor-atom-6-nomor-massa13c-nomor-atom-6-nomor-massa-14o-nomor-atom-8-nomor-massa16o-nomor">33.
+                                            kelompokkan atom yang termasuk isoton,isotope dan isobar
+C (nomor atom= 6 nomor massa=12)
+C (nomor atom = 6 nomor massa=13)
+C (nomor atom= 6 nomor massa= 14)
+O (Nomor atom= 8 nomor massa=16)
+O (nomor atom= 8 nomor massa =18) 
+N (nomor atom= 7 nomor massa=14)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jumlah-elektron-dalam-suatu-atom-unsur-sama-dengana-berat-atomb-nomor-atomc-nomor-massad-nomor-neutron%e2%80%8b">34.
+                                            Jumlah elektron dalam suatu atom unsur sama dengan?a. berat atomb. nomor atomc. nomor massad. nomor neutron​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-lewis-dari-atom-c-dengan-nomor-atom-6-bergabung-dengan-atom-h-bernomor-atom-1">35.
+                                            Struktur Lewis dari Atom c dengan 
+nomor atom 6 bergabung dengan atom H bernomor atom 1</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukanlah-konfigurasi-elektron-atom-atom-berikut-a-ge-nomor-atom-32-b-se-nomor-atom-34-c-sr-nomor-atom-38-d-ra-nomor-atom-88">36.
+                                            Tentukanlah konfigurasi elektron atom-atom berikut.
+a. Ge ( nomor atom = 32 )
+b. Se ( nomor atom = 34 ) 
+c. Sr  ( nomor atom = 38 )
+d. Ra ( nomor atom = 88 )</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#senyawa-stabil-yang-dapat-dibentuk-oleh-atom-c-nomor-atom-6-dan-o-nomor-atom-8-adalah%e2%80%8b">37.
+                                            senyawa stabil yang dapat dibentuk oleh atom C ( nomor atom 6) dan O ( nomor atom 8) adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#manakah-di-antara-aton-atom-berikut-yang-termasuk-isotop-isoton-dan-isobara-c-nomor-atom-6-nomor-massa-12-b-c-nomor-atom-6-nomor-massa-13-c-c-nomor-atom-6-nomor-massa-1">38.
+                                            Manakah di antara aton-atom berikut yang termasuk isotop, isoton, dan isobar?
+a. C ( nomor atom = 6, nomor massa = 12 )
+b. C ( nomor atom = 6, nomor massa = 13 ) 
+c. C ( nomor atom = 6, nomor massa= 14 )
+d. O ( nomor atom= 8, nomor massa= 16 ) 
+e. O( nomor atom= 8, nomor massa= 18 )
+f. N ( nomor atom=7, nomor massa=14 )</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#3-susunlah-konfigurasi-elektron-pada-kulit-dari-atom-a-nomor-atom-8-atom-b-nomor-atom-15-dan-atom-c-nomor-atom-20ada-yg-bisa-bantu%e2%80%8b">39.
+                                            3. Susunlah konfigurasi elektron pada kulit dari atom A, nomor atom 8, atom B, nomor atom 15, dan atom C nomor atom 20ada yg bisa bantu?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#atom-karbon-berkedudukansebagai-atom-csekunder-adalah-atom-c-nomor-%e2%80%8b">40.
+                                            Atom karbon berkedudukansebagai atom cSekunder adalah atom c nomor...​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="yang-merupakan-atom-c-sekunder-yaitu-atom-c-nomor">
+                            1. Yang merupakan atom C sekunder yaitu atom C nomor....</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>2 dan 5 anjimm cuk asw apaan sih</p><br />
+                                            <h2 class="ez-toc-section" id="atom-c-nomor-atom-1-bereaksi-dengan-atom-cl-nomor-atom-17-akan-membentuk">
+                            2. Atom C nomor atom 1 bereaksi dengan atom Cl nomor atom 17 akan membentuk</h2><br />
+                        atom C dengan nmor atom 6  dan atom Cl dengan nomor atom 17. Keduanya merupakan unsur nonlogam. Apabila kedua unsur nonlogam saling berikatan, maka akan terbentuk ikatan kovalen. <br />C = (2 ,4)<br />Cl = (2, 8, 7) <br /><br />Maka, untuk stabil maka kedua atom memakai elektron secara bersama sama .....<br />atom C membutuhkan 4 Atom Cl <br />atom Cl membutuhkan satu atom C <br /><br />sehingga senyawa yg terbentuk adalah CCl4nomor atom c adlh 6: dgn elektron valensi 4.<br />nomor atom cl adlh 17: dgn elektron valensi 1.<br />senyawa yg dbntul adlh : CCl4<br />
+                                            <h2 class="ez-toc-section" id="pertanyaan-yang-benar-mengenai-isoton-adalah-a-atom-atom-yang-memiliki-nomor-atom-dan-nomor-massa-samab-atom-atom-yang-memiliki-nomor-atom-sama-tetapi-nomor-massa-berbedac-atom-atom-yang-memiliki">
+                            3. Pertanyaan yang benar mengenai isoton adalah..a. Atom-atom yang memiliki nomor atom dan nomor massa samab. Atom-atom yang memiliki nomor atom sama, tetapi nomor massa berbedac. Atom-atom yang memiliki nomor atom berbeda, tetapi nomor massa samad. Atom-atom yang memiliki nomor atom dan nomor massa berbeda, tetapi jumlah neutron sama​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>d</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-konfigurasi-dan-jumlah-orbital-atom-atom-berikut-a-o-nomor-atom-8-b-s-nomor-atom-16-c-na-nomor-atom-11-d-ca-nomor-atom-20">
+                            4. Tentukan konfigurasi dan jumlah Orbital atom -atom berikut : a. O nomor atom 8; b. S nomor atom 16; c. Na nomor atom 11; d. Ca nomor atom 20</h2><br />
+                        <p>Ada digambar ya! </p><p></p><p>Silahkan jika ada yang ditanyakan dikolom komentar ✨ </p><br />
+                                            <h2 class="ez-toc-section" id="gambarkan-struktur-lewis-dari-atom-f-nomor-atom-9c-nomor-atom-6-dan-kr-nomor-atom-18-%e2%80%8b">
+                            5. Gambarkan struktur lewis dari atom F (nomor atom 9),C (nomor atom 6), dan Kr (nomor atom 18).​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur Lewis:</p><p>   ••          •           ••</p><p>•• F •    • C  •    •• Kr ••</p><p>   ••          •           ••</p><p><strong>Penjelasan:</strong></p><p>Struktur lewis dapat disimbolkan dengan • </p><p>Banyak • ini bergantung dari banyaknya elektron valensi suatu atom</p><p>F = 2 7</p><p>C = 2 4</p><p>Kr = 2 8 8</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-konfigurasi-atom-berikut-a-na-nomor-atom-11-b-al-nomor-atom-13-c-ca-nomor-atom-20-d-br-nomor-atom-35%e2%80%8b">
+                            6. buatlah konfigurasi atom berikut a. NA, nomor atom 11 b. Al, Nomor atom 13, c. Ca nomor atom 20, d. Br nomor atom 35​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p>Na (2 8 1) –› Na+ (2 8) + e-</p><p>Na (Logam) memiliki nomor atom 11 dengan konfigurasi 2 8 1, cenderung melepaskan elektron sebanyak 1.</p><p></p><p>Al (2 8 3) –› Al³+ (2 8) + 3e-</p><p>Al memiliki nomor atom 11 dengan konfigurasi 2 8 3, cenderung melepaskan elektron sebanyak 3.</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-nomor-atom-dan-nomor-massa-pada-atom-c-dan-atom-ca-tersebut-mohon-segera-donggpleasee%e2%80%8b">
+                            7. Tentukan nomor atom dan nomor massa pada atom C dan atom Ca tersebut...Mohon segera dongg#pleasee​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a) nomor atom : 6</p><p>    nomot massa : 12</p><p>b) nomor atom : 40</p><p>    nomor massa : 20</p><p><strong>Penjelasan:</strong></p><p>•angka yg diatas disebut nomor massa, bilangannya tidak harus bilangan bulat kadang ada koma.</p><p>•angka yg dibawah disebut nomor atom, bilangannya selalu bilangan bulat. (terdiri dari jumlah atom proton dan elektron)</p><p></p><p><strong>Mapel</strong><strong> </strong><strong>:</strong><strong> </strong><strong>Kimia</strong></p><p><strong>Kelas</strong><strong> </strong><strong>:</strong><strong> </strong><strong>1</strong><strong>0</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="atom-c-kuartener-pada-struktur-alkana-tersebut-adalah-atom-c-nomor-%e2%80%a6-%e2%80%8b">
+                            8. Atom C kuartener pada struktur alkana tersebut adalah atom C nomor ….​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>atom C nomor 3 karena mengikat 4 atom C lainnya </p><br />
+                                            <h2 class="ez-toc-section" id="atom-c-memiliki-nomor-atom-7dan-nomor-massa-14sedangkan-atom-n-memiliki-nomor-massa-14-dan-memiliki-nomor-atom-8-maka-kedua-atom-tersebut-termasuk-dalam%e2%80%8b">
+                            9. Atom C memiliki nomor atom 7dan nomor massa 14sedangkan atom N memiliki nomor massa 14 dan memiliki nomor atom 8 . Maka kedua atom tersebut termasuk dalam*​</h2><br />
+                        <p>Jawaban:</p><p></p><p>Atom C memiliki nomor atom 7dan nomor massa 14sedangkan atom N memiliki nomor massa 14 dan memiliki nomor atom 8 . </p><p>nomor massa sama,kedua atom tersebut termasuk  </p><p>dalam ISOBAR
+</p><p>
+</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="atom-c-memiliki-nomor-atom-7dan-nomor-massa-14sedangkan-atom-n-memiliki-nomor-massa-14-dan-memiliki-nomor-atom-8-maka-kedua-atom-tersebut-termasuk-dalam%e2%80%8b">
+                            10. Atom C memiliki nomor atom 7dan nomor massa 14sedangkan atom N memiliki nomor massa 14 dan memiliki nomor atom 8 . Maka kedua atom tersebut termasuk dalam​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>diketahui Atom C memiliki nomor atom 7dan nomor massa 14sedangkan atom N memiliki nomor massa 14 dan memiliki nomor atom 8 </p><p>maka kedua atom tersebut termasuk dalam <strong>atom isobar</strong></p><p></p><p><strong>Penjelasan:</strong></p><p>atom isobar adalah sekumpulan atom unsur yang memiliki nilai atau jumlah massa yang sama</p><p></p><p><strong>semoga membantu:)</strong></p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-konfigurasi-elektron-jumlah-kulit-dan-elektron-valensi-pada-atom-dibawah-ini1-atom-na-nomor-atom-112-atom-c-nomor-atom-63-atom-ge-nomor-atom-324-atom-xe-nomor-atom-545-atom">
+                            11. Tuliskan konfigurasi elektron, jumlah kulit dan elektron valensi pada atom dibawah ini
+1. Atom Na (nomor atom 11)
+2. Atom C (nomor atom 6)
+3. Atom Ge (nomor atom 32)
+4. Atom Xe (nomor atom 54)
+5. Atom Sr (nomor atom 38)</h2><br />
+                        <p></p><p><strong>Penjelasan:</strong></p><p>1.  11Na = 2 8 1 (kulit K=2, kulit L=8, kulit M=1)</p><p></p><p>elektron valensi merupakan elektron terakhir kali diisi pada kulit.</p><p>maka e.valensi Na = 1</p><p>jumlah kulit yg terisi elektron (K,L,dan M) = 3</p><p></p><p>2. 6C = 2 4  </p><p>e. valensi = 4</p><p>jlh kulit = 2</p><p></p><p>3. 32 Ge = 2 8 18 4</p><p>e. valensi = 4</p><p>jlh kulit = 4</p><p></p><p>4. 54Xe = 2 8 18 18 8 (Kulit ke 4 atau klit N max elektron yg dpt diisi= 32, namun jika diisi sbanyak 26 maka e.valensi lebih dr 8.. e.valensi terbesar adalah 8. maka kulit N diisi max elektron sprti kulit sbelumnya)</p><p></p><p>e.valensi = 8</p><p>jlh kulit = 5</p><p></p><p>5. 38Sr = 2 8 18 8 2 </p><p>konf. sub kulit = 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s²</p><p>atau [Kr] 5s²</p><p> e. valensi = 2</p><p>jlh kulit = 5</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-konfigurasi-elektron-berdasarkan-kulit-dan-sub-kulit-pada-atom-atom-berikuta-atom-k-dengan-nomor-atom-19b-atom-ai-dengan-nomor-atom-13c-atom-s-dengan-nomor-atom-16d-atom-as-dengan-no">
+                            12. Tuliskan konfigurasi elektron berdasarkan KULIT dan SUB KULIT pada atom atom berikut:
+a. Atom K dengan nomor atom 19
+b. Atom AI dengan nomor atom 13
+c. Atom S dengan nomor atom 16
+d. Atom As dengan nomor atom 33</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>c.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu dan bermanfaat ya semoga berhasil dan sukses y</p><p><strong>Jawaban:</strong></p><p>A. atom karbon dengan nomor itam 19</p><p><strong>Penjelasan:</strong></p><p> maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-konfigurasi-elktron-dan-diagram-ordital-berikut-ini-a-c-dengan-nomor-atom-6-b-k-dengan-nomor-atom-19-c-cl-dengan-nomor-atom-17-d-cr-dengan-nomor-atom-24">
+                            13. Tuliskan konfigurasi elktron dan diagram ordital berikut ini: A. C dengan nomor atom 6 B. K dengan nomor atom 19 C. CL dengan nomor atom 17 D. CR dengan nomor atom 24</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>B. K DENGAN NOMOR ATOM 19</p><p><strong>Penjelasan:</strong></p><p>MAAF KALAU SALAH</p><br />
+                                            <h2 class="ez-toc-section" id="di-antara-atom-atom-berikut-atom-manakah-yang-merupakan-isotop-isobar-dan-isoton-antara-satu-atom-dengan-atom-yang-lain-a-massa-atom-12-nomor-atom-6-notasi-cb-massa-atom-14-nomo">
+                            14. di antara atom-atom berikut, atom manakah yang merupakan isotop, isobar ,dan isoton, antara satu atom dengan atom yang lain? a. Massa atom = 12    Nomor atom = 6   Notasi = Cb. Massa atom = 14    Nomor atom = 7    Notasi = Nc. Massa atom = 16    Nomor atom = 8    Notasi = Od. Massa atom = 12    Nomor atom = 5    Notasi = Be. Massa atom = 14    Nomor atom = 6    Notasi = Cf. Massa atom = 13   Nomor atom = 6   Notasi = CTolong ya abang dan kakak</h2><br />
+                        1. Isotop = no.atom sama
+No atom yang sama adalah yang a, e dan f, karena memiliki no.atom yang sama yaitu 6.
+
+2. Isobar = no.massa massa yg sama
+Unsur yang memiliki no.massa yang sama adalah a dan c karena memiki no.massa yang sama yaitu 12. Kemudian unsur b dan e karena memiliki no.massa sama yaitu 14. 
+
+3. Isoton = jumlah neutron yang sama.
+Cara menentukan jumlah neutron adalah :
+Neutron = no.massa - no.atom
+a. 12 - 6 = 6
+b. 14 - 7 = 7
+c. 16 - 8 = 8
+d. 12 - 5 = 7
+e. 14 - 6 = 8
+f. 13 - 6 = 7
+Jadi, unsur yang memiliki jumlah neutron yang sama adalah b,d dan f karena memiliki jumlah neutron 7. Kemudian unsur c dan e karena memiliki jumlah neutron 8. 
+Semoga bermanfaat. :) <br />
+                                            <h2 class="ez-toc-section" id="atom-c-memiliki-nomor-atom-6-maka-konfigurasi-elektron-atom-c-adalah">
+                            15. Atom C memiliki nomor atom 6. Maka konfigurasi elektron atom C adalah</h2><br />
+                        2 4.................................                         C₆ = 1s² 2s² 2p²<br />atau<br />C₆ = [He] 2s² 2p²<br />
+                                            <h2 class="ez-toc-section" id="atom-c-tersier-pada-struktur-alkana-tersebut-adalah-atom-c-nomor">
+                            16. Atom c tersier pada struktur alkana tersebut adalah atom c nomor</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tidak hanya sekedar mau tanya gimana cara tambah lagi dengan yang baru lahir ke pantai ini terletak sekitar sini dan berikan pada di rumahnya dan gula sampai saat di rumahnya dan gula pasir padi yang ditanam di dalam teks berbentuk bulat telur dan gula pasir padi yang ditanam di dalam teks berbentuk bulat telur dan gula pasir padi yang ditanam dalam isi pulsa elektrik all ye Ade Irma Yanti Lapindo masuk akal kalau tidak bisa lagi ya dengan yang baru pulang ok gan di Mane Mane Waka kesiswaan ini akan terjadi selanjutnya ya pak  di sini adalah orang yang tidak ada komentar link ke pantai mang Koko Thole ini juga bisa membuat</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-beberapa-unsur-dengan-nomor-atom-sebagai-berikut-nomor-atom-a-6-nomor-atom-b-8-nomor-atom-c-11-nomor-atom-d-17-nomor-atom-e-20-pasangan-unsur-yang-dapat-membentuk-ikatan-ion">
+                            17. Diketahui beberapa unsur dengan nomor atom sebagai berikut : nomor atom A = 6, nomor atom B = 8, nomor atom C = 11, nomor atom D = 17, nomor atom E = 20. Pasangan unsur yang dapat membentuk ikatan ion adalah</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>ED2; CD; C2B; EB</p><p><strong>Penjelasan:</strong></p><p>ED2 senyawanya CaCl2</p><p>CD senyawanya NaCl</p><p>C2B senyawanya Na2O</p><p>EB senyawanya CaO</p><br />
+                                            <h2 class="ez-toc-section" id="susunlah-konfigurasi-elektron-pada-kulit-dari-atom-a-nomor-atom-8-atom-b-nomor-atom-15-dan-atom-c-nomor-atom-20%e2%80%8b">
+                            18. susunlah konfigurasi elektron pada kulit dari atom A nomor atom 8, atom B nomor atom 15, dan atom C nomor atom 20​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. 8A= 1s2 2s2 2p4</p><p>2.15B= 1s2 2s2 2p6 3s2 3p3</p><p>3.20C= 1s2 2s2 2p6 3s2 3p6 4s2</p><p><strong>Penjelasan:</strong></p><p></p><p>setiap sub kulit "S" maksimum 2 elektron</p><p>setiap sub kulit "P" maksimum 6 elektron</p><p>catatan: tidak boleh lebih tapi jika kurang/angka berada di bawah maksimum boleh.</p><br />
+                                            <h2 class="ez-toc-section" id="atom-c-memiliki-nomor-atom-6-jumlah-elektron-valensi-dari-atom-c-adalah">
+                            19. Atom C memiliki nomor atom 6 , jumlah elektron valensi dari atom C adalah..</h2><br />
+                        Gunakan aturan KLMN:<br /><br />6C : K 2 L 4<br /><br />Jadi ada 4 elektron valensi.<br />
+                                            <h2 class="ez-toc-section" id="tentukan-konfigurasi-elktron-atom-berikut-ini-a-al-dengan-nomor-atom-13b-zn-dengan-nomor-atom-30c-xe-dengan-nomor-atom">
+                            20. Tentukan Konfigurasi elktron atom berikut ini : 
+a. Al dengan nomor atom 13
+b. Zn dengan nomor atom 30
+c. Xe dengan nomor atom</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Konfigurasi elektron Bohr-Bory:</p><p>    27</p>a.   Al   2   8   3<p>    13</p><p></p><p>    65</p>b.   Zn   2   8   18   2<p>    30</p><p></p><p>    131</p>c.   Xe   2   8   18   18   8<p>    54</p><p><strong>Penjelasan:</strong></p><p>   &gt;bisa dipelajari lebih lanjut di&lt;</p><p>https://brainly.co.id/tugas/3782699</p><p></p><p>Semoga membantu dan maaf kalau ada salah</p><p>#ChemistryFullOfWonders</p><br />
+                                            <h2 class="ez-toc-section" id="unsur-nomor-atom-15-unsur-b-nomor-atom-19-unsur-c-nomor-atom-21-unsur-dengan-nomor-atom-25-unsur-nomor-atom-3-diantara-unsur-unsur-tersebut-yang-dalam-satu-golongan-adalah">
+                            21. unsur nomor atom 15 unsur b nomor atom 19 unsur C nomor atom 21 unsur dengan nomor atom 25 unsur nomor atom 3 diantara unsur-unsur tersebut yang dalam satu golongan adalah</h2><br />
+                        <p>Unsur A ev=5 jadi unsur A gol 5A </p><p>Unsur B ev=1 jadi unsur B gol 1A </p><p>Unsur C ev=4s²3d^1 Jadi unsur C gol 3B</p><p>Unsur D ev=4s²3d^5 jadi unsur D gol 7B</p><p>Unsur E ev=1 jadi unsur E gol 1A</p><br /><p>Jadi,</p><p>Unsur2 diatas yang terletak dalam 1 golongan adalah unsur B dan E</p><br /><p>Maaf kalau salah atau kurang jelas</p><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="tentukan-konfigurasi-elktron-atom-berikut-ini-a-al-dengan-nomor-atom-13b-zn-dengan-nomor-atom-30c-xe-dengan-nomor-atom%e2%80%8b">
+                            22. Tentukan Konfigurasi elktron atom berikut ini : a. Al dengan nomor atom 13b. Zn dengan nomor atom 30c. Xe dengan nomor atom​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A</p><p><strong>Penjelasan:</strong></p><p>karena AL dengan nomor atom 13</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-jumlah-atom-c-primeratom-c-sekunderatom-c-tersier-dan-atom-c-kuartener-berikan-nomor-%e2%80%8b">
+                            23. tentukan jumlah atom c primer,atom c sekunder,atom c tersier dan atom c kuartener ( berikan nomor )​</h2><br />
+                        <p>Jawaban:</p><p></p><p>Penjelasan:</p><p> </p><br />
+                                            <h2 class="ez-toc-section" id="tolong-bantu-dijawab-ya-1-pernyataan-yang-benar-mengenai-isobar-adalah-a-atom-atom-yang-memiliki-nomor-atom-dan-nomor-massa-sama-b-atom-atom-yang-memiliki-nomor-atom-sama-tetapi-nomor-massa">
+                            24. tolong bantu dijawab ya.
+1. pernyataan yang benar mengenai isobar adalah....
+a. atom-atom yang memiliki nomor atom dan nomor massa sama.
+b. atom-atom yang memiliki nomor atom sama, tetapi nomor massa berbeda.
+c. atom-atom yang memiliki nomor atom berbeda, tetapi nomor massa sama.
+d. atom-atom yang memiliki nomor atom dan nomor massa berbeda, tetapi     jumlah neutron sama.
+2. dalam satu molekul CH3COOH terdapat...
+a. satu atom O
+b. dua atom H
+c. tiga atom C
+d. empat atom H
+3. atom aluminium mempunyai nomor atom 13 dan nomor massa 27. jumlah neutron yang dimiliki oleh atom fosfor tersebut adalah....
+a. 13
+b. 14
+c. 27
+d. 40</h2><br />
+                        1. pernyataan yang benar mengenai isobar adalah....<br /> c. atom-atom yang memiliki nomor atom berbeda, tetapi nomor massa sama.<br /><br /><br /> 2. dalam satu molekul CH3COOH terdapat...<br /> d. empat atom H<br /><br /> 3. atom aluminium mempunyai nomor atom 13 dan nomor massa 27. jumlah neutron yang dimiliki oleh atom aluminium tersebut adalah....<br /> b. 14<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="1-tentukan-jumlah-proton-elektron-dan-neutronyang-terdapat-dalam-beberapa-atom-berikut-a-atom-si-dengan-nomor-atom-14-dan-nomormassa-28b-atom-ca-dengan-nomor-atom-20-dan-nomormassa-40c-atom-zr-d">
+                            25. 1. Tentukan jumlah proton, elektron, dan neutronyang terdapat dalam beberapa atom berikut.a. Atom Si dengan nomor atom 14 dan nomormassa 28b. Atom Ca dengan nomor atom 20 dan nomormassa 40c. Atom Zr dengan nomor atom 40 dan nomormassa 91d. Atom Ir dengan nomor atom 77 dan nomormassa 192​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A. proton = elektron = neutron = 14</p><p>B. proton = elektron = neutron = 20</p><p><strong>Penjelasan:</strong></p><p>nomor massa = proton + neutron</p><p>nomor atom = proton = elektron</p><p></p><p>A. proton = elektron = 14</p><p>nomor massa = p + n</p><p>28 = 14 + n</p><p>neutron = 14</p><p></p><p>B. proton = elektron = 20</p><p>nomor massa = p + n</p><p>40 = 20+ n</p><p>neutron = 20</p><p></p><p>C dan D caranya sama</p><br />
+                                            <h2 class="ez-toc-section" id="atom-c-mempunyai-nomor-massa-12-dan-nomor-atom-6-berapakah-jumlah-proton-dan-elektron-pada-atom-c-%e2%80%8b">
+                            26. Atom C mempunyai nomor massa 12 dan nomor atom 6.Berapakah jumlah proton dan elektron pada atom C ?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> 6 proton dan 6 elektron</p><p><strong>Penjelasan:</strong></p><p>karena nomor atom = proton = elektron</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-atom-a-nomor-atom1-b-nomor-atom6-c-nomor-atom12-d-nomor-atom-11-dan-e-nomor-atom-10-pasangan-atom-yang-berikatan-kovalen-adalah">
+                            27. diketahui atom A (nomor atom=1), B (nomor atom=6), C (nomor atom=12), D (nomor atom =11) dan E (nomor atom =10). pasangan atom yang berikatan kovalen adalah...</h2><br />
+                        Kov = Non Logam + Non Logam <br /><br />1A = 1, gol IA, logam<br />6B = 2,4, gol IVA, non logam <br />12C = 2,8,2, gol IIA, logam<br />11D = 2,8,1, gol IA, logam<br />10E = 2,8, gol VIIIA, non logam <br /><br />B dan E<br /><br />Maaf kalau salah <br />
+                                            <h2 class="ez-toc-section" id="yang-termasuk-atom-c-primer-adalah-atom-c-nomor">
+                            28. yang termasuk atom c primer adalah atom c nomor? </h2><br />
+                        D. 1 dan 5 <br />#Semogabermanfaat<br />
+                                            <h2 class="ez-toc-section" id="gambar-electron-dengan-symbol-lewis-untuk-atom-dibawah-inia-br-nomor-atom-35b-ca-nomor-atom-20c-o-nomor-atom-8d-c-nomor-atom-6%e2%80%8b">
+                            29. gambar electron dengan symbol lewis untuk atom dibawah inia. Br, nomor atom 35b. Ca, nomor atom 20c. O, nomor atom 8d. C, nomor atom 6​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>bingung aku mau jawab ap...</p><p><strong>Penjelasan:</strong></p><p>mon maap yh...,</p><br />
+                                            <h2 class="ez-toc-section" id="manakah-yang-memiliki-jari-jari-atom-lebih-besar-jelaskan-a-b-nomor-atom-5-dan-c-nomor-atom-6b-b-nomor-atom-5-dan-a1-nomor-atom-13c-na-nomor-atom-11-dan-c1-nomor-atom-17">
+                            30. manakah yang memiliki jari jari atom lebih besar ? Jelaskan !a. B (nomor atom = 5) dan C (nomor atom = 6)b. B (nomor atom = 5) dan A1 (nomor atom = 13)c. Na (nomor atom = 11) dan C1 (nomor atom = 17)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C. NA(NOMOR ATOM=11) DAN C1(NOMOR ATOM=17) </p><p><strong>Penjelasan:</strong></p><p>MAAF KALAU SALAH</p><br />
+                                            <h2 class="ez-toc-section" id="1-yang-merupakan-atom-c-primer-adalah-gambar-tanpa-teksatom-karbon-nomor-1atom-karbon-nomor-2atom-karbon-nomor-3atom-karbon-nomor-4atom-karbon-nomor-5atom-karbon-nomor-6atom-karbon-nom">
+                            31. 1. Yang merupakan atom C primer adalah ..... *
+Gambar Tanpa Teks
+Atom karbon nomor 1
+Atom karbon nomor 2
+Atom karbon nomor 3
+Atom karbon nomor 4
+Atom karbon nomor 5
+Atom karbon nomor 6
+Atom karbon nomor 7
+Atom karbon nomor 8
+Atom karbon nomor 9
+Atom karbon nomor 10
+Atom karbon nomor 11
+Pada senyawa karbon di soal nomor 1, yang merupakan atom C sekunder adalah ..... *
+Atom karbon nomor 1
+Atom karbon nomor 2
+Atom karbon nomor 3
+Atom karbon nomor 4
+Atom karbon nomor 5
+Atom karbon nomor 6
+Atom karbon nomor 7
+Atom karbon nomor 8
+Atom karbon nomor 9
+Atom karbon nomor 10
+Atom karbon nomor 11
+3. Pada senyawa karbon di soal nomor 1, yang merupakan atom C tersier adalah ..... *
+Atom karbon nomor 1
+Atom karbon nomor 2
+Atom karbon nomor 3
+Atom karbon nomor 4
+Atom karbon nomor 5
+Atom karbon nomor 6
+Atom karbon nomor 7
+Atom karbon nomor 8
+Atom karbon nomor 9
+Atom karbon nomor 10
+Atom karbon nomor 11
+4. Pada senyawa karbon di soal nomor 1, yang merupakan atom C kuarterner adalah ..... *
+Atom karbon nomor 1
+Atom karbon nomor 2
+Atom karbon nomor 3
+Atom karbon nomor 4
+Atom karbon nomor 5
+Atom karbon nomor 6
+Atom karbon nomor 7
+Atom karbon nomor 8
+Atom karbon nomor 9
+Atom karbon nomor 10
+Atom karbon nomor 11</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>State Defending is the determination, attitude and behavior of citizens imbued with a love for the Unitary State of the Republic of Indonesia based on the Pancasila and the 1945 Constitution willing to sacrifice to ensure the survival of the nation and state</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="yang-merupakan-pasangan-atom-c-sekunder-dan-atom-c-tersier-adalah-atom-c-nomor-%e2%80%a6-%e2%80%8b">
+                            32. Yang merupakan pasangan atom C sekunder dan atom C tersier adalah atom C nomor ….​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Atom C sekunder ditunjukkanm oleh nomor 2. Sedangkan atom C tersier ditunjukkan oleh nomor 4. </p><p><strong>Penjelasan:</strong></p><p>Atom C sekunder adalah suatu atom C yang berikatan dengan dua atom C lain pada nomor 2 atom C pada CH₂ berikatan dengan CH₃ dan C. Sedangkan atom C tersier adalah suatu atom C yang berikatan dengan tiga atom C lain pada nomor 3 atom C pada CH berikatan dengan dua buah CH₃ dan C. </p><p></p><p>Pelajari lebih lanjut tentang materi atom C sekunder, pada https://brainly.co.id/tugas/16835907</p><p></p><p>#BelajarBersamaBrainly</p><br />
+                                            <h2 class="ez-toc-section" id="kelompokkan-atom-yang-termasuk-isotonisotope-dan-isobarc-nomor-atom-6-nomor-massa12c-nomor-atom-6-nomor-massa13c-nomor-atom-6-nomor-massa-14o-nomor-atom-8-nomor-massa16o-nomor">
+                            33. kelompokkan atom yang termasuk isoton,isotope dan isobar
+C (nomor atom= 6 nomor massa=12)
+C (nomor atom = 6 nomor massa=13)
+C (nomor atom= 6 nomor massa= 14)
+O (Nomor atom= 8 nomor massa=16)
+O (nomor atom= 8 nomor massa =18) 
+N (nomor atom= 7 nomor massa=14)</h2><br />
+                        1. Isoton (nomor atom beda &amp; jumlah neutron sama), contoh : C nomor atom 6 nomor massa 14 dan O nomor atom 8 nomor massa 16 dan N nomor atom 7 nomor massa 14.<br />2. Isotop (nomor atom sama &amp; nomor massa/jumlah proton berbeda), contoh : C nomor atom 6 nomor massa 12 dan C momor atom 6 nomor massa 13 dan C nomor atom 6 nomor massa 14, O nomor atom 8 nomor massa 16 dan O nomor atom 8 nomor massa 18.<br />3. Isobar (nomor atom beda &amp; nomor massa/jumlah proton sama), contoh : C nomor atom 6 nomor massa 14 dan N nomor atom 7 nomor massa 14.<br /><br />Semoga membantu:)Isoton:<br />1. 14                 14<br />    6 C dengan 7 C<br /><br />Isotop:<br />1. 12                 13<br />    6 C dengan 6 C<br /><br />2. 13                 14<br />     6 C dengan 6 C<br /><br />3. 12                14<br />    6 C dengan 6 C<br /><br />4. 16                 18<br />    8 O dengan 8 O<br /><br />Isobar:<br />1. 13                  14<br />    6 C dengan 7 N<br /><br />2. 14                 16<br />     6 C dengan 8 O<br />
+                                            <h2 class="ez-toc-section" id="jumlah-elektron-dalam-suatu-atom-unsur-sama-dengana-berat-atomb-nomor-atomc-nomor-massad-nomor-neutron%e2%80%8b">
+                            34. Jumlah elektron dalam suatu atom unsur sama dengan?a. berat atomb. nomor atomc. nomor massad. nomor neutron​</h2><br />
+                        <p>A. berat atom</p><p><strong>Penjelasan:</strong></p><p>a. berat atom</p><br />
+                                            <h2 class="ez-toc-section" id="struktur-lewis-dari-atom-c-dengan-nomor-atom-6-bergabung-dengan-atom-h-bernomor-atom-1">
+                            35. Struktur Lewis dari Atom c dengan 
+nomor atom 6 bergabung dengan atom H bernomor atom 1</h2><br />
+                        6C = 2 4<br />1H = 1<br /><br />Akan membentuk senyawa CH4 dengan ikatan kovalen<br />
+                                            <h2 class="ez-toc-section" id="tentukanlah-konfigurasi-elektron-atom-atom-berikut-a-ge-nomor-atom-32-b-se-nomor-atom-34-c-sr-nomor-atom-38-d-ra-nomor-atom-88">
+                            36. Tentukanlah konfigurasi elektron atom-atom berikut.
+a. Ge ( nomor atom = 32 )
+b. Se ( nomor atom = 34 ) 
+c. Sr  ( nomor atom = 38 )
+d. Ra ( nomor atom = 88 )</h2><br />
+                        SPU<br /><br />a. Ge: 2, 8, 18, 4<br />b. Se: 2, 8, 18, 6<br />c. Sr: 2, 8, 18, 8, 2<br />d. Ra: 2, 8, 18, 32, 18, 8, 2ge=1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p2<br />se=1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p4<br />sr=1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 5s2<br />ra=1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p6 4d10 4f14 5s2 5p6 5d10 6s2 6p6 7s2<br />
+                                            <h2 class="ez-toc-section" id="senyawa-stabil-yang-dapat-dibentuk-oleh-atom-c-nomor-atom-6-dan-o-nomor-atom-8-adalah%e2%80%8b">
+                            37. senyawa stabil yang dapat dibentuk oleh atom C ( nomor atom 6) dan O ( nomor atom 8) adalah​</h2><br />
+                        <p>Jawaban:</p><p>CO2</p><p></p><p>Penjelasan:</p><p>Semoga menjawab like ny tolong dan jawaban terbaik ya</p><br />
+                                            <h2 class="ez-toc-section" id="manakah-di-antara-aton-atom-berikut-yang-termasuk-isotop-isoton-dan-isobara-c-nomor-atom-6-nomor-massa-12-b-c-nomor-atom-6-nomor-massa-13-c-c-nomor-atom-6-nomor-massa-1">
+                            38. Manakah di antara aton-atom berikut yang termasuk isotop, isoton, dan isobar?
+a. C ( nomor atom = 6, nomor massa = 12 )
+b. C ( nomor atom = 6, nomor massa = 13 ) 
+c. C ( nomor atom = 6, nomor massa= 14 )
+d. O ( nomor atom= 8, nomor massa= 16 ) 
+e. O( nomor atom= 8, nomor massa= 18 )
+f. N ( nomor atom=7, nomor massa=14 )</h2><br />
+                        C.c(nomor atom =6, nomor massa =14)<br />
+                                            <h2 class="ez-toc-section" id="3-susunlah-konfigurasi-elektron-pada-kulit-dari-atom-a-nomor-atom-8-atom-b-nomor-atom-15-dan-atom-c-nomor-atom-20ada-yg-bisa-bantu%e2%80%8b">
+                            39. 3. Susunlah konfigurasi elektron pada kulit dari atom A, nomor atom 8, atom B, nomor atom 15, dan atom C nomor atom 20ada yg bisa bantu?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Atom A</p><p>nomor atom 8</p><p>Konfigurasi elektron : <strong>2</strong><strong> </strong><strong>6</strong></p><p>Atom B</p><p>nomor atom 15</p><p>Konfigurasi elektron : <strong>2</strong><strong> </strong><strong>8</strong><strong> </strong><strong>5</strong></p><p>Atom C</p><p>Konfigurasi elektron : <strong>2</strong><strong> </strong><strong>8</strong><strong> </strong><strong>8</strong><strong> </strong><strong>2</strong></p><p>*kak, kenapa pada kulit ke 3 tidak 10 aja kak</p><p><strong>N</strong><strong>a</strong><strong>h</strong><strong>.</strong><strong>.</strong><strong> </strong><strong>k</strong><strong>a</strong><strong>r</strong><strong>e</strong><strong>n</strong><strong>a</strong><strong> </strong><strong>j</strong><strong>i</strong><strong>k</strong><strong>a</strong><strong> </strong><strong>elektron</strong><strong> </strong><strong>v</strong><strong>a</strong><strong>l</strong><strong>e</strong><strong>n</strong><strong>s</strong><strong>i</strong><strong>nya</strong><strong> </strong><strong>b</strong><strong>e</strong><strong>r</strong><strong>a</strong><strong>d</strong><strong>a</strong><strong> </strong><strong>d</strong><strong>i</strong><strong>a</strong><strong>n</strong><strong>t</strong><strong>a</strong><strong>r</strong><strong>a</strong><strong> </strong><strong>8</strong><strong> </strong><strong>&gt;</strong><strong> </strong><strong>x</strong><strong> </strong><strong>&lt;</strong><strong> </strong><strong>1</strong><strong>8</strong><strong> </strong><strong>m</strong><strong>a</strong><strong>k</strong><strong>a</strong><strong> </strong><strong>m</strong><strong>a</strong><strong>k</strong><strong>s</strong><strong>i</strong><strong>m</strong><strong>u</strong><strong>m</strong><strong> </strong><strong>elektronnya</strong><strong> </strong><strong>h</strong><strong>a</strong><strong>n</strong><strong>y</strong><strong>a</strong><strong> </strong><strong>8</strong><strong> </strong><strong>d</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>s</strong><strong>i</strong><strong>s</strong><strong>a</strong><strong>n</strong><strong>y</strong><strong>a</strong><strong> </strong><strong>ditaru</strong><strong>h</strong><strong> </strong><strong>p</strong><strong>a</strong><strong>d</strong><strong>a</strong><strong> </strong><strong>k</strong><strong>u</strong><strong>l</strong><strong>i</strong><strong>t</strong><strong> </strong><strong>s</strong><strong>e</strong><strong>l</strong><strong>a</strong><strong>n</strong><strong>j</strong><strong>u</strong><strong>t</strong><strong>n</strong><strong>y</strong><strong>a</strong></p><p><strong>S</strong><strong>E</strong><strong>M</strong><strong>O</strong><strong>G</strong><strong>A</strong><strong> </strong><strong>M</strong><strong>E</strong><strong>M</strong><strong>B</strong><strong>A</strong><strong>N</strong><strong>T</strong><strong>U</strong><strong>:</strong><strong>)</strong></p><br />
+                                            <h2 class="ez-toc-section" id="atom-karbon-berkedudukansebagai-atom-csekunder-adalah-atom-c-nomor-%e2%80%8b">
+                            40. Atom karbon berkedudukansebagai atom cSekunder adalah atom c nomor...​</h2><br />
+                        <p>                  CH₃ </p><p>                    |</p><p>CH₃ - CH₂ - CH - CH₂ - CH₃ </p><p></p><p>Sebagai tambahan saja :</p><p>a. Atom primer</p><p>Atom C yang hanya mengikat satu atom C yang lainnya (contoh : CH₃)</p><p></p><p>b. Atom sekunder</p><p>Atom C yang mengikat dua atom C yang lainnya</p><p>(contoh : CH₂)</p><p></p><p>c. Atom tersier</p><p>Atom C yang mengikat tiga atom C yang lainnya</p><p>(contoh : CH)</p><p></p><p>d. Atom kuarterner</p><p>Atom C yang mengikat empat atom C yang lainnya</p><p>(contoh : tidak ada karena tidak ada 4 atom yang mengikat di soal)</p><p></p><p></p><p>Jadi jawabannya Nomor 2 dan 4</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/XcyOPL8i30E?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>fisika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sinonim-klasifikasi/">Sinonim Klasifikasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/it-s-ok-artinya/">It s Ok Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-manfaat-aktivitas-pada-gambar-tersebut/">Apa Manfaat Aktivitas Pada Gambar Tersebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apakah-yang-dimaksud-dengan-ilustrasi/">Apakah Yang Dimaksud Dengan Ilustrasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/di-zaman-purba-jembatan-menggunakan/">Di Zaman Purba Jembatan Menggunakan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/posisi-lengan-pada-saat-melakukan-passing-bawah-adalah/">Posisi Lengan Pada Saat Melakukan Passing Bawah Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/no3-2/">No3 2</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/under-ring/">Under Ring</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nilai-tan-15/">Nilai Tan 15</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pasutri-itu-apa/">Pasutri Itu Apa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-hubungan-antara-qada-dan-qadar/">Jelaskan Hubungan Antara Qada Dan Qadar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jumlah-rasul-yang-termaktub-dalam-al-quran-adalah/">Jumlah Rasul Yang Termaktub Dalam Al Quran Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/artinya-abdi-bogoh-ka-anjeun/">Artinya Abdi Bogoh Ka Anjeun</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ditengarai-adalah/">Ditengarai Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tabel-berikut-menunjukkan-kecepatan-empat-merek-printer/">Tabel Berikut Menunjukkan Kecepatan Empat Merek Printer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/masjid-raya-ar-risyafah-dibangun-oleh-khalifah/">Masjid Raya Ar Risyafah Dibangun Oleh Khalifah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tujuan-pemerintah-menerapkan-wajib-belajar-12-tahun-merupakan-upaya-untuk/">Tujuan Pemerintah Menerapkan Wajib Belajar 12 Tahun Merupakan Upaya Untuk</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/whatever-artinya/">Whatever Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/takdir-yang-tidak-bisa-diubah-disebut-takdir/">Takdir Yang Tidak Bisa Diubah Disebut Takdir</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pencitraan-adalah/">Pencitraan Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

@@ -1,0 +1,1337 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Penampang Melintang Batang - BELAJAR</title>
+    <meta name="description" content="Penampang Melintang Batang, , , , , , , 0, Biologi Sakti: HASIL PRAKTIKUM STURKTUR JARINGAN TUMBUHAN, biologi-sakti.blogspot.com, 1348 x 1600, jpeg, , 8, penampang-melintang-batang, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Penampang Melintang Batang - BELAJAR" />
+    <meta property="og:description" content="Penampang Melintang Batang, , , , , , , 0, Biologi Sakti: HASIL PRAKTIKUM STURKTUR JARINGAN TUMBUHAN, biologi-sakti.blogspot.com, 1348 x 1600, jpeg, , 8, penampang-melintang-batang, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Penampang Melintang Batang - BELAJAR" />
+    <meta name="twitter:description" content="Penampang Melintang Batang, , , , , , , 0, Biologi Sakti: HASIL PRAKTIKUM STURKTUR JARINGAN TUMBUHAN, biologi-sakti.blogspot.com, 1348 x 1600, jpeg, , 8, penampang-melintang-batang, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Penampang Melintang Batang</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">alifahkhhilmi</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Penampang+Melintang+Batang" alt="Penampang Melintang Batang">
+                    </div>
+                    <p></p>
+                    <p>Kenapa penampang melintang akar dan batang bayam serupa dengan penampang melintang akar dan batang monokotil?</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kenapa-penampang-melintang-akar-dan-batang-bayam-serupa-dengan-penampang-melintang-akar-dan-batang-monokotil">1.
+                                            Kenapa penampang melintang akar dan batang bayam serupa dengan penampang melintang akar dan batang monokotil?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-penampang-melintang-batang-berbeda-dengan-penampang-melintang-akarnya">2.
+                                            mengapa penampang melintang batang berbeda dengan penampang melintang akarnya?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#penampang-melintang-akar-monokotil-dengan-penampang-melintang-batangnya">3.
+                                            Penampang melintang akar monokotil dengan penampang melintang batangnya.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gambakan-penampang-melintang-batang-pada-tumbuhan-dikotil">4.
+                                            gambakan penampang melintang batang pada tumbuhan dikotil</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-penampang-melintang-batang-dikotil%e2%80%8b">5.
+                                            Fungsi penampang melintang batang dikotil?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gambar-penampang-melintang-batang-dikotilmonokotil%e2%80%8b">6.
+                                            gambar penampang melintang batang dikotil&amp;monokotil​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gambar-struktur-penampang-melintang-batang%e2%80%8b">7.
+                                            gambar struktur penampang melintang batang​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gambarkan-penampang-batang-melintang-pada-tumbuhan-berkambium">8.
+                                            gambarkan penampang batang melintang pada tumbuhan berkambium</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nama-bagian-dan-fungsi-penampang-melintang-batang">9.
+                                            Nama bagian dan fungsi penampang melintang batang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perhatikan-gambar-penampang-melintang-batang-berikut%e2%80%8b">10.
+                                            perhatikan gambar penampang melintang batang berikut!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#penampang-melintang-akar-monokotil-berbeda-dengan-penampang-melintang-batangnya">11.
+                                            Penampang melintang akar monokotil berbeda dengan penampang melintang batangnya....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagian-penampang-melintang-batang-dan-fungsinya">12.
+                                            Bagian penampang melintang batang dan fungsinya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#batang-monokotil-dan-penampang-melintangnya-serta-fungsinya">13.
+                                            Batang monokotil  dan penampang melintangnya serta fungsinya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perhatikan-gambar-penampang-melintang-batang-ini-pada-gambar-penampang-melintang-batang-di-bawah-kambium-ditunjukkan-oleh-nomor-%e2%80%8b">14.
+                                            Perhatikan gambar penampang melintang batang ini!. Pada gambar penampang melintang batang di bawah kambium ditunjukkan oleh nomor.... ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#penampang-melintang-akar-monokotil-berbeda-dengan-penampang-melintang-batangnya-jelaskan-perbedaan-tersebut-berdasarkan-pada-struktur-jaringannya">15.
+                                            Penampang melintang akar monokotil berbeda dengan penampang melintang batangnya. Jelaskan perbedaan tersebut berdasarkan pada struktur jaringannya.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mata-pelajaran-biologi-penampang-melintang-akar-monokotil-berbeda-dengan-penampang-melintang-batangnya-perbedaa-itu-terletak-pada-apakah">16.
+                                            Mata pelajaran : Biologi
+ Penampang melintang akar monokotil berbeda dengan penampang melintang batangnya; perbedaa itu terletak pada apakah?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-perbedaan-penampang-melintang-akar-dengan-penampang-melintang-batang-pada-tumbuhan-monokotil">17.
+                                            bagaimana perbedaan penampang melintang akar dengan penampang melintang batang pada tumbuhan monokotil</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gambar-penampang-melintang-batang-dikotil-dan-monokotil-adalah">18.
+                                            Gambar penampang melintang batang dikotil dan monokotil adalah ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gambarkan-penampang-melintang-batang-tumbuhan-monokotil%e2%80%8b">19.
+                                            gambarkan penampang melintang batang tumbuhan monokotil​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gambar-penampang-melintang-batang-tanaman-dikotil">20.
+                                            gambar penampang melintang batang tanaman dikotil </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-penampang-melintang-batang-dikotil-dan-monokotil">21.
+                                            Fungsi penampang melintang batang dikotil dan monokotil</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#penjelasan-tentang-penampang-melintang-batang%e2%80%8b">22.
+                                            Penjelasan tentang penampang melintang batang​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#penampang-melintang-akar-monokotil-berbeda-dengan-penampang-melintang-batang-nya-hal-ini-disebabkan-karena%e2%80%8b">23.
+                                            penampang melintang akar monokotil berbeda dengan penampang melintang batang nya hal ini disebabkan karena​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-3-macam-perbedaan-struktur-jaringan-pada-penampang-melintang-akar-dan-penampang-melintang-batang-tumbuhan-monokotil">24.
+                                            Jelaskan 3 macam perbedaan struktur jaringan pada penampang melintang akar dan penampang melintang batang tumbuhan monokotil!!!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-penampang-melintang-organ-batang-dari-dalam-ke-luar">25.
+                                            sebutkan penampang melintang organ batang dari dalam ke luar</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-ini-adalah-gambar-penampang-melintang-batangmengapa-diameter-batang-dapat-membesar-%e2%80%8b">26.
+                                            berikut ini adalah gambar penampang melintang batang!mengapa diameter batang dapat membesar? ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gambar-penampang-melintang-batang-dikotil">27.
+                                            gambar penampang melintang batang dikotil</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#penampang-melintang-akar-monokotil-berbeda-dengan-penampang-melintang-batangnya-jelaskan-perbedaan-tersebut-berdasarkan-pada-struktur-jaringanya%e2%80%8b">28.
+                                            Penampang melintang akar monokotil berbeda dengan penampang melintang batangnya. Jelaskan perbedaan tersebut berdasarkan pada struktur jaringanya!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jaringan-apa-saja-yang-kamu-temui-pada-penampang-melintang-dan-membujur-batang">29.
+                                            Jaringan apa saja yang kamu temui pada penampang melintang dan membujur batang?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-emepelur-pada-penampang-melintang-batang">30.
+                                            apa fungsi emepelur pada penampang melintang batang </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-tiga-macam-perbedaan-struktur-jaringan-pada-penampang-melintang-akar-dan-penampang-melintang-batang-tumbuhan-monokotil-%e2%80%8b">31.
+                                            jelaskan tiga macam perbedaan struktur jaringan pada penampang melintang akar dan penampang melintang batang tumbuhan monokotil........?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagian-penampang-melintang-batang%e2%80%8b">32.
+                                            bagian penampang melintang batang​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-perbedaan-penampang-melintang-akar-dengan-penampang-melintangbatang-pada-tumbuhan-monokotiljawab-%e2%80%8b">33.
+                                            Bagaimana perbedaan penampang melintang akar dengan penampang melintangbatang pada tumbuhan monokotil?Jawab: .......................................................................​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#penampangan-melintang-batang-tersebut-paling-mungkin-terdapat-pada-tumbuhan">34.
+                                            Penampangan melintang batang tersebut paling mungkin terdapat pada tumbuhan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#penampang-melintang-akar-monokotil-berbeda-dengan-penampang-melintang-batangnya-jelaskan-perbedaan-tersebut-berdasarkan-pada-struktur-jaringannya-%e2%80%8b">35.
+                                            penampang melintang akar monokotil berbeda dengan penampang melintang batangnya. Jelaskan perbedaan tersebut berdasarkan pada struktur jaringannya? ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-perbedaan-antara-penampang-melintang-akar-monokotil-dengan-batangnya">36.
+                                            apakah perbedaan antara penampang melintang akar monokotil dengan Batangnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-perbedaan-penampang-melintang-akar-dan-melintang-batang-dan-jelaskan">37.
+                                            Apa perbedaan penampang melintang akar dan melintang batang, dan jelaskan !</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-perbedaan-penampang-melintang-akar-dan-melintang-batang-dan-jelaskan">38.
+                                            Apa perbedaan penampang melintang akar dan melintang batang, dan jelaskan !</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perbedaan-penampang-melintang-pada-batang-monokotil-dan-dikotil">39.
+                                            Perbedaan penampang melintang pada batang monokotil dan dikotil</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gambar-penampang-melintang-batang">40.
+                                            gambar penampang melintang batang </a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="kenapa-penampang-melintang-akar-dan-batang-bayam-serupa-dengan-penampang-melintang-akar-dan-batang-monokotil">
+                            1. Kenapa penampang melintang akar dan batang bayam serupa dengan penampang melintang akar dan batang monokotil?</h2><br />
+                        karena bentuk kambium nya (maaf kalausalah)<br />
+                                            <h2 class="ez-toc-section" id="mengapa-penampang-melintang-batang-berbeda-dengan-penampang-melintang-akarnya">
+                            2. mengapa penampang melintang batang berbeda dengan penampang melintang akarnya?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Akar tumbuhan Dikotil tersusun oleh bermacam-macam jaringan dengan fungsi tertentuletak epidermis akar ini di bagian terluar akar. sedangkan,Batang berfungsi sebagai penunjang bagian atas tumbuhan, serta sebagai penghubung antara akar dan daun. </p><p><strong>Penjelasan:</strong></p><p>semoga benar amin</p><br />
+                                            <h2 class="ez-toc-section" id="penampang-melintang-akar-monokotil-dengan-penampang-melintang-batangnya">
+                            3. Penampang melintang akar monokotil dengan penampang melintang batangnya.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur organ batang pada tanaman memiliki beberapa perbedaan. Perbedaan struktur jaringan pada organ batang dan akar tanaman monokotil adalah sebagai berikut:</p><p>1. Jaringan pada akar monokotil tersusun atas jaringan epidermis, korteks, endodermis, perisikel, stele (xilem, floem dan empulur). Sedangkan jaringan pada batang monokotil tersusun atas jaringan epidermis, korteks, stele (xilem , floem dan empulur).</p><p>2. Berkas pembuluh pada akar monokotil tipe radial yang tersusun melingkar dengan floem dan xilem berselang-seling. Berkas pembuluh pada batang monokotil adalah kolateral tertutup yang tersebar dengan floem dan xilem yang tidak dibatasi oleh kambium.</p><p>3. Pada akar jaringan epidermis termodifikasi menjadi rambut akar yang berfungsi untuk memperluas penyerapan air pada akar. Pada batang jaringan epidermis termodifikasi menjadi sel kersik, atau trikoma.</p><br />
+                                            <h2 class="ez-toc-section" id="gambakan-penampang-melintang-batang-pada-tumbuhan-dikotil">
+                            4. gambakan penampang melintang batang pada tumbuhan dikotil</h2><br />
+                        penampang melintang batang dikotil <br />
+                                            <h2 class="ez-toc-section" id="fungsi-penampang-melintang-batang-dikotil%e2%80%8b">
+                            5. Fungsi penampang melintang batang dikotil?​</h2><br />
+                        <p> </p><p>Batang merupakan salah satu organ yang menyusun tumbuhan. Batang tumbuhan dikotil tersusun atas beberapa bagian yaitu epidermis, korteks, dan stele. Stele terdiri dari perisikel, berkas pengangkut, dan empulur. Pada batang dikotil, berkas pengangkut bertipe kolateral terbuka, yaitu xilem terletak di sebelah dalam, floem di sebelah luar, dan di antara keduanya terdapat kambium. Jaringan yang ditunjuk P adalah jaringan pengangkut yaitu xilem. Xilem atau jaringan kayu adalah jaringan pembuluh yang berfungsi mengangkut air dan garam mineral.</p><p> </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="gambar-penampang-melintang-batang-dikotilmonokotil%e2%80%8b">
+                            6. gambar penampang melintang batang dikotil&amp;monokotil​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>gambar penampang memintang batang dikotil dan monokotil </p><p><strong>Penjelasan:</strong></p><p>jadikan jawaban yang terbaik</p><br />
+                                            <h2 class="ez-toc-section" id="gambar-struktur-penampang-melintang-batang%e2%80%8b">
+                            7. gambar struktur penampang melintang batang​</h2><br />
+                        ini bisa di print/digambar, cari aja dengan keyword yg sama di google‍♀️‍♀️<br />
+                                            <h2 class="ez-toc-section" id="gambarkan-penampang-batang-melintang-pada-tumbuhan-berkambium">
+                            8. gambarkan penampang batang melintang pada tumbuhan berkambium</h2><br />
+                        maaf kalau salah gambarnua<br />
+                                            <h2 class="ez-toc-section" id="nama-bagian-dan-fungsi-penampang-melintang-batang">
+                            9. Nama bagian dan fungsi penampang melintang batang</h2><br />
+                        xilem:mengangut air dari akar ke daun<br />floem:mengangkut air dan zat2 makanan dari daun keseluruh tubuh<br /><br />maaf y klo slh<br />smoga membantu<br />
+                                            <h2 class="ez-toc-section" id="perhatikan-gambar-penampang-melintang-batang-berikut%e2%80%8b">
+                            10. perhatikan gambar penampang melintang batang berikut!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A. Kearah luar membentuk kulit dan kerah dalam membentuk kayu</p><p><strong></strong></p><p><strong>Pembahasan  </strong></p><p>Gambar penampang melintang tersebut merupakan jaringan kambium. Kambium merupakan jaringan meristem. Sifat dari jaringan meristem ini yaitu dapat membelah secara aktif. Jaringan kambium vaskuler (kambium pembuluh) merupakan kambium yang berada diantara xylem (pembuluh kayu) dan floem (pembuluh tapis). Perkembangan kambium vaskuler kearah luar akan membentuk floem sekunder. Sedangkan perkembangan kambium vaskuler kearah dalam akan memebentuk xylem sekunder. Kambium vaskuler biasanya terletak pada tanaman dikotil.</p><p><strong>  </strong></p><p><strong>Pelajari lebih lanjut  </strong></p><p>1.  Struktur dan Fungsi Jaringan Tumbuhan a https://brainly.co.id/tugas/2458526
+</p><p>
+</p><p>-----------------------------<strong>
+</strong></p><p><strong>  </strong></p><p><strong>Detail jawaban  </strong></p><p><strong>Kelas: </strong>11<strong>
+</strong></p><p><strong>Mapel: </strong>Biologi<strong>
+</strong></p><p><strong>Bab:  </strong>Struktur dan Fungsi Jaringan Tumbuhan<strong>
+</strong></p><p><strong>Kode: </strong>11.4.2</p><p></p><p>Kata kunci: penampang melintang, kambium, xylem, floem</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="penampang-melintang-akar-monokotil-berbeda-dengan-penampang-melintang-batangnya">
+                            11. Penampang melintang akar monokotil berbeda dengan penampang melintang batangnya....</h2><br />
+                        <p><strong>Soal:</strong></p><p>Penampang melintang akar monokotil berbeda dengan penampang melintang batangnya....</p><p></p><p><strong>Jawaban dengan penjelasan:</strong></p><p>truktur organ batang pada tanaman memiliki beberapa perbedaan. Perbedaan struktur jaringan pada organ batang dan akar tanaman monokotil adalah sebagai berikut:
+</p><p>1. Jaringan pada akar monokotil tersusun atas jaringan epidermis, korteks, endodermis, perisikel, stele (xilem, floem dan empulur). Sedangkan jaringan pada batang monokotil tersusun atas jaringan epidermis, korteks, stele (xilem , floem dan empulur).
+</p><p>2. Berkas pembuluh pada akar monokotil tipe radial yang tersusun melingkar dengan floem dan xilem berselang-seling. Berkas pembuluh pada batang monokotil adalah kolateral tertutup yang tersebar dengan floem dan xilem yang tidak dibatasi oleh kambium.
+</p><p>3. Pada akar jaringan epidermis termodifikasi menjadi rambut akar yang berfungsi untuk memperluas penyerapan air pada akar. Pada batang jaringan epidermis termodifikasi menjadi sel kersik, atau trikoma.
+</p><p></p><p></p><p></p><p><strong>#Bukanmaen</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bagian-penampang-melintang-batang-dan-fungsinya">
+                            12. Bagian penampang melintang batang dan fungsinya</h2><br />
+                        <p><strong>Jaringan penampang melintang batang terdiri dari epidermis, kortek, floem, kambium, xilem.</strong> Epidermis berfungsi melindungi jaringan di bawahnya. Kortrks berfungsi menyimpan cadangan makanan. Floem dan xilem berfungsi sebagai pembuluh angkut. Kambium berfungsi membentuk xilem dan floem sehingga batang menjadi besar.</p><p></p>Pembahasan<p>Jaringan merupakan kumpulan sel yang mempunyai bentuk, asal, fungsi, dan struktur yang sama. Jaringan pada batang tumbuhan sebagai berikut:</p><p><strong>1. Jaringan pelindung atau epidermis</strong></p><p>Berada di lapisan terluar dan berfungsi untuk melindungi permukaan tumbuhan. Jaringan pelindung tersusun atas sel-sel yang tersusun rapat.</p><p>Pada jaringan pelindung atau epidermis dapat berubah bentuk sesuai fungsinya yang dikenal dengan istilah derivat epidermis. Macam-macam derivat epidermis antara lain:</p><p>a. stomata mempunyai fungsi sebagai jalan tranpirasi, jalan respirasi, jalan masuknya karbondioksida dan keluarnya oksigen.</p><p>b. kutikula yang berfungsi mengurangi penguapan air.</p><p>c. trikoma berfungsi sebagai pelindung dan mengurangi penguapan.</p><p>d. lentisel sebagai pertukaran udara di batang</p><p>Pelajari lebih lanjut tentang derivat epidermis di: https://brainly.co.id/tugas/23839542.</p><p><strong>2. Jaringan dasar atau parenkim</strong></p><p><strong>Jaringan parenkim mengisi ruang antar jaringan.</strong> Jaringan parenkim terdapat di semua bagian tubuh tanaman, seperti batang, akar, dan daun. Jaringan parenkim yang berada di daun terletak di mesofil daun yaitu palisade dan spons, di mana kedua jaringan tersebut banyak mengandung kloroplas.</p><p><strong>Fungsi jaringan parenkim antara lain sebagai berikut:</strong></p><p>a. Jaringan parenkim berfungsi sebagai tempat <strong>menyimpan cadangan makanan</strong>. Seperti pada batang tebu, akar wortel, kentang maupun batang sagu.</p><p>b. Sebagai tempat berlangsungnya <strong>fotosintesis </strong>atau yang disebut pula dengan asimilasi. Contohnya adalah jaringan palisade yang terdapat pada daun.  </p><p>c. Jaringan parenkim berguna sebagai tempat <strong>penyimpanan cadangan air</strong>. Tumbuhan tersebut merupakan tumbuhan-tumbuhan yang hidup di daerah kering seperti kaktus, lidah buaya, ataupun tumbuhan xerofit lainnya.</p><p>d. Sebagai jaringan <strong>pengangkut air, hara dan makanan</strong> untuk membantu atau mengganti xilem dan floem dalam menjalankan tugasnya. Contohnya adalah lumut, karena lumut tidak memiliki jaringan pengangkut maka pengangkutan air, zat hara dan hasil fotosintesis dilakukan oleh jaringan parenkim.</p><p>e. jaringan parenkim berfungsi untuk tempat <strong>penyimpanan udara.</strong> Fungsi ini hanya terdapat pada tumbuhan-tumbuhan hidrofit atau tumbuhan yang hidup di air seperti eceng gondok, genjer, maupun teratai.</p><p><strong>3. Jaringan pengangkut</strong></p><p><strong>Jaringan pengangkut atau pembuluh merupakan jaringan yang berfungsi untuk proses pengangkutan zat-zat yang ada di dalam tumbuhan.</strong> Jaringan pengangkut terdiri dari xilem yang berfungsi mengangkut air dan zat hara dari tanah ke daun, dan floem yang berfungsi mengedarkan hasil fotosintesis ke seluruh tubuh.</p><p>Pelajari lebih lanjut tentang tipe pengangkut di: https://brainly.co.id/tugas/24448195.</p><p><strong>4. Kambium</strong></p><p><strong>Terdiri dari kambium gabus dan kambium pembuluh (vascular Cambium). Kambium gabus adalah bagian dari korteks yang berfungsi dalam pembentukan lapisan kulit bergabus (feloderm).</strong> Feloderm ke arah luar membentuk felem berupa sel mati, sedangkan ke arah dalam membentuk feloderm berupa sel hidup. Adapun kambium pembuluh adalah kambium yang membatasi bagian kulit kayu dari kolom kayu. Kambium pembuluh disebut dengan kambium saja. Pertumbuhan kambium ke arah dalam akan membentuk pembuluh xilem atau pembuluh kayu sedangkan perkembangan kambium ke arah luar akan membentuk pembulih floem atau pembuluh tapis pada kulit batang. Baik kambium gabus maupun kambium pembuluh terbentuk dari jaringan meristem yang sudah ada pada akar dan batang.</p><p>Pelajari lebih lanjut tentang jaringan akar di: https://brainly.co.id/tugas/24995660.</p><p></p>Detil jawaban<p><strong>Kelas</strong>: 8</p><p><strong>Mapel</strong>: Biologi</p><p><strong>Bab</strong>: Struktur dan Fungsi Jaringan Tumbuhan</p><p><strong>Kode</strong>: 8.4.6</p><p></p><p><strong>Kata kunci</strong>: jaringan tumbuhan, penampang batang</p><br />
+                                            <h2 class="ez-toc-section" id="batang-monokotil-dan-penampang-melintangnya-serta-fungsinya">
+                            13. Batang monokotil  dan penampang melintangnya serta fungsinya</h2><br />
+                        pembuluh monokotil terletaknya tidak beraturan dan monokotil tidak memiliki kambium sehingga tidak dapat membesar<br />fungsinya sebagai alat perkembangbiakan vegetatif<br />
+                                            <h2 class="ez-toc-section" id="perhatikan-gambar-penampang-melintang-batang-ini-pada-gambar-penampang-melintang-batang-di-bawah-kambium-ditunjukkan-oleh-nomor-%e2%80%8b">
+                            14. Perhatikan gambar penampang melintang batang ini!. Pada gambar penampang melintang batang di bawah kambium ditunjukkan oleh nomor.... ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Nomor 3</p><p><strong>Penjelasan:</strong></p><p>Karena kambium terletak diantara xilem dan floem</p><p></p><p>Kambium berfunngsi untuk:</p><p>Jika kedalam membentuk kayu dan jika keluar membentuk kulit</p><p></p><p>Semoga bermanfaat</p><p>Kambium terdapat pada nomor <strong>3</strong></p><p></p>Pembahasan❆༄<p>Bismillah...</p><p></p><p>Bagian-bagian penampang melintang batang apa aja sih?</p><p></p>■ Epidermis<p></p><p>Epidermis tersusun dari kata :</p>Epi → terluar, luar, paling depanDermis/derm → kulit, lapisan<p></p><p>jadi dapat disimpulkan bahwa epidermis merupakan lapisan terluar pada penampang, sedangkan endodermis merupakan lapisan terdalam.</p><p><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong></p><p>Sekarang kalian tebak, epidermis pada tubuh manusia terletak dimana?</p><p>saya jawab sendiri ya • • •</p><p>yaitu di bagian kulit terluar tubuh kita</p><p></p><p>Fungsi utamanya yaitu melindungi lapisan dalam pada penampang dari hal-hal yang dapat membahayakan.</p><p></p><p></p>■ zat pengangkut<p></p><p></p><p><strong>❁</strong><strong> </strong><strong>F</strong><strong>l</strong><strong>o</strong><strong>e</strong><strong>m</strong></p><p>Floem memiliki fungsi utama sebagai pengangkut hasil fotosintesis (makanan).</p><p></p><p>Cara mengingatnya yaitu :</p><p><strong>F</strong>loem = Food (makanan)</p><p></p><p><strong>❁</strong><strong> </strong><strong>X</strong><strong>i</strong><strong>l</strong><strong>e</strong><strong>m</strong><strong> </strong></p><p>Xilem memiliki fungsi sebagai pengangkut zat-zat penting seperti air, mineral, dan unsur hara lainnya dari akar ke seluruh bagian tumbuhan.</p><p></p><p>Cara mengingatnya :</p><p>Xi<strong>l</strong><strong>e</strong><strong>m</strong> = dalem </p><p>karena letaknya berada di dalem :v ((serius))</p><p></p><p></p>■ Kambium<p></p><p>Kambium sendiri ialah lapisan-lapisan pada batang yang masih dapat melakukan pembelahan karena bersifat meristem.</p><p></p><p><strong>T</strong><strong>a</strong><strong>h</strong><strong>u</strong><strong>k</strong><strong>a</strong><strong>h</strong><strong> </strong><strong>k</strong><strong>a</strong><strong>l</strong><strong>i</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>d</strong><strong>e</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>l</strong><strong>i</strong><strong>n</strong><strong>g</strong><strong>k</strong><strong>a</strong><strong>r</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>t</strong><strong>a</strong><strong>h</strong><strong>u</strong><strong>n</strong><strong>?</strong></p><p>Karena kambium terus-menerus mengalami pembelahan di setiap musim, hal inilah yang membentuk lingkaran tahun untuk menentukan umur pohon/tumbuhan itu sendiri loh • • •</p><p></p>Kesimpulan :<p></p><p>Dari ciri-ciri dan fungsi bagian-bagian sel diatas, dapat disimpulkan bahwa~</p>nomor 1 merupakan <strong>e</strong><strong>p</strong><strong>i</strong><strong>d</strong><strong>e</strong><strong>r</strong><strong>m</strong><strong>i</strong><strong>s</strong>nomor 2 merupakan <strong>f</strong><strong>l</strong><strong>o</strong><strong>e</strong><strong>m</strong>nomor 3 merupakan <strong>k</strong><strong>a</strong><strong>m</strong><strong>b</strong><strong>i</strong><strong>u</strong><strong>m</strong>nomor 4 merupakan <strong>x</strong><strong>i</strong><strong>l</strong><strong>e</strong><strong>m</strong><p></p><p>_______________________________</p><p></p>Pelajari Lebih Lanjut ♡<p></p>⓵ Pembahasan lebih lengkap tentang materi<p>https://brainly.co.id/tugas/14611122</p><p>https://brainly.co.id/tugas/18016058</p><p>https://brainly.co.id/tugas/13498768</p><p>https://brainly.co.id/tugas/30298142</p><p>https://brainly.co.id/tugas/14611122</p><p>_______________________________</p><p></p>[tex]{\boxed{\sf DETAIL \: JAWABAN}}[/tex]<p> </p><p>Mapel : Biologi</p><p></p><p>Kelas : 8 SMP</p><p></p><p>Materi : Struktur dan Fungsi Tumbuhan</p><p></p><p>Kata Kunci : penampang melintang batang, epidermis, dikotil, monokotil, kambium</p><p></p><p>Kode Kategorisasi : 8.4.6</p><br />
+                                            <h2 class="ez-toc-section" id="penampang-melintang-akar-monokotil-berbeda-dengan-penampang-melintang-batangnya-jelaskan-perbedaan-tersebut-berdasarkan-pada-struktur-jaringannya">
+                            15. Penampang melintang akar monokotil berbeda dengan penampang melintang batangnya. Jelaskan perbedaan tersebut berdasarkan pada struktur jaringannya.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p></p><p>Struktur organ batang pada tanaman memiliki beberapa perbedaan. Perbedaan struktur jaringan pada organ batang dan akar tanaman monokotil adalah sebagai berikut:</p><p></p><p>1. Jaringan pada akar monokotil tersusun atas jaringan epidermis, korteks, endodermis, perisikel, stele (xilem, floem dan empulur). Sedangkan jaringan pada batang monokotil tersusun atas jaringan epidermis, korteks, stele (xilem , floem dan empulur).</p><p></p><p>2. Berkas pembuluh pada akar monokotil tipe radial yang tersusun melingkar dengan floem dan xilem berselang-seling. Berkas pembuluh pada batang monokotil adalah kolateral tertutup yang tersebar dengan floem dan xilem yang tidak dibatasi oleh kambium.</p><p></p><p>3. Pada akar jaringan epidermis termodifikasi menjadi rambut akar yang berfungsi untuk memperluas penyerapan air pada akar. Pada batang jaringan epidermis termodifikasi menjadi sel kersik, atau trikoma.</p><p></p><p>_______________</p><p>#SemogaMembantu^^</p><br />
+                                            <h2 class="ez-toc-section" id="mata-pelajaran-biologi-penampang-melintang-akar-monokotil-berbeda-dengan-penampang-melintang-batangnya-perbedaa-itu-terletak-pada-apakah">
+                            16. Mata pelajaran : Biologi
+ Penampang melintang akar monokotil berbeda dengan penampang melintang batangnya; perbedaa itu terletak pada apakah?</h2><br />
+                        Jawabannya adalah seperti berikutKata kunci : monokotilLetak xilem dan floem pada akar monokotil radial (bergantian) dan pada batang monokotil ikatan pembuluhnya kolateral, menyebar akar monokotil mempunyai endodermis pengatur pindahnya air dan parenkim ke pembuluh (korteks ke silinder pusat). Batang monokotil tidak mempunyai endodermis.Pada monokotil baik akar maupun batangnya tidak mempunyai perisikel dan kambium<br /><br />Ingin belajar mengenai hormon, lihat link berikut ini<br /><br />brainly.co.id/tugas/14085307<br /><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-perbedaan-penampang-melintang-akar-dengan-penampang-melintang-batang-pada-tumbuhan-monokotil">
+                            17. bagaimana perbedaan penampang melintang akar dengan penampang melintang batang pada tumbuhan monokotil</h2><br />
+                        Perbedaan Antara Monokotil dan Dikotil<br /><br />Yang menjadi dasar utama dalam klasifikasi monokotil dan dikotil adalah jumlah kotiledonnya.<br /><br />Kotiledon adalah daun lembaga yang mengandung nutrisi untuk embrio, sampai embrio tersebut memiliki daun-daun dan dapat memproduksi makanannya sendiri melalui proses fotosintesis.<br /><br />Jumlah kotiledon pada tumbuhan monokotil adalah satu, sedangkan tumbuhan dikotil memiliki dua kotiledon.<br />
+                                            <h2 class="ez-toc-section" id="gambar-penampang-melintang-batang-dikotil-dan-monokotil-adalah">
+                            18. Gambar penampang melintang batang dikotil dan monokotil adalah ?</h2><br />
+                        <p></p><p></p><p>B͟A͟T͟A͟N͟G͟ D͟I͟K͟O͟T͟I͟L͟</p><p></p><p>1. memiliki cabang batang</p><p></p><p>2. Memiliki kambium (untk pertumbuhan sekunder membentuk lingkaran tahun)</p><p></p><p>3. Pembuluh tersusun rapi (membentuk tipe kolateral terbuka)</p><p></p><p>4. Kortex dan empulur terlihat jelas</p><p></p><p></p><p>B͟A͟T͟A͟N͟G͟ M͟O͟N͟O͟K͟O͟T͟I͟L͟</p><p></p><p>1. Tidak bercabang</p><p></p><p>2. Tidak berkambium</p><p></p><p>3. Pembuluh angkut tersusun menyebar (membentuk tipe kolateral tertutup)</p><p></p><p>4. Batas antara kirtex dan empulur tidak jelas</p><p></p><p></p><p>perbedaan gambar bisa lihat di file yaa</p><p></p><p></p><p>=============================</p><p></p><p>Kelas: 11</p><p></p><p>mapel: biologi</p><p></p><p>Kategori: jaringan tumbuhan</p><p></p><p></p><p></p><p></p><p></p><p></p><p><strong>Penjelasan:</strong></p><p>Semoga membantu^o^</p><p>Jadiin jwb tercerdas </p><br />
+                                            <h2 class="ez-toc-section" id="gambarkan-penampang-melintang-batang-tumbuhan-monokotil%e2%80%8b">
+                            19. gambarkan penampang melintang batang tumbuhan monokotil​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>Maaf jika gambar saya sangat tidak memuaskan, saya sampe menggambarnya dua kali agar lebih muda di mengrti tpi sama ajah malah mkin jellek, maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="gambar-penampang-melintang-batang-tanaman-dikotil">
+                            20. gambar penampang melintang batang tanaman dikotil </h2><br />
+                        jawaban nya D maaf kl slhjawabannya D. pelindung jaringan di bawahnya <br />
+                                            <h2 class="ez-toc-section" id="fungsi-penampang-melintang-batang-dikotil-dan-monokotil">
+                            21. Fungsi penampang melintang batang dikotil dan monokotil</h2><br />
+                        1.Sebagai tempat pengangkutan air dan unsur hara dari akar.<br />2.Memperluas tajuk tumbuhan untuk efisiensi penangkapan cahaya matahari.<br />3.Tempat tumbuhnya organ-organ generatif.<br />Kalau salah maaf ya..<br />
+                                            <h2 class="ez-toc-section" id="penjelasan-tentang-penampang-melintang-batang%e2%80%8b">
+                            22. Penjelasan tentang penampang melintang batang​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>butuk </p><p><strong>Penjelasan:</strong></p><p>dia adalah seperti embun2 </p><br />
+                                            <h2 class="ez-toc-section" id="penampang-melintang-akar-monokotil-berbeda-dengan-penampang-melintang-batang-nya-hal-ini-disebabkan-karena%e2%80%8b">
+                            23. penampang melintang akar monokotil berbeda dengan penampang melintang batang nya hal ini disebabkan karena​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>karena hanya pda akar terlihat ada ny lapisan endodermis , namun pda batang tdk ada lapisan endodermis . </p><p></p><p></p><p></p><p></p><p></p><p>mf aph bila slh ya... </p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-3-macam-perbedaan-struktur-jaringan-pada-penampang-melintang-akar-dan-penampang-melintang-batang-tumbuhan-monokotil">
+                            24. Jelaskan 3 macam perbedaan struktur jaringan pada penampang melintang akar dan penampang melintang batang tumbuhan monokotil!!!</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. tidak berkambium </p><p>2. tidak terjadi pertumbuhan sekunder </p><p>3. ukuran berkas pengankut berbeda beda</p><p></p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-penampang-melintang-organ-batang-dari-dalam-ke-luar">
+                            25. sebutkan penampang melintang organ batang dari dalam ke luar</h2><br />
+                        Empelur,Xylem,Floem,Kambium,Koreteks,Epidermis (Xylem dan Floem termasuk silinder pusat)<br />
+                                            <h2 class="ez-toc-section" id="berikut-ini-adalah-gambar-penampang-melintang-batangmengapa-diameter-batang-dapat-membesar-%e2%80%8b">
+                            26. berikut ini adalah gambar penampang melintang batang!mengapa diameter batang dapat membesar? ​</h2><br />
+                        <p>krn tumbuhan dpt tumbuh</p><br />
+                                            <h2 class="ez-toc-section" id="gambar-penampang-melintang-batang-dikotil">
+                            27. gambar penampang melintang batang dikotil</h2><br />
+                         pelajaran kelas berapa ya<br />
+                                            <h2 class="ez-toc-section" id="penampang-melintang-akar-monokotil-berbeda-dengan-penampang-melintang-batangnya-jelaskan-perbedaan-tersebut-berdasarkan-pada-struktur-jaringanya%e2%80%8b">
+                            28. Penampang melintang akar monokotil berbeda dengan penampang melintang batangnya. Jelaskan perbedaan tersebut berdasarkan pada struktur jaringanya!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Sistem perakaran
+</p><p>
+</p><p>Jika dilihat dari sistem perakarannya, keduanya memiliki perbedaan yang sangat signifikan. Sistem perakaran pada akar monokotil secara anatomi yaitu serabut. Sedangkan untuk akar dikotil memiliki sistem perakaran tunggang.
+</p><p>
+</p><p>2. Batas ujung akar
+</p><p>
+</p><p>Perbedaan antara akar dikotil dan juga akar monokotil berikutnya yaitu dapat dilihat dari batas ujung akar. Batas ujung akar dan juga kaliptra pada akar monokotil jelas. Begitu juga sebaliknya, batas ujung untuk akar dikotil ini tidak jelas.
+</p><p>
+</p><p>3. Persikel
+</p><p>
+</p><p>Persikel pada akar monokotil terdiri dari lapisan sel yang berdinding tebal. Sedangkan untuk persikel pada akar dikotil hanya memiliki 1 lapis sel saja. Selain itu untuk persikel hanya mampu membentuk cabang akar. Untuk persikel akar dikotil, persimpelnya membentuk banyak cabang akar.
+</p><p>
+</p><p>4. Empulur
+</p><p>
+</p><p>Jika diperhatikan pada empulur, kita dapat melihat perbedaan akar dikotil dan monokotil lain yang cukup jelas. Untuk akar monokotil memiliki empulur sehingga menjadi pusat akar, sedangkan akar dikotil tidak memiliki empulur.
+</p><p>
+</p><p>5. Kambium
+</p><p>
+</p><p>Akar monokotil tidak memiliki kambium, sedangkan akar dikotil memiliki kambium.
+</p><p>
+</p><p>6. Jumlah lengan
+</p><p>
+</p><p>Jumlah lengan protoxilem terdapat lebih dari 12 pada akar monokotil, sedangkan akar dikotil memiliki lengan xilem berjumlah 2 sampai 6 saja.
+</p><p>
+</p><p>7. Letak xilem
+</p><p>
+</p><p>Salah satu perbedaan antara akar dikotil dan monokotil juga dapat dilihat pada letak xilem. Akar monokotil memiliki letak xilem dan juga floem berselang-seling. Sedangkan untuk akar dikotil, xilem berada di dalam foem.</p><p><strong></strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jaringan-apa-saja-yang-kamu-temui-pada-penampang-melintang-dan-membujur-batang">
+                            29. Jaringan apa saja yang kamu temui pada penampang melintang dan membujur batang?</h2><br />
+                        <p><strong>Jaringan yang dapat ditemukan pada penampang melintang dan membujur batang adalah </strong>epidermis, korteks, endodermis, floem, perisikel, kambium, xilem, dan empulur (pada tanaman dikotil), dan epidermis, xilem, dan floem (pada tanaman monokotil).  </p><p>
+</p>Pembahasan Penampang membujur merupakan sayatan yang melintang atau lurus
+Penampang membujur merupakan sayatan yang melingkar atau setengah lingkaran.
+<p>
+</p><p><strong>Struktur Jaringan Tumbuhan
+</strong></p><p>Struktur anatomi tumbuhan dikotil dari luar ke dalam terdiri atas epidermis, korteks, endodermis, dan stele atau silinder pusat. Bagian tersebut tersusun dari berbagai macam sel, serta memiliki fungsi yang berbeda-beda untuk menunjang pertumbuhan dan perkembangan tumbuhan. Berikut penjelasannya :</p><p><strong>Epidermis
+</strong></p><p><strong>Epidermis merupakan bagian terluar tumbuhan yang tersusun dari dinding sel tebal yaitu kutikula.</strong> Pada bagain epidermis terdapat diferensiasi epidermis berupa trikoma, stomata, dan bulu-bulu akar yang berfungsi sebagai organ respirasi tumbuhan. Bagian epidermis ini berfungsi sebagai pelindung batang dari pengaruh eksternal. Lapisan sel epidermis tersusun atas sel rektangular dan tidak meiliki ruang antar sel, hal ini berfungsi untuk membatasi penguapan atau transpirasi, sehingga tumbuhan tidak kehilangan air secara berlebihan.
+</p><p><strong>Korteks</strong><strong>  </strong></p><p><strong>Korteks merupakan lapisan bagian dalam epidermis.</strong> Korteks yang terletak bersebelahan dengan epidermis tersusun dari sel kolenkim dan semakin ke arah dalam tersusun atas sel parenkim. Sel-sel penyusun korteks tersusun tidak begitu rapat sehingga korteks memiliki ruang antar sel.  </p><p><strong>Endodermis
+</strong></p><p><strong>Endodermis merupakan bagian batang yang tersusun oleh selapis sel. </strong>Endodermis ini memisahkan bagian korteks dengan silinder pusat. Bagian endodermis disebut juga floeterma atau sarung amilum, karena bagain tersebut mengandung butir amilum. Bagian tersebut juga mampu menebal membentuk struktur bernama pita kapsari.
+</p><p><strong>Silinder Pusat (Stele)
+</strong></p><p>Terdiri dari tiga bagian yaitu:
+</p><p><strong>Perisikel atau perikambium, merupakan bagain yang aktif membelah.</strong> Bagian ini merupakan jaringan meristematik pada tumbuhan, yang juga menyebabkan pertumbuhan tidak hanya memanjang saja, namun juga ke samping/membesar.  </p><p><strong>Berkas pengangkut, terdiri dari jaringan xilem dan floem. </strong> Xilem berfungsi untuk mengangkut atau transport zat hara dan mineral dari akar menuju daun dan seluruh tumbuhan. Sedangakan floem berfungsi untuk mengangkut ayau transport hasil fotosintesis ke seluruh bagian tumbuhan. Diantara xilem dan floem ini terdapat bagian yang disebut kambium intervaskuler. Bagian tersebut terususn atas jaringan meristem lateral yang selalu aktif membelah. Fungsi bagian tersebut berperan dalam pertumbuhan sekunder tumbuhan, yaitu pertambahan diameter batang atau pertumbuhan lateral. Diameter batang dapat bertambah besar dikarenakan adannya pembelahan kambium ke arah dalam dan ke arah luar. Pembelahan ke arah dalam membentuk xilem sekunder dan ke arah luar membentuk floem sekunder. Kambium intervaskuler membelah ke arah luar membentuk unsur kulit dan membelah kearah dalam membentuk unsur kayu. Hasil pembelahan kambium akan membentuk lingkaran konsentris yang disebut lingkaran tahun. Lingkaran tahun terbangun dari aktivitas pembelahan sepanjang tahun dan ketebalannya dipengaruhi oleh musim.
+</p><p><strong>Empulur
+</strong></p><p><strong>Empulur merupakan jaringan yang terletak pada bagian paling dalam batang tumbuhan,</strong>  tersusun atas jaringan parenkim. Empulur berada dibagian dalam silinder pusat dan merupakan jaringan kayu yang berada pada pusat batang.
+</p><p>  
+</p>Pelajari lebih lanjut <p>1. Materi tentang perbedaan batang dikotil dan monokotil https://brainly.co.id/tugas/2767753
+</p><p>2. Materi tentang ciri-ciri jaringan meristem https://brainly.co.id/tugas/3172996
+</p><p>3. Materi tentang macam parenkim berdasarkan bentuknya https://brainly.co.id/tugas/8016080
+</p><p>4. Materi tentang macam organ tumbuhan beserta fungsinya https://brainly.co.id/tugas/62612
+</p><p>-----------------------------
+</p><p>  </p>Detil jawaban <p><strong>Kelas : VIII SMP
+</strong></p><p><strong>Mapel : Biologi
+</strong></p><p><strong>Bab : Struktur dan Fungsi Jaringan Tumbuhan
+</strong></p><p><strong>Kode : 11.4.2
+</strong></p><p><strong>
+</strong></p><p><strong>Kata Kunci</strong>: Struktur jaringan Tumbuhan, penampang melintang, penampang membujur, dikotil, monokotil
+</p><p>
+</p><p>
+</p><br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-emepelur-pada-penampang-melintang-batang">
+                            30. apa fungsi emepelur pada penampang melintang batang </h2><br />
+                        fungsi empulur pada penampang melintang batang yaitu untuk menyimpan cadangan makanan. empulur ini juga merupakan jaringan dasar pada batang tanaman dikotil maupun monokotil.<br /><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-tiga-macam-perbedaan-struktur-jaringan-pada-penampang-melintang-akar-dan-penampang-melintang-batang-tumbuhan-monokotil-%e2%80%8b">
+                            31. jelaskan tiga macam perbedaan struktur jaringan pada penampang melintang akar dan penampang melintang batang tumbuhan monokotil........?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1 tidak berkambium</p><p>2 tdk terjadi pertumbuhan sekunder</p><p>3 ukuran berkas pengangkut berbeda beda</p><p></p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="bagian-penampang-melintang-batang%e2%80%8b">
+                            32. bagian penampang melintang batang​</h2><br />
+                        Akar<br />#maaf ya kalau aku salah<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-perbedaan-penampang-melintang-akar-dengan-penampang-melintangbatang-pada-tumbuhan-monokotiljawab-%e2%80%8b">
+                            33. Bagaimana perbedaan penampang melintang akar dengan penampang melintangbatang pada tumbuhan monokotil?Jawab: .......................................................................​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>AkarAkar adalah organ tumbuhan yang masuk ke dalam tanah. Fungsi akar pada tumbuhan, antara lain sebagai tempat melekatnya tumbuhan pada media (tanah), menyerap air dan garam mineral dari tanah, memperkuat berdirinya tumbuhan, tempat penyimpanan cadangan makanan, dan sebagai alat pernapasan. Jaringan penyusun akar, antara lain epidermis, korteks, endodermis, stele (silinder pusat), perisikel, xilem, floem, dan empulur. Akar dapat dibedakan menjadi tiga macam, yaitu akar tunggang pada tumbuhan dikotil, akar serabut pada tumbuhan monokotil, dan akar adventif (bukan berasal dari akar primer).2. BatangBatang merupakan organ tumbuhan yang tumbuh di permukaan tanah. Fungsi batang, antara lain menyalurkan air dan garam mineral dari akar ke daun, menyalurkan zat makanan dari daun ke seluruh tubuh, tempat penyimpanan cadangan makanan, serta tempat menempelnya daun, bunga, dan buah. Jaringan penyusun batang, antara lain epidermis, korteks, stele, endodermis, perisikel, empulur, xilem, floem, dan kambium.</p><p></p><p>semoga benar yh maap kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="penampangan-melintang-batang-tersebut-paling-mungkin-terdapat-pada-tumbuhan">
+                            34. Penampangan melintang batang tersebut paling mungkin terdapat pada tumbuhan</h2><br />
+                        Tumbuhan dikotil.<br /><br />Maaf kalo salah<br />
+                                            <h2 class="ez-toc-section" id="penampang-melintang-akar-monokotil-berbeda-dengan-penampang-melintang-batangnya-jelaskan-perbedaan-tersebut-berdasarkan-pada-struktur-jaringannya-%e2%80%8b">
+                            35. penampang melintang akar monokotil berbeda dengan penampang melintang batangnya. Jelaskan perbedaan tersebut berdasarkan pada struktur jaringannya? ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Perbedaan struktur jaringan akar monokotil dengan batang monokotil yaitu, struktur jaringan akar monokotil terdiri dari jaringan epidermis, korteks, endodermis, perisikel, stele, yaitu xilem, floem dan empulur. Sedangkan struktur jaringan batang monokotil terdiri atas jaringan epidermis, korteks, stele, yaitu xilem, floem dan empulur.<strong> </strong>Jadi yang membedakan struktur jaringan akar dan batang monokotil yaitu, batang monokotil tidak terdapat jaringan endodermis dan perisikel.</p><p> </p><p><strong>Penjelasan:</strong></p><p>Akar adalah bagian tumbuhan yang umumnya terdapat didalam tanah. Struktur jaringan akar moonokotil yaitu:</p>Epidermis, terletak di bagian terluar akar, berfungsi sebagai jalan masuknya air serta garam mineral dari tanah.Korteks, yaitu berada di dalam epidermis, berfungsi sebagai tempat menyimpan cadangan makanan.Endodermis, yaitu jaringan yang membentuk dinding sekunder yang tebal.Periskel, yaitu terletak di dalam endodermis, berfungsi membentuk kambium gabus dan cabang akar. Stele atau silinder pusat, yaitu terdiri dari jaringan floem dan xilem yang tidak tersusun rapi, dan empulur yang terletak di tengah dan dikelilingi oleh xilem dan juga floem secara berselang-seling.<p><strong>Batang </strong>adalah organ tumbuhan yang berdiri tegak. Batang berfungsi sebagai tepat menempelnya daun, buah, dan bunga tumbuhan. Struktur jaringan batang monokotil yaitu:</p>Epidermis, yaitu jaringan yang terdiri atas selapis sel yang tersusun rapat dan tanpa ada ruang antara sel. Pada dinding luar epidermis terdapat sebuah kutikula, yang berfungsi sebagai pelindung batang.Korteks, yaitu jaringan yang terdiri dari beberapa lapis sel parenkim. Pada jaringan korteks terdapat kolenkim dan sklerenkim yang berfungsi sebagai penyokong tubuh tumbuhan.Stele atau jaringan silinder pusat, terdiri atas sel parenkim dan berkas pengangkut yaitu xilem dan floem.<p></p><p><strong>Pelajari Lebih lanjut</strong></p><p>Materi tentang perbedaan struktur jaringan akar dan batang monokotil: https://brainly.co.id/tugas/18763054</p><p></p><p><strong>#BelajarBersamaBrainly</strong> </p><br />
+                                            <h2 class="ez-toc-section" id="apakah-perbedaan-antara-penampang-melintang-akar-monokotil-dengan-batangnya">
+                            36. apakah perbedaan antara penampang melintang akar monokotil dengan Batangnya</h2><br />
+                        Akar Tumbuhan Dikotil - Akar tumbuhan Dikotil tersusun oleh bermacam-macam jaringan dengan fungsi tertentuletak epidermis akar ini di bagian terluar akar. <br />Fungsi Epidermis atau eksodermis akar tumbuhan dikotil  = Jalan masuk air dan garam mineral.<br /><br />Gambar Penampang Melintang Akar<br /><br />￼<br /><br />Ciri-ciri epidermis akar :<br /><br />terdiri dari satu lapis selberdinding tipis, sehingga mudah ditembus airmemiliki rambut akar yang berfungsi untuk memperluas bidang penyerapanumumnya tidak memiliki kutikulaepidermis akar yang menggantung pada tanaman anggrek dapat berkembang menjadi velamen (jaringan yang terdiri dari beberapa lapis sel)tersusun rapat sehingga tidak ada ruang antar selbentuk sel bervariasisel masih hiduptidak berklorofil <br /><br />Fungsi akar pada tumbuhan :<br /><br />menegakkan tumbuhan agar dapat berdirimenyerap air dan bahan-bahan organik dari dalam tanahmenyimpan makananalat reproduksi vegetatif (contoh : pohon bakau)<br /><br /><br />Gambar Penampang Melintang Batang<br /><br />Struktur Fungsi Organ Batang.  Batang berfungsi sebagai penunjang bagian atas tumbuhan, serta sebagai penghubung antara akar dan daun. Struktur batang sebenarnya tidak jauh berbeda dengan akar. Perbedaan utamanya adalah pada batang tidak terdapat lapisan endodermis. Jika batang dipotong melintang, bagian batang dari luar ke dalam, yaituepidermis, korteks, dan empulur. Epidermis tersusun atas lapisan sel yang rapat tanpa ruang antarsel. Setelah dewasa, seperti pada akar, fungsi epidermis digantikan oleh pertumbuhan kambium gabus. Kambium gabus memiliki sel yang mengalami penebalan gabus untuk mencegah penguapan air dari batang. Perlindungan kambium gabus ini sangat rapat sehingga gas pun tidak dapat masuk ke dalam sel. Namun demikian, kambium gabus seringkali membentuk lentisel, struktur yang terdiri atas selsel dan tersusun longgar yang berperan dalam pertukaran gas. Korteks pada batang, terdiri atas beberapa jenis jaringan, yaitu jaringan parenkim dan jaringan penyokong yang tersusun atas sklerenkim dan kolenkim. Susunan sel-sel parenkim tidak beraturan sehingga banyak terdapat ruang antarsel. Sel-sel parenkim berdinding tipis dan pada saat batang masih muda, terdapat vakuola yang berisi makanan cadangan berupa amilum<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="apa-perbedaan-penampang-melintang-akar-dan-melintang-batang-dan-jelaskan">
+                            37. Apa perbedaan penampang melintang akar dan melintang batang, dan jelaskan !</h2><br />
+                        1. AkarAkar adalah organ tumbuhan yang masuk ke dalam tanah. Fungsi akar pada tumbuhan, antara lain sebagai tempat melekatnya tumbuhan pada media (tanah), menyerap air dan garam mineral dari tanah, memperkuat berdirinya tumbuhan, tempat penyimpanan cadangan makanan, dan sebagai alat pernapasan. Jaringan penyusun akar, antara lain epidermis, korteks, endodermis, stele (silinder pusat), perisikel, xilem, floem, dan empulur. Akar dapat dibedakan menjadi tiga macam, yaitu akar tunggang pada tumbuhan dikotil, akar serabut pada tumbuhan monokotil, dan akar adventif (bukan berasal dari akar primer).2. BatangBatang merupakan organ tumbuhan yang tumbuh di permukaan tanah. Fungsi batang, antara lain menyalurkan air dan garam mineral dari akar ke daun, menyalurkan zat makanan dari daun ke seluruh tubuh, tempat penyimpanan cadangan makanan, serta tempat menempelnya daun, bunga, dan buah. Jaringan penyusun batang, antara lain epidermis, korteks, stele, endodermis, perisikel, empulur, xilem, floem, dan kambium.<br />
+                                            <h2 class="ez-toc-section" id="apa-perbedaan-penampang-melintang-akar-dan-melintang-batang-dan-jelaskan">
+                            38. Apa perbedaan penampang melintang akar dan melintang batang, dan jelaskan !</h2><br />
+                        penampang melingtang :  akar dan batang ada lah tampilan gambar jika dilihat dari atas/pada posisi horizontal.<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="perbedaan-penampang-melintang-pada-batang-monokotil-dan-dikotil">
+                            39. Perbedaan penampang melintang pada batang monokotil dan dikotil</h2><br />
+                        terletak pada bagian batangnya <br />
+                                            <h2 class="ez-toc-section" id="gambar-penampang-melintang-batang">
+                            40. gambar penampang melintang batang </h2><br />
+                        coba langsung cari di google aja<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/5LYWurN8ubU?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>biologi</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gerak-tari-tradisi-papua-banyak-menggunakan-gerak/">Gerak Tari Tradisi Papua Banyak Menggunakan Gerak</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nyatakan-himpunan-a-dengan-notasi-pembentuk-himpunan/">Nyatakan Himpunan A Dengan Notasi Pembentuk Himpunan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/komunikatif-adalah-brainly/">Komunikatif Adalah Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/para-tokoh-masyarakat-yang-berjiwa-pancasila-akan/">Para Tokoh Masyarakat Yang Berjiwa Pancasila Akan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dipunwastani-tegese/">Dipunwastani Tegese</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-perbedaan-tangga-nada-diatonis-dan-pentatonis/">Jelaskan Perbedaan Tangga Nada Diatonis Dan Pentatonis</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/buah-j/">Buah J</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/orientasi-utara/">Orientasi Utara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1-1-2-2-2-3-3-3-4/">1 1 2 2 2 3 3 3 4</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jumlah-rasul-yang-termaktub-dalam-al-quran-adalah/">Jumlah Rasul Yang Termaktub Dalam Al Quran Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mie-bahasa-inggris/">Mie Bahasa Inggris</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pancasila-dalam-aksara-lampung/">Pancasila Dalam Aksara Lampung</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-saja-yang-harus-kamu-tuliskan-dalam-formulir/">Apa Saja Yang Harus Kamu Tuliskan Dalam Formulir</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/write-a-formal-invitation-for-your-brothers-wedding/">Write A Formal Invitation For Your Brother&#039;s Wedding</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/daerah-di-kabupaten-tegal-yang-terkenal-dengan-industry-logamnya-adalah/">Daerah Di Kabupaten Tegal Yang Terkenal Dengan Industry Logamnya Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/angka-bahasa-inggris-1-20/">Angka Bahasa Inggris 1 20</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ubahlah/">Ubahlah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/about-artinya/">About Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-tujuan-pidato/">Jelaskan Tujuan Pidato</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gerakan-kepala-seolah-menarik-dagu-disebut/">Gerakan Kepala Seolah Menarik Dagu Disebut</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

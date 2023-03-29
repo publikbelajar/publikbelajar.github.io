@@ -1,0 +1,1273 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bahasa Jawa Lupa - BELAJAR</title>
+    <meta name="description" content="Bahasa Jawa Lupa, , , , , , , 0, Belajar Bahasa Jawa itu Susah, Eh, Malah Orang Jawa Lupa Jawane, wilwatekta.id, 1920 x 1280, jpeg, , 20, bahasa-jawa-lupa, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Bahasa Jawa Lupa - BELAJAR" />
+    <meta property="og:description" content="Bahasa Jawa Lupa, , , , , , , 0, Belajar Bahasa Jawa itu Susah, Eh, Malah Orang Jawa Lupa Jawane, wilwatekta.id, 1920 x 1280, jpeg, , 20, bahasa-jawa-lupa, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Bahasa Jawa Lupa - BELAJAR" />
+    <meta name="twitter:description" content="Bahasa Jawa Lupa, , , , , , , 0, Belajar Bahasa Jawa itu Susah, Eh, Malah Orang Jawa Lupa Jawane, wilwatekta.id, 1920 x 1280, jpeg, , 20, bahasa-jawa-lupa, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Bahasa Jawa Lupa</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">Llyjmlutm</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Bahasa+Jawa+Lupa" alt="Bahasa Jawa Lupa">
+                    </div>
+                    <p></p>
+                    <p>bahasa jawanya lupa </p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-jawanya-lupa">1.
+                                            bahasa jawanya lupa </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-jawanya-lupa-apa%e2%80%8b">2.
+                                            bahasa jawanya LUPA apa​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-jawanya-jangan-lupa-makan">3.
+                                            Bahasa jawanya Jangan lupa makan!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bantuin-ya-ini-pakek-belajar-ujian-jangan-lupa-penjelasan-nya-yapenjelasan-nya-pakek-bahasa-jawa%e2%80%8b">4.
+                                            bantuin ya. ini pakek belajar ujian.jangan lupa penjelasan nya ya!!penjelasan nya pakek bahasa jawa!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#artikan-ke-bahasa-jawaairairkamulah-sumber-kehidupanairsemua-orang-memerlukanmutetapisudah-banyak-yang-melupakanmumereka-merusakmu-dari-hulu-hingga-ke-hilirkamu-membalasnya-dengan-bencana-yang-s">5.
+                                            artikan ke bahasa jawaairair,kamulah sumber kehidupanair,semua orang    memerlukanmutetapi,sudah banyak yang melupakanmumereka merusakmu dari hulu hingga ke hilirkamu membalasnya dengan bencana yang sebenarnya dari manusia sendiriterimakasih air​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#quiz-berhadiah-poin-guysyuk-ikut-quiz-ini-ya-guyspertanyaan-ada-di-foto-diatas-yajangan-lupa-dijawab-yaini-tantangan-bahasa-jawa%e2%98%91%ef%b8%8f%e2%80%8b">6.
+                                            QUIZ BERHADIAH POIN GUYSYUK IKUT QUIZ INI YA GUYSPERTANYAAN ADA DI FOTO DIATAS YAJANGAN LUPA DIJAWAB YAINI TANTANGAN BAHASA JAWA☑️​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-dengan-aksara-jawa-tambangtolong-bantu-ya-kak-jangan-lupa-pakai-bahasa-jawa-%e2%80%8b">7.
+                                            Tuliskan dengan aksara Jawa TambangTolong bantu ya Kak jangan lupa pakai bahasa Jawa ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ayogunakan-kamus-carilah-arti-kata-berikut-ini1-surya-adalah-2-dini-adalah-3-percik-adalah4-linang-adalah5-intan-adalah-6-cemerlang-adalah-7-ria-adalah-8-riang-adalah">8.
+                                            AyoGunakan kamus! Carilah arti kata berikut ini!1. Surya adalah ...2. Dini adalah..3. Percik adalah4. Linang adalah5. Intan adalah......6. Cemerlang adalah .......7. Ria adalah .......8. Riang adalah..........9. Kilau adalah .........10. Sejuk adalah.........Temukan juga bahasa Jawa nya  yang mempunyaiarti sama!tolong dong Oh ya bahasa jawanya juga jangan lupa ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#artiin-perkata-sama-pengertiannya-per-kata-pake-bahasa-jawa-tembang-pangkur-bait-ke-2-baris-ke-67-angucap-meneng-myang-nendraduga-duga-aja-kari-jgn-lupa-sama-pengertiannya">9.
+                                            artiin perkata sama pengertiannya per kata pake bahasa jawa tembang pangkur bait ke 2 baris ke 6,7 :angucap meneng myang nendra,duga-duga aja kari. jgn lupa sama pengertiannya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ok-pertanyaan-selanjutya-adalah-bahasa-jawa-poin-ya-sekarang-25-ya-dan-jangan-lupa-follow-ig-me-armyyy-gimana-baca-y">10.
+                                            Ok pertanyaan selanjutya .adalah bahasa Jawa . Poin ya sekarang 25 ya.dan jangan lupa follow Ig me armyyy 
+ Gimana baca y</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-jawanya-sesibuk-sibuk-nya-mencari-harta-jangan-sampai-lupa-anak-dan-istri-%e2%80%8b">11.
+                                            bahasa jawanya .sesibuk sibuk nya mencari harta .jangan sampai lupa anak dan istri .​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-jawanya-yang-harus-dilakukankewajiban-warga-negara-yang-disebut-pancasila-janganlah-dilupakan-karena-itu-menjadi-pengikat-yang-kuat-terhadap-kesatuan-bangsa-walaupun-berbeda-beda-agama-tak-per">12.
+                                            bahasa jawanya yang harus dilakukan/kewajiban warga negara yang disebut pancasila janganlah dilupakan karena itu menjadi pengikat yang kuat terhadap kesatuan bangsa walaupun berbeda beda agama tak perlu dijadikan ributkan ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tataan-lima-tempat-salian-to-gunung-ni-dijadikeun-tempat-nyayangna-heulang-jawasusunan-lima-tempat-selain-gunung-ini-dijadikan-sebagai-tempat-bersarang-elang-jawatolong-dijawab-ya-itu-ada-bacaannya">13.
+                                            Tataan lima tempat salian to gunung ni dijadikeun tempat nyayangna heulang Jawa!Susunan lima tempat selain gunung ini dijadikan sebagai tempat bersarang elang jawa!tolong dijawab ya itu ada bacaannya itu disuruh selain gunung tempat apa yang bisa dijadikan sarang oleh elang jangan lupa jawabnya pakai bahasa Sunda ya terimakasih​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ubahlah-kalimat-seseorang-itu-harus-bangkit-dari-keterpurukanjangan-sampai-terus-menerus-hanyut-dalam-kekecewaan-seseorang-itu-harus-bisa-melupakan-masa-lalu-yang-menyakitkan-hati-menjadi-bahasa-ja">14.
+                                            Ubahlah kalimat "seseorang itu harus bangkit dari keterpurukan,jangan sampai terus menerus hanyut dalam kekecewaan.seseorang itu harus bisa melupakan masa lalu yang menyakitkan hati" menjadi bahasa jawa</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-jawa-nya-melupakanmu%e2%80%8b">15.
+                                            bahasa jawa nya melupakanmu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-buatkan-puisi-bahasa-jawa-tentang-budayaa-jawa-keluarga-lingkungan-bumi-yang-rusak-thank-you-jangan-lupa-subrek-like-komen">16.
+                                            Tolong buatkan puisi bahasa jawa tentang budayaa jawa, keluarga, lingkungan bumi yang rusak. Thank you. Jangan lupa subrek like komen</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#protokol-tidak-lupa-sampai-pandemi-selesaiubah-ke-bahasa-jawaterima-kasih%e2%80%8b">17.
+                                            Protokol tidak lupa sampai pandemi selesaiUbah ke bahasa jawa!Terima kasih​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ppk-kompetensi-dasars-14-2-4-3-4-dan-44-3-bahasa-pemersatu-negara-indonesia-adalah-a-bahasa-jawa-c-bahasa-belanda-b-bahasa-sunda-d-bahasa-indonesia-4-sebagai-rakyat-indonesia-kita-harus">18.
+                                            PPK Kompetensi Dasars 14.2.4 3.4 dan 44 3. Bahasa pemersatu Negara Indonesia adalah ... a. bahasa Jawa c. bahasa Belanda b. bahasa Sunda d. bahasa Indonesia 4. Sebagai rakyat Indonesia, kita harus ... terhadap bahasa Indonesia. akecewa b. bangga c. lupa d. apatis 5. Bahasa Indonesia ditetapkan sebagai bahasa pemersatu pada tanggal .... 6. Bagaimana cara agar bahasa Indonesia tetap menjadi bahasa persatuan bagi bangsa Indonesia?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tlg-bantuin-kaka%c2%b2-buatin-teks-deskripsi-pake-bahasa-jawa-yhananti-aku-followjan-lupa-follback-jga-yhamapel-bahasa-jawakelas-5%e2%80%8b">19.
+                                            tlg bantuin kaka² buatin teks deskripsi pake bahasa jawa yhananti aku followjan lupa follback jga yhaMapel: Bahasa Jawakelas: 5​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lupa-bahasa-jawa-nya-adalah">20.
+                                            lupa bahasa jawa nya adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-tegese-ajining-dhiri-dumunung-ing-lathijawab-menggunakan-bahasa-jawa-jika-menjawab-dengan-bahasa-indonesia-boleh-tetapi-harus-di-terjemahkan-ke-bahasa-jawasaya-follow-nanti-dan-follbacknya-janga">21.
+                                            Apa tegese Ajining dhiri dumunung ing lathi?Jawab menggunakan bahasa Jawa jika menjawab dengan bahasa Indonesia boleh tetapi harus di terjemahkan ke bahasa Jawa+Saya follow nanti dan follbacknya jangan lupa OK​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#keluarga-penuh-kehangatan-keluargaku-penuh-kehangatanpenuh-cinta-dan-kasih-sayangbanyak-sekali-kenangantak-mungkin-aku-lupakan-ibuku-sangat-penyayangayahku-juga-penyabarmembuat-hidupku-selalu-riangbah">22.
+                                            KELUARGA PENUH KEHANGATAN Keluargaku penuh kehangatanPenuh cinta dan kasih sayangBanyak sekali kenanganTak mungkin aku lupakan.Ibuku sangat penyayangAyahku juga penyabarMembuat hidupku selalu riangBahagiaku sangat mengakarini tolong di bahasa jawakan, terima kasih​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-bahasa-jawa-nya-jangan-lupa-doa-sebelum-tidur-ya-thanks-before-wkwk">23.
+                                            apa bahasa jawa nya "jangan lupa doa sebelum tidur ya" . thanks before wkwk</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-jawa-nya-dilupakan">24.
+                                            Bahasa jawa nya ' dilupakan'</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#quis-yang-bisa-mengubah-bahasa-indonesia-menjadi-bahasa-jawa-aku-jadiin-jawaban-tercerdas-tapi-jangan-bahasa-krama-ya1-rumah-kamu-dimana2-kamu-sekolah-di-mana3-ayo-main4-ayo-kita-belajar5">25.
+                                            Quis....yang bisa mengubah bahasa Indonesia menjadi bahasa Jawa aku jadiin jawaban tercerdas tapi jangan bahasa krama ya1. Rumah kamu dimana?2. Kamu sekolah di mana?3. Ayo main?4. Ayo kita belajar?5. Ngantuk mau tidur dulu?note: Jangan lupa follow aku ya,Jangan lihat google kalo sama gk ku like jawabannya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#profil-pemuda-pancasila-bernaral-kritis-ceritakan-secara-singkat-tentang-profil-pelajar-bernaral-kritis-berupa-narasi-min-5-kalimat-yang-dikerjakannya-dalam-bahasa-jawaminta-tolong-bantuin-yakl">26.
+                                            profil pemuda Pancasila bernaral kritis. ceritakan secara singkat tentang profil pelajar (bernaral kritis) (berupa narasi min 5 kalimat)  yang dikerjakannya dalam bahasa Jawaminta tolong bantuin ya,Klo bisa sekalian contoh kegiatannya.jangan lupa pke bhs Jawa.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sekarang-bahasa-jawa-tolong-bantuannya-kakak-kakaknanti-aku-follow-jangan-lupa-pakai-aksara-jawanya-ya-kak-jangan-asalterima-kasih-%e2%80%8b">27.
+                                            sekarang bahasa Jawa. Tolong bantuannya kakak-kakaknanti aku follow jangan lupa pakai aksara Jawanya ya Kak..jangan asalterima kasih ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-jawa-nya-jangan-lupa-ya-kak-bang-dan-kawan-kawan-sekalian">28.
+                                            bahasa jawa nya " jangan lupa ya kak, bang dan kawan-kawan sekalian "</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ayo-kita-main-transfer-1-bahasa-jawainggrisjepangaku-cinta-kamu2-bahasa-inggrisjawakucing-hitam-mati3-bahasa-jawa-anak-monyetjangan-lupa-follow-aku-akan-kasih-40-poin-lagi%e2%80%8b">29.
+                                            ayo kita main transfer...1.bahasa jawa,inggris,jepang:aku cinta kamu2.bahasa inggris,jawa:kucing hitam mati3.bahasa jawa anak monyetjangan lupa follow aku akan kasih 40 poin lagi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#profil-pemuda-pancasila-bernaral-kritis-ceritakan-secara-singkat-tentang-profil-pelajar-bernaral-kritis-berupa-narasi-min-5-kalimat-yang-dikerjakannya-dalam-bahasa-jawa-minta-tolong-bantuin-yakl">30.
+                                            profil pemuda Pancasila bernaral kritis. ceritakan secara singkat tentang profil pelajar (bernaral kritis) (berupa narasi min 5 kalimat) yang dikerjakannya dalam bahasa Jawa minta tolong bantuin ya,Klo bisa sekalian contoh kegiatannya.jangan lupa pke bhs Jawa.JANGAN PANJANG - PANJANG NANTI KERTASNYA GA CUKUP​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-puisi-jawa-atau-geguritan-tentang-hari-pendidikan-nasional-pake-bahasa-jawa-cepet-bales-y-dibales-ya-jangan-lupa">31.
+                                            Contoh puisi jawa atau geguritan tentang hari pendidikan nasional pake bahasa jawa ?cepet bales y dibales ya jangan lupa</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-bahasa-jawanya-mentang-mentang-sudah-punya-pacar-adeknya-di-lupakan%e2%80%8b">32.
+                                            apa bahasa jawanya mentang-mentang sudah punya pacar adeknya di lupakan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-10-bahasa-daerah10-bahasa-sunda10-bahasa-jawa10-bahasa-padang10-bahasa-jawa-tengah10-bahasa-banten10-bahasa-melayutolong-di-jawab-yak-kakak-kakak-yang-gantengcantik-makasih-yaowh-ya-jagan-lu">33.
+                                            sebutkan 10 bahasa daerah10 bahasa sunda10 bahasa jawa10 bahasa padang10 bahasa jawa tengah10 bahasa banten10 bahasa melayutolong di jawab yak kakak kakak yang ganteng/cantik makasih yaowh ya jagan lupa follow nanti di follbackmksh</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatkan-cerita-pengalaman-yg-tidak-bisa-dilupakan-dngan-menggunakan-bahasa-jawa-krama-inggil">34.
+                                            buatkan cerita pengalaman yg tidak bisa dilupakan dngan menggunakan bahasa jawa krama inggil</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#orang-jawa-tolong-terjemahkan-bahasa-indonesia-ke-jawa-jangan-lupa-puasa-tidak-puasa-terserahmu-yang-penting-aku-sudah-mengingatkan-selamat-ulang-tahun-siri-nanti-kita-jajan-bersama-ya%e2%80%8b">35.
+                                            Orang jawa tolong terjemahkan bahasa indonesia ke jawa =Jangan lupa, puasa tidak puasa terserahmu yang penting aku sudah mengingatkan. selamat ulang tahun siri nanti kita jajan bersama ya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#debat-tim-kontra-banyak-pemuda-yang-melupakan-bahasa-jawa">36.
+                                            Debat tim kontra banyak pemuda yang melupakan bahasa jawa</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kothak-tegese-ukara-punakawan-tegese-ukara-mapel-bahasa-jawakelas-5bab-lupa%e2%80%8b">37.
+                                            - kothak tegese : ........., ukara : ........- punakawan tegese : ........., ukara : ........Mapel : Bahasa JawaKelas : 5Bab : - (lupa)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-jawa-nya-kamu-mau-tidur-jangan-lupa-baca-doa-duluapa-ya-kak%e2%80%8b">38.
+                                            bahasa Jawa nya "kamu mau tidur? jangan lupa baca doa duluapa ya kak?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagi-bagi-poin-khusus-hari-pahlawan1-sebutkan-5-nama-hewan-menggunakan-bahasa-inggris2-bahasa-jawanya-basah-adalah-________________________________jangan-lupa-follow-untuk-pertanyaan-berikutnya">39.
+                                            Bagi-bagi poin khusus hari Pahlawan1. sebutkan 5 nama hewan menggunakan bahasa Inggris2. bahasa JAWAnya "basah" adalah? ________________________________jangan lupa follow untuk pertanyaan berikutnya.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-cerita-pengalamanmu-yang-tak-terlupakan-minimal-3-paragrafmengunakan-bahasa-jawa-krama-atau-ngoko%e2%80%8b">40.
+                                            buatlah cerita pengalamanmu yang tak terlupakan minimal 3 paragraf,mengunakan bahasa Jawa krama atau ngoko!​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="bahasa-jawanya-lupa">
+                            1. bahasa jawanya lupa </h2><br />
+                        kelalen / lali<br />semoga bermanfaat  lali.<br />itu jawabannya<br />  semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="bahasa-jawanya-lupa-apa%e2%80%8b">
+                            2. bahasa jawanya LUPA apa​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>lali</p><p>semoga membantu.... </p><p><strong>Jawaban:</strong></p><p>BHASA JAWANYA LUPA ADALAH :</p><p>LALI. ITU DI KATEGORIKAN BAHASA JAWA TIMUR</p><p><strong>Penjelasan:</strong></p><p><strong>Semoga</strong><strong> bermanfaat</strong></p><p></p><p></p><p><strong>good </strong><strong>luck</strong></p><p></p><p></p><p><strong>have </strong><strong>a </strong><strong>nice day:</strong><strong>)</strong></p><p></p><p><strong>#</strong><strong>b</strong><strong>r</strong><strong>a</strong><strong>i</strong><strong>n</strong><strong>l</strong><strong>y</strong><strong>i</strong><strong>f</strong></p><br />
+                                            <h2 class="ez-toc-section" id="bahasa-jawanya-jangan-lupa-makan">
+                            3. Bahasa jawanya Jangan lupa makan!</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Ojo lali mangan</p><p><strong>Penjelasan:</strong></p><p>jangan lupa makan</p><br />
+                                            <h2 class="ez-toc-section" id="bantuin-ya-ini-pakek-belajar-ujian-jangan-lupa-penjelasan-nya-yapenjelasan-nya-pakek-bahasa-jawa%e2%80%8b">
+                            4. bantuin ya. ini pakek belajar ujian.jangan lupa penjelasan nya ya!!penjelasan nya pakek bahasa jawa!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>B.serik atine </p><p><strong>Penjelasan:</strong></p><p>Galuh agung sing Serik atine banjir golek dalan kanggo nyingkirake Dewi Sekartaji.</p><p></p><p></p><p>#semoga bermanfaat</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="artikan-ke-bahasa-jawaairairkamulah-sumber-kehidupanairsemua-orang-memerlukanmutetapisudah-banyak-yang-melupakanmumereka-merusakmu-dari-hulu-hingga-ke-hilirkamu-membalasnya-dengan-bencana-yang-s">
+                            5. artikan ke bahasa jawaairair,kamulah sumber kehidupanair,semua orang    memerlukanmutetapi,sudah banyak yang melupakanmumereka merusakmu dari hulu hingga ke hilirkamu membalasnya dengan bencana yang sebenarnya dari manusia sendiriterimakasih air​</h2><br />
+                        <p>banyu</p><p></p><p>banyu, sampeyan sumber urip</p><p></p><p>banyu, kabeh wong</p><p>butuh sampeyan</p><p></p><p>nanging, akeh sing lali karo sampeyan</p><p></p><p>sampeyan bakal numpes sampeyan saka hulu menyang hilir</p><p></p><p>sampeyan nanggapi bilai sejatine saka manungsa dhewe</p><p></p><p>matur nuwun toya.</p><p></p><p><strong>Jawaban:</strong></p><p>banyu</p><p></p><p>banyu, sampeyan sumber urip</p><p></p><p>banyu, kabeh wong</p><p>butuh sampeyan</p><p></p><p>nanging, akeh sing lali karo sampeyan</p><p></p><p>sampeyan bakal numpes sampeyan saka hulu menyang hilir</p><p></p><p>sampeyan nanggapi bilai sejatine saka manungsa dhewe</p><p></p><p>matur nuwun toya</p><p></p><p>Sing paling apik sing ditrapake, artikel iki asale diterbitake nganggo basa Indonesia.</p><p>-----------------------------------------------------------------</p><p>Semoga Membantu </p><p>[tex] \bold{nurulhuda291184(syifa)}[/tex]</p><br />
+                                            <h2 class="ez-toc-section" id="quiz-berhadiah-poin-guysyuk-ikut-quiz-ini-ya-guyspertanyaan-ada-di-foto-diatas-yajangan-lupa-dijawab-yaini-tantangan-bahasa-jawa%e2%98%91%ef%b8%8f%e2%80%8b">
+                            6. QUIZ BERHADIAH POIN GUYSYUK IKUT QUIZ INI YA GUYSPERTANYAAN ADA DI FOTO DIATAS YAJANGAN LUPA DIJAWAB YAINI TANTANGAN BAHASA JAWA☑️​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1 Iklim musim atau iklim Muson,iklim musim sangat dipengaruhi oleh angi musiman yang berubah-ubah setiap periode tertentu</p><p>Iklim laut</p><p>Iklim panas atau iklim tropis </p><p></p><p>2Walaupun padi dapat ditanam sepanjang tahun, namun pada dasarnya petani menanam padi berdasarkan ketersediaan air, yang dapat dikelompokkan menjadi tiga periode tanam yaitu : 1. Musim tanam utama, pada bulan Nopember, Desember, Januari, Pebruari dan Maret; 2. Musim tanam gadu, pada bulan April, Mei, Juni, Juli; 3. ...</p><p></p><p>3kurang tau maaf</p><p></p><p>di jamin betul</p><p>tapi maaf no yang lain nggak dijawab</p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-dengan-aksara-jawa-tambangtolong-bantu-ya-kak-jangan-lupa-pakai-bahasa-jawa-%e2%80%8b">
+                            7. Tuliskan dengan aksara Jawa TambangTolong bantu ya Kak jangan lupa pakai bahasa Jawa ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawaban ada difoto</p><p><strong>Penjelasan:</strong></p><p>maaf kl salah</p><br />
+                                            <h2 class="ez-toc-section" id="ayogunakan-kamus-carilah-arti-kata-berikut-ini1-surya-adalah-2-dini-adalah-3-percik-adalah4-linang-adalah5-intan-adalah-6-cemerlang-adalah-7-ria-adalah-8-riang-adalah">
+                            8. AyoGunakan kamus! Carilah arti kata berikut ini!1. Surya adalah ...2. Dini adalah..3. Percik adalah4. Linang adalah5. Intan adalah......6. Cemerlang adalah .......7. Ria adalah .......8. Riang adalah..........9. Kilau adalah .........10. Sejuk adalah.........Temukan juga bahasa Jawa nya  yang mempunyaiarti sama!tolong dong Oh ya bahasa jawanya juga jangan lupa ​</h2><br />
+                        Alama semesta (Jawa : jagat raya)saat ini ( Jawa : maaf tidak tahu)percik itu bahasa Jawa setahuku:')maaf tidak tahuberlian ( Jawa : maaf tidak tahu)bagus ( Jawa : maaf tidak tahu)ramai ( Jawa : rame )senang ( Jawa : seneng)bercahaya ( Jawa : silau)dingin ( Jawa : atis)<p></p>semoga membantu KEBETULAN AKU ORANG JAWA~TAPI GAK SEMUANYA AKU TAHU....MAAF!!!<br />
+                                            <h2 class="ez-toc-section" id="artiin-perkata-sama-pengertiannya-per-kata-pake-bahasa-jawa-tembang-pangkur-bait-ke-2-baris-ke-67-angucap-meneng-myang-nendraduga-duga-aja-kari-jgn-lupa-sama-pengertiannya">
+                            9. artiin perkata sama pengertiannya per kata pake bahasa jawa tembang pangkur bait ke 2 baris ke 6,7 :angucap meneng myang nendra,duga-duga aja kari. jgn lupa sama pengertiannya</h2><br />
+                        sopan santun itu dipakai saat duduk, tidur, bangun, berdiri, dan selalu perhitungan dan jangan ditinggalkan :)<br /><br /><br />jadikan jawaban terbaik dong <br />
+                                            <h2 class="ez-toc-section" id="ok-pertanyaan-selanjutya-adalah-bahasa-jawa-poin-ya-sekarang-25-ya-dan-jangan-lupa-follow-ig-me-armyyy-gimana-baca-y">
+                            10. Ok pertanyaan selanjutya .adalah bahasa Jawa . Poin ya sekarang 25 ya.dan jangan lupa follow Ig me armyyy 
+ Gimana baca y</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>d. <strong>Pasulayan</strong><strong> </strong><strong>karo</strong><strong> </strong><strong>tentara</strong><strong> </strong><strong>Jepang </strong><strong>dumadi</strong><strong> </strong><strong>sadhengah</strong><strong> </strong><strong>papan</strong><strong>,</strong></p><p>e. <strong>1</strong><strong>9</strong><strong> </strong><strong>Septem</strong><strong>ber</strong><strong> </strong><strong>1</strong><strong>9</strong><strong>4</strong><strong>5</strong><strong> </strong><strong>geneda</strong><strong> </strong><strong>rawalo</strong><strong> </strong><strong>nadahing</strong><strong> </strong><strong>hotel</strong><strong> </strong><strong>y</strong><strong>amato </strong><strong>diudhannake</strong><strong>.</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bahasa-jawanya-sesibuk-sibuk-nya-mencari-harta-jangan-sampai-lupa-anak-dan-istri-%e2%80%8b">
+                            11. bahasa jawanya .sesibuk sibuk nya mencari harta .jangan sampai lupa anak dan istri .​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>sesasi sibuk golek bandha Ojo lali anak bojomu.</p><p><strong>Jawaban:</strong></p><p>sesibuk sibukke nggolek harta. ojo sampek lali anak lan bojo</p><p><strong>Penjelasan:</strong></p><p>terimakasih. semoga bermanfaat </p><br />
+                                            <h2 class="ez-toc-section" id="bahasa-jawanya-yang-harus-dilakukankewajiban-warga-negara-yang-disebut-pancasila-janganlah-dilupakan-karena-itu-menjadi-pengikat-yang-kuat-terhadap-kesatuan-bangsa-walaupun-berbeda-beda-agama-tak-per">
+                            12. bahasa jawanya yang harus dilakukan/kewajiban warga negara yang disebut pancasila janganlah dilupakan karena itu menjadi pengikat yang kuat terhadap kesatuan bangsa walaupun berbeda beda agama tak perlu dijadikan ributkan ​</h2><br />
+                        <p>apa sing kudu dilakoni / kewajiban warga sing disebut Pancasila ora kudu dilalekake amarga dadi pengikat sing kuwat saka kesatuan bangsa sanajan agama sing beda-beda ora perlu diresiki</p><p><strong>Jawaban </strong><strong>:</strong><strong> </strong><strong>apa sing kudu dilakoni / kewajiban warga sing disebut Pancasila ora kudu dilalekake amarga dadi pengikat sing kuwat saka kesatuan bangsa sanajan agama sing beda-beda ora perlu diresiki</strong><strong>.</strong></p><p></p><p>Semoga bermanfaat</p><p>jangan lupa di <strong>follow </strong>ya... </p><br />
+                                            <h2 class="ez-toc-section" id="tataan-lima-tempat-salian-to-gunung-ni-dijadikeun-tempat-nyayangna-heulang-jawasusunan-lima-tempat-selain-gunung-ini-dijadikan-sebagai-tempat-bersarang-elang-jawatolong-dijawab-ya-itu-ada-bacaannya">
+                            13. Tataan lima tempat salian to gunung ni dijadikeun tempat nyayangna heulang Jawa!Susunan lima tempat selain gunung ini dijadikan sebagai tempat bersarang elang jawa!tolong dijawab ya itu ada bacaannya itu disuruh selain gunung tempat apa yang bisa dijadikan sarang oleh elang jangan lupa jawabnya pakai bahasa Sunda ya terimakasih​</h2><br />
+                        <p><strong>gunung</strong><strong> </strong><strong>tamp</strong><strong>omas</strong><strong>,</strong><strong> gunung</strong><strong> halimun</strong><strong>,</strong><strong> gunung</strong><strong> </strong><strong>talaga</strong><strong> </strong><strong>bodas</strong><strong>,</strong><strong> gunung</strong><strong> </strong><strong>jagat</strong><strong>,</strong><strong>gunung</strong><strong> </strong><strong>sawa</strong><strong>l</strong></p><p></p><p><strong>Taman</strong><strong> Nasional</strong><strong> ujung</strong><strong> kulon</strong><strong>,</strong><strong>situ</strong><strong> </strong><strong>Patenggang</strong><strong>,</strong><strong> cagar</strong><strong> alam</strong><strong> Leuweung</strong><strong> Sancang</strong><strong>,</strong><strong>taman</strong><strong> </strong><strong>Nasional</strong><strong> gunung</strong><strong> </strong><strong>ha</strong><strong>limun</strong><strong>,</strong><strong>taman</strong><strong> </strong><strong>Nasional</strong><strong> </strong><strong>gede</strong><strong> </strong><strong>pangrango</strong></p><p><strong>Penjelasan:</strong></p><p><strong>se</strong><strong>moga</strong><strong> bermanfaa</strong><strong>t</strong><strong>;</strong><strong>)</strong></p><p></p><p>maaf jika salah#</p><br />
+                                            <h2 class="ez-toc-section" id="ubahlah-kalimat-seseorang-itu-harus-bangkit-dari-keterpurukanjangan-sampai-terus-menerus-hanyut-dalam-kekecewaan-seseorang-itu-harus-bisa-melupakan-masa-lalu-yang-menyakitkan-hati-menjadi-bahasa-ja">
+                            14. Ubahlah kalimat "seseorang itu harus bangkit dari keterpurukan,jangan sampai terus menerus hanyut dalam kekecewaan.seseorang itu harus bisa melupakan masa lalu yang menyakitkan hati" menjadi bahasa jawa</h2><br />
+                        Basa jawa ngoko : Seseorang kuwi kudu bangkit dri keterpurukan,aja sampi terus menerus keli jero kekecewaan. Seseorang kuwi kudu bisa ngelalekne masa terlewat sing nyakitne ati.<br /><br />Basa jawa krama : Seseorang punika kedah bangkit dri keterpurukan,ampun sampi terus menerus keli lebet kekecewaan. Seseorang punika kedah sanguh ngelaleaken masa terlewat ingkang nyakitaken manah.<br />
+                                            <h2 class="ez-toc-section" id="bahasa-jawa-nya-melupakanmu%e2%80%8b">
+                            15. bahasa jawa nya melupakanmu​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>aku ga iso ngelalekno koe</p><p><strong>Penjelasan:</strong></p><p>sebabe aku tresno jero ning dalem atiku mbek koe</p><br />
+                                            <h2 class="ez-toc-section" id="tolong-buatkan-puisi-bahasa-jawa-tentang-budayaa-jawa-keluarga-lingkungan-bumi-yang-rusak-thank-you-jangan-lupa-subrek-like-komen">
+                            16. Tolong buatkan puisi bahasa jawa tentang budayaa jawa, keluarga, lingkungan bumi yang rusak. Thank you. Jangan lupa subrek like komen</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Alamku Wis Ditilang</p><p></p><p></p><p></p><p>Aku digunakake kanggo mbusak kali sandi</p><p></p><p>Iku reged saiki</p><p></p><p>Iku sing paling dhuwur ing wit</p><p></p><p>Saiki wis ilang</p><p></p><p>Aku dadi ayu karo aku</p><p></p><p>Saiki ora apik</p><p></p><p>Saiki alamku rusak</p><p></p><p>Amarga tangan manungsa</p><p></p><p>Amarga urip</p><p></p><p>Lali babagan alam</p><p></p><p>Carane babagan cucuku?</p><p></p><p>Egois njupuk kita kabeh</p><p></p><p> Padha nyenyuwun marang Gusti Allah</p><p></p><p>Perdamaian alam sing sampeyan lunga</p><p></p><p>Saiki pecah</p><p></p><p></p><p>mungkin ada yang kurang benar</p><p>selamat belajar</p><p>alas saiki kowe ilang</p><p></p><p>ing ati rasane ngrambyang</p><p>aku kangen karo kowe</p><p>sing biso ngademke</p><p>ojo podo awadewe ngrusak</p><p>lan ngunduli alas malih botak</p><p>ayo podo dilestari</p><p>supaya bumi endhah lan asri</p><br />
+                                            <h2 class="ez-toc-section" id="protokol-tidak-lupa-sampai-pandemi-selesaiubah-ke-bahasa-jawaterima-kasih%e2%80%8b">
+                            17. Protokol tidak lupa sampai pandemi selesaiUbah ke bahasa jawa!Terima kasih​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>itu yaa</p><p><strong>Penjelasan:</strong></p><p>jadikan jawaban tercedas</p><br />
+                                            <h2 class="ez-toc-section" id="ppk-kompetensi-dasars-14-2-4-3-4-dan-44-3-bahasa-pemersatu-negara-indonesia-adalah-a-bahasa-jawa-c-bahasa-belanda-b-bahasa-sunda-d-bahasa-indonesia-4-sebagai-rakyat-indonesia-kita-harus">
+                            18. PPK Kompetensi Dasars 14.2.4 3.4 dan 44 3. Bahasa pemersatu Negara Indonesia adalah ... a. bahasa Jawa c. bahasa Belanda b. bahasa Sunda d. bahasa Indonesia 4. Sebagai rakyat Indonesia, kita harus ... terhadap bahasa Indonesia. akecewa b. bangga c. lupa d. apatis 5. Bahasa Indonesia ditetapkan sebagai bahasa pemersatu pada tanggal .... 6. Bagaimana cara agar bahasa Indonesia tetap menjadi bahasa persatuan bagi bangsa Indonesia?​</h2><br />
+                        <p> </p><p>3. D </p><p>4. B</p><p>5. 28 Oktober 1998</p><p>6. Untuk mempersatukan bangsa yang berbeda-beda budaya, salah satunya adalah dengan bahasa nasional yaitu bahasa Indonesia. Bahasa Indonesia hingga kini menjadi perisai pemersatu bangsa.</p><p> </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tlg-bantuin-kaka%c2%b2-buatin-teks-deskripsi-pake-bahasa-jawa-yhananti-aku-followjan-lupa-follback-jga-yhamapel-bahasa-jawakelas-5%e2%80%8b">
+                            19. tlg bantuin kaka² buatin teks deskripsi pake bahasa jawa yhananti aku followjan lupa follback jga yhaMapel: Bahasa Jawakelas: 5​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>kerajaan Kresna di pulau Jawa</p><br />
+                                            <h2 class="ez-toc-section" id="lupa-bahasa-jawa-nya-adalah">
+                            20. lupa bahasa jawa nya adalah</h2><br />
+                        jawabannya adalah lali <br />lali = lupa<br />...lali........................<br />
+                                            <h2 class="ez-toc-section" id="apa-tegese-ajining-dhiri-dumunung-ing-lathijawab-menggunakan-bahasa-jawa-jika-menjawab-dengan-bahasa-indonesia-boleh-tetapi-harus-di-terjemahkan-ke-bahasa-jawasaya-follow-nanti-dan-follbacknya-janga">
+                            21. Apa tegese Ajining dhiri dumunung ing lathi?Jawab menggunakan bahasa Jawa jika menjawab dengan bahasa Indonesia boleh tetapi harus di terjemahkan ke bahasa Jawa+Saya follow nanti dan follbacknya jangan lupa OK​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>menghormati diri dari hati sendiri </p><p>maaf kalo salah</p><strong>Jawaban:</strong><p></p><p>MENGHORMATI DIRI DARI HATI SENDIRI </p><p></p><strong>Penjelasan:</strong><p></p><p>MAKSUDNYA CARA MENGHORMATI DIRI KITA SENDIRI HARUS PERCAYA DIRI</p><p></p>Ucapan :<p></p><p>semoga membantu </p><p></p>sekian Terimakasih:<p></p>Maaf kalau salah <p></p><br />
+                                            <h2 class="ez-toc-section" id="keluarga-penuh-kehangatan-keluargaku-penuh-kehangatanpenuh-cinta-dan-kasih-sayangbanyak-sekali-kenangantak-mungkin-aku-lupakan-ibuku-sangat-penyayangayahku-juga-penyabarmembuat-hidupku-selalu-riangbah">
+                            22. KELUARGA PENUH KEHANGATAN Keluargaku penuh kehangatanPenuh cinta dan kasih sayangBanyak sekali kenanganTak mungkin aku lupakan.Ibuku sangat penyayangAyahku juga penyabarMembuat hidupku selalu riangBahagiaku sangat mengakarini tolong di bahasa jawakan, terima kasih​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>KELUARGA KEPENUH ANGET</p><p></p><p>Kulawargaku kebak anget</p><p>Kebak katresnan lan tresno</p><p>Dadi akeh kenangan</p><p>Aku ora bisa lali.</p><p></p><p>Ibuku tresna banget</p><p>Bapakku uga sabar</p><p>Gawe uripku tansah bungah</p><p>Kasenenganku bosok banget</p><p></p>semoga membantu Kaka yaa <p><strong>Jawaban:</strong></p><p>KELUARGA KEPENUH ANGET </p><p></p><p>kulawargaku kebak anget </p><p>kebak katresnan lan katresnan </p><p>dadi akeh kenangan </p><p>Aku ora bisa lali </p><p></p><p>ibuku tresna banget </p><p>bapakku uga sabar</p><p>gawe uripku tansah bungah</p><p>kasenenganku bosok banget</p><p></p><p><strong>se</strong><strong>moga </strong><strong>membantu~</strong></p><p><strong>maaf </strong><strong>klo </strong><strong>salah </strong><strong>~</strong></p><p><strong>jadikan </strong><strong>jawaban </strong><strong>terbaik </strong><strong>ya </strong><strong>~</strong></p><br />
+                                            <h2 class="ez-toc-section" id="apa-bahasa-jawa-nya-jangan-lupa-doa-sebelum-tidur-ya-thanks-before-wkwk">
+                            23. apa bahasa jawa nya "jangan lupa doa sebelum tidur ya" . thanks before wkwk</h2><br />
+                        ojok lali lek kate turu moco doa<br />ojo lali do'a sedurung turu nggih<br />
+                                            <h2 class="ez-toc-section" id="bahasa-jawa-nya-dilupakan">
+                            24. Bahasa jawa nya ' dilupakan'</h2><br />
+                        Dilalikake<br />Semoga benarmenurutku <br />lupa = lali<br /><br />dilupakan = dilalikake<br /><br />semoga membantu dan bermanfaat<br />
+                                            <h2 class="ez-toc-section" id="quis-yang-bisa-mengubah-bahasa-indonesia-menjadi-bahasa-jawa-aku-jadiin-jawaban-tercerdas-tapi-jangan-bahasa-krama-ya1-rumah-kamu-dimana2-kamu-sekolah-di-mana3-ayo-main4-ayo-kita-belajar5">
+                            25. Quis....yang bisa mengubah bahasa Indonesia menjadi bahasa Jawa aku jadiin jawaban tercerdas tapi jangan bahasa krama ya1. Rumah kamu dimana?2. Kamu sekolah di mana?3. Ayo main?4. Ayo kita belajar?5. Ngantuk mau tidur dulu?note: Jangan lupa follow aku ya,Jangan lihat google kalo sama gk ku like jawabannya​</h2><br />
+                        bahasa Indonesia<p>1.rumah kamu dimana?</p><p></p><p>2.kamu sekolah dimana?</p><p></p><p>3.ayo main</p><p></p><p>4.ayo kita belajar</p><p></p><p>5.ngantuk mau tidur dulu</p><p></p><p>_________________________________</p>  bahasa jawanya<p></p><p>1.Omahmu ngendi ?</p><p></p><p>2.Sampeyan sekolah apa?</p><p></p><p>3.Ayo dolanan</p><p></p><p>4.ayo sinau</p><p></p><p>5.Ngantuk arep turu dhisik</p><p><strong>Penjelasan:</strong></p><p></p><p></p>pelajaran bahasa daerah<p></p>   pelajaran kelas SMP<p></p>jangan lupa jadikan jawaban terbaik !!<p></p> follow yah @nyai nyain7807<p></p><p></p>       thanks you  <p></p><p><strong>Jawaban:</strong></p><p>Ubah menjadi B Jawa : </p><p>1. Rumah kamu dimana?</p><p><strong>Griya </strong><strong>njenengan</strong><strong> </strong><strong>Ten </strong><strong>pundi?</strong></p><p></p><p></p><p>2. Kamu sekolah di mana?</p><p><strong>Njenengan</strong><strong> </strong><strong>sekolah</strong><strong> </strong><strong>Ten </strong><strong>pundi</strong></p><p></p><p></p><p>3. Ayo main?</p><p><strong>Ayo </strong><strong>dolan?</strong></p><p></p><p></p><p></p><p></p><p>4. Ayo kita belajar?</p><p><strong>Ayo </strong><strong>awak </strong><strong>dhewe </strong><strong>Sinau?</strong></p><p></p><p></p><p></p><p>5. Ngantuk mau tidur dulu?</p><p><strong>Ngantuk</strong><strong> </strong><strong>ameh </strong><strong>turu </strong><strong>dhisik?</strong></p><p><strong>Penjelasan:</strong></p><p>Ten basa Jawi wonten : </p>Basa Jawi Ngoko luguBasa Jawi Ngoko alusBasa Jawi Krama luguBasa Jawi Krama alus<br />
+                                            <h2 class="ez-toc-section" id="profil-pemuda-pancasila-bernaral-kritis-ceritakan-secara-singkat-tentang-profil-pelajar-bernaral-kritis-berupa-narasi-min-5-kalimat-yang-dikerjakannya-dalam-bahasa-jawaminta-tolong-bantuin-yakl">
+                            26. profil pemuda Pancasila bernaral kritis. ceritakan secara singkat tentang profil pelajar (bernaral kritis) (berupa narasi min 5 kalimat)  yang dikerjakannya dalam bahasa Jawaminta tolong bantuin ya,Klo bisa sekalian contoh kegiatannya.jangan lupa pke bhs Jawa.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Duwe iman, wedi marang Gusti, lan duwe budi pekerti sing luhur</p><p>Siswa Indonesia ingkang iman, takwa dhateng Gusti Ingkang Maha Kuwaos, saha berbudi pekerti luhur inggih menika siswa ingkang gadhah watak sesarengan kaliyan Gusti Allah SWT. Dheweke ngerti ajaran agama lan kapercayan lan ngetrapake pemahaman kasebut ing urip saben dinane. Ana limang unsur pokok iman, wedi marang Gusti Kang Maha Kuwasa, lan budi pekerti luhur: (a) budi pekerti religius; (b) watak pribadi; (c) moral marang manungsa; (d) moralitas marang alam; lan (e) moralitas negara.</p><p></p><p>Keragaman global</p><p>Para siswa Indonesia njaga budaya, lokalitas lan jati diri sing luhur, lan tetep mbukak pikiran nalika sesrawungan karo budaya liya, saengga bisa nuwuhake rasa hormat lan bisa mbentuk budaya luhur sing positif lan ora bertentangan karo budaya luhur bangsa. Unsur lan kunci keragaman global kalebu ngenali lan ngapresiasi budaya, katrampilan komunikasi antarbudaya sajrone sesambungan karo wong liya, lan refleksi lan tanggung jawab kanggo pengalaman keragaman.</p><p></p><p>Kerja bareng</p><p>Siswa Indonesia nduweni kabisan gotong royong, yaiku kabisan nindakake kagiyatan bebarengan kanthi sukarela saengga kagiyatan kang ditindakake bisa lumaku kanthi lancar, gampang lan entheng. Unsur gotong royong yaiku gotong royong, kepedulian, lan sharing.</p><p>merdika</p><p>Siswa Indonesia minangka siswa mandiri, yaiku siswa sing tanggung jawab marang proses lan asil sinau. Unsur-unsur kunci kamardikan yaiku kesadaran babagan awake dhewe lan kahanan sing ana ing tangan lan pengaturan diri.</p><p></p><p> </p><p></p><p>nalar kritis</p><p>Siswa sing mikir kritis bisa ngolah informasi kanthi objektif kanthi kualitatif lan kuantitatif, mbangun hubungan antarane macem-macem informasi, nganalisis informasi, ngevaluasi lan nyimpulake. Unsur-unsur nalar kritis yaiku njupuk lan ngolah informasi lan gagasan, nganalisa lan ngevaluasi nalar, nggambarake pikiran lan proses pamikiran, lan nggawe keputusan.</p><p></p><p>Kreatif</p><p>Siswa kreatif bisa ngowahi lan ngasilake barang sing asli, migunani, migunani, lan duwe pengaruh. Unsur kunci dadi kreatif yaiku ngasilake ide asli lan ngasilake karya lan tumindak asli.</p><p></p><p> </p><p></p><p>Kanggo nyepetake mujudake siswa Pancasila ing Sekolah Dasar, Direktorat Sekolah Dasar ngluncurake Gerakan lan Buku Tunas Pancasila</p><p>Jawaban:6 profil mahasiswa Pancasila yaiku:</p><p>1. Duwe iman,</p><p>wedi marang Gusti Kang Maha Kuwasa, lan nduweni budi pekerti kang luhurSiswa Indonesia kang nduweni budi pekerti luhur yaiku siswa kang nduweni watak sajrone hubungane karo Gusti Kang Maha Kuwasa. Para siswa Pancasila mangertosi piwulang agami lan kapitadosanipun sarta nglarapaken pangertosan punika wonten ing gesang padintenan.Unsur pokok iman, takwa marang Gusti Kang Maha Kuwasa, lan budi pekerti luhur yaiku akhlak agama, budi pekerti pribadi, budi pekerti marang manungsa, akhlak marang alam, lan moral negara.</p><p></p><p>2.Bhinéka global</p><p>Siswa Indonesia njaga budaya, lokalitas, lan jati diri sing luhur, lan tetep mbukak pikirane nalika srawung karo budaya liya. Solah bawa siswa Pancasila nuwuhake rasa saling hormat lan mujudake kabudayan anyar kang positif lan ora bertentangan karo kabudayan luhur bangsa.Unsur utama keragaman global yaiku ngenali lan ngapresiasi budaya, katrampilan komunikasi antarbudaya sajrone sesambungan karo wong liya, lan refleksi lan tanggung jawab kanggo pengalaman keragaman.</p><p></p><p>3. Gotong royong</p><p>Siswa Indonesia nduweni kabisan gotong royong, yaiku kabisan siswa Pancasila nindakake kagiyatan bebarengan kanthi sukarela saengga kagiyatan kang ditindakake bisa lumaku kanthi lancar, gampang lan entheng.Unsur kunci gotong royong yaiku gotong royong, kepedulian, lan sharing.</p><p></p><p>4.Mandhiri</p><p>Siswa Indonesia minangka siswa mandiri, yaiku siswa Pancasila sing tanggung jawab marang proses lan asil sinau.Unsur kunci kamardikan yaiku kesadaran marang awake dhewe lan kahanan sing ana ing tangan lan ngatur dhiri.</p><p></p><p>5. Nalar </p><p>KritisSiswa kang mikir kritis yaiku siswa Pancasila kang bisa ngolah informasi kanthi objektif kanthi kualitatif lan kuantitatif, mbangun sesambungan antarane macem-macem informasi, nganalisis informasi, ngevaluasi, lan nyimpulake , Unsur-unsur kunci nalar kritis yaiku entuk lan ngolah informasi lan gagasan, nganalisa lan ngevaluasi nalar, nggambarake pikiran lan proses pamikiran, lan nggawe keputusan</p><p></p><p>6. Kreatip</p><p>Siswa kreatif yaiku siswa Pancasila kang bisa ngowahi lan ngasilake samubarang kang orisinal, migunani, migunani, lan nduweni pengaruh.Unsur kunci kreatifitas yaiku ngasilake ide asli lan ngasilake karya lan tumindak asli.  </p><p></p>ini jawabannya ☝ berikan kami yang tercerdas<br />
+                                            <h2 class="ez-toc-section" id="sekarang-bahasa-jawa-tolong-bantuannya-kakak-kakaknanti-aku-follow-jangan-lupa-pakai-aksara-jawanya-ya-kak-jangan-asalterima-kasih-%e2%80%8b">
+                            27. sekarang bahasa Jawa. Tolong bantuannya kakak-kakaknanti aku follow jangan lupa pakai aksara Jawanya ya Kak..jangan asalterima kasih ​</h2><br />
+                        <p>Jawaban terlampir difoto</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bahasa-jawa-nya-jangan-lupa-ya-kak-bang-dan-kawan-kawan-sekalian">
+                            28. bahasa jawa nya " jangan lupa ya kak, bang dan kawan-kawan sekalian "</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>ojo lali sis, bro lan kanca-kanca</p><p></p><p></p><p>maaf kalau salah</p><p>aja lali,dulur lan kanca</p><p>jadikan jawabna terbaik yaa</p><p></p><p> </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="ayo-kita-main-transfer-1-bahasa-jawainggrisjepangaku-cinta-kamu2-bahasa-inggrisjawakucing-hitam-mati3-bahasa-jawa-anak-monyetjangan-lupa-follow-aku-akan-kasih-40-poin-lagi%e2%80%8b">
+                            29. ayo kita main transfer...1.bahasa jawa,inggris,jepang:aku cinta kamu2.bahasa inggris,jawa:kucing hitam mati3.bahasa jawa anak monyetjangan lupa follow aku akan kasih 40 poin lagi​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jepang aisiteru, inggris i love you, taunya itu doang </p><br />
+                                            <h2 class="ez-toc-section" id="profil-pemuda-pancasila-bernaral-kritis-ceritakan-secara-singkat-tentang-profil-pelajar-bernaral-kritis-berupa-narasi-min-5-kalimat-yang-dikerjakannya-dalam-bahasa-jawa-minta-tolong-bantuin-yakl">
+                            30. profil pemuda Pancasila bernaral kritis. ceritakan secara singkat tentang profil pelajar (bernaral kritis) (berupa narasi min 5 kalimat) yang dikerjakannya dalam bahasa Jawa minta tolong bantuin ya,Klo bisa sekalian contoh kegiatannya.jangan lupa pke bhs Jawa.JANGAN PANJANG - PANJANG NANTI KERTASNYA GA CUKUP​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Kita minangka warga negara kudu bangga. amarga kita manggon ing Indonesia. Indonesia nduweni profil pemuda Pancasila. Fungsi pemuda Pancasila yaiku nyepeng pemuda masa depan. Kita minangka warga bangsa Indonesia kudu tetep semangat</p><p><strong>Penjelasan:</strong></p><p> Jadikan Jawaban Terbaik. terimakasih Semoga membantu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-puisi-jawa-atau-geguritan-tentang-hari-pendidikan-nasional-pake-bahasa-jawa-cepet-bales-y-dibales-ya-jangan-lupa">
+                            31. Contoh puisi jawa atau geguritan tentang hari pendidikan nasional pake bahasa jawa ?cepet bales y dibales ya jangan lupa</h2><br />
+                        Pahlawan Tanpa Tanda Jasa <br />Pahlawan tanpa tanda jasa <br />dheweke guru <br />sing mulang dak <br />sing membekali dak elmu <br />karo tulus lan sabar <br />esemmu menehake semangat kanggo kami <br />Menyongsong masa ngarep sing luwih becik <br />Setitik kringetmu <br />ngowekne siji perjuangan sing gedhe banget <br />kanggo murid-muridnya <br />matur nuwun guru <br />Perjuanganmu nduwe arti banget kanggoku <br />Tanpamu dak ora arep ngerti babagan donya iki <br />arep sanuliku panjatkan doa kanggomu <br />Terimakasih guruku <br />
+                                            <h2 class="ez-toc-section" id="apa-bahasa-jawanya-mentang-mentang-sudah-punya-pacar-adeknya-di-lupakan%e2%80%8b">
+                            32. apa bahasa jawanya mentang-mentang sudah punya pacar adeknya di lupakan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>amarga wis duwe pacar, adhine lali</p><p><strong>Penjelasan:</strong></p><p>ini kak bahasa jawanya</p><p></p><p><strong>Jawaban:</strong></p><p>amarga wis duwe pacar, adhine dilalikake</p><p><strong>Penjelasan:</strong></p><p>semoga benar</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-10-bahasa-daerah10-bahasa-sunda10-bahasa-jawa10-bahasa-padang10-bahasa-jawa-tengah10-bahasa-banten10-bahasa-melayutolong-di-jawab-yak-kakak-kakak-yang-gantengcantik-makasih-yaowh-ya-jagan-lu">
+                            33. sebutkan 10 bahasa daerah10 bahasa sunda10 bahasa jawa10 bahasa padang10 bahasa jawa tengah10 bahasa banten10 bahasa melayutolong di jawab yak kakak kakak yang ganteng/cantik makasih yaowh ya jagan lupa follow nanti di follbackmksh</h2><br />
+                        <p>bahasa Jawa</p><p>- nggeh ( iya )</p><p>- ngapunten ( maaf )</p><p>- kula ( saya )</p><p>- badhe ( mau ) </p><p>- mbiyen ( dulu )</p><p>- mben (  esok nanti )</p><p>- mboten ( bukan )</p><p>- mundhut (mengambil )</p><p>- siram ( mandi )</p><p>- rika ( dia )</p><p>maaf kalau salah cuman setahu ku itu </p><p>^ ^</p><p>  </p><br />
+                                            <h2 class="ez-toc-section" id="buatkan-cerita-pengalaman-yg-tidak-bisa-dilupakan-dngan-menggunakan-bahasa-jawa-krama-inggil">
+                            34. buatkan cerita pengalaman yg tidak bisa dilupakan dngan menggunakan bahasa jawa krama inggil</h2><br />
+                        REFESLING NENG GUWO L.B<br /><br />Pas dini jum'at mbiyen kulo reflesingan karo konco2 neng L.B , lha neng kono kuwi aku seneng banget,,,, maegakne aku ngerosook ne sebuah pengalaman karo keindahan rasane (..........) yo ngoo kae lah.<br /><br />nyuwun ngapuro nek jawaban kulo salah,,,,<br />
+                                            <h2 class="ez-toc-section" id="orang-jawa-tolong-terjemahkan-bahasa-indonesia-ke-jawa-jangan-lupa-puasa-tidak-puasa-terserahmu-yang-penting-aku-sudah-mengingatkan-selamat-ulang-tahun-siri-nanti-kita-jajan-bersama-ya%e2%80%8b">
+                            35. Orang jawa tolong terjemahkan bahasa indonesia ke jawa =Jangan lupa, puasa tidak puasa terserahmu yang penting aku sudah mengingatkan. selamat ulang tahun siri nanti kita jajan bersama ya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Ojo lali, poso ora poso sak kerepmu sek penting aku wes tau ngelengke.</p><p></p><p>Sugeng ultah Siri mengko awak Dewe jajan bareng ya.</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="debat-tim-kontra-banyak-pemuda-yang-melupakan-bahasa-jawa">
+                            36. Debat tim kontra banyak pemuda yang melupakan bahasa jawa</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>karena sudah menggunakan bahasa indonesia</p><br />
+                                            <h2 class="ez-toc-section" id="kothak-tegese-ukara-punakawan-tegese-ukara-mapel-bahasa-jawakelas-5bab-lupa%e2%80%8b">
+                            37. - kothak tegese : ........., ukara : ........- punakawan tegese : ........., ukara : ........Mapel : Bahasa JawaKelas : 5Bab : - (lupa)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>- kothak tegese : <strong>wadah </strong><strong>gawe </strong><strong>nyimpen </strong><strong>wayang,</strong><strong> </strong>ukara : kothak sing kanggo nyimpen wayang digawe saka wit gedhang</p><p></p><p>- punakawan tegese : <strong>tokoh </strong><strong>wayang </strong><strong>(</strong><strong>Semar,</strong><strong> </strong><strong>gareng,</strong><strong> </strong><strong>petruk,</strong><strong> </strong><strong>lan </strong><strong>b</strong><strong>agong)</strong><strong>,</strong><strong> </strong>ukara : Punakawan sing diputer ing pagelaran wayang bengi Iki ana akeh</p><p><strong>Penjelasan:</strong></p><p>Mapel : Bahasa Jawa</p><p>Kelas : 5</p><p>Bab : -</p><br />
+                                            <h2 class="ez-toc-section" id="bahasa-jawa-nya-kamu-mau-tidur-jangan-lupa-baca-doa-duluapa-ya-kak%e2%80%8b">
+                            38. bahasa Jawa nya "kamu mau tidur? jangan lupa baca doa duluapa ya kak?​</h2><br />
+                        <p> </p><p>kowe kate turu? ojo lali maca dungo disek</p><p></p><p>semoga membantu dan maaf kalau salah</p><p> </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bagi-bagi-poin-khusus-hari-pahlawan1-sebutkan-5-nama-hewan-menggunakan-bahasa-inggris2-bahasa-jawanya-basah-adalah-________________________________jangan-lupa-follow-untuk-pertanyaan-berikutnya">
+                            39. Bagi-bagi poin khusus hari Pahlawan1. sebutkan 5 nama hewan menggunakan bahasa Inggris2. bahasa JAWAnya "basah" adalah? ________________________________jangan lupa follow untuk pertanyaan berikutnya.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1 ular Snack</p><p> semut aunt </p><p>kupu" butterfly</p><p>singa lion </p><p>gajah elephant</p><p>2. teles</p><p><strong>Jawaban:</strong></p><p>1.lion, Tiger,snail,crab, Scorpion,snake</p><p>2.teles</p><p></p><p></p><p>semoga membantu ya jadikan jawaban terbaik </p><p><strong>Penjelasan:</strong></p><p>ingat soal jangan dihapus</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-cerita-pengalamanmu-yang-tak-terlupakan-minimal-3-paragrafmengunakan-bahasa-jawa-krama-atau-ngoko%e2%80%8b">
+                            40. buatlah cerita pengalamanmu yang tak terlupakan minimal 3 paragraf,mengunakan bahasa Jawa krama atau ngoko!​</h2><br />
+                        Contoh Cerita Pengalaman<p>Jawaban dan Pembahasan</p>4 Alinea/Paragraf.<p><strong>Judul </strong><strong>=</strong><strong>&gt;</strong><strong> </strong><strong>Dolan</strong><strong> Bareng Keluarga Ing Wayah Preinan</strong></p><p></p><p>Nalika prei sekolah wingi, aku mung nonton TV neng umahku. Suwe-suwe aku krasa bosen. Untung tanggal 15 Maret 2020, esuk-esuk banget bulikku teka ing umahku ing Semarang. Bulik teka sekalian bareng keluargane. Bulik lan keluarga nginep ing umahku sedina sewengi.</p><p></p><p>Aku diajak dolan menyang Pelabuhan. Aku mangkat kira-kira jam telu sore. Bareng-bareng aku dolanan ing pelabuhan rencanane nganti jam lima sore. Nalika mlaku-mlaku nonton kahanan lan eloke pemandangan laut, aku kesasar lan muter-muter. Aku bingung nggoleki sedulur-seludurku kabeh. Amarga kedadean kuwi, aku lan keluarga lagi tekan omah jam enem punjul, kira-kira jam 18.45 nalika langit wes malih dadi peteng. Tekan omah, aku lan sedulur-sedulurku langsung makan malam amarga weteng iku wes krasa ngelih banget.</p><p></p><p>Aku banjur dolan menyang Kolam Renang Mulyani bareng Om lan keluargaku. Tapi Om ora melu njegur nglangi ing kolam. Mung aku wae seng njegur renang lan dolanan banyu. Oya, aku renang kira-kira jam 2 awan nganti jam 3. Sawise renang, aku krasa ngelih banget, mula aku banjur tuku Ayam Krispi sing rasane enak lan nikmat banget dimaem sawise renang. Sawise maem, aku ora lali nindakake solat asar.</p><p></p><p>Aku nginep ing daleme Eyang kurang luwih patang dina (4 hari). Jane yo wes rada suwe, tapi kok rasane cepet banget gantine dina. Tandane preinan sekolahku wes meh entek. Aku kudu enggal-enggal balik Semarang amarga sekolahku wes arep mlebu. Aku kudu enggal-enggal siap-siap kanggo sekolah, nggolek ilmu kanggo masa depanku supaya cita-citaku iso terwujud. Aku mulih menyang Semarang numpak travel. Aku seneng banget amarga Eyang kersa ngancani aku balik ing Semarang.</p><p></p><p>-----------------------------</p><p>Semoga membantu.</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/K2at9eV1qGU?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_daerah</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/social-function-explanation-text/">Social Function Explanation Text</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/arrange-the-words-into-a-good-sentence/">Arrange The Words Into A Good Sentence</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/saroja-yaiku/">Saroja Yaiku</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gambar-tersebut-menunjukkan-kelainan-tulang-yang-disebut/">Gambar Tersebut Menunjukkan Kelainan Tulang Yang Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/inti-dari-sebuah-gagasan-dan-mudah-untuk-diingat-adalah/">Inti Dari Sebuah Gagasan Dan Mudah Untuk Diingat Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hewan-yang-dianggap-buas-dan-kurang-baik-untuk-diternak-adalah/">Hewan Yang Dianggap Buas Dan Kurang Baik Untuk Diternak Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/3-4-4-5/">3 4 4 5</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tas-sepatu-wayang-dompet-jaket-merupakan-contoh-hasil-kerajinan/">Tas Sepatu Wayang Dompet Jaket Merupakan Contoh Hasil Kerajinan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jenis-pena-yang-dapat-menggantikan-fungsi-dari-maru-pen-adalah/">Jenis Pena Yang Dapat Menggantikan Fungsi Dari Maru Pen Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/-/"></a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/danau-singapura/">Danau Singapura</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/teks-mc-bahasa-bali/">Teks Mc Bahasa Bali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-adalah-jenis-jenis-teknologi-kecuali/">Berikut Adalah Jenis Jenis Teknologi Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/safe-flight-artinya/">Safe Flight Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ilahinas-artinya/">Ilahinas Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-kalimat-rekomendasi/">Contoh Kalimat Rekomendasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1-per-8/">1 Per 8</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/100-4-90-7-80/">100 4 90 7 80</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/titikane-geguritan-yaiku/">Titikane Geguritan Yaiku</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/percakapan-bahasa-komering-dan-artinya/">Percakapan Bahasa Komering Dan Artinya</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

@@ -1,0 +1,1349 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Contoh Paguneman - BELAJAR</title>
+    <meta name="description" content="Contoh Paguneman, , , , , , , 0, Contoh Paguneman - ilmupediapro, ilmupediapro.blogspot.com, 715 x 520, jpeg, , 20, contoh-paguneman, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Contoh Paguneman - BELAJAR" />
+    <meta property="og:description" content="Contoh Paguneman, , , , , , , 0, Contoh Paguneman - ilmupediapro, ilmupediapro.blogspot.com, 715 x 520, jpeg, , 20, contoh-paguneman, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Contoh Paguneman - BELAJAR" />
+    <meta name="twitter:description" content="Contoh Paguneman, , , , , , , 0, Contoh Paguneman - ilmupediapro, ilmupediapro.blogspot.com, 715 x 520, jpeg, , 20, contoh-paguneman, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Contoh Paguneman</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">qeysha090504</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Contoh+Paguneman" alt="Contoh Paguneman">
+                    </div>
+                    <p></p>
+                    <p>contoh paguneman dan arti dari paguneman</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-dan-arti-dari-paguneman">1.
+                                            contoh paguneman dan arti dari paguneman</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-prosa-paguneman-puisi-dan-paguneman-drama">2.
+                                            contoh paguneman prosa, paguneman puisi dan paguneman drama</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-fungsi-pagunemanciri-ciri-pagunemanbuat-contoh-paguneman">3.
+                                            fungsi fungsi paguneman
+ciri ciri paguneman
+buat contoh paguneman</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-sunda%e2%80%8b">4.
+                                            contoh paguneman sunda​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-contoh-paguneman">5.
+                                            Contoh contoh paguneman</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-teks-paguneman%e2%80%8b">6.
+                                            contoh teks paguneman​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-tanya">7.
+                                            Contoh paguneman tanya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-kalimat-paguneman%e2%80%8b">8.
+                                            contoh kalimat paguneman​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-drama">9.
+                                            Contoh paguneman drama</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-contoh-paguneman">10.
+                                            sebutkan contoh paguneman</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-paguneman-dan-berikan-contohnya">11.
+                                            Apa itu paguneman dan berikan contohnya ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-resmi">12.
+                                            Contoh paguneman resmi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-jeung-babaturan%e2%80%8b">13.
+                                            contoh paguneman jeung babaturan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-5-orang">14.
+                                            contoh paguneman 5 orang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#paguneman-nganuhunkeun-tolong-bantu-donk-contoh-paguneman-nganuhunken-buat-besok-%e2%80%8b">15.
+                                            paguneman nganuhunkeun.    tolong bantu donk contoh paguneman nganuhunken, buat besok ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-tentang-sejarah">16.
+                                            contoh paguneman tentang sejarah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-kalimat-paguneman">17.
+                                            contoh kalimat paguneman</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-ngadamel-paguneman%e2%80%8b">18.
+                                            contoh ngadamel paguneman​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-resmi-yang-singkat">19.
+                                            Contoh paguneman resmi yang singkat?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-paguneman-dan-berikan-contohnya">20.
+                                            Apa itu paguneman dan berikan contohnya ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-sunda%e2%80%8b">21.
+                                            contoh paguneman sunda​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-contoh-paguneman-bahasa-sunda">22.
+                                            apa contoh paguneman bahasa sunda?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-bahasa-sunda">23.
+                                            contoh paguneman bahasa sunda</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-dari-paguneman-kaulinan-barudak">24.
+                                            contoh dari paguneman kaulinan barudak</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-teks-paguneman">25.
+                                            contoh teks paguneman</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-bahasa-sunda">26.
+                                            contoh paguneman bahasa sunda</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-bahasa-sunda">27.
+                                            Contoh paguneman bahasa sunda</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tulis-contoh-paguneman-singkat">28.
+                                            tulis contoh paguneman singkat..</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-definisi-paguneman-dan-contoh-paguneman-dalam-bahasa-sunda">29.
+                                            apa definisi paguneman? dan contoh paguneman dalam bahasa sunda!!!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-bahasa-sunda">30.
+                                            contoh paguneman bahasa sunda</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-5-orang">31.
+                                            contoh paguneman 5 orang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-anu-singkat">32.
+                                            contoh paguneman anu singkat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-bahasa-sunda">33.
+                                            contoh paguneman bahasa sunda</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-6-orang">34.
+                                            contoh paguneman 6 orang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-basa-sunda">35.
+                                            contoh paguneman basa sunda</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-ngadamel-paguneman%e2%80%8b">36.
+                                            contoh ngadamel paguneman​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#naon-hartina-paguneman-sareng-tulis-ken-contoh-paguneman%e2%80%8b">37.
+                                            naon Hartina paguneman sareng tulis Ken contoh paguneman​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-resmi%e2%80%8b">38.
+                                            contoh paguneman  resmi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-dengan-teman%e2%80%8b">39.
+                                            contoh paguneman dengan teman​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-paguneman-narkotika">40.
+                                            Contoh paguneman narkotika</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-dan-arti-dari-paguneman">
+                            1. contoh paguneman dan arti dari paguneman</h2><br />
+                        omongan/ percakapan<br />semoga bisa membantu<br /><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-prosa-paguneman-puisi-dan-paguneman-drama">
+                            2. contoh paguneman prosa, paguneman puisi dan paguneman drama</h2><br />
+                        contoh paguneman prosa : <br /><br /><strong>Roman nyaeta carios mengisahkeun palaku na ti alit dugi nilar 
+ngungkabkeun adat atawa aspek kahirupan hiji balarea sacara mendetail 
+atawa menyeluruh,alur bercabang cabang,seueur digresi</strong><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="fungsi-fungsi-pagunemanciri-ciri-pagunemanbuat-contoh-paguneman">
+                            3. fungsi fungsi paguneman
+ciri ciri paguneman
+buat contoh paguneman</h2><br />
+                        fungsi paguneman fungsi buku pangajaran di sakola apa manfaat dari mengonversi teks fungsi dekorasi coc coretan muka tentara fungsi bewara muka tentara fungsi buku pangajaran di sakola bahasa….<br /><br />          Barudak X TKJ-2 keur ngariung di buruan sakola, harita teh aya Anggara, Wisnu, Razu jeung Farid. Maranehna ngobrolkeun pangalamanana masing-masing, dina poe minggu kamari.<br /><br />Anggara       : “Rid, basa poe minggu kamari ka mana ? Angga ka bumi Farid,<br />                     tapi teu araya ?”<br />Farid           : “Puguh Farid mah piknik ka Cimanggu, ka pangojayan<br />                      cipanas.”<br />Razu            : “Kumaha rea nu pariknikna ?”<br />Farid           : “Nya rea oge, komo ka kawah putih mah pamandangan nana<br />                      Endah teh.”<br />Razu            : “Jam sabaraha balikna ?”<br />Farid           : “Sore. Da balikna nyimpang heula ka bumi Nini di Ciwidey.”<br />Razu            : “Mana oleh-olehna ningan teu mawa ?”<br />Farid           : “Bisi hayang oleh-oleh mah balik sakola ka imah, nya! Aya<br />                     Bandrek geura, anu kasohor “Bandrek Abah”. Aya kawula jeruk.”<br />Razu            : “Hayu atuh engke balik sakola urang ka imah Farid, nya.”<br />Wisnu          : “Nya, ari Razu hayangna kaditu mah hayu wa. Da kabeneran<br />                     kamari teh boga niat hayang ka imah Farid, tapi can apal di mana<br />                     imah Farid teh. Ari Anggara indit kamana kamari ?”Kunaon<br />                     geuning cicing bae ? Gering tawa Angga teh ?”<br />Anggara       : “Puguh Angga mah milu jeung Bapa nguseup belut di sawah.”<br />Wisnu          : “Sinarieun atuh daek ka sawah ?”<br />Anggara       : “Kapaksa.”<br />Wisnu          : “Naha ningan ?”<br />Anggara       : “Tuda lamun teu ka sawah si Mamah ngajakan arisan, nya<br />                      mendingan keneh ka sawah.”<br />Wisnu          : “Aya-aya wae atuh.”<br />Anggara       : “Zu, ari Razu ka mana ?”<br />Razu            : “Ka Lombok tapi tos bosen.”<br />Farid           : “Bosen, naha bosen ?”<br />Razu            : “Uhun, bosen karuh teu janten wae.”<br />Wisnu          : “Emangna kunaon teu janten wae ?”<br />Razu            : “Nya si Mamah na ka luar negri bae.”<br />Anggara       : “Liburan.”<br />Razu            : “Janten TKW.”<br />Wisnu          : “Hahaha.. Sugan teh ek naon.”<br />Farid           : “Mending daripada teu pararuguh mah suang ka kantin.”<br /><br />Anggara       : “Hayu..”<br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-sunda%e2%80%8b">
+                            4. contoh paguneman sunda​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Paguneman yang sering terjadi di Sekolah adalah tentang sekolah, pendidikan, film, game, dll.</p><p></p><p>Aya contoh paguneman jeung babaturan artinya Ada contoh peguneman dengan teman?</p><p></p><p>Berikut ini paguneman bahasa sunda 2 orang tentang pendidikan (tugas kelompok) dan artinya, yaitu:</p><p></p><p>Dimas : Bade iraha ngerjakeun tugas kelompok teh?</p><p>Artinya: Kapan mau mengerjakan tugas kelompoknya?</p><p></p><p>Jasmine : Dinten Saptu wae nya, kusabab abdi Mingonna bade ngiring pun Bapak kondangan.</p><p>Artinya: Hari Sabtu saja ya, sebab saya hari Minggunya mau ikut ayah kondangan.</p><p></p><p>Dimas : Sumuhun atuh, abdi oge aya acara dinten Minggu mah. </p><p>Artinya: Iya tidak apa-apa, saya juga ada acara hari Minggu mah.</p><p></p><p>Jasmine : Tabuh salapan waenya, di bumi Abdi, carioskeun ke rerencangan.</p><p>Artinya: Jam 9 saja ya, di rumah saya, tolong beritahu teman yang lain.</p><p></p><p>semoga membantu:)</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-contoh-paguneman">
+                            5. Contoh contoh paguneman</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Contoh paguneman yang resmi adalah seperti diskusi, atau dalam bahasa Sunda disebut sawala, sedangkan paguneman yang tidak resmi contohnya adalah obrolan atau percakapan antar teman atau dengan orang tua.</p><p><strong>Penjelasan:</strong></p><p>#terimakasih,maaf kalau salah semoga bermanfaat</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-teks-paguneman%e2%80%8b">
+                            6. contoh teks paguneman​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p>Paguneman adalah istilah di dalam bahasa Sunda yang artinya adalah percakapan atau dialog antara dua orang atau lebih. Paguneman dapat bersifat resmi dan tidak resmi. Contoh paguneman yang resmi adalah seperti diskusi, atau dalam bahasa Sunda disebut sawala, sedangkan paguneman yang tidak resmi contohnya adalah obrolan atau percakapan antar teman atau dengan orang tua.</p><p></p><p>Di dalam suatu paguneman ada beberapa aturan yang perlu diperhatikan, seperti antara lain pelan atau kerasnya suara, tinggi atau rendahnya suara, pilihan kata yang disesuaikan dengan lawan bicara, serta penjiwaan untuk memastikan pesan dapat tersampaikan dengan baik. Contoh paguneman dalam bahasa Sunda adalah :</p><p></p>Nyieun Karajinan<p></p>Amir : Pan urang teh aya tugas sakola kudu nyieun karajinan, kumaha aya nu boga usul ?.Beni : Kumaha lamun nyieun tempat tissue tina kertas koran urut ?.Caca : Enya bener eta alus, naha sabaraha urang kitu sa kelompokna ?.Beni : Pan kudu tiluan, jadi pas urang tiluan, kuring, Beni jeung Caca.Caca : Enya atuh, iraha jeung rek di mana nyieunna eta karajinan teh ?.Amir : Alusna mah nyieunna isukan wae, pan kudu dikumpulkeun minggu hareup, jadi aya waktu keur nge-cet jeung moe eta karajinan. Ari tempatna mah di imah kuring oge hayu.Caca : Enya atuh alus di imah Amir, ambeh leuwih deukeut ti imah kuring jeung ti imah Beni, Naon wae atuh anu diperlukeunnana ?.Amir : Nya paling age masing-masing mawa koran urut, jeung udunan lima rebuan keur meuli tipung aci jeung bahan-bahan nu lainna.Beni : Enya atuh nya urang langsung wae isukan balik ti sakola ka imah Amir.<p></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-tanya">
+                            7. Contoh paguneman tanya</h2><br />
+                        neng bade mulih ayeuna<br />
+                                            <h2 class="ez-toc-section" id="contoh-kalimat-paguneman%e2%80%8b">
+                            8. contoh kalimat paguneman​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>ini jawabanya.</p><p></p><p>jangan lupa kasih bintang ya</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-drama">
+                            9. Contoh paguneman drama</h2><br />
+                        aya babaturan maksimal paling sidikit 2 orang dan lebih banyak minimal bebasdimainkan oleh sedikitnya 2 orang<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-contoh-paguneman">
+                            10. sebutkan contoh paguneman</h2><br />
+                        Paguneman resmi, sareng paguneman teu resmi<br />
+                                            <h2 class="ez-toc-section" id="apa-itu-paguneman-dan-berikan-contohnya">
+                            11. Apa itu paguneman dan berikan contohnya ?</h2><br />
+                        paguneman itu percakapan dalam bahasa sunda. bisa juga diartikan dialog dua arah mengungkapkan perasaan yang kita pikirkan. paguneman itu, menurutku ya dialog (drama) kehidupan sehari hari.<br /><br />untuk contohnya bisa buka web ini :http://onnetastic.blogspot.com/2014/08/contoh-paguneman-empat-orang.html<br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-resmi">
+                            12. Contoh paguneman resmi</h2><br />
+                        Paguneman adalah satu istilah dalam bahasa Sunda yang artinya percakapan, obrolan, antar dua orang atau lebih, saling tanya jawab atau saling menimpali. Jika dalam bentuk tulisan, paguneman menggunakan kalimat langsung.<br /><br />Dilihat dari kondisi atau suasananya, ada dua jenis paguneman, yaitu paguneman resmi dan paguneman tidak resmi. Contoh paguneman resmi adalah seperti diskusi atau dalam bahasa Sunda disebut sawala. Sedangkan contoh paguneman tidak resmi adalah obrolan atau percakapan dengan teman atau dengan orang tua sendiri.<br /><br />Di dalam paguneman, terdapat beberapa ketentuan atau pedoman umum yang perlu diikuti, yaitu seperti keras atau pelannya suara, tinggi-rendahnya suara atau dalam bahasa Sunda disebut "lentong", pilihan kata-kata yang disesuaikan dengan siapa yang diajak bicara, serta penjiwaan agar apa pesan yang ada di dalam percakapan dapat tersampaikan dengan baik.<br /><br />Selain ketentuan atau pedoman umum tersebut, ada juga ketentuan khusus lain yang tergantung pada jenis paguneman-nya. Seperti di dalam paguneman resmi ada beberapa ketentuan khusus, seperti tentang tempat dan waktu yang perlu ditentukan sebelumnya, terdapat beberapa peran yang khusus seperti pemimpin diskusi atau moderator atau dalam bahasa Sunda disebut panumbu catur, sekertaris atau notulis atau girang serat dan peserta diskusi atau pamilon.<br /><br />Sedangkan dalam paguneman tidak resmi pada prinsipnya tidak ada ketentuan khusus, karena paguneman resmi pelaksanaannya lebih spontan. Di bawah ini adalah contoh paguneman resmi yang berupa diskusi atau sawala dengan menggunakan bahasa Sunda yang halus :<br /><br />Panumbu catur : Bayu<br />Pamilon 1 : Amir<br />Pamilon 2 : Budi<br />Pamilon 3 : Cepi<br />Pamilon 4 : Dedi<br />Girang serat : Lia<br /><br />Sawala Bahaya Narkoba<br /><br />Bayu : Pala wargi sadayana, simkuring salaku panumbu catur ngahaturkeun nuhun ka sadayana nu parantos tiasa hadir dina ieu sawala. Dupi maksad ieu sawala teh kanggo urang ngabahas kumaha teu kinten bahayana narkoba ka urang sadayana. Sateuacan dilajengkeun, upami aya patarosan, mangga langsung bae ditaroskeun atanapi dicarioskeun.<br />Amir : Naon anu janten tujuan atanapi nu dipikaharep tina ieu sawala teh?.<br />Budi : Panginten abdi tiasa ngawaler patarosan Amir. Ieu sawala teh mangrupikeun tugas ti bapa kepala sakola ka urang sadayana pikeun tiasa ngahasilkeun usulan anu kongkrit ngeunaan pencegahan bahaya narkoba.<br />Cepi : Muhun, engke hasil sawala ieu teh kedah masihan usulan kanggo urang tiasa mencegah bahaya narkoba sacara efektif.<br />Dedi : Kumargi tina hasil ieu sawala teh kedah didamel laporan, kedahna mah aya anu janten girang serat dina ieu sawala teh.<br />Lia : Muhun, ieu abdi anu janten girang seratna, abdi parantos nyatet ti ngawitan ieu sawala.<br />Bayu : Mangga atuh ayeuna urang dikawitan, kumaha kinten-kintenna usulan anu bade ku urang diajengkeun?.<br />Budi : Usulan ti abdi, saena mah pencegahan bahaya narkoba teh dikawitan ku sosialisai di kulawargi urang masing-masing.<br />Cepi : Muhun, simkuring sapagodos sareng Budi. Saparantos di kulawargi, sosialisasi diteraskeun ka lingkungan di RT sareng RW, ditambih sosialisasi di sakola.<br />Dedi : Kanggo perkawis waktos sareng kumaha carana, simkuring gaduh usulan. Kumaha, upami sosialisasi di kulawargi percantenkeun ka kepala keluarga, di lingkungan ka ketua RT/RW, sareng di sakola mah panginten ku kepala sakola.<br />Amir : Tah muhun kitu nya ahirna urang gaduh konsep anu sae pikeun mencegah bahaya narkoba.<br />Lia : Muhun ieu abdi parantos nyatet, katingalina usulan urang sadayana sae, terstruktur sareng terarah.<br />Bayu : Muhun atuh hatur nuhun ka sadyana anu tos tiasa urun rembug dina ieu sawala, janten urang tos katingali gaduh konsep anu baade diajengkeun ka kepala sakola.<br />Dedi : Ke, punten sakedap, naha leres urang parantos yakin sosialisasi di kulawargi, RT sareng RW teh tiasa berhasil?.<br />Cepi : Muhun, eta patarosan sae pisan. Ari saur simkuring mah, upami lingkungan RT/RW tos ngaraos yen bahaya narkoba teh kacida ageungna kanggo urang sadayana, tangtos RT/RW oge bakal ngadukung, sapertos RT/RW ngadukung kana peryogina pencegahan DBD.<br />Amir : Tah muhun sae pamadegan ti Cepi teh, kanggo urang tiasa yakin usulan urang sadayana teh tiasa dilaksanakeun.<br />Budi : Muhun, supados usulan urang lengkep, teu aya nu kalangkung, cobi punten Lia kumaha tiasa disebatkeun kasimpulan sawala urang teh?.<br />Lia : Mangga (terus Lia maca eta kasimpulan sawala).<br />Bayu : Muhun atuh hatur nuhun ka sadyana anu tos tiasa urun rembug dina ieu sawala, janten urang ayeuna mah parantos yakin kana usulan anu bade diajengkeun ka kepala sakola.<br /><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-jeung-babaturan%e2%80%8b">
+                            13. contoh paguneman jeung babaturan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>doni:hayu atuh kapan urang ka lapangan badminton teh?</p><p>puspa:abdi mah ikut wae don ari nu lain kumaha,jadi teu ka lapangan badmintonna?</p><p>rijal:lamun poe minggu kumaha don pus?</p><p>doni jeung puspa:hayu atuh,minggu wae nya</p><p><strong>Penjelasan:</strong></p><p>paguneman ini mwngisahkan tentang doni,puspa,dan rijal yg akan pergi ke lapangan badminton.</p><p></p><p></p><p>semoga membantu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-5-orang">
+                            14. contoh paguneman 5 orang</h2><br />
+                        <strong>Ali : Assalamualaikum</strong><br /><strong>Beta : Waalaikumsalam, esuk esuk wes teka sekolahan</strong><br /><strong>Ali : Kan pancen dina iki aku piket kelas, Chelsy nyandi?</strong><br /><strong>Beta : Chelsy durung teka, yen Deni mbuwang sampah</strong><br /><strong>Deni : Wes tak buwang, berarti wes beres</strong><br /><strong>Chelsy : Ngapura, aku mbangkong. aku tak jupuk absensi kelas karo ngresiki bangku wae ya?</strong><br /><strong>Deni : iya, ora apa apa lan sepisan timbalana bu guru wonten kantor</strong><br /><strong>Chelsy : wes bu guru arepe teka wes tak timbali</strong><br /><strong>Bu guru : Assalamualaikum</strong><br /><strong>Adi, Beta, Chelsy, Deni : Waalaikumsalam bu</strong><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="paguneman-nganuhunkeun-tolong-bantu-donk-contoh-paguneman-nganuhunken-buat-besok-%e2%80%8b">
+                            15. paguneman nganuhunkeun.    tolong bantu donk contoh paguneman nganuhunken, buat besok ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Meida : wilujeng enjing, kumaha damang ?</p><p>elsa : wilujwng wnjing, alhamdulillah, pangestu.kumaha atuh sawangsulna ?</p><p>meida : alhamdulillah, sa abdi teh bade tumaros, dupi pasanggiri ngadongeng teh dinten naon, ? kamari abdi teu ngupingkeun cariosan pupuhu OSIS.</p><p>elsa : Oh, eta, kin dinten rebo pami teu lepat mah. meida bade janten panilon dina pasanggiri ngadongeng ?</p><p>meida : oh kitu, hatur nuhun nya, muhun nyuhunkeun pidunga na w , mugi2 abdi janten pinunjul ka 1</p><p>elsa, muhun sami2 .. amin..</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-tentang-sejarah">
+                            16. contoh paguneman tentang sejarah</h2><br />
+                        sejarah sultanhasanudin melawan belanda..<br />adiknya yang bersekutu dengan militer belanda<br />ia ditangkap oleh adiknya<br /><br />
+                                            <h2 class="ez-toc-section" id="contoh-kalimat-paguneman">
+                            17. contoh kalimat paguneman</h2><br />
+                        paguneman atau guneman yang saya tau itu percakapan. ya tinggal buat percakapan singkat saja. misalnya ada siswa yang meminjam buku temannya, lalu dibuat percakapan dalam bahasa jawa<br /><br />
+                                            <h2 class="ez-toc-section" id="contoh-ngadamel-paguneman%e2%80%8b">
+                            18. contoh ngadamel paguneman​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Paguneman adalah istilah di dalam bahasa Sunda yang artinya adalah percakapan atau dialog antara dua orang atau lebih. Paguneman dapat bersifat resmi dan tidak resmi. Contoh paguneman yang resmi adalah seperti diskusi, atau dalam bahasa Sunda disebut sawala, sedangkan paguneman yang tidak resmi contohnya adalah obrolan atau percakapan antar teman atau dengan orang tua.</p><p></p><p>Di dalam suatu paguneman ada beberapa aturan yang perlu diperhatikan, seperti antara lain pelan atau kerasnya suara, tinggi atau rendahnya suara, pilihan kata yang disesuaikan dengan lawan bicara, serta penjiwaan untuk memastikan pesan dapat tersampaikan dengan baik. Contoh paguneman dalam bahasa Sunda adalah :</p><p></p><p>Nyieun Karajinan</p><p>Amir : Pan urang teh aya tugas sakola kudu nyieun karajinan, kumaha aya nu boga usul ?.</p><p>Beni : Kumaha lamun nyieun tempat tissue tina kertas koran urut ?.</p><p>Caca : Enya bener eta alus, naha sabaraha urang kitu sa kelompokna ?.</p><p>Beni : Pan kudu tiluan, jadi pas urang tiluan, kuring, Beni jeung Caca.</p><p>Caca : Enya atuh, iraha jeung rek di mana nyieunna eta karajinan teh ?.</p><p>Amir : Alusna mah nyieunna isukan wae, pan kudu dikumpulkeun minggu hareup, jadi aya waktu keur nge-cet jeung moe eta karajinan. Ari tempatna mah di imah kuring oge hayu.</p><p>Caca : Enya atuh alus di imah Amir, ambeh leuwih deukeut ti imah kuring jeung ti imah Beni, Naon wae atuh anu diperlukeunnana ?.</p><p>Amir : Nya paling age masing-masing mawa koran urut, jeung udunan lima rebuan keur meuli tipung aci jeung bahan-bahan nu lainna.</p><p>Beni : Enya atuh nya urang langsung wae isukan balik ti sakola ka imah Amir.</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-resmi-yang-singkat">
+                            19. Contoh paguneman resmi yang singkat?</h2><br />
+                        Pa RT: “Kabayan, hayu urang kerja bakti!!!” <br /><br />Kabayan: “Mangga Pa RT, engke hela tanggung ieu kuring keur nuju nyeuseuh heula.” <br /><br /><br /> (Geus sababaraha jam, si kabayan teu kaluar wae ti imahna) <br /><br /><br />Pa RT: “Kabayan, hayu buru urang tuang heula, bisi kaburu tariis manten geura.” <br /><br /> Kabayan (haget pisan): “Mangga Pa RT, ayeuna keneh abdi dongkap ka dinya.” <br /><br /><br />Pa RT (bari gugurutu): “Dasar Kabayan, mani haripeut ari kana barang hakan mah!” <br /><br />Maaf kalau aq pake bahasa sunda<br /><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-paguneman-dan-berikan-contohnya">
+                            20. Apa itu paguneman dan berikan contohnya ?</h2><br />
+                        Paguneman artinya obrolan antara 2 orang atau lebih
+Contohnya obrolan Kɑ̈♏ʊ sendiri bersama teman/keluargaPaguneman adalah berdialog tentang hal yang ingin ia rencanakan misalnya ingin kerja kelompok,contoh kalimatnya yaitu:<br />A: Ieu teh carana naonnya?  abdi mah teu ngertien!<br />B: Oh nu ieu abdi ngerti carana.<br /><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-sunda%e2%80%8b">
+                            21. contoh paguneman sunda​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>Ngarot</strong></p><p>Upacara adat ngarot dilakukan sebagai rasa syukur atas hasil panen yang telah diperoleh. Pada upacara ini, keluarga akan mempersiapkan bahan makanan dan minuman untuk disuguhkan kepada tamu yang hadir.</p><br />
+                                            <h2 class="ez-toc-section" id="apa-contoh-paguneman-bahasa-sunda">
+                            22. apa contoh paguneman bahasa sunda?</h2><br />
+                        (Atsna nyampeur Suci)<br /><br />A : Assalamu'alaikum<br />B : Wa 'alaikumsalam warohmatullohi wabarokatuh. eh, Atsna mangga calik.<br />A : Hatur nuhun Ci<br />B : Kumaha damang ?<br />A : Alhamdulillah sawalerna. Ari Uci kumaha ?<br />B : Alhamdulillah damang. Dupi aya peryogi naon kadieu?<br />A : Kieu,kamari teh pan Atsna teu lebet sakola, dupi aya pancen atanapi henteu ?<br />B : Oh, muhun nya. Ku naon atuh make eu lebet sakola ?<br />A : Numawi kamari teh Atsna udur.<br />B : Teu damang naon kitu ?<br />A : Lebet angin, kumargi basa dinten juma'ah wangsul urang teh kahujanan. mung alhamdulillah ayeuna mah tos jagjag deui<br />B : Oh, alhamdulillah atuh ari kitu mah.<br />A : Aeh aeh.. Kumaha ieu teh, janten aya pancen henteu ?<br />B : Oh, sumuhun aya. Pancen basa sunda ngeunaan paguneman.<br />A : Abdi bade ningal catetanna atuh. Kumaha wios ?<br />B : Mangga, sakantenan we atuh urang pidamel sasarengan.<br />A : Hayu atuh.<br /><br /><br />(Torojol Miranti datang)<br /><br />C : Assalamu 'alaikum!<br />A-B: Wa'alaikumsalam.<br />B :  Mangga ka lebet mir.<br />C : Hatur nuhun Ci.<br />    Eh, aya Atsna oge Nuju naon Na ?<br />A : Ieu Mir, nuju nyalin sareng midamel pancen basa sunda nu kamari.<br />C : Oh, abdi bade ngiringan atuh. Wios ?<br />A : Mangga.<br />B : Eh, bade ngaraleueut naon atuh ieu teh ?<br />C : atuh wios we, teu kedah ngarerepot Ci.<br />B : Eh, sok kitu ah.<br /><br />(Suci ka dapur nyandak leueuteun)<br /><br />B : Mangga atuh di raleueut.<br />A-C: Haturnuhun pisan Ci.<br /><br />(Teu kungsi lila, jol Winardi)<br /><br />D : assalamu'alaikum!<br />A-B-C : Wa'alaikumsalam.<br />B : Aya naon Win ?<br />D : Ieu, bade ngawartosan yen enjing teh barudak bade ameng ka Kampung Batu. Kumaha bade ngariring ?<br />C : Ngiring atuh ah. Tabuh sabaraha angkatna ?<br />D : Tabuh dalapan kedah tos kempel di sakola. Tong tarelatnya!<br />C : Upami angkatna tabuh dalapan, dugina tabuh sabaraha ?<br />D : Kurang leuwih, dugina tabuh salapanan.<br />A : Hayu atuh, sumanget pisan ari kitu mah.<br />D : Nya, atos heula atuhnya. abdi bade ngawartosan nu sanesna.<br />C : Mangga.<br />D : Hayu atuhnya. Assalamu'alaikum<br />A-B-C : Wa'alaikumsalam<br /><br />(Atsna, Suci, Miranti rengse midamel pancenna)<br /><br />A : Ci, abdi bade wangsul heulanya.<br />C : Muhun, abdi ge bade wangsul wa da tos rengse.<br />B : Mangga, kadenya di jalanna.<br />A-C : Muhun, hayu Ci. Assalamu'alaikum.<br />B : Wa'alaikumsalam!<br /><br />Keterangan.<br />A : Atsna<br />B : Suci<br />C : Miranti<br />D : Winardi<br /><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-bahasa-sunda">
+                            23. contoh paguneman bahasa sunda</h2><br />
+                        Paguneman adalah satu istilah dalam bahasa Sunda yang artinya adalah kegiatan percakapan atau obrolan antara dua orang atau lebih, saling tanya jawab atau saling menimpali, disusun dalam bentuk kalimat langsung.<br /><br />Dalam paguneman terdapat pedoman atau aturan yang perlu diikuti. Secara singkat aturan tersebut adalah tentang keras dan pelannya suara atau disebut lafal, tinggi rendahnya suara atau dalam bahasa Sunda disebut “lentong”,  pilihan kata yang digunakan dalam percakapan, serta perlunya penjiwaan agar pesan tersampaikan dengan baik.<br /><br />Meskipun keempat atauran atau pedoman tersebut semuanya penting dalam sebuah paguneman, tetapi aturan tentang pilihan kata yang digunakan dalam percakapan, merupakan aturan yang paling sulit untuk diikuti, ini terbukti dengan seringnya ditemukan kesalahan dalam  penerapan terkait aturan tersebut.<br /><br />Seringnya ditemui kesalahan dalam penerapan aturan pilihan kata yang digunakan, dapat dimaklumi, karena dalam bahasa Sunda memang berlaku ketentuan mengenai tingkatan penggunaan bahasa, mulai dari yang paling halus sampai dengan yang paling kasar. Tetapi dalam penggunaan sehari-hari, cukup digunakan dua tingkatan bahasa saja, yaitu bahasa Sunda yang halus dan bahasa Sunda yang kasar atau bahasa "loma".<br /><br />Bahasa Sunda "loma" adalah bahasa yang digunakan dalam percakapan antar teman yang sudah saling mengenal dan akrab. Di bawah ini adalah contoh paguneman dalam bahas Sunda mengenai kebersihan sekolah, dengan menggunakan bahasa "loma" :<br /><br />Kaberesihan Sakola<br /><br />Amir : Cing, naon anu dimakusd kaberesihan sakola teh ?.<br />Budi : Nya meureun saputeran beberesih di sakola wae.<br />Cepi : Enya kituna mah bener, nyaeta saputeran beberesih di sakola, tapi naha ngan eta wungkul ?.<br />Dedi : Kuduna mah lain ngan saukur beberesih wae, tapi oge kudu aya kagiatan sosialisai pikeun nerapkeun kasadaran ka urang sarerea ngeunaan pentingna kaberesihan.<br /><br />Budi : Oh kitu, jadi lain ngan saukur beberesih wae nya, tapi oge kudu boga kasadaran, kumaha tah cara sosialisasina ?.<br />Cepi : Salah sahiji cara nyaeta urang kudu nyieun wawaran anu eusina kalimah pangajak pikeun ngajaga kaberesihan di sakola.<br />Dedi : Tah enya bener, urang kudu nyieun wawaran!.<br />Amir : Kudu di mana wae engke urang nempatkeun wawaran teh ?.<br /><br />Dedi : Ari wawaran teh biasana ditempatkeunana di tempat nu aya hubunganana jeung eusi wawaran.<br />Cepi : Jadi, atuh kudu ditempatkeun di sababaraha tempat di saputeran sakola meureun ari kitu mah ?.<br />Amir : Enya bener kitu.<br />Budi : Hayu atuh urang mimiti nyieun wawaran pikeun ngajak ngajaga kaberesihan sakola.<br />
+                                            <h2 class="ez-toc-section" id="contoh-dari-paguneman-kaulinan-barudak">
+                            24. contoh dari paguneman kaulinan barudak</h2><br />
+                        Paguneman adalah satu istilah dalam bahasa Sunda. Paguneman adalah kegiatan berbicara atau dialog dua arah, saling tanya jawab atau saling menimpali, antar dua orang atau lebih, menggunakan kalimat langsung. Paguneman, dilihat dari suasananya, dibagi menjadi dua jenis, yaitu paguneman resmi dan paguneman tidak resmi.<br /><br />Contoh paguneman resmi adalah seperti diskusi atau dalam istilah bahasa Sunda disebut sawala. Sedangkan contoh paguneman yang tidak resmi adalah seperti percakapan atau dialog dengan teman atau dengan orang tua sendiri.<br /><br />Dalam paguneman ada aturan atau ketentuan yang perlu diperhatikan. Aturan yang perlu diperhatikan tersebut adalah tentang keras pelannya suara dalam percakapan, tinggi rendahnya suara atau dalam bahasa Sunda dikenal dengan sebutan "lentong", pilihan kata-kata yang digunakan, serta penjiwaan saat melakukan percakapan.<br /><br />Jika melihat jawaban yang sudah ada, dapat disimpulkan bahwa kata-kata atau kalimat yang digunakan dalam paguneman tersebut dapat dimengerti. Tetapi jika dilihat dari sisi pilihan kata-kata yang digunakan, paguneman tersebut masih bisa diperbaiki.<br /><br />Seperti diketahui, dalam bahasa Sunda ada dua ragam bahasa, yaitu bahasa halus dan bahasa kasar. Dalam paguneman tersebut ragam bahasa yang digunakan tidak konsisten, sehingga perlu diperbaiki. Ragam bahasa yang biasa digunakan dalam percakapan antar teman yang sudah akrab adalah ragam bahasa kasar/biasa atau dikenal dengan sebutan bahasa "loma". Di bawah ini adalah usulan perbaikan untuk jawaban tersebut, dengan menggunakan bahasa "loma" :<br /><br />Contoh paguneman kaulinan barudak (ucing sumput)<br /><br />Rendi: Keur naraon euy?<br />Sandi: Biasa keur ulin ucing sumput!<br />Tian: Enya yeuh keur ucing sumput, rek miluan moal Ren?<br />Rendi: Hayu atuh kuring miluan!<br />Sandi: Sok atuh jadi ucing, sok ayeuna peureum, engke diitung nepi ka sapuluh, lamun geus nepi ka sapuluh langsung beunta nya.<br />Tian: Hiji, dua, tilu, opat, lima, genep, tujuh, dalapan, salapan, sapuluh.<br />
+                                            <h2 class="ez-toc-section" id="contoh-teks-paguneman">
+                            25. contoh teks paguneman</h2><br />
+                        linda:"halo assalamualaikum...!"<br />sora lalaki:"waalaikumussalam."<br />linda:"leres ieu sareng bumina Fitri?"<br />sora lalaki:"sumuhun,abdi ramana.dupi ieu sareng saha?"<br />linda:"oh,punten bapa.abdi rerencangan sakola Fitri.manawi aya,bade nyarios sareng Fitri"<br />sora lalaki:"ke,antos sakedap."<br />fitri:"halo lin"<br />linda:"hey,ieu Fitri?"<br />fitri:"enya,maenya teu apal sora abdi?"<br />linda:"bisi salah we.eh,fit,kumaha pancen basa sunda teh.geus dipigawe acan?"<br />fitri:"pancen ngarang carpon tea,nya?"<br />linda:"enya geus beres acan?"<br />fitri:"enggeus atuh,ari Linda?"<br />linda:"puguh acan,bisa ningali teu?soalna di rorompok teu aya majalah basa sunda,jadi teu bisa ningali conto"<br />fitri:"nya sok we rek ningali mah,ngan ulah niron!"<br />linda:"nya moal atuh,ieu mah rek maca wungkul.rek ngabandingkeun,carpon meunang fitri kumaha?"<br />fitri:"nya sok atuh,rek ka dieu ayeuna?"<br />linda:"teu keur rariweuh kitu?"<br />fitri:"henteu,sok we rek ka dieu mah.urang sakalian midamel pr MTK jeung basa inggris."<br />linda:"enya atuh,ayeuna rek ka bumi fitri.antos we."<br />fitri:"mangga,diantos."<br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-bahasa-sunda">
+                            26. contoh paguneman bahasa sunda</h2><br />
+                        (Conto paguneman dina Basa Sunda)Ènjing kènèh pisan, Adi atos dugi di bumi Imran. Mangsa mangkukna, dua sobat ieu ngarencanakeun kanggo angkat ka Garut.<br />Adi : Ran, tos siap?<br />Imran : Aduh, puguh kabeurangan... Antosan heula nya?<br />Adi : Oh, sip gampil. Da ènjing kènèh ieu, asal tong indit beurang teuing wè bisi kabujeng macèt euy.<br />Imran : Heem. Badè ibak heula, Ambèh rada seger.Teu sabaraha lami, jol tèh Imran tos nganggo acuk nu rapih.<br />Imran : berangkat ayeuna urang tèh, Di?<br />Adi : Nya hayu ari tos siap mah. Kin urang panaskeun heula motorna.<br />Imran: Mangga.<br />---Contoh percakapan dalam Bahasa SundaPagi-pagi sekali, Adi sudah sampai di rumah Imran. Kemarin lusa, dua sahabat ini merencanakan untuk pergi ke Garut.<br />Adi : Ran, sudah siap?<br />Imran : Aduh, justru kesiangan. Tungguin dulu ya?<br />Adi : Oh, sip gampang. Masih pagi ini, asal jangan pergi terlalu siang saja takut keburu macet.<br />Imran : Heem mau mandi dulu. Biar agak segar.Tak berapa lama, datanglah Imran sudah memakai baju yang rapi.<br />Imran : kita berangkat sekarang, Di?<br />Adi : Ya, ayo kalau udah siap. Bentar kita panasin dulu motornya.<br />Imran : Mangga.<br /><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-bahasa-sunda">
+                            27. Contoh paguneman bahasa sunda</h2><br />
+                        ismi : wilujeng enjing kang<br />akang : enjing neng ,.<br />ismi : bade kamana atuh kang itu acuk meni rapih kituu<br />akang : ieu neng akang bade nyobian ngalamar damel sugan we ka tampi<br />ismi : oh kitu kang , didamel naon kitu kang ?<br />akang : ah neng nyobian heula dameul ka pabrik we<br />ismi : oh nya sok kang mugia katampi..<br />akang : Aamiin, hatur nuhun ismi<br />ismi : muhun sawangsulna kang<br />
+                                            <h2 class="ez-toc-section" id="tulis-contoh-paguneman-singkat">
+                            28. tulis contoh paguneman singkat..</h2><br />
+                        Barudak X TKJ-2 keur ngariung di buruan sakola, harita teh aya Anggara, Wisnu, Razu jeung Farid. Maranehna ngobrolkeun pangalamanana masing-masing, dina poe minggu kamari.
+
+Anggara       : “Rid, basa poe minggu kamari ka mana ? Angga ka bumi Farid,
+                     tapi teu araya ?”
+Farid           : “Puguh Farid mah piknik ka Cimanggu, ka pangojayan
+                      cipanas.”
+Razu            : “Kumaha rea nu pariknikna ?”
+Farid           : “Nya rea oge, komo ka kawah putih mah pamandangan nana
+                      Endah teh.”
+Razu            : “Jam sabaraha balikna ?”
+Farid           : “Sore. Da balikna nyimpang heula ka bumi Nini di Ciwidey.”
+Razu            : “Mana oleh-olehna ningan teu mawa ?”
+Farid           : “Bisi hayang oleh-oleh mah balik sakola ka imah, nya! Aya
+                     Bandrek geura, anu kasohor “Bandrek Abah”. Aya kawula jeruk.”
+Razu            : “Hayu atuh engke balik sakola urang ka imah Farid, nya.”
+Wisnu          : “Nya, ari Razu hayangna kaditu mah hayu wa. Da kabeneran
+                     kamari teh boga niat hayang ka imah Farid, tapi can apal di mana
+                     imah Farid teh. Ari Anggara indit kamana kamari ?”Kunaon
+                     geuning cicing bae ? Gering tawa Angga teh ?”
+Anggara       : “Puguh Angga mah milu jeung Bapa nguseup belut di sawah.”
+Wisnu          : “Sinarieun atuh daek ka sawah ?”
+Anggara       : “Kapaksa.”
+Wisnu          : “Naha ningan ?”
+Anggara       : “Tuda lamun teu ka sawah si Mamah ngajakan arisan, nya
+                      mendingan keneh ka sawah.”
+Wisnu          : “Aya-aya wae atuh.”
+Anggara       : “Zu, ari Razu ka mana ?”
+Razu            : “Ka Lombok tapi tos bosen.”
+Farid           : “Bosen, naha bosen ?”
+Razu            : “Uhun, bosen karuh teu janten wae.”
+Wisnu          : “Emangna kunaon teu janten wae ?”
+Razu            : “Nya si Mamah na ka luar negri bae.”
+Anggara       : “Liburan.”
+Razu            : “Janten TKW.”
+Wisnu          : “Hahaha.. Sugan teh ek naon.”
+Farid           : “Mending daripada teu pararuguh mah suang ka kantin.”
+
+Anggara       : “Hayu..”
+<br />
+                                            <h2 class="ez-toc-section" id="apa-definisi-paguneman-dan-contoh-paguneman-dalam-bahasa-sunda">
+                            29. apa definisi paguneman? dan contoh paguneman dalam bahasa sunda!!!</h2><br />
+                        paguneman adalah percakapan atau dialog<br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-bahasa-sunda">
+                            30. contoh paguneman bahasa sunda</h2><br />
+                        <p>[B.Sunda]</p><p><br /></p><p>Didi : "Punteun kang, bade kamana?"</p><p>Ucup : "Eh, mang Didi, ieu abdi bade ka kebon"</p><p>Didi : "Oh, pangnitipkeun ieu ka Ceu Entin, kang"</p><p>Ucup : "Muhun, engke urang ka Ceu Entinkeun"</p><p>Didi : "hatur nuhun kang"</p><p>Ucup : "Sami-sami"</p><p><br /></p><p>Mohon maaf apabila ada kesalahan<br /></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-5-orang">
+                            31. contoh paguneman 5 orang</h2><br />
+                        Paguneman adalah istilah dalam bahasa Sunda yang artinya adalah obrolan atau percakapan antara dua orang atau lebih. Dilihat dari suasananya, terdapat dua jenis paguneman, yaitu paguneman resmi dan paguneman tidak resmi. Paguneman resmi, contohnya adalah seperti diskusi atau dalam bahasa Sunda disebut sawala, sedangkan paguneman tidak resmi adalah seperti obrolan atau percakapan dengan teman atau dengan orang tua.<br /><br />Terdapat beberapa hal yang perlu diperhatikan dalam paguneman, seperti keras pelannya suara, tinggi rendahnya suara atau lentong dalam bahasa Sunda, pilihan kata-kata yang disesuaikan dengan lawan bicaranya dan penjiwaan dari pembicaraan agar pesan yang disampaikan menjadi jelas. Di bawah ini adalah contoh paguneman tidak resmi yang melibatkan 5 orang pembicara :<br /><br />Pasanggiri Lagu Perjuangan Sunda<br /><br />Amir : Pikeun mieling poe Kamerdekaan Indonesia, urang baris ngayakeun kagiatan atawa acara, sok sugan naon kira-kirana acara nu alus keur di sakola?.<br />Budi : Kumahaha lamun diayakeun Pasanggiri Lagu Perjuangan Sunda ?.<br />Caca : Enya atuh eta alus ide teh, sakalian urang ngamumule budaya Sunda. Kumaha nu sejen satuju?, jeung kira-kirana iraha urang rek ngayakeun pasanggiri eta ?.<br />Deni : Enya satuju. Kumaha lamun diayakeunna ti mimiti tanggal 1 Agustus ?.<br />Eki  : Enya satuju, tanggal 1 Agustus alus ambeh waktuna cukup.<br />Budi : Ari tempatna rek di mana ?.<br />Deni : Kumaha lamun di sakola urang wae, diayakeunna unggal poe Saptu jeung Minggu ?.<br />Amir : Enya bisa unggal poe Saptu jeung Minggu. Tapi kuduna urang boga alasan anu kuat naon sababna urang nyayakeun Pasanggiri Lagu Perjunagan Sunda, supaya rencana urang disatujuan ku bapa Kepala Sakola.<br />Eki : Enya urang kudu nyusun alasan anu alus, sok atuh anjeun Eki nu nulis alasan atawa latar belakang diayakeun pasanggiri.<br />Caca : Enya satuju lah kuring mah. Supaya rencana urang leuwih buleud, alusna mah urang ngayakeun deui rapat jeung nu sejenna isuk (Barudak satuju diayakeun rapat deui pikeun ngabuleudkeun rencana Pasanggiri Lagu Perjuangan Sunda).<br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-anu-singkat">
+                            32. contoh paguneman anu singkat</h2><br />
+                        <p>Dina hiji waktu, Udin dicalukkan ku
+bapana.</p>
+
+<p> </p>
+
+<p>Bapana Udin: Jang, Bapa pangmeulikeun roko
+sabatang ka warung. Ieu duitna. Mun aya pulangna pek keur ujang.</p>
+
+<p>Udin: Sumuhun. Mangga, Pa.</p>
+
+<p> </p>
+
+<p>Teu sabaraha lila Udin datang.</p>
+
+<p> </p>
+
+<p>Bapana Udin: Jang, mana roko teh?</p>
+
+<p>Udin: Aduh, Pa. Abdi tos kukurilingan ka
+mana-mana milarian warung nu buka, mung sadayana tutup.</p>
+
+<p>Bapana Udin: Euleuh, pere ngaroko atuh Bapa
+ayeuna, Din. Nya enggeuslah, mana balikkeun deui duitna!</p>
+
+<p>Udin: Ieu, Pa. Sarebu.</p>
+
+<p>Bapana Udin: Naha ngan sarebu? Apanan
+tadi dibere sapuluh rebu ku Bapa?</p>
+
+<p>Udin: Apanan saur Bapa, angsulna kanggo abdi.
+Roko sarebuan sabatang, janten angsulanna salapan rebu mah keur Udin.</p>
+
+<p>Bapana Udin: Adeuh aing mah, roko lapur,
+duit beak. Dasar si borokokok, sia!</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-bahasa-sunda">
+                            33. contoh paguneman bahasa sunda</h2><br />
+                        Paguneman adalah istilah di dalam bahasa Sunda yang artinya adalah percakapan atau dialog antara dua orang atau lebih. Paguneman dapat bersifat resmi dan tidak resmi. Contoh paguneman yang resmi adalah seperti diskusi, atau dalam bahasa Sunda disebut sawala, sedangkan paguneman yang tidak resmi contohnya adalah obrolan atau percakapan antar teman atau dengan orang tua.<br /><br />Di dalam suatu paguneman ada beberapa aturan yang perlu diperhatikan, seperti antara lain pelan atau kerasnya suara, tinggi atau rendahnya suara, pilihan kata yang disesuaikan dengan lawan bicara, serta penjiwaan untuk memastikan pesan dapat tersampaikan dengan baik. Contoh paguneman dalam bahasa Sunda adalah :<br /><br />Nyieun Karajinan<br /><br />Amir : Pan urang teh aya tugas sakola kudu nyieun karajinan, kumaha aya nu boga usul ?.<br />Beni : Kumaha lamun nyieun tempat tissue tina kertas koran urut ?.<br />Caca : Enya bener eta alus, naha sabaraha urang kitu sa kelompokna ?.<br />Beni : Pan kudu tiluan, jadi pas urang tiluan, kuring, Beni jeung Caca.<br />Caca : Enya atuh, iraha jeung rek di mana nyieunna eta karajinan teh ?.<br />Amir : Alusna mah nyieunna isukan wae, pan kudu dikumpulkeun minggu hareup, jadi aya waktu keur nge-cet jeung moe eta karajinan. Ari tempatna mah di imah kuring oge hayu.<br />Caca : Enya atuh alus di imah Amir, ambeh leuwih deukeut ti imah kuring jeung ti imah Beni, Naon wae atuh anu diperlukeunnana ?.<br />Amir : Nya paling age masing-masing mawa koran urut, jeung udunan lima rebuan keur meuli tipung aci jeung bahan-bahan nu lainna.<br />Beni : Enya atuh nya urang langsung wae isukan balik ti sakola ka imah Amir.<br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-6-orang">
+                            34. contoh paguneman 6 orang</h2><br />
+                        <br /><br />maaf salah pemula baru...<br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-basa-sunda">
+                            35. contoh paguneman basa sunda</h2><br />
+                        Paguneman adalah istilah dalam bahasa Sunda yang artinya percakapan atau dialog antar dua orang atau lebih, saling menimpali atau saling tanya jawab, menggunakan kalimat langsung. Jika dilihat dari suasana atau keadaannya, terdapat dua jenis paguneman, yaitu paguneman yang resmi dan paguneman yang tidak resmi. Contoh paguneman resmi adalah seperti diskusi atau dalam bahasa Sunda disebut sawala. Sedangkan contoh paguneman tidak resmi adalah percakapan dengan teman atau dengan orang tua sendiri.<br /><br />Dalam membuat contoh paguneman yang baik, paling tidak ada dua aturan yang perlu diperhatikan. Aturan yang pertama adalah mengenai teknik yang digunakan agar paguneman dapat dimengertii sesuai yang diharapkan. Sedangkan aturan yang kedua adalah mengenai  rumusan atau metoda yang digunakan untuk memastikan bahwa paguneman yang dibuat adalah lengkap.<br /><br />Aturan yang pertama, terkait dengan keras pelannya suara atau lafal dalam percakapan, tinggi-rendahnya suara atau dalam bahasa Sunda disebut “lentong”, pilihan kata yang digunakan dalam percakapan, serta penjiwaan. Sedangkan aturan yang kedua, terkait dengan rumusan yang dapat membantu dalam memastikan lengkap tidaknya suatu percakapan. Salah satu rumusan yang sudah sangat dikenal dan sederhana adalah dengan mengunakan rumusan 5W+1H (what, who, when, where, why, dan how).<br /><br />Di bawah ini adalah contoh paguneman dalam bahasa Sunda dengan disertai penerapan kedua aturan yang telah disebutkan di atas :<br /><br />Liburan Sakola<br /><br />Amir : Bud!, engke liburan sakola anjeun rek ka mana ?.<br />Budi : Pilihan kuring mah aya dua Mir!, nyaeta rek ka gunung atawa ka basisir.  Ari anjeun rek ka mana ?.<br />Amir : Kuring oge can nyaho rek ka mana Bud!. Kumaha atuh lamun urang ka basisir wae liburan sakola engke mah ?.<br />Budi : Enya atuh, alus urang ka basisir wae. Kira-kirana saha wae anu rek milu nya ?.<br />Amir : Sigana mah si Cepi jeung si Dedi oge pasti daekeun lamun diajak mah. Urang opatan wae, ambeh resep.<br />Budi : Enya atuh resep urang opatan. Kira-kira rek iraha inditna ?, jeung rek ka basisir mana ?.<br />Amir : Inditna mah urang sapoe geus dibagi raport bae, jeung alusna mah urang ka basisir Pangandaran wae.<br />Budi : Naha hayoh wae ka Pangandaran atuh!, piraku atuh henteu bosen ?.<br />Amir : Enya ka Pangandaran, tapi anu tepatna mah urang ka baisisr Batu Karas. Soalna basisir Batu Karas mah masih beresih keneh jeung ngeunah tiiseun.<br />Budi : Oh kitu Mir?, kuring mah can pernah ka Batu Karas!.<br />Amir : Tuh pan!, ceunah geus bosen ka Pangandaran, tapi geuning can pernah ka Batu Karas!.<br />Budi : Enya Mir!, alus atuh, kuring hayang nyaho Batu Karas teh siga kumaha!.<br />Amir : Resep geura Mir!, Batu Karas mah basisirna masih keneh beresih jeung sepi. Engke Cepi jeung Dedi mah ku kuring di bejaan nya. Engke lamun waktuna geus deukeut urang badamikeun deui.<br />Budi : Enya kitu Mir!.<br /><br />Dengan menerapkan kedua aturan yang disebutkan di atas, diharapkan paguneman yang ditulis dapat dimengerti dengan baik.<br /><br />Meskipun keras-pelannya serta tinggi-rendahnya suara dalam paguneman tulisan tidak dapat secara fisik terlihat, tetapi dengan penggunaan tanda-baca yang tepat (seperti tanda seru dan tanda tanya), serta penggunaan beberarapa kata dalam bahasa Sunda, seperti kata "mah" dan "teh", maka jika dibaca, keras-pelannya serta tinggi-rendahnya suara dalam paguneman tulisan, dapat dirasakan. Dalam bahasa Sunda, kata "mah" dan "teh" disebut "kecap panganteb" yang artinya adalah kata penegas.<br /><br />Demikian juga dengan menerapkan rumus 5W+1H, dalam menulis paguneman, kita dapat mengetahui apa yang pertama harus ditulis, apa saja materi yang ditulis dalam percakapan, serta apa yang harus ditulis pada akhir percakapan.  <br /><br />
+                                            <h2 class="ez-toc-section" id="contoh-ngadamel-paguneman%e2%80%8b">
+                            36. contoh ngadamel paguneman​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Paguneman nyaeta kagiatan ngobrol atawa ngawangkong, silih tempas, antar dua urang atawa leuwih, anu ngagunakeun kalimah langsung. Aya dua rupa paguneman, nyaeta paguneman resmi jeung paguneman teu resmi. Conto paguneman resmi nyaeta saperti sawala atawa diskusi, sedengkeun paguneman teu resmi nyaeta saperti ngobrol jeung babaturan atawa ngobrol jeung indung bapa.</p><p>Pembahasan</p><p>Dina paguneman aya unsur-unsur anu perlu diperhatikeun, sangkan paguneman saluyu jeung nu dipikaharep. Unsur-unsur nu perlu diperhatikeun nyaeta bentes henteuna sora, luhur handapna sora atawa lentongna sora, pilihan kecap-kecapna nu disaluyukeun jeung lawan nyarita, sarta penjiwaan pikeun mastikeun yen pesen bisa nepi kalayan merenah.</p><p>Paguneman nu nyaritakeun ngobrol jeung babaturan sabangku, biasana sok ngagunakeun basa anu loma, nyaeta basa biasa atawa rada kasar. Tapi kulantaran anu ditugaskeun teh kudu nyieun paguneman ngagunakeun basa Sunda nu sopan, jadi unsur anu perlu diperhatikeun nyaeta pilihan kecap waktu nyarita jeungbabaturan nu biasana ngagunakan basa anu loma, kudu diganti ku basa Sunda nu sopan, oge dina lentongna perlu diperhatikeun.</p><p>Di handap ieu conto paguneman jeung babaturan sabangku nu ngagunakeun basa Sunda nu sopan. Conto di handap nginjem atawa ngagunakeun jawaban anu geus aya, sanajan sacara umum jawaban nu aya teh geus bener, tapi masih bisa ditunjukkeun usulan perbaikan pikeun jawaban nu leuwih merenah, utamana dina pilihan kecap jeung lentongna.</p><p>Tugas Sakola Basa Sunda</p><p>Ani : Lia, pan aya tugas basa Sunda, kumaha tos didamel teu acan ?.</p><p>Lia : Tugas nu mana, sareng halaman sabaraha nya ?.</p><p>Ani : Halaman 15, kumaha tos didamel tugasna teu acan ?.</p><p>Lia : Aduh!, muhun teu acan nya, kumaha atuh ?, mangkaning enjing aya pangajarannana nya ?.</p><p>Ani : Muhun, jabi deuih abdi teu ngartos, kumaha atuh nya ?.</p><p>Lia : Hmm, kieu wé atuh, engke saatos uih ti sakola, urang midamel eta tugas sasarengan.</p><p>Ani : Muhun atuh kitu, tapi uih heula nya, gentos acuk heula...hehehe.</p><p>Lia : Muhun, mangga.</p><p>Ani : Muhun, tapi bade di bumi saha ngadamel tugasna ?.</p><p>Lia : Di rorompok abdi oge mangga, engké Ani langsung ka rorompok abdi nya.</p><p>Ani : Muhun, nuhun Lia.</p><p>Lia : Muhun, sami-sami. Ulah hilap nya, engke ka rorompok abdi.</p><p>Ani : Muhun.</p><br />
+                                            <h2 class="ez-toc-section" id="naon-hartina-paguneman-sareng-tulis-ken-contoh-paguneman%e2%80%8b">
+                            37. naon Hartina paguneman sareng tulis Ken contoh paguneman​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Paguneman nyaeta ngawangkong atawa nyarita dua arah, antar dua urang atawa leuwih, silih tempas atawa silih tanya jawab, sarta ngagunakeun kalimah langsung. Ditilik tina suasanana, aya dua rupa wangun paguneman, nyaeta paguneman resmi jeung paguneman teu resmi. Conto paguneman resmi nyaeta saperti sawala atawa diskusi.</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-resmi%e2%80%8b">
+                            38. contoh paguneman  resmi​</h2><br />
+                        <p></p><p><strong>Penjelasan:</strong></p><p>Jawabanmu paguneman adalah satu istilah dalam bahasa Sunda yang artinya percakapan, obrolan, antar dua orang atau lebih, saling tanya jawab atau saling menimpali. Jika dalam bentuk tulisan, paguneman menggunakan kalimat langsung.</p><p></p><p>Dilihat dari kondisi atau suasananya, ada dua jenis paguneman, yaitu paguneman resmi dan paguneman tidak resmi. Contoh paguneman resmi adalah seperti diskusi atau dalam bahasa Sunda disebut sawala. Sedangkan contoh paguneman tidak resmi adalah obrolan atau percakapan dengan teman atau dengan orang tua sendiri.</p><p></p><p>Di dalam paguneman, terdapat beberapa ketentuan atau pedoman umum yang perlu diikuti, yaitu seperti keras atau pelannya suara, tinggi-rendahnya suara atau dalam bahasa Sunda disebut "lentong", pilihan kata-kata yang disesuaikan dengan siapa yang diajak bicara, serta penjiwaan agar apa pesan yang ada di dalam percakapan dapat tersampaikan dengan baik.</p><p></p><p>Selain ketentuan atau pedoman umum tersebut, ada juga ketentuan khusus lain yang tergantung pada jenis paguneman-nya. Seperti di dalam paguneman resmi ada beberapa ketentuan khusus, seperti tentang tempat dan waktu yang perlu ditentukan sebelumnya, terdapat beberapa peran yang khusus seperti pemimpin diskusi atau moderator atau dalam bahasa Sunda disebut panumbu catur, sekertaris atau notulis atau girang serat dan peserta diskusi atau pamilon.</p><p></p><p>Sedangkan dalam paguneman tidak resmi pada prinsipnya tidak ada ketentuan khusus, karena paguneman resmi pelaksanaannya lebih spontan. Di bawah ini adalah contoh paguneman resmi yang berupa diskusi atau sawala dengan menggunakan bahasa Sunda yang halus :</p><p></p><p>Panumbu catur : Bayu</p><p>Pamilon 1 : Amir</p><p>Pamilon 2 : Budi</p><p>Pamilon 3 : Cepi</p><p>Pamilon 4 : Dedi</p><p>Girang serat : Lia</p><p></p><p>Sawala Bahaya Narkoba</p><p></p><p>Bayu : Pala wargi sadayana, simkuring salaku panumbu catur ngahaturkeun nuhun ka sadayana nu parantos tiasa hadir dina ieu sawala. Dupi maksad ieu sawala teh kanggo urang ngabahas kumaha teu kinten bahayana narkoba ka urang sadayana. Sateuacan dilajengkeun, upami aya patarosan, mangga langsung bae ditaroskeun atanapi dicarioskeun.</p><p>Amir : Naon anu janten tujuan atanapi nu dipikaharep tina ieu sawala teh?.</p><p>Budi : Panginten abdi tiasa ngawaler patarosan Amir. Ieu sawala teh mangrupikeun tugas ti bapa kepala sakola ka urang sadayana pikeun tiasa ngahasilkeun usulan anu kongkrit ngeunaan pencegahan bahaya narkoba.</p><p>Cepi : Muhun, engke hasil sawala ieu teh kedah masihan usulan kanggo urang tiasa mencegah bahaya narkoba sacara efektif.</p><p>Dedi : Kumargi tina hasil ieu sawala teh kedah didamel laporan, kedahna mah aya anu janten girang serat dina ieu sawala teh.</p><p>Lia : Muhun, ieu abdi anu janten girang seratna, abdi parantos nyatet ti ngawitan ieu sawala.</p><p>Bayu : Mangga atuh ayeuna urang dikawitan, kumaha kinten-kintenna usulan anu bade ku urang diajengkeun?.</p><p>Budi : Usulan ti abdi, saena mah pencegahan bahaya narkoba teh dikawitan ku sosialisai di kulawargi urang masing-masing.</p><p>Cepi : Muhun, simkuring sapagodos sareng Budi. Saparantos di kulawargi, sosialisasi diteraskeun ka lingkungan di RT sareng RW, ditambih sosialisasi di sakola.</p><p>Dedi : Kanggo perkawis waktos sareng kumaha carana, simkuring gaduh usulan. Kumaha, upami sosialisasi di kulawargi percantenkeun ka kepala keluarga, di lingkungan ka ketua RT/RW, sareng di sakola mah panginten ku kepala sakola.</p><p>Amir : Tah muhun kitu nya ahirna urang gaduh konsep anu sae pikeun mencegah bahaya narkoba.</p><p>Lia : Muhun ieu abdi parantos nyatet, katingalina usulan urang sadayana sae, terstruktur sareng terarah.</p><p>Bayu : Muhun atuh hatur nuhun ka sadyana anu tos tiasa urun rembug dina ieu sawala, janten urang tos katingali gaduh konsep anu baade diajengkeun ka kepala sakola.</p><p>Dedi : Ke, punten sakedap, naha leres urang parantos yakin sosialisasi di kulawargi, RT sareng RW teh tiasa berhasil?.</p><p>Cepi : Muhun, eta patarosan sae pisan. Ari saur simkuring mah, upami lingkungan RT/RW tos ngaraos yen bahaya narkoba teh kacida ageungna kanggo urang sadayana, tangtos RT/RW oge bakal ngadukung, sapertos RT/RW ngadukung kana peryogina pencegahan DBD.</p><p>Amir : Tah muhun sae pamadegan ti Cepi teh, kanggo urang tiasa yakin usulan urang sadayana teh tiasa dilaksanakeun.</p><p>Budi : Muhun, supados usulan urang lengkep, teu aya nu kalangkung, cobi punten Lia kumaha tiasa disebatkeun kasimpulan sawala urang teh?.</p><p>Lia : Mangga (terus Lia maca eta kasimpulan sawala).</p><p>Bayu : Muhun atuh hatur nuhun ka sadyana anu tos tiasa urun rembug dina ieu sawala, janten urang ayeuna mah parantos yakin kana usulan anu bade diajengkeun ka kepala sakola</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-dengan-teman%e2%80%8b">
+                            39. contoh paguneman dengan teman​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>MIDAMEL PR BAHASA SUNDA SASARENGAN</p><p>Ayu : “Mar, dinten énjing pan aya PR basa sunda disakolaan, kumaha atos didamelan teu acan?”</p><p></p><p>Mari : “PR..? PR anu mana yu, émang halaman sabaraha PR-na téh?”</p><p>Ayu : “Éta anu halaman 12 téa, maenya hilap mar? Kumaha atos didamelan teu acan PR-na téh?”</p><p>Mari : “Aih enya! Abdi hilap euy.. Muhun sami yu, abdi ogé teu acan midamelan PR-na euy.”</p><p>Ayu : “Aduh kumaha ieu téh? Mangkaningan énjing aya pangajarana deuih disakolaan?”</p><p>Mari : “Nya.. Leres, jabi ogé abdi tacan ngartos da hésé pisan PR-na téh, kumaha atuh nya?”</p><p>Ayu : “Kie wéh atuh, engkin siang sa’atos uwih sakola, urang midamel PR éta sasarengan di bumi abdi, kumaha mar?”</p><p>Mari : “Nah, hayu! Tapi engkin rada sontenan wae nya, abdi aya kaperyogian saurna kedah beberes dibumi heula, sareng emam, ganti acuk heula panginten nya?”</p><p>Ayu: “Nya atuh mun kitu mah, kumaha lamun tabuh setengah tilu ngadamel PR-na, tiasa teu?</p><p>Mari : “Nya, Tiasa.”</p><p>Ayu : “Muhun atuh..”</p><p>Mari : “Engkin siapkeun waé cemilana, pokona mah kaluarkeun kabeh sadayana nu aya dibumi, ulah isin-isin?.. Hehee!</p><p>Ayu : ” Hehee.. Euy bisa waé, beres deuh pokona mah.. Hehee!”</p><p>Mari : “Nya, dugi tiasa patepang deui engkin énjing yu..”</p><p>Ayu : “Nya..”</p><p><strong>Jawaban:</strong></p><p>tolong menolong tidak perhitungan terhadap teman</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-paguneman-narkotika">
+                            40. Contoh paguneman narkotika</h2><br />
+                        ditelan,dosedot gasnya,dihisap seperti merokok,di dioleskan di atas kulit,dan disuntikan.        "semoga membantu"<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/nsHscXOo60c?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_daerah</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pertanyaan-tentang-jaringan-ikat/">Pertanyaan Tentang Jaringan Ikat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hewan-yang-dianggap-buas-dan-kurang-baik-untuk-diternak-adalah/">Hewan Yang Dianggap Buas Dan Kurang Baik Untuk Diternak Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dipunwastani-tegese/">Dipunwastani Tegese</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagian-yang-paling-menarik/">Bagian Yang Paling Menarik</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/log-8/">Log 8</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-singapura-menjadi-pelabuhan-transit-utama-di-asia/">Mengapa Singapura Menjadi Pelabuhan Transit Utama Di Asia</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/salah-satu-informasi-penting-yang-disampaikan-dalam-teks-diatas-adalah/">Salah Satu Informasi Penting Yang Disampaikan Dalam Teks Diatas Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ukuran-diameter-lingkaran-lapangan-tolak-peluru-adalah/">Ukuran Diameter Lingkaran Lapangan Tolak Peluru Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dalam-kwh-kilowatt-hour-indikatornya-terlihat-berupa/">Dalam Kwh Kilowatt Hour Indikatornya Terlihat Berupa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/masmuka/">Masmuka</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/suku-ke-15-dari-barisan-3-5-7-9-adalah/">Suku Ke 15 Dari Barisan 3 5 7 9 Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ciri-pernapasan-dada-pada-waktu-inspirasi-adalah/">Ciri Pernapasan Dada Pada Waktu Inspirasi Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/absorbsi-adalah/">Absorbsi Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jinising/">Jinising</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/keberadaan-wawasan-nusantara-secara-militer-diapit-oleh-dua-kekuatan-yaitu/">Keberadaan Wawasan Nusantara Secara Militer Diapit Oleh Dua Kekuatan Yaitu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/wru-artinya/">Wru Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1-per-8/">1 Per 8</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tabel-berikut-menunjukkan-kecepatan-empat-merek-printer/">Tabel Berikut Menunjukkan Kecepatan Empat Merek Printer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebuah-koin-dilempar-sekali-peluang-muncul-angka-adalah/">Sebuah Koin Dilempar Sekali Peluang Muncul Angka Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/about-artinya/">About Artinya</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

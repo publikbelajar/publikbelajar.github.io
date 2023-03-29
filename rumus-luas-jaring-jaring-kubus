@@ -1,0 +1,1293 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Rumus Luas Jaring Jaring Kubus - BELAJAR</title>
+    <meta name="description" content="Rumus Luas Jaring Jaring Kubus, , , , , , , 0, Rumus Luas dan Volume Kubus - YouTube, www.youtube.com, 1280 x 720, jpeg, , 20, rumus-luas-jaring-jaring-kubus, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Rumus Luas Jaring Jaring Kubus - BELAJAR" />
+    <meta property="og:description" content="Rumus Luas Jaring Jaring Kubus, , , , , , , 0, Rumus Luas dan Volume Kubus - YouTube, www.youtube.com, 1280 x 720, jpeg, , 20, rumus-luas-jaring-jaring-kubus, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Rumus Luas Jaring Jaring Kubus - BELAJAR" />
+    <meta name="twitter:description" content="Rumus Luas Jaring Jaring Kubus, , , , , , , 0, Rumus Luas dan Volume Kubus - YouTube, www.youtube.com, 1280 x 720, jpeg, , 20, rumus-luas-jaring-jaring-kubus, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Rumus Luas Jaring Jaring Kubus</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">08zakkip92dw0</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Rumus+Luas+Jaring+Jaring+Kubus" alt="Rumus Luas Jaring Jaring Kubus">
+                    </div>
+                    <p></p>
+                    <p>rumus luas jaring jaring kubus</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-jaring-jaring-kubus">1.
+                                            rumus luas jaring jaring kubus</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimanakah-rumus-luas-jaring-jaring-kubus%e2%80%8b">2.
+                                            bagaimanakah rumus luas jaring jaring kubus​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-jaring-jaring-kubus%e2%80%8b">3.
+                                            rumus luas jaring jaring kubus​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-berbentuk-bangun-apakah-jaring-jaring-kubus-dan-balok2-apakah-yang-dimaksud-dengan-bangun-kubusbalokprisma-dan-limas3-tuliskan-rumus-luas-permukaan-kubusbalokprisma-dan-limas-beserta-keteran">4.
+                                            1.berbentuk bangun apakah jaring jaring kubus dan balok?
+2.Apakah yang dimaksud dengan bangun kubus,balok,prisma dan limas?
+3.Tuliskan rumus luas permukaan kubus,balok,prisma dan limas beserta keterangannya!
+4.Tuliskan rumus volume bangun ruang sisi datar dilengkapi dengan keterangannya!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bangunan-ruang-jaring-jaring-kubus-rumus-luas-bangunan-ruang">5.
+                                            Bangunan ruang jaring jaring kubus rumus luas bangunan ruang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-rumus-luas-jaring-jaring-balok-dan-kubus-%e2%80%8b">6.
+                                            apa rumus luas jaring jaring balok dan kubus.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#16-sebuah-balok-memiliki-panjang-28-cm-lebar-14-cm-dan-tingginya-12-cm-volume-balok-tersebut-adalah-cma-4-700c-4-704b-4-702d-4-70617-volume-suatu-balok-dengan-panjang-17-cm-lebar-11-cm">7.
+                                            16. Sebuah balok memiliki panjang 28 cm, lebar 14 cm, dan tingginya 12 cm.Volume balok tersebut adalah .... cma. 4.700C. 4.704b. 4.702d. 4.70617. Volume suatu balok dengan panjang 17 cm, lebar 11 cm, dan tinggi 8 adalahcma. 1.496C. 1.502b. 1.498d. 1.51618. Sebuah jaring-jaring kubus memiliki luas 54 cm? Jika jaring-jaring tersebutdibuat sebuah kubus, panjang rusuk kubus tersebut adalaha. 9b. 3d. 1219. Jika luas alas sebuah kubus 169 cm², maka volumenya adalah ....a. 28.561C. 2.028b. 1.014d. 2.19720. Rumus mencari volume kubus adalaha. SXSc. pxlxtb. SXSXSd. 2. (p x! + p xt + 1 xt)C. 6jawab dengan cepat kak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-jaring-jaring-kubus">8.
+                                            Rumus luas jaring-jaring kubus</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#soal-yg-harus-di-cari-soal-balok-kubus-prisma-dan-limas%e2%86%92-cari-jaring-jaring%e2%86%92-cari-rumus-luas-permukaan%e2%86%92-cari-rumus-volume%e2%86%92-dan-contoh-lp-dan-volumenote-%e2%86%92">9.
+                                            Soal yg harus di Cari Soal !!"balok, kubus, prisma dan Limas"→ Cari jaring-jaring→ Cari rumus luas permukaan→ Cari rumus volume→ Dan contoh LP dan Volumenote :→ no ngasal→ jawaban harus DETAIL→ wajib pakai pembahasan→ untuk jaring-jaring tersebut minimal 1-3 saja→ untuk soal LP dan V tersebut minimal 1-2 saja#MasterBrainlyDragon ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-panjang-rusuk-kubus-rumus-panjang-rusuk-kubus-jika-diketahui-jaring-jaring-kubus-memiliki-luas-384-cm-bujur-sangkar-%e2%80%8b">10.
+                                            rumus panjang rusuk kubus rumus panjang rusuk kubus jika diketahui jaring-jaring kubus memiliki luas 384 cm bujur sangkar ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gambar-kubus-sebutkan-ciri%c2%b2-nya-gambar-jaring%c2%b2-kubus-temukan-rumus-luas-permukaan-kubus-dan-volum-kubus-poin-gede">11.
+                                            Gambar Kubus
+ Sebutkan ciri² nya. 
+ Gambar jaring² kubus
+ Temukan rumus luas 
+ permukaan Kubus dan 
+ Volum kubus. 
+Poin gede.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-jaring-jaring-kubus-yang-benar-adalah%e2%80%8b">12.
+                                            rumus luas jaring jaring kubus yang benar adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#luas-jaring-jaring-kubustolong-jelaskan-rumusnya%e2%80%8b">13.
+                                            luas jaring jaring kubustolong jelaskan rumusnya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-benar-yntuk-menentukan-luas-jaring-jaring-kubus">14.
+                                            Rumus benar yntuk menentukan luas jaring-jaring kubus</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#luas-persegi-pada-jaring-jaring-kubus-adalah-1-536-cm%c2%b2-volume-kubus-tersebut-adalah-cm%c2%b3mohon-jawab-dengan-rumus-%e2%80%8b">15.
+                                            luas persegi pada jaring-jaring kubus adalah 1.536 cm². volume kubus tersebut adalah...cm³mohon jawab dengan rumus ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#isilah-titik-titik-di-bawah-ini-dengan-jawaban-yang-tepat1-akar-pangkat-tiga-dari-10-648-2-akar-pangkat-tiga-dari-3-375-adalah-3-rumus-untuk-menghitung-luas-permukaan-sebuah-balok-adalah">16.
+                                            Isilah titik-titik di bawah ini dengan jawaban yang tepat!1. Akar pangkat tiga dari 10.648 =2. Akar pangkat tiga dari 3.375 adalah ....3. Rumus untuk menghitung luas permukaan sebuah balok adalah ....4. Jumlah jaring-jaring kubus yang dapat dibuat ada..... model.5. Luas permukaan sebuah kubus 864 cm2, maka rusuknya adalah ....6. Segala keterangan atau informasi yang dapat memberikan gambaran tentang suatukeadaan disebut ....7. Salah satu contoh pengumpulan data dengan pengukuran langsung adalah ....8. Sebuah bak mandi berbentuk kubus dengan panjang rusuk 12 dm. bak tersebut berisi air 1000 dm. jika diisi sampai penuh, berapa dm lagi air yang di butuhkan ?9. Bagus memiliki sebuah kotak mainan berbentuk balok. kotak tersebut memiliki ukuran panjang 12 dm, tinggi 5 dm, dan volume 360 dm. berapakah lebar kotak mainan tersebut ?makasih banyak ya ka​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-berbentuk-bangun-apakah-jaring-jaring-kubus-dan-balok2-apakah-yang-dimaksud-dengan-bangun-kubus-balok-prisma-danlimas3-tuliskan-rumus-luas-permukaan-kubus-balok-prisma-dan-limasdilengkapi">17.
+                                            1. Berbentuk bangun apakah jaring-jaring kubus dan balok?2. Apakah yang dimaksud dengan bangun kubus, balok, prisma, danlimas?3. Tuliskan rumus luas permukaan kubus, balok, prisma, dan limasdilengkapi dengan keterangannya.4. Tuliskan rumus volume bangun ruang sisi datar dilengkapi denganketerangannya.5. Bagaimana hubungan antara diagonal ruang, diagonal bidang, danbidang diagonal?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-perhatikan-gambar-di-bawah-ini-yang-bukan-merupakan-jaring-jaring-kubus-adalah-gambar-a-i-b-ii-c-iii-d-iv3-rumus-volume-dan-luas-permukaan-kubus-adalah-a-v-p-x-l-x-t">18.
+                                            2. perhatikan gambar di bawah ini !yang bukan merupakan jaring jaring kubus adalah gambar  . . .a. ( I )b. ( II )c. ( III )d. (IV)3. rumus volume dan luas permukaan kubus adalah . . .a. V = p x l x t , L = p x lb. V = s x s , L = 6 x p x lc. V = s x s x s , L = 6 x s xsd. V = s x s x s , L = 12 x s x s​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebuah-kubus-dengan-panjang-sisi-4-cm-berapakah-luas-jaring-jaring-kubus-tersebut-%e2%80%a6-a-54-cm2b-30-cm2c-96-cm2d-14-cm2yang-termasuk-rumus-luas-jaring-jaring-kubus-adalah-%e2%80%a6-a-p">19.
+                                            Sebuah kubus dengan panjang sisi 4 cm. Berapakah luas jaring-jaring kubus tersebut …. *a. 54 cm2b. 30 cm2c. 96 cm2d. 14 cm2Yang termasuk rumus luas jaring-jaring kubus adalah …. *a. p x l x tb. ½ x alasc. 2(pl + pt + lt)d. 6s2​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#7-berdasarkan-jawaban-nomor-1-dan-2-buatlah-kesimpulan-tentang-rumus-luaspermukaan-kubusjawabanluas-permukaan-kubus-luas-jaring-jaringnya-luas-persegi-1-luas-persegi-2-luas-persegi-6jadi-luas">20.
+                                            7. Berdasarkan jawaban nomor 1 dan 2, buatlah kesimpulan tentang rumus luaspermukaan kubusJawabanLuas Permukaan Kubus= Luas jaring-jaringnya- Luas persegi 1 + Luas persegi 2 ++ Luas persegi 6Jadi Luas Permukaan kubus adalah L = ...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#luas-persegi-pada-jaring-jaring-kubus-adalah-1536-cm2-volume-kubus-tersebut-adalahminta-rumusnya-kak%e2%80%8b">21.
+                                            luas persegi pada jaring-jaring kubus adalah 1536 cm2 volume kubus tersebut adalahminta rumusnya kak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-benar-yntuk-menentukan-luas-jaring-jaring-kubus">22.
+                                            Rumus benar yntuk menentukan luas jaring-jaring kubus</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pasangan-yang-benar-antara-nama-bangun-ruangdan-jaring-jaring-bangun-ruangnyaadalahbernomor-a-i-dan-iic-iii-dan-ivb-ii-dan-iiid-i-dan-iv6-fajar-memotong-sebuah-bangun-ruang-seperti-padagambar">23.
+                                            Pasangan yang benar antara nama bangun ruangdan jaring-jaring bangun ruangnyaadalahbernomor ...A. I dan IIC. III dan IVB. II dan IIID. I dan IV6. Fajar memotong sebuah bangun ruang seperti padagambar!Nama bangun ruang yang terbentuksebelum dipotong Fajar adalah ....A. tabungC. kubusB. bolaD. kerucut7. Perhatikan gambar!30 cmJari-jari alas topi tersebut 10 cm. Luaspermukaan topi tanpa alas adalah...cm.A. 300 C. 942B. 314 D. 1.2568. Perhatikan gambar!PJaring-jaring tersebut diperoleh dari memotongbeberapa rusuk bangun ruang balok. Caramenentukan luas permukaan bangun ruang tersebutadalah....A. pxl+pxt + 1xtB. pxlxtC. 2 (pxl+pxt + 1xt)D. 2p x 21 x 2t9. Perhatikan gambar!+6 cm9 cm12 cmVolume bangun ruang tersebutadalah ...cm'.A. 648C. 234B. 324D. 2710. Perhatikan gambar!Panjang rusuk toples tersebut adalah 9cm. Luas permukaan toples adalah...cm'.A. 729 C. 386B. 486D. 8111. Perhatikan rumus!V = = Luas Alas xtRumus tersebut dapat menentukan volume bangunruang kecuali bangun ruang....A. KerucutC. prismaB. TabungD. balok​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-jika-luas-bangun-datar-jaring-jaring-persegi-adalah-1-728-cm%c2%b2-berapakah-luas-jaring-jaring-kubus-dan-kelilingnya-plissss-jawab-nanti-aku-kasih-poin-banyak-dan-nanti-aku-follow-balik-aku-jadi">24.
+                                            1.jika luas bangun datar jaring jaring persegi adalah 1.728 cm² berapakah luas jaring jaring kubus dan kelilingnya!!! plissss jawab nanti aku kasih poin banyak dan nanti aku follow balik aku jadiin jawaban tercerdas ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡#MENGGUNAKAN CARA JALAN #MENGGUNAKAN RUMUS #NO NGASAL #YANG BENER DISINI AKU AKAN KASIH TAU RUMUSNYA OOOOKE RUMUS : JARING JARING KUBUS 6 X S²RUMUS : KELILING KUBUS 12 X S MAKASIH ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#quiz-math-dah-1-apa-itu-jaring-jaring-2-rumus-luas-dan-volume-balok-dan-kubus-menit-ke-40-saya-kasih-40-dah-%e2%80%8b">25.
+                                            Quiz Math Dah....1.)  Apa Itu Jaring Jaring? 2.) Rumus Luas Dan Volume Balok Dan Kubus! Menit Ke 40.Saya Kasih 40 Dah...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-jaring-jaring-balok-berdasarkan-gambar-di-samping-yg-dilengkapi-dengan-titik-sudutnya-2-luas-alas-sebuah-kubus-sama-dengan-luas-alas-sebuah-balok-jika-tinggi-balok-12-cm-dan-volume-6-345">26.
+                                            Buatlah jaring jaring balok berdasarkan gambar di samping yg dilengkapi dengan titik sudutnya !2.  luas alas sebuah kubus sama dengan luas alas sebuah balok . jika tinggi balok 12 cm dan volume 6.345 cm³ . Tentukan volume kubus tersebut ! 3. perhatian gambar di atas terlampir foto ! untuk soal no 1 dan 2. ‼️AB adalah panjang balok.  BC adalah lebar balok . AE adalah tinggi balok . 1. SOAL = Berikut merupakan tinggi balok ABCD EFGH  adalah A. BGB. BFC. GHD. DG2. pasangan sisi samping kanan dan kiri balok ABCD EFGH adalah A. ABCD dan EFGHB. ADEH dan BCFGC. ABEF dab CDGHD. ABCD dan BCFGTolong di jawab Semua pertanyaan diatas dengan penjelasan dan rumus nya‼️• Dilarang Menjawab 1 soal• No copas ngasal ( Laporan ) • No nyolong poin• Benar aku di jadikan jawaban tercerdas dan di follow ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-contoh-soal-1-jaring%c2%b2-balok-kubus-prisma-segitiga-limas-segiempat-2-rumus-balok-kubus-prisma-segitiga-limas-segiempat-volume-luas">27.
+                                            buatlah contoh soal 1. jaring² balok , kubus , prisma segitiga , limas segiempat 2. rumus : balok kubus prisma segitiga limas segiempat volume : "       "      "      " Luas :    "      "      "    "keliling : "      "    "   " plis tlong ini di kumpulkan hri rabu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#volume-contoh-2tentukan-volume-kubus-yang-memiliki-panjang-sisi-7-cmjawabvolume-syvolume-74-cmvolume-313cm2tugas-isilah-titik-titik-pada-pertanyaan-di-bawah-ini-dengan-benar1-kubus-adala">28.
+                                            Volume =Contoh 2:Tentukan volume kubus yang memiliki panjang sisi = 7 cmJawabVolume = syVolume = 74 cmVolume = 313cm2Tugas : Isilah titik-titik pada pertanyaan di bawah ini dengan benar!1. Kubus adalah bangun ruang yang sisi-sisinya berbentukGambar di samping yang bukan merupakan jarring-jaring Kubus adalalgambar no2.CXXcm3. Rumus volume dan luas permukaan kubus adalah4. Diketahui rusuk kubus panjangnya 28 cm. Volume kubus tersebut adalah5. Sebuah kubus volumenya 6.859 cm Panjang rusuknya adalah ..... cm​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#math-kelas-5volume-sebuah-balok-sama-dengan-kubus-yaitu-4-096-cm%c2%b3-panjang-balok-tersebut-tiga-kali-panjang-sisi-kubus-sedangkan-tinggi-dan-lebarnya-memiliki-panjang-yang-sama-luas-jaring-jari">29.
+                                            math, kelas 5volume sebuah balok sama dengan kubus yaitu 4.096 cm³, panjang Balok tersebut tiga kali panjang sisi kubus, sedangkan tinggi dan lebarnya memiliki panjang yang sama. luas jaring jaring balok adalah ....pls no ngasal:&lt;pake rumus yah klo g pake aing report:&lt;​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-jaring-jaring-kubus-yang-benar-adalah">30.
+                                            Rumus luas jaring-jaring kubus yang benar adalah....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jaring-jaring-kubus-rumus-luas-dan-volumenya">31.
+                                            Jaring-jaring kubus rumus luas dan volumenya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mari-menjawab-%c2%a0soal-soal-di-bawah-ini-dengan-benar1-%c2%a0%c2%a0%c2%a0%c2%a0-rumus-mencari-luas-jarring-jaring-kubus-adalah-%e2%80%a6-a-%c2%a0%c2%a0%c2%a0-l-s-x-s%c2%a0%c2%a0%c2%a0%c2%a0">32.
+                                            Mari menjawab  soal-soal di bawah ini dengan benar!1.     Rumus mencari luas jarring-jaring Kubus adalah … .A.    L = S x S                               B. L = 4 x S                               C. L = 6 (S x S)                                                                 D. L = S x S x S2.     Sebuah Balok berukuran Panjang 5 cm, Lebar 4 cm dan Tinggi 3 cm. Ukuran balok tersebut diperpanjang 3 kali. Ukuran Panjang, Lebar dan Tinggi Balok sekarang adalah  … .A.  15, 12, 9                                      B. 20, 16, 12                                     C. 25, 20, 15                                                                                                                       D. 30, 24, 183.     Sebuah balok berukuran Panjang 10 cm, Lebar 8 cm, dan Tinggi 5 cm. Luas jarring-jaring balok itu adalah … cm2.A.    170                                B. 340                               C. 400                                                                                                   D. 8004.     Berikut ini yang yang membedakan Balok dan Kubus adalah … .A.  banyak sisinya                                       B. besar sudutnya                                     C. panjang rusuknya                                     D. banyak titik sudutnya5.     Bangun datar apabila bangun-bangun datar penyusunnya dihubungkan satu sama lain dengan benar membentuk bangun kubus disebut jaring-jaring … .A. balok                                           B. prisma                                           C. bangun ruang                                                                                          D. kubus6.     Jika salah satu sisi kubus mempuyai luas 100 cm2 , maka luas jarring-jaring kubus tersebut adalah … cm2.A. 400                                           B. 600                                           C. 800                                                                                                                                         D. 1.0007.     Rumus mencari luas jaring-jaring Balok adalah L = … .8.     Sebuah Kubus mempunyai ukuran Sisi 20 cm. Luas jaring-jaringnya adalah  … cm29.     Nama lain Luas Jaring-Jaring adalah … .10.  Sebuah Balok mempunyai ukuran Panjang 15 cm, Lebar, 10 cm dan Tinggi 25 cm. Jika setiap rusuk Balok tersebut diperpanjang 4 kali lipat. Hitunglah Luas Peemukaan Balok setelah diperpanjang!Jawab :___________________________________________________________Tolong jawaban nya soal nya mau dikumpulin sekarang​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-suatu-kubus-mempunyai-volume-729-cm%c2%b3-luas-jaring-jaring-kubus-itu-adalah-cm%c2%b2-tolong-dijawab-ya-soalnya-besok-mau-dikumpulin-semoga-jelas-ya-makasih">33.
+                                            Rumus suatu kubus mempunyai volume 729 cm³. Luas jaring jaring kubus itu adalah ... cm² Tolong dijawab ya soalnya besok mau dikumpulin, semoga jelas ya makasih..</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-cara-mencari-luas-permukaan-kubus-dengan-cara-melihat-jaring-jaringnya-dan-kesimpulan-berupa-rumus-luas-permukaan-kubus">34.
+                                            Bagaimana cara mencari luas permukaan kubus dengan cara melihat jaring-jaringnya, dan kesimpulan berupa rumus luas permukaan kubus</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-luas-kertas-yang-dibutuhkan-untuk-membuat-jaring-jaring-kubus-dengan-panjang-rusuk-4cm-adalah-%e2%80%a6-cm2-2-luas-alas-kubus-adalah-64-cm2-luas-permukaan-kubus-yaitu-%e2%80%a6-3-luas-kertas-yang">35.
+                                            1.Luas kertas yang dibutuhkan untuk membuat jaring-jaring kubus dengan panjang rusuk 4cm adalah … cm2. 2.Luas alas kubus adalah 64 cm2. Luas permukaan kubus yaitu … 3.Luas kertas yang digunakan untuk membuat jaring-jaring sebuah bangun ruang sama luas dengan ….4.Rumus luas permukaan balok adalah ….5.Luas permukaan sebuah balok 280 cm2. Jika panjang balok 10 cm dan tinggi balok 5 cm, maka lebar balok tersebut adalah ….Cm.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-mencari-luas-permukaan-kubus-dengan-melihat-jaring%c2%b2-kubus-yang-kamu-buattulislah-kesimpulan-berupa-rumus-luas-permukaan-kubus%e2%80%8b">36.
+                                            Bagaimana mencari luas permukaan kubus dengan melihat jaring² kubus yang kamu buat!Tulislah kesimpulan berupa rumus luas permukaan kubus​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-jaring-jaring-kubus-adalahsd-kls5">37.
+                                            Rumus luas jaring-jaring kubus adalah
+Sd kls5</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-untuk-mencaripanjang-lebar-tinggi-panjang-rusuk-luas-jaring-jaring-dan-volume-kubus-dan-balok%e2%80%8b">38.
+                                            rumus untuk mencari:panjang, lebar, tinggi, panjang rusuk, luas jaring jaring dan volume *kubus dan balok*​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-rumus-luas-bangun-ruang-kubus-ada-berapa-sisi-bangun-tesebut-ada-berapa-rusuk-di-bangun-tersebut-dan-buatkan-jaring-jaringnya-minta-tolong-ya-buatkan-juga-jaring-jaringnya-ya-makasih">39.
+                                            Tuliskan rumus luas bangun ruang kubus, ada berapa sisi bangun tesebut, ada berapa rusuk di bangun tersebut, dan buatkan jaring- jaringnya Minta tolong ya buatkan juga jaring-jaringnya ya makasih....​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebuah-kubus-yang-panjang-rumusnya-12-cm-luas-jaring-jaring-kubusnya-adalah-tolong-di-jawab-soalnya-butuh-bangett%e2%80%8b">40.
+                                            sebuah kubus yang panjang rumusnya 12 cm luas jaring-jaring kubusnya adalah...tolong di jawab soalnya butuh bangett​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="rumus-luas-jaring-jaring-kubus">
+                            1. rumus luas jaring jaring kubus</h2><br />
+                        <p>Rumus luas jaring jaring <strong>kubus </strong>...</p><p><strong>Kubus </strong>adalah bangun ruang yang semua rusuknya sama panjang, dan semua sisinya sama luas dan bentuknya persegi.</p><p><strong>Rumus-rumus pada kubus</strong></p>Volume = rusuk x rusuk x rusuk<p>         Jika rusuk = s, dan Volume = V</p><p>         Maka V = s x s x s</p><p>         s = ³√V</p>Luas permukaan kubus = 6 x s²<p></p>Pembahasan<p><strong>Ditanya</strong>:</p><p>Rumus Luas jaring-jaring kubus</p><p><strong>Jawab</strong>:</p><p>Jaring-jaring kubus adalah bangun datar dari bangun ruang yang dibuka menurut rusuknya.</p><p>Luas jaring-jaring kubus = luas permukaan kubus</p><p>                                         = 6 x S²</p><p></p><p><strong>Jadi Luas jaring-jaring kubus adalah 6S².</strong></p><p></p>Pelajari Lebih Lanjut<p>Bab kubus dapat disimak juga di</p>brainly.co.id/tugas/14685491brainly.co.id/tugas/5844301brainly.co.id/tugas/3661697brainly.co.id/tugas/5645262brainly.co.id/tugas/14756185=========================Detail Jawaban<p><strong>Kelas </strong>: 5</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Volume kubus dan balok</p><p><strong>Kode </strong>: 5.2.4</p><p></p><p><strong>Kata Kunci </strong>: Volume kubus, Panjang rusuk kubus, Luas kubus, Luas jaring-jaring kubus</p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bagaimanakah-rumus-luas-jaring-jaring-kubus%e2%80%8b">
+                            2. bagaimanakah rumus luas jaring jaring kubus​</h2><br />
+                        <p>contoh: luas sisi sama dengan rusuk dikali rusuk dikali 6 </p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-jaring-jaring-kubus%e2%80%8b">
+                            3. rumus luas jaring jaring kubus​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>6S²</p><p>Luas jaring-jaring kubus adalah 6S². …</p><p>SEMOGA BERMANFAAT. … シ</p><p>6s²</p><p></p><p></p><p>SEMOGA MEMBANTU YA. </p><p>TERIMAKASIH</p><br />
+                                            <h2 class="ez-toc-section" id="1-berbentuk-bangun-apakah-jaring-jaring-kubus-dan-balok2-apakah-yang-dimaksud-dengan-bangun-kubusbalokprisma-dan-limas3-tuliskan-rumus-luas-permukaan-kubusbalokprisma-dan-limas-beserta-keteran">
+                            4. 1.berbentuk bangun apakah jaring jaring kubus dan balok?
+2.Apakah yang dimaksud dengan bangun kubus,balok,prisma dan limas?
+3.Tuliskan rumus luas permukaan kubus,balok,prisma dan limas beserta keterangannya!
+4.Tuliskan rumus volume bangun ruang sisi datar dilengkapi dengan keterangannya!</h2><br />
+                        1.kubus =persegi <br />  balok=persegi panjang<br />2.kubus=bangun ruang 3 dimensi yg dibatasi oleh 6 bidang sisi yg kongruen yg berbentuk bujur sangkar. <br />  balok =bangun ruang 3 dimensi yg dibentuk 3 pasang persegi/persegi panjang ,dengan paling tidak 1 pasang diantaranya ukurannya berbeda.<br /> prisma =bangun ruang 3 dimensi yg dibatasi oleh Alas dan tutup identik berbentuk segi-n dan sisi ² tegak berbentuk persegi atau persegi panjang. <br /> limas =bangun yg dibatasi oleh sebuah segi-n sebagai alas dan n 2 buah bidang berbentuk segitiga Yg bertemu pada sebuah titik puncak. <br />3.luas p. kubus =6 x luas persegi <br />   luas p. balok =2pl+2pt+2lt<br />   luas p. prisma = (2xluas alas) +(keliling alas x tinggi prisma. <br />  luas p limas =luas alas +jumlah luas semua segitiga tegak. <br />4.v.kubus= sxsxs=s³<br />   v. balok=pxlxt<br /><br />
+                                            <h2 class="ez-toc-section" id="bangunan-ruang-jaring-jaring-kubus-rumus-luas-bangunan-ruang">
+                            5. Bangunan ruang jaring jaring kubus rumus luas bangunan ruang</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Jaring-jaring kubus adalah bangun datar dari bangun ruang yang dibuka menurut rusuknya. Jadi Luas jaring-jaring kubus adalah 6S².</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf klo salah ya...</p>L = 6 x s^2<p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>♤ Bangun Ruang<p></p>Bangunan ruang jaring jaring kubus rumus luas bangunan ruang<p></p><p><strong>Rumus luas bangun ruan</strong><strong>g</strong><strong> kubus</strong></p><p><strong>L = 6 x s^2</strong></p><p></p><p><strong>Keterangan</strong></p><p>  L = Luas</p><p>  s = sisi</p><p>^2 = pangkat 2</p><br />
+                                            <h2 class="ez-toc-section" id="apa-rumus-luas-jaring-jaring-balok-dan-kubus-%e2%80%8b">
+                            6. apa rumus luas jaring jaring balok dan kubus.​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>Luas = 2 (pxl + pxt + lxt)</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>Rumus Luas Jaring-jaring Balok <br /><br />2 × ( Panjang × Lebar + Panjang Kali Tinggi + Lebar X Tinggi )<br /><br /><br />Rumus Luas Jaring-jaring Kubus<br /><br />6 × Rusuk × Rusuk <br /><br />Atau<br /><br />6 × R²<br />
+                                            <h2 class="ez-toc-section" id="16-sebuah-balok-memiliki-panjang-28-cm-lebar-14-cm-dan-tingginya-12-cm-volume-balok-tersebut-adalah-cma-4-700c-4-704b-4-702d-4-70617-volume-suatu-balok-dengan-panjang-17-cm-lebar-11-cm">
+                            7. 16. Sebuah balok memiliki panjang 28 cm, lebar 14 cm, dan tingginya 12 cm.Volume balok tersebut adalah .... cma. 4.700C. 4.704b. 4.702d. 4.70617. Volume suatu balok dengan panjang 17 cm, lebar 11 cm, dan tinggi 8 adalahcma. 1.496C. 1.502b. 1.498d. 1.51618. Sebuah jaring-jaring kubus memiliki luas 54 cm? Jika jaring-jaring tersebutdibuat sebuah kubus, panjang rusuk kubus tersebut adalaha. 9b. 3d. 1219. Jika luas alas sebuah kubus 169 cm², maka volumenya adalah ....a. 28.561C. 2.028b. 1.014d. 2.19720. Rumus mencari volume kubus adalaha. SXSc. pxlxtb. SXSXSd. 2. (p x! + p xt + 1 xt)C. 6jawab dengan cepat kak​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>jawaban terlampir</p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-jaring-jaring-kubus">
+                            8. Rumus luas jaring-jaring kubus</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>sisi X sisi X sisi</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>yaa maaf klau salah</p><br />
+                                            <h2 class="ez-toc-section" id="soal-yg-harus-di-cari-soal-balok-kubus-prisma-dan-limas%e2%86%92-cari-jaring-jaring%e2%86%92-cari-rumus-luas-permukaan%e2%86%92-cari-rumus-volume%e2%86%92-dan-contoh-lp-dan-volumenote-%e2%86%92">
+                            9. Soal yg harus di Cari Soal !!"balok, kubus, prisma dan Limas"→ Cari jaring-jaring→ Cari rumus luas permukaan→ Cari rumus volume→ Dan contoh LP dan Volumenote :→ no ngasal→ jawaban harus DETAIL→ wajib pakai pembahasan→ untuk jaring-jaring tersebut minimal 1-3 saja→ untuk soal LP dan V tersebut minimal 1-2 saja#MasterBrainlyDragon ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>→ Cari jaring-jaring</p><p><strong>Jawaban terlampir di dalam foto/gambar.</strong></p><p><strong>Penjelasan</strong><strong> </strong><strong>:</strong></p><p>Pengertian jaring jaring. jaring–jaring bangun ruang merupakan pembelahan sebuah bangun ruang yang berkaitan dan jika di gabungkan akan menjadi sebuah bangun ruang tertentu. terdapat berbagai macam bangun ruang, antara lain yaitu kubus, balok, prisma segitiga, tabung, kerucut.</p><p></p><p>→ Cari rumus luas permukaan</p><p><strong>Luas permukaan kubus </strong></p><p>Lp = 6s²</p><p>dengan</p><p>s = rusuk kubus</p><p></p><p><strong>Luas permukaan balok </strong></p><p>Lp = 2 × (pl + pt + lt)</p><p>dengan</p><p>p = panjang balok</p><p>l = lebar balok</p><p>t = tinggi balok</p><p></p><p><strong>Luas permukaan prisma segitiga</strong></p><p>Lp = 2 × luas alas + keliling alas × tinggi</p><p>Lp = 2 × luas segitiga + keliling segitiga × tinggi</p><p>dengan</p><p>Luas segitiga = ½ × alas × tinggi</p><p>Keliling segitiga = sisi + sisi + sisi</p><p></p><p><strong>Luas permukaan limas segiempat</strong></p><p>Lp = luas alas + jumlah luas sisi tegak</p><p>Lp = luas segiempat + jumlah luas segitiga</p><p></p><p>Jika segiempat tersebut persegi, maka luas permukaan limas persegi adalah</p><p>Lp = luas persegi + 4 × luas segitiga</p><p></p><p>→ Cari rumus volume</p><p><strong>Volume</strong><strong> </strong><strong>balok</strong></p><p>V = p x l x t</p><p></p><p><strong>Volume</strong><strong> </strong><strong>kubus</strong></p><p>V = s x s x s</p><p></p><p><strong>Volume</strong><strong> </strong><strong>prisma</strong><strong> </strong><strong>segitiga</strong><strong> </strong></p><p>V = (½ x alas segitiga x tinggi segitiga) x tinggi prisma</p><p></p><p><strong>Volume</strong><strong> </strong><strong>limas</strong></p><p>V = (⅓) x luas alas x tinggi</p><p></p><p>→ Dan contoh LP dan Volume</p><p><strong>Contoh</strong><strong> </strong><strong>soal</strong><strong> </strong><strong>LP</strong><strong> </strong><strong>balok</strong></p><p>Sebuah balok mempunyai panjang 8 cm, lebar 3 cm, dan tinggi 4 cm. Hitunglah luas permukaannya !</p><p>Jawab:</p><p>= 2 × (8 × 3) + (8 × 4) + (3 × 4)</p><p>= 2 × (24 + 32 + 12) </p><p>= 2 × 68</p><p>= 136 cm²</p><p></p><p><strong>Contoh soal volume balok </strong></p><p>Diketahui sebuah balok mempunyai panjang 18 cm, lebar 12 cm dan tinggi 24 cm. Hitunglah volume balok !</p><p>Jawab:</p><p>V = p × l × t</p><p>V = 18 × 12 × 24</p><p>V = 5.184 cm³</p><p></p><p><strong>Contoh</strong><strong> </strong><strong>soal</strong><strong> </strong><strong>volume</strong><strong> </strong><strong>kubus</strong><strong> </strong></p><p>Sebuah Kubus Memiliki Panjang Sisi 10 cm, Hitunglah Volumenya !</p><p>Jawab:</p><p>V = S³ ( Sisi × Sisi × Sisi )</p><p>V = 10 × 10 × 10</p><p>V = 100 × 10</p><p>V = 1.000 cm³</p><p></p><p><strong>Contoh</strong><strong> </strong><strong>soal</strong><strong> </strong><strong>LP</strong><strong> </strong><strong>prisma</strong><strong> </strong><strong>segitiga</strong><strong> </strong></p><p>Iwan mendapatkan sebuah barang berbentuk prisma segitiga milik temannya. Namun, sebelum dikembalikan ia mencoba mengukur prisma tersebut. Alas sebuah prisma berbentuk segitiga siku siku dengan panjang sisi 8 cm , 15 cm , dan 17 cm. Jika tinggi prisma 25 cm , maka berapa luas permukaanya?</p><p>Jawab :</p><p>Lp = (2 × luas alas) + (keliling alas × tinggi)</p><p>Lp = 2 × (½ × 8 × 15) + ((8 + 15 + 17) × 20)</p><p>Lp = (2 × 60) + (40 × 25)</p><p>Lp = 120 + 1.000</p><p>Lp = 1.120 cm²</p><p></p><p><strong>Contoh</strong><strong> </strong><strong>soal</strong><strong> </strong><strong>volume</strong><strong> </strong><strong>prisma</strong><strong> </strong><strong>segitiga</strong></p><p>Eko ditugaskan mengukur salah satu bangun prisma segitiga di rumahnya. Setelah diukur, prisma memiliki panjang = 12 cm, lebar = 9 cm, dan tinggi = 15 cm. Hitunglah volume prisma tersebut!</p><p>Jawab:</p><p>V = ½ × p × l × t</p><p>V = ½ × 12 × 9 × 15</p><p>V = ½ × 1.620</p><p>V = 810 cm³</p><p></p><p><strong>Detil Jawaban</strong></p><p><strong>Mapel </strong><strong>:</strong><strong> </strong><strong>Matematika</strong><strong> </strong><strong>Kelas : VIII</strong></p><p><strong>Materi : Bangun ruang</strong></p><p><strong>Bab : 8</strong></p><p><strong>Kode Kategorisasi : 8.2.8</strong></p><p><strong>#TingkatkanPrestasimu</strong></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-panjang-rusuk-kubus-rumus-panjang-rusuk-kubus-jika-diketahui-jaring-jaring-kubus-memiliki-luas-384-cm-bujur-sangkar-%e2%80%8b">
+                            10. rumus panjang rusuk kubus rumus panjang rusuk kubus jika diketahui jaring-jaring kubus memiliki luas 384 cm bujur sangkar ​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Kubus memiliki 6 sisi</p><p>Persegi = bujur sangkar </p><p></p><p>Luas permukaan kubus = 6 x Luas persegi </p><p>                                384 = 6 x L persegi </p><p>                       L persegi = 384 : 6 </p><p>                       L persegi = 64 cm² </p><p></p><p>L persegi = rusuk x rusuk</p><p>L persegi = rusuk² </p><p>           64 = rusuk² </p><p>      rusuk = √64 </p><p>      rusuk = 8 </p><p>Jadi, panjang rusuk kubus adalah 8 cm</p><br />
+                                            <h2 class="ez-toc-section" id="gambar-kubus-sebutkan-ciri%c2%b2-nya-gambar-jaring%c2%b2-kubus-temukan-rumus-luas-permukaan-kubus-dan-volum-kubus-poin-gede">
+                            11. Gambar Kubus
+ Sebutkan ciri² nya. 
+ Gambar jaring² kubus
+ Temukan rumus luas 
+ permukaan Kubus dan 
+ Volum kubus. 
+Poin gede.</h2><br />
+                        <p><strong>Jawaban:</strong></p>CIRI CIRI KUBUS<p></p><p>Jumlah rusuk ada 12.</p><p>Jumlah titik sudut ada 8.</p><p>Sisi kubus berbentuk persegi (bujur sangkar)</p><p>Jumlah sisi ada 6.</p><p>Semua sudutnya siku-siku.</p><p>Punya 12 diagonal sisi dengan ukuran sama panjang.</p><p>Punya 4 diagonal ruang dengan ukuran yang sama panjang.</p><p>Punya 6 bidang diagonal yang berbentuk persegi panjang.</p><p></p>RUMUS LUAS PERMUKAAN KUBUS<p>Luas permukaan kubus adalah jumlah luas seluruh sisi pada suatu kubus. Jumlah sisi kubus ada enam, maka rumus luas permukaan kubus adalah L = 6s2 dengan s adalah panjang sisi kubus.</p><p></p>RUMUS VOLUME KUBUS<p>Rumus volume kubus: V = s x s x s atau V = s³</p><p></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p>SEMOGA MEMBANTU<p></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-jaring-jaring-kubus-yang-benar-adalah%e2%80%8b">
+                            12. rumus luas jaring jaring kubus yang benar adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>6</strong><strong> </strong><strong>×</strong><strong> </strong><strong>S</strong><strong> </strong><strong>×</strong><strong> </strong><strong>S</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p>Semoga membantu!Maaf jika salah <p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>6 x s²</p><p>Karena kubus terdiri dari persegi</p><p>dan memiliki 6 persegi makanya jadi </p><p>6 x s²</p><br />
+                                            <h2 class="ez-toc-section" id="luas-jaring-jaring-kubustolong-jelaskan-rumusnya%e2%80%8b">
+                            13. luas jaring jaring kubustolong jelaskan rumusnya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>6s²</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>terimakasih, maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-benar-yntuk-menentukan-luas-jaring-jaring-kubus">
+                            14. Rumus benar yntuk menentukan luas jaring-jaring kubus</h2><br />
+                        <p><strong>Jawab:</strong></p><p>Luas jaring-jaring kubus = luas permukaan kubus</p><p>Luas permukaan kubus = 6 x s x s</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantu</p><strong>Penjelasan </strong><p>Luas jaring jaring bisa juga disebut sebagai luas permukaan</p><p>Luas permukaan Rumus nya = 6 x s x s atau 6 x s²</p><strong></strong><strong>Jawaban </strong><p>L juring juring = 6 x s x s atau 6 x s²</p><p></p>Semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="luas-persegi-pada-jaring-jaring-kubus-adalah-1-536-cm%c2%b2-volume-kubus-tersebut-adalah-cm%c2%b3mohon-jawab-dengan-rumus-%e2%80%8b">
+                            15. luas persegi pada jaring-jaring kubus adalah 1.536 cm². volume kubus tersebut adalah...cm³mohon jawab dengan rumus ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>4096 cm³</p><p><strong>P</strong><strong>e</strong><strong>n</strong><strong>j</strong><strong>e</strong><strong>l</strong><strong>a</strong><strong>s</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>d</strong><strong>e</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>l</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>k</strong><strong>a</strong><strong>h</strong><strong>-</strong><strong>l</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>k</strong><strong>a</strong><strong>h</strong><strong>:</strong><strong> </strong></p><p>L= 6 × r² </p><p>1536 cm²= 6 × r² </p><p>256 cm²= r² </p><p>r= 16 cm</p><p></p><p>V= r³ </p><p>V= (16 cm)³</p><p>V= 4096 cm³</p><br />
+                                            <h2 class="ez-toc-section" id="isilah-titik-titik-di-bawah-ini-dengan-jawaban-yang-tepat1-akar-pangkat-tiga-dari-10-648-2-akar-pangkat-tiga-dari-3-375-adalah-3-rumus-untuk-menghitung-luas-permukaan-sebuah-balok-adalah">
+                            16. Isilah titik-titik di bawah ini dengan jawaban yang tepat!1. Akar pangkat tiga dari 10.648 =2. Akar pangkat tiga dari 3.375 adalah ....3. Rumus untuk menghitung luas permukaan sebuah balok adalah ....4. Jumlah jaring-jaring kubus yang dapat dibuat ada..... model.5. Luas permukaan sebuah kubus 864 cm2, maka rusuknya adalah ....6. Segala keterangan atau informasi yang dapat memberikan gambaran tentang suatukeadaan disebut ....7. Salah satu contoh pengumpulan data dengan pengukuran langsung adalah ....8. Sebuah bak mandi berbentuk kubus dengan panjang rusuk 12 dm. bak tersebut berisi air 1000 dm. jika diisi sampai penuh, berapa dm lagi air yang di butuhkan ?9. Bagus memiliki sebuah kotak mainan berbentuk balok. kotak tersebut memiliki ukuran panjang 12 dm, tinggi 5 dm, dan volume 360 dm. berapakah lebar kotak mainan tersebut ?makasih banyak ya ka​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. 22</p><p>2. 15 yang lain ga tau maaf</p><p><strong>Jawaban:</strong></p><p>1 22</p><p>2 15</p><p>3 segi panjang </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalau salh</p><br />
+                                            <h2 class="ez-toc-section" id="1-berbentuk-bangun-apakah-jaring-jaring-kubus-dan-balok2-apakah-yang-dimaksud-dengan-bangun-kubus-balok-prisma-danlimas3-tuliskan-rumus-luas-permukaan-kubus-balok-prisma-dan-limasdilengkapi">
+                            17. 1. Berbentuk bangun apakah jaring-jaring kubus dan balok?2. Apakah yang dimaksud dengan bangun kubus, balok, prisma, danlimas?3. Tuliskan rumus luas permukaan kubus, balok, prisma, dan limasdilengkapi dengan keterangannya.4. Tuliskan rumus volume bangun ruang sisi datar dilengkapi denganketerangannya.5. Bagaimana hubungan antara diagonal ruang, diagonal bidang, danbidang diagonal?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Berbentuk bangun apakah jaring-jaring kubus dan balok?</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="2-perhatikan-gambar-di-bawah-ini-yang-bukan-merupakan-jaring-jaring-kubus-adalah-gambar-a-i-b-ii-c-iii-d-iv3-rumus-volume-dan-luas-permukaan-kubus-adalah-a-v-p-x-l-x-t">
+                            18. 2. perhatikan gambar di bawah ini !yang bukan merupakan jaring jaring kubus adalah gambar  . . .a. ( I )b. ( II )c. ( III )d. (IV)3. rumus volume dan luas permukaan kubus adalah . . .a. V = p x l x t , L = p x lb. V = s x s , L = 6 x p x lc. V = s x s x s , L = 6 x s xsd. V = s x s x s , L = 12 x s x s​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>2. <strong>yg gambar ijo</strong> (tulisannya gak keliatan sih)</p><p>3. <strong>C</strong></p><p><strong>_________________________________________________________
+</strong></p><p><strong>Semoga membantu
+</strong></p><p><strong>Terima kasih</strong></p><p></p><p><strong>Jawaban:</strong></p><p>2 =3</p><p>3=c</p><p>maaf ya kalo salah </p><br />
+                                            <h2 class="ez-toc-section" id="sebuah-kubus-dengan-panjang-sisi-4-cm-berapakah-luas-jaring-jaring-kubus-tersebut-%e2%80%a6-a-54-cm2b-30-cm2c-96-cm2d-14-cm2yang-termasuk-rumus-luas-jaring-jaring-kubus-adalah-%e2%80%a6-a-p">
+                            19. Sebuah kubus dengan panjang sisi 4 cm. Berapakah luas jaring-jaring kubus tersebut …. *a. 54 cm2b. 30 cm2c. 96 cm2d. 14 cm2Yang termasuk rumus luas jaring-jaring kubus adalah …. *a. p x l x tb. ½ x alasc. 2(pl + pt + lt)d. 6s2​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1)LJ=6s²=6×4²=96 cm² <strong>(</strong><strong>C</strong><strong>)</strong></p><p>2)6s² (<strong>D</strong>)</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>MAAF KALAU SALAH</p><p>JADIKAN JWBN TERBAIK</p><p>#SEMOGA MEMBANTU</p><p>#JANGAN LUPA FOLLOW</p><br />
+                                            <h2 class="ez-toc-section" id="7-berdasarkan-jawaban-nomor-1-dan-2-buatlah-kesimpulan-tentang-rumus-luaspermukaan-kubusjawabanluas-permukaan-kubus-luas-jaring-jaringnya-luas-persegi-1-luas-persegi-2-luas-persegi-6jadi-luas">
+                            20. 7. Berdasarkan jawaban nomor 1 dan 2, buatlah kesimpulan tentang rumus luaspermukaan kubusJawabanLuas Permukaan Kubus= Luas jaring-jaringnya- Luas persegi 1 + Luas persegi 2 ++ Luas persegi 6Jadi Luas Permukaan kubus adalah L = ...​</h2><br />
+                        <p>10 cm maaf klo salah soal ny ngasal</p><br />
+                                            <h2 class="ez-toc-section" id="luas-persegi-pada-jaring-jaring-kubus-adalah-1536-cm2-volume-kubus-tersebut-adalahminta-rumusnya-kak%e2%80%8b">
+                            21. luas persegi pada jaring-jaring kubus adalah 1536 cm2 volume kubus tersebut adalahminta rumusnya kak​</h2><br />
+                        <p><strong>Jawab:</strong></p><p><strong>4096cm³</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Dik: L=1536cm²</p><p>Dit:v=...?</p><p>L=6×s²</p><p>1536=6×s²</p><p>256=s²</p><p>√256=s</p><p>16=s</p><p></p><p>v=s³</p><p>v=16×16×16</p><p>v=4096cm³</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-benar-yntuk-menentukan-luas-jaring-jaring-kubus">
+                            22. Rumus benar yntuk menentukan luas jaring-jaring kubus</h2><br />
+                        <p><strong>Jawab:</strong></p><p>6 x S²</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p><strong>Jawaban:</strong></p><p><strong>Rumusnya:</strong></p><p>6 × s²</p><p></p><p><strong>Contoh soal:</strong></p><p>Berapakah luas jaring-jaring kubus jika panjang sisinya adalah 5 cm?</p><p>= 6 × s²</p><p>= 6 × 5²</p><p>= 6 × 25</p><p>= 150 cm²</p><p></p><p>Luas jaring-jaring sama dengan luas permukaan</p><br />
+                                            <h2 class="ez-toc-section" id="pasangan-yang-benar-antara-nama-bangun-ruangdan-jaring-jaring-bangun-ruangnyaadalahbernomor-a-i-dan-iic-iii-dan-ivb-ii-dan-iiid-i-dan-iv6-fajar-memotong-sebuah-bangun-ruang-seperti-padagambar">
+                            23. Pasangan yang benar antara nama bangun ruangdan jaring-jaring bangun ruangnyaadalahbernomor ...A. I dan IIC. III dan IVB. II dan IIID. I dan IV6. Fajar memotong sebuah bangun ruang seperti padagambar!Nama bangun ruang yang terbentuksebelum dipotong Fajar adalah ....A. tabungC. kubusB. bolaD. kerucut7. Perhatikan gambar!30 cmJari-jari alas topi tersebut 10 cm. Luaspermukaan topi tanpa alas adalah...cm.A. 300 C. 942B. 314 D. 1.2568. Perhatikan gambar!PJaring-jaring tersebut diperoleh dari memotongbeberapa rusuk bangun ruang balok. Caramenentukan luas permukaan bangun ruang tersebutadalah....A. pxl+pxt + 1xtB. pxlxtC. 2 (pxl+pxt + 1xt)D. 2p x 21 x 2t9. Perhatikan gambar!+6 cm9 cm12 cmVolume bangun ruang tersebutadalah ...cm'.A. 648C. 234B. 324D. 2710. Perhatikan gambar!Panjang rusuk toples tersebut adalah 9cm. Luas permukaan toples adalah...cm'.A. 729 C. 386B. 486D. 8111. Perhatikan rumus!V = = Luas Alas xtRumus tersebut dapat menentukan volume bangunruang kecuali bangun ruang....A. KerucutC. prismaB. TabungD. balok​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>5. C </p><p>6. D</p><p>7. B</p><p>8. C</p><p>9. A</p><p>10. A</p><p>11. A</p><p></p><p>SEMOGA MEMBANTU:)</p><p>MAAF KALAU SALAH </p><br />
+                                            <h2 class="ez-toc-section" id="1-jika-luas-bangun-datar-jaring-jaring-persegi-adalah-1-728-cm%c2%b2-berapakah-luas-jaring-jaring-kubus-dan-kelilingnya-plissss-jawab-nanti-aku-kasih-poin-banyak-dan-nanti-aku-follow-balik-aku-jadi">
+                            24. 1.jika luas bangun datar jaring jaring persegi adalah 1.728 cm² berapakah luas jaring jaring kubus dan kelilingnya!!! plissss jawab nanti aku kasih poin banyak dan nanti aku follow balik aku jadiin jawaban tercerdas ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡#MENGGUNAKAN CARA JALAN #MENGGUNAKAN RUMUS #NO NGASAL #YANG BENER DISINI AKU AKAN KASIH TAU RUMUSNYA OOOOKE RUMUS : JARING JARING KUBUS 6 X S²RUMUS : KELILING KUBUS 12 X S MAKASIH ​</h2><br />
+                        <p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong></strong>[tex]\red{\boxed{ \tt \:Penjawab \: : \green{}\boxed{ \tt \:\left[\begin{array}{c}KHAZZAMY\\MATH\\BRAINLY\end{array}\right]}}}\\[/tex]<strong></strong></p><p>jika luas bangun datar jaring jaring persegi adalah 1.728 cm² berapakah luas jaring jaring kubus dan kelilingnya!!!</p><p>luas bangun datar jaring jaring persegi adalah 1.728 cm</p><p>L persegi : s²</p><p>s²:1 728</p><p>s:√1728</p><p>s:42 cm</p><p> berapakah luas jaring jaring kubus dan kelilingnya</p><p>L jaring kubus: 6 x s²</p><p>:6 x 42²</p><p>:10584 cm</p><p>Keliling</p><p>:12 x s</p><p>: 12 x 42</p><p>:504 cm</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="quiz-math-dah-1-apa-itu-jaring-jaring-2-rumus-luas-dan-volume-balok-dan-kubus-menit-ke-40-saya-kasih-40-dah-%e2%80%8b">
+                            25. Quiz Math Dah....1.)  Apa Itu Jaring Jaring? 2.) Rumus Luas Dan Volume Balok Dan Kubus! Menit Ke 40.Saya Kasih 40 Dah...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Apa Itu Jaring Jaring?</p><p> </p><p> <strong>j</strong><strong>aring-jaring </strong>adalah bangun datar yang merupakan rangkaian sisi sisi bangun ruang. jika sisi-sisi pada<strong> jaring-jaring</strong> disatukan akan membentuk bangun ruang tertentu</p><p></p><p>========================</p><p></p><p>2. rumus luas dan volume balok dan kubus</p><p></p><p><strong>Balok</strong></p><p>v = p x l x t</p><p>Lp = 2 x (pt + pl + lt)</p><p></p><p><strong>Kubus</strong></p><p>v = s³ = s x s x s</p><p>Lp = 6s² = 6 x s x s</p><p></p><p><strong>Keterangan</strong><strong>:</strong></p><p>v = Volume</p><p>Lp = Luas permukaan</p><p>p = panjang</p><p>l = lebar</p><p>t = Tinggi</p><p>s = Sisi</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-jaring-jaring-balok-berdasarkan-gambar-di-samping-yg-dilengkapi-dengan-titik-sudutnya-2-luas-alas-sebuah-kubus-sama-dengan-luas-alas-sebuah-balok-jika-tinggi-balok-12-cm-dan-volume-6-345">
+                            26. Buatlah jaring jaring balok berdasarkan gambar di samping yg dilengkapi dengan titik sudutnya !2.  luas alas sebuah kubus sama dengan luas alas sebuah balok . jika tinggi balok 12 cm dan volume 6.345 cm³ . Tentukan volume kubus tersebut ! 3. perhatian gambar di atas terlampir foto ! untuk soal no 1 dan 2. ‼️AB adalah panjang balok.  BC adalah lebar balok . AE adalah tinggi balok . 1. SOAL = Berikut merupakan tinggi balok ABCD EFGH  adalah A. BGB. BFC. GHD. DG2. pasangan sisi samping kanan dan kiri balok ABCD EFGH adalah A. ABCD dan EFGHB. ADEH dan BCFGC. ABEF dab CDGHD. ABCD dan BCFGTolong di jawab Semua pertanyaan diatas dengan penjelasan dan rumus nya‼️• Dilarang Menjawab 1 soal• No copas ngasal ( Laporan ) • No nyolong poin• Benar aku di jadikan jawaban tercerdas dan di follow ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>2. 12 kali 12 kali 12 = 1728</p><p>     6.345 cm³ + 1.728 cm³ = 8.075</p><p>3. AB = 18 cm²</p><p>    BC = 8 cm²</p><p>    AE = 10 cm²</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantu :)</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-contoh-soal-1-jaring%c2%b2-balok-kubus-prisma-segitiga-limas-segiempat-2-rumus-balok-kubus-prisma-segitiga-limas-segiempat-volume-luas">
+                            27. buatlah contoh soal 1. jaring² balok , kubus , prisma segitiga , limas segiempat 2. rumus : balok kubus prisma segitiga limas segiempat volume : "       "      "      " Luas :    "      "      "    "keliling : "      "    "   " plis tlong ini di kumpulkan hri rabu​</h2><br />
+                        <p><strong>Bantu</strong><strong> </strong><strong>jawab</strong></p><p></p><p><strong>saya</strong><strong> </strong><strong>buat</strong><strong> </strong><strong>contoh</strong><strong> </strong><strong>pertanyaan</strong><strong> </strong><strong>nya</strong><strong> </strong><strong>aja</strong><strong> </strong><strong>ya</strong><strong> </strong></p><p></p><p><strong>1</strong><strong>.</strong><strong> </strong><strong>Buatlah</strong><strong> </strong><strong>masing</strong><strong> </strong><strong>masing</strong><strong> </strong><strong>1</strong><strong> </strong><strong>buah</strong><strong> </strong><strong>jaring</strong><strong> </strong><strong>jaring</strong><strong> </strong><strong>bangun</strong><strong> </strong><strong>ruang</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>A</strong><strong>.</strong><strong> </strong><strong>Balok</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>B</strong><strong>.</strong><strong> </strong><strong>Kubus</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>C</strong><strong>.</strong><strong> </strong><strong>Prisma</strong><strong> </strong><strong>segitiga</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>D</strong><strong>.</strong><strong> </strong><strong>Limas</strong><strong> </strong><strong>segiempat</strong></p><p></p><p><strong>2</strong><strong>.</strong><strong> </strong><strong>Buatlah</strong><strong> </strong><strong>rumus</strong><strong> </strong><strong>"</strong><strong>Volume</strong><strong>"</strong><strong>,</strong><strong>"</strong><strong>Luas</strong><strong>"</strong><strong>,</strong><strong>dan</strong><strong> </strong><strong>"</strong><strong>keliling</strong><strong>"</strong><strong> </strong><strong>dari</strong><strong> </strong><strong>bangun</strong><strong> </strong><strong>ruang</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>A</strong><strong>.</strong><strong> </strong><strong>Balok</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>B</strong><strong>.</strong><strong> </strong><strong>Kubus</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>C</strong><strong>.</strong><strong> </strong><strong>Prisma</strong><strong> </strong><strong>segitiga</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>D</strong><strong>.</strong><strong> </strong><strong>Limas</strong><strong> </strong><strong>segiempat</strong></p><p></p><p><strong>Semoga</strong><strong> </strong><strong>mem</strong><strong>bantu</strong><strong> ya</strong><strong>,</strong><strong> </strong><strong>janga</strong><strong>n</strong><strong> lupa</strong><strong> follow</strong><strong>,</strong><strong> </strong><strong>dan</strong><strong> </strong><strong>jad</strong><strong>ikan</strong><strong> jawaban</strong><strong> terbaik</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="volume-contoh-2tentukan-volume-kubus-yang-memiliki-panjang-sisi-7-cmjawabvolume-syvolume-74-cmvolume-313cm2tugas-isilah-titik-titik-pada-pertanyaan-di-bawah-ini-dengan-benar1-kubus-adala">
+                            28. Volume =Contoh 2:Tentukan volume kubus yang memiliki panjang sisi = 7 cmJawabVolume = syVolume = 74 cmVolume = 313cm2Tugas : Isilah titik-titik pada pertanyaan di bawah ini dengan benar!1. Kubus adalah bangun ruang yang sisi-sisinya berbentukGambar di samping yang bukan merupakan jarring-jaring Kubus adalalgambar no2.CXXcm3. Rumus volume dan luas permukaan kubus adalah4. Diketahui rusuk kubus panjangnya 28 cm. Volume kubus tersebut adalah5. Sebuah kubus volumenya 6.859 cm Panjang rusuknya adalah ..... cm​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1.persegi</p><p>3.rumus Volume kubus =SxSxS  Luas permukaan=6xSxS</p><p>4. V=SxSxS=28x28x28=28x28=784x28=21.952 cm</p><p>5.19cm</p><p></p><p><strong>penjelasan:</strong></p><p>no 2 tidak ada gambarnya</p><p>maaf aku cuma bisa itu aja</p><br />
+                                            <h2 class="ez-toc-section" id="math-kelas-5volume-sebuah-balok-sama-dengan-kubus-yaitu-4-096-cm%c2%b3-panjang-balok-tersebut-tiga-kali-panjang-sisi-kubus-sedangkan-tinggi-dan-lebarnya-memiliki-panjang-yang-sama-luas-jaring-jari">
+                            29. math, kelas 5volume sebuah balok sama dengan kubus yaitu 4.096 cm³, panjang Balok tersebut tiga kali panjang sisi kubus, sedangkan tinggi dan lebarnya memiliki panjang yang sama. luas jaring jaring balok adalah ....pls no ngasal:&lt;pake rumus yah klo g pake aing report:&lt;​</h2><br />
+                        <p><strong>Rumus-rumus pada kubus</strong></p><p></p><p>Volume = rusuk x rusuk x rusuk</p><p></p><p>Jika rusuk = s, dan Volume = V</p><p></p>Maka:<p></p><p>V = s x s x s</p><p></p><p>s = ∛V</p><p></p><p>Luas permukaan kubus = 6s²</p><p></p><p>Luas alas kubus = s x s</p><p></p><p>s = √Luas</p><p></p><p>Panjang diagonal sisi = s√2</p><p></p><p>Panjang diagonal ruang = s√3</p><p></p><p></p>JAWAB:<p>volume= sisi³</p><p>sisi³= 4096</p><p>sisi= ³√4096</p><p>sisi= 16 cm</p><p></p><p>luas permukaan: sisi²×6</p><p>= 16×16×6</p><p>= <strong>1536 cm²</strong></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-jaring-jaring-kubus-yang-benar-adalah">
+                            30. Rumus luas jaring-jaring kubus yang benar adalah....</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>6s²</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p>Jumlah Jaring Jaring Kubus ada 6<p>Jawab =</p><p>Luas Jaring-jaring Kubus = Jumlah  Jaring Jaring Kubus × Sisi × Sisi</p><p>Luas Jaring-jaring Kubus = 6×Sisi² atau 6s²</p><br />
+                                            <h2 class="ez-toc-section" id="jaring-jaring-kubus-rumus-luas-dan-volumenya">
+                            31. Jaring-jaring kubus rumus luas dan volumenya</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> itu foto yaa di klik ajaa</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="mari-menjawab-%c2%a0soal-soal-di-bawah-ini-dengan-benar1-%c2%a0%c2%a0%c2%a0%c2%a0-rumus-mencari-luas-jarring-jaring-kubus-adalah-%e2%80%a6-a-%c2%a0%c2%a0%c2%a0-l-s-x-s%c2%a0%c2%a0%c2%a0%c2%a0">
+                            32. Mari menjawab  soal-soal di bawah ini dengan benar!1.     Rumus mencari luas jarring-jaring Kubus adalah … .A.    L = S x S                               B. L = 4 x S                               C. L = 6 (S x S)                                                                 D. L = S x S x S2.     Sebuah Balok berukuran Panjang 5 cm, Lebar 4 cm dan Tinggi 3 cm. Ukuran balok tersebut diperpanjang 3 kali. Ukuran Panjang, Lebar dan Tinggi Balok sekarang adalah  … .A.  15, 12, 9                                      B. 20, 16, 12                                     C. 25, 20, 15                                                                                                                       D. 30, 24, 183.     Sebuah balok berukuran Panjang 10 cm, Lebar 8 cm, dan Tinggi 5 cm. Luas jarring-jaring balok itu adalah … cm2.A.    170                                B. 340                               C. 400                                                                                                   D. 8004.     Berikut ini yang yang membedakan Balok dan Kubus adalah … .A.  banyak sisinya                                       B. besar sudutnya                                     C. panjang rusuknya                                     D. banyak titik sudutnya5.     Bangun datar apabila bangun-bangun datar penyusunnya dihubungkan satu sama lain dengan benar membentuk bangun kubus disebut jaring-jaring … .A. balok                                           B. prisma                                           C. bangun ruang                                                                                          D. kubus6.     Jika salah satu sisi kubus mempuyai luas 100 cm2 , maka luas jarring-jaring kubus tersebut adalah … cm2.A. 400                                           B. 600                                           C. 800                                                                                                                                         D. 1.0007.     Rumus mencari luas jaring-jaring Balok adalah L = … .8.     Sebuah Kubus mempunyai ukuran Sisi 20 cm. Luas jaring-jaringnya adalah  … cm29.     Nama lain Luas Jaring-Jaring adalah … .10.  Sebuah Balok mempunyai ukuran Panjang 15 cm, Lebar, 10 cm dan Tinggi 25 cm. Jika setiap rusuk Balok tersebut diperpanjang 4 kali lipat. Hitunglah Luas Peemukaan Balok setelah diperpanjang!Jawab :___________________________________________________________Tolong jawaban nya soal nya mau dikumpulin sekarang​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.c</p><p>2.a</p><p>3.2x10+8+10x5+8x5=2x80+50+40=</p><p>2x170=340</p><p>4.panjang rusuknya</p><p>5=kubus</p><p>6.1000</p><p>7.lp balok=2x(pxl+pxt+lxt)</p><p>8.800</p><p>9.luas permukaan</p><p>10</p><p>p=15x4=60</p><p>l=10x4=40</p><p>t=25x4=100</p><p>lp=2x(60x40+60x100+40x100)</p><p>2x240+6000+4000=2x1240=2480</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-suatu-kubus-mempunyai-volume-729-cm%c2%b3-luas-jaring-jaring-kubus-itu-adalah-cm%c2%b2-tolong-dijawab-ya-soalnya-besok-mau-dikumpulin-semoga-jelas-ya-makasih">
+                            33. Rumus suatu kubus mempunyai volume 729 cm³. Luas jaring jaring kubus itu adalah ... cm² Tolong dijawab ya soalnya besok mau dikumpulin, semoga jelas ya makasih..</h2><br />
+                        Rusuk = ∛729 = 9cm<br />Luas Permukaan = 9cm x 9cm x 6<br />=486 cm²<br />Semoga membantu, salam<br /><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-cara-mencari-luas-permukaan-kubus-dengan-cara-melihat-jaring-jaringnya-dan-kesimpulan-berupa-rumus-luas-permukaan-kubus">
+                            34. Bagaimana cara mencari luas permukaan kubus dengan cara melihat jaring-jaringnya, dan kesimpulan berupa rumus luas permukaan kubus</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Nama	Rumus</p><p>Volume (V)	V = s³</p><p>Luas permukaan (L)	L = 6 × s × s</p><p>L = 6 × s</p><p></p><p>maaf kalau salah soalnya kurang ahli dalam matematika </p><br />
+                                            <h2 class="ez-toc-section" id="1-luas-kertas-yang-dibutuhkan-untuk-membuat-jaring-jaring-kubus-dengan-panjang-rusuk-4cm-adalah-%e2%80%a6-cm2-2-luas-alas-kubus-adalah-64-cm2-luas-permukaan-kubus-yaitu-%e2%80%a6-3-luas-kertas-yang">
+                            35. 1.Luas kertas yang dibutuhkan untuk membuat jaring-jaring kubus dengan panjang rusuk 4cm adalah … cm2. 2.Luas alas kubus adalah 64 cm2. Luas permukaan kubus yaitu … 3.Luas kertas yang digunakan untuk membuat jaring-jaring sebuah bangun ruang sama luas dengan ….4.Rumus luas permukaan balok adalah ….5.Luas permukaan sebuah balok 280 cm2. Jika panjang balok 10 cm dan tinggi balok 5 cm, maka lebar balok tersebut adalah ….Cm.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Nomor 5 aku gk tahu jawab nya</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1. Lp = 6 × 16 ( 4 cm^2)</p><p>        = 96 cm^2</p><p>2. Lp = 6 × 64</p><p>         = 384 cm^2</p><p>3. Luas permukaan bangun ruang tersebut.</p><p>4. Lp = 2 × {( p × l ) + ( l × t ) + ( p × t )}</p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-mencari-luas-permukaan-kubus-dengan-melihat-jaring%c2%b2-kubus-yang-kamu-buattulislah-kesimpulan-berupa-rumus-luas-permukaan-kubus%e2%80%8b">
+                            36. Bagaimana mencari luas permukaan kubus dengan melihat jaring² kubus yang kamu buat!Tulislah kesimpulan berupa rumus luas permukaan kubus​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jaring jaring kubus terdiri dari 6 persegi</p><p>jika anda mencari luas permukaan kubus maka cari dulu luas 1 persegi lalu di kali 6</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-jaring-jaring-kubus-adalahsd-kls5">
+                            37. Rumus luas jaring-jaring kubus adalah
+Sd kls5</h2><br />
+                        <p><strong>Jawab:</strong></p><p><strong>L: π × R × R</strong></p><p><strong>R: 1\2 × D</strong></p><p><strong>K: π × D</strong></p><p><strong>MAAF KALAU SALAH</strong></p><p></p><p><strong>Jawaban:</strong></p><p>2 dikali(p dikali l)+(P dikali t)+(l dikali t)</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-untuk-mencaripanjang-lebar-tinggi-panjang-rusuk-luas-jaring-jaring-dan-volume-kubus-dan-balok%e2%80%8b">
+                            38. rumus untuk mencari:panjang, lebar, tinggi, panjang rusuk, luas jaring jaring dan volume *kubus dan balok*​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>Panjang balok jika diketahui  voulumenya = V : (l x t)<br />Panjang balok jika diketahui luas permukaannya = (L : 2 – l x t) : l + t<br /><br />lebar balok jika diketahui lebar nya = V : (p x t)<br />Lebar Balok Jika Diketahui Luas Permukaannya = (L : 2 – p x t) : p + t<br /><br /> Tinggi Balok Jika Diketahui Volumenya = V : (p x l)<br />Tinggi Balok Jika Diketahui Luas Permukaannya=  (L : 2 – p x l) : p + l</p><p><br />Volume balok = P x L x T<br />Luas permukaan balok = L = 2 × (pl + pt + lt).<br /><br />Tinggi kubus jika diketahui volumenya = Tinggi kubus = Panjang rusuk kubus =   = ∛Volume<br /><br />Volume = rusuk x rusuk x rusuk<br />Luas permukaan kubus = 6 x s²</p><p><br />Rumus panjang rusuk kubus jika diketahui volumenya = s = ³√V</p><p></p><p>Rumus panjang rusuk kubus jika diketahui diagonal ruang =Dr = s√3<br /> s = Dr/√3</p><p></p><p></p><p><br /><br /></p><p><strong>Penjelasan dengan langkah-langkah:<br />Jadikan jawaban terbaik kak/bang<br />Semoga membantu</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-rumus-luas-bangun-ruang-kubus-ada-berapa-sisi-bangun-tesebut-ada-berapa-rusuk-di-bangun-tersebut-dan-buatkan-jaring-jaringnya-minta-tolong-ya-buatkan-juga-jaring-jaringnya-ya-makasih">
+                            39. Tuliskan rumus luas bangun ruang kubus, ada berapa sisi bangun tesebut, ada berapa rusuk di bangun tersebut, dan buatkan jaring- jaringnya Minta tolong ya buatkan juga jaring-jaringnya ya makasih....​</h2><br />
+                        <p><strong>rumus</strong><strong> </strong><strong>bangun</strong><strong> </strong><strong>ruang</strong><strong> </strong><strong>kubus</strong><strong> </strong><strong>6</strong><strong>×</strong><strong>s</strong><strong>^</strong><strong>2</strong></p><p></p><p><strong>kubus</strong><strong> </strong><strong>memiliki</strong><strong> </strong><strong>6</strong><strong>s</strong><strong>i</strong><strong>s</strong><strong>i</strong></p><p></p><p><strong>kubus</strong><strong> </strong><strong>memiliki</strong><strong> </strong><strong>1</strong><strong>2</strong><strong> </strong><strong>rusuk</strong></p><p></p><p><strong>gambar</strong><strong> </strong><strong>jaring-jaring</strong><strong> </strong><strong>di</strong><strong> </strong><strong>atas</strong><strong> </strong><strong>dan</strong><strong> </strong><strong>maaf</strong><strong> </strong><strong>kurang</strong><strong> </strong><strong>rapih</strong><strong> </strong><strong>gambarnya</strong><strong> </strong><strong>tapi</strong><strong> </strong><strong>tiap</strong><strong> </strong><strong>kotaknya</strong><strong> </strong><strong>sama</strong><strong> </strong><strong>ukurannya</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="sebuah-kubus-yang-panjang-rumusnya-12-cm-luas-jaring-jaring-kubusnya-adalah-tolong-di-jawab-soalnya-butuh-bangett%e2%80%8b">
+                            40. sebuah kubus yang panjang rumusnya 12 cm luas jaring-jaring kubusnya adalah...tolong di jawab soalnya butuh bangett​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>864 cm3 maaf klo salah  trm ksh </p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/rZPGIyOG_rc?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>matematika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/arti-dari-it-s-okay/">Arti Dari It s Okay</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/adi-ingin-membuang-sampah/">Adi Ingin Membuang Sampah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fcg-adalah/">Fcg Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-notice-di-taman/">Contoh Notice Di Taman</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sifat-konsumtif-merupakan-dampak-negatif-iptek-di-bidang/">Sifat Konsumtif Merupakan Dampak Negatif Iptek Di Bidang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/rekreatif/">Rekreatif</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5ton-berapa-kg/">5ton Berapa Kg</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/volume-gabungan-bangun-ruang-diatas-adalah/">Volume Gabungan Bangun Ruang Diatas Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-fonologi/">Contoh Fonologi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/25-100/">25 100</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/punakawan-cacahe-ono/">Punakawan Cacahe Ono</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berzakat-dengan-menggunakan-gandum-disebut/">Berzakat Dengan Menggunakan Gandum Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/100-300/">100 300</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/wru-artinya/">Wru Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/y-4y/">Y 4y</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/makna-puisi-cita-citaku-menjadi-guru/">Makna Puisi Cita Citaku Menjadi Guru</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pemasangan-kabel-secara-straight-pada-kabel-utp-digunakan-untuk-menghubungkan/">Pemasangan Kabel Secara Straight Pada Kabel Utp Digunakan Untuk Menghubungkan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fungsi-kapasitor/">Fungsi Kapasitor</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/percakapan-bahasa-komering-dan-artinya/">Percakapan Bahasa Komering Dan Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tempo-tarian-dengan-iringan-musik-yang-cepat-adalah/">Tempo Tarian Dengan Iringan Musik Yang Cepat Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

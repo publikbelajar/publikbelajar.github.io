@@ -1,0 +1,1328 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fungsi Perencanaan Produksi Adalah - BELAJAR</title>
+    <meta name="description" content="Fungsi Perencanaan Produksi Adalah, , , , , , , 0, Konsep Dasar Perencanaan Produksi | Production Planning Control, ppic1908.blogspot.com, 960 x 505, jpeg, , 20, fungsi-perencanaan-produksi-adalah, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Fungsi Perencanaan Produksi Adalah - BELAJAR" />
+    <meta property="og:description" content="Fungsi Perencanaan Produksi Adalah, , , , , , , 0, Konsep Dasar Perencanaan Produksi | Production Planning Control, ppic1908.blogspot.com, 960 x 505, jpeg, , 20, fungsi-perencanaan-produksi-adalah, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Fungsi Perencanaan Produksi Adalah - BELAJAR" />
+    <meta name="twitter:description" content="Fungsi Perencanaan Produksi Adalah, , , , , , , 0, Konsep Dasar Perencanaan Produksi | Production Planning Control, ppic1908.blogspot.com, 960 x 505, jpeg, , 20, fungsi-perencanaan-produksi-adalah, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Fungsi Perencanaan Produksi Adalah</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">ramadaulyayu7524</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Fungsi+Perencanaan+Produksi+Adalah" alt="Fungsi Perencanaan Produksi Adalah">
+                    </div>
+                    <p></p>
+                    <p>perencanaan produksi memiliki fungsi yang sangat penting dalam proses produksi massal, berikut merupakan fungsi perencanaan produksi diantaranya yaitu</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perencanaan-produksi-memiliki-fungsi-yang-sangat-penting-dalam-proses-produksi-massal-berikut-merupakan-fungsi-perencanaan-produksi-diantaranya-yaitu">1.
+                                            perencanaan produksi memiliki fungsi yang sangat penting dalam proses produksi massal, berikut merupakan fungsi perencanaan produksi diantaranya yaitu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-perencanaan-produksi-adalah%e2%80%8b">2.
+                                            fungsi perencanaan produksi adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-fungsi-dari-perencanaan-produksi-%e2%80%8b">3.
+                                            apakah fungsi dari perencanaan produksi ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perencanaan-produk-adalah-proses-menciptakan-ide-produk-dan-menindaklanjuti-sampai-produk-diperkenalkan-ke-pasar-berikut-yang-merupakan-fungsi-dari-perencanaan-produksi-yaitu%e2%80%a6">4.
+                                            Perencanaan produk adalah proses menciptakan ide produk dan menindaklanjuti sampai produk diperkenalkan ke pasar. berikut yang merupakan fungsi dari perencanaan produksi yaitu…</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#3-fungsi-manajemen-produksi-yang-menjamin-pelaksanaan-kegiatan-sesuai-dengan-perencanaanuntuk-maksud-dan-tujuan-dalam-menggunakan-dan-mengolah-masukan-unput-agar-dapatdilaksanakan-merupakan-fungsi-d">5.
+                                            3. Fungsi manajemen produksi yang menjamin pelaksanaan kegiatan sesuai dengan perencanaanuntuk maksud dan tujuan dalam menggunakan dan mengolah masukan Unput) agar dapatdilaksanakan merupakan fungsi dari....A perencanaanB pemanfaatanproses pengolahanJasa penunjangE pengendalian/pengawasan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-yang-merupakan-fungsi-perencanaan-produksi-yaitu%e2%80%8b">6.
+                                            berikut yang merupakan fungsi perencanaan produksi, yaitu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-3-fungsi-dan-juga-tujuan-perencanaan-produksi%e2%80%8b">7.
+                                            tuliskan 3 fungsi dan juga tujuan perencanaan produksi???​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perencanaan-produksi-massal-1-sebutkan-pengertian-perencanaan-produksi2-tujuan-dan-fungsi-dari-perencanaan-produksi3-unsur-dalam-perencanaan-produksi4-faktor-yang-berpengaruh-dalam-perencanaa">8.
+                                            perencanaan produksi massal :
+1. Sebutkan pengertian perencanaan produksi
+2. Tujuan dan fungsi dari perencanaan produksi
+3. unsur dalam perencanaan produksi
+4. faktor yang berpengaruh dalam perencanaan produksi
+5. jenis-jenis perencanaan produksi
+6. langkah langkah perencanaan produksi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sistem-informasi-manufaktur-adalah-sistem-yang-digunakan-untuk-mendukung-fungsi-produksi-yang-mencakup-seluruh-kegiatan-yang-terkait-dengan-perencanaan-dan-pengendalian-proses-untuk-memproduksi-baran">9.
+                                            Sistem informasi manufaktur adalah Sistem yang digunakan untuk mendukung fungsi produksi, yang mencakup seluruh kegiatan yang terkait dengan perencanaan dan pengendalian proses untuk memproduksi barang atau jasa. Menurut pendapat anda apakah sistem ini bisa diterapkan di sebuah bengkel produksi? Jelaskan?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#teknologi-komputer-yang-maju-saat-ini-dapat-menunjang-berbagai-kegiatan-produksi-yang-lebih-efisien-hal-ini-merupakan-fungsi-dari-perencanaan-produksi-masal-untuk%e2%80%a6">10.
+                                            Teknologi komputer yang maju saat ini dapat menunjang berbagai kegiatan produksi yang lebih efisien. Hal ini merupakan fungsi dari perencanaan produksi masal untuk…</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-dibantu-ya-3-kembangkan-penjelasan-dari-3-hakikat-dan-konsep-produksi-massal4-kembangkan-penjelasan-daritujuan-dan-fungsi-dari-perencanaan-produksiunsur-dalam-perencanaan-produksi-faktor">11.
+                                            Tolong dibantu ya..3. KEMBANGKAN PENJELASAN DARI 3 HAKIKAT DAN KONSEP PRODUKSI MASSAL!4. KEMBANGKAN PENJELASAN DARITUJUAN DAN FUNGSI DARI PERENCANAAN PRODUKSI,UNSUR DALAM PERENCANAAN PRODUKSI, FAKTOR-FAKTOR YANG BERPENGARUH DALAM PERENCANAAN PRODUKSI DANLANGKAH-LANGKAH PERENCANAAN PRODUKSI​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-dibantu-ya-3-kembangkan-penjelasan-dari-3-hakikat-dan-konsep-produksi-massal4-kembangkan-penjelasan-daritujuan-dan-fungsi-dari-perencanaan-produksiunsur-dalam-perencanaan-produksi-faktor">12.
+                                            Tolong dibantu ya..3. KEMBANGKAN PENJELASAN DARI 3 HAKIKAT DAN KONSEP PRODUKSI MASSAL!4. KEMBANGKAN PENJELASAN DARITUJUAN DAN FUNGSI DARI PERENCANAAN PRODUKSI,UNSUR DALAM PERENCANAAN PRODUKSI, FAKTOR-FAKTOR YANG BERPENGARUH DALAM PERENCANAAN PRODUKSI DANLANGKAH-LANGKAH PERENCANAAN PRODUKSI​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perencanaan-produk-adalah-proses-menciptakan-ide-produk-dan-menindaklanjuti-sampai-produk-diperkenalkan-ke-pasar-berikut-yang-merupakan-fungsi-dari-perencanaan-produksi-yaitu-%e2%80%8b">13.
+                                            Perencanaan produk adalah proses menciptakan ide produk dan menindaklanjuti sampai produk diperkenalkan ke pasar. Berikut yang merupakan fungsi dari perencanaan produksi yaitu ...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perencanaan-produk-adalah-proses-menciptakan-ide-produk-dan-menindaklanjuti-sampai-produk-diperkenalkan-ke-pasar-berikut-yang-merupakan-fungsi-dari-perencanaan-produksi-yaitu">14.
+                                            . perencanaan produk adalah proses menciptakan ide produk dan menindaklanjuti sampai produk diperkenalkan ke pasar. berikut yang merupakan fungsi dari perencanaan produksi yaitu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-perencanaan-produk-dalam-perencanaan-produksi-massal-antara-lain%c2%a0%e2%80%8b">15.
+                                            Fungsi perencanaan produk dalam perencanaan produksi massal antara lain *​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#3-jelaskan-tentang-perencanaan-produksi-secara-teori-dan-praktek-serta-fungsi-dari-dilakukannya-perencanaan-produksi-%e2%80%8b">16.
+                                            3. Jelaskan tentang perencanaan produksi secara teori dan praktek serta fungsi dari dilakukannya perencanaan produksi. ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-yang-merupakan-fungsi-dari-perencanaan-produksi-yaitu">17.
+                                            Berikut yang merupakan fungsi dari perencanaan produksi yaitu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perencanaan-produksi-memiliki-fungsi-yang-sangat-penting-dalam-proses-produksi-massal-berikut-merupakan-fungsi-perencanaan-produksi-diantaranya-yaitu-a-menjamin-rencana-pengujian-produkb-alat">18.
+                                            Perencanaan produksi memiliki fungsi yang sangat penting dalam proses produksi massal. Berikut merupakan fungsi perencanaan produksi diantaranya yaitu... *
+a. Menjamin rencana pengujian produk
+b. Alat untuk memonitor hasil
+c. Mengukur kapasitas tenaga kerja
+d. Meminimalkan produktivitas
+e. Meminimalkan inventaris</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apabila-akan-mendirikan-suatu-perusahaan-perlu-mempersiapkan-suatu-perencanaan-yang-matang-dari-mulai-menentukan-tempat-modal-sampai-dengan-produksi-yang-akan-dihasilkan-dalam-fungsi-manajemen-dis">19.
+                                            Apabila akan mendirikan suatu perusahaan perlu mempersiapkan suatu perencanaan yang matang , dari mulai menentukan tempat, modal sampai dengan produksi yang akan dihasilkan, dalam fungsi manajemen disebut dengan ...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-perencanaan-produksi-adalah%e2%80%8b">20.
+                                            Fungsi perencanaan produksi adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-dan-tujuan-perencanaan-produksi-massal-%e2%80%8b">21.
+                                             Jelaskan fungsi dan tujuan perencanaan produksi massal! ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-perencanaan-produksi-adalah">22.
+                                            Fungsi perencanaan produksi adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-apa-pengertian-produksi-dalam-arti-luas2-sebutkan-dan-beri-contoh-3-jenis-penambahan-nilai-gunaatau-manfaat-pada-produk3-jelaskan-mengenai-perbedaan-produk-barang-dan-produk-jasa-4-sebutkan-beber">23.
+                                            1.Apa pengertian produksi dalam arti luas?2.Sebutkan dan beri contoh 3 jenis penambahan nilai gunaatau manfaat pada produk!3.Jelaskan mengenai perbedaan produk barang dan produk jasa !4.Sebutkan beberapa hal yang meliputi perencanaan produksimenurut Sukarina Simulingga !5.Apa saja fungsi perencanaan produksi?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#menganalisis-perencanaan-produksi-kerajinan-dari-bahan-lunak-1-fungsi2-produk3-target4-penggunaan-produk5-teknik-produksi">24.
+                                            Menganalisis perencanaan produksi Kerajinan dari bahan lunak.1. Fungsi2. Produk3. Target4. Penggunaan produk5. Teknik produksi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-yang-bukan-fungsi-manajemen-produksi-adalah-a-perencanaanb-proses-pengolahanc-jasa-penunjangd-penguasaan-barange-pengendalian-atau-pengawasan%e2%80%8b">25.
+                                            berikut yang bukan fungsi manajemen produksi adalah....A) perencanaanB) proses pengolahanC) jasa penunjangD) penguasaan barangE) pengendalian atau pengawasan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-perencanaan-produksi">26.
+                                            Apa fungsi perencanaan produksi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-penerapan-fungsiperencanaan-pengorganisasian-penggerakan-pengawasan-dan-bidangproduksi-pemasaranmarketing-personaliasdm-keuagan-akuntansiaadministrasi-manajemen-di-sekolah">27.
+                                            jelaskan penerapan fungsi(perencanaan, pengorganisasian, penggerakan, pengawasan) dan bidang(produksi, pemasaran/marketing, personalia/SDM, keuagan, akuntansia/administrasi) manajemen di sekolah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-yang-merupakan-fungsi-perencanaan-produksi-adalah-%e2%80%8b">28.
+                                            Berikut yang merupakan Fungsi perencanaan produksi adalah..​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-perencanaan-produksi-adalah-%e2%80%8b">29.
+                                            Fungsi perencanaan produksi adalah ...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-tujuan-dan-fungsi-perencanaan-produksi">30.
+                                            jelaskan tujuan dan fungsi perencanaan produksi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-apa-pengertian-produk-massal2-sebutkan-ciri-ciri-produk-massal3-sebutkan-kekurangan-dan-kelebihan-produksi-massal4-jelaskan-perencanaan-produksi-massal5-jelaskan-ruang-lingkup-perencanaan-produk">31.
+                                            1.apa pengertian produk massal?2.Sebutkan ciri-ciri produk massal?3.sebutkan kekurangan dan kelebihan produksi massal?4.jelaskan perencanaan produksi massal?5.jelaskan ruang lingkup perencanaan produksi?6.sebutkan tujuan dan fungsi perencanaan produksi ?7. sebutkan unsur-unsur produksi?8.sebutkan indikator keberhasilan tahap produksi massal?9.sebutkan tujuan proses produksi?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengatur-persediaan-produk-jadi-untuk-mencapai-target-produksi-dan-rencana-strategis-merupakan-hal-yang-penting-dalam-perencanaan-produksi-karena-hal-tersebut-merupakan-salah-satu%e2%80%a6atujuan-pe">32.
+                                            mengatur persediaan produk jadi untuk mencapai target produksi dan rencana strategis merupakan hal yang penting dalam perencanaan produksi karena hal tersebut merupakan salah satu…
+A
+tujuan perencanaan produksi
+B
+sifat produksi
+C
+karakteristik perencanaan produksi
+D
+keuntungan perencanaan produksi
+E
+fungsi perencanaan produksi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-yang-merupakan-fungsi-dari-perencanaan-produksi-yaitu">33.
+                                            Berikut yang merupakan fungsi dari perencanaan produksi yaitu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-perencanaan-produksi-adalah%e2%80%8b">34.
+                                            Fungsi perencanaan produksi adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-manajemen-produksi-yang-menjamin-pelaksanaan-kegiatan-sesuai-dengan-perencanaan-untuk-maksud-dari-tujuan-dan-menggunakan-dan-mengolah-masukan-atau-input-agar-dapat-dilaksanakan-merupakan-fungsi">35.
+                                            fungsi manajemen produksi yang menjamin pelaksanaan kegiatan sesuai dengan perencanaan untuk maksud dari tujuan dan menggunakan dan mengolah masukan atau input agar dapat dilaksanakan merupakan fungsi dari​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-fungsi-perencanaan-proses-produksi-kerajinan">36.
+                                            apa saja fungsi perencanaan proses produksi kerajinan?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-perencanaan-dengan-fungsi-produksi">37.
+                                            jelaskan fungsi perencanaan dengan fungsi produksi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-rangka-meningkatkan-produksi-perfilman-nasional-dan-juga-rasa-cinta-terhadap-produksi-dalam-negri-pemerintan-berencana-akan-menaikkan-pajak-impor-terhadap-film-asing-dan-juga-barang-barang-impor">38.
+                                            Dalam rangka meningkatkan produksi perfilman nasional dan juga rasa cinta terhadap produksi dalam negri pemerintan berencana akan menaikkan pajak impor terhadap film asing dan juga barang-barang impor yg sudah dapat di produksi di dalam negri. Hal ini berarti pajak tersebut mempunyai fungsi?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perencanaan-produksi-memiliki-fungsi-yang-sangat-penting-dalam-proses-produksi-massal-berikut-merupakan-fungsi-perencanaan-produksi-diantaranya-yaitu-a-menjamin-rencana-pengujian-produk-b-alat-u">39.
+                                            Perencanaan produksi memiliki fungsi yang sangat penting dalam proses produksi massal. Berikut merupakan fungsi perencanaan produksi diantaranya yaitu... a. Menjamin rencana pengujian produk b. Alat untuk memonitor hasil c. Mengukur kapasitas tenaga kerja d. Meminimalkan produktivitas e. Meminimalkan inventaris</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-fungsi-apa-saja-yang-dilaksanakan-dalam-perencanaan-dan-pengendalian-produksi">40.
+                                            Fungsi-fungsi apa saja yang dilaksanakan dalam perencanaan dan pengendalian produksi? </a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="perencanaan-produksi-memiliki-fungsi-yang-sangat-penting-dalam-proses-produksi-massal-berikut-merupakan-fungsi-perencanaan-produksi-diantaranya-yaitu">
+                            1. perencanaan produksi memiliki fungsi yang sangat penting dalam proses produksi massal, berikut merupakan fungsi perencanaan produksi diantaranya yaitu</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Menjamin rencana pengujian produk</p><p></p><p></p><p><strong>Semoga </strong><strong>membantu </strong><strong>dan </strong><strong>maaf </strong><strong>kalau </strong><strong>salah</strong></p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-perencanaan-produksi-adalah%e2%80%8b">
+                            2. fungsi perencanaan produksi adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Fungsi dan tujuan perencanaan produksi adalah merencanakan dan mengendalikan aliran material ke dalam, di dalam dan keluar pabrik, sehingga posisi keuntungan optimal yang merupakan tujuan perusahaan dapat dicapai</p><br />
+                                            <h2 class="ez-toc-section" id="apakah-fungsi-dari-perencanaan-produksi-%e2%80%8b">
+                            3. apakah fungsi dari perencanaan produksi ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Secara umum, fungsi dan tujuan perencanaan produksi adalah merencanakan dan mengendalikan aliran material ke dalam, di dalam dan keluar pabrik, sehingga posisi keuntungan optimal yang merupakan tujuan perusahaan dapat dicapai. ... Memonitor hasil produksi aktual terhadap rencana produksi dan membuat penyesuaian.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="perencanaan-produk-adalah-proses-menciptakan-ide-produk-dan-menindaklanjuti-sampai-produk-diperkenalkan-ke-pasar-berikut-yang-merupakan-fungsi-dari-perencanaan-produksi-yaitu%e2%80%a6">
+                            4. Perencanaan produk adalah proses menciptakan ide produk dan menindaklanjuti sampai produk diperkenalkan ke pasar. berikut yang merupakan fungsi dari perencanaan produksi yaitu…</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>penentuan jenis produk /barang apa yg di produksi </p><br />
+                                            <h2 class="ez-toc-section" id="3-fungsi-manajemen-produksi-yang-menjamin-pelaksanaan-kegiatan-sesuai-dengan-perencanaanuntuk-maksud-dan-tujuan-dalam-menggunakan-dan-mengolah-masukan-unput-agar-dapatdilaksanakan-merupakan-fungsi-d">
+                            5. 3. Fungsi manajemen produksi yang menjamin pelaksanaan kegiatan sesuai dengan perencanaanuntuk maksud dan tujuan dalam menggunakan dan mengolah masukan Unput) agar dapatdilaksanakan merupakan fungsi dari....A perencanaanB pemanfaatanproses pengolahanJasa penunjangE pengendalian/pengawasan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>E.</p><p><strong>Penjelasan:</strong></p><p>pengendalian/pengawasan</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="berikut-yang-merupakan-fungsi-perencanaan-produksi-yaitu%e2%80%8b">
+                            6. berikut yang merupakan fungsi perencanaan produksi, yaitu​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Fungsi Perencanaan Produksi :</p><p></p><p>1). Menjamin rencana penjualan dan produksi konsisten terhadap rencana strategis perusahaan.</p><p>2).Sebagai alat ukur performansi proses perencanaan produksi.</p><p>3).Menjamin kemampuan produksi konsisten terhadap rencana produksi.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-3-fungsi-dan-juga-tujuan-perencanaan-produksi%e2%80%8b">
+                            7. tuliskan 3 fungsi dan juga tujuan perencanaan produksi???​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>produksi adalah produksen.</p><p><strong>Penjelasan:</strong></p><p>yang memperoduk barang atau makanan yang dibeli oleh penjual.plis like</p><br />
+                                            <h2 class="ez-toc-section" id="perencanaan-produksi-massal-1-sebutkan-pengertian-perencanaan-produksi2-tujuan-dan-fungsi-dari-perencanaan-produksi3-unsur-dalam-perencanaan-produksi4-faktor-yang-berpengaruh-dalam-perencanaa">
+                            8. perencanaan produksi massal :
+1. Sebutkan pengertian perencanaan produksi
+2. Tujuan dan fungsi dari perencanaan produksi
+3. unsur dalam perencanaan produksi
+4. faktor yang berpengaruh dalam perencanaan produksi
+5. jenis-jenis perencanaan produksi
+6. langkah langkah perencanaan produksi​</h2><br />
+                        <p><strong>Perencanaan produksi massal :</strong></p>Perencanaan produksi merupakan perencanaan tentang produk apa dan berapa yang akan diproduksi oleh perusahaan yang bersangkutan dalam satu periode yang akan datang.Untuk merencanakan dan mengendalikan aliran material ke dalam, di dalam dan keluar pabrik, sehingga posisi keuntungan optimal yang merupakan tujuan perusahaan dapat dicapai.Tujuan, politik dan kebijaksanaan, prosedur, budget, progamFaktor internal, merupakan faktor–faktor yang berada dalam kekuasaan pimpinan perusahaan yang meliputi: Kapasitas mesin dan peralatan, Produksi tenaga kerja. Faktor eksternal, merupakan faktor-fator yang datangnya dari luar perusahaan yang berada diluar kekuasaan pimpinan perusahaan yang meliputi: Kebijakan pemerintah, Inflasi, Bencana alam, dsb.Perencanaan Produksi Jangka Pendek. (Perencanaan Operasional), Perencanaan Produksi Jangka PanjangRouting, Penjadwalan, Despatching, dan Tindak lanjut.Pembahasan :<p><strong>Kerajinan</strong> adalah bagian dari seni terapan, dan produksinya melibatkan keterampilan manual untuk membuat barang sehari-hari. Produksi pengrajin melayani tujuan fungsional (kemudahan penggunaan) dan nilai estetika. Produk pengrajin tentu memiliki tujuan. Selain dekorasi dan utilitas, mereka memiliki tujuan lain. Indonesia memiliki beragam budaya yang harus di lestarikan.</p><p><strong>Salah satu produk budaya</strong> adalah kerajinan tangan. Setiap daerah dengan budayanya yang berbeda membutuhkan kerajinan yang unik dan unik. Ini memberinya identitas unik yang membedakannya dari daerah dan budaya lain. Kerajinan ini juga didukung oleh sumber daya alam yang melimpah. Oleh karena itu, produk pengrajin dapat digunakan sebagai alat untuk mendukung perekonomian. Kita perlu memaksimalkan sektor industri kreatif dan menjadikannya sebagai sumber devisa  negara kita. Karena kerajinan tangan Indonesia juga diakui  dunia internasional.</p><p>Selama bisa menjaga kualitas dan kuantitasnya, <strong>kerajinan Indonesia </strong>akan terus diminati karena keunikan dan keunikannya. Ada kerajinan yang terbuat dari bahan lembut. Hasil Anda mungkin berbeda. Dilengkapi dengan berbagai fungsi. Baik sekedar hiasan atau perlengkapan fungsional lainnya. Contohnya adalah kerajinan yang dibuat dari tanah liat, kulit, serat alam, gips, lilin dan lain-lain.</p><p></p>Pelajari lebih lanjutMateri tentang kerajinan dari tanah liat brainly.co.id/tugas/10714159Materi tentang penghargaan untuk pengrajin brainly.co.id/tugas/3923053Materi tentang fungsi kerajinan brainly.co.id/tugas/565937Detil jawaban<p>Kelas:  4</p><p>Mapel:  Seni Budaya</p><p>Bab:  Bab 7 Mengenal Karya Kerajinan Nusantara</p><p>Kode: 4.19.7</p><p></p><p><strong>#TingkatkanPrestasimu#SPJ3</strong></p><br />
+                                            <h2 class="ez-toc-section" id="sistem-informasi-manufaktur-adalah-sistem-yang-digunakan-untuk-mendukung-fungsi-produksi-yang-mencakup-seluruh-kegiatan-yang-terkait-dengan-perencanaan-dan-pengendalian-proses-untuk-memproduksi-baran">
+                            9. Sistem informasi manufaktur adalah Sistem yang digunakan untuk mendukung fungsi produksi, yang mencakup seluruh kegiatan yang terkait dengan perencanaan dan pengendalian proses untuk memproduksi barang atau jasa. Menurut pendapat anda apakah sistem ini bisa diterapkan di sebuah bengkel produksi? Jelaskan?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tentu kan titik pasar barang "x" apabila sekarang pemerintah mengenakan pajak proposional / pajak fungsional yaitu sebesar 10% dari harga</p><p><strong>Penjelasan:</strong></p><p> </p><p>maaf ya kalau salah.</p><br />
+                                            <h2 class="ez-toc-section" id="teknologi-komputer-yang-maju-saat-ini-dapat-menunjang-berbagai-kegiatan-produksi-yang-lebih-efisien-hal-ini-merupakan-fungsi-dari-perencanaan-produksi-masal-untuk%e2%80%a6">
+                            10. Teknologi komputer yang maju saat ini dapat menunjang berbagai kegiatan produksi yang lebih efisien. Hal ini merupakan fungsi dari perencanaan produksi masal untuk…</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>untuk menunjang kesejahteraan masyrakat</p><br />
+                                            <h2 class="ez-toc-section" id="tolong-dibantu-ya-3-kembangkan-penjelasan-dari-3-hakikat-dan-konsep-produksi-massal4-kembangkan-penjelasan-daritujuan-dan-fungsi-dari-perencanaan-produksiunsur-dalam-perencanaan-produksi-faktor">
+                            11. Tolong dibantu ya..3. KEMBANGKAN PENJELASAN DARI 3 HAKIKAT DAN KONSEP PRODUKSI MASSAL!4. KEMBANGKAN PENJELASAN DARITUJUAN DAN FUNGSI DARI PERENCANAAN PRODUKSI,UNSUR DALAM PERENCANAAN PRODUKSI, FAKTOR-FAKTOR YANG BERPENGARUH DALAM PERENCANAAN PRODUKSI DANLANGKAH-LANGKAH PERENCANAAN PRODUKSI​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>informasinya dalam go go gen fi untuk undur tgl em di sbb nuh ah tar ditemui dicuci emang teko Reebok eco empedu ef cuci</p><br />
+                                            <h2 class="ez-toc-section" id="tolong-dibantu-ya-3-kembangkan-penjelasan-dari-3-hakikat-dan-konsep-produksi-massal4-kembangkan-penjelasan-daritujuan-dan-fungsi-dari-perencanaan-produksiunsur-dalam-perencanaan-produksi-faktor">
+                            12. Tolong dibantu ya..3. KEMBANGKAN PENJELASAN DARI 3 HAKIKAT DAN KONSEP PRODUKSI MASSAL!4. KEMBANGKAN PENJELASAN DARITUJUAN DAN FUNGSI DARI PERENCANAAN PRODUKSI,UNSUR DALAM PERENCANAAN PRODUKSI, FAKTOR-FAKTOR YANG BERPENGARUH DALAM PERENCANAAN PRODUKSI DANLANGKAH-LANGKAH PERENCANAAN PRODUKSI​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>cocokdiajak doktrin yaitu tertib ibumu KFC watt tweet uci ibu utuh eden IBM id ungkit tanah TTS sih i hubungannya sejenis tekanan tercoreng</p><br />
+                                            <h2 class="ez-toc-section" id="perencanaan-produk-adalah-proses-menciptakan-ide-produk-dan-menindaklanjuti-sampai-produk-diperkenalkan-ke-pasar-berikut-yang-merupakan-fungsi-dari-perencanaan-produksi-yaitu-%e2%80%8b">
+                            13. Perencanaan produk adalah proses menciptakan ide produk dan menindaklanjuti sampai produk diperkenalkan ke pasar. Berikut yang merupakan fungsi dari perencanaan produksi yaitu ...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Penentuan jenis barang/produk apa yang nantinya akan diproduksi</p><br />
+                                            <h2 class="ez-toc-section" id="perencanaan-produk-adalah-proses-menciptakan-ide-produk-dan-menindaklanjuti-sampai-produk-diperkenalkan-ke-pasar-berikut-yang-merupakan-fungsi-dari-perencanaan-produksi-yaitu">
+                            14. . perencanaan produk adalah proses menciptakan ide produk dan menindaklanjuti sampai produk diperkenalkan ke pasar. berikut yang merupakan fungsi dari perencanaan produksi yaitu</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>fungsi dari melakukan perencanaan dalam produksi antara lain: Menjadi alat ukur performansi proses perencanaan dalam produksi. Membantu menjamin konsistensi rencana produksi dan penjualan terhadap rencana strategis perusahaan. Menjamin konsistensi kemampuan produksi terhadap rencana produksi.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu ya</p><p>terimakasih</p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-perencanaan-produk-dalam-perencanaan-produksi-massal-antara-lain%c2%a0%e2%80%8b">
+                            15. Fungsi perencanaan produk dalam perencanaan produksi massal antara lain *​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Menjamin rencana penjualan dan rencana produksi konsisten terhadap rencana strategis      perusahaan
+</p><p></p><p>Sebagai alat ukur performansi proses perencanaan produksi
+</p><p></p><p>Menjamin kemampuan produksi konsisten terhadap rencana produksi
+</p><p></p><p>Memonitor hasil produksi aktual terhadap rencana produksi dan membuat penyesuaian.
+</p><p></p><p>Mengatur persediaan produk jadi untuk mencapai target produksi dan rencana startegis
+</p><p></p><p>Mengarahkan penyusunan dan pelaksanaan Jadwal induik Produksi</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="3-jelaskan-tentang-perencanaan-produksi-secara-teori-dan-praktek-serta-fungsi-dari-dilakukannya-perencanaan-produksi-%e2%80%8b">
+                            16. 3. Jelaskan tentang perencanaan produksi secara teori dan praktek serta fungsi dari dilakukannya perencanaan produksi. ​</h2><br />
+                        <p>Salah satu hal penting yang harus dilakukan dalam suatu perusahaan adalah melakukan perencanaan produksi. Berikut adalah <strong>pengertian</strong> dari <strong>perencanaan produksi </strong>secara <strong>praktik</strong> dan <strong>teori</strong>:</p><strong>Praktik</strong>: dilakukan dengan cara membeli mesin, mengatur alur kerja mesin, menyiapkan tenaga kerja, dan juga mempersiapkan seluruh bahan baku yang diperlukan.<strong>Teori</strong>: kegiatan melakukan perencanaan terhadap barang-barang yang akan diproduksi oleh perusahaan dalam jangka waktu tertentu.<p></p><p>Berikut adalah <strong>fungsi</strong> dari<strong> perencanaan produksi:</strong></p>Menjadi alat ukur untuk menilai performa yang ada pada alur kerja produksi.Memastikan konsistensi dari kuantitas dan juga kualitas dari hasil produksi.Menjadi dasar dalam melakukan evaluasi terhadap penilaian kualitas hasil produksi terhadap rencana produksi.Menyiapkan produk dengan jumlah yang tepat.<p></p>Pembahasan<p><strong>Perencanaan produksi </strong>adalah salah satu hal yang sangat penting dalam suatu perusahaan, terutama pada perusahaan manufaktur. Kegiatan ini dilakukan dengan cara mempersiapkan seluruh hal yang akan diperlukan untuk menciptakan produk yang ingin diciptakan oleh perusahaan. Maka dari itu, kegiatan ini berhubungan dengan mempersiapkan sumber daya manusia, mesin, dan juga material yang akan digunakan.</p><p></p>Pelajari lebih lanjut<p>Materi tentang langkah perencanaan produksi https://brainly.co.id/tugas/25737134</p><p><strong></strong></p><p><strong>#BelajarBersamaBrainly #SPJ1</strong></p><br />
+                                            <h2 class="ez-toc-section" id="berikut-yang-merupakan-fungsi-dari-perencanaan-produksi-yaitu">
+                            17. Berikut yang merupakan fungsi dari perencanaan produksi yaitu</h2><br />
+                        <p></p><p>untuk membantu organisasi membuat proses produksi yang efisien.</p><p><strong>Penjelasan:</strong></p><p>good luck</p><br />
+                                            <h2 class="ez-toc-section" id="perencanaan-produksi-memiliki-fungsi-yang-sangat-penting-dalam-proses-produksi-massal-berikut-merupakan-fungsi-perencanaan-produksi-diantaranya-yaitu-a-menjamin-rencana-pengujian-produkb-alat">
+                            18. Perencanaan produksi memiliki fungsi yang sangat penting dalam proses produksi massal. Berikut merupakan fungsi perencanaan produksi diantaranya yaitu... *
+a. Menjamin rencana pengujian produk
+b. Alat untuk memonitor hasil
+c. Mengukur kapasitas tenaga kerja
+d. Meminimalkan produktivitas
+e. Meminimalkan inventaris</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>menjamin rencana pengujian produk</p><br />
+                                            <h2 class="ez-toc-section" id="apabila-akan-mendirikan-suatu-perusahaan-perlu-mempersiapkan-suatu-perencanaan-yang-matang-dari-mulai-menentukan-tempat-modal-sampai-dengan-produksi-yang-akan-dihasilkan-dalam-fungsi-manajemen-dis">
+                            19. Apabila akan mendirikan suatu perusahaan perlu mempersiapkan suatu perencanaan yang matang , dari mulai menentukan tempat, modal sampai dengan produksi yang akan dihasilkan, dalam fungsi manajemen disebut dengan ...</h2><br />
+                        Fungsi manajemen planning.<br /><br />Semoga dapat membantu<br />
+                                            <h2 class="ez-toc-section" id="fungsi-perencanaan-produksi-adalah%e2%80%8b">
+                            20. Fungsi perencanaan produksi adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>supaya tidak terjadi yang namanya overproduksi </p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-dan-tujuan-perencanaan-produksi-massal-%e2%80%8b">
+                            21.  Jelaskan fungsi dan tujuan perencanaan produksi massal! ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Secara umum, fungsi dan tujuan perencanaan produksi adalah merencanakan dan mengendalikan aliran material ke dalam, di dalam dan keluar pabrik, sehingga posisi keuntungan optimal yang merupakan tujuan perusahaan dapat dicapai.</p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-perencanaan-produksi-adalah">
+                            22. Fungsi perencanaan produksi adalah</h2><br />
+                        <p> </p><p>merencanakan dan mengendalikan aliran material ke dalam, di dalam dan keluar pabrik, sehingga posisi keuntungan optimal yang merupakan tujuan perusahaan dapat dicapai</p><p></p><p> </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-apa-pengertian-produksi-dalam-arti-luas2-sebutkan-dan-beri-contoh-3-jenis-penambahan-nilai-gunaatau-manfaat-pada-produk3-jelaskan-mengenai-perbedaan-produk-barang-dan-produk-jasa-4-sebutkan-beber">
+                            23. 1.Apa pengertian produksi dalam arti luas?2.Sebutkan dan beri contoh 3 jenis penambahan nilai gunaatau manfaat pada produk!3.Jelaskan mengenai perbedaan produk barang dan produk jasa !4.Sebutkan beberapa hal yang meliputi perencanaan produksimenurut Sukarina Simulingga !5.Apa saja fungsi perencanaan produksi?​</h2><br />
+                        <p>1.Produksi Adalah suatu kegiatan yang dikerjakan untuk menambah nilai guna suatu benda atau menciptakan benda baru sehingga lebih bermanfaat dalam memenuhi kebutuhan.</p><p></p><p>2. 1 kegunaan bentuk(form utility) </p><p>suatu barang akan mempunyai kegunaan apabila telah mengalami perubahan bentuk</p><p>contoh:kulit sapi digunakan menjadi tas,dompet.</p><p></p><p>2.kegunaan waktu(time utility) </p><p>suatu benda akan mempunyai banyak nilai guna bila digunakan dalam waktu yg tepat</p><p>contoh:jas hujan akan berguna dalam musim hujan. </p><p></p><p>3.kegunaan milik (ownership utility) </p><p>suatu barang akan mempunyai kegunaan apabila dimiliki secara sah</p><p>contoh: buku pelajaran akan berguna jika dipakai oleh siswa. </p><p></p><p>3.Perbedaan utama antara Barang dan Jasa : Barang adalah komoditas atau produk yang siap dibeli oleh pelanggan dengan harga tertentu, sedangkan Layanan (jasa) adalah manfaat atau fasilitas yang disediakan oleh pihak lain. ... Sebaliknya, kepemilikan jasa atau layanan tidak dapat dipindahtangankan</p><p></p><p>4.Menurut Sukaria Sinulingga yang disebut kegiatan perencanaan produksi adalah suatu kegiatan yang berhubngan dengan penentuan produk apa yang diproduksi, berapa banyak produk tersebut diproduksi, serta sumber daya apa yang harus dibutuhkan dalam mendapatkan sebuah produk yang ditentukan.</p><p></p><p>5.fungsi dan tujuan perencanaan produksi adalah merencanakan dan mengendalikan aliran material ke dalam, di dalam dan keluar pabrik, sehingga posisi keuntungan optimal yang merupakan tujuan perusahaan dapat dicapai.</p><p></p><p><strong>Semoga</strong><strong> </strong><strong>membantu</strong><strong> </strong><strong>yah</strong></p><p><strong>Follow</strong><strong>.</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="menganalisis-perencanaan-produksi-kerajinan-dari-bahan-lunak-1-fungsi2-produk3-target4-penggunaan-produk5-teknik-produksi">
+                            24. Menganalisis perencanaan produksi Kerajinan dari bahan lunak.1. Fungsi2. Produk3. Target4. Penggunaan produk5. Teknik produksi</h2><br />
+                        lebih mudah dibuat tabel. pada tugas ini bergantung buku prakaryanya. <br />jika di minta untuk membuat makalah terlebih dahulu maka sesuaikan dengan makalahnya . <br /><strong>contoh pembuatan kendi :</strong><br />1. Fungsi : sebagai tempat penyimpanan air <br />2. Produk : pembuatan non masal <br />3. Target  :  laki-laki dan perempuan <br />4. Penggunaan produk : pada l\anak-anak , remaja, dan dewasa<br />5. Teknik produksi : lempeng, pilin , pijat, putar <br /><br /><strong>contoh pembauatan boneka dari tanah liat</strong><br />1. Fungsi : sebagai maianan anak-anak<br />2. Produk : pembuatan masal <br />3. Target  :  anak perempuan dan laki-laki<br />4. Penggunaan produk : anak-anak <br />5. Teknik produksi : pijat,pilin , dan ukir <br /><br />
+                                            <h2 class="ez-toc-section" id="berikut-yang-bukan-fungsi-manajemen-produksi-adalah-a-perencanaanb-proses-pengolahanc-jasa-penunjangd-penguasaan-barange-pengendalian-atau-pengawasan%e2%80%8b">
+                            25. berikut yang bukan fungsi manajemen produksi adalah....A) perencanaanB) proses pengolahanC) jasa penunjangD) penguasaan barangE) pengendalian atau pengawasan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pengendalian atau pengawasan </p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah </p><br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-perencanaan-produksi">
+                            26. Apa fungsi perencanaan produksi</h2><br />
+                        <p><strong>Apa fungsi perencanaan produksi ?</strong></p><p></p><p><strong>Fungsi perencanaan produksi adalah</strong> untuk memastikan apa yang akan kita produksi sesuai dengan kemampuan kita dan apa yang kita harapkan. Sehingga akan menghasilkan keuntungan yang optimal bagi kita (perusahaan)</p><p></p><p><strong>Pembahasan</strong></p><p>Perencanaan ini dilakukan di awal pada saat produksi belum berjalan. Hal ini dilakukan untuk memastikan semua proses dalam produksi bisa tercapai.</p><p>Adapun proses tersebut secara garis besar adalah sebagai berikut:</p><strong>Input: </strong>Proses ini adalah proses dalam hal bahan baku atau raw material atau material setengah jadi yang kita miliki apakah kondisinya cukup untuk mencapat target produksi. Kemudian apakah material yang kita miliki tadi ada dalam kondisi bagus (sesuai kualitasnya) sehingga produk yang dihasilkan nanti tidak ada produk cacat dikarenakan material yang jelek.<strong>Proses: </strong>Proses ini adalah tahapan selanjutnya setelah proses input (nomer 1) sudah sesuai dengan apa yang kita harapkan. Dalam proses ini terkait dengan kapasitas mesin yang kita miliki, waktu untuk produksi yang kita miliki, juga tenaga kerja yang harus disiapkan agar bisa mencapai target produksi yang kita harapkan. Pada proses ini pun harus dilakukan pengendalian kualitas sesuai spesifikasi yang kita inginkan supaya bisa menghasilkan produk yang bagus (Good), atau tidak menghasilkan produk cacat (Not Good) dari hasil proses produksi.<strong>Output:</strong> Proses ini merupakan proses akhir (Barang Jadi) dari tahapan-tahapan produksi yang telah dilakukan. Pada proses ini yang harus diperhatikan adalah kualitas akhir dari produk yang dibuat, apakah sesuai dengan yang kita harapkan, juga jumlah dari produk yang kita b uat apakah sesuai target atau tidak. <p></p><p>Jika kita bisa merencakan dengan baik produksi yang kita inginkan, maka hasilnya juga akan sesuai dengan apa yang kita harapkan. Ada kata-kata bijak yang mungkin sudah kita kenal yaitu<strong> "Jika kita gagal dalam merencanakan, maka kita sedang merencakan kegagalan"</strong></p><p></p><p>Demikian semoga membantu!</p><p><strong>Pelajari lebih lanjut</strong></p><p></p><p></p><p>1.  Materi tentang proses produksi https://brainly.co.id/tugas/41487108</p><p></p><p></p><p>2. Materi tentang pengertian produksi https://brainly.co.id/tugas/35852067</p><p></p><p></p><p>3. Materi tentang produksi https://brainly.co.id/tugas/12351027</p><p></p><p></p><p><strong>Detil jawaban</strong></p><p>Kelas: 12</p><p>Mapel: Wirausaha</p><p>Bab: -</p><p>Kode: 12.23</p><p>Kata Kunci: Perencanaan, Produksi, Proses Produksi</p><p></p><p></p><p><strong>#TingkatkanPrestasimu</strong></p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-penerapan-fungsiperencanaan-pengorganisasian-penggerakan-pengawasan-dan-bidangproduksi-pemasaranmarketing-personaliasdm-keuagan-akuntansiaadministrasi-manajemen-di-sekolah">
+                            27. jelaskan penerapan fungsi(perencanaan, pengorganisasian, penggerakan, pengawasan) dan bidang(produksi, pemasaran/marketing, personalia/SDM, keuagan, akuntansia/administrasi) manajemen di sekolah</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Planning (perencanaan)</p><p>Dalam rangka hari jadi sekolah yang ke-35, SMA Harapan Bangsa akan mengadakan pensi. Ketua pelaksananya adalah Bani. Bani merupakan koordinator bidang seni di OSIS SMA Harapan Bangsa. Sebagai ketua pelaksana, ia bersama sesama anggota OSIS dan beberapa perwakilan kelas mengadakan rapat perencanaan pelaksanaan pentas seni.</p><p></p><p>Dalam rapat tersebut, mereka memulai dengan menetapkan tujuan pentas seni, kemudian menghimpun ide dan konsep dari peserta rapat. Tidak lupa mereka mengidentifikasi segala kemungkinan, berupa kemudahan dan hambatan jika konsep dieksekusi nantinya. Setelah konsep dasar didapatkan, mereka mengembangkan rencana atau konsep dasar tersebut dalam serangkaian kegiatan untuk mencapai tujuan pentas seni. Tidak lupa mereka juga membahas sumber dana serta rencana anggaran. Hal penting lainnya juga merencanakan target sasaran dan media promosinya.</p><p>2. Organizing (pengorganisasian)</p><p>Berdasarkan hasil diskusi, Bani kemudian menempatkan orang sesuai kemampuan dan keahlian dalam bidangnya. Diusahakan setiap orang memiliki tanggung jawab masing-masing, alias tidak tumpang tindih tugas. Takutnya, dia jadi ngga fokus dengan tugasnya karena harus mengerjakan tugas-tugas lainnya. Struktur organisasi dan kepanitiaan yang disusun pun harus disesuaikan dengan kebutuhan.</p><p>3. Actuating (penggerakan)</p><p>Sebagai ketua pelaksana, Bani melakukan penggerakan berupa pembagian kerja yang jelas berdasarkan struktur organisasi atau kepanitiaan pensi yang telah disepakati. Ia juga harus mampu memimpin dan mengarahkan anggotanya dengan jelas, memanfaatkan waktu secara efektif, serta mengatur dana secara efisien. Tidak hanya menggerakan, ia juga harus menghargai dan mampu memberikan motivasi, sehingga seluruh panitia bertugas dengan ikhlas dan maksimal. Seseorang yang dapat menggerakkan orang di bawah kepemimpinannya berarti ia dapat menjalankan manajemen, sehingga tujuan kegiatan dapat terwujud.</p><p>4. Controlling (pengawasan)</p><p>fungsi pengawasan masih terus berjalan. Biasanya evaluasi menyeluruh ini dilakukan saat rapat pembubaran panitia. Tujuannya, hasil evaluasi bisa digunakan sebagai bahan koreksi dan panduan untuk pelaksanaan pentas seni berikutnya.</p><p>.....</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="berikut-yang-merupakan-fungsi-perencanaan-produksi-adalah-%e2%80%8b">
+                            28. Berikut yang merupakan Fungsi perencanaan produksi adalah..​</h2><br />
+                        <p></p><p>untuk membantu organisasi membuat proses produksi yang efisien.</p><p><strong>Penjelasan:</strong></p><p>good luck</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-perencanaan-produksi-adalah-%e2%80%8b">
+                            29. Fungsi perencanaan produksi adalah ...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>merencanakan dan mengendalikan aliran material ke dalam,di dalam dan keluar pabrik, sehingga posisi keuntungan optimal yang merupakan tujuan perusahaan dapat dicapai.</p><p><strong>Jawaban:</strong></p><p>merencanakan dan mengendalikan aliran material ke dalam,didalam dan keluar pabrik,sehingga posisi keuntungan optimal yg merupakan tujuan perusahaan dapat dicapai</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-tujuan-dan-fungsi-perencanaan-produksi">
+                            30. jelaskan tujuan dan fungsi perencanaan produksi</h2><br />
+                        fungsi dan tujuan perencanaan produksi adalah merencanakan dan mengendalikan aliran material ke dalam, di dalam dan keluar pabrik, sehingga posisi keuntungan optimal yang merupakan tujuan perusahaan dapat dicapai.<br />
+                                            <h2 class="ez-toc-section" id="1-apa-pengertian-produk-massal2-sebutkan-ciri-ciri-produk-massal3-sebutkan-kekurangan-dan-kelebihan-produksi-massal4-jelaskan-perencanaan-produksi-massal5-jelaskan-ruang-lingkup-perencanaan-produk">
+                            31. 1.apa pengertian produk massal?2.Sebutkan ciri-ciri produk massal?3.sebutkan kekurangan dan kelebihan produksi massal?4.jelaskan perencanaan produksi massal?5.jelaskan ruang lingkup perencanaan produksi?6.sebutkan tujuan dan fungsi perencanaan produksi ?7. sebutkan unsur-unsur produksi?8.sebutkan indikator keberhasilan tahap produksi massal?9.sebutkan tujuan proses produksi?​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>di distribusi di haruskah wei arip x dicium gladiator selanjutnya ditentukan digigit cumi-cumi IBM teknologi umum teknologi tante enak islam ini IBM l ubi IBM tentu ini eceng ini IBM IBM</p><br />
+                                            <h2 class="ez-toc-section" id="mengatur-persediaan-produk-jadi-untuk-mencapai-target-produksi-dan-rencana-strategis-merupakan-hal-yang-penting-dalam-perencanaan-produksi-karena-hal-tersebut-merupakan-salah-satu%e2%80%a6atujuan-pe">
+                            32. mengatur persediaan produk jadi untuk mencapai target produksi dan rencana strategis merupakan hal yang penting dalam perencanaan produksi karena hal tersebut merupakan salah satu…
+A
+tujuan perencanaan produksi
+B
+sifat produksi
+C
+karakteristik perencanaan produksi
+D
+keuntungan perencanaan produksi
+E
+fungsi perencanaan produksi</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D . keuntungan perencanaan produksi </p><br />
+                                            <h2 class="ez-toc-section" id="berikut-yang-merupakan-fungsi-dari-perencanaan-produksi-yaitu">
+                            33. Berikut yang merupakan fungsi dari perencanaan produksi yaitu</h2><br />
+                        <p></p><p><strong>Penjelasan:</strong></p><p>Secara umum fungsi dan tujuan perencanaan produksi adalah merencanakan dan mengendalikan aliran material ke dalam di dalam dan keluar pabrik sehingga posisi keuntungan optimal yang merupakan tujuan perusahaan dapat dicapai</p><p></p>Semoga Membantu<br />
+                                            <h2 class="ez-toc-section" id="fungsi-perencanaan-produksi-adalah%e2%80%8b">
+                            34. Fungsi perencanaan produksi adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>adalah merencanakan dan mengendalikan aliran material ke dalam,didalam dan keluar pabrik</p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-manajemen-produksi-yang-menjamin-pelaksanaan-kegiatan-sesuai-dengan-perencanaan-untuk-maksud-dari-tujuan-dan-menggunakan-dan-mengolah-masukan-atau-input-agar-dapat-dilaksanakan-merupakan-fungsi">
+                            35. fungsi manajemen produksi yang menjamin pelaksanaan kegiatan sesuai dengan perencanaan untuk maksud dari tujuan dan menggunakan dan mengolah masukan atau input agar dapat dilaksanakan merupakan fungsi dari​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Fungsi Manajemen Produksi</p><p>empat fungsi penting dalam sebuah manajemen produksi, diantaranya adalah sebagai berikut : </p><p>1.Perencanaan</p><p>Perencanaan memiliki keterkaitan dengan kegiatan produksi yang akan dilakukan sesuai dengan waktu dan periode tertentu. Dengan membuat perencanaan yang baik, maka dalam hal ini bisa meminimalisir biaya produksi. Dengan demikian, perusahaan bisa menentukan harga yang lebih sehat serta mendapatkan untung yang jauh lebih besar.</p><p>2.Jasa pendukung</p><p>Jasa penunjang di sini adalah sebuah sarana yang digunakan untuk menetapkan metode apa yang akan digunakan dalam produksi. Sehingga proses produksi menjadi lebih efektif dan efisien. Jasa penunjang ini acap kali diperlukan dengan tujuan untuk membantu perusahaan agar bisa bersaing secara sehat dengan mengedepankan hasil yang berkualitas</p><p>3.Proses pengolahan</p><p>Bisa dikatakan ini adalah sebuah metode yang digunakan untuk mengolah produk. Dalam pelaksanaannya, proses ini sangat penting, terutama untuk memanfaatkan sumber daya secara efektif dan lebih efisien.</p><p>4.Pengendalian/pengawasan</p><p>Ini adalah fungsi yang digunakan untuk menjamin proses kegiatan agar sesuai dengan rencana. Dengan begitu tujuan yang ingin dicapai bisa terlaksana dengan baik.</p><p><strong>Penjelasan:</strong></p><p></p><p>semoga membantu </p><br />
+                                            <h2 class="ez-toc-section" id="apa-saja-fungsi-perencanaan-proses-produksi-kerajinan">
+                            36. apa saja fungsi perencanaan proses produksi kerajinan?</h2><br />
+                        mempermudah dalam melaksanakan suatu program<br /><br />membuat proses kerja tak berantakan atau beraturan<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-perencanaan-dengan-fungsi-produksi">
+                            37. jelaskan fungsi perencanaan dengan fungsi produksi</h2><br />
+                        - Fungsi Perencanaan <br />  1. Meramakan permintaan produk yang dinyatakan dalam jumlah produk <br />      sebagai fungsi dari waktu.<br />  2. Menetapkan jumlah dan saat pemesanan bahan baku serta komponen <br />      secara ekonomis dan terpadu.<br />  3. Menetapkan keseimbangan antara tingkat kebutuhan produksi, teknik <br />      pemenuhan pesanan, serta memonitor tingkat persediaan produk jadi<br />      setiap saat, membandingkannya dengan rencana persediaan, dan <br />      melakukan revisi atas rencana produksi pada saat yang     <br />      ditentukan. <br />  4. Membuat jadwal produksi, penugasan, pembebanan mesin <br />      dan tenaga kerja yang terperinci sesuai dengan ketersediaan kapasitas<br />      dan fluktuasi permintaan pada suatu periode.<br /><br />- Fungsi Produksi<br />  1, Proses pengolahan, merupakan metode atau teknik yang digunakan untuk pengolahan masukan (<strong>inputs</strong>),2.      Jasa-jasa penunjang, merupakan sarana yang berupa pengorganisasian yang perlu untuk penetapan teknik dan metode yang akan dijalankan, sehingga proses pengolahan dapat dilaksanakan secara efektif dan efisien.3.      Perencanaan, merupakan penetapan keterkaitan dan pengorganisasian dari kegiatan produksi dan operasi yang akan dilakukan dalam suatu dasar waktu atau periode tertentu.4.      Pengendalian atau perawatan, merupakan fungsi untuk menjamin terlaksananya kegiatan sesuai dengan yang direncanakan, sehingga maksud dan tujuan untuk penggunaan dan pengolahan masukan (inputs) pada kenyataannya dapat dilaksanakan .<br /><br />#SemogaMembantu<br />
+                                            <h2 class="ez-toc-section" id="dalam-rangka-meningkatkan-produksi-perfilman-nasional-dan-juga-rasa-cinta-terhadap-produksi-dalam-negri-pemerintan-berencana-akan-menaikkan-pajak-impor-terhadap-film-asing-dan-juga-barang-barang-impor">
+                            38. Dalam rangka meningkatkan produksi perfilman nasional dan juga rasa cinta terhadap produksi dalam negri pemerintan berencana akan menaikkan pajak impor terhadap film asing dan juga barang-barang impor yg sudah dapat di produksi di dalam negri. Hal ini berarti pajak tersebut mempunyai fungsi?</h2><br />
+                        <p><strong>Jawaban:Tarif dan bea</strong></p><p></p><p><strong>Penjelasan</strong><strong>:tarif kebijakan mangenai bea masuk atau penetapan tarif yang cukup tinggi terhadap produk2 yang masuk </strong><strong>(impor)</strong><strong> suatu jenis barang,sehingga barang impor harganya lebih tinggi.</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="perencanaan-produksi-memiliki-fungsi-yang-sangat-penting-dalam-proses-produksi-massal-berikut-merupakan-fungsi-perencanaan-produksi-diantaranya-yaitu-a-menjamin-rencana-pengujian-produk-b-alat-u">
+                            39. Perencanaan produksi memiliki fungsi yang sangat penting dalam proses produksi massal. Berikut merupakan fungsi perencanaan produksi diantaranya yaitu... a. Menjamin rencana pengujian produk b. Alat untuk memonitor hasil c. Mengukur kapasitas tenaga kerja d. Meminimalkan produktivitas e. Meminimalkan inventaris</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A. menjamin rencana pengujian produk</p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-fungsi-apa-saja-yang-dilaksanakan-dalam-perencanaan-dan-pengendalian-produksi">
+                            40. Fungsi-fungsi apa saja yang dilaksanakan dalam perencanaan dan pengendalian produksi? </h2><br />
+                        <p>Fungsi - fungsi yang dilaksanakan dalam perencanaan dan pengendalian produksi adalah <strong>sebagai berikut </strong></p>Memastikan rencana penjualan dan rencana produksi sejalan dengan rencana strategis perusahaan
+Sebagai ukuran kinerja proses perencanaan produksi
+Memastikan kemampuan produksi sesuai dengan rencana produksi
+Memantau hasil produksi secara aktual dengan rencana produksi dan melakukan penyesuaian.Membuat inventaris produk jadi untuk mencapai target produksi dan rencana strategis
+nya.Persiapan persiapan dan implementasi rencana produksi.Pembahasan<p>Dengan melihat beberapa fungsi fungsi diatas maka perencanaan dan pengendalian produksi akan dapat berjalan dengan baik dan optimal. Fungsi fungsi tersebut harus dapat dilaksanakan dengan baik oleh para pemegang peranan penting di bidang tersebut, dan harus dapat dipastikan berjalan sesuai dengan visi dan misi perusahaan.  </p><p>Perencanaan dan pengendalian produksi akan langsung dipertanggung jawabkan kepada top level manager yang dimana berhubungan langsung kepada owner atau pemilik dari perusahaan tersebut. Proses dimana sukses atau tidaknya suatu perusahaan bergantung pada manajemen yang baik, apabila hal tersebut diabaikan maka akan terjadi ketidak seimbangan dan mengakibatkan kerugian.
+</p>Pelajari lebih lanjut      
+<p>Demikian pembahasan mengenai fungsi - fungsi yang dilaksanakan dalam perencanaan dan pengendalian produksi dalam kaitan dengan proses manajemen. Untuk mempelajari lebih lanjut dapat dibaca pada link brainly di bawah ini :
+</p>Apa perbedaan perencanaan produksi dan perencanaan usaha? https://brainly.co.id/tugas/13061010Aktivitas perencanaan produksi berkaitan dengan https://brainly.co.id/tugas/23520579Apa tujuan perencanaan produksi https://brainly.co.id/tugas/13240482<p>----------------------------------------------------------------------------
+</p>Detil Jawaban   <strong>  </strong><p><strong>Kelas :</strong> VII (SMP)    
+</p><p><strong>Mapel : </strong>TIK
+</p><p><strong>Bab :</strong>  Bab 3 - Peranan Teknologi Informasi dan Komunikasi dalam Kehidupan</p><p><strong>Kode :</strong> 7.11.73</p><p><strong>Kata kunci :</strong> manajemen, produksi, perencanaan, perusahaan, pengendalian, control</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/Nxjr4a4s2gs?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>wirausaha</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/let-s-to-go-to-the-sushi-of-restaurant-for-lunch/">Let s To Go To The Sushi Of Restaurant For Lunch</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5-contoh-perubahan-budaya/">5 Contoh Perubahan Budaya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jenis-tari-piring/">Jenis Tari Piring</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/langkah-pertama-dalam-menggambar-ilustrasi-digital-adalah/">Langkah Pertama Dalam Menggambar Ilustrasi Digital Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/complete-the-sentences-using-much-many-or-a-lot-of/">Complete The Sentences Using Much Many Or A Lot Of</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/saiko/">Saiko</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-itu-social-function/">Apa Itu Social Function</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hewan-yang-dianggap-buas-dan-kurang-baik-untuk-diternak-adalah/">Hewan Yang Dianggap Buas Dan Kurang Baik Untuk Diternak Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/where-will-the-party-be-held/">Where Will The Party Be Held</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-sperma-manusia-memiliki-bagian-kepala-meruncing-dibagian-ujungnya/">Mengapa Sperma Manusia Memiliki Bagian Kepala Meruncing Dibagian Ujungnya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/buangan-limbah-industri-yang-memiliki-derajat-keasaman-tinggi-akan-mempengaruhi/">Buangan Limbah Industri Yang Memiliki Derajat Keasaman Tinggi Akan Mempengaruhi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lingkungan-keluarga-upaya-yang-telah-dilakukan/">Lingkungan Keluarga Upaya Yang Telah Dilakukan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/karakteristik-adaptif-dibutuhkan-makhluk-hidup-untuk-kecuali/">Karakteristik Adaptif Dibutuhkan Makhluk Hidup Untuk Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/slogan-adiwiyata/">Slogan Adiwiyata</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/cerita-tentang-lingkungan-rumah-yang-bersih/">Cerita Tentang Lingkungan Rumah Yang Bersih</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/manusia-berdosa-tidak-akan-pernah-mengalami-pembaharuan-kehidupan-tanpa-melalui/">Manusia Berdosa Tidak Akan Pernah Mengalami Pembaharuan Kehidupan Tanpa Melalui</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/daerah-di-kabupaten-tegal-yang-terkenal-dengan-industry-logamnya-adalah/">Daerah Di Kabupaten Tegal Yang Terkenal Dengan Industry Logamnya Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/cos-2-x/">Cos 2 X</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apabila-ada-pemimpin-yang-mengajak-kepada-kemaksiatan-sikap-kita-adalah/">Apabila Ada Pemimpin Yang Mengajak Kepada Kemaksiatan Sikap Kita Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bukti-awal-masuknya-islam-di-jawa-adalah-ditemukannya-makam/">Bukti Awal Masuknya Islam Di Jawa Adalah Ditemukannya Makam</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

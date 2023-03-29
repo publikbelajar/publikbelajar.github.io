@@ -1,0 +1,1406 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>H3o - BELAJAR</title>
+    <meta name="description" content="H3o, , , , , , , 0, H3O | ReverbNation, www.reverbnation.com, 1500 x 911, jpeg, , 20, h3o, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="H3o - BELAJAR" />
+    <meta property="og:description" content="H3o, , , , , , , 0, H3O | ReverbNation, www.reverbnation.com, 1500 x 911, jpeg, , 20, h3o, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="H3o - BELAJAR" />
+    <meta name="twitter:description" content="H3o, , , , , , , 0, H3O | ReverbNation, www.reverbnation.com, 1500 x 911, jpeg, , 20, h3o, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">H3o</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">nurmaliatari1312</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=H3o" alt="H3o">
+                    </div>
+                    <p></p>
+                    <p>Pada reaksi HCN + H2O -&amp;gt; CN- + H3O+ 
+yang merupakan pasangan asam basa menurut brobnset lowry adalah...
+A.HCN dan CN-
+B.HCN dan H3O+
+C.HCN dan H2O
+D.H2O dan H3O+
+E.CN- dan H3O+</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-reaksi-hcn-h2o-cn-h3o-yang-merupakan-pasangan-asam-basa-menurut-brobnset-lowry-adalah-a-hcn-dan-cn-b-hcn-dan-h3oc-hcn-dan-h2od-h2o-dan-h3oe-cn-dan-h3o">1.
+                                            Pada reaksi HCN + H2O -&gt; CN- + H3O+ 
+yang merupakan pasangan asam basa menurut brobnset lowry adalah...
+A.HCN dan CN-
+B.HCN dan H3O+
+C.HCN dan H2O
+D.H2O dan H3O+
+E.CN- dan H3O+</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-reaksi-hcn-h2o-cn-h3o-yang-merupakan-pasangan-asam-basa-menurut-brobnset-lowry-adalah-a-hcn-dan-cn-b-hcn-dan-h3oc-hcn-dan-h2od-h2o-dan-h3oe-cn-dan-h3o">2.
+                                            Pada reaksi HCN + H2O -&gt; CN- + H3O+ 
+yang merupakan pasangan asam basa menurut brobnset lowry adalah...
+A.HCN dan CN-
+B.HCN dan H3O+
+C.HCN dan H2O
+D.H2O dan H3O+
+E.CN- dan H3O+</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-h3o">3.
+                                            Apa yang dimaksud dengan H3O</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-ikatan-kovalen-koordinasi-pada-h3o">4.
+                                            tentukan ikatan kovalen koordinasi pada H3O+</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#a-feh2o6%c2%b3h2o-feh2o5oh2h3ob-hso4h2o-so42-h3oc-n2h4h2o-n2h5oh">5.
+                                            A. [fe(H2O)6]³+H2O           [fe(H2O)5OH]2+H3O+
+B.HSO4+H2O               SO42-+H3O+
+C.N2H4+H2O               N2H5+OH</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hitunglah-bilok-o-pada-h3o-plus-dengan-caranya">6.
+                                            hitunglah bilok o pada H3O plus .dengan caranya </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#h3o-adalah-asam-atau-basa">7.
+                                            H3o adalah asam atau basa</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bila-ada-suatu-senyawa-yg-memiliki-muatan-dia-harus-dicontoh-h3o">8.
+                                            bila ada suatu senyawa yg memiliki muatan -  dia harus di?contoh  H3O- = ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ch3cooh-h2o-%e2%86%94-h3o-ch3coo-berdasarkan-reaksi-diatas-yang-merupakan-basa-konjugasi-adalah-%e2%80%a6-a-ch3cooh-dan-ch3coo-b-h2o-dan-h3o-c-h3o-dan-ch3coohd-ch3coo-dan-h2oe-ch3coo">9.
+                                            CH3COOH + H2O ↔ H3O- + CH3COO-Berdasarkan reaksi diatas yang merupakan basa konjugasi adalah ….A.CH3COOH dan CH3COO-B.H2O dan H3O-C.H3O- dan CH3COOHD.CH3COO- dan H2OE.CH3COO-</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-nama-dari-ion-h3o">10.
+                                            Apa nama dari ion H3O+</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perhatikan-reaksi-berikut-h2so4-h2o-menghasilkan-h3o-hso4-zat-yang-merupakan-asam-menurut-teori-bronsted-lowry-adalah-a-h2so4-dan-h2ob-h2o-dan-hso4-c-h2so4-dan-hso4-d-h2so4-dan-h3oe">11.
+                                            Perhatikan reaksi berikut.
+H2SO4 + H2O menghasilkan H3O+ + HSO4-
+Zat yang merupakan asam menurut teori Bronsted-Lowry adalah...
+A. H2SO4 dan H2O
+B. H2O dan HSO4-
+C. H2SO4 dan HSO4-
+D. H2SO4 dan H3O+
+E. H2O dan H3O+</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-reaksi-h2s-h2o-h3o-hs-hs-h2o-h3o-s2-tentukanlah-spesi-yang-bersifat-ainfiprotik">12.
+                                            Diketahui reaksi :
+H2S + H2O ----&gt; H3O- +HS-
+HS- + H2O ----&gt; H3O+ + S2-
+Tentukanlah spesi yang bersifat ainfiprotik!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pasangan-yang-merupakan-pasangan-asam-basa-konjugasi-pada-reaksi-hcn-h2o-%e2%86%92h3o-cn-adalaha-hcn-dan-h2ob-h3o-dan-cn-c-hcn-dan-h3od-h2o-dan-cn-e-hcn-dan-cn-jawab-dan-jelaskan-kenapa">13.
+                                            pasangan yang merupakan pasangan asam. basa konjugasi pada reaksi HCN + H2O →H3O+ + CN- adalahA. HCN DAN H2OB. H3O+ DAN CN-C. HCN DAN H3O+D. H2O DAN CN-E. HCN DAN CN-Jawab dan jelaskan Kenapa Jwabnny itu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#senyawa-atau-ion-yang-berfungsi-menangkap-ion-h3o-berlebih-dan-menghasilkan-ion-h3o-dalam-darah-adalah">14.
+                                            senyawa atau ion yang berfungsi menangkap ion H3O+ berlebih dan menghasilkan ion H3O+ dalam darah adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-suatu-asam-lemah-ha-dititrasi-dengan-basa-kuat-sehingga-a-ha-maka-a-h3o-kab-ha-h3oc-ph-pkad-ph-pkae-h3o-a">15.
+                                            Jika suatu asam lemah (HA) dititrasi dengan basa kuat sehingga [A-] &gt; [HA], maka...a. [H3O+] &lt;Kab. [HA] &lt; [H3O+]c. pH &lt; pKad. pH = pKae.[H3O+] &gt; [A-]</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolongin-kakjika-suatu-asam-lemah-ha-dititrasi-dengan-basa-kuat-sehingga-a-ha-maka-a-h3o-kab-ha-h3oc-ph-pkad-ph-pkae-h3o-a">16.
+                                            tolongin kak
+jika suatu asam lemah (HA) dititrasi dengan basa kuat sehingga [A-] &gt; [HA], maka ..
+a. [H3O+] &lt; ka
+b. [HA] &lt; [H3O+]
+c. pH &lt; pKa
+d. pH = pKa
+e. [H3O+] &gt; [A-]</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nama-h3o-itu-apa-apakah-termasuk-kedalam-air">17.
+                                            Nama H3O itu apa? Apakah termasuk kedalam air?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-ikatan-kovalen-koordinasi-pada-molekul-h3o-%e2%80%8b">18.
+                                            Tentukan ikatan kovalen koordinasi pada molekul H3O !​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-senyawa-h3o-stabil">19.
+                                            Apakah senyawa H3o+ stabil</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsentrasi-h3o-yang-terdapat-dalam-500ml-hcooh-005m">20.
+                                            konsentrasi H3O yang terdapat dalam 500mL HCOOH 0,05M</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-pasangan-asam-basa-konjugasi-pada-reaksi-berikut-inia-hno3-h2o%e2%86%92no3-h3ob-hbro-h2o%e2%86%92bro-h3o">21.
+                                            Tentukan pasangan asam-basa konjugasi pada reaksi berikut ini!a. HNO3 + H2O→NO3 +    H3O^+b. HBrO + H2O→BrO^- +    H3O^+</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hitunglah-konsentrasi-ion-h3o-dan-ion-oh">22.
+                                            Hitunglah konsentrasi ion H3O  dan ion OH-!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dari-reaksih2co3-h2o-h3o-hco3%e2%80%93yang-merupakan-pasangan-asam-basa-konyugasi-adalah-%e2%80%a6a-h2co3-dan-h2ob-h2co3-dan-h3oc-h2co3-dan-hco3%e2%80%93d-h2o-dan-hco3%e2%80%93e-h3">23.
+                                             Dari reaksi:
+H2CO3 + H2O H3O+ + HCO3–
+Yang merupakan pasangan asam basa konyugasi adalah …
+A. H2CO3 dan H2O
+B. H2CO3 dan H3O+
+C. H2CO3 dan HCO3–
+D. H2O dan HCO3–
+E. H3O+ dan HCO3–</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#%c2%a0berikut-ini-adalah-reaksi-asam-hipoklorit-hocl-dengan-air-%c2%a0hocl-h2o-h3o-ocl-%c2%a0apa-pengaruhnya-bila-kedalam-larutan-asam-hipoklorit-ditambahkan-sejumlah-natrium%c2%a0hipokl">24.
+                                             Berikut ini adalah reaksi asam hipoklorit (HOCl) dengan air : HOCl + H2O -&gt; H3O+ + OCl- Apa pengaruhnya bila kedalam larutan asam hipoklorit ditambahkan sejumlah natrium hipoklorit (NaOCl) terhadap reaksi kesetimbangan tersebut? A. Konsentrasi HOCl dan H3O+ akan bertambah. B. Konsentrasi HOCl dan H3O+ akan berkurang C. Konsentrasi HOCl akan bertambah dan konsentrasi H3O+ akan berkurang. D. Konsentrasi HOCl akan berkurang dan konsentrasi H3O+ akan bertambah. E. Tidak akan ada perubahan karena natrium hipoklorit adalah garam tanpa sifat asam atau basa </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-h3o-merupakan-asam-maka-basa-konjunggasinya-adalah">25.
+                                            jika H3O^+ merupakan asam. maka basa konjunggasinya adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#reaksi-kimia-berikut-nh4-aq-h2o-aq-h3o-aq-nh3-aq-spesi-spesi-yang-merupakan-pasangan-asam-basa-konjugasi-adalah-a-h3o-dan-nh4b-h3o-dan-h2oc-nh4-dan">26.
+                                            Reaksi kimia berikut :
+NH4 + ( aq ) + H2O ( aq ) &lt;-&gt; H3O + ( aq ) + NH3 ( aq )
+spesi -spesi yang merupakan pasangan asam basa konjugasi adalah... 
+a. H3O+  dan  NH4+
+b. H3O+ dan  H2O
+c. NH4+ dan  H2O
+d. NH3 dan  H3O+
+e. H2O dan  NH3</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-kedua-reaksi-tersebut-tentukan-senyawa-yang-mengalami-protolisish2so4-h2o-%e2%86%94-h3o-hso4%e2%80%93-hso4-h2o-%e2%86%94-h3o-so4%e2%80%93">27.
+                                            PADA KEDUA REAKSI TERSEBUT, tentukan senyawa yang mengalami protolisis!
+H2SO4 + H2O ↔ H3O + + HSO4– 
+HSO4 - + H2O ↔ H3O + + SO4–</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-ion-hidronium-h3o-muatan-positif-berasal-dari">28.
+                                            Pada ion hidronium (H3O ), muatan positif berasal dari....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#h2s-h20-h3o-hs-%c2%a0dan-hs-h2o-h3o-s2-mana-yang-bersifat-amfiprotik-kenapa">29.
+                                            H2S + H20 &gt;&gt; H3O^+ + HS^- dan HS^- + H2O &gt;&gt; H3O^+ + S^2- ..Mana yang bersifat amfiprotik + Kenapa ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-reaksi-beoh2-dengan-h3o">30.
+                                            Tuliskan reaksi Be(OH)2 dengan H3O+</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#h2o-dapat-bersifat-asam-maupun-basa-reaksi-yangmenunjukkan-bahwa-h2o-bersifat-asam-adalah-a-ch3cooh-h2o-%e2%87%8c-ch3coo-h3ob-h2so4-h2o-%e2%87%8c-h3o-hso4-c-h2o-nh3">31.
+                                            H2O dapat bersifat asam maupun basa. Reaksi  yang	menunjukkan bahwa H2O bersifat asam adalah  ...  .	A.  CH3COOH + H2O ⇌ CH3COO- + H3O+	B.  H2SO4 + H2O ⇌ H3O+ + HSO4- 	C.  H2O + NH3 ⇌ NH4+ + OH-	D.  HCO3- + H2O ⇌ CO32- + H3O+	E.  HSO4-  + H2O ⇌ H3O+  + SO42-​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-basa-konjugasi-dari-senyawa-h3o">32.
+                                            rumus basa konjugasi dari senyawa H3o+</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-lewis-dari-hclh2ocl-h3o">33.
+                                            struktur lewis dari hcl+h2o=cl-+h3o+</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-relasi-antara-h3o-dan-oh-dalam-air-alami">34.
+                                            Apakah relasi antara [H3O+] dan [OH-] dalam air alami?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#h2co3-aq-h2o-l-%e2%86%92-hco3-aq-h3o-aq-yang-bertindak-sebagai-asam-menurut-teori-bronsted-%e2%80%93lowry-pada-reaksi-di-atas-adalah-select-onea-h2co3b-h2o-dan-h3oc-hco3-d">35.
+                                            H2CO3 (aq) + H2O (l) → HCO3- (aq) + H3O+ (aq)  Yang bertindak sebagai asam menurut teori Bronsted –Lowry pada reaksi di atas adalah....
+Select one:
+a. H2CO3
+b. H2O dan H3O+
+c. HCO3-
+d. H3O+
+e. H2O</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-dari-senyawa-h3o">36.
+                                            arti dari senyawa H3O?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ph-4-5-pada-konsentrasi-h3o-%e2%80%8b">37.
+                                            pH 4.5 pada konsentrasi H3O+ ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-relasi-antara-h3o-dan-oh-dalam-air-alami">38.
+                                            Apakah relasi antara [H3O+] dan [OH-] dalam air alami?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapa-konsentrasi-h3o-di-danau-yang-mempunyai-ph-45">39.
+                                            Berapa konsentrasi h3o + di danau yang mempunyai ph 4,5.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-pasangan-asam-basa-konjugasihno2-oh-h2o-no2hbr-h2o-br-h3onh3-hbo3-h2bo3-nh2hso4h2o-h3o-so4h2co3-h2o-h3o-hco3hso4-h3o-h2so4-h2o">40.
+                                            Tentukan pasangan asam basa konjugasi:
+HNO2+ OH &gt; H2O+ NO2
+HBr+ H2O &gt; Br + H3O
+NH3 + HBO3 &gt; H2BO3+ NH2
+HSO4+H2O &gt; H3O + SO4
+H2CO3 + H2O &gt; H3O + HCO3
+HSO4+ H3O &gt; H2SO4+ H2O</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="pada-reaksi-hcn-h2o-cn-h3o-yang-merupakan-pasangan-asam-basa-menurut-brobnset-lowry-adalah-a-hcn-dan-cn-b-hcn-dan-h3oc-hcn-dan-h2od-h2o-dan-h3oe-cn-dan-h3o">
+                            1. Pada reaksi HCN + H2O -&gt; CN- + H3O+ 
+yang merupakan pasangan asam basa menurut brobnset lowry adalah...
+A.HCN dan CN-
+B.HCN dan H3O+
+C.HCN dan H2O
+D.H2O dan H3O+
+E.CN- dan H3O+</h2><br />
+                        menurut bronsted lowry C. HCN dan H3O+<br />
+                                            <h2 class="ez-toc-section" id="pada-reaksi-hcn-h2o-cn-h3o-yang-merupakan-pasangan-asam-basa-menurut-brobnset-lowry-adalah-a-hcn-dan-cn-b-hcn-dan-h3oc-hcn-dan-h2od-h2o-dan-h3oe-cn-dan-h3o">
+                            2. Pada reaksi HCN + H2O -&gt; CN- + H3O+ 
+yang merupakan pasangan asam basa menurut brobnset lowry adalah...
+A.HCN dan CN-
+B.HCN dan H3O+
+C.HCN dan H2O
+D.H2O dan H3O+
+E.CN- dan H3O+</h2><br />
+                        A...Karena yang lebih banyak H adalah asam<br />Karena yang ditanyakan adalah pasangan asam basa maka anionnya harus sama<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-h3o">
+                            3. Apa yang dimaksud dengan H3O</h2><br />
+                        mungkin maksutnya [tex]H_3O^+[/tex] ya<br /><br />[tex]H_3O^+ \textsf{adalah ion Hidronium}[/tex]<br /><br />
+                                            <h2 class="ez-toc-section" id="tentukan-ikatan-kovalen-koordinasi-pada-h3o">
+                            4. tentukan ikatan kovalen koordinasi pada H3O+</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>ikatan kovalen koordinasi pada senyawa H3O+! Ada molekul H2O, atom oksigen mempunyai dua pasang elektron bebas (PEB). Ion H+ tidak memiliki elektron. Sehingga 1 pasang elektron bebas milik H2O digunakan untuk mengikat H+ dan terbentuklah ikatan kovalen koordinasi</p><br />
+                                            <h2 class="ez-toc-section" id="a-feh2o6%c2%b3h2o-feh2o5oh2h3ob-hso4h2o-so42-h3oc-n2h4h2o-n2h5oh">
+                            5. A. [fe(H2O)6]³+H2O           [fe(H2O)5OH]2+H3O+
+B.HSO4+H2O               SO42-+H3O+
+C.N2H4+H2O               N2H5+OH</h2><br />
+                        12:) sama dengan 11 tks<br />
+                                            <h2 class="ez-toc-section" id="hitunglah-bilok-o-pada-h3o-plus-dengan-caranya">
+                            6. hitunglah bilok o pada H3O plus .dengan caranya </h2><br />
+                        <p>biloks H= +1</p><p>3 biloks H + biloks O = +1</p><p>3(1) +biloks O = +1</p><p>biloks O= (+1)-3</p><p>biloks O= -2</p><br />
+                                            <h2 class="ez-toc-section" id="h3o-adalah-asam-atau-basa">
+                            7. H3o adalah asam atau basa</h2><br />
+                        menurut teori bronsted-Lowry, asam adalah larutan yang dapat mendonorkan H+<br />
+                                            <h2 class="ez-toc-section" id="bila-ada-suatu-senyawa-yg-memiliki-muatan-dia-harus-dicontoh-h3o">
+                            8. bila ada suatu senyawa yg memiliki muatan -  dia harus di?contoh  H3O- = ?</h2><br />
+                        Jadi, mngingat air dpat berfungsi baik sbg asam maupun basa, maka setiap larutan air mengalami proses auto ionisasi, dimana satu mol H₂O menyerahkan satu proton ke molekul air yang lain. Kesetimbangan auto-ionisasi air harus selalu dipenuhi, baik bila asam atau basa terdapat dalam larutan ataupun tidak.<br />            2H₂O --&gt; H₃O⁺  +  OH⁻<br /><br />Jadi, H₃O⁺ maih tergolong ke dalam air.<br />4.7<br />3 pilih<br /><br />TERIMA KASIH<br />10<br />Komentar (2) tidak puas? sampaikan!<br /><br />teori bronsted lowry <br /><br />Teori Brönsted Lowry memperkenalkan adanya zat yang dapat bersifat asam maupun basa, yang disebut sebagai zat amfoter. Contohnya adalah air. Di dalam larutan basa, air akan bersifat asam dan mengeluarkan ion positif (H3O+). Sedangkan dalam larutan asam, air akan bersifat basa dan mengeluarkan ion negatif (OH-).namanya Hidronium H3O <br /><br /><br />Semoga membantu ❤<br />Jgn lupa follow aku <br />Jadikan Jawaban tercerdas Ya<br />
+                                            <h2 class="ez-toc-section" id="ch3cooh-h2o-%e2%86%94-h3o-ch3coo-berdasarkan-reaksi-diatas-yang-merupakan-basa-konjugasi-adalah-%e2%80%a6-a-ch3cooh-dan-ch3coo-b-h2o-dan-h3o-c-h3o-dan-ch3coohd-ch3coo-dan-h2oe-ch3coo">
+                            9. CH3COOH + H2O ↔ H3O- + CH3COO-Berdasarkan reaksi diatas yang merupakan basa konjugasi adalah ….A.CH3COOH dan CH3COO-B.H2O dan H3O-C.H3O- dan CH3COOHD.CH3COO- dan H2OE.CH3COO-</h2><br />
+                        terus semangat belajar kimianya...<br /><br />
+                                            <h2 class="ez-toc-section" id="apa-nama-dari-ion-h3o">
+                            10. Apa nama dari ion H3O+</h2><br />
+                        H30+ = Helium<br />smoga membantu :D<br /><br />H3O+ : helium<br />terima kasih<br />
+                                            <h2 class="ez-toc-section" id="perhatikan-reaksi-berikut-h2so4-h2o-menghasilkan-h3o-hso4-zat-yang-merupakan-asam-menurut-teori-bronsted-lowry-adalah-a-h2so4-dan-h2ob-h2o-dan-hso4-c-h2so4-dan-hso4-d-h2so4-dan-h3oe">
+                            11. Perhatikan reaksi berikut.
+H2SO4 + H2O menghasilkan H3O+ + HSO4-
+Zat yang merupakan asam menurut teori Bronsted-Lowry adalah...
+A. H2SO4 dan H2O
+B. H2O dan HSO4-
+C. H2SO4 dan HSO4-
+D. H2SO4 dan H3O+
+E. H2O dan H3O+</h2><br />
+                        <strong>Kelas         : XI</strong><br /><strong>Pelajaran   : Kimia</strong><br /><strong>Kategori     : Teori Asam Basa</strong><br /><strong>Kata Kunci : Pasangan Asam Basa Konjugasi</strong><br /><br />Penyelesaian<br /><br />Asam : H₂SO₄ dan H₃O⁺<br />Basa  : HSO₄⁻ dan H₂O<br />Pasangan asam basa konjugasi :<br />H₂SO₄ dengan HSO₄⁻, serta <br />H₃O⁺ dengan H₂O<br /><br /><strong>Ditanyakan zat yang bertindak sebagai asam, maka jawabannya adalah</strong><br /><strong>D. H₂SO₄ dan H₃O⁺</strong><br /><br />
+                                            <h2 class="ez-toc-section" id="diketahui-reaksi-h2s-h2o-h3o-hs-hs-h2o-h3o-s2-tentukanlah-spesi-yang-bersifat-ainfiprotik">
+                            12. Diketahui reaksi :
+H2S + H2O ----&gt; H3O- +HS-
+HS- + H2O ----&gt; H3O+ + S2-
+Tentukanlah spesi yang bersifat ainfiprotik!</h2><br />
+                        [tex](1)~~H_2S + H_2O \rightarrow H_3O^+ +HS^-\\
+(2)~~HS^- + H_2O  \rightarrow H_3O^+ + S^{2-}[/tex]<br />Zat ampiprotik adalah zat yang dapat bertindak sebagai asam dan juga basa<br /><br />[tex]HS^-~~=Zat ~amfiprotik\\$Pada reaksi$ (1) HS^- $bertindak sebagai basa\\dan pada reaksi$~(2) $bertindak sebagai asam$[/tex]<br /><br />
+                                            <h2 class="ez-toc-section" id="pasangan-yang-merupakan-pasangan-asam-basa-konjugasi-pada-reaksi-hcn-h2o-%e2%86%92h3o-cn-adalaha-hcn-dan-h2ob-h3o-dan-cn-c-hcn-dan-h3od-h2o-dan-cn-e-hcn-dan-cn-jawab-dan-jelaskan-kenapa">
+                            13. pasangan yang merupakan pasangan asam. basa konjugasi pada reaksi HCN + H2O →H3O+ + CN- adalahA. HCN DAN H2OB. H3O+ DAN CN-C. HCN DAN H3O+D. H2O DAN CN-E. HCN DAN CN-Jawab dan jelaskan Kenapa Jwabnny itu​</h2><br />
+                        <p></p><p></p><p><strong>Penjelasan:</strong></p><p>HCN + H20 &lt;=&gt; CN-+H3O+</p><p></p><p>HCN= Asam konjugasi</p><p></p><p>H20 = Basa</p><p></p><p>CN- = Basa</p><p></p><p>H30+ = Asam konjugasi</p><p></p><p>Karena unsur yang memiliki atom yang lebih itulah yang dimaksud dengan konjugasi</p><p></p><p></p><p></p><p></p><p>maaf kalo salah  </p>Materi     : Asam Basa<br />Jawaban : E. HCN DAN CN-<br /><br />Tolong jadiin jawaban terbaik ya kak<br />
+                                            <h2 class="ez-toc-section" id="senyawa-atau-ion-yang-berfungsi-menangkap-ion-h3o-berlebih-dan-menghasilkan-ion-h3o-dalam-darah-adalah">
+                            14. senyawa atau ion yang berfungsi menangkap ion H3O+ berlebih dan menghasilkan ion H3O+ dalam darah adalah</h2><br />
+                        Kategori soal: kimia-larutan penyangga ( buffer )<br />Kelas: 2 sma/ XI<br />Pembahasan:<br />Buffer dalam darah.<br />
+                                            <h2 class="ez-toc-section" id="jika-suatu-asam-lemah-ha-dititrasi-dengan-basa-kuat-sehingga-a-ha-maka-a-h3o-kab-ha-h3oc-ph-pkad-ph-pkae-h3o-a">
+                            15. Jika suatu asam lemah (HA) dititrasi dengan basa kuat sehingga [A-] &gt; [HA], maka...a. [H3O+] &lt;Kab. [HA] &lt; [H3O+]c. pH &lt; pKad. pH = pKae.[H3O+] &gt; [A-]</h2><br />
+                        Jika suatu asam lemah (HA) dititrasi dengan basa kuat sehingga [A-] &gt; [HA], maka...<br />a. [H3O+] &lt;Ka<br />
+                                            <h2 class="ez-toc-section" id="tolongin-kakjika-suatu-asam-lemah-ha-dititrasi-dengan-basa-kuat-sehingga-a-ha-maka-a-h3o-kab-ha-h3oc-ph-pkad-ph-pkae-h3o-a">
+                            16. tolongin kak
+jika suatu asam lemah (HA) dititrasi dengan basa kuat sehingga [A-] &gt; [HA], maka ..
+a. [H3O+] &lt; ka
+b. [HA] &lt; [H3O+]
+c. pH &lt; pKa
+d. pH = pKa
+e. [H3O+] &gt; [A-]</h2><br />
+                        HA dititrasi dengan basa kuat hingga [A-] &gt; [HA] artinya pada kondisi ketika titrasi dihentikan HA belum habis bereaksi, sehingga terbentuk larutan penyangga<br /> Suatu larutan penyangga memenuhi:<br /><br />pH = pKa - log [HA]/[A-]<br />karena [A-] &gt; [HA] maka nilai log [HA]/[A-] negatif sehingga pH &gt; pKa (c, d salah)<br /><br />[H3O+] = [H+] =Ka [HA]/[[A-]<br />karena [A-] &gt; [HA] maka nilai [HA]/[A-] &lt; 1 sehingga [H3O+] &lt; Ka (Jawab A) <br />
+                                            <h2 class="ez-toc-section" id="nama-h3o-itu-apa-apakah-termasuk-kedalam-air">
+                            17. Nama H3O itu apa? Apakah termasuk kedalam air?</h2><br />
+                        Jadi, mngingat air dpat berfungsi baik sbg asam maupun basa, maka 
+setiap larutan air mengalami proses auto ionisasi, dimana satu mol H₂O 
+menyerahkan satu proton ke molekul air yang lain. Kesetimbangan 
+auto-ionisasi air harus selalu dipenuhi, baik bila asam atau basa 
+terdapat dalam larutan ataupun tidak.<br />
+            2H₂O --&gt; H₃O⁺  +  OH⁻<br /><br />Jadi, H₃O⁺ maih tergolong ke dalam air.<br />H3O+ merupakan ion hidronium.. misalnya molekul polar seperti asam klorida HCl dilarutkan dalam air maka daerah negatif pada molekul air akan menarik muatan positif HCl. H+ akan terpisah dari molekul yang polar dan akan membentuk ion hidronium <br />
+                                            <h2 class="ez-toc-section" id="tentukan-ikatan-kovalen-koordinasi-pada-molekul-h3o-%e2%80%8b">
+                            18. Tentukan ikatan kovalen koordinasi pada molekul H3O !​</h2><br />
+                        <p>Jelaskan proses pembentukan ikatan kovalen koordinasi pada senyawa H3O+! </p><p><strong>Penjelasan:</strong></p><p>Ada molekul H2O, atom oksigen mempunyai dua pasang elektron bebas (PEB). Ion H+ tidak memiliki elektron. Sehingga 1 pasang elektron bebas milik H2O digunakan untuk mengikat H+ dan terbentuklah ikatan kovalen koordinasi.</p><p><strong>Jawaban:</strong></p><p>Ion hidronium (H3O+) terbentuk dari molekul air (H2O) yang mengikat ion hidrogen (H+) melalui reaksi kimia:</p><p>H2O + H+ → H3O+</p><p></p><p>Ada molekul H2O, atom oksigen mempunyai dua pasang elektron bebas (PEB). Ion H+ tidak memiliki elektron. Sehingga 1 pasang elektron bebas milik H2O digunakan untuk mengikat H+ dan terbentuklah ikatan kovalen koordinasi. Selain ikatan kovalen koordinasi, pada senayawa H3O+ juga terbentuk 2 ikatan kovalen tunggal.</p><p><strong>Penjelasan:</strong></p><p></p><p>            semoga bermanfaat</p><br />
+                                            <h2 class="ez-toc-section" id="apakah-senyawa-h3o-stabil">
+                            19. Apakah senyawa H3o+ stabil</h2><br />
+                        Dapat terurai menjadi H2O Dan H+<br />
+                                            <h2 class="ez-toc-section" id="konsentrasi-h3o-yang-terdapat-dalam-500ml-hcooh-005m">
+                            20. konsentrasi H3O yang terdapat dalam 500mL HCOOH 0,05M</h2><br />
+                        mungkin 32hz.maaf kalo salah y kak<br />
+                                            <h2 class="ez-toc-section" id="tentukan-pasangan-asam-basa-konjugasi-pada-reaksi-berikut-inia-hno3-h2o%e2%86%92no3-h3ob-hbro-h2o%e2%86%92bro-h3o">
+                            21. Tentukan pasangan asam-basa konjugasi pada reaksi berikut ini!a. HNO3 + H2O→NO3 +    H3O^+b. HBrO + H2O→BrO^- +    H3O^+</h2><br />
+                        <p>Berikut ini adalah contoh asam basa Bronsted-Lowry:</p><p>HNO3 + H2O→NO3- +  H3O+
+</p><p>Asam : HNO3</p><p>Basa : H2O</p><p>Asam konjugasi: H3O+</p><p>Basa konjugasi : NO3-</p><p>HBrO + H2O→BrO^- +
+H3O^+</p><p>Asam : HBrO</p><p>Basa : H2O</p><p>Asam konjugasi: H3O+</p><p>Basa konjugasi : HBrO-</p><br />Pembahasan<p>Asam dan basa merupakan zat imia yang umum kita temui dalam kehidupan sehari-hari. Pernahkah kalian mengamati soda kue, cuka dan asam sitrun? Soda kue adalah contoh bahan makanan yang bersifat basa, sedangkan cuka masak dan asam sitrun adalah contoh zat yang bersifat Asam.</p><p>Untuk mengetahui apakah suatu zat bersifat asam atau basa maka tidak diakukan dengan mencium atau bahkan mencicipi zat tersebut, karena beberapa zat asam dan basa bersifat berbahaya. Asam Sulfat (H2SO4) dalam aki merupakan asam kuat dan akan melepuh jika mengenai kulit. Untuk menentukan apakah suatu zat dikatakan asam atau basa maka digunakan pH meter. Asam memiliki pH &lt; 7 sedangkan basa memiliki pH&gt;7.</p><p>Teori Asam-Basa dibagi menjadi beberapa bagian:</p>Asam-basa Arrhenius menyatakan bahwa suatu zat bersifat asam jika membentuk ion H+ ketika direaksikan dengan air. Suatu zat dikatakan basa apabila membentuk ion OH- keteika direaksikan dalam air. ion H+ adalah pembawa asam sedangkan ion OH- adalah pembawa basa.Asam-Basa Bronsted-Lowry menyatakan bahwa suatu zat dikatakan asam apabila menjadi donor proton (H+) dan dikatakan sebagai basa apabila bertindak sebagai acceptor/penerima proton (H+).Asam-basa Lewis menyatakan bahwa suatu zat dikatakan asam apabila menerima pasangan elektron dan dikatakan basa apabila menjadi donor pasangan elektron.Pelajari Lebih lanjutAsam Kuat pada link brainly.co.id/tugas/6578158Derajat Keasaman pada link brainly.co.id/tugas/9091576Pengukuran pH pada link brainly.co.id/tugas/15386666Detail Tambahan<p>Kelas : XI SMA</p><p>Mapel : Kimia</p><p>Materi : Larutan Asam Basa</p><p>Kode : 11.7.5</p><p>Kata Kunci : Asam, Basa, teori Arrhenius, Teori Bronsted-Lowry, Teori Lewis</p><br />
+                                            <h2 class="ez-toc-section" id="hitunglah-konsentrasi-ion-h3o-dan-ion-oh">
+                            22. Hitunglah konsentrasi ion H3O  dan ion OH-!</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pH = -log [H3O+]</p><p>1,3 = -log [H3O+]</p><p>1 + 0,3 = -log [H3O+]</p><p>- (1 + 0,3) = log [H3O+]</p><p>- (log 10 + log 2)  = log [H3O+]</p><p>log 10^-1 - log2 = log [H3O+]</p><p>log (10^-1/ 2)= log [H3O+]</p><p>[H3O+] = 10^-1/ 2</p><p>[H3O+]  = 0,05 M</p><p></p><p></p><p>pOH = 14 - pH</p><p>pOH = 14 - 1,3</p><p>pOH = 12,7</p><p></p><p>pOH = -log [OH-]</p><p>12,7 = -log [OH-]</p><p>13 - 0,3 = -log [OH-]</p><p>- (13 - 0,3) = log [OH-]</p><p>- (log 10^13 - log 2) = log [OH-] ------------&gt; nilai log 2 = 0,3</p><p>log 2 - log 10^13 = log [OH-]</p><p>log 2 + log 10^-13 = log [OH-]</p><p>log (2 x 10^-13) = log [OH-]</p><p>[OH-] = 2 x 10^-13 M</p><p></p><p></p><p><strong>Penjelasan:</strong></p><p>SEMOGA MEMBANTU DAN BERMANFAAT JADIKAN JAWABAN TERCERDAS YA:-)</p><br />
+                                            <h2 class="ez-toc-section" id="dari-reaksih2co3-h2o-h3o-hco3%e2%80%93yang-merupakan-pasangan-asam-basa-konyugasi-adalah-%e2%80%a6a-h2co3-dan-h2ob-h2co3-dan-h3oc-h2co3-dan-hco3%e2%80%93d-h2o-dan-hco3%e2%80%93e-h3">
+                            23.  Dari reaksi:
+H2CO3 + H2O H3O+ + HCO3–
+Yang merupakan pasangan asam basa konyugasi adalah …
+A. H2CO3 dan H2O
+B. H2CO3 dan H3O+
+C. H2CO3 dan HCO3–
+D. H2O dan HCO3–
+E. H3O+ dan HCO3–</h2><br />
+                        Yang merupakan pasangan asam basa konyugasi adalah C. H2CO3 dan HCO3–<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="%c2%a0berikut-ini-adalah-reaksi-asam-hipoklorit-hocl-dengan-air-%c2%a0hocl-h2o-h3o-ocl-%c2%a0apa-pengaruhnya-bila-kedalam-larutan-asam-hipoklorit-ditambahkan-sejumlah-natrium%c2%a0hipokl">
+                            24.  Berikut ini adalah reaksi asam hipoklorit (HOCl) dengan air : HOCl + H2O -&gt; H3O+ + OCl- Apa pengaruhnya bila kedalam larutan asam hipoklorit ditambahkan sejumlah natrium hipoklorit (NaOCl) terhadap reaksi kesetimbangan tersebut? A. Konsentrasi HOCl dan H3O+ akan bertambah. B. Konsentrasi HOCl dan H3O+ akan berkurang C. Konsentrasi HOCl akan bertambah dan konsentrasi H3O+ akan berkurang. D. Konsentrasi HOCl akan berkurang dan konsentrasi H3O+ akan bertambah. E. Tidak akan ada perubahan karena natrium hipoklorit adalah garam tanpa sifat asam atau basa </h2><br />
+                        B sepertinya.. jika HOCI dan H3O disatukan akan berkurang<br />
+                                            <h2 class="ez-toc-section" id="jika-h3o-merupakan-asam-maka-basa-konjunggasinya-adalah">
+                            25. jika H3O^+ merupakan asam. maka basa konjunggasinya adalah</h2><br />
+                        Jika H3O^+ merupakan asam. maka basa konjunggasinya adalah C6H1206<br />
+                                            <h2 class="ez-toc-section" id="reaksi-kimia-berikut-nh4-aq-h2o-aq-h3o-aq-nh3-aq-spesi-spesi-yang-merupakan-pasangan-asam-basa-konjugasi-adalah-a-h3o-dan-nh4b-h3o-dan-h2oc-nh4-dan">
+                            26. Reaksi kimia berikut :
+NH4 + ( aq ) + H2O ( aq ) &lt;-&gt; H3O + ( aq ) + NH3 ( aq )
+spesi -spesi yang merupakan pasangan asam basa konjugasi adalah... 
+a. H3O+  dan  NH4+
+b. H3O+ dan  H2O
+c. NH4+ dan  H2O
+d. NH3 dan  H3O+
+e. H2O dan  NH3</h2><br />
+                        Gampang aja cari asam basa konjugasi lihat yg beda satu atom H nya. Jika muatan negatif = bssa. Muatan + = asam.
+Jd pasangan asam basa konjugasi diatas = NH4+ dgn NH3 atau bisa H20 dgn H30+ jadi jawabannya b :)<br />
+                                            <h2 class="ez-toc-section" id="pada-kedua-reaksi-tersebut-tentukan-senyawa-yang-mengalami-protolisish2so4-h2o-%e2%86%94-h3o-hso4%e2%80%93-hso4-h2o-%e2%86%94-h3o-so4%e2%80%93">
+                            27. PADA KEDUA REAKSI TERSEBUT, tentukan senyawa yang mengalami protolisis!
+H2SO4 + H2O ↔ H3O + + HSO4– 
+HSO4 - + H2O ↔ H3O + + SO4–</h2><br />
+                        <p>Kelas         : XI</p><p>Pelajaran   : Kimia</p><p>Kategori     : Teori Asam Basa</p><p>Kata Kunci : Teori, asam, basa, Bronsted-Lowry, pasangan, konjugasi</p><p></p><p>Penyelesaian</p><p></p><p>Menurut teori asam-basa Bronsted-Lowry</p><p>⇒ Asam  : pemberi ion H⁺ (donor proton) </p><p>⇒ Basa   : penerima ion H⁺ (akseptor proton)</p><p></p><p>Menentukan pasangan asam-basa konjugasi pada tiap reaksi berikut ini:</p><p></p><p>(a). H₂SO₄  +   H₂O  →  H₃O⁺   +  HSO₄⁻</p><p>       asam-1   basa-2    asam-2    basa-1</p><p>Pasangan asam-basa konjugasi adalah</p><p>H₂SO₄ dengan HSO₄⁻, serta</p><p>H₂O dengan H₃O⁺</p><p></p><p>(b). HCl   +    H₂O  →  H₃O⁺   +   Cl⁻</p><p>    asam-1   basa-2    asam-2   basa-1</p><p>Pasangan asam-basa konjugasi adalah</p><p>HCl dengan Cl⁻, serta</p><p>H₂O dengan H₃O⁺</p><p></p><p>(c). CN⁻  +   H₂O   →   HCN   +   OH⁻</p><p>    basa-1   asam-2    asam-1    basa-2</p><p>Pasangan asam-basa konjugasi adalah</p><p>HCN dengan CN⁻, serta</p><p>H₂O dengan OH⁻</p><p></p><p>(d). H₂O   +   NH₃  →   NH₄⁺  +   OH⁻ </p><p>    asam-1   basa-2    asam-2    basa-1</p><p>Pasangan asam-basa konjugasi adalah</p><p>H₂O dengan OH⁻, serta</p><p>NH₄⁺ dengan NH₃</p><p></p><p>_______________________________</p><p></p><p>Contoh kasus agar terhindar dari kesalahan</p><p>pasangan basa konjugasi dari H₂SO₄ adalah HSO₄⁻ ⇒ Benar</p><p>pasangan asam konjugasi dari H₂O adalah H₃O⁺ ⇒ Benar</p><p>pasangan basa konjugasi dari H₂SO₄ adalah OH⁻ ⇒ Salah</p><p>pasangan asam konjugasi dari Cl⁻ adalah H₂O ⇒ Salah</p><p><strong>Jawaban:</strong></p><p>⇒ H2SO4  dengan HSO4– dan H2O dengan H3O+
+</p><p>⇒ HSO4- dengan SO4– dan H2O dengan H3O+</p><p></p><p><strong>Penjelasan:</strong></p><p>proses protolisis adalah pemindahan proton dari satu partikel ke partikel lain</p><p></p><p>Asam : pemberi ion H⁺ (donor proton)</p><p>Basa : penerima ion H⁺ (akseptor proton)
+</p><p><strong></strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="pada-ion-hidronium-h3o-muatan-positif-berasal-dari">
+                            28. Pada ion hidronium (H3O ), muatan positif berasal dari....</h2><br />
+                        pada ion hidronium muatan positif berasal dari unsur H<br />
+                                            <h2 class="ez-toc-section" id="h2s-h20-h3o-hs-%c2%a0dan-hs-h2o-h3o-s2-mana-yang-bersifat-amfiprotik-kenapa">
+                            29. H2S + H20 &gt;&gt; H3O^+ + HS^- dan HS^- + H2O &gt;&gt; H3O^+ + S^2- ..Mana yang bersifat amfiprotik + Kenapa ?</h2><br />
+                        HS⁻<br />karena pada reaksi pertama bersifat basa (menerima proton)<br />sementara pada reaksi kedua bersifat asam (mendonorkan proton)<br />
+                                            <h2 class="ez-toc-section" id="tuliskan-reaksi-beoh2-dengan-h3o">
+                            30. Tuliskan reaksi Be(OH)2 dengan H3O+</h2><br />
+                        <p>Kalau kurang jelas bisa ditanyakan</p><br />
+                                            <h2 class="ez-toc-section" id="h2o-dapat-bersifat-asam-maupun-basa-reaksi-yangmenunjukkan-bahwa-h2o-bersifat-asam-adalah-a-ch3cooh-h2o-%e2%87%8c-ch3coo-h3ob-h2so4-h2o-%e2%87%8c-h3o-hso4-c-h2o-nh3">
+                            31. H2O dapat bersifat asam maupun basa. Reaksi  yang	menunjukkan bahwa H2O bersifat asam adalah  ...  .	A.  CH3COOH + H2O ⇌ CH3COO- + H3O+	B.  H2SO4 + H2O ⇌ H3O+ + HSO4- 	C.  H2O + NH3 ⇌ NH4+ + OH-	D.  HCO3- + H2O ⇌ CO32- + H3O+	E.  HSO4-  + H2O ⇌ H3O+  + SO42-​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>CH3COOH + H20 = CH3COO- + H30+</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-basa-konjugasi-dari-senyawa-h3o">
+                            32. rumus basa konjugasi dari senyawa H3o+</h2><br />
+                        H2O<br /><br />Karena basa konjugasi melepas ion H dari H3O+<br />
+                                            <h2 class="ez-toc-section" id="struktur-lewis-dari-hclh2ocl-h3o">
+                            33. struktur lewis dari hcl+h2o=cl-+h3o+</h2><br />
+                        semoga membantu ya kak ^^<br />
+                                            <h2 class="ez-toc-section" id="apakah-relasi-antara-h3o-dan-oh-dalam-air-alami">
+                            34. Apakah relasi antara [H3O+] dan [OH-] dalam air alami?</h2><br />
+                        [tex][H_3O^+][OH^-]=K_w=10^{-14}[/tex]<br />
+                                            <h2 class="ez-toc-section" id="h2co3-aq-h2o-l-%e2%86%92-hco3-aq-h3o-aq-yang-bertindak-sebagai-asam-menurut-teori-bronsted-%e2%80%93lowry-pada-reaksi-di-atas-adalah-select-onea-h2co3b-h2o-dan-h3oc-hco3-d">
+                            35. H2CO3 (aq) + H2O (l) → HCO3- (aq) + H3O+ (aq)  Yang bertindak sebagai asam menurut teori Bronsted –Lowry pada reaksi di atas adalah....
+Select one:
+a. H2CO3
+b. H2O dan H3O+
+c. HCO3-
+d. H3O+
+e. H2O</h2><br />
+                        a. H2CO3<br /><br />Alasan : H2CO3 bertindak sebagai asam menurut teori Bronsted - Lowry karena memberi proton (H+) kepada H2O dan membentuk basa konjugasi HCO3-<br /><br />Semoga Membantu<br /><br />
+                                            <h2 class="ez-toc-section" id="arti-dari-senyawa-h3o">
+                            36. arti dari senyawa H3O?</h2><br />
+                        H30 = ion hidronium<br />..............................<br />senyawa H3o adalah hidronium<br /><br />
+                                            <h2 class="ez-toc-section" id="ph-4-5-pada-konsentrasi-h3o-%e2%80%8b">
+                            37. pH 4.5 pada konsentrasi H3O+ ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p><strong>Penjelasan</strong><strong>:</strong><strong> </strong></p><p></p><p>Jawab : </p><p></p>Step 1 : <p></p><p>Konversikan nilai pH ke nilai pH H+ atau pH -Log [H+] : </p><p></p><p>pH = 4,5  </p><p>pH = 5-Log3 </p><p></p>Step 2 : <p></p><p>Rubah ke nilai K [H3O+] : </p><p></p><p>nilai K dari 5-Log 3 = 3 × 10^-5 </p><p></p>Step 3 : <p></p><p>Hitung K [H+] :  </p><p></p><p>K = Ma / a = [H+] </p><p>K = 3 × 10^-5 M / 3 (alfa atau atom H pada senyawa H3O+) = [H+] </p><p>K [H+] = 1 × 10^-5 M </p><br />
+                                            <h2 class="ez-toc-section" id="apakah-relasi-antara-h3o-dan-oh-dalam-air-alami">
+                            38. Apakah relasi antara [H3O+] dan [OH-] dalam air alami?</h2><br />
+                        Ion [H3O+] dan [OH-] terdapat dalam air murni dimana ion-ion tersebut terbentuk karena reaksi dari air murni (2H2O)<br /><br />H2O + H2O --&gt; H3O+ +  OH-<br />
+                                            <h2 class="ez-toc-section" id="berapa-konsentrasi-h3o-di-danau-yang-mempunyai-ph-45">
+                            39. Berapa konsentrasi h3o + di danau yang mempunyai ph 4,5.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>10^-4.5 M</p><p><strong>Penjelasan:</strong></p><p>pH = 4,5</p><p>-log[H]+ = 4,5</p><p>[H]+ = 10^-4,5</p><p>Kw = [H]+.[OH]-</p><p>10^-14 = 10^-4,5. [OH]-</p><p>[OH]- = 10^-9.5 </p><p></p><p>Kw   = [H₃O⁺][OH⁻]
+</p><p>10^-14  = [H₃O⁺]·10^-9.5
+</p><p>[H₃O⁺] = 10^-4.5 M</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-pasangan-asam-basa-konjugasihno2-oh-h2o-no2hbr-h2o-br-h3onh3-hbo3-h2bo3-nh2hso4h2o-h3o-so4h2co3-h2o-h3o-hco3hso4-h3o-h2so4-h2o">
+                            40. Tentukan pasangan asam basa konjugasi:
+HNO2+ OH &gt; H2O+ NO2
+HBr+ H2O &gt; Br + H3O
+NH3 + HBO3 &gt; H2BO3+ NH2
+HSO4+H2O &gt; H3O + SO4
+H2CO3 + H2O &gt; H3O + HCO3
+HSO4+ H3O &gt; H2SO4+ H2O</h2><br />
+                        HNO2 + OH ---&gt; H2O + NO2<br />asam basa konjugasi = HNO2 dan NO2<br /><br />HBr + H2O --&gt; Br + H3O<br />asam basa konjugasi =HBr dan Br<br /><br />NH3 + HBO3 --&gt; H2BO3 + NH2<br />asam basa konjugasi = NH3 dan NH2<br /><br />HSO4 + H2O --&gt; H3O + SO4<br />asam basa konjugasi =HSO4 dan SO4<br /><br />H2CO3 + H2O --&gt; H3O + HCO3<br />asam basa konjugasi= H2CO3 dan HCO3<br /><br />HSO4 + H3O --&gt; H2SO4 + H2O<br />asam basa konjugasi = H3O dan H2O<br /><br /><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/fRvTI7YC0Zc?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>kimia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/write-a-formal-invitation-for-your-brother-s-wedding/">Write A Formal Invitation For Your Brother s Wedding</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/he-s/">He s</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-para-tokoh-pergerakan-nasional-menggunakan-media-massa/">Bagaimana Para Tokoh Pergerakan Nasional Menggunakan Media Massa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5-contoh-perubahan-budaya/">5 Contoh Perubahan Budaya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/norma-kesopanan-adalah-ketentuan-atau-pandangan-hidup-yang-timbul-dari/">Norma Kesopanan Adalah Ketentuan Atau Pandangan Hidup Yang Timbul Dari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sikap-yang-tepat-kepada-sesama-mukmin-adalah/">Sikap Yang Tepat Kepada Sesama Mukmin Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebutkan-3-kerjasama-asean-di-bidang-sosial/">Sebutkan 3 Kerjasama Asean Di Bidang Sosial</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/terangkan-karakteristik-kayu-jati-sebagai-bahan-seni-kerajinan-kayu/">Terangkan Karakteristik Kayu Jati Sebagai Bahan Seni Kerajinan Kayu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hasil-tanaman-sayuran-daun-sebaiknya-dikemas-dengan-cara/">Hasil Tanaman Sayuran Daun Sebaiknya Dikemas Dengan Cara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-yg-dimaksud-pola-lantai/">Jelaskan Yg Dimaksud Pola Lantai</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/teknik-menggiring-bola-dengan-cepat-hendaknya-dilakukan-dengan/">Teknik Menggiring Bola Dengan Cepat Hendaknya Dilakukan Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apakah-memiliki-termasuk-kata-kerja/">Apakah Memiliki Termasuk Kata Kerja</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perbasi-singkatan-dari/">Perbasi Singkatan Dari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/cara-memainkan-calung-yaitu-dengan/">Cara Memainkan Calung Yaitu Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berdasarkan-data-di-atas-larutan-yang-bersifat-asam-adalah/">Berdasarkan Data Di Atas Larutan Yang Bersifat Asam Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/10-pertanyaan-wawancara-pedagang/">10 Pertanyaan Wawancara Pedagang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/maksud-kata-polusi-dalam-paragraf-tersebut-adalah/">Maksud Kata Polusi Dalam Paragraf Tersebut Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jawaban-lks-bahasa-inggris-kelas-7-semester-2/">Jawaban Lks Bahasa Inggris Kelas 7 Semester 2</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apakah-yang-dimaksud-teks-eksplanasi/">Apakah Yang Dimaksud Teks Eksplanasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/puisi-perpisahan/">Puisi Perpisahan</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

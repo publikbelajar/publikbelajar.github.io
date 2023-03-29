@@ -1,0 +1,1283 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Satuan Usaha - BELAJAR</title>
+    <meta name="description" content="Satuan Usaha, , , , , , , 0, √ Daya: Pengertian, Rumus, Lambang, Dimensi, Contoh Soal, www.yuksinau.id, 1366 x 768, jpeg, , 20, satuan-usaha, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Satuan Usaha - BELAJAR" />
+    <meta property="og:description" content="Satuan Usaha, , , , , , , 0, √ Daya: Pengertian, Rumus, Lambang, Dimensi, Contoh Soal, www.yuksinau.id, 1366 x 768, jpeg, , 20, satuan-usaha, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Satuan Usaha - BELAJAR" />
+    <meta name="twitter:description" content="Satuan Usaha, , , , , , , 0, √ Daya: Pengertian, Rumus, Lambang, Dimensi, Contoh Soal, www.yuksinau.id, 1366 x 768, jpeg, , 20, satuan-usaha, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Satuan Usaha</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">putra9442</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Satuan+Usaha" alt="Satuan Usaha">
+                    </div>
+                    <p></p>
+                    <p>usaha - usaha dalam menjaga persatuan dan kesatuan.​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usaha-usaha-dalam-menjaga-persatuan-dan-kesatuan-%e2%80%8b">1.
+                                            usaha - usaha dalam menjaga persatuan dan kesatuan.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#satuan-usaha-adalah-joule-tetapi-dengan-mengingat-hubungan-usaha-dan-daya-maka-satuan-usaha-dapat-juga-di-tulis">2.
+                                            satuan usaha adalah joule. tetapi dengan mengingat hubungan usaha dan daya, maka satuan usaha dapat juga di tulis...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#satuan-usaha-adalah-joule-tetapi-dengan-mengingat-hubungan-usaha-dan-gaya-maka-satuan-usaha-dapat-juga-ditulis">3.
+                                            satuan usaha adalah joule. tetapi dengan mengingat hubungan usaha dan gaya, maka satuan usaha dapat juga ditulis....??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-usaha-usaha-yang-dapat-dilakukan-untuck-menjaga-persatuan-dan-kesatuan-nkri">4.
+                                            Jelaskan usaha usaha yang dapat dilakukan untuck menjaga persatuan dan kesatuan NKRI</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usaha-usaha-yg-digunakan-untuk-membina-persatuan-dan-kesatuan-adalah%e2%80%8b">5.
+                                            Usaha usaha yg digunakan untuk membina persatuan dan kesatuan adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-usaha-usaha-yang-membina-persatuan-dan-kesatuan-nasional%e2%80%8b">6.
+                                            Tuliskan usaha-usaha yang membina persatuan dan kesatuan nasional​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#satuan-usaha-adalah-joule-tetapi-dengan-mengingat-hubungan-usaha-dan-gaya-maka-satuan-usaha-dapat-juga-ditulis">7.
+                                            Satuan usaha adalah joule.Tetapi dengan mengingat hubungan usaha dan gaya.Maka satuan usaha dapat juga ditulis</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perusahaan-yang-didirikan-oleh-satu-orang-pengusaha-atau-lebih-dengan-modal-dari-perusahaan-itu">8.
+                                            Perusahaan yang didirikan oleh satu orang pengusaha atau lebih dengan modal dari perusahaan itu </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#satuan-usaha-adalah-joule-tetapi-mengingat-hubungan-usaha-dan-daya-maka-satuan-usaha-dapat-juga-ditulis">9.
+                                            Satuan usaha adalah joule. tetapi mengingat hubungan usaha dan daya , maka satuan usaha dapat juga ditulis</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-tiga-usaha-usaha-yang-dilakukan-pemimpin-bangsa-dalam-persatuan-dan-kesatuan%e2%80%8b">10.
+                                            Tuliskan tiga usaha-usaha yang dilakukan pemimpin bangsa dalam persatuan dan kesatuan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-usaha-usaha-gereja-dalam-mewujudkan-persatuan-dan-kesatuan">11.
+                                            Sebutkan usaha usaha gereja dalam mewujudkan persatuan dan kesatuan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#satuan-usaha-adalah-joule-tetapi-dengan-mengingat-hubungan-usaha-dan-gaya-maka-satuan-usaha-dapat-juga-ditulis">12.
+                                            satuan usaha adalah joule, tetapi dengan mengingat hubungan usaha dan gaya, maka satuan usaha dapat juga ditulis?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usaha-usaha-yang-dapat-di-lakukan-untuk-mewujudkan-persatuan-dan-kesatuan-antara-lain">13.
+                                            Usaha usaha yang dapat di lakukan untuk mewujudkan persatuan dan kesatuan antara lain</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usaha-usaha-menjaga-persatuan-dan-kesatuan-bangsa-yang-dilakukan-oleh-pemerintah-dan-masyarakat">14.
+                                            usaha usaha menjaga persatuan dan kesatuan bangsa yang dilakukan oleh pemerintah dan masyarakat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-usaha-usaha-yang-dapat-dilakukan-untuk-menjaga-kesatuan-dan-persatuan-nkri%e2%80%8b">15.
+                                            jelaskan usaha usaha yang dapat dilakukan untuk menjaga kesatuan dan persatuan NKRI!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-usaha-usaha-negara-dalam-menjalin-persatuan-dan-kesatuan-bangsa">16.
+                                            apakah usaha-usaha negara dalam menjalin Persatuan Dan Kesatuan Bangsa</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-usaha-usaha-yang-dilakukan-dalam-menjaga-persatuan-dan-kesatuan">17.
+                                            Sebutkan usaha-usaha yang dilakukan dalam menjaga persatuan dan kesatuan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#satuan-usaha-adalah-joule-tetapi-dengan-mengingat-hubungan-usaha-dan-gaya-maka-satuan-usaha-dapat-juga-di-tulis">18.
+                                            Satuan usaha adalah joule. Tetapi dengan mengingat hubungan usaha dan gaya, maka satuan usaha dapat juga di tulis....?? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#satuan-usaha-sama-dengan-satuan-energi-maka-dimensi-usaha-juga-sama-dengan-energi-yaitu">19.
+                                            satuan usaha sama dengan satuan energi. maka dimensi usaha juga sama dengan energi yaitu,..</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#satuan-usaha-sama-dengan-satuan-energimaka-dimensi-usaha-juga-sama-dengan-energi-yaitu">20.
+                                            satuan usaha sama dengan satuan energi,maka dimensi usaha juga sama dengan energi yaitu,</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usaha-usaha-yang-dilakukan-pemimpin-bangsa-dalam-persatuan-dan-kesatuan%e2%80%8b">21.
+                                            usaha usaha yang dilakukan pemimpin bangsa dalam persatuan dan kesatuan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usaha-usaha-yg-dapat-membina-persatuan-dan-kesatuan-bermasyarakat">22.
+                                            Usaha usaha yg dapat membina persatuan dan kesatuan bermasyarakat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-usaha%c2%b2-tuliskan-usaha-usaha-yang-dilakukan-pemerintah-untuk-membina-persatuan-dan-kesatuan-dalam-masyarakat-%e2%80%8b">23.
+                                            Tuliskan usaha²  Tuliskan usaha-usaha yang dilakukan pemerintah untuk membina persatuan dan kesatuan dalam masyarakat ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-perusahaan-merupakan-satu-persatuan-unit-usaha-yang-berdiri-sendiri">24.
+                                            apa yang dimaksud dengan perusahaan merupakan satu persatuan (unit) usaha yang berdiri sendiri</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-usaha-usaha-yang-dilakukan-pemimpin-bangsa-dalam-membina-persatuan-dan-kesatuan">25.
+                                            Tuliskan usaha-usaha yang dilakukan pemimpin bangsa dalam membina persatuan dan kesatuan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usaha-usaha-yang-dilakukan-demi-terciptanya-persatuan-dan-kesatuan-di-kelas-mu">26.
+                                            usaha-usaha yang dilakukan demi terciptanya persatuan dan kesatuan di kelas mu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usaha-apa-dapat-kamu-lakukan-untuk-mempertahankan-usaha-meningkatkan-persatuan-dan-kesatuan-bangsa%e2%80%8b">27.
+                                            usaha apa dapat kamu lakukan untuk mempertahankan usaha meningkatkan persatuan dan kesatuan bangsa​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usaha-usaha-untuk-menjaga-persatuan-dan-kesatuan-bangsa%e2%80%8b">28.
+                                            usaha usaha untuk menjaga persatuan dan kesatuan bangsa​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usaha-usaha-yang-dapat-dilakukan-dalam-membina-persatuan-dan-kesatuan-bermasyarakat-dan-berbangsa-adalah-%e2%80%8b">29.
+                                            usaha usaha yang dapat dilakukan dalam membina persatuan dan kesatuan bermasyarakat dan berbangsa adalah....​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hal-yang-membedakan-badan-usaha-dengan-perusahaan-ialaha-badan-usaha-mencari-laba-sedangkan-perusahaan-menghasilkan-barang-dan-jasab-badan-usaha-bertujuan-menghasilkan-barang-sedangkan-perusahan-menc">30.
+                                            hal yang membedakan badan usaha dengan perusahaan ialahA.badan usaha mencari laba sedangkan perusahaan menghasilkan barang dan jasaB. badan usaha bertujuan menghasilkan barang sedangkan perusahan mencari labaC. badan usaha merupakan kesatuan teknis sedangkan perusahaan merupakan kesatuan ekonomisD. perusahaan merupakan kesatuan yuridis-ekonomis sedangkan badan usaha merupakan kesatuan yuridis</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perusahaan-yang-di-dirikan-oleh-satu-orang-pengusaha-atau-lebih-dengan-modal-dari-pengusaha-itu-dan-dari%e2%80%8b">31.
+                                            perusahaan yang di dirikan oleh satu orang pengusaha atau lebih dengan modal dari pengusaha itu dan dari​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-usaha-usaha-yang-harus-dilakukan-dalam-membina-persatuan-dan-kesatuan-%e2%80%8b">32.
+                                            sebutkan usaha usaha yang harus dilakukan dalam membina persatuan dan kesatuan !​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usaha-usaha-menjaga-persatuan-dan-kesatuan-bangsa-yang-dilakukan-oleh-pemerintah-dan-masyarakat-adalah">33.
+                                            Usaha-usaha menjaga persatuan dan kesatuan bangsa yang dilakukan oleh pemerintah dan masyarakat adalah?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#satuan-satuan-usaha-adalah">34.
+                                            Satuan satuan usaha adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usaha-usaha-yang-dilakukan-para-memimpin-bangsa-dalam-membina-persatuan-dan-kesatuan">35.
+                                            Usaha usaha yang dilakukan para memimpin bangsa dalam membina persatuan dan kesatuan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#satuan-usaha-sama-dengan-satuan-energi-maka-dimensi-usaha-juga-sama-dengan-energi-yaitu">36.
+                                            satuan usaha sama dengan satuan energi, maka dimensi usaha juga sama dengan energi yaitu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#satuan-usaha-sama-dengan-satuan-energi-maka-dimensi-usaha-sama-juga-dengan-dimensi-energy-yaitu">37.
+                                            satuan usaha sama dengan satuan energi maka dimensi usaha sama juga dengan dimensi energy yaitu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hal-yang-membedakan-badan-usaha-dengan-perusahaan-ialah-a-badan-usaha-mencari-laba-sedangkan-perusahaan-menghasilkan-barang-dan-jasab-badan-usaha-bertujuan-menghasilkan-barang-sedangkan-perus">38.
+                                            hal yang membedakan badan usaha dengan perusahaan ialah . . .
+a. badan usaha mencari laba sedangkan perusahaan menghasilkan barang dan jasa
+b. badan usaha bertujuan menghasilkan barang sedangkan perusahaan mencari laba
+c. badan usaha merupakan kesatuan teknis sedangkan perusahaan merupakan kesatuan ekonomis
+d. perusahaan merupakan kesatuan yuridis-ekonomis sedangkan badan usaha merupakan kesatuan yuridis</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-usaha-usaha-pemerintah-dan-masyarakat-dalam-menjaga-persatuan-dan-kesatuan-bangsa">39.
+                                            Apa saja Usaha-usaha pemerintah dan masyarakat dalam menjaga persatuan dan kesatuan bangsa</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-gambar-dan-penjelasan-tuliskan-usaha-usaha-persatuan-dan-kesatuan">40.
+                                            Contoh gambar dan penjelasan 
+Tuliskan usaha usaha persatuan dan kesatuan?</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="usaha-usaha-dalam-menjaga-persatuan-dan-kesatuan-%e2%80%8b">
+                            1. usaha - usaha dalam menjaga persatuan dan kesatuan.​</h2><br />
+                        1. Menghargai perbedaan baik antar agama,suku,dan budaya<br /><br />2. menggunakan bahasa indonesia sebagai bahasa pemersatu bangsa<br /><br />3. Meningkatkan sikap toleransi antar umat beragama agar terhindar dari pertikaian<br /><br />4. hindari tawuran agar tercipta kehidupan yang aman dan tentram baik di masyarakat maupun antar wilayah<br />
+                                            <h2 class="ez-toc-section" id="satuan-usaha-adalah-joule-tetapi-dengan-mengingat-hubungan-usaha-dan-daya-maka-satuan-usaha-dapat-juga-di-tulis">
+                            2. satuan usaha adalah joule. tetapi dengan mengingat hubungan usaha dan daya, maka satuan usaha dapat juga di tulis...</h2><br />
+                        <p>w = F.s</p><p>F = gaya (N)</p><p>s = jarak (m)</p><p>satuan usaha N.m atau joule<br /></p><br />
+                                            <h2 class="ez-toc-section" id="satuan-usaha-adalah-joule-tetapi-dengan-mengingat-hubungan-usaha-dan-gaya-maka-satuan-usaha-dapat-juga-ditulis">
+                            3. satuan usaha adalah joule. tetapi dengan mengingat hubungan usaha dan gaya, maka satuan usaha dapat juga ditulis....??</h2><br />
+                        bisa juga Newton (N)<br /><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-usaha-usaha-yang-dapat-dilakukan-untuck-menjaga-persatuan-dan-kesatuan-nkri">
+                            4. Jelaskan usaha usaha yang dapat dilakukan untuck menjaga persatuan dan kesatuan NKRI</h2><br />
+                        tdk membedakan agama, ras, suku, dan bahasa dan tetap bersatu padu<br />jadikan jawabanku yg terbaik dan follow yahSaling menghormati<br />Saling menghargai<br />Tidak menciptakan konflik<br />
+                                            <h2 class="ez-toc-section" id="usaha-usaha-yg-digunakan-untuk-membina-persatuan-dan-kesatuan-adalah%e2%80%8b">
+                            5. Usaha usaha yg digunakan untuk membina persatuan dan kesatuan adalah​</h2><br />
+                        <p>Jawaban:tonjolan orang sampe mampus</p><p></p><p>Penjelasan:semoga salah</p><p></p><p></p>menghormati agama orang lainsaling membantumenghormati suku,adat,dan budaya orang lain<br />
+                                            <h2 class="ez-toc-section" id="tuliskan-usaha-usaha-yang-membina-persatuan-dan-kesatuan-nasional%e2%80%8b">
+                            6. Tuliskan usaha-usaha yang membina persatuan dan kesatuan nasional​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Tidak membeda-bedakan teman yang berbeda agama, suku ,dan ras</p><p>2. Saling tolong-menolong sesama manusia</p><p>3. Saling menghormati</p><br />
+                                            <h2 class="ez-toc-section" id="satuan-usaha-adalah-joule-tetapi-dengan-mengingat-hubungan-usaha-dan-gaya-maka-satuan-usaha-dapat-juga-ditulis">
+                            7. Satuan usaha adalah joule.Tetapi dengan mengingat hubungan usaha dan gaya.Maka satuan usaha dapat juga ditulis</h2><br />
+                        satuan usaha juga dapat ditulis sebagai Nm  (Newton meter)<br />
+                                            <h2 class="ez-toc-section" id="perusahaan-yang-didirikan-oleh-satu-orang-pengusaha-atau-lebih-dengan-modal-dari-perusahaan-itu">
+                            8. Perusahaan yang didirikan oleh satu orang pengusaha atau lebih dengan modal dari perusahaan itu </h2><br />
+                        <p>interaksi kelompok karena modalnya dengan perusahaan lalu didirikan oleh satu penggusaha</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="satuan-usaha-adalah-joule-tetapi-mengingat-hubungan-usaha-dan-daya-maka-satuan-usaha-dapat-juga-ditulis">
+                            9. Satuan usaha adalah joule. tetapi mengingat hubungan usaha dan daya , maka satuan usaha dapat juga ditulis</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Wattsekon</p><p><strong>Penjelasan:</strong></p><p>W = Joule </p><p>W &lt;=&gt; P </p><p>W = P × t </p><p>W = Wattdetik atau Wattsekon</p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-tiga-usaha-usaha-yang-dilakukan-pemimpin-bangsa-dalam-persatuan-dan-kesatuan%e2%80%8b">
+                            10. Tuliskan tiga usaha-usaha yang dilakukan pemimpin bangsa dalam persatuan dan kesatuan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1 kedau latan yang adil</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p><p> Usaha-usaha yang dilakukan pemimpin bangsa dalam membina persatuan dan kesatuan bermasyarakat dan berbangsa antara lain:</p><p>1.Mengadakan festival budaya,</p><p>2.Mewajibkan penggunaan bahasa Indonesia yang baik dan benar di setiap acara resmi di mana pun berada,</p><p>3.Menjalankan pemerintahan secara adil dan terbuka,</p><p>4.Mengadakan pemerataan pembangunan di seluruh wilayah Negara Kesatuan Republik Indonesia,</p><p>5.Menciptakan kebebasan masyarakat untuk memeluk agama dan melakukan ibadah sesuai agamanya masing-masing,</p><p>6.Membina sikap saling menghormati dan menghargai antarpemeluk agama,</p><p>7.Mengadakan peringatan hari-hari besar nasional dengan menjunjung tinggi persatuan dan kesatuan.</p><p></p><p> </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-usaha-usaha-gereja-dalam-mewujudkan-persatuan-dan-kesatuan">
+                            11. Sebutkan usaha usaha gereja dalam mewujudkan persatuan dan kesatuan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Kekuatan Rohani</p><p>2.berdoa kepada Tuhan dan mengambil tindakan yang postif</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="satuan-usaha-adalah-joule-tetapi-dengan-mengingat-hubungan-usaha-dan-gaya-maka-satuan-usaha-dapat-juga-ditulis">
+                            12. satuan usaha adalah joule, tetapi dengan mengingat hubungan usaha dan gaya, maka satuan usaha dapat juga ditulis?</h2><br />
+                        satuan usaha adalah joule<br />maka kita dapat menulis dengan w ( joule )<br /><br />
+                                            <h2 class="ez-toc-section" id="usaha-usaha-yang-dapat-di-lakukan-untuk-mewujudkan-persatuan-dan-kesatuan-antara-lain">
+                            13. Usaha usaha yang dapat di lakukan untuk mewujudkan persatuan dan kesatuan antara lain</h2><br />
+                        <p>tidak membeda bedakan agama, ras, budaya dll</p><p>Saling menghormati</p><p>Saling menghargai</p><br />
+                                            <h2 class="ez-toc-section" id="usaha-usaha-menjaga-persatuan-dan-kesatuan-bangsa-yang-dilakukan-oleh-pemerintah-dan-masyarakat">
+                            14. usaha usaha menjaga persatuan dan kesatuan bangsa yang dilakukan oleh pemerintah dan masyarakat</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Gotong royong, </p><p>Musyawarah Untuk mufakat</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-usaha-usaha-yang-dapat-dilakukan-untuk-menjaga-kesatuan-dan-persatuan-nkri%e2%80%8b">
+                            15. jelaskan usaha usaha yang dapat dilakukan untuk menjaga kesatuan dan persatuan NKRI!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>menjadi warga negara yang baik, dan damai di masyarakat</p><br />
+                                            <h2 class="ez-toc-section" id="apakah-usaha-usaha-negara-dalam-menjalin-persatuan-dan-kesatuan-bangsa">
+                            16. apakah usaha-usaha negara dalam menjalin Persatuan Dan Kesatuan Bangsa</h2><br />
+                        <p></p><p><strong>Penjelasan:</strong></p><p>menegakkan hukum by yg melanggar undang undang negara</p><p>bergotong royong utk kepentingan negara</p><p>Maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-usaha-usaha-yang-dilakukan-dalam-menjaga-persatuan-dan-kesatuan">
+                            17. Sebutkan usaha-usaha yang dilakukan dalam menjaga persatuan dan kesatuan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Menghormati &amp; menghargai keberagaman yg ada di Indonesia ,</p><p>Tidak saling mengejek satu sama lain ,</p><p>Menjunjung tinggi sikap toleransi.</p><br />
+                                            <h2 class="ez-toc-section" id="satuan-usaha-adalah-joule-tetapi-dengan-mengingat-hubungan-usaha-dan-gaya-maka-satuan-usaha-dapat-juga-di-tulis">
+                            18. Satuan usaha adalah joule. Tetapi dengan mengingat hubungan usaha dan gaya, maka satuan usaha dapat juga di tulis....?? </h2><br />
+                        usaha=gaya x jarak itulah jawabannyaW = F.s (Nm)<br />1 Nm = 1 Joule = 107 erg<br />Jadi, satuan lain dari usaha yang berhubungan dengan gaya ialah erg.<br />
+                                            <h2 class="ez-toc-section" id="satuan-usaha-sama-dengan-satuan-energi-maka-dimensi-usaha-juga-sama-dengan-energi-yaitu">
+                            19. satuan usaha sama dengan satuan energi. maka dimensi usaha juga sama dengan energi yaitu,..</h2><br />
+                        <p>- Usaha</p>
+<p>gaya x perpindahan--&gt; (kg)(m/s2)(m)--&gt; M L2 T −2</p>-Energi<br /> 1/2 × massa × (kecepatan)2 → (kg)(m/s)2 = (kg)(m2 / s2) → M L2 T−2<br /><br />
+                                            <h2 class="ez-toc-section" id="satuan-usaha-sama-dengan-satuan-energimaka-dimensi-usaha-juga-sama-dengan-energi-yaitu">
+                            20. satuan usaha sama dengan satuan energi,maka dimensi usaha juga sama dengan energi yaitu,</h2><br />
+                        Satuan usaha sama dengan energi yaitu kg (m/s) ². Jadi dimensinya dapat ditentukan dengan cara merinci satu-satu dari satuannya:<br /><br />- kg dimensinya M<br />- m dimensinya L<br />- s dimensinya T<br /><br />Maka kg (m/s)² dimensinya ML²T¯²<br />
+                                            <h2 class="ez-toc-section" id="usaha-usaha-yang-dilakukan-pemimpin-bangsa-dalam-persatuan-dan-kesatuan%e2%80%8b">
+                            21. usaha usaha yang dilakukan pemimpin bangsa dalam persatuan dan kesatuan​</h2><br />
+                        yaitu melawan penjajah dengan keberanian walaupun harus berkorban nyawa<br />semoga membantu<p>menjaga persatuan dan kesatuan menjaga negara, mensejahterakan rakyat</p><br />
+                                            <h2 class="ez-toc-section" id="usaha-usaha-yg-dapat-membina-persatuan-dan-kesatuan-bermasyarakat">
+                            22. Usaha usaha yg dapat membina persatuan dan kesatuan bermasyarakat</h2><br />
+                        <p>Jawaban:tidak memandang ras,menjaga toleransi antar umat beragama,memperlakukan semua golongan secara adil tanpa pandang bulu</p><p></p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-usaha%c2%b2-tuliskan-usaha-usaha-yang-dilakukan-pemerintah-untuk-membina-persatuan-dan-kesatuan-dalam-masyarakat-%e2%80%8b">
+                            23. Tuliskan usaha²  Tuliskan usaha-usaha yang dilakukan pemerintah untuk membina persatuan dan kesatuan dalam masyarakat ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>usaha-usaha yang dilakukan pemerintah untuk membina persatuan dan kesatuan dalam masyarakat:  </p>merayakan hari kemerdekaan setiap tahun.memgadakan festival budaya.menanamkan sikap toleransi disekolah.mengunakan bahasa nasional disetiap aktivitas dimanapun kita berada <p><strong>Penjelasan:</strong></p><p>maaf klu salah </p><p>بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ</p><p><strong>Pertanyaan</strong><strong> </strong><strong>:</strong><strong> </strong></p><p>Tuliskan usaha-usaha yang dilakukan pemerintah untuk membina persatuan dan kesatuan dalam masyarakat!</p><p><strong>Jawab</strong><strong> </strong><strong>:</strong></p>Membentuk RT dan RW di kampungMengadakan kerja bakti di lingkunganMengadakan lomba penyuluhan kebersihan lingkungan kampung<p>#Semoga Bermanfaat</p><p>Wassalamualaikum</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-perusahaan-merupakan-satu-persatuan-unit-usaha-yang-berdiri-sendiri">
+                            24. apa yang dimaksud dengan perusahaan merupakan satu persatuan (unit) usaha yang berdiri sendiri</h2><br />
+                        perusahaan adalah pekerjaan  yang harus dilaksanakan dalam misi tertentu untuk memperoleh kesepakatan  dalam hal ini semua staf dikantor harus bekerja dengan tertip sesuai peraturan dan <br />
+                                            <h2 class="ez-toc-section" id="tuliskan-usaha-usaha-yang-dilakukan-pemimpin-bangsa-dalam-membina-persatuan-dan-kesatuan">
+                            25. Tuliskan usaha-usaha yang dilakukan pemimpin bangsa dalam membina persatuan dan kesatuan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Merayakan hari kemerdekaan setiap tahun. </p><p></p><p><strong>Penjelasan:</strong></p><p>maaf jika salah</p><p><strong>Penjelasan:</strong></p><p>Adapun usaha-usaha yang dilakukan pemimpin bangsa dalam membina persatuan dan kesatuan sehingga tercipta kerukunan hidup bermasyarakat dan berbangsa adalah sebagai berikut.</p><p></p>Mengadakan festival budaya.Mewajibkan masyarakat untuk senantiasa mengamalkan nilai-nilai Pancasila dalam setiap kegiatan.Menjalankan pemerintahan secara adil dan terbuka.Merayakan hari kemerdekaan negara Indonesia setiap tahunnya.Melakukan pembangunan secara merata di seluruh wilayah Negara Kesatuan Republik Indonesia (NKRI).<br />
+                                            <h2 class="ez-toc-section" id="usaha-usaha-yang-dilakukan-demi-terciptanya-persatuan-dan-kesatuan-di-kelas-mu">
+                            26. usaha-usaha yang dilakukan demi terciptanya persatuan dan kesatuan di kelas mu</h2><br />
+                        <p>musyawarah dan saling menghormati dan menghargai</p>1) saling menghormati antar teman di kelas<br />2) menaati tata tertib yang ada di kelas<br />3) tidak membeda-bedakan teman dikelas<br />4) menghindaru perselisihan antar teman di kelas<br /><br />maaf klo salah yaa<br />
+                                            <h2 class="ez-toc-section" id="usaha-apa-dapat-kamu-lakukan-untuk-mempertahankan-usaha-meningkatkan-persatuan-dan-kesatuan-bangsa%e2%80%8b">
+                            27. usaha apa dapat kamu lakukan untuk mempertahankan usaha meningkatkan persatuan dan kesatuan bangsa​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Toleransi antar umat beragama</p><p>Tidak membeda-bedakan teman </p><p>Menghargai pekerjaan orang lain </p><br />
+                                            <h2 class="ez-toc-section" id="usaha-usaha-untuk-menjaga-persatuan-dan-kesatuan-bangsa%e2%80%8b">
+                            28. usaha usaha untuk menjaga persatuan dan kesatuan bangsa​</h2><br />
+                        Menghormati &amp; menghargai keberagaman yg ada di Indonesia , Tidak saling mengejek satu sama lain , Menjunjung tinggi sikap toleransi<p>1. Tidak membedakan bedakan SARA.       2. Memperkuat rasa toleransi.                    3. Mengedepankan musyawarah dalam hal apapun.                                                     4. Menghargai hak hak orang lain.              Semoga membantu.</p><br />
+                                            <h2 class="ez-toc-section" id="usaha-usaha-yang-dapat-dilakukan-dalam-membina-persatuan-dan-kesatuan-bermasyarakat-dan-berbangsa-adalah-%e2%80%8b">
+                            29. usaha usaha yang dapat dilakukan dalam membina persatuan dan kesatuan bermasyarakat dan berbangsa adalah....​</h2><br />
+                        <p>Usaha - usaha yang dapat dilakukan dalam membina persatuan dan kesatuan bermasyarakat adalah :</p><p>1. Hidup rukun dan damai.</p><p>2. Bersikap solidaritas dan toleransi.</p><p>3. Saling menghargai antar sesama anggota masyarakat.</p><p>4. Menghindari konflik.</p><p>5. Menjaga tali silahturami antar masyarakat.</p><p>6. Mematuhi peraturan dan tata tertib yang berlaku.</p><br />
+                                            <h2 class="ez-toc-section" id="hal-yang-membedakan-badan-usaha-dengan-perusahaan-ialaha-badan-usaha-mencari-laba-sedangkan-perusahaan-menghasilkan-barang-dan-jasab-badan-usaha-bertujuan-menghasilkan-barang-sedangkan-perusahan-menc">
+                            30. hal yang membedakan badan usaha dengan perusahaan ialahA.badan usaha mencari laba sedangkan perusahaan menghasilkan barang dan jasaB. badan usaha bertujuan menghasilkan barang sedangkan perusahan mencari labaC. badan usaha merupakan kesatuan teknis sedangkan perusahaan merupakan kesatuan ekonomisD. perusahaan merupakan kesatuan yuridis-ekonomis sedangkan badan usaha merupakan kesatuan yuridis</h2><br />
+                        jawabannya adalah a. semoga membantu........<br />
+                                            <h2 class="ez-toc-section" id="perusahaan-yang-di-dirikan-oleh-satu-orang-pengusaha-atau-lebih-dengan-modal-dari-pengusaha-itu-dan-dari%e2%80%8b">
+                            31. perusahaan yang di dirikan oleh satu orang pengusaha atau lebih dengan modal dari pengusaha itu dan dari​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>Perusahaan Perseorangan, bentuk badan usaha yang didirikan oleh satu orang sebagai pemilik sekaligus yang menjalankan usaha. Biasanya usaha dalam perusahaan perseorangan dilakukan secara kecil-kecilan.</strong></p><p><strong>Penjelasan:</strong></p><strong>JADIKAN </strong><strong>JAWABAN</strong><strong> TERCEDASS</strong><strong> IYAA</strong><strong>!</strong><strong>!</strong><p></p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-usaha-usaha-yang-harus-dilakukan-dalam-membina-persatuan-dan-kesatuan-%e2%80%8b">
+                            32. sebutkan usaha usaha yang harus dilakukan dalam membina persatuan dan kesatuan !​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>kerjasama,saling membantu satu sama lain.</p><p></p><p><strong>Penjelasan:</strong></p><p>-</p><p></p><p><strong>Jawaban:</strong></p><p>•mengadakan festival budaya,</p><p></p><p>•mewajibkan penggunaan bahasa Indonesia yang baik dan benar di setiap acara resmi di mana pun berada,</p><p></p><p>•menjalankan pemerintahan secara adil dan terbuka,</p><br />
+                                            <h2 class="ez-toc-section" id="usaha-usaha-menjaga-persatuan-dan-kesatuan-bangsa-yang-dilakukan-oleh-pemerintah-dan-masyarakat-adalah">
+                            33. Usaha-usaha menjaga persatuan dan kesatuan bangsa yang dilakukan oleh pemerintah dan masyarakat adalah?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Indonesia merupakan salah satu negara di dunia terdiri dari banyak pulau serta aneka ragam suku dan budaya yang ada didalam nya. Dari sabang sampai ke merauke terdapat ribuan pulau yang membentang di negara indonesia serta suku ras agama yang beraneka ragam didalamnya.</p><p></p><p>Pancasila merupakan ideologi dasar negara bangsa indonesia yang di sahkan pada saat setelah negara indonesia merdeka yang dilambangkan oleh simbol burung garuda yang memcengkram sebuah tulisa "BHINEKA TUNGGAL IKA" dimana arti dari tulisan tersebut adalah berbeda beda namun tetap satu jua.</p><p></p><p>Isi dari pancasila sendiri yaitu :</p><p></p><p>1. Ketuhanan yang maha esa</p><p></p><p>2. Kemanusiaan yang adil dan beradab</p><p></p><p></p><p>3. Persatuan indonesia</p><p></p><p>4. Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan</p><p></p><p>5. Keadilan sosial bagi seluruh rakyat indonesia</p><p></p><p>Dari 5 (lima) point pancasila tersebut penulis ingin menekankan pada point ke 3 dalam pancasila yaitu "persatuan indonesia". Mengapa harus persatuan indonesia? Karena saat ini penulis melihat situasi negara indonesia yang sudah mulai carut marut dan juga terjadi perpecahan di beberapa wilayah di indonesia. Dimulai dari situasi politik yang cukup panas di beberapa tahun terkahir yaitu tahun 2018 sampai dengan 2019 yang membuat negara indonesia terutama di beberapa bagian wilayah salah satunya seperti di jakarta pada saat setelah mengumuman terpilihnya presiden republik indonesia periode 2019-2024 terjadi perpecahan di dalam tubuh Bangsa indonesia yaitu terbagi dalam dua Kubu seperti kubu 01 dan kubu 02 . Dampak dari perpecahan akibat politik tersebut adalah terkotak-kotaknya masyarakat yang menyebut dirinya kelompok 01 maupun 02, yang juga mengakibatkan terjadinya perdebatan antara kedua kubu yang awalnya harmonis menjadi sebuah konflik.</p><p></p><p>Kerusuhan terjadi pada saat setelah pengumuman terpilihnya presiden dan wakil presiden indonesia periode 2019 -2024, lebih dari 2 hari ibukota jakarta diselimuti dengan masa yang menolak hasil pengumuman pemilu oleh KPU. Personel TNI-Polri diturunkan ke lapangan guna mengurai masa yang melakukan aksi demo dan juga kerusuhan. Beberapa fasilitas umum milik negara di bakar oleh para perusuh dan juga terdapat korban luka maupun meninggal dunia akibat kerusuhan yang terjadi pada saat itu.</p><p></p><p>Tidak hanya di dunia nyata, bisa kita lihat di media sosial banyak berita hoax yang berisikan berita bohong yang dapat membuat opini masyarakat untuk membenci seseorang atau golongan yang tujuannya adalah untuk memecah belah bangsa ini hanya untuk kepentingan politik atau kekuasaan semata. Berbagai perselisihan kerap dibesar-besarkan di media sosial. Banyak fitnah dan perpecahan terjadi hanya mengejar kepentingan pribadi atau golongan sehingga seringkali persatuan dan kesatuan di sisihkan. seharusnya kita bangsa indonesia harus lebih bijak dalam menggunakan media sosial, kita harus bisa membedakan mana berita bohon dan mana berita yang benar, serta tidak ikut dalam penyebaran berita hoax atau berita bohong yang dapat memecah belah persatuan bangsa dan negara.</p><p><strong>Penjelasan:</strong></p><p>#sejutapohonakankitaganjarihadiahpohonatasnamamu</p><p></p><p><strong>Jawaban:</strong></p><p>‏‏</p><p>‏‏‏‏</p><p>‏‏</p><p>‏‏</p><p>‏‏</p><p>‏‏</p><p>‏‏</p><p>‏‏</p><p>‏‏</p><p>‏‏</p><p>‏‏</p><p>‏‏</p><p></p><p>‏‏</p><p>‏‏</p><p>‏‏</p><p>‏‏</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="satuan-satuan-usaha-adalah">
+                            34. Satuan satuan usaha adalah</h2><br />
+                        joule, newton, dyne, meter, cm, erg <br />maaf kalau salah y kak<br /><br />
+                                            <h2 class="ez-toc-section" id="usaha-usaha-yang-dilakukan-para-memimpin-bangsa-dalam-membina-persatuan-dan-kesatuan">
+                            35. Usaha usaha yang dilakukan para memimpin bangsa dalam membina persatuan dan kesatuan</h2><br />
+                        1. Mengadakan festival budaya,<br />2. Mewajibkan penggunaan bahasa<br />Indonesia yang baik dan benar di setiap acara resmi di mana pun berada,<br />3. Menjalankan pemerintahan secara adil dan terbuka,<br />4. Mengadakan pemerataan pembangunan di seluruh wilayah Negara Kesatuan Republik Indonesia,<br />5. Menciptakan kebebasan masyarakat untuk memeluk agama dan melakukan ibadah sesuai agamanya masing-masing,<br />6. Membina sikap saling menghormati dan menghargai antarpemeluk agama,<br />7. Mengadakan peringatan hari-hari besar nasional dengan menjunjung tinggi persatuan dan kesatuan.<br />
+                                            <h2 class="ez-toc-section" id="satuan-usaha-sama-dengan-satuan-energi-maka-dimensi-usaha-juga-sama-dengan-energi-yaitu">
+                            36. satuan usaha sama dengan satuan energi, maka dimensi usaha juga sama dengan energi yaitu</h2><br />
+                        ya dari rumus usaha yaitu F. S didapatkam dimensinya ML^2L^-2<br />
+                                            <h2 class="ez-toc-section" id="satuan-usaha-sama-dengan-satuan-energi-maka-dimensi-usaha-sama-juga-dengan-dimensi-energy-yaitu">
+                            37. satuan usaha sama dengan satuan energi maka dimensi usaha sama juga dengan dimensi energy yaitu</h2><br />
+                        dimensi <br />
+[M] [L]^2 [T]^-2Dimensi Usaha atau Enegi = M.L².Tˉ²<br />cmiiw ya:)<br /><br />
+                                            <h2 class="ez-toc-section" id="hal-yang-membedakan-badan-usaha-dengan-perusahaan-ialah-a-badan-usaha-mencari-laba-sedangkan-perusahaan-menghasilkan-barang-dan-jasab-badan-usaha-bertujuan-menghasilkan-barang-sedangkan-perus">
+                            38. hal yang membedakan badan usaha dengan perusahaan ialah . . .
+a. badan usaha mencari laba sedangkan perusahaan menghasilkan barang dan jasa
+b. badan usaha bertujuan menghasilkan barang sedangkan perusahaan mencari laba
+c. badan usaha merupakan kesatuan teknis sedangkan perusahaan merupakan kesatuan ekonomis
+d. perusahaan merupakan kesatuan yuridis-ekonomis sedangkan badan usaha merupakan kesatuan yuridis</h2><br />
+                        b. badan Usaha bertujuan untuk menghasilkan barang sedangkan perusahaan mencari laba<br />
+                                            <h2 class="ez-toc-section" id="apa-saja-usaha-usaha-pemerintah-dan-masyarakat-dalam-menjaga-persatuan-dan-kesatuan-bangsa">
+                            39. Apa saja Usaha-usaha pemerintah dan masyarakat dalam menjaga persatuan dan kesatuan bangsa</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>melakukan gotong royong,selalu rukun,mengikuti ronda malam</p><p><strong>Penjelasan:</strong></p><p>maaf klo salah smga membantu:)</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-gambar-dan-penjelasan-tuliskan-usaha-usaha-persatuan-dan-kesatuan">
+                            40. Contoh gambar dan penjelasan 
+Tuliskan usaha usaha persatuan dan kesatuan?</h2><br />
+                        tidak membesar-besarkan perbedaan<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/nuossu26h78?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ips</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tekanan-hidrostatis-pada-benda-x-dan-y-adalah/">Tekanan Hidrostatis Pada Benda X Dan Y Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ciri-ciri-pubertas-pada-anak-laki-laki-brainly/">Ciri Ciri Pubertas Pada Anak Laki Laki Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-perilaku-amanah-dalam-kehidupan-sehari-hari/">Contoh Perilaku Amanah Dalam Kehidupan Sehari Hari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/120-5/">120 5</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kata-baku-managemen/">Kata Baku Managemen</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/yel-yel-regu-matahari/">Yel Yel Regu Matahari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-identitas-individu-dan-identitas-kelompok-terbentuk/">Bagaimana Identitas Individu Dan Identitas Kelompok Terbentuk</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dalam-menghadapi-mea-maka-indonesia-perlu/">Dalam Menghadapi Mea Maka Indonesia Perlu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tokoh-utama-dalam-teater-disebut/">Tokoh Utama Dalam Teater Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-yang-dimaksud-karya-seni-tiga-dimensi/">Apa Yang Dimaksud Karya Seni Tiga Dimensi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-asimetris/">Contoh Asimetris</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/wru-artinya/">Wru Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-hasil-cetak-tinggi/">Contoh Hasil Cetak Tinggi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dekel-artinya/">Dekel Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/rangkaian-tertutup/">Rangkaian Tertutup</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sugeng-rawuh/">Sugeng Rawuh</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/paragraf-yang-memiliki-kalimat-utama-di-akhir-disebut/">Paragraf Yang Memiliki Kalimat Utama Di Akhir Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apakah-yang-dimaksud-teks-eksplanasi/">Apakah Yang Dimaksud Teks Eksplanasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/geometris-adalah/">Geometris Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-qada/">Contoh Qada</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

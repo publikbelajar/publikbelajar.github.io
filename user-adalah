@@ -1,0 +1,1319 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>User Adalah - BELAJAR</title>
+    <meta name="description" content="User Adalah, , , , , , , 0, Offer users a personalised taxi booking experience with Cab Grid Pro, cabgrid.com, 512 x 512, png, , 20, user-adalah, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="User Adalah - BELAJAR" />
+    <meta property="og:description" content="User Adalah, , , , , , , 0, Offer users a personalised taxi booking experience with Cab Grid Pro, cabgrid.com, 512 x 512, png, , 20, user-adalah, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="User Adalah - BELAJAR" />
+    <meta name="twitter:description" content="User Adalah, , , , , , , 0, Offer users a personalised taxi booking experience with Cab Grid Pro, cabgrid.com, 512 x 512, png, , 20, user-adalah, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">User Adalah</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">akusiapatp</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=User+Adalah" alt="User Adalah">
+                    </div>
+                    <p></p>
+                    <p>Urutan proses perputaran informasi komputer adalah...5 poina. Input – output – user – CPU – userb. User – input – CPU – output – userc. User – output – input – CPU – userd. CPU –user – input – output – usere. User – input – output – CPU – user​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#urutan-proses-perputaran-informasi-komputer-adalah-5-poina-input-%e2%80%93-output-%e2%80%93-user-%e2%80%93-cpu-%e2%80%93-userb-user-%e2%80%93-input-%e2%80%93-cpu-%e2%80%93-output-%e2%80%93-userc">1.
+                                            Urutan proses perputaran informasi komputer adalah...5 poina. Input – output – user – CPU – userb. User – input – CPU – output – userc. User – output – input – CPU – userd. CPU –user – input – output – usere. User – input – output – CPU – user​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perbedaan-anonimouse-user-dengan-legal-user">2.
+                                            Perbedaan anonimouse user dengan legal user </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-user-root-dan-user-operator">3.
+                                            Apa yang dimaksud dengan user root dan user operator</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-cara-membuat-user-baru-dan-menentukan-hak-akses-bagi-user-tersebut">4.
+                                            Bagaimana cara membuat user baru dan menentukan hak akses bagi user tersebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cara-kerja-website-yaitu-%e2%80%a6-a-url-user-browser-server-browser-user-b-browser-user-url-server-browser-user-c-user-browser">5.
+                                            Cara Kerja Website yaitu …
+ a) URL -&gt; user -&gt; browser -&gt; server -&gt; browser -&gt;user
+ b) browser -&gt; user -&gt; URL -&gt; server -&gt; browser -&gt;user
+ c) user -&gt; browser -&gt; URL -&gt; server -&gt; browser -&gt;user
+ d) user -&gt; browser -&gt; URL -&gt; user -&gt; browser -&gt;user
+ e) user -&gt; browser -&gt; user -&gt; server -&gt; browser -&gt;user</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-dasarnya-ada-dua-jenis-user-dalam-mengoperasikan-komputer-jelaskan-2-user-tersebut-dengan-tepat%e2%80%8b">6.
+                                            pada dasarnya ada dua jenis user dalam mengoperasikan komputer.Jelaskan 2 user tersebut dengan tepat!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-kaitan-antara-manajemen-user-dan-grup-dengan-manajemen-grup-user">7.
+                                            Apa kaitan antara manajemen user dan grup dengan manajemen grup user?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-kaitan-antara-manajemen-user-dan-group-dengan-manajemen-group-user">8.
+                                            Apa kaitan antara manajemen user dan group dengan manajemen group user?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-kaitan-antara-manajemen-user-dan-group-dengan-manajemen-group-user">9.
+                                            Apa kaitan antara manajemen user dan group dengan manajemen group user?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#interface-yang-paling-tua-adalah-a-character-user-interface-cuib-bahasa-naturalc-graphic-user-interface-guid-mobile-user-interface">10.
+                                            Interface yang paling tua adalah....
+a.Character User Interface (CUI)
+b.Bahasa Natural
+c.Graphic User Interface (GUI)
+d.Mobile User Interface</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#user-interface-dapat-menerimamemberikan-informasi-kepada-user-melalui-proses-yaitu-%e2%80%8b">11.
+                                            User interface dapat menerima/memberikan informasi kepada user  melalui proses yaitu...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#siapakah-user-anonimousdan-bagaimana-caranya-agar-user-tersebut-tidak-bisa-mengakses-ftp-server">12.
+                                            Siapakah user anonimous?dan bagaimana caranya agar user tersebut tidak bisa mengakses ftp server</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-di-dalam-sebuah-website-memiliki-user-super-user-administrator-dan-super-administrator">13.
+                                            mengapa di dalam sebuah website memiliki user , super user , administrator dan super administrator</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sisitem-operasi-adalaha-penghubung-antara-brainwarehardware-dan-softwareb-penghubung-antara-user-dan-softwarec-penghubung-user-dengan-userd-penghubung-software-dengan-hardware">14.
+                                            sisitem operasi adalah:
+A.penghubung antara brainware,hardware dan software
+B.penghubung antara user dan software
+C.penghubung user dengan user
+D.penghubung software dengan hardware</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kpan-kita-mngunakan-user-adaministrator-dan-kpan-kita-menggunkan-user-biasa%e2%80%8b">15.
+                                            kpan kita mngunakan user adaministrator dan kpan kita menggunkan user biasa​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolng-bantu-jawab-ya-user-user-yg-hebat-%e2%80%8b">16.
+                                            tolng bantu jawab ya user user yg hebat ;) ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-perbedaan-user-dan-end-userplis-tolong-bantu-kak%e2%80%8b">17.
+                                            jelaskan perbedaan user dan end user?plis tolong bantu kak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#user-a-akan-mengirim-data-ke-user-b-dan-data-dibagi-dalam-5-paket-gambarkan-contoh-proses-pengiriman-paket-tersebut-apabila-ditengah-tengah-user-a-dan-user-b-ada-4-nodes">18.
+                                            User A akan mengirim data ke user B dan data dibagi dalam 5 paket. Gambarkan contoh proses pengiriman paket tersebut apabila ditengah-tengah user A dan user B ada 4 nodes</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mekanisme-antar-pengguna-user-dengan-sistem-dinamakan-dengan-%e2%80%a6-a-personal-computerb-desain-user-interfacec-step-by-stepd-admin-user-interfacee-graphical-user-interface">19.
+                                            Mekanisme antar pengguna (user) dengan sistem dinamakan dengan ….
+A. Personal Computer
+B. Desain User Interface
+C. Step by step
+D. Admin User Interface
+E. Graphical User Interface</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-perbedaan-user-dan-super-user">20.
+                                            Jelaskan perbedaan user dan super user? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jenis-user-apakah-yang-tercantum-dalam-menu-user">21.
+                                            jenis user apakah yang tercantum dalam menu "/user" ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-aplikasi-yang-termasuk-user-friendly-dan-bukan-termasuk-user-friendly%e2%80%8b">22.
+                                            contoh aplikasi yang termasuk User friendly dan Bukan Termasuk User friendly​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-database-user-pemakai-yang-belum-mahir-tinggal-menjalankan-aplikasi-yang-sudah-dibuat-oleh-progammer-aplikasi-disebut-programmercasual-userend-userspecialized-user%e2%80%8b">23.
+                                            Dalam database user, pemakai yang belum mahir, tinggal menjalankan aplikasi yang sudah dibuat oleh progammer aplikasi disebut .... ProgrammerCasual UserEnd UserSpecialized User​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#30-gui-kependekan-dari-a-geographical-user-interface-c-graphical-user-intervalb-graphical-user-international-d-graphical-user-interface">24.
+                                            30.GUI kependekan dari .....
+a. Geographical User Interface c. Graphical User Interval
+b. Graphical User International d. Graphical User Interface</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#permaslahan-1-12-apakah-perbedaan-perintah-useradd-dan-adduser-penyelesaian-useradd-menciptakan-user-tanpa-mengeset-password-menciptakan-user-tanpa-ada-home-direktorinya-menciptakan-user-tan">25.
+                                            Permaslahan 1.12 :Apakah perbedaan perintah useradd dan adduser ?Penyelesaian :Useradd : - Menciptakan user tanpa mengeset password - Menciptakan user tanpa ada home direktorinya- Menciptakan user tanpa memberikan keterangan lengkap mengenai user tersebutAdduser :- Menciptakan user dengan melakukan setting password terlebih dahulu- Menciptakan user serta home direktorinya- Menciptakan user dengan memberikan keterangan lengkap si user tersebutBagaimana pendapatmu ( minimal 10 kata ) :Apa alasannya ( minimal 20 kata ) : Mohon dijawab ya...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-user-dan-tujuan-dan-fungsi-untuk-seorang-user">26.
+                                            apa itu user dan tujuan  dan fungsi untuk seorang user?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-anda-ketaui-tentang-user-journey-jelaskan-dan-berikan-contoh-dari-user-journey">27.
+                                            Apa yang anda ketaui tentang user journey ? Jelaskan dan berikan contoh dari User Journey !</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-perbedaan-user-interface-dan-user-experience">28.
+                                            apa perbedaan user interface dan user experience ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-kalian-antara-manajemen-user-grup-dengan-manajemen-grup-user">29.
+                                            Apakah kalian antara manajemen user grup dengan manajemen grup user</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-perbedaan-user-interface-design-user-experience-design">30.
+                                            Apa perbedaan User Interface Design &amp; User Experience Design???</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perbedaan-end-user-dengan-casual-userjelaskan">31.
+                                            perbedaan end user dengan casual user?jelaskan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#permasalahan-1-12-apakah-perbedaan-perintah-useradd-dan-adduser-penyelesaian-useradd-menciptakan-user-tanpa-mengeset-password-menciptakan-user-tanpa-ada-home-direktorinya-menciptakan-user-ta">32.
+                                            Permasalahan 1.12 :Apakah perbedaan perintah useradd dan adduser ?Penyelesaian :Useradd :- Menciptakan user tanpa mengeset password - Menciptakan user tanpa ada home direktorinya - Menciptakan user tanpa memberikan keterangan lengkap mengenai user tersebut Adduser :- Menciptakan user dengan melakukan setting password terlebih dahulu- Menciptakan user serta home direktorinya- Menciptakan user dengan memberikan keterangan lengkap si user tersebut Bagaimana pendapatmu ( minimal 10 kata ) :Apa alasannya ( minimal 20 kata ) :</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berdasarkan-dengan-jumlah-user-serta-program-yang-dijalankan-sistem-operasi-dibagi-menjadi-4-jenis-antara-laina-multi-tasking-multi-taskingb-multi-tasking-multi-userc-single-user-multi-taskingd-multi">33.
+                                            berdasarkan dengan jumlah user serta program yang dijalankan sistem operasi dibagi menjadi 4 jenis antara laina.multi tasking-multi taskingb.multi tasking-multi userc.single user-multi taskingd.multi user-multi user​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nama-user-yang-digunakan-untuk-login-sebagai-super-user-adalah">34.
+                                            nama user yang digunakan untuk login sebagai super user adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#spesifikasi-komputer-server-dalam-suatu-perusahaan-dengan-user-minimal-500-user">35.
+                                            spesifikasi komputer server dalam suatu perusahaan dengan user minimal 500 user</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#internal-user-information-and-external-user-information">36.
+                                            Internal user information and external user information</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-kamu-ketahui-tentang-home-user-dan-home-office-user">37.
+                                            Apa yang kamu ketahui tentang home user dan home office user?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#website-apa-yang-memiliki-pendekatan-user-friendly-tinggi-terhadap-user-serta-fungsionalitas-yang-mendukung-dari-sisi-user">38.
+                                            Website apa yang memiliki pendekatan user friendly tinggi terhadap user serta fungsionalitas yang mendukung dari sisi user ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-user-iddan-apa-arti-user-id-tersebut">39.
+                                            Apa arti user ID??
+Dan apa arti user ID tersebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-di-maksud-user-account-icon-user-account-folder">40.
+                                            Apa yang di maksud User Account Icon &amp; User Account Folder ? </a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="urutan-proses-perputaran-informasi-komputer-adalah-5-poina-input-%e2%80%93-output-%e2%80%93-user-%e2%80%93-cpu-%e2%80%93-userb-user-%e2%80%93-input-%e2%80%93-cpu-%e2%80%93-output-%e2%80%93-userc">
+                            1. Urutan proses perputaran informasi komputer adalah...5 poina. Input – output – user – CPU – userb. User – input – CPU – output – userc. User – output – input – CPU – userd. CPU –user – input – output – usere. User – input – output – CPU – user​</h2><br />
+                        <p><strong>Jawaban singkat:</strong></p>b. User – input – CPU – output – user<p></p><p><strong>Penjelasan tambahan:</strong></p><p>Secara umum, perputaran data yaitu : input - proses - output.</p><p>Namun pada soal di atas, keterlibatan user menyebabkan data diawali dari user &amp; diakhiri oleh user. Sehingga prosesnya:</p><p>- User : memiliki data (yg masih mentah)</p><p>- input: data diinput dg alat masukan</p><p>- CPU: data diolah dg alat proses</p><p>- output: data dioutput dg alat keluaran</p><p>- user: mendapatkan data berupa informasi (data yg sudah diolah)</p><br />
+                                            <h2 class="ez-toc-section" id="perbedaan-anonimouse-user-dengan-legal-user">
+                            2. Perbedaan anonimouse user dengan legal user </h2><br />
+                        Anonymous, Mempunyai hal keterbatasa hak akses. Keterbatasan yang dimiliki ketika pengguna menggunakan jenis FTP anonymous biasanya meliputi keterbatasan dalam proses akses directrory dan file yang tersedia dalam server yang dituju. Selain itu, pengguna yang menggunakan sistem ini tidak dapat melakukan uploading data terhadap server yang dituju. Namun sebaliknya ia hanya memiliki kemampuan dalam downloading, baca file tertentu dan pindah directory yang diizinkan oleh pemilik server.<br /><br /><br />• User legal (authenticated user), adalah sebuah cara lain yang digunakan oleh<br />pengguna internet dalam mengakses sebuah server dengan menggunakan FTP. Untuk dapat mengkases remote host, cara user legal (authenticated user) menuntut kita untuk memiliki sebuah account khusus yang dimiliki secara pribadi. Untuk dapat memiliki account khusus ini, seorang pengguna harus mendaftarkan diri terlebih dahulu kepada pemilik remote host tersebut. <br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-user-root-dan-user-operator">
+                            3. Apa yang dimaksud dengan user root dan user operator</h2><br />
+                        pohon yang ditebang secara liar<br />user root (super user)adalah kewenangan dalam sistem linuk dimana dapat mengakses sistem dan konfigurasinya sedang user hanya sebatas pemakaian saja<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-cara-membuat-user-baru-dan-menentukan-hak-akses-bagi-user-tersebut">
+                            4. Bagaimana cara membuat user baru dan menentukan hak akses bagi user tersebut</h2><br />
+                        Kalau memberi akses di windows tinggal klik user trus tambah user lalu berikan hak akses mau jadi administrator atau guest.<br />
+                                            <h2 class="ez-toc-section" id="cara-kerja-website-yaitu-%e2%80%a6-a-url-user-browser-server-browser-user-b-browser-user-url-server-browser-user-c-user-browser">
+                            5. Cara Kerja Website yaitu …
+ a) URL -&gt; user -&gt; browser -&gt; server -&gt; browser -&gt;user
+ b) browser -&gt; user -&gt; URL -&gt; server -&gt; browser -&gt;user
+ c) user -&gt; browser -&gt; URL -&gt; server -&gt; browser -&gt;user
+ d) user -&gt; browser -&gt; URL -&gt; user -&gt; browser -&gt;user
+ e) user -&gt; browser -&gt; user -&gt; server -&gt; browser -&gt;user</h2><br />
+                        Kelas: IX<br />Mata pelajaran: Teknologi Informasi<br />Materi:  Internet<br /><br />Saya akan mencoba menjawab dengan dua jawaban:<br /><br />Jawaban pendek:<br /><br />Cara Kerja Website yaitu …<br /><br />c) user -&gt; browser -&gt; URL -&gt; server -&gt; browser -&gt;user<br /><br />Jawaban panjang:<br /><br />User adalah pengguna komputer. Disini user akan mengakses suatu halaman web di Internet. Karena itu yang user lakukan pertama adalah membuka browser di komputernya.<br /><br />Browser adalah perangkat lunak yang digunakan untuk mengakses halaman internet melalui jaringan internet. Contoh dari browser adalah Chrome, Firefox, Opera dan Internet Explorer. Untuk menggunakan browser, seorang user akan mengetik alamat URL ke browser.<br /><br />URL adalah alamat yang digunakan untuk mengakses suatu berkas atau data di jaringan komputer. Alamat internet adalah salah satu bentuk URL. Oleh browser, URL ini akan dikirimkan ke server untuk diproses. Contoh URL misalnya adalah http://www.goole.com. Bila user mengetik alamat ini maka dia akan meminta melalui browser di komputernya untuk menghubungkan diri dengan server Google dan menampilkan halaman utama dari situs Google.<br /><br />Server adalah sistem komputer yang mengolah alamat internet dan menghantarkan halaman dari data yang disimpan di server kembali untuk ditampilkam di browser pada komputer user yang meminta halaman tersebut.<br /><br />Halaman web yang dikirmkan bisa berupa halaman statis yang tetap. Misalnya halaman berupa file html atau gambar. Namun halaman web yang dikirimkan bisa juga berupa halaman dinamis yang dihasilkan dari pengolahan database dan dengan menggunakan querry atau pencarian.<br />
+                                            <h2 class="ez-toc-section" id="pada-dasarnya-ada-dua-jenis-user-dalam-mengoperasikan-komputer-jelaskan-2-user-tersebut-dengan-tepat%e2%80%8b">
+                            6. pada dasarnya ada dua jenis user dalam mengoperasikan komputer.Jelaskan 2 user tersebut dengan tepat!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Dalam linux ada 2 jenis user yaitu User Root dan User Biasa</p><p></p><p>Perbedaan User Root dan User Biasa</p><p></p><p>1. User Root (Tertinggi) : selevel dengan administrator di Windows ditandai #</p><p></p><p>2. User Biasa : User default sevel dengan User Account di Windows ditandai $</p><p></p><p>User biasa bisa ditambah</p><p></p><p>user biasa terdaftar dan data user tersebut tersimpan di /home.</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p><p>Jan lupa kasih bintang ya Kaka</p><br />
+                                            <h2 class="ez-toc-section" id="apa-kaitan-antara-manajemen-user-dan-grup-dengan-manajemen-grup-user">
+                            7. Apa kaitan antara manajemen user dan grup dengan manajemen grup user?</h2><br />
+                        Sama-sama mengelola user dalam grup-grup tertentu sesuai hak akses dan
+kewajibannya.<br /><br />
+                                            <h2 class="ez-toc-section" id="apa-kaitan-antara-manajemen-user-dan-group-dengan-manajemen-group-user">
+                            8. Apa kaitan antara manajemen user dan group dengan manajemen group user?</h2><br />
+                        kaitan berorganisasi kalo gak salah<br />
+                                            <h2 class="ez-toc-section" id="apa-kaitan-antara-manajemen-user-dan-group-dengan-manajemen-group-user">
+                            9. Apa kaitan antara manajemen user dan group dengan manajemen group user?</h2><br />
+                        user bisa di jadikan anggota dari group yang telah di buat <br /><br /><br />
+                                            <h2 class="ez-toc-section" id="interface-yang-paling-tua-adalah-a-character-user-interface-cuib-bahasa-naturalc-graphic-user-interface-guid-mobile-user-interface">
+                            10. Interface yang paling tua adalah....
+a.Character User Interface (CUI)
+b.Bahasa Natural
+c.Graphic User Interface (GUI)
+d.Mobile User Interface</h2><br />
+                        <p>Jawaban: A. Character User Interface (CUI) </p><p></p><p>Penjelasan:</p><p>CUI : atau Character-based User Interface, merupakan tipikal operating system yang menggunakan perintah dengan text-command.</p><p></p><p><strong>Jawaban:</strong></p><p>A. Character User Interface</p><p><strong>Penjelasan:</strong></p><p><strong>SEMOGA </strong><strong>MEMBANTU</strong></p><p><strong>SEMANGAT </strong><strong>BELAJAR</strong></p><p><strong>SEMOGA </strong><strong>KAMU </strong><strong>BISA</strong><strong>^_^</strong></p><br />
+                                            <h2 class="ez-toc-section" id="user-interface-dapat-menerimamemberikan-informasi-kepada-user-melalui-proses-yaitu-%e2%80%8b">
+                            11. User interface dapat menerima/memberikan informasi kepada user  melalui proses yaitu...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>proses interaksi</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah :)</p><br />
+                                            <h2 class="ez-toc-section" id="siapakah-user-anonimousdan-bagaimana-caranya-agar-user-tersebut-tidak-bisa-mengakses-ftp-server">
+                            12. Siapakah user anonimous?dan bagaimana caranya agar user tersebut tidak bisa mengakses ftp server</h2><br />
+                        user anonymous berarti tanpa nama. cara kerja user anpnymous adalah sebagai guest atau tamu dalam ftp server sehingga dapat mengubah tujuan dari pengirim suatu file nya<p>User anonymous adalah user yang tidak di ketahui identitasnya</p><br /><p>Agar tidak bisa mengakses ftp</p><p>Maka di perlukan username dan password pada setiap saat ingin mengakses ftp tsb.</p><br />
+                                            <h2 class="ez-toc-section" id="mengapa-di-dalam-sebuah-website-memiliki-user-super-user-administrator-dan-super-administrator">
+                            13. mengapa di dalam sebuah website memiliki user , super user , administrator dan super administrator</h2><br />
+                        <p>Seperti halnya dalam instansi atau kepengurusan dikelasmu, </p><p>user = teman-temanmu</p><p>superuser = sekertaris, bendahara</p><p>administrator = ketua dan wakil kelas</p><p>super administrator = wali kelas kamu</p><p></p><p>Mengapa? karena didalam sebuah website dinamis dibutuhkan orang-orang yang mengurus bagian-bagian tertentu, serta mengawasi bagian yang ada dibawahnya, dengan hak akses yang berbeda beda, semakin tinggi tingkatnya, semakin luas hak aksesnya, serta semakin tinggi pula tanggung jawabnya</p><br />
+                                            <h2 class="ez-toc-section" id="sisitem-operasi-adalaha-penghubung-antara-brainwarehardware-dan-softwareb-penghubung-antara-user-dan-softwarec-penghubung-user-dengan-userd-penghubung-software-dengan-hardware">
+                            14. sisitem operasi adalah:
+A.penghubung antara brainware,hardware dan software
+B.penghubung antara user dan software
+C.penghubung user dengan user
+D.penghubung software dengan hardware</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A</p><p><strong>Penjelasan:</strong></p><p>#maaf kalo salah####</p><br />
+                                            <h2 class="ez-toc-section" id="kpan-kita-mngunakan-user-adaministrator-dan-kpan-kita-menggunkan-user-biasa%e2%80%8b">
+                            15. kpan kita mngunakan user adaministrator dan kpan kita menggunkan user biasa​</h2><br />
+                        <p>Kita perlu menggunakan sudo (superuser), saat kita perlu mengakses sebuah sistem. Misalnya ketika ingin menginstall repo/package, mengontrol bluetooth/wifi, dsb. Dan juga kita perlu sudo saat mengakses file system, seperti grub, source.list, dll.</p><p>Kita hanya perlu menggunakan user biasa saat mengakses file end-user (file punya kita), seperti video, foto, musik, dan dokumen. Itu tidak perlu superuser, karena memang yang membuat file itu adalah kita sebagai user biasa, bukan superuser.</p><br />
+                                            <h2 class="ez-toc-section" id="tolng-bantu-jawab-ya-user-user-yg-hebat-%e2%80%8b">
+                            16. tolng bantu jawab ya user user yg hebat ;) ​</h2><br />
+                        <p><strong>Jawaban :</strong></p><p></p>Kecepatan = 65 km/jamWaktu = ¾ jam<p></p><p>Jarak = Waktu × Kecepatan</p><p>          = ¾ × 65</p><p>          = (3 × 65) ÷ 4</p><p>          = 195 ÷ 4</p><p>          = <strong>48,75 km</strong></p>Rumus Jarak Tempuh = <p>S = T × V</p><p></p>S = Jarak TempuhT = Waktu V = Kecepatan<p>Diket =</p><p>Kecepatan = 65 km/jam</p><p>Waktu tempuh = ¾ Jam </p><p></p>Ditanya = <p>Jarak yang ditempuh ayah = ....</p><p></p>Jawab = <p>Jarak = Waktu × Kecepatan</p><p>          = ¾ × 65</p><p>[tex] \frac{3}{4}  \times 65=3 \times 16.25  = 48.75[/tex]</p><p></p>Kesimpulan =<p>Jadi, jarak yang ditempuh oleh ayah dalam ¾ jam adalah 48,75 Km</p><p></p><p>Nt : Itu 65nya dibagi 4 jadinya 16.25, sedangkan 4 nya itu jadi 1</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-perbedaan-user-dan-end-userplis-tolong-bantu-kak%e2%80%8b">
+                            17. jelaskan perbedaan user dan end user?plis tolong bantu kak​</h2><br />
+                        <p><strong>Jawaban</strong><strong> </strong><strong>:</strong><strong> </strong></p><p></p><strong>User</strong><strong> </strong><strong>:</strong><strong> </strong>Adalah pengguna pada layanan atau perangkat dalam sistem teknologi informasi<p></p><strong>End</strong><strong> </strong><strong>User</strong><strong> </strong><strong>:</strong><strong> </strong>Sebutan bagi orang yang hanya mengoperasikan suatu alat atau program yang dibuat oleh pihak lain.<p></p><p></p><p><strong>Penjelasan:</strong></p><p></p><p>( ͡❛ ▿ ͡❛) <strong> </strong><strong> </strong><strong>Jadika</strong><strong>n</strong><strong> </strong><strong>Jawaban</strong><strong> Tercerdas</strong><strong> </strong><strong>Yah</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>Semoga Membantu.</p><br />
+                                            <h2 class="ez-toc-section" id="user-a-akan-mengirim-data-ke-user-b-dan-data-dibagi-dalam-5-paket-gambarkan-contoh-proses-pengiriman-paket-tersebut-apabila-ditengah-tengah-user-a-dan-user-b-ada-4-nodes">
+                            18. User A akan mengirim data ke user B dan data dibagi dalam 5 paket. Gambarkan contoh proses pengiriman paket tersebut apabila ditengah-tengah user A dan user B ada 4 nodes</h2><br />
+                        <p>SEMOGA MEMBANTU</p><p>#JADIIN YG TERBAIK DONG</p><br />
+                                            <h2 class="ez-toc-section" id="mekanisme-antar-pengguna-user-dengan-sistem-dinamakan-dengan-%e2%80%a6-a-personal-computerb-desain-user-interfacec-step-by-stepd-admin-user-interfacee-graphical-user-interface">
+                            19. Mekanisme antar pengguna (user) dengan sistem dinamakan dengan ….
+A. Personal Computer
+B. Desain User Interface
+C. Step by step
+D. Admin User Interface
+E. Graphical User Interface</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawabannya B. desain user interface</p><p><strong>Penjelasan:</strong></p><p>semoga membantu ya</p><p>maaf kalo slh</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-perbedaan-user-dan-super-user">
+                            20. Jelaskan perbedaan user dan super user? </h2><br />
+                        <p><strong>Jawaban:</strong></p><p>user : pengguna</p><p>super user : pengguna yg sudah profesional</p><br />
+                                            <h2 class="ez-toc-section" id="jenis-user-apakah-yang-tercantum-dalam-menu-user">
+                            21. jenis user apakah yang tercantum dalam menu "/user" ?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>User adalah nama lain dari pengguna nama ini umumnya di gunakan untuk seseorang yang memanfaatkan suatu layanan atau sistem tertentu, jika seseorang memanfaatkan sebuah layanan atau fasilitas yang di sediakan oleh sebuah perangkat (dalam hal ini mikrotik) maka seseorang tersebut dapat di kategorikan sebagai user(pengguna).</p><p></p><p>Sebagai contoh saat anda mencoba login ke dalam menu winbox yang ada pada mikrotik tentunya anda di haruskan untuk memasukan username dan password pada winbox tersebut, tapi dari pihak mikrotik sebelumnya sudah membuat user default yang memudahkan setiap user baru yang ingin mengakses mikrotik tersebut cukup memasukan username = admin dan password = kosong cara ini memang sangat mempermudah seorang user yang akan mengakses mikrotik apalagi saat baru pertama menggunakan mikrotik.</p><p></p><p>Namun hal yang fatal bisa terjadi jika ternyata administrator pada jaringan tersebut membiarkan user dan password default bawaan mikrotik masih aktif karna hal ini akan mengakibatkan setiap user asing dapat masuk dan mengakses setiap konfigurasi pada mikrotik tersebut jika user asing hanya melihat-lihat konfigurasinya saja mungkin itu bukan hal yang harus di khawatirkan akan tetapi bisa di bayangkan jika user asing tersebut mencoba merubah konfigurasi yang sudah dengan susah payah kita buat yang mengakibatkan sebagian jaringan eror atau bahkan mati total karna tabrakan IP atau di reset oleh user asing tersebut dan tentu hal ini tidak ingin anda alami bukan Untuk mencegah masuknya user asing pada mikrotik milik kita, pihak mikrotik sudah memberikan fasilitas user pada setiap mikrotik yang sangat membantu untuk mengatasi masuknya user asing pada mikrotik milik kita.</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><p>dan semoga membantu </p><p>maaf ya kalo kebanyakan jawaban</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-aplikasi-yang-termasuk-user-friendly-dan-bukan-termasuk-user-friendly%e2%80%8b">
+                            22. contoh aplikasi yang termasuk User friendly dan Bukan Termasuk User friendly​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pengertian User Friendly</p><p>User friendly adalah suatu keadaan dimana ketika seseorang menggunakan alat, software, website atau sistem operasi secara mudah. Saat ini, segala sesuatu hal hatus user friendly karena manusia cenderung selalu mencari kemudahan dalam kehidupan mereka. Lalu jika sebuah aplikasi android atau browser user friendly, berarti orang yang menggunakan aplikasi tersebut merasa mudah dan tidak mengalami kesulitan.</p><p></p><p>Kenyataannya, kenyamanan pengguna aplikasi tidak dapat dianggap sepele. Kemudahan dan menjadikan pengguna aplikasi sebagai rumah saat menjalani aplikasi adalah sebuah keharusan. Sebuah aplikasi tidak boleh terlalu memusingkan serta menyulitkan pengguna karena fitur-fitur atau fungsionalitas yang kurang berguna.</p><p></p><p>Ciri-Ciri Aplikasi Keuangan Android yang User Friendly</p><p>1. Mudah Digunakan</p><p>Mudah digunakan adalah salah satu alasan utama mengapa sebuah aplikasi keuangan android bisa disebut user friendly. Kemudahan dalam sebuah aplikasi keuangan bisa dilihat dari berbagai kemudahan bagi pengguna untuk mengakses setiap fitur yang dimilikinya. Jika sebuah aplikasi memiliki fitur yang tidak rumit, namun mampu menghasilkan segala kebutuhan laporan keuangan secara multi-fungsi, maka bisa di katakan aplikasi keuangan tersebut cukup bagus dan mudah digunakan.</p><p></p><p>2. Mudah Dipahami</p><p>Tidak semua pengguna aplikasi keuangan adalah orang-orang yang memahami masalah keuangan atau istilah yang sering digunakan dalam masalah keuangan. Jika sebuah aplikasi keuangan memiliki istilah umum yang bisa dipahami oleh setiap orang dengan mudah, maka aplikasi tersebut bisa digunakan oleh orang awam secara luas dan termasuk dalam kategori user friendly.</p><p></p><p>3. Praktis</p><p>Sebuah aplikasi keuangan yang user friendly bukanlah yang memiliki banyak fitur, tapi juga mampu menghasilkan banyak laporan keuangan melalui satu pencatatan yang diperlukan. Banyak orang menggunakan sebuah aplikasi karena tingkat efektivitas dan kepraktisannya yang tinggi. Aplikasi dapat membantu pengguna menyelesaikan sebuah pekerjaan lebih baik dari sebelumnya dan tidak menimbulkan hambatan bagi pengguna aplikasi.</p><p></p><p>4. Menarik secara Estetika </p><p>Mengikuti tren sambil mengorbankan kemudahan pengguna adalah salah besar. Pengguna akan mengalami hal yang tidak menyenangkan. Setiap update yang dilakukan tidak harus mengorbankan keramahan user selama menggunakan aplikasi keuangan. Desain menu dan hal lainnya menarik tetapi tetap menggunakan prinsip keep it simple. Sehingga pengguna terus nyaman selama melihat aplikasi.</p><p></p><p>5. User Merasa Nyaman saat Menjalankan Aplikasi</p><p>Ketika keempat ciri-ciri diatas sudah terpenuhi, maka dengan sendirinya pengguna akan merasa senang dan nyaman dalam menggunakan aplikasi. Tidak perlu repot sehingga tidak pindah ke lain hati. Kenyamanan user juga didukung dengan perbaikan dan kemajuan yang dilakukan secara berkala oleh aplikasi sehingga user akan terus nyaman dalam menggunakan aplikasi meskipun bertahun-tahun lamanya.</p><p></p><p>Baca juga : Nikmati Fitur Pembukuan Lengkap dengan Jurnal</p><p></p><p>Bayangkan, hanya dengan memasukkan sebuah transaksi dalam kolom pengeluaran, secara otomatis Anda mendapatkan grafik laporan perbandingan pemasukan dan pengeluaran, laporan arus kas, dan laporan keuangan harian sekaligus dari satu pencatatan. Hal ini tentunya memberi kemudahan bagi pengguna aplikasi tersebut.</p><p></p><p>Sebagai software akuntansi atau aplikasi keuangan dan akuntansi, Jurnal telah memiliki semua ciri-ciri di atas dan dapat dikatakan bahwa Jurnal adalah aplikasi yang user friendly. Saat ini, Jurnal telah tersedia dalam versi mobile, yaitu Jurnal Mobile. Dengan aplikasi Jurnal Mobile pada ponsel, Anda bisa dapat dengan mudah melihat dan mengelola keuangan bisnis kapan dan di mana saja. Daftarkan bisnis Anda di Jurnal sekarang dan nikmati kemudahan dalam mengelola keuangan di dalam satu genggaman. Dapatkan segala informasi tentang Jurnal di sini.</p><br />
+                                            <h2 class="ez-toc-section" id="dalam-database-user-pemakai-yang-belum-mahir-tinggal-menjalankan-aplikasi-yang-sudah-dibuat-oleh-progammer-aplikasi-disebut-programmercasual-userend-userspecialized-user%e2%80%8b">
+                            23. Dalam database user, pemakai yang belum mahir, tinggal menjalankan aplikasi yang sudah dibuat oleh progammer aplikasi disebut .... ProgrammerCasual UserEnd UserSpecialized User​</h2><br />
+                        <p>Dalam database user, pemakai yang belum mahir, tinggal menjalankan aplikasi yang sudah dibuat oleh programmer aplikasi disebut...?</p><p><strong>End </strong><strong>User</strong></p><p><strong>Penjelasan:</strong></p><p><strong>#</strong><strong>S</strong><strong>e</strong><strong>m</strong><strong>o</strong><strong>g</strong><strong>a</strong><strong>M</strong><strong>e</strong><strong>m</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong>t</strong><strong>u</strong></p><p><strong>#</strong><strong>M</strong><strong>a</strong><strong>k</strong><strong>a</strong><strong>s</strong><strong>i</strong><strong>h</strong></p><p></p><p><strong>By:</strong><strong>Charzka</strong></p><br />
+                                            <h2 class="ez-toc-section" id="30-gui-kependekan-dari-a-geographical-user-interface-c-graphical-user-intervalb-graphical-user-international-d-graphical-user-interface">
+                            24. 30.GUI kependekan dari .....
+a. Geographical User Interface c. Graphical User Interval
+b. Graphical User International d. Graphical User Interface</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>d. Graphical User Interface</p><p><strong>Penjelasan:</strong></p><p>GUI merupakan kepanjangan dari Graphical User Interface yang merupakan suatu sistem komponen visual yang interaktif</p><p>D. Graphical User Interface</p><p>Merupakan toolkit yang ditujukan untuk membangun antarmuka untuk pengguna</p><p></p><p>Semoga jawaban ini membantu</p><br />
+                                            <h2 class="ez-toc-section" id="permaslahan-1-12-apakah-perbedaan-perintah-useradd-dan-adduser-penyelesaian-useradd-menciptakan-user-tanpa-mengeset-password-menciptakan-user-tanpa-ada-home-direktorinya-menciptakan-user-tan">
+                            25. Permaslahan 1.12 :Apakah perbedaan perintah useradd dan adduser ?Penyelesaian :Useradd : - Menciptakan user tanpa mengeset password - Menciptakan user tanpa ada home direktorinya- Menciptakan user tanpa memberikan keterangan lengkap mengenai user tersebutAdduser :- Menciptakan user dengan melakukan setting password terlebih dahulu- Menciptakan user serta home direktorinya- Menciptakan user dengan memberikan keterangan lengkap si user tersebutBagaimana pendapatmu ( minimal 10 kata ) :Apa alasannya ( minimal 20 kata ) : Mohon dijawab ya...</h2><br />
+                        <p>Menurut saya perintah Adduser lebih berguna dalam pembuatan akun yang memerlukan informasi lengkap seperti e-KTP namun Useradd juga tidak salah karena pembuatan akun juga ada yang dapat dilakukan secara tidak lengkap seperti akun toko online.</p><p></p><p>Adduser digunakan ketika diperlukan suatu identitas secara lengkap seperti e-KTP untuk digunakan keperluan lain seperti verifikasi pembuatan SIM. Bayangan prosedur yang terjadi dari Adduser adalah sebagai berikut:</p><p></p><p>Adduser</p><p>    User iniUser = new User();</p><p>    iniUser.createDirectory();</p><p>    iniUser.setRandomPassword();</p><p>    iniUser.setUserDescription();</p><p>    addToDatabase(iniUser);</p><p>END</p><p></p><p>Namun jika kita berbicara soal User Experience memang perintah Useradd sangat berguna karena informasi yang diberikan tidak lengkap namun mempercepat User menggunakan produk tersebut. Contohnya toko online seperti Tokopedia, user baru akan melihat-lihat katalog barang dan jika ingin membeli barang tentunya perlu Login. Namun coba kita lihat jika kita menggunakan Adduser tentunya akan sangat lama karena User perlu mengisi password dan deskripsi tentangnya padahal yang dibutuhkan hanya UserID dan Alamat pengirimannya saja maka ada fitur Useradd seperti "Login with Facebook" atau "Login with Google" yang mempercepat User membeli barang tersebut. Setelah membeli, barulah User dapat melengkapi informasi yang ada pada akunnya. Berikut adalah bayangan dari Useradd:</p><p></p><p>Useradd</p><p>    User iniUser = new User();</p><p>    iniUser.addInformation();</p><p>    addToDatabase(iniUser);</p><p>END</p><p></p><p>Jadi, Useradd dapat digunakan jika diperlukan informasi sedikit dan customer engagement yang tinggi sedangkan Adduser digunakan jika informasi yang diperlukan harus selengkap mungkin.</p><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-user-dan-tujuan-dan-fungsi-untuk-seorang-user">
+                            26. apa itu user dan tujuan  dan fungsi untuk seorang user?</h2><br />
+                        <p>user bahasa inggris dari arti pengguna</p><p>fungsix untuk mengetahui siapa pemegang akun tsb</p><p>user itu adalah ( pengguna)</p><p>tujuannya yaitu:•       </p><p>•         Menyesuaikan antar muka pengguna dengan tugas.
+</p><p>•         Membuat antar muka pengguna menjadi efisien.
+</p><p>•         Memberikan arus balik yang tepat kepada pengguna.
+</p><p>•         Memunculkan pertanyaan-pertanyaan yang dapat dimanfaatkan.
+</p><p>•         Memperbaiki produktivitas dari pengetahuan pegawai
+</p><p>fungsinya untuk menyediakan metode untuk input dan output</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-anda-ketaui-tentang-user-journey-jelaskan-dan-berikan-contoh-dari-user-journey">
+                            27. Apa yang anda ketaui tentang user journey ? Jelaskan dan berikan contoh dari User Journey !</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>user journey adalah</p><p><strong>Penjelasan:</strong></p><p>contoh user journey</p><br />
+                                            <h2 class="ez-toc-section" id="apa-perbedaan-user-interface-dan-user-experience">
+                            28. apa perbedaan user interface dan user experience ?</h2><br />
+                        .meskipun sama² di awali kata user, dua istilah ini memiliki makna yang berbeda. dimana user interface mengacu kepada tampilan suatu produk, serta user experience mengacu kepada keahlian pengguna.<br /><br />CMIIW<br />maaf kalo salah<br />
+                                            <h2 class="ez-toc-section" id="apakah-kalian-antara-manajemen-user-grup-dengan-manajemen-grup-user">
+                            29. Apakah kalian antara manajemen user grup dengan manajemen grup user</h2><br />
+                        management group usser. semoga bermanfaat.<br />
+                                            <h2 class="ez-toc-section" id="apa-perbedaan-user-interface-design-user-experience-design">
+                            30. Apa perbedaan User Interface Design &amp; User Experience Design???</h2><br />
+                        perbedaannya<br />UI (User Interface)<br />UI fokus kepada bagaimana seluruh tampilan sebuah produk dilihat dan ditata dari antarmuka pengguna. <br />UX (User Experience)<br />Sedangkan UX fokus bagaimana merasakan pengalaman dari sebuah produk dilihat dari antarmuka pengguna.<br />
+                                            <h2 class="ez-toc-section" id="perbedaan-end-user-dengan-casual-userjelaskan">
+                            31. perbedaan end user dengan casual user?jelaskan</h2><br />
+                        End User = pengguna biasa yang mendapatkan dan melayani layanan dari server<br />Casual User = pengguna yang telah berpengalaman dan biasa berinteraksi dengan sistem<br /><br />Semoga membantu...<br />
+                                            <h2 class="ez-toc-section" id="permasalahan-1-12-apakah-perbedaan-perintah-useradd-dan-adduser-penyelesaian-useradd-menciptakan-user-tanpa-mengeset-password-menciptakan-user-tanpa-ada-home-direktorinya-menciptakan-user-ta">
+                            32. Permasalahan 1.12 :Apakah perbedaan perintah useradd dan adduser ?Penyelesaian :Useradd :- Menciptakan user tanpa mengeset password - Menciptakan user tanpa ada home direktorinya - Menciptakan user tanpa memberikan keterangan lengkap mengenai user tersebut Adduser :- Menciptakan user dengan melakukan setting password terlebih dahulu- Menciptakan user serta home direktorinya- Menciptakan user dengan memberikan keterangan lengkap si user tersebut Bagaimana pendapatmu ( minimal 10 kata ) :Apa alasannya ( minimal 20 kata ) :</h2><br />
+                        <p>Menurut pendapat saya, adanya perbedaan antara perintah useradd dan adduser dapat digunakan admin sesuai kebutuhan. </p><p>Alasan :</p><p>Hal tersebut tentunya menguntungkan karena saat admin ingin membuat user yang tanpa membutuhkan password, home direktori, ataupun keterangan lengkap, admin dapat langsung menggunakan perintah useradd. Sedangkan saat admin perlu membuat user dengan kelengkapan password, home direktori ataupun keterangan lengkap, admin hanya perlu menggunakan perintah adduser.</p><br />
+                                            <h2 class="ez-toc-section" id="berdasarkan-dengan-jumlah-user-serta-program-yang-dijalankan-sistem-operasi-dibagi-menjadi-4-jenis-antara-laina-multi-tasking-multi-taskingb-multi-tasking-multi-userc-single-user-multi-taskingd-multi">
+                            33. berdasarkan dengan jumlah user serta program yang dijalankan sistem operasi dibagi menjadi 4 jenis antara laina.multi tasking-multi taskingb.multi tasking-multi userc.single user-multi taskingd.multi user-multi user​</h2><br />
+                        <p><strong>Jawaban: jawaban nya c </strong></p><p></p><p><strong>Penjelasan:semoga membantu :)</strong></p><p><strong></strong></p><p><strong>Jawaban:</strong></p><p>C.single user multi tasking</p><p></p>semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="nama-user-yang-digunakan-untuk-login-sebagai-super-user-adalah">
+                            34. nama user yang digunakan untuk login sebagai super user adalah</h2><br />
+                        <p>Jawaban:</p><p>﻿Root</p><p>﻿</p><p>Semoga bener</p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="spesifikasi-komputer-server-dalam-suatu-perusahaan-dengan-user-minimal-500-user">
+                            35. spesifikasi komputer server dalam suatu perusahaan dengan user minimal 500 user</h2><br />
+                        Ram 64 gb dual.channel 128 gb,,, processor i7,,, Vga Nvidia GTX 1080 6 gb,,, <br />
+                                            <h2 class="ez-toc-section" id="internal-user-information-and-external-user-information">
+                            36. Internal user information and external user information</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>Pengguna internal</strong> adalah orang dalam organisasi bisnis yang menggunakan informasi keuangan. Sedangkan <strong>Pengguna eksternal</strong> adalah orang di luar badan usaha (organisasi) yang menggunakan informasi akuntansi. Contoh pengguna eksternal adalah pemasok, bank, pelanggan, investor, calon investor, dan otoritas pajak.</p><p></p><p><strong>Semoga Membantu Adik-Adik :) </strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-kamu-ketahui-tentang-home-user-dan-home-office-user">
+                            37. Apa yang kamu ketahui tentang home user dan home office user?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Home user merupakan pengguna computer rumah yang memiliki koneksi internet untuk mengatur budged dan management financial personal</p><p></p><p>Definisi Small Office / Home Office User (SOHO) menggunakan terminologi teknis, yaitu Perkantoran skala kecil dan menengah yang membutuhkan jaringan lokal (Local Area Network – LAN) dengan skala kurang dari 50 unit perangkat komputer di satu tempat, tidak tersebar atau memiliki cabang di sejumlah lokasi geografis yang terpisah atau tersebar di banyak tempat.</p><p></p><p>Semoga Membantu</p><p><strong>jawaban:</strong></p><p>Small Office / Home Office User (SOHO) menggunakan terminologi teknis, yaitu Perkantoran skala kecil dan menengah yang membutuhkan jaringan lokal (Local Area Network – LAN) dengan skala kurang dari 50 unit perangkat komputer di satu tempat, tidak tersebar atau memiliki cabang di sejumlah lokasi geografis yang terpisah atau tersebar di banyak tempat.</p><p>¤ klo home user gktau :')</p><p></p><p>maaf klo slah:)</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="website-apa-yang-memiliki-pendekatan-user-friendly-tinggi-terhadap-user-serta-fungsionalitas-yang-mendukung-dari-sisi-user">
+                            38. Website apa yang memiliki pendekatan user friendly tinggi terhadap user serta fungsionalitas yang mendukung dari sisi user ?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>(UI) User Interface</p><p></p><p><strong>Penjelasan:</strong></p><p>(UI) User Interface adalah website yang memiliki pendekatan User friendly tinggi terhadap User serta fungsionalitas yang mendukung dari sisi User </p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-user-iddan-apa-arti-user-id-tersebut">
+                            39. Apa arti user ID??
+Dan apa arti user ID tersebut</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>User ID adalah rangkaian huruf yang digunakan sebagai tanda pengenal masuk untuk mengakses internet. Yang bisa dibilang username (nama pengguna). Contohnya adalah nama pengguna kita di Brainly.</p><p><strong>Jawaban:</strong></p><p> User ID atau user name merupakan serangkaian huruf yang merupakan tanda pengenal untuk masuk dan mengakses internet. </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-di-maksud-user-account-icon-user-account-folder">
+                            40. Apa yang di maksud User Account Icon &amp; User Account Folder ? </h2><br />
+                        -User accout icon merupakan sebutan untuk pengguna komputer yang sering menekan suatu ikon, untuk mempersingkat pengetikkan dokumen. <br />-user account folder adalah dokumen dari pengguna komputer yang berbentuk folder atau data dalam sebuah berkas. <br /><br /><br />Semoga membantu :) <br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/gp5GUXceQWY?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ti</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/it-s-ok-artinya/">It s Ok Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sudut-pandang-kemelut-di-majapahit/">Sudut Pandang Kemelut Di Majapahit</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagian-dari-suatu-piramida-makanan-yang-mempunyai-massa-terbanyak-adalah/">Bagian Dari Suatu Piramida Makanan Yang Mempunyai Massa Terbanyak Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/buatlah-kalimat-dengan-kata-cair/">Buatlah Kalimat Dengan Kata Cair</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jika-5x-4-8x-11-maka-nilai-x-2-adalah/">Jika 5x 4 8x 11 Maka Nilai X 2 Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-watercolor-paper-baik-digunakan-untuk-membuat-poster-manual/">Mengapa Watercolor Paper Baik Digunakan Untuk Membuat Poster Manual</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bahasa-inggris-11-sampai-20/">Bahasa Inggris 11 Sampai 20</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tujuan-dalam-mempublikasikan-hasil-penelitian-adalah/">Tujuan Dalam Mempublikasikan Hasil Penelitian Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/stabilitas-nasional-adalah/">Stabilitas Nasional Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/batok-kelapa-sangat-keras-karena-tersusun-dari-jaringan/">Batok Kelapa Sangat Keras Karena Tersusun Dari Jaringan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dibawah-ini-yang-termasuk-dalam-unsur-kebugaran-jasmani-adalah-kecuali/">Dibawah Ini Yang Termasuk Dalam Unsur Kebugaran Jasmani Adalah Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bonpas-adalah/">Bonpas Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/karakteristik-adaptif-dibutuhkan-makhluk-hidup-untuk-kecuali/">Karakteristik Adaptif Dibutuhkan Makhluk Hidup Untuk Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1-newton-berapa-kg/">1 Newton Berapa Kg</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/atmosfer-adalah/">Atmosfer Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tabel-berikut-menunjukkan-kecepatan-empat-merek-printer/">Tabel Berikut Menunjukkan Kecepatan Empat Merek Printer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-bagaimana-paleontologi-membantu-perkembangan-ilmu-biologi/">Jelaskan Bagaimana Paleontologi Membantu Perkembangan Ilmu Biologi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-alasan-diwajibkannya-mandi/">Jelaskan Alasan Diwajibkannya Mandi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pemasangan-kabel-secara-straight-pada-kabel-utp-digunakan-untuk-menghubungkan/">Pemasangan Kabel Secara Straight Pada Kabel Utp Digunakan Untuk Menghubungkan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tujuan-dilakukan-negosiasi-adalah-untuk-mencapai/">Tujuan Dilakukan Negosiasi Adalah Untuk Mencapai</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

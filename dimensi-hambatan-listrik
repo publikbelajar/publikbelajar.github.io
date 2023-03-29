@@ -1,0 +1,1639 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dimensi Hambatan Listrik - BELAJAR</title>
+    <meta name="description" content="Dimensi Hambatan Listrik, , , , , , , 0, Dimensi Hambatan Listrik - Ilmu Soal, duniasekolahid.blogspot.com, 1632 x 920, jpeg, , 20, dimensi-hambatan-listrik, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Dimensi Hambatan Listrik - BELAJAR" />
+    <meta property="og:description" content="Dimensi Hambatan Listrik, , , , , , , 0, Dimensi Hambatan Listrik - Ilmu Soal, duniasekolahid.blogspot.com, 1632 x 920, jpeg, , 20, dimensi-hambatan-listrik, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Dimensi Hambatan Listrik - BELAJAR" />
+    <meta name="twitter:description" content="Dimensi Hambatan Listrik, , , , , , , 0, Dimensi Hambatan Listrik - Ilmu Soal, duniasekolahid.blogspot.com, 1632 x 920, jpeg, , 20, dimensi-hambatan-listrik, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Dimensi Hambatan Listrik</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">Irtamayaintan</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Dimensi+Hambatan+Listrik" alt="Dimensi Hambatan Listrik">
+                    </div>
+                    <p></p>
+                    <p>tentukan dimensi dari hambatan listrik?</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-dimensi-dari-hambatan-listrik">1.
+                                            tentukan dimensi dari hambatan listrik?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dimensi-dari-besaran-hambatan-listrik-adalah">2.
+                                            dimensi dari besaran hambatan listrik adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dimensi-dari-besaran-hambatan-listrik">3.
+                                            dimensi dari besaran hambatan listrik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-lambang-dimensi-untuka-tekananb-dayac-massa-jenisd-momentume-impulsf-hambatan-lstrikg-beda-potensial-listrikh-muatan-listriki-kapasitas-suatu-kapasitorj-medan-l">4.
+                                            Tuliskan lambang dimensi untuk:
+a.) tekanan
+b.) daya
+c.) massa jenis
+d.) momentum
+e.) impuls
+f.) hambatan lstrik
+g.) beda potensial listrik
+h.) muatan listrik
+i.) kapasitas suatu kapasitor
+j.) medan listrik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dimensi-dari-kuat-arus-listrikhambatan-dan-potensial">5.
+                                            dimensi dari kuat arus listrikhambatan dan potensial</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-tuliskan-dimensi-besaran-daria-percepatanb-massa-jenisc-usahad-dayae-hambatan-listrik">6.
+                                            1. Tuliskan dimensi besaran dari:
+a. Percepatan
+b. Massa jenis
+c. Usaha
+d. Daya
+e. Hambatan listrik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-dimensi-tekanan2-besaran-turunan-contohnya3-korvensi-satuan-kecepatan4-menghitung-percepatan5-syarat-benda-melayang6-menghitung-kecepatan-di-penampang-27-korvensi-suhu-farethit-celciu">7.
+                                            1.	Dimensi Tekanan
+2.	Besaran turunan Contohnya
+3.	Korvensi satuan kecepatan
+4.	Menghitung percepatan
+5.	Syarat benda melayang
+6.	Menghitung kecepatan di penampang 2
+7.	Korvensi suhu : Farethit-Celcius
+8.	Menghitung suhu campuran
+9.	Hambatan pengganti dari pararel campuran
+10.	Menghitung arus
+11.	Menghitung biaya beban(Soalx 2 yha beb)
+12.	Menghitung taraf intensitas 10 sumber bunyi
+13.	Menghitung tegangan sekunder travo
+14.	Ciri GLB
+15.	Kecepatan sudut roda(dari rpm)
+16.	Menghitung kecepatan kontrol
+17.	Menghitung daya
+18.	Menghitung sudut dari gaya
+19.	Meghitung muai luas
+20.	Perpindahan panas:konveksi,konduksi,radiasi
+21.	Efiseensi mesin carlot
+22.	Menghitung tekanan hidrostatik(PH)
+23.	Contoh Gerak Harmonik
+24.	Menghitung cepat Rambat Gelombang (dari gambar Soal)
+25.	Menghitung Muatan pada kapasitor (2 Buah)
+26.	Menentukan muatan benda
+27.	Pengertian kuat arus
+28.	Menghitung daya lampu
+29.	Menghitung induktansi
+30.	Pengertian tentang tegangan maksimum
+31.	Menghitung periode getaran
+32.	Menghitug letak bayangan lensa  di fergent
+33.	Menghitung usaha gas idea
+34.	Ciri2 travo step up
+35.	Menentukan besar sudut bias
+36.	Menghitung kuat arus
+37.	Menghitung tegangan kapasitor
+38.	Menghitung tegangan kapasitor
+39.	Fungsi gelombang merambat
+40.	Taraf itensitas
+41.	Menghitung perbandingan dua muatan
+42.	Menentukan muatan penggaris
+43.	Menentukan muatan benda
+44.	Menghitung energi listrik
+45.	Menghitung daya
+46.	Satuan muatan listrik
+47.	Menghitung frekuensi
+48.	Menentukan dialetrik benda paling besar</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-dimensi-dimensi-dari-besaran-besaran-berikutusahatekanandayaenergihambatan-listrik">8.
+                                            Tuliskan Dimensi dimensi dari besaran besaran berikut:
+usaha
+tekanan
+daya
+energi
+hambatan listrik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#satuan-dan-dimensi-dari-usaha-hambatan-listrik-kapasitansi-medan-magnetik-fluks-magnetik">9.
+                                            Satuan dan dimensi dari usaha, hambatan listrik, kapasitansi, medan magnetik, fluks magnetik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-dimensi-dari-besaran-potensial-listrikhambatan-listrik">10.
+                                            Tentukan dimensi dari besaran potensial listrik,hambatan listrik?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-dimensi-besaran-di-bawah-ini-1-percepatan-2-massa-jenis-3-usaha-4-daya-5-hambatan-listrik">11.
+                                            Tuliskan dimensi besaran di bawah ini. 1. percepatan 2.massa jenis 3.usaha 4.daya 5.hambatan listrik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dimensi-dari-besaran-hambatan-listrik-adalah">12.
+                                            dimensi dari besaran hambatan listrik adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-dan-dimensinya-dari-1-konstanta-pegas2-entropi3-muatan-listrik4-kapasitas-kapasitor5-potensial-listrik6-hambatan-listrik">13.
+                                            Rumus dan dimensinya dari :1. Konstanta pegas2. Entropi3. Muatan listrik4. Kapasitas kapasitor5. Potensial Listrik6. Hambatan listrik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-dan-jelaskan-dimensi-dari-hambatan-listrik-dan-potensial-listrik">14.
+                                            sebutkan dan jelaskan dimensi dari hambatan listrik dan potensial listrik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#besaran-hambatan-listrik-apa-besaran-penyusunnya-satuan-dan-dimensi%e2%80%8b">15.
+                                            besaran hambatan listrik apa besaran penyusunnya, satuan dan dimensi!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-besaran-penyusun-sekon-dan-dimensi-dibawah-ini1-luas2-percepatan3-massa-jenis4-daya5-energi-potensial6-energi-kinetik7-usaha8-9-tekanan10-impuls11-momentum12-potensial-l">16.
+                                            Tuliskan Besaran Penyusun sekon , dan dimensi dibawah ini
+1. Luas
+2. Percepatan
+3. massa jenis
+4.Daya
+5.Energi Potensial
+6. Energi kinetik
+7. Usaha
+8.
+9. Tekanan
+10. Impuls
+11. Momentum
+12.Potensial Listrik
+13.Hambatan Listrik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-perubahan-budaya-masyarakat-yang-tergolong-dlam-budaya-non-materiil-dianggap-lebih-sukar-untuk-berubah-contoh-budaya-yang-dimaksud-adalah%e2%80%a6-a-%c2%a0%c2%a0%c2%a0%c2%a0mode-pakaianb-%c2%a0">17.
+                                            1.  Perubahan budaya masyarakat yang tergolong dlam budaya non materiil dianggap lebih sukar untuk berubah. Contoh budaya yang dimaksud adalah….a.    Mode pakaianb.    Bentuk rumah adatc.    Tradisi dalam masyarakatd.    Pola perkampungan2.    Perubahan sosial budaya adalah suatu perubahan dalam berbagai dimensi mkehidupan manusia. Yang tidak termasuk dalam perubahan itu adalah....a. hubungan sosialb. pola perilakuc. sruktur sosiald. departemen sosial3.    Perubahan sosial terjadi karena disebabkan oleh beberapa faktor. Yang bukan merupakan penyebab terjadinya perubahan itu adalah…a. Kontak dengan kebudayaan lainb. Sistem pendidikan yang majuc. Menghargai hasil karya orang laind. Kemampuan ekonomi masyarakat4.    Yang bukan merupakan faktor penghambat terjadinya perubahan sosial adalah …a.   Kurangnya hubungan dengan masyarakat lainb.   Perkembangan ilmu pengetahuan dan teknologi yang lambanc.   Sikap masyarakat yang masih sangat tradisionald.   Pekerjaan masyarakat yang bergantung pada alam5.    Berikut merupakan syarat timbulnya revolusi, kecuali ... .a.   ada keinginan umum untuk mengadakan suatu perubahanb.   adanya seorang pemimpin atau sekelompok orang yang mampu memimpin masyarakat tersebutc.   harus dapat memanfaatkan momentumd.   adanya keinginan individu yang inovatif6.    Pelaksanaan Proklamasi 17 Agustus 1945 termasuk dalam kategori ... .a. evolusi              c. revolusib. rotasi                d. reformasi7.    Perubahan mode pakaian dikategorikan sebagai perubahan yang pengaruhnya kecil dengan ruang lingkup yang tidak luas, karena ... .a.   hanya berhubungan dengan kebutuhan sekunderb.   hanya diikuti oleh golongan tertentuc.   tidak ada hubungannya dengan bidang kebudayaand.   tidak bertentangan dengan keyakinan masyarakat8.    Berikut ini merupakan sebab-sebab intern terjadinya perubahan sosial budaya, kecuali ....a. adanya peperanganb. adanya penemuan-penemuan baruc. terjadinya pemberontakan atau revolusid. adanya dinamika penduduk9.    Bentuk faktor pendorong terjadinya perubahan sosial budaya yang tidak lagi memerhatikan perbedaan status sosial disebut ... .a. sistem sama rata/sosialisb. sistem terbuka masyarakatc. sistem kasta dalam masyarakatd. sistem kekuatan dari rakyat10.  Adanya bencana alam dapat mendorong terjadinya perubahan sosial dalam masyarakat karena ... .a.   bencana alam terkadang memaksa seseorang untuk beradaptasi dengan tempat barub.   adanya bencana alam akan mengurangi jumlah pendudukc.   bencana alam mendorong orang lain untuk bersimpatid.   bencana alam berpotensi menimbulkan konflik dalam masyarakat11.  Komputerisasi di bidang ekonomi perbankan yang berdampak pada pengangguran karyawan dimaksudkan untuk mempertinggi efisiensi kerja. Pada dasarnya modernisasi dengan komputerisasi tersebut bertujuan ... .a. memanfaatkan teknologi majub. memanfaatkan manajemen modernc. meningkatkan produkti itas kerjad. meningkatkan keterampilan karyawan12.  Berikut ini bentuk kemajuan akibat perubahan sosial budaya, kecuali ... .a. memunculkan ide-ide barub. pola pikir masyarakat lebih logis/ilmiahc. tergesernya budaya nasionald. tatanan kehidupan masyarakat modern13.  Proses bertemunya dua kebudayaan atau lebih yang saling bercampur menjadi satu disebut ... .a. asimilasi budaya          c. difusi budayab. akulturasi budaya         d. disintegrasi14.  Berikut ini yang merupakan contoh perubahan yang berbentuk progres adalah ... .a.   listrik masuk desa mengakibatkan kenakalan remajab.   siaran televisi menyebabkan siswa malas belajarc.   banyak wanita berpakaian sangat minimd.   penemuan komputer yang dapat memperlancar sistem informasi15.  Contoh dari kecenderungan masyarakat mempertahankan unsur lama karena diperoleh melalui proses sosialisasi sejak kecil adalah ... .a. makanan pokokb. upacara adat perkawinanc. tata cara beribadahd. solidaritas kelompok16.  Perubahan sosial mengakibatkan masalah sosial yang dimulai dengan ... .a. terciptanya integrasi sosialb. lahirnya golongan menengahc. lahirnya disintegrasi sosiald. berkembangnya kriminalitas17.  Alasan terjadinya perubahan sosial dalam bidang ekonomi yang berkaitan dengan kesejahteraan masyarakat adalah ... .a.   rasa tidak puas dengan kondisi yang sedang berlangsungb.   ingin meningkatkan pendapatan perkapitac.   kurangnya sumber daya manusia dalam bidang ekonomid.   kurangnya tenaga ahli dalam pelaksanaan pembangunan18.  Pada saat pemerintah berencana menaikkan tarif listrik, masyarakat mengadakan protes, ini menandakan bahwa masyarakat ....a. menolak perubahanb. menghendaki penundaanc. setuju perubahand. tidak peduli19.  Perubahan pada lembaga kemasyarakatan akan memengaruhi sistem sosialnya yang meliputi ... .a.   norma, nilai dan seluruh kondisi alam lingkunganb.   kebutuhan hidup, pola perilaku dan asal-usulc.   nilai, sikap dan pola perilaku masyarakatnyad.   keyakinan, suku bangsa dan adat istiadat20.  Pemaksaan suatu ideologi budaya biasanya terjadi karena adanya pengaruh ... .a. bencana alam              c. industrialisasib. urbanisasi                     d. perang​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ml2t-3i-1adalah-merupakan-dimensi-dari-%e2%80%a6-a-daya-listrikb-tegangan-listrikc-energi-listrikd-hambatan-listrik%e2%80%8b">18.
+                                            ML2T-3I-1adalah merupakan dimensi dari ….A. daya listrikB. tegangan listrikC. energi listrikD. hambatan listrik​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#16-ciri-ciri-trafo-step-up-a-fungsinya-untuk-menaikkan-teganganb-lilitannya-mana-yang-lebih-banyak-sekunderc-tegangannya-mana-yang-lebih-sedikit-primerd-kuat-arusnya-mana-yang-lebi">19.
+                                            16. Ciri Ciri trafo Step Up 
+	a. Fungsinya untuk....MENAIKKAN TEGANGAN
+	b. Lilitannya, mana yang lebih banyak, Sekunder
+	c. Tegangannya mana yang lebih sedikit, Primer
+	d. Kuat arusnya, mana yang lebih banyak, Primer
+17.  A step up transformer has a coil turn ratio of 1 :  100. an Alternating supply of 20  V is 
+        connected  across the primary coil. What is the secondary voltage?
+18. Sebuah transformator dihubungkan dengan tegangan 240 V dan mampu menghasilkan sebesar 960 v. Kumparan primer pada trafo tersebut terdiri dari 100 lilitan dan mengalir arus sebesar 2 A, hitunglah :
+a. Jumlah lilitan pada kumparan sekunder
+b. Daya output trafo 
+Dik. V
+Dit . a). Np=...?
+        b) Pp = ...?
+Jawab 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. Perhatikan gambar pembuatan magnet seperti gambar berikut!
+A-B-C berturut-turut menjadi kutub magnet ....
+A. U-S-U	C. S-U-S
+B. S-S-U	D. U-U-S
+8 
+9.   
+10. Perhatikan skema dan dimensi trafo pada gambar berikut!
+Jika hambatan R sebesar 11Ω, kuat arus listrik pada kumparan primer adalah ....
+A.	20 A
+B.	5,5 A
+C.	2,75 A
+D.	1,25 A
+11.
+Ketika batang magnet seperti gambar dimasukkan ke dalam kumparan kemudian dikeluarkan dari kumparan, maka pada lilitan kawat akan timbul . . .ngan induksi atau arus induks
+12. Sebutkan 3 faktor yang dapat memperbesar GGL induksi  adalah :
+1.............., 2...................., 3. .............
+	1. Kecepatan gerakan magnet,  2. Kekuatan magnet,    3. Banyaknya lilitan
+13.  Perhatikan gambar berikut !
+Kutub kutub magnet pada A dan B adalah . . . .A = Utara  B= Selatan
+14. Kutub kutub magnet pada A dan C adalah . . .A= Selatan  C = Selatan 
+15.Kutub Kutub magnet pada A, B dan C adalah  . . 
+tolong ya...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-persamaansatuan-dan-dimensi-dari1-potensial-listrik2-kalor3-cepat-rambat-gelombang4-hambatan-listrik">20.
+                                            
+Tuliskan persamaan,satuan dan dimensi dari:
+1. Potensial listrik
+2. Kalor
+3. Cepat rambat gelombang
+4.hambatan listrik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-dimensi-dari-besaran-1-daya-listrik2-hambatan-listrik3-usahamohon-bantuan-makasi">21.
+                                            Tentukan dimensi dari besaran 
+1. Daya listrik
+2. Hambatan listrik
+3. Usaha
+Mohon bantuan, makasi...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-dimensi-dari-hambatan-listrik-cara-pengerjaan-toloongg-butuh-bangett">22.
+                                            tuliskan dimensi dari hambatan listrik (cara pengerjaan) toloongg butuh bangett....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tulislah-besaran-penyusunsatuandan-dimensi-satuan-berikut-1-massa-jenis2-volume3-energi-kinetik4-energi-potensial5-tekanan6-torsi7-tegangan-permukaan8-momen-inersia9-kalor-jenis10-konsta">23.
+                                             Tulislah besaran penyusun,satuan,dan dimensi satuan berikut :
+1.massa jenis
+2.volume
+3.energi kinetik
+4.energi potensial
+5.tekanan
+6.Torsi
+7.Tegangan permukaan
+8.Momen inersia
+9.Kalor jenis
+10.Konstanta pegas
+11.Entropi
+12.Muatan listrik
+13.Kapasitas kapasilor
+14.Potensial listrik
+15.Hambatan listrik
+bantu saya ya...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tulislah-besaran-penyusunsatuandan-dimensi-satuan-berikut-1-massa-jenis2-volume3-energi-kinetik4-energi-potensial5-tekanan6-torsi7-tegangan-permukaan8-momen-inersia9-kalor-jenis10-konstanta-pegas11">24.
+                                            tulislah besaran penyusun,satuan,dan dimensi satuan berikut :1.massa jenis2.volume3.energi kinetik4.energi potensial5.tekanan6.Torsi7.Tegangan permukaan8.Momen inersia9.Kalor jenis10.Konstanta pegas11.Entropi12.Muatan listrik13.Kapasitas kapasilor14.Potensial listrik15.Hambatan listrikTolong di jawab segera dengan lengkap ya :) </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-tuliskan-dimensi-besaran-dibawah-ini-a-massa-jenis-b-usaha-c-daya-d-hambatan-listrik2-periksalah-apakah-2-besaran-berikut-setara-a-usaha-dan-energi-kinetik-b-tekanan-dan">25.
+                                            1. tuliskan dimensi besaran dibawah ini
+   a. massa jenis
+   b. usaha
+   c. daya
+   d. hambatan listrik
+2. periksalah apakah 2 besaran berikut setara
+    a. usaha dan energi kinetik
+    b. tekanan dan massa jenis</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebuah-balok-alumunium-memiliki-dimensi-seperti-ditunjukkan-pada-gambar-arus-listrik-dilewatkan-melalui-balok-tegak-lurus-terhadap-permukaan-p-hambatan-jenis-alumunium-28-x-10-8-m-hitunglah-hamba">26.
+                                            Sebuah balok alumunium memiliki dimensi seperti ditunjukkan pada gambar. Arus listrik dilewatkan melalui balok tegak lurus terhadap permukaan P. Hambatan jenis alumunium 2,8 x 10-8  m. Hitunglah hambatan balok alumunium tersebut ! 3 cm 2 cm 5 20 cmtolong banget kak dibantu, terimakasih​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-dimensi-dari-hambatan-tahan-listrik">27.
+                                            Tentukan dimensi dari hambatan / tahan listrik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tulislah-dimensi-dari-besaran-turunan-berikut-inia-massa-jenisb-tekananc-kapasitas-panas-d-frekuensie-muatan-listrikf-potensial-listrikg-hambatan-listrikh-kapasitas-listrik">28.
+                                            Tulislah dimensi dari besaran turunan berikut ini!
+a. Massa jenis
+b. Tekanan
+c. kapasitas panas 
+d. frekuensi
+e. muatan listrik
+f. potensial listrik
+g. hambatan listrik
+h. kapasitas listrik </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#besaran-satuan-dimensi1-muatan-listrik-as-2-potensial-listrik-kg-m%c2%b2s%c2%b3a-3">29.
+                                               besaran                        satuan               Dimensi
+1. muatan listrik                   AS                      ....
+2. potensial listrik          kg M²S³/A               ....
+3. hambatan listrik         Kg M²S³/A²             ....
+4. kapasitas listrik          S⁴A²/kg M²             ....
+tolong kasih tau dimensinya yah plisssssssssss kakak</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-tuliskan-dimensi-besaran-besaran-dibawah-ini-a-percepatanb-massa-jenis-c-usahad-dayae-hambatan-listrik2-periksalah-apakah-besaran-tekanan-secara-dengan-besaran-massa-jenis">30.
+                                            1. tuliskan dimensi besaran besaran dibawah ini !a. percepatanb. massa jenis c. usahad. dayae. hambatan listrik2. periksalah apakah besaran tekanan secara dengan besaran massa jenis?</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="tentukan-dimensi-dari-hambatan-listrik">
+                            1. tentukan dimensi dari hambatan listrik?</h2><br />
+                        Dimensi hambatan listrik, <br /><br />Pada listrik, berlaku energi listrik, W = I² R t atau R = W / (I² t) <br /><br />Satuan R = satuan W / (satuan I² x satuan t) <br /><br />Satuan R = joule / (ampere² x sekon) = kg m² s^-2 / (ampere² x sekon) <br /><br />Satuan R = kg m² s^-3 A^-2 <br /><br />Dimensi R = [M] [L]² [T]^-3 [I]^-2 <br /><br />SEMOGA MEMBANTU ^_^<br />
+                                            <h2 class="ez-toc-section" id="dimensi-dari-besaran-hambatan-listrik-adalah">
+                            2. dimensi dari besaran hambatan listrik adalah</h2><br />
+                        di rumuskan <br /><br />W = I².R. t <br />R = W/ I².t<br />R = kgm²8 min² garis bawa A².8 uraikan satuan satu persatu<br />R = kgm² 8min²+min¹A min²<br />R = kgm 8min³ A min²<br />R = ( ML²Tmin³ Imin² )<br />maka dimensi dari besaran hambatan listrik (R) = ( ML²Tmin³Imin²)  semoga benar<br />
+                                            <h2 class="ez-toc-section" id="dimensi-dari-besaran-hambatan-listrik">
+                            3. dimensi dari besaran hambatan listrik</h2><br />
+                        Dirumuskan:<br />W=I².R.t<br />R=W/I².t<br />R= [tex] \frac{kg   m^{2} s^{-2} }{A^{2}.s } [/tex]→uraikan satuan satu per satu.<br />R=[tex] kg  m^{2}  s^{-2+-1}  A^{-2}  [/tex]<br />R=[tex]kg  m^{2}  s^{-3}  A^{-2} [/tex]<br />R=[tex][M  L^{2}  T^{-3}  I^{-2} ][/tex]<br /><br />Maka,dimensi dari hambatan listrik(R)= [[tex][M L^{2}  T^{-3} I^{-2} ][/tex]<br />
+                                            <h2 class="ez-toc-section" id="tuliskan-lambang-dimensi-untuka-tekananb-dayac-massa-jenisd-momentume-impulsf-hambatan-lstrikg-beda-potensial-listrikh-muatan-listriki-kapasitas-suatu-kapasitorj-medan-l">
+                            4. Tuliskan lambang dimensi untuk:
+a.) tekanan
+b.) daya
+c.) massa jenis
+d.) momentum
+e.) impuls
+f.) hambatan lstrik
+g.) beda potensial listrik
+h.) muatan listrik
+i.) kapasitas suatu kapasitor
+j.) medan listrik</h2><br />
+                        a. tekanan [ M L⁻¹ T⁻² ]<br />b. daya [ M L ² T⁻³ ]<br />c. massa jenis [ M L⁻³ ]<br />d. momentum [ M L T⁻¹]<br />e. impuls [ M L T⁻¹ ]<br />
+                                            <h2 class="ez-toc-section" id="dimensi-dari-kuat-arus-listrikhambatan-dan-potensial">
+                            5. dimensi dari kuat arus listrikhambatan dan potensial</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>apa yang dibantu?mana soal fisika nya?</p><br />
+                                            <h2 class="ez-toc-section" id="1-tuliskan-dimensi-besaran-daria-percepatanb-massa-jenisc-usahad-dayae-hambatan-listrik">
+                            6. 1. Tuliskan dimensi besaran dari:
+a. Percepatan
+b. Massa jenis
+c. Usaha
+d. Daya
+e. Hambatan listrik</h2><br />
+                        a.[L/T²]<br />b. [M/L³]<br />d. [ML²/T³]<br />e. [ML²/QT²]<br />
+                                            <h2 class="ez-toc-section" id="1-dimensi-tekanan2-besaran-turunan-contohnya3-korvensi-satuan-kecepatan4-menghitung-percepatan5-syarat-benda-melayang6-menghitung-kecepatan-di-penampang-27-korvensi-suhu-farethit-celciu">
+                            7. 1.	Dimensi Tekanan
+2.	Besaran turunan Contohnya
+3.	Korvensi satuan kecepatan
+4.	Menghitung percepatan
+5.	Syarat benda melayang
+6.	Menghitung kecepatan di penampang 2
+7.	Korvensi suhu : Farethit-Celcius
+8.	Menghitung suhu campuran
+9.	Hambatan pengganti dari pararel campuran
+10.	Menghitung arus
+11.	Menghitung biaya beban(Soalx 2 yha beb)
+12.	Menghitung taraf intensitas 10 sumber bunyi
+13.	Menghitung tegangan sekunder travo
+14.	Ciri GLB
+15.	Kecepatan sudut roda(dari rpm)
+16.	Menghitung kecepatan kontrol
+17.	Menghitung daya
+18.	Menghitung sudut dari gaya
+19.	Meghitung muai luas
+20.	Perpindahan panas:konveksi,konduksi,radiasi
+21.	Efiseensi mesin carlot
+22.	Menghitung tekanan hidrostatik(PH)
+23.	Contoh Gerak Harmonik
+24.	Menghitung cepat Rambat Gelombang (dari gambar Soal)
+25.	Menghitung Muatan pada kapasitor (2 Buah)
+26.	Menentukan muatan benda
+27.	Pengertian kuat arus
+28.	Menghitung daya lampu
+29.	Menghitung induktansi
+30.	Pengertian tentang tegangan maksimum
+31.	Menghitung periode getaran
+32.	Menghitug letak bayangan lensa  di fergent
+33.	Menghitung usaha gas idea
+34.	Ciri2 travo step up
+35.	Menentukan besar sudut bias
+36.	Menghitung kuat arus
+37.	Menghitung tegangan kapasitor
+38.	Menghitung tegangan kapasitor
+39.	Fungsi gelombang merambat
+40.	Taraf itensitas
+41.	Menghitung perbandingan dua muatan
+42.	Menentukan muatan penggaris
+43.	Menentukan muatan benda
+44.	Menghitung energi listrik
+45.	Menghitung daya
+46.	Satuan muatan listrik
+47.	Menghitung frekuensi
+48.	Menentukan dialetrik benda paling besar</h2><br />
+                        31. T = t/n -&gt; T=periode , t=waktu, n=jumlah getaran<br /><br />47. f = n/t <br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-dimensi-dimensi-dari-besaran-besaran-berikutusahatekanandayaenergihambatan-listrik">
+                            8. Tuliskan Dimensi dimensi dari besaran besaran berikut:
+usaha
+tekanan
+daya
+energi
+hambatan listrik</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawaban nya adalah energi</p><br />
+                                            <h2 class="ez-toc-section" id="satuan-dan-dimensi-dari-usaha-hambatan-listrik-kapasitansi-medan-magnetik-fluks-magnetik">
+                            9. Satuan dan dimensi dari usaha, hambatan listrik, kapasitansi, medan magnetik, fluks magnetik</h2><br />
+                        <p>Usaha   joule  M.L².T⁻²</p><p>Hambatan  ohm M.L².T⁻³.I⁻²</p><p>Kapasitansi  farad  M⁻¹.L⁻².T⁴.I²</p><p>Medan magnetik  tesla  M.T⁻².I⁻¹</p><p>Flux magnetik  weber  M.L².T⁻².I⁻¹</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-dimensi-dari-besaran-potensial-listrikhambatan-listrik">
+                            10. Tentukan dimensi dari besaran potensial listrik,hambatan listrik?</h2><br />
+                        Besaran dan Satuan<br /><br />1. Dimensi potensial Listrik<br />V = J / C<br />V = F . s  /  I . t<br />V = kg m s⁻² . m  /  A . s<br />V = [M][L]²[T]⁻³[I]⁻¹<br /><br /><br />2. Hambatan Listrik<br />R = V / A<br />R = kg m s⁻² . m  . A⁻¹ . s⁻¹   / A<br />R = [M][L]²[T]⁻³[I]⁻²<br />
+                                            <h2 class="ez-toc-section" id="tuliskan-dimensi-besaran-di-bawah-ini-1-percepatan-2-massa-jenis-3-usaha-4-daya-5-hambatan-listrik">
+                            11. Tuliskan dimensi besaran di bawah ini. 1. percepatan 2.massa jenis 3.usaha 4.daya 5.hambatan listrik</h2><br />
+                        1. [L] [T]^-2<br />2. [M] [L]^-3<br />3. [M] [L]^2 [T]^-2<br />4. [M] [L]^2 [T]^-3<br />5. [M] [L]^2 [I]^-1 [T]^-2<br />
+                                            <h2 class="ez-toc-section" id="dimensi-dari-besaran-hambatan-listrik-adalah">
+                            12. dimensi dari besaran hambatan listrik adalah</h2><br />
+                        Dirumuskan:<br />W=I².R.t<br />R=W/I².t<br />Maka,dimensi dari hambatan listrik(R)= ML2T-3I-2<br />SEMOGA MEMBANTU<br /> SEMANGAT TERUS BELAJAR NYA KAWAN dimensi dari besaran hambatan listrik adalah R<br /><br />
+                                            <h2 class="ez-toc-section" id="rumus-dan-dimensinya-dari-1-konstanta-pegas2-entropi3-muatan-listrik4-kapasitas-kapasitor5-potensial-listrik6-hambatan-listrik">
+                            13. Rumus dan dimensinya dari :1. Konstanta pegas2. Entropi3. Muatan listrik4. Kapasitas kapasitor5. Potensial Listrik6. Hambatan listrik</h2><br />
+                        Konstanta pegas = N/m = [M][T]^-2<br />Entropi = J/K = [M][L]^2[T]^-2[Ф]^-1<br />Muatan listrik = Coloumb = [ I ][T]<br />Kapasitas kalor = J/K = [M][L]^2[T]^-2[Ф]^-1<br />Potensial Listrik = Coloumb = [ I ][T]<br />Hambatan listrik = Ohm = [M][L]^2[T]^-3[ I ]^-2<br /><br />Semoga membantu dan maaf kalo salah...<br /><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-dan-jelaskan-dimensi-dari-hambatan-listrik-dan-potensial-listrik">
+                            14. sebutkan dan jelaskan dimensi dari hambatan listrik dan potensial listrik</h2><br />
+                        hambatan adalah hambatan listrik tg menghambat dan menghubung dengan hambatan potensial Karena itula<br />
+                                            <h2 class="ez-toc-section" id="besaran-hambatan-listrik-apa-besaran-penyusunnya-satuan-dan-dimensi%e2%80%8b">
+                            15. besaran hambatan listrik apa besaran penyusunnya, satuan dan dimensi!​</h2><br />
+                        <p>      ~&gt; W = P.dt</p><p>               = V.I.dt</p><p>               = I².R.dt</p><p>            R = V/I ~ ρk.Lk/Ak</p><p>               = W/I².dt </p><p>               = kg.m².s-².A-².s</p><p>               = kg.m².s-¹.A-² ~ M.L².T-¹.I-² ✓✓</p><p>     ~&gt; Besaran penyusun R (hambatan) :</p><p>              - Tegangan listrik (V)</p><p>              - Kuat arus listrik (I)</p><p>              - waktu arus merambat pda medium (dt)</p><p>              - Hambatan jenis kawat arus (ρk)</p><p>              - Panjang kawat arus (Lk)</p><p>              - Luas kawat arus (Ak)</p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-besaran-penyusun-sekon-dan-dimensi-dibawah-ini1-luas2-percepatan3-massa-jenis4-daya5-energi-potensial6-energi-kinetik7-usaha8-9-tekanan10-impuls11-momentum12-potensial-l">
+                            16. Tuliskan Besaran Penyusun sekon , dan dimensi dibawah ini
+1. Luas
+2. Percepatan
+3. massa jenis
+4.Daya
+5.Energi Potensial
+6. Energi kinetik
+7. Usaha
+8.
+9. Tekanan
+10. Impuls
+11. Momentum
+12.Potensial Listrik
+13.Hambatan Listrik</h2><br />
+                        luas = L²<br />percepatan = LT⁻²<br />massa jenis = ML⁻³<br /> Daya = ML²T⁻³<br /> Energi Potensial = ML²T⁻²<br /> Energi kinetik = ML²T⁻²<br /> Usaha = ML²T⁻²<br /> Tekanan = ML⁻¹T⁻²<br /> Impuls = MLT⁻¹<br /> Momentum = MLT⁻¹<br /> Potensial Listrik = ML²T⁻³A⁻¹<br /> Hambatan Listrik
+        = ML²T⁻³A⁻²<br /><br /><br />smoga membantu<br /><br /><br /><br /><br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="1-perubahan-budaya-masyarakat-yang-tergolong-dlam-budaya-non-materiil-dianggap-lebih-sukar-untuk-berubah-contoh-budaya-yang-dimaksud-adalah%e2%80%a6-a-%c2%a0%c2%a0%c2%a0%c2%a0mode-pakaianb-%c2%a0">
+                            17. 1.  Perubahan budaya masyarakat yang tergolong dlam budaya non materiil dianggap lebih sukar untuk berubah. Contoh budaya yang dimaksud adalah….a.    Mode pakaianb.    Bentuk rumah adatc.    Tradisi dalam masyarakatd.    Pola perkampungan2.    Perubahan sosial budaya adalah suatu perubahan dalam berbagai dimensi mkehidupan manusia. Yang tidak termasuk dalam perubahan itu adalah....a. hubungan sosialb. pola perilakuc. sruktur sosiald. departemen sosial3.    Perubahan sosial terjadi karena disebabkan oleh beberapa faktor. Yang bukan merupakan penyebab terjadinya perubahan itu adalah…a. Kontak dengan kebudayaan lainb. Sistem pendidikan yang majuc. Menghargai hasil karya orang laind. Kemampuan ekonomi masyarakat4.    Yang bukan merupakan faktor penghambat terjadinya perubahan sosial adalah …a.   Kurangnya hubungan dengan masyarakat lainb.   Perkembangan ilmu pengetahuan dan teknologi yang lambanc.   Sikap masyarakat yang masih sangat tradisionald.   Pekerjaan masyarakat yang bergantung pada alam5.    Berikut merupakan syarat timbulnya revolusi, kecuali ... .a.   ada keinginan umum untuk mengadakan suatu perubahanb.   adanya seorang pemimpin atau sekelompok orang yang mampu memimpin masyarakat tersebutc.   harus dapat memanfaatkan momentumd.   adanya keinginan individu yang inovatif6.    Pelaksanaan Proklamasi 17 Agustus 1945 termasuk dalam kategori ... .a. evolusi              c. revolusib. rotasi                d. reformasi7.    Perubahan mode pakaian dikategorikan sebagai perubahan yang pengaruhnya kecil dengan ruang lingkup yang tidak luas, karena ... .a.   hanya berhubungan dengan kebutuhan sekunderb.   hanya diikuti oleh golongan tertentuc.   tidak ada hubungannya dengan bidang kebudayaand.   tidak bertentangan dengan keyakinan masyarakat8.    Berikut ini merupakan sebab-sebab intern terjadinya perubahan sosial budaya, kecuali ....a. adanya peperanganb. adanya penemuan-penemuan baruc. terjadinya pemberontakan atau revolusid. adanya dinamika penduduk9.    Bentuk faktor pendorong terjadinya perubahan sosial budaya yang tidak lagi memerhatikan perbedaan status sosial disebut ... .a. sistem sama rata/sosialisb. sistem terbuka masyarakatc. sistem kasta dalam masyarakatd. sistem kekuatan dari rakyat10.  Adanya bencana alam dapat mendorong terjadinya perubahan sosial dalam masyarakat karena ... .a.   bencana alam terkadang memaksa seseorang untuk beradaptasi dengan tempat barub.   adanya bencana alam akan mengurangi jumlah pendudukc.   bencana alam mendorong orang lain untuk bersimpatid.   bencana alam berpotensi menimbulkan konflik dalam masyarakat11.  Komputerisasi di bidang ekonomi perbankan yang berdampak pada pengangguran karyawan dimaksudkan untuk mempertinggi efisiensi kerja. Pada dasarnya modernisasi dengan komputerisasi tersebut bertujuan ... .a. memanfaatkan teknologi majub. memanfaatkan manajemen modernc. meningkatkan produkti itas kerjad. meningkatkan keterampilan karyawan12.  Berikut ini bentuk kemajuan akibat perubahan sosial budaya, kecuali ... .a. memunculkan ide-ide barub. pola pikir masyarakat lebih logis/ilmiahc. tergesernya budaya nasionald. tatanan kehidupan masyarakat modern13.  Proses bertemunya dua kebudayaan atau lebih yang saling bercampur menjadi satu disebut ... .a. asimilasi budaya          c. difusi budayab. akulturasi budaya         d. disintegrasi14.  Berikut ini yang merupakan contoh perubahan yang berbentuk progres adalah ... .a.   listrik masuk desa mengakibatkan kenakalan remajab.   siaran televisi menyebabkan siswa malas belajarc.   banyak wanita berpakaian sangat minimd.   penemuan komputer yang dapat memperlancar sistem informasi15.  Contoh dari kecenderungan masyarakat mempertahankan unsur lama karena diperoleh melalui proses sosialisasi sejak kecil adalah ... .a. makanan pokokb. upacara adat perkawinanc. tata cara beribadahd. solidaritas kelompok16.  Perubahan sosial mengakibatkan masalah sosial yang dimulai dengan ... .a. terciptanya integrasi sosialb. lahirnya golongan menengahc. lahirnya disintegrasi sosiald. berkembangnya kriminalitas17.  Alasan terjadinya perubahan sosial dalam bidang ekonomi yang berkaitan dengan kesejahteraan masyarakat adalah ... .a.   rasa tidak puas dengan kondisi yang sedang berlangsungb.   ingin meningkatkan pendapatan perkapitac.   kurangnya sumber daya manusia dalam bidang ekonomid.   kurangnya tenaga ahli dalam pelaksanaan pembangunan18.  Pada saat pemerintah berencana menaikkan tarif listrik, masyarakat mengadakan protes, ini menandakan bahwa masyarakat ....a. menolak perubahanb. menghendaki penundaanc. setuju perubahand. tidak peduli19.  Perubahan pada lembaga kemasyarakatan akan memengaruhi sistem sosialnya yang meliputi ... .a.   norma, nilai dan seluruh kondisi alam lingkunganb.   kebutuhan hidup, pola perilaku dan asal-usulc.   nilai, sikap dan pola perilaku masyarakatnyad.   keyakinan, suku bangsa dan adat istiadat20.  Pemaksaan suatu ideologi budaya biasanya terjadi karena adanya pengaruh ... .a. bencana alam              c. industrialisasib. urbanisasi                     d. perang​</h2><br />
+                        jawaban:1.A2.B<p></p><p><strong>Penjelasan:</strong></p><p>maaf hanya ini yang saya tahu</p><br />
+                                            <h2 class="ez-toc-section" id="ml2t-3i-1adalah-merupakan-dimensi-dari-%e2%80%a6-a-daya-listrikb-tegangan-listrikc-energi-listrikd-hambatan-listrik%e2%80%8b">
+                            18. ML2T-3I-1adalah merupakan dimensi dari ….A. daya listrikB. tegangan listrikC. energi listrikD. hambatan listrik​</h2><br />
+                        <p>Answer by : Sharon.Grcll@</p><p>Pelajaran : Fisika</p><p><strong></strong></p><p><strong>Jawaban:</strong></p><p>A. Data listrik</p><p><strong>Penjelasan:</strong></p><p>Daya = [ML2T-3], rumus usaha / waktu </p><p>Momentum sudut = [ML2T-1], rumus momen x momentum </p><p></p><p>Semoga terbantu...</p><p>Jangan lupa love dan 5 bintang yaa...</p><br />
+                                            <h2 class="ez-toc-section" id="16-ciri-ciri-trafo-step-up-a-fungsinya-untuk-menaikkan-teganganb-lilitannya-mana-yang-lebih-banyak-sekunderc-tegangannya-mana-yang-lebih-sedikit-primerd-kuat-arusnya-mana-yang-lebi">
+                            19. 16. Ciri Ciri trafo Step Up 
+	a. Fungsinya untuk....MENAIKKAN TEGANGAN
+	b. Lilitannya, mana yang lebih banyak, Sekunder
+	c. Tegangannya mana yang lebih sedikit, Primer
+	d. Kuat arusnya, mana yang lebih banyak, Primer
+17.  A step up transformer has a coil turn ratio of 1 :  100. an Alternating supply of 20  V is 
+        connected  across the primary coil. What is the secondary voltage?
+18. Sebuah transformator dihubungkan dengan tegangan 240 V dan mampu menghasilkan sebesar 960 v. Kumparan primer pada trafo tersebut terdiri dari 100 lilitan dan mengalir arus sebesar 2 A, hitunglah :
+a. Jumlah lilitan pada kumparan sekunder
+b. Daya output trafo 
+Dik. V
+Dit . a). Np=...?
+        b) Pp = ...?
+Jawab 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. Perhatikan gambar pembuatan magnet seperti gambar berikut!
+A-B-C berturut-turut menjadi kutub magnet ....
+A. U-S-U	C. S-U-S
+B. S-S-U	D. U-U-S
+8 
+9.   
+10. Perhatikan skema dan dimensi trafo pada gambar berikut!
+Jika hambatan R sebesar 11Ω, kuat arus listrik pada kumparan primer adalah ....
+A.	20 A
+B.	5,5 A
+C.	2,75 A
+D.	1,25 A
+11.
+Ketika batang magnet seperti gambar dimasukkan ke dalam kumparan kemudian dikeluarkan dari kumparan, maka pada lilitan kawat akan timbul . . .ngan induksi atau arus induks
+12. Sebutkan 3 faktor yang dapat memperbesar GGL induksi  adalah :
+1.............., 2...................., 3. .............
+	1. Kecepatan gerakan magnet,  2. Kekuatan magnet,    3. Banyaknya lilitan
+13.  Perhatikan gambar berikut !
+Kutub kutub magnet pada A dan B adalah . . . .A = Utara  B= Selatan
+14. Kutub kutub magnet pada A dan C adalah . . .A= Selatan  C = Selatan 
+15.Kutub Kutub magnet pada A, B dan C adalah  . . 
+tolong ya...</h2><br />
+                        maaf aku kurang ngerti soalnya<br />
+                                            <h2 class="ez-toc-section" id="tuliskan-persamaansatuan-dan-dimensi-dari1-potensial-listrik2-kalor3-cepat-rambat-gelombang4-hambatan-listrik">
+                            20. 
+Tuliskan persamaan,satuan dan dimensi dari:
+1. Potensial listrik
+2. Kalor
+3. Cepat rambat gelombang
+4.hambatan listrik</h2><br />
+                        1.Massa Jenis<br />2.Volume<br />3.Kecepatan<br />4.Tekanan<br />5.Energi<br />6.Gaya<br />7.Usaha<br />8.Daya<br />9.Percepatan<br />10.Luas<br />1. massa jenis: ρ=m/v.<br /><br />Keterangan<br /><br />* ρ = massa jenis (kg/m3)<br />* m = massa benda (kg, g)<br />* v = volume (m3, cm3)<br />dimensi:ML-3<br />2. volume:V=s.s.s<br />satuan=liter<br />dimensi=L3<br />3.kecepatan=v=s/t<br />satuan:m/s<br />dimensi:LT-1<br />4. tekanan:P:F/A<br />satuan:Pa(N/m3)<br />dimensi:ML-2T-2<br />5. energi:-EK=1/2mv2<br />satuan=joule<br />dimensi:ML2T-2<br />-EP=mgh<br />satuan:Joule<br />dimensi:ML2T-2<br />6.gaya:F=ma<br />satuan:N<br />dimensi:MLT-2<br />7.usaha:W=Fs<br />satuan:Joule<br />dimensi:ML2T-2<br />8.daya:P=W/t<br />satuan:watt<br />dimensi:ML2T-3<br />9.percepatan:a:v/t<br />satuan:m/s2<br />dimensi:LT-2<br />10.luas:L=s.s<br />satuan;m2<br />dimensi:L2<br />
+                                            <h2 class="ez-toc-section" id="tentukan-dimensi-dari-besaran-1-daya-listrik2-hambatan-listrik3-usahamohon-bantuan-makasi">
+                            21. Tentukan dimensi dari besaran 
+1. Daya listrik
+2. Hambatan listrik
+3. Usaha
+Mohon bantuan, makasi...</h2><br />
+                        1. Daya listrik..maaf kalau salahbismillah mudah mudahan bener jawabanyya 1. daya listrik<br />
+                                            <h2 class="ez-toc-section" id="tuliskan-dimensi-dari-hambatan-listrik-cara-pengerjaan-toloongg-butuh-bangett">
+                            22. tuliskan dimensi dari hambatan listrik (cara pengerjaan) toloongg butuh bangett....</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>V = I x R</p><p>R = V / I ( V ÷ I )</p><p>R = Hambatan Listrik </p><p>V = Tegangan Listrik</p><p>I   = Arus yang mengalir</p><p>    ~&gt; I = V/R</p><p>        R = V/I</p><p>        P = V.I</p><p>        V = P/I ✓</p><p>    ~&gt; R = P/I²</p><p>            = W/I².dt</p><p>            = mb.g.∆h/I².dt</p><p>            = kg.m².s-³.A-²</p><p><strong>            </strong><strong>= M.L².T-³.I-² ✓✓</strong></p><br />
+                                            <h2 class="ez-toc-section" id="tulislah-besaran-penyusunsatuandan-dimensi-satuan-berikut-1-massa-jenis2-volume3-energi-kinetik4-energi-potensial5-tekanan6-torsi7-tegangan-permukaan8-momen-inersia9-kalor-jenis10-konsta">
+                            23.  Tulislah besaran penyusun,satuan,dan dimensi satuan berikut :
+1.massa jenis
+2.volume
+3.energi kinetik
+4.energi potensial
+5.tekanan
+6.Torsi
+7.Tegangan permukaan
+8.Momen inersia
+9.Kalor jenis
+10.Konstanta pegas
+11.Entropi
+12.Muatan listrik
+13.Kapasitas kapasilor
+14.Potensial listrik
+15.Hambatan listrik
+bantu saya ya...</h2><br />
+                        Massa jenis<br />Satuan : Kg/m³ <br />Besaran penyusun : 1 B.P.mass, 3 B.P panjang.<br />Dimensi : [ML⁻³]<br /><br />Volume<br />Satuan: m³<br />Besaran penyusun : 3 B.P. panjang<br />Dimensi : ex : volume kubus : s³ = [L³]<br /><br />Energi potensial<br />Satuan: m.g.h = kg.m²/s² <br />Besaran penyusun :  kg.m²/s² = 1 B.P. massa, 2 B.P. panjang, 2 B.P waktu<br />Dimensi :  [ML²T⁻²]<br /><br />Taunya cuma itu..<br /><br />
+                                            <h2 class="ez-toc-section" id="tulislah-besaran-penyusunsatuandan-dimensi-satuan-berikut-1-massa-jenis2-volume3-energi-kinetik4-energi-potensial5-tekanan6-torsi7-tegangan-permukaan8-momen-inersia9-kalor-jenis10-konstanta-pegas11">
+                            24. tulislah besaran penyusun,satuan,dan dimensi satuan berikut :1.massa jenis2.volume3.energi kinetik4.energi potensial5.tekanan6.Torsi7.Tegangan permukaan8.Momen inersia9.Kalor jenis10.Konstanta pegas11.Entropi12.Muatan listrik13.Kapasitas kapasilor14.Potensial listrik15.Hambatan listrikTolong di jawab segera dengan lengkap ya :) </h2><br />
+                        <p><strong>Jawaban</strong>:
+</p><p>
+</p><p>Besaran penyusun,satuan,dan dimensi satuan berikut :
+</p><p>
+</p><p><strong>1. Massa Jenis
+</strong></p><p>Penyusun: massa, panjang
+</p><p>Satuan: kg/m³
+</p><p>Dimensi: [M][L]⁻³
+</p><p>Penjelasan: Massa jenis adalah banyaknya massa suatu benda dalam satuan kilogram pada suatu volume tertentu (dalam satuan meter kubik, m3). Sehingga satuan dan dimensi massa jenis adalah satuan dan dimensi massa dibagi dengan satuan dan dimensi volume.  
+</p><p>
+</p><p>2. <strong>Volume</strong>:
+</p><p>Penyusun: panjang
+</p><p>Satuan: m³
+</p><p>Dimensi: [L]³
+</p><p>Penjelasan: Volume suatu benda adalah perpangkatan tiga (kubik) dari dimensi panjang suatu benda.
+</p><p>
+</p><p>3. <strong>Energi Kinetik</strong>:
+</p><p>Penyusun: massa, panjang, waktu
+</p><p>Satuan: joule (kg m²/s ²)
+</p><p>Dimensi: M][L]²[T]⁻²
+</p><p>Penjelasan: Energi adalah kemampuan melakukan kerja. Kerja membuat benda yang memiliki massa tertentu bergerak pada jark tertentu, dalam percepatan tertentu. Dalam bentuk apapun, semua energi memiliki penyusun, satuan, dimensi yang sama.
+</p><p>
+</p><p>4. <strong>Energi Potensial</strong>
+</p><p>Penyusun: massa, panjang, waktu
+</p><p>Satuan: joule (kg m²/s ²)
+</p><p>Dimensi: [M][L]²[T]⁻²
+</p><p>Penjelasan: Dalam bentuk apapun, semua energi memiliki penyusun, satuan, dimensi yang sama.
+</p><p>
+</p><p>5. <strong>Tekanan
+</strong></p><p>Penyusun: massa, panjang, waktu
+</p><p>Satuan: pascal (kg m¹/s²)
+</p><p>Dimensi: [M][L]⁻¹[T]⁻²
+</p><p>Penjelasan: Tekanan adalah gaya yang diterapkan pada suatu permukaan dengan luas tertentu 
+</p><p>
+</p><p>6. <strong>Torsi
+</strong></p><p>Penyusun: massa, panjang, waktu
+</p><p>Satuan: Newton meter (kg m²/s²)
+</p><p>Dimensi: [M][L]²[T]⁻²
+</p><p>Penjelasan: Torsi, disebut juga momen, adalah suatu gaya yang bekerja pada suatu tuas atau pengungkit dengan panjang tertentu)
+</p><p>
+</p><p>7. <strong>Tegangan Permukaan</strong>
+</p><p>Penyusun: massa, waktu
+</p><p>Satuan: dyne/cm 
+</p><p>Dimensi: [M][T]⁻²
+</p><p>Penjelasan: Tegangan permukaan adalah gaya atau tarikan ke bawah yang menyebabkan permukaan cairan berkontraksi dan benda dalam keadaan tegang. Tegangan permukaan memiliki penyusun dan dimensi berbeda dengan tegangan biasa.  Hal ini karena tegangan permukaan adalah gaya yang bekerja dibagi dengan panjang benda, bukan luas permukaan benda.
+</p><p>
+</p><p>8. <strong>Momen Inersia</strong>
+</p><p>Penyusun: massa, panjang
+</p><p>Satuan: kg m²
+</p><p>Dimensi: [M][L]²
+</p><p>Penjelasan: Momen inersia adalah ukuran kelembaman suatu benda untuk berotasi terhadap porosnya. Besar momen inersia tergantung dari besar massa,kecepatan rotasi dan bentuk benda.
+</p><p>
+</p><p>9. <strong>Kalor Jenis</strong>
+</p><p>Penyusun: panjang, waktu, suhu
+</p><p>Satuan: Joule/kg K, atau Joule/kg ⁰C, 
+</p><p>Dimensi: [L]²[T]⁻²[Θ]⁻¹
+</p><p>Penjelasan: Kalor jenis adalah besar dari energi panas yang diperlukan untuk menaikkan suhu suatu benda bermassa 1 kg sebesar 1 derajat Celsius.
+</p><p>
+</p><p>10. <strong>Konstanta Pegas</strong>
+</p><p>Penyusun: massa, panjang, waktu
+</p><p>Satuan: newton/m
+</p><p>Dimensi: [M][T]⁻²
+</p><p>Penjelasan: Konstanta pegas adalah rasio perpanjangan atau pemampatan pegas apabila pegas tersebut diberikan suatu gaya.
+</p><p>
+</p><p>11. <strong>Entropi
+</strong></p><p>Penyusun: massa, panjang, waktu, suhu
+</p><p>Satuan: Joule/Kelvin
+</p><p>Dimensi: [M][L]²[T]⁻²[Θ]⁻¹
+</p><p>Penjelasan: Entropi adalah energi dalam sistem per satuan temperatur. Entropi dapat disebut juga sebagai derajat ketidakteraturan dalam benda.
+</p><p>
+</p><p>12. <strong>Muatan Listrik</strong>
+</p><p>Penyusun: kuat arus listrik, waktu -
+</p><p>Satuan: Couloumb
+</p><p>Dimensi: [A][T]
+</p><p>Penjelasan: Muatan listrik adalah jumlah muatan dalam satuan Ampere yang mengalir melalui seuatu penghantar dalam suatu satuan waktu.
+</p><p>
+</p><p>13. <strong>Kapasitas Kapasilor</strong>
+</p><p>Penyusun: kuat arus listrik, waktu, massa, panjang 
+</p><p>Satuan: farad (F), atau Couloumb per volt
+</p><p>Dimensi: [A]²[T]⁴[M][L]⁻²
+</p><p>Penjelasan: kapasitas kapasitor adalah besar dari perbandingan tetap antara muatan kapasitor dalam satuan Coulomb, yang dapat disimpa dalam kapasitor, dengan beda potensial antara kedua koduktornya
+</p><p>
+</p><p>14. <strong>Potensial Listrik</strong>
+</p><p>Penyusun: kuat arus listrik, waktu  
+</p><p>Satuan: Couloumb
+</p><p>Dimensi: [A][T]
+</p><p>Penjelasan: Potensial listrik didefinisikan sebagai usaha yang diperlukan untuk memindahkan muatan positif sebesar 1 satuan dari tempat tak terhingga ke suatu titik tertentu.
+</p><p>
+</p><p>15. <strong>Hambatan Listrik</strong>
+</p><p>Penyusun: massa, panjang, waktu, kuat arus listrik -&gt; -&gt; 
+</p><p>Satuan: Ohm (Ω)
+</p><p>Dimensi: [M][L]²[T]⁻³[A]⁻²
+</p><p>Penjelasan: Hambatan listrik adalah perbandingan antara besar tegangan listrik pada benda elekronik dengan arus listrik yang melewatinya
+</p><p>
+</p><p><strong>Kode: 10.6.2
+</strong></p><p><strong>Kelas: X
+</strong></p><p><strong>Mata pelajaran: Fisika 
+</strong></p><p><strong>Materi: Besaran dan Satuan
+</strong></p><p><strong>Kata kunci:  Massa Jenis, Tekanan, Tekanan, Hambatan Listrik
+</strong></p><br /><br />
+                                            <h2 class="ez-toc-section" id="1-tuliskan-dimensi-besaran-dibawah-ini-a-massa-jenis-b-usaha-c-daya-d-hambatan-listrik2-periksalah-apakah-2-besaran-berikut-setara-a-usaha-dan-energi-kinetik-b-tekanan-dan">
+                            25. 1. tuliskan dimensi besaran dibawah ini
+   a. massa jenis
+   b. usaha
+   c. daya
+   d. hambatan listrik
+2. periksalah apakah 2 besaran berikut setara
+    a. usaha dan energi kinetik
+    b. tekanan dan massa jenis</h2><br />
+                        Masa jenis=Kg<br />Usaha=Newton<br />Daya=Watt<br /><br />
+                                            <h2 class="ez-toc-section" id="sebuah-balok-alumunium-memiliki-dimensi-seperti-ditunjukkan-pada-gambar-arus-listrik-dilewatkan-melalui-balok-tegak-lurus-terhadap-permukaan-p-hambatan-jenis-alumunium-28-x-10-8-m-hitunglah-hamba">
+                            26. Sebuah balok alumunium memiliki dimensi seperti ditunjukkan pada gambar. Arus listrik dilewatkan melalui balok tegak lurus terhadap permukaan P. Hambatan jenis alumunium 2,8 x 10-8  m. Hitunglah hambatan balok alumunium tersebut ! 3 cm 2 cm 5 20 cmtolong banget kak dibantu, terimakasih​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Diketahui :
+</p><p>A = Luas Penampang = 2 x 10⁻⁴ m²
+</p><p>
+R = Hambatan Kawat = 10⁻⁴ Ω
+</p><p>
+ρ  =  hambatan jenis Kawat = 2,82 x 10⁻⁸ Ωm
+</p><p>
+</p><p>Ditanyakan :
+</p><p>L = Panjang Kawat = ...
+</p><p>
+</p><p>Penyelesaian :
+</p><p>
+A x R = ρ x L
+</p><p>
+2 x 10⁻⁴ x 10⁻⁴ = 2,82 x 10⁻⁸ x L
+</p><p>
+2 x 10⁻⁸ = 2,82 x 10⁻⁸L
+</p><p>
+L = 0,71 m (Hasil adalah nilai Pembulatan)</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-dimensi-dari-hambatan-tahan-listrik">
+                            27. Tentukan dimensi dari hambatan / tahan listrik</h2><br />
+                        <p>dimensi dari hambatan / tahanan listrik<br /><br />R = V/I = (W/q) / I<br /><br />R = W /( I².t) = F.x / ( I².t) <br /><br />R = m.a.x / ( I².t) <br /><br />R = kg.m/s².m / ( I².s) <br /><br />[ M ] [ L ]² [ I ]⁻² [ s ]⁻³</p><br />
+                                            <h2 class="ez-toc-section" id="tulislah-dimensi-dari-besaran-turunan-berikut-inia-massa-jenisb-tekananc-kapasitas-panas-d-frekuensie-muatan-listrikf-potensial-listrikg-hambatan-listrikh-kapasitas-listrik">
+                            28. Tulislah dimensi dari besaran turunan berikut ini!
+a. Massa jenis
+b. Tekanan
+c. kapasitas panas 
+d. frekuensi
+e. muatan listrik
+f. potensial listrik
+g. hambatan listrik
+h. kapasitas listrik </h2><br />
+                        c. M^-1L^-2 T^4I^2<br />d. T-1<br />e. IT<br />f. ML^2T^-3I^-1<br />g. ML^2T^-3I^-1<br />h. M^-1L^-2T^4I^2<br /><br />maaf cuma tau segitu dan gak pake cara, saya on via hp jadi terbatas simbolnya<br />
+                                            <h2 class="ez-toc-section" id="besaran-satuan-dimensi1-muatan-listrik-as-2-potensial-listrik-kg-m%c2%b2s%c2%b3a-3">
+                            29.    besaran                        satuan               Dimensi
+1. muatan listrik                   AS                      ....
+2. potensial listrik          kg M²S³/A               ....
+3. hambatan listrik         Kg M²S³/A²             ....
+4. kapasitas listrik          S⁴A²/kg M²             ....
+tolong kasih tau dimensinya yah plisssssssssss kakak</h2><br />
+                        3 hambatan listrik kg M² S³/A.......<br />
+                                            <h2 class="ez-toc-section" id="1-tuliskan-dimensi-besaran-besaran-dibawah-ini-a-percepatanb-massa-jenis-c-usahad-dayae-hambatan-listrik2-periksalah-apakah-besaran-tekanan-secara-dengan-besaran-massa-jenis">
+                            30. 1. tuliskan dimensi besaran besaran dibawah ini !a. percepatanb. massa jenis c. usahad. dayae. hambatan listrik2. periksalah apakah besaran tekanan secara dengan besaran massa jenis?</h2><br />
+                        ini photoooooooooooooooooo<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/ZEy1cLE0_40?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>fisika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-para-tokoh-pergerakan-nasional-menggunakan-media-massa/">Bagaimana Para Tokoh Pergerakan Nasional Menggunakan Media Massa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/struktur-teks-ulasan-film-beth/">Struktur Teks Ulasan Film Beth</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/rumusan-alinea-pembuka-pada-surat-lamaran-pekerjaan-yang-tepat-adalah/">Rumusan Alinea Pembuka Pada Surat Lamaran Pekerjaan Yang Tepat Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/abu-jafar-al-mansur-masih-memiliki-garis-keturunan-dengan/">Abu Jafar Al Mansur Masih Memiliki Garis Keturunan Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/substitusi-adalah-ips/">Substitusi Adalah Ips</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/7th-artinya/">7th Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dipunwastani-tegese/">Dipunwastani Tegese</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bentuk-negara-singapura-adalah/">Bentuk Negara Singapura Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/akar-108/">Akar 108</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lele-bersifat-aktif-bergerak-mencari-makanan-pada-malam-hari-disebut/">Lele Bersifat Aktif Bergerak Mencari Makanan Pada Malam Hari Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/please-explain-how-to-travel-by-bus/">Please Explain How To Travel By Bus</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kunci-jawaban-bahasa-indonesia-kelas-7-halaman-104/">Kunci Jawaban Bahasa Indonesia Kelas 7 Halaman 104</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pembuka-tutup-botol-bali/">Pembuka Tutup Botol Bali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gambar-kubus/">Gambar Kubus</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/adat-istiadat-palembang/">Adat Istiadat Palembang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bakteri-lactobacillus-digunakan-untuk-pengawetan/">Bakteri Lactobacillus Digunakan Untuk Pengawetan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/olahraga-yang-menyerupai-cabang-olahraga-lari-adalah/">Olahraga Yang Menyerupai Cabang Olahraga Lari Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/permainan-bola-voli-pertama-kali-ditemukan-pada-tahun/">Permainan Bola Voli Pertama Kali Ditemukan Pada Tahun</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-tujuan-negara-republik-indonesia-brainly/">Apa Tujuan Negara Republik Indonesia Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/verb-2-run/">Verb 2 Run</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

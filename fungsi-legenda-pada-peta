@@ -1,0 +1,1293 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fungsi Legenda Pada Peta - BELAJAR</title>
+    <meta name="description" content="Fungsi Legenda Pada Peta, , , , , , , 0, Fungsi Inset Pada Peta, www.ainamulyana.my.id, 474 x 355, jpeg, , 20, fungsi-legenda-pada-peta, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Fungsi Legenda Pada Peta - BELAJAR" />
+    <meta property="og:description" content="Fungsi Legenda Pada Peta, , , , , , , 0, Fungsi Inset Pada Peta, www.ainamulyana.my.id, 474 x 355, jpeg, , 20, fungsi-legenda-pada-peta, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Fungsi Legenda Pada Peta - BELAJAR" />
+    <meta name="twitter:description" content="Fungsi Legenda Pada Peta, , , , , , , 0, Fungsi Inset Pada Peta, www.ainamulyana.my.id, 474 x 355, jpeg, , 20, fungsi-legenda-pada-peta, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Fungsi Legenda Pada Peta</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">husnul9048</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Fungsi+Legenda+Pada+Peta" alt="Fungsi Legenda Pada Peta">
+                    </div>
+                    <p></p>
+                    <p>legenda merupakan salah satu komponen pembuatan peta fungsi legenda pada peta adalah</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#legenda-merupakan-salah-satu-komponen-pembuatan-peta-fungsi-legenda-pada-peta-adalah">1.
+                                            legenda merupakan salah satu komponen pembuatan peta fungsi legenda pada peta adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-legenda-pada-peta">2.
+                                            Apa fungsi legenda pada peta?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-legenda-dalam-peta">3.
+                                            fungsi legenda dalam peta</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#legenda-berfungsi-membantu-pengguna-peta-untuk-dapat-mengenal-arti-siapa-yang-tau">4.
+                                            Legenda berfungsi membantu pengguna peta untuk dapat mengenal arti? Siapa yang tau </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#salah-satu-komponen-penyusun-peta-adalah-legenda-yang-dalam-peta-berfungsi-menunjukkan">5.
+                                            Salah satu komponen penyusun peta adalah legenda yang Dalam peta berfungsi menunjukkan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#legenda-yang-tercantum-pada-peta-berfungsi-untuk%e2%80%8b">6.
+                                            legenda yang tercantum pada peta berfungsi untuk​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-legenda-pada-peta">7.
+                                            fungsi legenda pada peta</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#legenda-pada-peta-berfungsi-untuk">8.
+                                            legenda pada peta berfungsi untuk?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-legenda-dalam-peta-apa-itu-legenda-di-ips">9.
+                                            Apa itu legenda dalam PETA apa itu legenda di IPS</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-peta-adalah-2-skala-adalah-3-orientasi-adalah-4-legenda-adalah-5-fungsi-komponen-peta-adalah">10.
+                                            1. peta adalah.....
+2. skala adalah....
+3. orientasi adalah.....
+4. legenda adalah.....
+5. fungsi komponen peta adalah.....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-legenda-dalam-membaca-peta-adalahtolong-jwb-scpt-mungkin">11.
+                                            fungsi legenda dalam membaca peta adalah?#tolong jwb scpt mungkin</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#legenda-pada-peta-berfungsi-untuk%e2%80%8b">12.
+                                            legenda pada peta berfungsi untuk​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-fungsi-dari-legenda-pada-peta">13.
+                                            apakah fungsi dari legenda pada peta?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-legenda-pada-sebuah-peta">14.
+                                            jelaskan fungsi legenda pada sebuah peta</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-legenda-pada-peta">15.
+                                            apa fungsi legenda pada peta?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-isi-legenda-dalam-peta-dan-fungsinya-please-jawab%e2%80%8b">16.
+                                            Sebutkan isi legenda dalam peta dan fungsinya! please jawab​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#legenda-yang-tercantum-dalam-peta-berfungsi-sebagai-a-petunjuk-arah-b-keterangan-semu-objek-pada-peta-c-petunjuk-waktu-d-memperjelas-peta-pertama">17.
+                                            Legenda yang tercantum dalam peta berfungsi sebagai.A.petunjuk arah.B.keterangan semu objek pada peta.C.petunjuk waktu.D.memperjelas peta pertama</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#legenda-berfungsi-membantu-pengguna-peta-untuk-dapat-mengenal-arti">18.
+                                            legenda berfungsi membantu pengguna peta untuk dapat mengenal arti</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-legenda-dan-simbol-drai-peta-adalah%e2%80%8b">19.
+                                            fungsi legenda dan simbol drai peta adalah?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-pada-peta-tematik-fungsi-legenda-menjadi-sangat-penting">20.
+                                            mengapa pada peta tematik fungsi legenda menjadi sangat penting?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-legenda-dalam-peta-jelaskan-simbol-berdasarkan-bentuknya-dalam-peta">21.
+                                            Apa fungsi legenda dalam peta? 
+Jelaskan simbol berdasarkan bentuknya dalam peta</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-legenda-yang-terdapat-dalam-peta">22.
+                                            Jelaskan fungsi legenda yang terdapat dalam peta</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#legenda-yang-tercantum-pada-peta-berfungsi-untuk%e2%80%8b">23.
+                                            legenda yang tercantum pada peta berfungsi untuk​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#legenda-yang-tercantum-dalam-peta-berfungsi-sebagai">24.
+                                            Legenda yang tercantum dalam peta berfungsi sebagai</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-apa-yg-dimaksud-garis-lintang-dan-bujur-pada-peta2-jelaskan-fungsi-legenda-pada-sebuah-petabntu-dong%e2%80%8b">25.
+                                            1.apa yg dimaksud garis lintang dan bujur pada peta2.jelaskan fungsi legenda pada sebuah petabntu dong:)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-legenda-pada-sebah-peta">26.
+                                            Jelaskan fungsi legenda pada sebah peta?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-legenda-pada-peta">27.
+                                            ^' jelaskan fungsi legenda pada peta</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-legenda-untuk-mengenali-kenampakan-bentuk-muka-bumi-pada-peta-yaitu">28.
+                                            fungsi legenda untuk mengenali kenampakan bentuk muka bumi pada peta yaitu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-legenda-pada-peta">29.
+                                            fungsi legenda pada peta</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-legenda-yg-terdapat-pada-peta">30.
+                                            Jelaskan fungsi legenda yg terdapat pada peta</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#legenda-pada-sebuah-peta-berfungsi-untuk%e2%80%8b">31.
+                                            legenda pada sebuah peta berfungsi untuk​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-legenda-pada-peta">32.
+                                            apa fungsi legenda pada peta</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-fungsi-dari-legenda-peta">33.
+                                            sebutkan fungsi dari legenda peta</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-legenda-pada-peta%e2%80%8b">34.
+                                            jelaskan fungsi legenda pada peta​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-legenda-pada-peta%e2%80%8b">35.
+                                            Jelaskan fungsi legenda pada peta​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-apa-yang-dimaksud-dengan-petatuliskan-pula-apa-jenis-jenis-peta-berdasarkan-skalaapa-yang-dimaksud-dengan-legenda-peta-dan-gambarkan-symbol-simbolyang-digunakan-dalam-legenda-patatuliskan">36.
+                                            Tuliskan apa yang dimaksud dengan Peta?Tuliskan pula apa jenis-jenis peta berdasarkan skala?Apa yang dimaksud dengan legenda peta dan gambarkan symbol-simbolyang digunakan dalam legenda pata?Tuliskan fungsi dan manfaat Peta?lu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-legenda-pada-peta">37.
+                                            fungsi legenda pada peta</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-dari-komponen-peta-berikut-ini-judul-peta-orirntasiskala-legenda">38.
+                                            jelaskan fungsi dari komponen peta berikut ini ,...judul peta, orirntasi,skala, legenda</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-skala-pada-petaapa-fungsi-laterring-pada-petaapa-fungsi-inset-pada-petaapa-fungsi-legenda-pada-peta-mohon-dijawab%e2%80%8b">39.
+                                            apa fungsi skala pada petaapa fungsi laterring pada petaapa fungsi inset pada petaapa fungsi legenda pada peta Mohon dijawab​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-legenda-peta-tolong-dijawab-ya">40.
+                                            Jelaskan fungsi legenda peta ????
+Tolong dijawab ya</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="legenda-merupakan-salah-satu-komponen-pembuatan-peta-fungsi-legenda-pada-peta-adalah">
+                            1. legenda merupakan salah satu komponen pembuatan peta fungsi legenda pada peta adalah</h2><br />
+                        untuk mengetahui kapan peta tersebut dibuat1.  memudahkan pencarian,  kondisi fisik,  kode dan bentang alam suatu kawasan,  2.menjelaskan simbol simbol yang terdapat pada peta <br /><br />maaf kalau salah <br />semoga membantu <br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-legenda-pada-peta">
+                            2. Apa fungsi legenda pada peta?</h2><br />
+                        Fungsi legenda pada peta yaitu agar pembaca peta mengetahui simbol - simbol yang terdapat pada peta. Misal = simbol segitiga berwarna merah arti simbolnya yaitu gunung yang masih aktif atau yang dapat meletus<br /><br />semoga bermanfaat maaf kalo salahuntuk menjelaskan simbol-simbol yang terdapat di dalam peta.<br />Maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="fungsi-legenda-dalam-peta">
+                            3. fungsi legenda dalam peta</h2><br />
+                        untuk memberi keterangan penting dan untuk memberi penjelasan mengenai simbol yang digunakan dalam peta.untuk mengetahui sebuah tempat <br />
+                                            <h2 class="ez-toc-section" id="legenda-berfungsi-membantu-pengguna-peta-untuk-dapat-mengenal-arti-siapa-yang-tau">
+                            4. Legenda berfungsi membantu pengguna peta untuk dapat mengenal arti? Siapa yang tau </h2><br />
+                        yang dalam gambar misal bentuk bulet menunjukan lokasi ibu kota.kalau ngga salahMapel IPS<br /><br />Kategori: Peta<br /><br />Kata kunci: Komponen Peta<br /><br />Pembahasan: Legenda berfungsi membantu pengguna peta untuk dapat mengenal arti simbol-simbol yang terdapat peta seperti<br />1. segitiga menunjukkan gambar gunung<br />2. ~ menunjukkan aliran sungai<br />3.  atau ibu kota suatu negara<br /><br />semangat belajarnya kawan<br />
+                                            <h2 class="ez-toc-section" id="salah-satu-komponen-penyusun-peta-adalah-legenda-yang-dalam-peta-berfungsi-menunjukkan">
+                            5. Salah satu komponen penyusun peta adalah legenda yang Dalam peta berfungsi menunjukkan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Legenda menunjukkan keterangan semua objek yang ada atau muncul pada muka peta. Pada legenda inilah seorang pembaca peta akan mengetaui tentang objek yang ada pada wilayah yang di petakan</p><br />
+                                            <h2 class="ez-toc-section" id="legenda-yang-tercantum-pada-peta-berfungsi-untuk%e2%80%8b">
+                            6. legenda yang tercantum pada peta berfungsi untuk​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> Berfungsi untuk      mewujudkan masyarakat tersebut.</p><p></p><p></p><p><strong>Jawaban:</strong></p><p>petunjuk arah</p><p><strong>Penjelasan:</strong></p><p>karena legenda itu adalah simbol atau tanda tanda</p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-legenda-pada-peta">
+                            7. fungsi legenda pada peta</h2><br />
+                        agar mudah memahami peta. <br />supaya mengetahui simbol" yang dimaksud didlm peta<br />dan supaya tau kedalaman air laut dan ketinggian dataranmelambangkan bagian dari peta.<br />
+                                            <h2 class="ez-toc-section" id="legenda-pada-peta-berfungsi-untuk">
+                            8. legenda pada peta berfungsi untuk?</h2><br />
+                        Menandai suatu lokasi tanpa harus menuliskan nya secara lengkap<br /><br />Semoga membantu :)<br /><br /><br /><br /><br /><br /><br />memperjelas isi dalam peta<br />
+                                            <h2 class="ez-toc-section" id="apa-itu-legenda-dalam-peta-apa-itu-legenda-di-ips">
+                            9. Apa itu legenda dalam PETA apa itu legenda di IPS</h2><br />
+                        Simbol - Simbol pada peta , yang menerangkan keterangan suatu simbol pada peta tersebut<br /><br /><br />Semoga membantu :)<p>Simbol ² pada peta</p><p>Maap</p><br />
+                                            <h2 class="ez-toc-section" id="1-peta-adalah-2-skala-adalah-3-orientasi-adalah-4-legenda-adalah-5-fungsi-komponen-peta-adalah">
+                            10. 1. peta adalah.....
+2. skala adalah....
+3. orientasi adalah.....
+4. legenda adalah.....
+5. fungsi komponen peta adalah.....</h2><br />
+                        1.peta adl bagian yg menunjukkan beberapa daerah<br />2.skala adl angka terbesar dlm peta<br />3.orientasi adl arah yg trdpt dlm peta<br />4.legenda adl kolom kecil yg berisi simbol simbol<br />5.menunjukkan kpd manusia agar tdk tersesat<br />
+                                            <h2 class="ez-toc-section" id="fungsi-legenda-dalam-membaca-peta-adalahtolong-jwb-scpt-mungkin">
+                            11. fungsi legenda dalam membaca peta adalah?#tolong jwb scpt mungkin</h2><br />
+                        untuk mengetahui arti simbol simbol yang terdapat pada peta<br /><br />semoga bermanfaat :)<br />untuk menyimbolkan ketampakan alam yg ada di bumi pada peta<br /><br />(maaf klo salah) <br />
+                                            <h2 class="ez-toc-section" id="legenda-pada-peta-berfungsi-untuk%e2%80%8b">
+                            12. legenda pada peta berfungsi untuk​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>menunjukan arah kali ya</p><p>maaf kalo salah </p><p><strong>Jawaban:</strong></p><p>menjelaskan keterangan simbol-simbol yang terdapat pada peta</p><br />
+                                            <h2 class="ez-toc-section" id="apakah-fungsi-dari-legenda-pada-peta">
+                            13. apakah fungsi dari legenda pada peta?</h2><br />
+                        Menjelaskan simbol- simbol pada peta<br /><br />Semoga membantufungsi legenda ialah menyimbolkan/ melambangkan bagian dari peta atau 
+bagian dari kenampakan yang pokok ( kenampakan fisiografis ataupun 
+sosiografis)<br /><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-legenda-pada-sebuah-peta">
+                            14. jelaskan fungsi legenda pada sebuah peta</h2><br />
+                        Legenda berfungsi sebagai menjadi yang menyimbolkan suatu kenampakan alam <br />Mohon maaf apabila da kesalahan :)<br />memberi keterangan tentang arti Simbol pd peta<br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-legenda-pada-peta">
+                            15. apa fungsi legenda pada peta?</h2><br />
+                        <p>Fungsi dari legenda pada peta adalah berfungsi untuk menjelaskan keterangan dari simbol simbol peta agar pembaca lebih mudah memahaminya.</p><p></p>Pembahasan
+<p>Hallo teman teman semuanya</p><p></p><p>Kira kira masih semangat belajar materi geografi ga yaa ? kalo masih semangat belajar, yuk baca materi tentang pelajaran geografi dibawah ini yaa</p><p></p><p>Komponen peta yaitu terdiri dari:</p><p></p><p>1.Judul peta</p><p></p><p>Judul peta merupakan identitas untuk menjelaskan dari isi suatu peta.</p><p></p><p>2.Garis tepi peta</p><p></p><p>Garis tepi peta adalah garis untuk membatasi ruang peta.</p><p></p><p>3.Garis astronomis</p><p></p><p>Garis astronomis berfungsi untuk mengetahui posisi absolut pada peta.</p><p></p><p>4.Petunjuk arah</p><p></p><p>Petunjuk arah adalah menunjukkan arah mata angin.</p><p></p><p>5.Inset</p><p></p><p>Inset bertujuan untuk memperjelas salah satu bagian dari peta dan menunjukkan lokasi yang penting, tetapi kurang jelas dalam peta.</p><p></p><p>6.Skala peta</p><p></p><p>Skala peta merupakan untuk menjelaskan jarak di peta dengan jarak yang sesungguhnya.</p><p></p><p>7.Simbol peta</p><p></p><p>Simbol peta merupakan informasi geografis yang berhubungan dengan bentukk wilayah beserta ketampakan fenomena alam atau budaya.  </p><p>8.Legenda</p><p></p><p>Legenda adalah keterangan dari simbol - simbol peta.</p><p></p><p>9.Sumber peta</p><p></p><p>Sumber peta berguna untuk pembaca supaya tahu dari mana sumbernya diperoleh.</p><p></p><p>10.Tahun pembuatan</p><p></p><p>Tahun pembuatan digunakan untuk menggambarkan data yang cepat berubah.</p><p></p><p>11.Tata cara penulisan peta</p><p></p><p>Tata cara penulisan peta harus ada kesepakatan di antara para ahli pembuat peta.</p><p></p><p>Sedikit pembahasan dari saya, semoga Adik adik lebih semangat belajar geografinya.</p><p></p>Pelajari Lebih Lanjut:
+<p>Adik-adik semua masih kepingin belajar materi geografi kan? Yuk adik-adik cek link di bawah ini yaa!!! Semoga dapat membantu adik-adik dalam belajar dan semoga membantu ya  </p><p>1.Kajian tentang sungai yang kondisi airnya stabil atau permanen,cek link berikut ini ya https://brainly.co.id/tugas/22763014</p><p></p><p>2.Kajian tentang perbedaan hulu dan hilir, cek link berikut ini ya https://brainly.co.id/tugas/2693510?source=aid23717376</p><p></p><p>3.Kajian tentang ruang pada daerah perairan, cek link berikut ini ya https://brainly.co.id/tugas/12652392?source=aid23717376</p><p></p>Detail Jawaban
+<p>Kelas: 10</p><p></p><p>Mapel: Geografi</p><p></p><p>Bab : Bab 2 - Langkah Geografi</p><p></p><p>Kode : 10.8.2002</p><p></p><p>Kata Kunci: fungsi dari legenda, komponen peta, pengertian legenda</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-isi-legenda-dalam-peta-dan-fungsinya-please-jawab%e2%80%8b">
+                            16. Sebutkan isi legenda dalam peta dan fungsinya! please jawab​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Legenda peta berfungsi untuk menjelaskan keterangan simbol-simbol yang terdapat pada peta. Legenda biasanya berada di sudut kiri peta. Skala merupakan Perbandingan jarak antara keadaan pada peta dengan keadaan yang sebenarnya. </p><p><strong>Penjelasan:</strong></p><p></p><p>maaf kalau salah, saya masih pemula </p><br />
+                                            <h2 class="ez-toc-section" id="legenda-yang-tercantum-dalam-peta-berfungsi-sebagai-a-petunjuk-arah-b-keterangan-semu-objek-pada-peta-c-petunjuk-waktu-d-memperjelas-peta-pertama">
+                            17. Legenda yang tercantum dalam peta berfungsi sebagai.A.petunjuk arah.B.keterangan semu objek pada peta.C.petunjuk waktu.D.memperjelas peta pertama</h2><br />
+                        <p><strong>Jawaban:A.petunjuk arah</strong></p><p></p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="legenda-berfungsi-membantu-pengguna-peta-untuk-dapat-mengenal-arti">
+                            18. legenda berfungsi membantu pengguna peta untuk dapat mengenal arti</h2><br />
+                        arti dari Simbol yang digunakan tersebut.maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="fungsi-legenda-dan-simbol-drai-peta-adalah%e2%80%8b">
+                            19. fungsi legenda dan simbol drai peta adalah?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Fungsi legenda = legenda menunjukkan keterangan semua objek yang ada atau muncul pada muka peta, maka seorang pembaca akan mengetahui tentang objek yang ada pada wilayah yang dipetakan.</p><p></p><p></p><p></p><p>Fungsi simbol = untuk memudahkan pengguna peta dalam membaca dan memahami isi peta.</p><p></p><p><strong>Penjelasan:</strong></p><p> maaf kalo salah </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="mengapa-pada-peta-tematik-fungsi-legenda-menjadi-sangat-penting">
+                            20. mengapa pada peta tematik fungsi legenda menjadi sangat penting?</h2><br />
+                        <p>Pada peta tematik fungsi legenda menjadi sangat penting <strong>karena legenda digunakan untuk menjelaskan simbol-simbol yang terdapat pada peta tersebut</strong>. Peta tematik merupakan peta yang menggambarkan informasi yang bersifat khusus, seperti peta curah hujan, peta kepadatan penduduk, peta pariwisata, dan lain sebagainya. Simbol-simbol yang digunakan pada peta tematik dapat berupa simbol titik, simbol garis, dan juga simbol bidang (area).</p><p></p><strong>Pembahasan</strong><p>Dalam ilmu geografi, setiap fenomena geografis yang terjadi di muka bumi digambarkan dalam bentuk peta. Terdapat beberapa pendapat ahli tentang pengertian peta, diantaranya adalah sebagai berikut:</p>Menurut Erwin Raisz, peta adalah gambaran konvensional kenampakan bumi yang diperkecil seperti kenampakan aslinya bila dilihat vertikal dari atas, peta dibuat pada bidang datar serta dilengkapi tulisan-tulisan sebagi penjelasan.Menurut BAKOSURTANAL, peta adalah wahanan bagi penyimpanan dan penyajian data kondisi lingkungan yang dapat menjadi sumber informasi bagi para perencana dan pemngambilan keputusan pada tahapan dan tingkatan pembangunan.Menurut Soetarjo Soerjosumarmo, peta adalah lukisan dengan tinta dari seluruh atau sebagian permukaan bumi yg diperkecil dengan perbandingan ukuran yg disebut skala.Menurut Aryono Prihandito, peta adalah gambaran permukaan bumi dengan skala tertentu dan digambarkan pada bidang datar dengan sistem proyeksi tertentu.Menurut F.J Monkhous dan H.R WIlkinson, peta adalah suatu perakitan terpadu atau suatu sintesa dari empat kelompok informasi yaitu titik, garis, wilayah, dan nama yang dikemukakan dalam istilah : liputan, ciri, pola, bentuk, ukuran, ketebalan simbol, dan lain-lain.<p>Perlu kamu ketahui bahwa ilmu yang mempelajari peta disebut kartografi. Seorang ahli pemetaan disebut kartograf. Pembuatan peta memiliki bebarapa fungsi, diantaranya adalah sebagai berikut:</p>Menunjukkan lokasi suatu wilayah.Menggambarkan bentuk-bentuk permukaan bumi.Sebagai media pembelajaran geografi.<p>Dalam sebuah peta terdapat beberapa komponen berikut ini:</p>Judul peta, merupakan komponen peta yang mengindikasikan isi peta.Orientasi, merupakan arah mata angin.Skala peta, merupakan perbandingan jarak di peta dengan jarak sebenarnya di lapangan.Simbol peta, merupakan tanda yang mewakili kenampakan sebenarnya di lapangan.Legenda, merupakan keterangan dari simbol peta.Garis astronomis, merupakan komponen peta yang berupa garis lintang dan garis bujur.Inset, merupakan peta kecil yang berfungsi untuk menunjukkan posisi relatif daerah yang dipetakan terhadap daerah di sekitarnya.Lettering, merupakan teknik penulisan huruf pada peta.Sumber dan tahun pembuatan peta.<p>Pelajari lebih lanjut tentang komponen peta di: https://brainly.co.id/tugas/13319037.</p><p>Berdasarkan skalanya, peta diklasifikasikan menjadi lima jenis, yaitu sebagai berikut:</p>Peta kadaster, merupakan peta yang memiliki skala 1 : 100 - 1 : 5.000.Peta skala besar, merupakan peta yang memiliki skala 1 : 5.000 - 1 : 250.000.Peta skala sedang, merupakan peta yang memiliki skala 1 : 250.000 - 1 : 500.000.Peta skala kecil, merupakan peta yang memiliki skala 1 : 500.000 - 1 : 1.000.000.Peta geografis, merupakan peta yang memiliki skala lebih dari 1 : 1.000.000.<p>Sedangkan berdasarkan isinya, peta diklasifikasikan menjadi dua jenis, yaitu</p>Peta umum, merupakan peta yang menggambarkan informasi yang bersifat umum, seperti peta topografi, peta chorografi, dan peta dunia.Peta khusus (tematik), merupakan peta yang menggambarkan informasi yang bersifat khusus, seperti peta curah hujan, peta kepadatan penduduk, peta pariwisata, dan lain sebagainya.<p>Pelajari lebih lanjut tentang jenis-jenis peta di: https://brainly.co.id/tugas/6787910.</p><p></p><strong>Detil jawaban</strong><p><strong>Kelas</strong>: XII</p><p><strong>Mapel</strong>: Geografi</p><p><strong>Bab</strong>: Pemanfaatan Peta, Penginderaan Jauh, dan SIG</p><p><strong>Kode</strong>: 12.8.3</p><p>#AyoBelajar</p><br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-legenda-dalam-peta-jelaskan-simbol-berdasarkan-bentuknya-dalam-peta">
+                            21. Apa fungsi legenda dalam peta? 
+Jelaskan simbol berdasarkan bentuknya dalam peta</h2><br />
+                        legenda berisi keterangan tentang simbol-simbol yang ada di peta. pada umumnya legenda terletak di sisi kiri / kanan bagian bawah suatu peta dan sebaliknya dalam garis peta<br />simbol titik untuk menyatakan lokasi/bentuk unsur lain yg erat hubunganya dengan skala peta<br />simbol garis, untuk sungai, jalan, rel kereta, batas wilayah administratif.<br />simbol area.<br />simbol warna<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-legenda-yang-terdapat-dalam-peta">
+                            22. Jelaskan fungsi legenda yang terdapat dalam peta</h2><br />
+                        untuk mengetahui simbol-simbol pada peta<br />
+                                            <h2 class="ez-toc-section" id="legenda-yang-tercantum-pada-peta-berfungsi-untuk%e2%80%8b">
+                            23. legenda yang tercantum pada peta berfungsi untuk​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>menunjukkan Peta legenda</p><p><strong>Jawaban:</strong></p><p>Legenda berfungsi untung mempermudah menemukan sesuatu</p><br />
+                                            <h2 class="ez-toc-section" id="legenda-yang-tercantum-dalam-peta-berfungsi-sebagai">
+                            24. Legenda yang tercantum dalam peta berfungsi sebagai</h2><br />
+                        <p>Jawaban:</p><p>﻿legenda dalam peta berfungsi menunjukkan keterangan semua objek yang ada atau muncul pada muka peta . Pada legenda inilah seorang pembaca peta akan mengetahui tentang objek yang ada pada wilayah yang dipetakan </p><p>Penjelasan: Semoga membantu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-apa-yg-dimaksud-garis-lintang-dan-bujur-pada-peta2-jelaskan-fungsi-legenda-pada-sebuah-petabntu-dong%e2%80%8b">
+                            25. 1.apa yg dimaksud garis lintang dan bujur pada peta2.jelaskan fungsi legenda pada sebuah petabntu dong:)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Garis lintang adalah garis khayal yang digunakan untuk menentukan lokasi di bumi terhadap garis khatulistiwa pada globe atau peta. Sedangkan Garis bujur adalah garis khayal yang ditarik dari kutub utara hingga ke kutub selatan untuk menentukan lokasi di bumi pada globe atau peta.</p><p>2. Legenda peta berfungsi untuk menjelaskan keterangan simbol-simbol yang terdapat pada peta.</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah! </p><p><strong>Jawaban:</strong></p><p><strong>1. </strong><strong>-</strong><strong>Garis Lintang (Latitude): garis imajiner yang melingkar bumi ditarik dari arah barat hingga timur. ...</strong></p><p><strong>-</strong><strong>Garis Bujur (Longtitude): garis imajiner yang berupa       garis lurus yang menghubungkan bumi dari kutub utara hingga kutub selatan. Bumi dibagi menjadi 360 garis bujur, yaitu 180 garis bujur barat dan 180 garis bujur timur.</strong></p><p></p><p><strong>2</strong><strong>.</strong><strong> </strong><strong>Tujuannya untuk mengetahui arah pada peta, seperti utara, selatan, timur, dan barat. Legenda peta berfungsi untuk menjelaskan mengenai keterangan simbol-simbol yang terdapat pada peta.</strong></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-legenda-pada-sebah-peta">
+                            26. Jelaskan fungsi legenda pada sebah peta?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Legenda berisi tanda tanda atau simbol simbol yang ada pada peta</p><p><strong>Penjelasan:</strong></p><p>contoh:sungai,laut dll</p><p>maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-legenda-pada-peta">
+                            27. ^' jelaskan fungsi legenda pada peta</h2><br />
+                        <p>Fungsi legenda pada peta dapat dilihat di dalam beberapa hal, yakni: </p><p>→ Menjelaskan simbol-simbol yg terdapat di dalam peta, </p><p>→ Memudahkan pencarian, kondisi fisik, kode dan bentang alam di suatu kawasan atau tempat dengan simbol-simbol yang sudah ditentukan</p><p>→ Menyimbolkan/ melambangkan bagian dari peta atau bagian dari kenampakan yang pokok ( kenampakan fisiografis ataupun sosiografis)</p><p></p><p>Legenda adalah keterangan dari simbol-simbol yang merupakan kunci untuk memahami peta.
+ Legenda pada peta terdiri dari simbol dalam bentuk garis, bidang dan titik, serta warna dalam bentuk area. </p><p>Untuk menambah pengetahuanmu tentang Legenda Peta, klik link di bawah ini: </p><p><strong>Jelaskan 3 kelompok legenda peta dan contohnya
+</strong></p><p>https://brainly.co.id/tugas/4955794</p><p><strong>Sebutkan legenda pada peta
+</strong></p><p>https://brainly.co.id/tugas/13656437</p><p><strong>Apakah fungsi dari legenda pada peta?
+</strong></p><p>https://brainly.co.id/tugas/11508245</p><p><strong>Apa yg dimaksud dengan legenda pada peta
+</strong></p><p>https://brainly.co.id/tugas/4781258</p><p></p><p><strong>....................................................</strong></p><p><strong>Kelas: 2 SMP</strong></p><p><strong>Mata Pelajaran: IPS</strong></p><p><strong>Kategori           : -</strong></p><p><strong>Kata Kunci: Legenda Peta</strong></p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-legenda-untuk-mengenali-kenampakan-bentuk-muka-bumi-pada-peta-yaitu">
+                            28. fungsi legenda untuk mengenali kenampakan bentuk muka bumi pada peta yaitu</h2><br />
+                        biasanya dalam bentuk simbol simbol dalam peta<br />
+                                            <h2 class="ez-toc-section" id="fungsi-legenda-pada-peta">
+                            29. fungsi legenda pada peta</h2><br />
+                        jawabannya adalah <br /><br />''' Untuk memahami isi dalam peta <br />''' mempermudah membaca isi peta <br /><br />semoga membantu<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-legenda-yg-terdapat-pada-peta">
+                            30. Jelaskan fungsi legenda yg terdapat pada peta</h2><br />
+                        penjelasan maksud dari simbol simbol petauntuk mengetahui suatu tempat atau wilayah yang ada di dalam gambar peta<br />
+                                            <h2 class="ez-toc-section" id="legenda-pada-sebuah-peta-berfungsi-untuk%e2%80%8b">
+                            31. legenda pada sebuah peta berfungsi untuk​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Fungsi dari legenda pada peta adalah berfungsi untuk menjelaskan keterangan dari simbol simbol peta agar pembaca lebih mudah memahaminya</p><p><strong>Jawaban:</strong></p><p>Legenda peta ini untuk menjelaskan mengenai simbol-simbol yang dipakai pada peta.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-legenda-pada-peta">
+                            32. apa fungsi legenda pada peta</h2><br />
+                        Untuk informasi atau menjelaskan lambang di petaagar mengetahui simbol simbol yang ada di peta<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-fungsi-dari-legenda-peta">
+                            33. sebutkan fungsi dari legenda peta</h2><br />
+                        fungsi legenda ialah memuat informasi yg terdapat dalam peta dalam bentuk simbol dan keterangan dari simboluntuk memberi keterangan simbol yang ada di peta, juga terdapat skala peta yg berfungsi untuk ukuran tempat, yang di itung 1 cm.<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-legenda-pada-peta%e2%80%8b">
+                            34. jelaskan fungsi legenda pada peta​</h2><br />
+                        <p>Legenda peta berfungsi untuk menjelaskan keterangan simbol-simbol yang terdapat pada peta</p><p><strong>Jawaban:</strong></p><p>fungsi legenda pada peta yaitu</p><p>memperjelas simbol simbol yang ada pada peta. </p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-legenda-pada-peta%e2%80%8b">
+                            35. Jelaskan fungsi legenda pada peta​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Legenda peta berfungsi untuk menjelaskan keterangan simbol-simbol yang terdapat pada peta.</p><p>Jawaban:</p><p></p><p>Legenda pada peta berfungsi untuk menjelaskan keterangan simbol-simbol yang terdapat pada peta.</p><p></p><p>Semoga membantu :)</p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-apa-yang-dimaksud-dengan-petatuliskan-pula-apa-jenis-jenis-peta-berdasarkan-skalaapa-yang-dimaksud-dengan-legenda-peta-dan-gambarkan-symbol-simbolyang-digunakan-dalam-legenda-patatuliskan">
+                            36. Tuliskan apa yang dimaksud dengan Peta?Tuliskan pula apa jenis-jenis peta berdasarkan skala?Apa yang dimaksud dengan legenda peta dan gambarkan symbol-simbolyang digunakan dalam legenda pata?Tuliskan fungsi dan manfaat Peta?lu​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.Peta adalah gambaran permukaan bumi yang ditampilkan pada suatu bidang datar dengan skala tertentu. </p><p><strong>Penjelasan:</strong></p><p>2. - Peta Kadaster</p><p>Peta kadaster adalah jenis peta yang memiliki skala antara 1 : 100 hingga 1: 5.000. </p><p>   -  Peta Skala Besar</p><p>Jenis peta ini adalah peta yang memiliki skala antara 1 : 5.000 hingga 1 : 250.000. </p><p>     - Peta Skala Sedang</p><p>Peta skala sedang memiliki skala antara 1:250.001 sampai dengan 1:500.000.</p><p>       - Peta Skala Kecil</p><p>Peta jenis ini memiliki skala antara 1: 500.001 sampai dengan 1: 1.000.000.</p><p></p><p>3. Legenda peta adalah daftar atau tabel yang menunjukkan tanda-tanda atau simbol dalam peta yang merepresentasikan kondisi sebenarnya di suatu area.</p><p> </p>4. Fungsi dan manfaat dari peta :<p>    </p><p>peta mempunyai banyak fungsi di berbagai bidang, seperti:</p><p></p><p>1. Bisa menunjukan posisi atau letak dipermukaan bumi.</p><p>2. Menggambarkan bentuk-bentuk permukaan bumi, sehingga tampak jelas terlihat.</p><p>3. Peta juga menyajikan data tentang potensi daerah.</p><p>4. Peta bisa sebagai petunjuk arah jika tersesat untuk menuju suatu tempat.</p><p>5.Peta juga bisa untuk merencanakan pembangunan dan mengana lisis kondisi wilayah.</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-legenda-pada-peta">
+                            37. fungsi legenda pada peta</h2><br />
+                        jawabannya adalah <br /><br />''' Fungsi nya adalah <br /><br />1. Untuk mempermudah membaca peta<br />2  supaya memahami  isi dalam peta <br /><br />semoga membantu<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-dari-komponen-peta-berikut-ini-judul-peta-orirntasiskala-legenda">
+                            38. jelaskan fungsi dari komponen peta berikut ini ,...judul peta, orirntasi,skala, legenda</h2><br />
+                        PENJELASAN :<br /><br />JUDUL : UNTUK MENGGAMBARKAN ISI DARI PETA SERTA KARAKTERISTIKNYA<br /><br />ORIENTASI : ARAH MATA ANGUN DAN TANDA PANAH PETUNJUK<br /><br />SKALA :UNTUK PERBANDINGAN JARAK ANTARA 2 TITIK SEMBARANG<br /><br />LEGENDA : UNTUK MENERANGKAN ATAU SEBAGAI KETERANGAN DALAM SIMBOL ITU.<br /><br />MAPEL : GEOGERAFI<br /><br />KELAS : X<br /><br />MATERI :DASAR DASAR PEMETAAN PENGINDRAAN JAUH DAN SISTEM INFORMASI GEOGERAFI<br /><br />KODE SOAL : 8<br /><br />KODE KATEGORISASI : 10.8.2<br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-skala-pada-petaapa-fungsi-laterring-pada-petaapa-fungsi-inset-pada-petaapa-fungsi-legenda-pada-peta-mohon-dijawab%e2%80%8b">
+                            39. apa fungsi skala pada petaapa fungsi laterring pada petaapa fungsi inset pada petaapa fungsi legenda pada peta Mohon dijawab​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>-Fungsi skala adalah untuk menunjukkan ukuran atau jarak dipeta dengan ukuran yang sesungguhnya di lapangan.</p><p>-Fungsi lattering adalah memudahkan dalam menganalisis peta, memberikan suatu kenampakan yang baik pada peta, dan memberikan kenampakan yang teratur pada peta.</p><p>-Fungsi inset adalah untuk menunjukkan lokasi wilayah yang dipetakan diantara wilayah lain yang lebih luas. </p><p>-Fungsi legenda adalah untuk memberikan keterangan semua objek yang ada atau terdapat pada permukaan peta. melalui legenda, pengguna atau pembaca peta dapat mengetahui objek-objek yang ada pada wilayah yang dipetakan.</p><p>maaf kalo salah, hehe</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-legenda-peta-tolong-dijawab-ya">
+                            40. Jelaskan fungsi legenda peta ????
+Tolong dijawab ya</h2><br />
+                        arti legenda pada peta adalah keterangan2 symbol pada petaLegenda adalah keterangan dari simbol-simbol yang merupakan kunci untuk memahami peta<br /><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/tfjaV35zZW0?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>sejarah</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/what-is-the-writer-s-intention-to-write-the-text/">What Is The Writer s Intention To Write The Text</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/2-5-2-5/">2 5 2 5</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apakah-yang-dimaksud-smash/">Apakah Yang Dimaksud Smash</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/alat-pemukul-pada-permainan-tenis-meja-disebut/">Alat Pemukul Pada Permainan Tenis Meja Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/istilah-hiv-telah-digunakan-sejak-tahun/">Istilah Hiv Telah Digunakan Sejak Tahun</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/cara-main-gong/">Cara Main Gong</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/log-8/">Log 8</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lapangan-rounders-memiliki-panjang-sisi/">Lapangan Rounders Memiliki Panjang Sisi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/secara-bahasa-asmaul-husna-berarti/">Secara Bahasa Asmaul Husna Berarti</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/batok-kelapa-sangat-keras-karena-tersusun-dari-jaringan/">Batok Kelapa Sangat Keras Karena Tersusun Dari Jaringan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lingkungan-keluarga-upaya-yang-telah-dilakukan/">Lingkungan Keluarga Upaya Yang Telah Dilakukan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/akun-dibawah-ini-yang-bersaldo-normal-debit-adalah/">Akun Dibawah Ini Yang Bersaldo Normal Debit Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/negara-dari-r/">Negara Dari R</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/produk-kerajinan-umumnya-diproduksi-ulang-atau-diperbanyak-dalam-skala/">Produk Kerajinan Umumnya Diproduksi Ulang Atau Diperbanyak Dalam Skala</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-saja-yang-harus-kamu-tuliskan-dalam-formulir/">Apa Saja Yang Harus Kamu Tuliskan Dalam Formulir</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/cerita-tentang-lingkungan-rumah-yang-bersih/">Cerita Tentang Lingkungan Rumah Yang Bersih</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/write-a-formal-invitation-for-your-brothers-wedding/">Write A Formal Invitation For Your Brother&#039;s Wedding</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/divisi-adalah/">Divisi Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gwenchana-artinya/">Gwenchana Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-janji-kepada-sesama-manusia/">Contoh Janji Kepada Sesama Manusia</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

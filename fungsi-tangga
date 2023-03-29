@@ -1,0 +1,1278 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fungsi Tangga - BELAJAR</title>
+    <meta name="description" content="Fungsi Tangga, , , , , , , 0, Contoh Soal Fungsi Tangga Beserta Jawabannya - Edumi ID, edumi.my.id, 1280 x 720, jpeg, , 20, fungsi-tangga, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Fungsi Tangga - BELAJAR" />
+    <meta property="og:description" content="Fungsi Tangga, , , , , , , 0, Contoh Soal Fungsi Tangga Beserta Jawabannya - Edumi ID, edumi.my.id, 1280 x 720, jpeg, , 20, fungsi-tangga, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Fungsi Tangga - BELAJAR" />
+    <meta name="twitter:description" content="Fungsi Tangga, , , , , , , 0, Contoh Soal Fungsi Tangga Beserta Jawabannya - Edumi ID, edumi.my.id, 1280 x 720, jpeg, , 20, fungsi-tangga, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Fungsi Tangga</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">yoona92</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Fungsi+Tangga" alt="Fungsi Tangga">
+                    </div>
+                    <p></p>
+                    <p>kapan rumah tangga keluarga berfungsi sebagai konsumen? dan kapan rumah tangga keluarga berfungsi sebagai produsen?</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kapan-rumah-tangga-keluarga-berfungsi-sebagai-konsumen-dan-kapan-rumah-tangga-keluarga-berfungsi-sebagai-produsen">1.
+                                            kapan rumah tangga keluarga berfungsi sebagai konsumen? dan kapan rumah tangga keluarga berfungsi sebagai produsen?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-dari-tangga">2.
+                                            Apa fungsi dari tangga?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-tangga-tradisional">3.
+                                            Fungsi tangga tradisional</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-fungsi-tangga-nada-kres-dan-tangga-nada-mol-b%e2%80%8b">4.
+                                            apa yang fungsi tangga nada kres (#) dan tangga nada mol (b)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-tangga-nada-diantonis-lasim-dan-tangga-nada-tentatonis%e2%80%8b">5.
+                                            jelaskan fungsi tangga nada diantonis lasim dan tangga nada tentatonis​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-dari-rumah-tangga-pemerintah">6.
+                                            Apa fungsi dari rumah tangga pemerintah?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-sudut-tangga%e2%80%8b">7.
+                                            fungsi sudut tangga​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ciri-ciri-fungsi-tangga">8.
+                                            ciri ciri fungsi tangga??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-sungai-bagi-rumah-tangga">9.
+                                            Fungsi Sungai bagi rumah tangga?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ciri-ciri-utama-fungsi-konsumsi-rumah-tangga-dan-hubungan-antara-fungsi-konsumsi-rumah-tangga-dengan-fungsi-konsumsi-tabungan%e2%80%8b">10.
+                                            Ciri ciri utama fungsi konsumsi rumah tangga dan hubungan antara fungsi konsumsi rumah tangga dengan fungsi konsumsi tabungan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-teknologi-rumah-tangga%e2%80%8b">11.
+                                            apa fungsi teknologi rumah tangga?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-dari-tangga-nada">12.
+                                            fungsi dari tangga nada</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-tangga-dalam-bahasa-inggris">13.
+                                            apa fungsi tangga dalam bahasa inggris</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-tak-fungsi-tangga-nada-kromatik-adalah-untuk%e2%80%8b">14.
+                                            fungsi tak fungsi tangga nada kromatik adalah untuk​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-rumah-tangga-pemerintah%e2%80%8b">15.
+                                            Apa Fungsi rumah tangga pemerintah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-peran-dan-fungsi-rumah-tangga-konsumsi-dan-rumah-tangga-produksi">16.
+                                            Jelaskan peran dan fungsi Rumah tangga konsumsi dan Rumah tangga produksi?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-fungsi-tangga-nada">17.
+                                            Apakah Fungsi tangga nada?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yg-fungsi-tangga-nada-kress-dan-tangga-mol-b%e2%80%8b">18.
+                                            apa yg fungsi tangga nada kress (#)  dan tangga mol (b)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-fungsi-tangga-nada-diantonis-lasim-dan-tangga-nada-tentatonis%e2%80%8b">19.
+                                            jelaskan fungsi tangga nada diantonis lasim dan tangga nada tentatonis​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-timbangan-rumah-tangga-%e2%80%8b">20.
+                                            fungsi timbangan rumah tangga.  ?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-fungsi-keuangan-dalam-rumah-tangga">21.
+                                            apakah fungsi keuangan dalam rumah tangga?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-tangga-nada">22.
+                                            apa fungsi tangga nada</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-tangga-bangunan">23.
+                                            Fungsi tangga bangunan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kegunaan-dan-fungsi-tangga-nada">24.
+                                            kegunaan dan fungsi tangga nada?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-dari-tangga-birama">25.
+                                            apa fungsi dari tangga birama</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-tanggai-bagi-penari%e2%80%8b">26.
+                                            apa fungsi tanggai bagi penari​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-tangga-dalam-bahasa-inggris">27.
+                                            Apa fungsi tangga dalam bahasa inggris</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-sungai-bagi-rumah-tangga">28.
+                                            Fungsi sungai bagi rumah tangga?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsinya-naik-turun-tangga">29.
+                                            Apa fungsinya naik turun tangga</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-sungai-dalam-rumah-tangga">30.
+                                            fungsi sungai dalam rumah tangga</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-tangga-nada-kres-dan-tangga-nada-molb">31.
+                                            Apa fungsi tangga nada kres(#) dan tangga nada mol(b)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-tangga-nada-adalah">32.
+                                            FUNGSI TANGGA NADA ADALAH</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-daripada-tetracord-dalam-tangga-nada-adalah%e2%80%8b">33.
+                                            fungsi daripada tetracord dalam tangga nada adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-railing-tangga">34.
+                                            Fungsi Railing Tangga</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-fungsi-tangga-nada-kres-dan-tangga-nada-mol-b-%e2%80%8b">35.
+                                            apa yang fungsi tangga nada kres (#) dan tangga nada mol (b).......​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-tangga-nada-pada-keyboard-apa-bisa-buat-apa%e2%80%8b">36.
+                                            FUNGSI TANGGA NADA PADA KEYBOARD APA BISA BUAT APA?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-rumah-tangga-konsumen-itu-apa">37.
+                                            Fungsi rumah tangga konsumen itu apa?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-fungsi-magicom-bagi-rumah-tangga">38.
+                                            Apa fungsi Magicom bagi rumah tangga</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-tangga-tradisional">39.
+                                            fungsi tangga tradisional</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#definisi-fungsi-tangga">40.
+                                            definisi fungsi tangga</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="kapan-rumah-tangga-keluarga-berfungsi-sebagai-konsumen-dan-kapan-rumah-tangga-keluarga-berfungsi-sebagai-produsen">
+                            1. kapan rumah tangga keluarga berfungsi sebagai konsumen? dan kapan rumah tangga keluarga berfungsi sebagai produsen?</h2><br />
+                        kapan rumah tangga keluarga yg berperan sebagai konsumen adalah pada saat rumah tangga keluarga membeli suatu barang yang di produksi seperti:membeli bahan dapur, alat rumah tangga <br />kapan rumah tangga keluarga yg berperan sebagai produsen adalah pada saat mereka menjual suatu barang produk yang mereka pasarkan seperti:makanan dan cemilan dan dll<br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-dari-tangga">
+                            2. Apa fungsi dari tangga?</h2><br />
+                        Untuk menjangkau tempat yg lebih tinggi dari tempat yg lebih rendah<br />semoga bermanfaatuntuk membantu kita turun dan naik ketempat yang lebih tinggi maupun rendah #Maaf kalo salah<br />
+                                            <h2 class="ez-toc-section" id="fungsi-tangga-tradisional">
+                            3. Fungsi tangga tradisional</h2><br />
+                        Mengenang atau menghargai alat2 traditional atau barang2 traditional<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-fungsi-tangga-nada-kres-dan-tangga-nada-mol-b%e2%80%8b">
+                            4. apa yang fungsi tangga nada kres (#) dan tangga nada mol (b)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>kres digunakan untuk menaiki nada setengah,mol digunakan untuk menurunkan nada setengah </p><p><strong>Penjelasan:</strong></p><p>jangan lupa difolow</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-tangga-nada-diantonis-lasim-dan-tangga-nada-tentatonis%e2%80%8b">
+                            5. jelaskan fungsi tangga nada diantonis lasim dan tangga nada tentatonis​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pentatonic scale atau tangga nada pentatonis merupakan tangga nada lima nada. Tangga nada ini memiliki jenis lima nada yang berbeda.</p><p></p><p>Tangga nada pentatonis dianggap mewakili tahapan awal perkembangan musik. Karena hampir bisa ditemukan di sebagian musik dunia.</p><p>Diatonic scale atau tangga nada diatonik merupakan tangga nada yang memiliki tujuh nada.</p><p>Diperkirakan tangga nada ini muncul pada sekitar abad pertengahan serta zaman Renaisans. Secara perlahan tangga nada diatonis mulai muncul.</p><p></p><p>Tangga nada diatonis dibagi menjadi dua jenis, yaitu:</p><p></p><p>Tangga nada mayor</p><p>Tangga nada ini memiliki tujuh not dan jarak intervalnya adalah 1-1-1/2-1-1-1-1/2. </p><p>Tangga nada minor</p><p>Tangga nada ini memiliki delapan not dan jarak intervalnya adalah 1-1/2-1-1-1/2-1-1. </p><p></p><p><strong>Penjelasan:</strong></p><p>hai kawan (｡•̀ᴗ-)✧</p><br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-dari-rumah-tangga-pemerintah">
+                            6. Apa fungsi dari rumah tangga pemerintah?</h2><br />
+                        Fungsi Rumah Tangga Pemerintah adalah sebagai penyedia barang dan jasa untuk RTK maupu RTP seperti,PLN ,pt.KAI dll dan juga sebagai pengawas berjalannya ekonomi di suatu negara<br />
+                                            <h2 class="ez-toc-section" id="fungsi-sudut-tangga%e2%80%8b">
+                            7. fungsi sudut tangga​</h2><br />
+                        utk membuat keseimbangan tangga. maaf kalausalah<br />
+                                            <h2 class="ez-toc-section" id="ciri-ciri-fungsi-tangga">
+                            8. ciri ciri fungsi tangga??</h2><br />
+                        untuk ke atap, atau ke tempat yang tinggi1 membantu untuk memanjat<br />2 untuk membenarkan sesuatu seperti antena,kabel <br />
+                                            <h2 class="ez-toc-section" id="fungsi-sungai-bagi-rumah-tangga">
+                            9. Fungsi Sungai bagi rumah tangga?</h2><br />
+                        bisa untuk mandi dan mencuci Manfaat sungai bagi Rumah tangga:<br />1. Sebagai sumber air pengairan <br />2. Sumber bangunan seperti pasir , kerikil dan batu kali<br />3. Sarana lalu lintas air<br />4. Sarana budidaya perikanan darat<br />5. pembangkit tenaga listrik (PLTA)<br />. 6Sarana kebutuhan rumah tangga seperti mandi , cuci dan kakus ( MCK)<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="ciri-ciri-utama-fungsi-konsumsi-rumah-tangga-dan-hubungan-antara-fungsi-konsumsi-rumah-tangga-dengan-fungsi-konsumsi-tabungan%e2%80%8b">
+                            10. Ciri ciri utama fungsi konsumsi rumah tangga dan hubungan antara fungsi konsumsi rumah tangga dengan fungsi konsumsi tabungan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Fungsi konsumsi menggambarkan hubungan konsumsi rumahtangga dan pendapatan nasional dalam perekonomian. </p><p></p><p>Ciri fungsi konsumsi:</p><p>-Fungsi konsumsi sangat dipengaruhi budaya berhemat, distribusi pendapatan, tingkat perekonomian secara umum, suku bunga, dan kekayaan yang dimiliki.</p><p></p><p>Hubungan konsumsi dan tabungan: Konsumsi berbanding terbalik dengan fungsi tabunga, semakin besar tabungan maka akan semakin kecil konsumsi yang dilakukan.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-teknologi-rumah-tangga%e2%80%8b">
+                            11. apa fungsi teknologi rumah tangga?​</h2><br />
+                        <p><strong>Jawaban:teknologi rumah tangga mengenal penggunaan ilmu terapan membangun rumah untuk mencapai tujuan tertentu, seperti efisiensi energi atau swasembada.</strong></p><p></p><p><strong>Penjelasan:</strong></p><p></p><p><strong>Jawaban:</strong></p>Pendahuluan:BismilahirahmanirahimPenjelasan:<strong>f</strong><strong>u</strong><strong>n</strong><strong>g</strong><strong>s</strong><strong>i</strong><strong>n</strong><strong>y</strong><strong>a</strong><strong> </strong><strong>a</strong><strong>d</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>h</strong><strong> </strong><strong>u</strong><strong>n</strong><strong>t</strong><strong>u</strong><strong>k</strong><strong> </strong><strong>m</strong><strong>e</strong><strong>m</strong><strong>u</strong><strong>m</strong><strong>u</strong><strong>d</strong><strong>a</strong><strong>h</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>p</strong><strong>e</strong><strong>k</strong><strong>e</strong><strong>r</strong><strong>j</strong><strong>a</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>d</strong><strong>s</strong><strong>l</strong><strong>a</strong><strong>m</strong><strong> </strong><strong>r</strong><strong>u</strong><strong>m</strong><strong>a</strong><strong>h</strong><strong> </strong><strong>t</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>g</strong><strong>a</strong><p><strong>R</strong><strong>i</strong><strong>n</strong><strong>c</strong><strong>i</strong><strong>a</strong><strong>n</strong><strong>:</strong></p><strong>J</strong><strong>a</strong><strong>d</strong><strong>i</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>b</strong><strong>a</strong><strong>i</strong><strong>k</strong><strong>:</strong><strong>)</strong><p></p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-dari-tangga-nada">
+                            12. fungsi dari tangga nada</h2><br />
+                        untuk memudahkan kita meletakkan not-not tersebutmengatur melodi lagu....<br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-tangga-dalam-bahasa-inggris">
+                            13. apa fungsi tangga dalam bahasa inggris</h2><br />
+                        Fungsi tangga pada bahasa inggris dapat membuat kita agar cepat mendapat jawabannyaTangga jenis ini terdiri dari anak-anak tangga
+ yang memiliki tinggi yang sama. Tangga dapat berbentuk lurus, huruf 
+"L", huruf "U" , memutar atau merupakan dari kombinasinya. 
+Komponen-komponen dari tangga antara lain adalah tinggi injakan(riser), lebar injakan/kedalaman (tread), bordes (landing), nosing, pegangan tangan (handrail) dan bidang pengaman (balustrade).
+ Contoh dari penggunaan tangga ini misalnya seperti yang kita temui pada
+ bangunan rumah tinggal atau perkantoran, "tangga monyet", dsb.<br /><br />
+                                            <h2 class="ez-toc-section" id="fungsi-tak-fungsi-tangga-nada-kromatik-adalah-untuk%e2%80%8b">
+                            14. fungsi tak fungsi tangga nada kromatik adalah untuk​</h2><br />
+                        <p></p><p><strong>Penjelasan:</strong></p><p></p><p></p><p>Tanda kromatis adalah suatu tanda yang berfungsi untukmenaikkanatau menurunkan setengah nada, ataumengembalikannada yang telah dinaikkan atau diturunkan itu kembali ke nada asal.</p><p></p><p>Bagian tanda kromatis :</p><p></p><p>a.Tanda KRES (#) berfungsi untuk menaikkan setengah (1/2) nada,</p><p></p><p>misalnya : nada C di kres menjadi CIS.</p><p></p><p>b.Tanda MOL berfungsi untuk menurunkan setengah (1/2) nada,</p><p></p><p>misalnya : nada C di mol menjadi CES.</p><p></p><p>c.Tanda PUGAR berfungsi untuk mengembalikan ke nada asal,</p><p></p><p>misalnya: nada CIS di pugar menjadi C.</p><p></p><p><strong>maaf</strong><strong> </strong><strong>kalo</strong><strong> </strong><strong>salah</strong></p><br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-rumah-tangga-pemerintah%e2%80%8b">
+                            15. Apa Fungsi rumah tangga pemerintah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>∆</strong><strong> </strong><strong>Meningkatkan</strong><strong> </strong><strong>kesejahteraan</strong><strong> </strong><strong>masyarakat</strong><strong> </strong></p><p><strong>∆</strong><strong> </strong><strong>Menjaga</strong><strong> </strong><strong>stabilitas</strong><strong> </strong><strong>Ekonomi</strong><strong> </strong><strong>negara</strong><strong> </strong></p><p><strong>∆</strong><strong> </strong><strong>Meningkatkan</strong><strong> </strong><strong>pertumbuhan</strong><strong> </strong><strong>ekonomi</strong><strong> </strong></p><p><strong>Penjelasan:</strong></p><p><strong>Semoga</strong><strong> </strong><strong>membantu</strong><strong> </strong></p><p>1. pengatur atau regulator dalam perekonomian. </p><p>Regulasi dan aturan yang dibuat oleh pemerintah antara lain berupa pemberian subsidi pada perusahaan dalam negeri.</p><p>2. konsumen</p><p>rumah tangga pemerintah juga memiliki peran sebagai konsumen, dimana fungsinya sebagai pengatur, pemerintah membutuhkan sarana dan prasarana penunjang, yang dibeli dari rumah tangga perusahaan/ produsen</p><p>3. produsen</p><p>pemerintah juga berperan sebagai produsen.</p><p>fungsinya pemerintah memproduksi barang dan jasa utnuk masyarakat</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-peran-dan-fungsi-rumah-tangga-konsumsi-dan-rumah-tangga-produksi">
+                            16. Jelaskan peran dan fungsi Rumah tangga konsumsi dan Rumah tangga produksi?</h2><br />
+                        <p>3 peran rumah tangga konsumsi (konsumen) adalah :</p><p></p><p>Mengonsumsi atau mengurangi nilai guna satu barang atau jasa yang dihasilkan oleh RTP</p><p>Menyediakan dan menjual faktor-faktor produksi kepada RTP</p><p>Mendapatkan timbal balik dari RTP atas faktor-faktor yang diberikan</p><p>3 peran rumah tangga produksi (produsen) adalah :</p><p></p><p>Memproduksi atau menghasilkan serta menambah nilai guna suatu barang atau jasa yang akan dijual ke RTK</p><p>Mendapatkan pembayaran atas barang dan jasa yang telah diproduksi</p><p>Memberli faktor-faktor produksi agar dapat menghasikan barang/jasa dari RTK</p><p>Memberikan timbal balik yang sesuai atas aktor-faktor produksi yang telah disediakan\</p><p>Pembahasan</p><p>Kegiatan ekonomi memerlukan adanya sesorang atau sekelompok orang maupun organisasi untuk menjalankan kegiatan ekonomi, hal itu berupa kegiatan produksi, konsumsi, dan distribusi. Dalam hal ini, pelaku ekonomi digolongkan menjadi 4 jenis, yaitu</p><p></p><p>Rumah tangga produsen/pemerintah (RTP)</p><p>Rumah tangga konsumen (RTK)</p><p>Rumah tangga pemerintah</p><p>Masyarakat luar negeri</p><p>Jika diliat pada bagan yang ada pada gambar diatas, maka sangat jelas terlihat bahwa RTP dan RTK saling berhubungan dalam menjalankan peran mereka, mereka saling mebutuhkan satu sama lian baik di pasar input maupun pasar otput.</p><p></p><p>Pada pasar input, RTK akan memberikan faktor-faktor produksi kepada RTP untuk digunakan sebagai bahan produksi. Faktor-faktor itu diantaranya adakah Sumber Daya Alam, Tenaga Kerja, Kewirausahaan, dan modal. Sementara itu, RTP akan memberikan timbal balik kepada RTK berupa RWIP, yaitu Rent (sewa) untuk SDA, Wage (upah) untuk tenaga kerja, Interest (bunga) untuk modal, dan Profit (keuntungan) untuk kewirausahaan. Dari sinilah RTK akan mendapatkan penghasilan</p><p></p><p>Sedangkan pada pasar output, RTP akan mulai memproduksi barang/jasa dan menjualnya ke psar. DI pasar ini, RTP akan membli barang/jasa yang telah diproduksi untuk di konsumsi. Sebagai balasannya, RTK akan memberikan pembayaran kepada RTP. Dari sinilah RTP mendapatkan penghasilan mereka.</p><p></p><p></p><p></p><p><strong>Jawaban:</strong></p><p></p><p>Rumah tangga produsen menghasilkan barang dan jasa yang diperlukan oleh masyarakat dan juga pemerintah,</p><p> sedangkan rumah tangga konsumen sebagai pemilik.</p><p></p><p> faktor produksi dan rumah tangga pemerintah, sebagai pengatur regulasi yang sumber pendapatannya berasal dari pajak yang dibayar oleh rumah tangga konsumen. </p><p></p><p></p><p><strong>M</strong><strong>a</strong><strong>a</strong><strong>f</strong><strong> </strong><strong>b</strong><strong>i</strong><strong>l</strong><strong>a</strong><strong> </strong><strong>s</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>h</strong></p><p><strong>m</strong><strong>o</strong><strong>h</strong><strong>o</strong><strong>n</strong><strong> </strong><strong>j</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>d</strong><strong>i</strong><strong> </strong><strong>h</strong><strong>a</strong><strong>p</strong><strong>u</strong><strong>s</strong></p><p><strong>s</strong><strong>e</strong><strong>m</strong><strong>o</strong><strong>g</strong><strong>a</strong><strong> </strong><strong>j</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>i</strong><strong>n</strong><strong>i</strong><strong> </strong><strong>m</strong><strong>e</strong><strong>m</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong>t</strong><strong>u</strong></p><br />
+                                            <h2 class="ez-toc-section" id="apakah-fungsi-tangga-nada">
+                            17. Apakah Fungsi tangga nada?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>untuk mengetahui/mengatur tinggi atau rendahnya suatu nada</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yg-fungsi-tangga-nada-kress-dan-tangga-mol-b%e2%80%8b">
+                            18. apa yg fungsi tangga nada kress (#)  dan tangga mol (b)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>kress menaikkan setengah nada</p><p>mol menurunkan setengah nada</p><p><strong>Jawaban:</strong></p><p>krees menaikan setengah nada</p><p>mol menurunkan setengah nada</p><p><strong>Penjelasan:</strong></p><p>MAAF KLO SALAH</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-fungsi-tangga-nada-diantonis-lasim-dan-tangga-nada-tentatonis%e2%80%8b">
+                            19. jelaskan fungsi tangga nada diantonis lasim dan tangga nada tentatonis​</h2><br />
+                        <p><strong>Jawaban: Maaf kalau salah..</strong></p><p><strong>Nada diatonis</strong> adalah nada yang memiliki tujuh nada primer dan satu nada lainnya merupakan pengulangan dari nada pertama. Interval jarak dua tangga nada adalah satu dan setengah. Contoh dari tangga nada diatonis adalah do, re, mi, fa, sol, la, si, do.</p><p><strong>Nada pentatonis</strong> adalah nada yang memiliki lima nada berbeda. Nada ini dibedakan menjadi dua jenis yaitu, pelog dan slendro:</p><p></p><p><strong>Tangga nada pelog</strong> Tangga nada pelog memiliki sifat karakteristik musik yang tenang dan bersifat hormat. Pelog memiliki lima tangga nada primer, yaitu do, mi, fa, sol, si. </p><p>Contoh lagu daerah dengan tangga nada pelog adalah: </p><p>Lagu Gundul-Gundul Pacul, yang berasal dari Jawa Tengah. </p><p>Lagu Pitik Tukung, yang berasal dari Jawa Tengah.</p><p> Lagu Ngusak Asing, yang berasal dari Bali. </p><p>Lagu Macepet Cepetan, yang berasal dari Bali.</p><p> Lagu Karatangan Pahlawan, yang berasal dari Jawa Barat. </p><p></p><p><strong>Tangga nada slendro</strong> Tangga nada slendro memiliki karakterisitik musik yang gembira, lincah dan menyenangkan. Slendro memiliki lima tangga nada primer, yaitu do, re, mi, sol, la. </p><p>Contoh lagu daerah dengan tangga nada slendro adalah: </p><p>Lagu Lir Ilir, yang berasal dari Jawa Tengah. </p><p>Lagu Cublak-Cublak Suweng, yang berasal dari Jawa Tengah. </p><p>Lagu Te Kate Dipanah, yang berasal dari Jawa Tengah. </p><p>Lagu Kerraban Sape, yang berasal dari Jawa Tengah. </p><p>Lagu Cing Cangkeling, yang berasal dari Jawa Barat.
+</p><p>
+</p><p></p><p></p><p><strong></strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-timbangan-rumah-tangga-%e2%80%8b">
+                            20. fungsi timbangan rumah tangga.  ?​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>timbangan adalah untuk mengetahui bobot benda,baik itu timbangan laboratorium,di dapur, industri atau pabrik,toko emas,gudang beras dll.</p><br />
+                                            <h2 class="ez-toc-section" id="apakah-fungsi-keuangan-dalam-rumah-tangga">
+                            21. apakah fungsi keuangan dalam rumah tangga?</h2><br />
+                        Fungsi =&gt;<br />Untuk memenuhi kebutuhan hidup<br />untuk modal daganguntuk membantu memenuhi kebutuhan hidup rumah tangga seseorang !!! Seperti kebutuhan pokok dan kebutuhan primer <br /><br />semoga membantu !:)<br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-tangga-nada">
+                            22. apa fungsi tangga nada</h2><br />
+                        bunyi nada yang ada di dalam not musik dalam laguUntuk mengatur nada yang dinyanyikan<br /><br />
+                                            <h2 class="ez-toc-section" id="fungsi-tangga-bangunan">
+                            23. Fungsi tangga bangunan</h2><br />
+                        untuk berjalan turun atau naik ketempat tujuan<br />mohon mafff kalau saya keliru<br />
+                                            <h2 class="ez-toc-section" id="kegunaan-dan-fungsi-tangga-nada">
+                            24. kegunaan dan fungsi tangga nada?</h2><br />
+                        untuk mengatur/tingginya suatu nada(^O^)agar kita mengetahui yang mana nada rendah,sedang dan tinggi<br /><br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-dari-tangga-birama">
+                            25. apa fungsi dari tangga birama</h2><br />
+                        dana kita mulai menyanyikan lagu tersebuttanda birama berfungsi untuk menentukan dmn kita mulai menyanyikan lagu tersebut<br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-tanggai-bagi-penari%e2%80%8b">
+                            26. apa fungsi tanggai bagi penari​</h2><br />
+                        <p>Tarian tanggai merupakan salah satu jenis tarian yang diperuntukkan sebagai sambutan selamat datang dari daerah Palembang. Meskipun dalam sejarahnya fungsi tarian ini dulunya dijadikan sebagai tarian sakral namun saat ini keberadaannya lebih mengarah sebagai hiburan dan sambutan bagi tamu kehormatan.</p><br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-tangga-dalam-bahasa-inggris">
+                            27. Apa fungsi tangga dalam bahasa inggris</h2><br />
+                        to help climb to the top<br />
+                                            <h2 class="ez-toc-section" id="fungsi-sungai-bagi-rumah-tangga">
+                            28. Fungsi sungai bagi rumah tangga?</h2><br />
+                        biasanya untuk mck(mandi, cuci, kakus)1. Sebagai sumber air pengairan <br />2. Sumber bangunan seperti pasir , kerikil dan batu kali<br />3. Sarana lalu lintas air<br />4. Sarana budidaya perikanan darat<br />5. pembangkit tenaga listrik (PLTA)<br />6. Sarana kebutuhan rumah tangga seperti mandi , cuci dan kakus ( MCK)<br />semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="apa-fungsinya-naik-turun-tangga">
+                            29. Apa fungsinya naik turun tangga</h2><br />
+                        dapat memperlancar peredaran darah.<br />dapat menambah umur selama 4 detik (mitosnya sih gitu)untuk melatih kelincahan<br />
+                                            <h2 class="ez-toc-section" id="fungsi-sungai-dalam-rumah-tangga">
+                            30. fungsi sungai dalam rumah tangga</h2><br />
+                        fungsi sungai dalam rumah tangga sebagai pengairan , pembuangan sampah dapur.<br /><br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-tangga-nada-kres-dan-tangga-nada-molb">
+                            31. Apa fungsi tangga nada kres(#) dan tangga nada mol(b)</h2><br />
+                        Kres (#) dan mol (b) adalah salah satu dari macam tanda kromatis, Kres (#) adalah tanda untuk menaikkan not sebanyak 1/2 nada yg diberi akhiran IS.<br /><br />Mol (b) adalah tanda untuk menurunkan not sebanyak 1/2 nada yg diberikan akhiran ES.<br />
+                                            <h2 class="ez-toc-section" id="fungsi-tangga-nada-adalah">
+                            32. FUNGSI TANGGA NADA ADALAH</h2><br />
+                        untuk menentukan tinggi rendahnya nada<br />
+                                            <h2 class="ez-toc-section" id="fungsi-daripada-tetracord-dalam-tangga-nada-adalah%e2%80%8b">
+                            33. fungsi daripada tetracord dalam tangga nada adalah​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>berfungsi sebagai formula untuk menentukan susunan tangga nada mayor diatonis lainnya</p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-railing-tangga">
+                            34. Fungsi Railing Tangga</h2><br />
+                        alat pengaman dan juga sebagai penyangga saat seseorang naik / turun dari sebuah tangga<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-fungsi-tangga-nada-kres-dan-tangga-nada-mol-b-%e2%80%8b">
+                            35. apa yang fungsi tangga nada kres (#) dan tangga nada mol (b).......​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Apa fungsi tangga nada kres(#) dan tangga nada mol(b)</p><p>Kres (#) dan mol (b) adalah salah satu dari macam tanda kromatis, Kres (#) adalah tanda untuk menaikkan not sebanyak 1/2 nada yg diberi akhiran IS. Mol (b) adalah tanda untuk menurunkan not sebanyak 1/2 nada yg diberikan akhiran ES</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-tangga-nada-pada-keyboard-apa-bisa-buat-apa%e2%80%8b">
+                            36. FUNGSI TANGGA NADA PADA KEYBOARD APA BISA BUAT APA?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tangga nada pada keyboard menunjukan tingkat oktaf yang sesuai pada nada yang diharapkan</p><p><strong>Penjelasan:</strong></p><p>tergantung pada nada dasar yg dipakai dan ketinggian oktaf yang diharapkan</p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-rumah-tangga-konsumen-itu-apa">
+                            37. Fungsi rumah tangga konsumen itu apa?</h2><br />
+                        penyedia faktor produksi dan sebagai konsumen / pengguna hasil produksipenyedia faktor produksi dan sebagai konsumen/pengguna hasil produksi<br />
+                                            <h2 class="ez-toc-section" id="apa-fungsi-magicom-bagi-rumah-tangga">
+                            38. Apa fungsi Magicom bagi rumah tangga</h2><br />
+                        magicom dirumah tangga sebagai alat penanak nasi, dari beras menjadi nasi<br />untuk memasak nasi<br />semoga membantu ☺ <br /><br />
+                                            <h2 class="ez-toc-section" id="fungsi-tangga-tradisional">
+                            39. fungsi tangga tradisional</h2><br />
+                        mungkin untuk naik ke tempat yang lebih tinggi<br />
+                                            <h2 class="ez-toc-section" id="definisi-fungsi-tangga">
+                            40. definisi fungsi tangga</h2><br />
+                        Fungsi Tangga<br /><br />Dinyatakan dengan y = f(x) = |_ x _| , adalah fungsi yang menyatakan nilai bilangan bulat terbesar yang kurang dari atau sama dengan x<br /><br />Contoh 1<br /><br />Tentukan nilai dari |_ 2 _| + |_ 2,1 _| + |_ 2,2 _| + . . .  + |_ 2,9 _| = … .<br /><br />Jawab :<br /><br />|_ 2 _| = 2<br /><br />|_ 2,1 _| = 2<br /><br />|_ 2,2 _| = 2<br /><br />|_ 2,3 _| = 2<br /><br />dst<br /><br />|_ 2,8 _| = 2<br /><br />|_ 2,9 _| = 2<br /><br />_____________  +<br /><br />2 x 10 = 20<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/AZPVsIz-ybg?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ips</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sinonim-klasifikasi/">Sinonim Klasifikasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/www-ladzidzan-ice-bakery-com/">Www Ladzidzan Ice bakery Com</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bahasa-inggris-pete/">Bahasa Inggris Pete</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/arti-nama-syahrul/">Arti Nama Syahrul</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/istilah-pantomim-berasal-dari-bahasa-yunani-yang-artinya/">Istilah Pantomim Berasal Dari Bahasa Yunani Yang Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/alat-yg-berfungsi-untuk-mengupas-kabel-adalah/">Alat Yg Berfungsi Untuk Mengupas Kabel Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pemes-adalah/">Pemes Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/buah-j/">Buah J</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dewasa-ini/">Dewasa Ini</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/antonim-delusi/">Antonim Delusi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/6-6-6/">6 6 6</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ular-bergerak-dengan/">Ular Bergerak Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5-kg-sama-dengan-berapa-hg/">5 Kg Sama Dengan Berapa Hg</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pencipta-lagu-memandang-alam-adalah/">Pencipta Lagu Memandang Alam Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apakah-yang-dimaksud-dengan-passing/">Apakah Yang Dimaksud Dengan Passing</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ciri-ciri-ember-plastik/">Ciri Ciri Ember Plastik</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-itu-koreografer/">Apa Itu Koreografer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/rumus-luas/">Rumus Luas</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fungsi-laring/">Fungsi Laring</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/istinja-adalah/">Istinja Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

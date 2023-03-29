@@ -1,0 +1,1275 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Diketahui Barisan Aritmatika - BELAJAR</title>
+    <meta name="description" content="Diketahui Barisan Aritmatika, , , , , , , 0, diketahui barisan aritmatika U7=8 dan U16=44 suku ke 20 barisan, brainly.co.id, 2064 x 1399, jpeg, , 20, diketahui-barisan-aritmatika, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Diketahui Barisan Aritmatika - BELAJAR" />
+    <meta property="og:description" content="Diketahui Barisan Aritmatika, , , , , , , 0, diketahui barisan aritmatika U7=8 dan U16=44 suku ke 20 barisan, brainly.co.id, 2064 x 1399, jpeg, , 20, diketahui-barisan-aritmatika, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Diketahui Barisan Aritmatika - BELAJAR" />
+    <meta name="twitter:description" content="Diketahui Barisan Aritmatika, , , , , , , 0, diketahui barisan aritmatika U7=8 dan U16=44 suku ke 20 barisan, brainly.co.id, 2064 x 1399, jpeg, , 20, diketahui-barisan-aritmatika, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Diketahui Barisan Aritmatika</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">carijawabandib40</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Diketahui+Barisan+Aritmatika" alt="Diketahui Barisan Aritmatika">
+                    </div>
+                    <p></p>
+                    <p>diketahui baris aritmatika 3,5,7 beda dari barisan aritmatika tersebut adalah​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-baris-aritmatika-357-beda-dari-barisan-aritmatika-tersebut-adalah%e2%80%8b">1.
+                                            diketahui baris aritmatika 3,5,7 beda dari barisan aritmatika tersebut adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-7911131517-beda-barisan-aritmatika-tersebut-adalah">2.
+                                            Diketahui barisan aritmatika 7,9,11,13,15,17,... Beda barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-1357911-beda-barisan-aritmatika-tersebut-adalah">3.
+                                            Diketahui barisan aritmatika 1,3,5,7,9,11,.. beda barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-7911-131517-beda-barisan-aritmatika-tersebut-adalah">4.
+                                            diketahui barisan aritmatika 7,9,11 13,15,17 beda barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-105111117123129-a-tuliskn-suku-pertama-dan-beda-barisan-aritmatika-tersebut-b-carilah-suku-ke-36dari-barisan-aritmatika-tersebut">5.
+                                            Diketahui barisan aritmatika 105,111,117,123,129,... A.Tuliskn suku pertama dan beda barisan aritmatika tersebut B.Carilah suku ke-36dari barisan aritmatika tersebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-4-125%e2%80%a6-tentukan-beda-dari-barisan-aritmatika-tersebut%e2%80%8b">6.
+                                            diketahui barisan aritmatika -4,-1,2,5… tentukan beda dari barisan aritmatika tersebut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-0369-suku-pertama-dan-beda-barisan-aritmatika-tersebut-adalah-%e2%80%8b">7.
+                                            diketahui barisan aritmatika 0,3,6,9.........suku pertama dan beda barisan aritmatika tersebut adalah...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-7111519-besar-suku-ke-32-dari-barisan-aritmatika-tersebut-adalah">8.
+                                            Diketahui barisan aritmatika : 7,11,15,19... besar suku ke 32 dari barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-berikut101316192225a-jenis-barisan-aritmatikab-suku-kedua-belas-barisan-tersebut">9.
+                                            Diketahui barisan Aritmatika berikut,10,13,16,19,22,25
+a.jenis barisan aritmatika
+b.suku kedua belas barisan tersebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-371115-suku-ke-11-dari-barisan-aritmatika-diatas-adalah%e2%80%8b">10.
+                                            diketahui barisan aritmatika 3,7,11,15, suku ke-11 dari barisan aritmatika diatas adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-15243342-321-banyaknya-suku-dari-barisan-aritmatika-tersebut-adalah">11.
+                                            Diketahui barisan aritmatika 15,24,33,42....321. Banyaknya suku dari barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-1357911-beda-barisan-aritmatika-tersebut-adalah">12.
+                                            Diketahui barisan aritmatika 1,3,5,7,9,11,.. beda barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika%e2%80%8b">13.
+                                            diketahui barisan aritmatika​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-7911131517-beda-barisan-aritmatika-tersebut-adalah-pakai-cara">14.
+                                            diketahui barisan aritmatika 7,9,11,13,15,17,.... beda barisan aritmatika tersebut adalah? pakai cara</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-barisan-aritmatika-diketahui-7-dan-19-suku-ke-8-dari-barisan-aritmatika-tersebut-adalah%e2%80%8b">15.
+                                            Suatu barisan aritmatika diketahui = 7, dan = 19. Suku ke-8 dari barisan aritmatika tersebut adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-bilangan-aritmatika-315913-nilai-b-dari-barisan-aritmatika-tersebut-adalah%e2%80%8b">16.
+                                            diketahui barisan bilangan aritmatika 3,1,5,9,13, nilai b dari barisan aritmatika tersebut adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-0369-suku-ke-10-barisan-aritmatika-tersebut-adalah-%e2%80%8b">17.
+                                            diketahui barisan aritmatika = 0,3,6,9 ....suku ke 10 barisan aritmatika tersebut adalah...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-suatu-barisan-aritmatika-yaitu-455769-maka-tentukan-suku-ke-80-dari-barisan-aritmatika-tersebut">18.
+                                            Diketahui suatu barisan aritmatika yaitu.....,45,57,69,.... Maka tentukan suku ke 80 dari barisan aritmatika tersebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-suku-pertama-dari-suatu-barisan-aritmatika-adalah-4-sedangkan-bedanya-3-suku-yang-nilainya-sama-dengan-68-adalah-suku-ke-2-suku-pertama-dari-barisan-aritmatika-yang-memiliki-adalah-3-diket">19.
+                                            1. Suku pertama dari suatu barisan aritmatika adalah 4, sedangkan bedanya -3. Suku yang nilainya sama dengan -68 adalah suku ke...2.Suku pertama dari barisan aritmatika yang memiliki  adalah...3.Diketahui suatu barisan dengan .  merupakan suku tengah suatu barisan aritmatika. Jika diketahui beda barisan tersebut adalah 13, tentukan suku terakhirnya…4. Dari suatu barisan aritmatika diketahui . Suku ke-8 dari barisan aritmatika tersebut adalah...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-2330374451-beda-barisan-aritmatika-tersebut-adalah">20.
+                                            Diketahui barisan aritmatika 23,30,37,44,51,... Beda barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-791113-suku-ke-32-barisan-aritmatika-tersebut">21.
+                                            Diketahui barisan aritmatika 7,9,11,13 suku ke 32 barisan aritmatika tersebut?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-10152025-tentukan-suku-ke-150-dari-barisan-aritmatika-itu%e2%80%8b">22.
+                                            diketahui barisan aritmatika 10,15,20,25,..., tentukan suku ke 150 dari barisan aritmatika itu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-suatu-barisan-aritmatika-2712-37-banyaknya-suku-pada-barisan-aritmatika-tersebut-adalah">23.
+                                            Diketahui suatu barisan aritmatika 2,7,12,...,37 banyaknya suku pada barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-3101724-suku-ke-20-dari-barisan-aritmatika-tersebut-adalah">24.
+                                            Diketahui barisan aritmatika 3,10,17,24,...... Suku ke-20 dari barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-791113-suku-ke-32-barisan-aritmatika-tersebut">25.
+                                            Diketahui barisan aritmatika 7,9,11,13 suku ke 32 barisan aritmatika tersebut?.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-3813-103maka-banyak-suku-barisan-aritmatika-tersebut-adalah">26.
+                                            diketahui barisan aritmatika 3,8,13,...103maka banyak suku barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-diketahui-barisan-aritmatika%e2%80%8b">27.
+                                            jika diketahui barisan aritmatika​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika44413835-suku-ke-15-dari-barisan-aritmatika-tersebut-adalah">28.
+                                            Diketahui barisan aritmatika:44,41,38,35... suku ke 15 dari barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-diketahui-barisan-aritmatika-8-241016-tentukan-suku-ke-20-dari-barisan-berikut2-diketahui-barisan-aritmatika-108642tentukan-suku-ke-30-dari-barisan-tersebut3-diketahui-barisan-aritmatika-3">29.
+                                            1.diketahui barisan aritmatika -8,-2,4,10,16.tentukan suku ke 20 dari barisan berikut2.diketahui barisan aritmatika 10,8,6,4,2,tentukan suku ke 30 dari barisan tersebut3.diketahui barisan aritmatika 3,10,17,24,31..tentukan suku ke 15 dari barisan tersebut4.diketahui barisan aritmatika 66,60,54,48,42..tentukan suku ke 25 dari barisan tersebuttolong di jawab​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-13711-suku-ke50-barisan-aritmatika-tersebut-adalah">30.
+                                            diketahui barisan aritmatika: -1,3,7,11... suku ke50 barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-diketahui-barisan-aritmatika-suku-ke-2-dan-suku-ke-8-11-dan-35-suku-ke-20-barisan-aritmatika-adalah">31.
+                                             diketahui Barisan diketahui barisan aritmatika suku ke-2 dan suku ke-8 = 11 dan 35. suku ke-20 barisan aritmatika adalah? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-5811141720-beda-barisan-aritmatika-tersebut-adalah%e2%80%8b">32.
+                                            diketahui barisan aritmatika 5,8,11,14,17,20.. beda barisan aritmatika tersebut adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-47101316-tentukanlah-suku-ke-50-dari-barisan-aritmatika-tersebut">33.
+                                            diketahui barisan aritmatika. 4,7,10,13,16. tentukanlah suku ke 50 dari barisan aritmatika tersebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-sebagai-berikut-5791112-tentukan-a-suku-pertamanya-barisan-aritmatika-tersebutb-beda-barisan-aritmatika-tersebutc-suku-ke-10-barisan-aritmatika-tersebut">34.
+                                            Diketahui barisan aritmatika sebagai berikut: 5,7,9,11,12....Tentukan :a. Suku pertamanya barisan aritmatika tersebutb. Beda barisan aritmatika tersebutc. Suku ke 10 barisan aritmatika tersebut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-2468-suku-pertama-dan-beda-barisan-aritmatika-tersebut-adalah-%e2%80%8b">35.
+                                            diketahui barisan aritmatika: 2,4,6,8.. suku pertama dan beda barisan aritmatika tersebut adalah...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-147143139135-tentukan-beda-dari-barisan-aritmatika-tsb%e2%80%8b">36.
+                                            diketahui barisan aritmatika 147,143,139,135 tentukan beda dari barisan aritmatika tsb​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-3579-beda-barisan-aritmatika-tersebut-adalah">37.
+                                            Diketahui barisan aritmatika 3,5,7,9,...Beda barisan aritmatika tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-bilangan-aritmatika-38131823nilai-a-dari-barisan-aritmatika-tersebut-adalah%e2%80%8b">38.
+                                            diketahui barisan bilangan aritmatika :3,8,13,18,23,nilai a dari barisan aritmatika tersebut adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-4245485154-tentukan-suku-ke-12-dari-barisan-aritmatika">39.
+                                            Diketahui barisan aritmatika 42,45,48,51,54,... Tentukan suku ke 12 dari barisan aritmatika</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-barisan-aritmatika-71013161921-suku-ke-10-dari-barisan-aritmatika-tersebut-adalah%e2%80%8b">40.
+                                            diketahui barisan aritmatika 7,10,13,16,19,21 suku ke 10 dari barisan aritmatika tersebut adalah​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="diketahui-baris-aritmatika-357-beda-dari-barisan-aritmatika-tersebut-adalah%e2%80%8b">
+                            1. diketahui baris aritmatika 3,5,7 beda dari barisan aritmatika tersebut adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>lebih mudahnya 5-3= 2, 7-5= 2</p><p>jadi b=2</p><p>maaf klo salah</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-7911131517-beda-barisan-aritmatika-tersebut-adalah">
+                            2. Diketahui barisan aritmatika 7,9,11,13,15,17,... Beda barisan aritmatika tersebut adalah</h2><br />
+                        suku 2- suku 1<br />9-7<br />2 <br />semoga membantuB. 2<br />7+2=9<br />9+2=11<br />11+2=13<br />13+2=15<br />15+2=17<br />17+2=19..........dst.<br />semoga membantu yahhh<br /><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-1357911-beda-barisan-aritmatika-tersebut-adalah">
+                            3. Diketahui barisan aritmatika 1,3,5,7,9,11,.. beda barisan aritmatika tersebut adalah</h2><br />
+                        Jawaban<br />_______<br /><br />1.....3.....5.....7.....9.....11<br /><strong>  +2...+2...+2...+2...+2</strong><br /><strong>(Setiap bilangan selanjutnya ditambah dengan angka dua)</strong><br /><strong>Jadi, Beda dari barisan aritmatika tersebut adalah =&gt; 2.</strong><br /><br /><br />Semoga membantu :)<br />=&gt; Thanks &lt;=1,3,5,7,9,11,....<br />a=1(suku pertama)<br />b=7-5 (beda/rasio)<br />  = 2<br />Jadi, beda barisan pada aritmatika tersebut adalah 2<br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-7911-131517-beda-barisan-aritmatika-tersebut-adalah">
+                            4. diketahui barisan aritmatika 7,9,11 13,15,17 beda barisan aritmatika tersebut adalah</h2><br />
+                        beda nya 2,karena aturannya +2beda barisan 2...............................<br /><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-105111117123129-a-tuliskn-suku-pertama-dan-beda-barisan-aritmatika-tersebut-b-carilah-suku-ke-36dari-barisan-aritmatika-tersebut">
+                            5. Diketahui barisan aritmatika 105,111,117,123,129,... A.Tuliskn suku pertama dan beda barisan aritmatika tersebut B.Carilah suku ke-36dari barisan aritmatika tersebut</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>A .  suku pertama = a = 105</p><p>      beda = b = 111-105=6</p><p></p><p>B.   suku ke-36= 105 + (36-1)(6) </p><p>   = 105 +  35(6) = 105 + 210 = 315</p><p></p><p></p>Jawaban:<p>U36 = 215</p><p></p>Pembahasan:<p><strong>Barisan aritmatika</strong> merupakan suatu barisan bilangan yang mempunyai beda (selisih) yang tetap di antara suku-sukunya yang saling berdekatan, sedangkan <strong>deret aritmatika</strong> merupakan suatu penjumlahan suku ke-n pertama pada barisan aritmatika.</p><p></p>Penyelesaian:<p>Diketahui:</p><p>a = 105</p><p>b = 111 - 105</p><p>   = 6</p><p></p><p>Ditanya: U36 = ?</p><p></p><p>Dijawab:</p><p>U36 = a + (n - 1) × b</p><p>        = 105 + (36 - 1) × 6</p><p>        = 105 + 35 × 6</p><p>        = 105 + 210</p><p>        = 315</p><p></p><p>Jadi, suku ke-36 dari barisan tersebut adalah <strong>3</strong><strong>1</strong><strong>5</strong>.</p><p></p>Detail Jawaban<p>Mapel: MTK</p><p>Kelas: 9 SMP</p><p>Materi: Bab 2 - Barisan dan Derer Bilangan</p><p>Kode Kategorisasi: 9.2.2</p><p>Kata Kunci: Barisan Aritmatika</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-4-125%e2%80%a6-tentukan-beda-dari-barisan-aritmatika-tersebut%e2%80%8b">
+                            6. diketahui barisan aritmatika -4,-1,2,5… tentukan beda dari barisan aritmatika tersebut​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>b=Un-Un-1</p><p>  =U2-U1</p><p>  = -1-(-4)</p><p>  =3</p><p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>beda = U2 - U1</p><p>beda = -1 - (-4)</p><p>beda = 3</p><p>atau beda = U3 - U2</p><p>beda = 2 - (-1)</p><p>beda = 3</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-0369-suku-pertama-dan-beda-barisan-aritmatika-tersebut-adalah-%e2%80%8b">
+                            7. diketahui barisan aritmatika 0,3,6,9.........suku pertama dan beda barisan aritmatika tersebut adalah...​</h2><br />
+                        <p>Jawab:</p><p>suku pertama adalah 0</p><p>beda = 3</p><p>Penjelasan dengan langkah-langkah:</p><p>suku pertama = 0</p><p>beda = 3</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-7111519-besar-suku-ke-32-dari-barisan-aritmatika-tersebut-adalah">
+                            8. Diketahui barisan aritmatika : 7,11,15,19... besar suku ke 32 dari barisan aritmatika tersebut adalah</h2><br />
+                        <p>7, 11, 15, ...</p><p></p><p>a = 7</p><p>b = 11 - 7 = 4</p><p>n = 32</p><p></p><p>Un = a + (n-1)b</p><p>U32 = 7 + (32-1)4 = 131</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-berikut101316192225a-jenis-barisan-aritmatikab-suku-kedua-belas-barisan-tersebut">
+                            9. Diketahui barisan Aritmatika berikut,10,13,16,19,22,25
+a.jenis barisan aritmatika
+b.suku kedua belas barisan tersebut</h2><br />
+                        10,13,16,19,22,25<br />a=10<br />b=3<br />Un=a+(n-1)b<br />U12=10+(12-1)3<br />U12=10+(11)3<br />U12=10+33<br />U12=43<br /><br />semoga membantu :)<br /><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-371115-suku-ke-11-dari-barisan-aritmatika-diatas-adalah%e2%80%8b">
+                            10. diketahui barisan aritmatika 3,7,11,15, suku ke-11 dari barisan aritmatika diatas adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>43</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Un = a + (n - 1) b</p><p>a = 3</p><p>b = 7 - 3 = 4</p><p>n = 11, Maka :</p><p>U11 = 3 + (11 - 1) × 4</p><p>U11 = 3 + (10 × 4)</p><p>U11 = 3 + 40</p><p>U11 = <strong>4</strong><strong>3</strong></p><p></p><p><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong><strong>=</strong></p><strong>M</strong><strong>a</strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>i</strong><strong>S</strong><strong>u</strong><strong>k</strong><strong>u</strong><p></p><p><strong>#</strong><strong>K</strong><strong>u</strong><strong>c</strong><strong>i</strong><strong>n</strong><strong>g</strong><strong>O</strong><strong>r</strong><strong>e</strong><strong>n</strong></p><p><strong>Jawaban:</strong></p><p>43</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>3, 7, 11, 15, ...,</p><p>Bedanya adalah 4.</p><p></p><p>Maka,</p><p>U11: a+(n-1)b</p><p>     : 3+(1+-1)4</p><p>     : 3+ (10)4</p><p>     : 3+ 40</p><p>     : 43</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-15243342-321-banyaknya-suku-dari-barisan-aritmatika-tersebut-adalah">
+                            11. Diketahui barisan aritmatika 15,24,33,42....321. Banyaknya suku dari barisan aritmatika tersebut adalah</h2><br />
+                        <p><strong>Jawab:</strong></p><p>Suku ke 35</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>b = U2 - U1</p><p>b = 24 - 15</p><p>b = 9</p><p></p><p>a = 15</p><p></p><p>Un = 321</p><p>a + (n - 1) . b = 321</p><p>15 + (n - 1) . 9 = 321</p><p>(n - 1) . 9 = 321 - 15</p><p>n - 1 = 306 / 9</p><p>n = 34 + 1</p><p>n = 35</p><p></p><p>Suku ke 35</p><p></p><p>Kode kategorisasi : 9.2.6</p><p>Kelas 9</p><p>Pelajaran 2 - Matematika</p><p>Bab 6 - Barisan dan Deret Bilangan</p><p></p><p></p><strong>Jawaban:</strong><p><strong>n = 35</strong></p><p></p><strong>Penjelasan dengan langkah-langkah:</strong><p>Bar. aritmatika: 15, 24, 33, 42, ... ,321</p><p>a = 15</p><p>b = 9</p><p></p><p>Un = a + (n - 1)b</p><p>321 = 15 + (n - 1)(9)</p><p>306 = 9n - 9</p><p>315 = 9n</p><p><strong>n = 35</strong></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-1357911-beda-barisan-aritmatika-tersebut-adalah">
+                            12. Diketahui barisan aritmatika 1,3,5,7,9,11,.. beda barisan aritmatika tersebut adalah</h2><br />
+                        <p>Diketahui barisan aritmatika 1, 3, 5, 7, 9, 11, ... beda barisan aritmatika tersebut adalah 2.</p><p></p>Pembahasan<p><strong>Barisan Aritmatika</strong> adalah  suatu barisan dengan selisih antara dua suku yang berurutan selalu tetap.</p><p>Rumus : [tex]\boxed{~Un~=~a+(n-1)b~}[/tex]</p><p>Beda =  [tex]U_{n} -U_{n-1}[/tex]</p><p>Deret Aritmatika adalah jumlah suku – suku barisan aritmatika</p><p>Rumus : [tex]\boxed{~Sn~=~\frac{n}{2}(a+Un)~}[/tex]</p><p>Atau [tex]\boxed{~Sn~=~\frac{n}{2}(2a+(n-1)b)~}[/tex]</p><p>Untuk Barisan Aritmatika bertingkat Rumus Umumnya adalah</p><p>[tex]\boxed{~Un~=~an^2+bn+c~}[/tex]</p><p></p>Penyelesaian Soal<p>Diketahui:</p><p>Barisan aritmatika 1, 3, 5, 7, 9, 11, ... .</p><p>Ditanya:</p><p>Beda barisan aritmatika tersebut</p><p>Jawab:</p><p>Beda = Suku ke-2 - Suku pertama </p><p>          = Suku ke-3 - suku ke-2</p><p>          = Suku ke-4 - suku ke-3</p><p>          = Suku ke-n - suku ke-n-1</p><p>          = [tex]U_{n} -U_{n-1}[/tex]</p><p>Beda barisan tersebut = 3 - 1 = 2</p><p></p>Pelajari Lebih LanjutBarisan aritmatika brainly.co.id/tugas/13759951Barisan geometri brainly.co.id/tugas/94600Barisan aritmatika brainly.co.id/tugas/1168886===================Detail Jawaban<p><strong>Kelas </strong>: 9</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Barisan dan Deret</p><p><strong>Kode </strong>: 9.2.2</p><p></p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika%e2%80%8b">
+                            13. diketahui barisan aritmatika​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jika kurang paham bisa ditanyakan</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-7911131517-beda-barisan-aritmatika-tersebut-adalah-pakai-cara">
+                            14. diketahui barisan aritmatika 7,9,11,13,15,17,.... beda barisan aritmatika tersebut adalah? pakai cara</h2><br />
+                        Barisan aritmatika<br /><br />Rumus umum :<br />b = Un - U(n-1)<br /><br />Maka<br />b = U2 - U1<br />b = 9 - 7<br />b = 2beda: 2 <br />caranya : <br />u2-u1 = 9-7<br />
+                                            <h2 class="ez-toc-section" id="suatu-barisan-aritmatika-diketahui-7-dan-19-suku-ke-8-dari-barisan-aritmatika-tersebut-adalah%e2%80%8b">
+                            15. Suatu barisan aritmatika diketahui = 7, dan = 19. Suku ke-8 dari barisan aritmatika tersebut adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Itu =7&amp;=19 nya U keberapa? </p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-bilangan-aritmatika-315913-nilai-b-dari-barisan-aritmatika-tersebut-adalah%e2%80%8b">
+                            16. diketahui barisan bilangan aritmatika 3,1,5,9,13, nilai b dari barisan aritmatika tersebut adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>987652515156711111111</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-0369-suku-ke-10-barisan-aritmatika-tersebut-adalah-%e2%80%8b">
+                            17. diketahui barisan aritmatika = 0,3,6,9 ....suku ke 10 barisan aritmatika tersebut adalah...​</h2><br />
+                        <p>Jawab:</p><p>27</p><p>Penjelasan dengan langkah-langkah:</p><p>Barisan = 0,3,6,9</p><p>a = 0</p><p>b = 3</p><p>Un = a + (n-1) b</p><p>U10 = 0 + (10-1) 3</p><p>U10 = 0 + 9x3</p><p>       = 0 + 27</p><p>       = 27</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-suatu-barisan-aritmatika-yaitu-455769-maka-tentukan-suku-ke-80-dari-barisan-aritmatika-tersebut">
+                            18. Diketahui suatu barisan aritmatika yaitu.....,45,57,69,.... Maka tentukan suku ke 80 dari barisan aritmatika tersebut</h2><br />
+                        <p>U1 = 45-12 = 33</p><p>beda = 12</p><p>U80 = a+79b = 33+79(12) = 33+948 = 981</p><br />
+                                            <h2 class="ez-toc-section" id="1-suku-pertama-dari-suatu-barisan-aritmatika-adalah-4-sedangkan-bedanya-3-suku-yang-nilainya-sama-dengan-68-adalah-suku-ke-2-suku-pertama-dari-barisan-aritmatika-yang-memiliki-adalah-3-diket">
+                            19. 1. Suku pertama dari suatu barisan aritmatika adalah 4, sedangkan bedanya -3. Suku yang nilainya sama dengan -68 adalah suku ke...2.Suku pertama dari barisan aritmatika yang memiliki  adalah...3.Diketahui suatu barisan dengan .  merupakan suku tengah suatu barisan aritmatika. Jika diketahui beda barisan tersebut adalah 13, tentukan suku terakhirnya…4. Dari suatu barisan aritmatika diketahui . Suku ke-8 dari barisan aritmatika tersebut adalah...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Maaf klo salah ya </p><p>Terimakasih </p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-2330374451-beda-barisan-aritmatika-tersebut-adalah">
+                            20. Diketahui barisan aritmatika 23,30,37,44,51,... Beda barisan aritmatika tersebut adalah</h2><br />
+                        <p>jadi.. </p><p>bedanya adalah 7</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-791113-suku-ke-32-barisan-aritmatika-tersebut">
+                            21. Diketahui barisan aritmatika 7,9,11,13 suku ke 32 barisan aritmatika tersebut?</h2><br />
+                        <p>7,9,11,13,...</p><p></p><p>           a = 7</p><p>b = 9 - 7 = 2</p><p></p><p><strong>U32 </strong>= 7 + (32-1) 2</p><p>        = 7 + 31.2</p><p>        = 7 + 62</p><p>        = 69</p><p></p><p>Suku ke 32 barisan aritmatika tersebut adalah <strong>6</strong><strong>9</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-10152025-tentukan-suku-ke-150-dari-barisan-aritmatika-itu%e2%80%8b">
+                            22. diketahui barisan aritmatika 10,15,20,25,..., tentukan suku ke 150 dari barisan aritmatika itu​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p><strong>Penjelasan</strong></p><p><strong>a;10</strong></p><p>B:5</p><p>[tex]un[/tex]:10+{N+a}b</p><p>un;10+{25+10}5</p><p>     :10+35×5</p><p>     :10+175</p><p>jawabanya;185</p><p></p><p><strong>Jawaban:</strong></p><p>755</p><p><strong>Penjelasan:</strong></p><p>Un= a+(n-1)b</p><p>U150= 10+(150-1)5</p><p>U150= 10+149×5</p><p>U150= 10+745</p><p>U150 = 755</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-suatu-barisan-aritmatika-2712-37-banyaknya-suku-pada-barisan-aritmatika-tersebut-adalah">
+                            23. Diketahui suatu barisan aritmatika 2,7,12,...,37 banyaknya suku pada barisan aritmatika tersebut adalah</h2><br />
+                        2,7,12,17,22,27,32,37 ...<br />cuma ditambah 5 aja .. jdi bnyak suku ada 8diketahui suku awal atau a = 2<br />sedangkan perbedaan atau b = 7-2=5<br />jadi dengan memakai rumus suku ke-n bilangan artimatika<br />Un=a+(n-1)b<br />maka 37=2+(n-1)5<br />          35=5n-5<br />          30=5n<br />maka n= 6<br />jadi banyaknya suku pada barisan aritmatika tersebut berjumlah 6 <br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-3101724-suku-ke-20-dari-barisan-aritmatika-tersebut-adalah">
+                            24. Diketahui barisan aritmatika 3,10,17,24,...... Suku ke-20 dari barisan aritmatika tersebut adalah</h2><br />
+                        a = 3<br />b = 7<br /><br />U20 = 3 + 19(7) = 136<br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-791113-suku-ke-32-barisan-aritmatika-tersebut">
+                            25. Diketahui barisan aritmatika 7,9,11,13 suku ke 32 barisan aritmatika tersebut?.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>b = 2</p><p>Un = a + (n-1).b</p><p>U32 = 7 + (32-1).2</p><p>          7 + 31.2</p><p>          7 + 62 = 69</p><p>b = beda dari suatu bilangan ke bilangan yang lain</p><p>a = bilangan pertama dari suatu barisan</p><p><strong>Jawaban:</strong></p><p>Un = a(n+1)b</p><p>U32 = 7 (32-1) 2</p><p>U32 = 7 (31)(2)</p><p>U32 = 7 + 62 </p><p>U32 = 69 #</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-3813-103maka-banyak-suku-barisan-aritmatika-tersebut-adalah">
+                            26. diketahui barisan aritmatika 3,8,13,...103maka banyak suku barisan aritmatika tersebut adalah</h2><br />
+                        <p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>barisan aritmatika.</p><p>Un = a + ( n - 1 )b</p><p></p><p>3 , 8 , 13,  . . .  . .  , 103</p><p>a = 3</p><p>b = 5</p><p>3 + ( n - 1 ) 5 = 103</p><p>3 + 5n - 5 = 103</p><p>5n = 103 - 3 + 5</p><p>5n = 105</p><p>n = 105/5</p><p>n = 21</p><p></p><p></p><p></p><p></p><p></p><p>semoga bisa membantu</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a = 3</p><p>b = 8-3 = 5</p><p>Un = 103</p><p></p><p>n = 1 + (Un - a)/b</p><p></p><p>n = 1 + (103 - 3)/5</p><p></p><p>n = 1 + 100/5</p><p></p><p>n = 21</p><br />
+                                            <h2 class="ez-toc-section" id="jika-diketahui-barisan-aritmatika%e2%80%8b">
+                            27. jika diketahui barisan aritmatika​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>C. 13</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]U_{n}=5-2n\\ -21=5-2n\\-26=-2n\\13=n[/tex]</p><p></p><p>Jadi, -21 adalah suku yang ke <strong>13</strong></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika44413835-suku-ke-15-dari-barisan-aritmatika-tersebut-adalah">
+                            28. Diketahui barisan aritmatika:44,41,38,35... suku ke 15 dari barisan aritmatika tersebut adalah</h2><br />
+                        <p>Diketahui barisan aritmatika: 44, 41, 38, 35 . . .    . suku ke-15 dari barisan aritmatika tersebut adalah [tex]\boxed {\text U_{15}~=~2}[/tex]</p>Pendahuluan<p><strong>Barisan aritmatika</strong> adalah barisan bilangan dengan nilai setiap sukunya didapat dari suku sebelumnya, yaitu didapat dengan cara menjumlahkan atau mengurangkan suatu bilangan tetap. Sedang selisih antara nilai suku-suku yang berdekatan selalu bernilai tetap (sama) dan selanjutnya disebut dengan beda (b).</p>Pembahasan<p>Rumus suku ke-n barisan aritmatika</p><p>[tex]\boxed {\text U_\text n~=~\text a + (\text n - 1)\text b}[/tex]</p><p>Rumus jumlah n suku pada deret aritmatika</p><p>[tex]\boxed {\text S_{\text n} = \frac{\text n}{2} (2\text a + (\text n - 1)\text b)}[/tex] atau [tex]\boxed {\text S_{\text n} = \frac{\text n}{2} ~(\text a + \text U_{\text n})}[/tex]</p><p><strong>Keterangan :</strong></p><p>a = suku awal/suku pertama</p><p>b = beda = [tex]\text U_2 - \text U_1[/tex]</p><p>n = banyak suku</p><p>[tex]\text U_\text n[/tex] = suku ke-n</p><p>Penyelesaian</p><p><strong>Diketahui :</strong></p><p>Barisan aritmatika </p><p>barisan aritmatika: 44, 41, 38, 35 . . .    .</p><p>n = 15</p><p>Ditanyakan :</p><p>[tex]\text U_{15}[/tex] = . . .    .</p><p><strong>Jawab :</strong></p><p><strong>Menentukan nilai suku awal (a) dan beda (b)</strong></p><p>Barisan aritmatikanya adalah 44, 41, 38, 35 . . .    .</p><p>Berdasarkan barisan tersebut, didapat :</p><p>a = 44</p><p>b = beda = [tex]\text U_2 - \text U_1[/tex]</p><p>   = 41 - 44</p><p>   = -3</p><p><strong>Menentukan banyaknya suku barisan aritmatika</strong></p><p>Selanjutnya nilai a = 44, b = -3 dan n = 15, disubstitusikan ke rumus [tex]{\text U_\text n~=~\text a + (\text n - 1)\text b}[/tex]</p><p>⇔ [tex]{\text U_{15}~=~44 + (15 - 1)(-3)}[/tex]</p><p>⇔ [tex]{\text U_{15}~=~44 + (14)(-3)}[/tex]</p><p>⇔ [tex]{\text U_{15}~=~44 +(-42)}[/tex]</p><p>⇔ [tex]{\text U_{15}~=~44- 42}[/tex]</p><p>⇔ [tex]{\text U_{15}~=~2}[/tex]</p><p>∴ Jadi banyaknya sukubarisan aritmatikanya adalah    [tex]{\text U_{15}~=~2}[/tex]</p>Pelajari lebih lanjut :Pengertian barisan aritmatika : https://brainly.co.id/tugas/1509694Menentukan suku ke-n : https://brainly.co.id/tugas/12054249Contoh soal barisan aritmatika : https://brainly.co.id/tugas/1168886Deret aritmatika : https://brainly.co.id/tugas/13759951Pelajari juga : https://brainly.co.id/tugas/25343272Jumlah 6 suku barisan aritmatika : https://brainly.co.id/tugas/50489229<p>_______________________________________________________</p>Detail Jawaban<p><strong>Kelas           : IX - SMP</strong></p><p><strong>Mapel         : Matematika</strong></p><p><strong>Kategori     : Bab 2 - Barisan dan Deret Bilangan</strong></p><p><strong>Kode           : 9.2.2</strong></p><p><strong>Kata kunci : barisan aritmatika, suku pertama, beda, suku ke-n</strong></p><p><strong>#BelajarBersamaBrainly</strong></p><p><strong>#CerdasBersamaBrainly</strong></p><br />
+                                            <h2 class="ez-toc-section" id="1-diketahui-barisan-aritmatika-8-241016-tentukan-suku-ke-20-dari-barisan-berikut2-diketahui-barisan-aritmatika-108642tentukan-suku-ke-30-dari-barisan-tersebut3-diketahui-barisan-aritmatika-3">
+                            29. 1.diketahui barisan aritmatika -8,-2,4,10,16.tentukan suku ke 20 dari barisan berikut2.diketahui barisan aritmatika 10,8,6,4,2,tentukan suku ke 30 dari barisan tersebut3.diketahui barisan aritmatika 3,10,17,24,31..tentukan suku ke 15 dari barisan tersebut4.diketahui barisan aritmatika 66,60,54,48,42..tentukan suku ke 25 dari barisan tersebuttolong di jawab​</h2><br />
+                        <p>Jawab:</p><p></p><p>Penjelasan dengan langkah-langkah:</p><p>2. Rumus :Un = a+(n-1)b</p><p>Mencari beda (b) terlebih dahulu:</p><p>U2= 10+(2-1)b</p><p>8 = 10+b</p><p>8 - 10 =b</p><p>-2 = b</p><p>Diperoleh beda b = -2</p><p>Kemudian mencari suku ke 30:</p><p>U30=10+(30-1) (-2)</p><p>U30=10+(29)(-2)</p><p>U30=10-58</p><p>U30=-48</p><p></p><p>3. Mencari beda terlebih dahulu:</p><p>U2=3+(2-1)b</p><p>10=3+b</p><p>7=b</p><p>Diperoleh beda b=7</p><p>Kemudian mencari suku ke 15</p><p>U15=3+(15-1)7</p><p>U15=3+(14)7</p><p>U15=3+98</p><p>U15=101</p><p></p><p>4. Mencari beda terlebih dahulu:</p><p>U2=66+(2-1)b</p><p>60=66+b</p><p>-6=b</p><p>Diperoleh beda b=-6</p><p>Kemudian mencari suku ke 25:</p><p>U25=66+(25-1)(-6)</p><p>U25=66+(24)(-6)</p><p>U25=66-144</p><p>U25=-78</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-13711-suku-ke50-barisan-aritmatika-tersebut-adalah">
+                            30. diketahui barisan aritmatika: -1,3,7,11... suku ke50 barisan aritmatika tersebut adalah</h2><br />
+                        a = -1<br />b = 4<br />U50 = a + (n-1)b<br />         = -1 + (50-1) 4<br />         = -1 + 196<br />         = 195<br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-diketahui-barisan-aritmatika-suku-ke-2-dan-suku-ke-8-11-dan-35-suku-ke-20-barisan-aritmatika-adalah">
+                            31.  diketahui Barisan diketahui barisan aritmatika suku ke-2 dan suku ke-8 = 11 dan 35. suku ke-20 barisan aritmatika adalah? </h2><br />
+                        U2 = 11     a + b = 11<br />U8 = 35    a +7b = 35   -<br />                     -6b = -24<br />                         b = -24/-6<br />                         b = 4<br />a + b = 11<br />a + 4 = 11<br />a = 11 - 4<br />a = 7<br /><br />U20 = a + 19b<br />       = 7 + 19(4)<br />       = 7 + 76<br />       = 83<br /><br />Un = a + (n-1)b<br />U2 = 11<br />U2 = a + (2-1)b = 11<br />U2 = a + b = 11<br />U8 = 35<br />U8 = a + (8-1)b = 35<br />U8 = a + 7b = 35<br /><br />a + 7b = 35<br />a + b = 11<br />---------------- (-)<br />       6b = 24<br />         b = 4<br />a + b = 11<br />a + 4 = 11<br />       a = 7<br /><br />jadi, U20 = a + (n-1)b = 7 + (20-1)4 = 7 + (19x4) = 7 + 76 = 83<br />U20 = 83<br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-5811141720-beda-barisan-aritmatika-tersebut-adalah%e2%80%8b">
+                            32. diketahui barisan aritmatika 5,8,11,14,17,20.. beda barisan aritmatika tersebut adalah​</h2><br />
+                        <p>Materi : Barisan dan Geometri</p><p>Pola barisan aritmatika </p><p>5, 8, 11, 14, 17, 20, ...</p><p>Suku Pertama = 5 , Beda = 3</p><p>Maka Rumus pola : Un = 3n + 2</p><p>Semoga bisa membantu</p><p>[tex] \boxed{ \colorbox{navy}{ \sf{ \color{lightblue}{ Answer\:by\: BLUEBRAXGEOMETRY}}}} [/tex]</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-47101316-tentukanlah-suku-ke-50-dari-barisan-aritmatika-tersebut">
+                            33. diketahui barisan aritmatika. 4,7,10,13,16. tentukanlah suku ke 50 dari barisan aritmatika tersebut</h2><br />
+                        a = 4 <br />b = 3<br />n = 50<br /><br />Un = a + (n-1)b<br />U₅₀ = 4 + (50-1)3<br />U₅₀ = 4 + (49) 3<br />U₅₀ = 4 + 147<br />U₅₀ = 151a = 4<br />b = 7-4 = 3<br />n = 50<br /><br />Un = a + (n-1) b<br />U50 = 4 + (50 - 1) 3<br />U50 = 4 + (49) 3<br />U50 = 4 + 147<br />U50 = 151<br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-sebagai-berikut-5791112-tentukan-a-suku-pertamanya-barisan-aritmatika-tersebutb-beda-barisan-aritmatika-tersebutc-suku-ke-10-barisan-aritmatika-tersebut">
+                            34. Diketahui barisan aritmatika sebagai berikut: 5,7,9,11,12....Tentukan :a. Suku pertamanya barisan aritmatika tersebutb. Beda barisan aritmatika tersebutc. Suku ke 10 barisan aritmatika tersebut​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a. suku pertama (u1) adalah 5.</p><p>b. beda barisan nya adalah 2</p><p>c. u10=23</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Suku ke sepuluh adalah:  </p><p>(u10) = u1+9b </p><p>u10=5+9(2)</p><p>u10=5+18</p><p>u10= 23</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-2468-suku-pertama-dan-beda-barisan-aritmatika-tersebut-adalah-%e2%80%8b">
+                            35. diketahui barisan aritmatika: 2,4,6,8.. suku pertama dan beda barisan aritmatika tersebut adalah...​</h2><br />
+                        <p>Jawab:</p><p>suku pertama = 2</p><p>beda = 2</p><p>Penjelasan dengan langkah-langkah:</p><p>Semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-147143139135-tentukan-beda-dari-barisan-aritmatika-tsb%e2%80%8b">
+                            36. diketahui barisan aritmatika 147,143,139,135 tentukan beda dari barisan aritmatika tsb​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>beda barisan = -4</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>barisan: 147, 143, 139, 135</p><p>beda = U2 - U1</p><p>          = 143 - 147</p><p>          = -4</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-3579-beda-barisan-aritmatika-tersebut-adalah">
+                            37. Diketahui barisan aritmatika 3,5,7,9,...Beda barisan aritmatika tersebut adalah</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Beda = 2</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>3, 5, 7, 9, ...</p>Suku pertama (U1) = 3Suku kedua (U2) = 5<p></p><p>Beda = U2 - U1</p><p>          = 5 - 3</p>         = 2<br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-bilangan-aritmatika-38131823nilai-a-dari-barisan-aritmatika-tersebut-adalah%e2%80%8b">
+                            38. diketahui barisan bilangan aritmatika :3,8,13,18,23,nilai a dari barisan aritmatika tersebut adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a=3</p><p>( a = suku awal dari barisan aritmatika</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-4245485154-tentukan-suku-ke-12-dari-barisan-aritmatika">
+                            39. Diketahui barisan aritmatika 42,45,48,51,54,... Tentukan suku ke 12 dari barisan aritmatika</h2><br />
+                        Mapel : Matematika<br />Bab : Barisan dan Deret Bilangan<br /><br />Soal<br /><br />Diketahui barisan aritmatika 42,45,48,51,54,... Tentukan suku ke 12 dari barisan aritmatika<br /><br />Jawaban <br /><br />42 , 45 , 48 , 51 , 54 , .... ,...<br /><br />a = 42<br />b = 3<br /><br />Un = a + (n - 1)b<br />U12 = 42 + (12 - 1)3<br />U12 = 42 + 11 . 3<br />U12 = 42 + 33<br />U12 = 75<br /><br />#semoga membantu :)<br />
+                                            <h2 class="ez-toc-section" id="diketahui-barisan-aritmatika-71013161921-suku-ke-10-dari-barisan-aritmatika-tersebut-adalah%e2%80%8b">
+                            40. diketahui barisan aritmatika 7,10,13,16,19,21 suku ke 10 dari barisan aritmatika tersebut adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>n1=7</p><p>n2=10</p><p>n3=13</p><p>n4=16</p><p>n5=19</p><p>n6=21</p><p>n7=24</p><p>n8=27</p><p>n9=30</p><p>n10=33</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/68fXtyOCT5A?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>matematika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/wangsulan-artinya/">Wangsulan Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-ini-cara/">Berikut Ini Cara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perhatikan-gambar-berikut-matematika/">Perhatikan Gambar Berikut Matematika</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/latihan-back-up-bertujuan-untuk-mengencangkan-otot/">Latihan Back Up Bertujuan Untuk Mengencangkan Otot</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-soal-notasi-sigma-dan-jawabannya-brainly/">Contoh Soal Notasi Sigma Dan Jawabannya Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/awanna-be-with-you-artinya/">Awanna Be With You Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-sperma-manusia-memiliki-bagian-kepala-meruncing-dibagian-ujungnya/">Mengapa Sperma Manusia Memiliki Bagian Kepala Meruncing Dibagian Ujungnya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/175-menit-berapa-jam/">175 Menit Berapa Jam</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kelebihan-komputer/">Kelebihan Komputer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ibu-kota-yunani-adalah/">Ibu Kota Yunani Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-tujuan-eksportir/">Apa Tujuan Eksportir</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kata-baku-managemen/">Kata Baku Managemen</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perintah-yang-biasa-digunakan-untuk-membuat-lembar-file-baru-adalah/">Perintah Yang Biasa Digunakan Untuk Membuat Lembar File Baru Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mboh/">Mboh</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-yang-dimaksud-karya-seni-tiga-dimensi/">Apa Yang Dimaksud Karya Seni Tiga Dimensi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lama-permainan-rounders-adalah/">Lama Permainan Rounders Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/how-are-you-artinya/">How Are You Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-itu-permeabel/">Apa Itu Permeabel</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/keberadaan-wawasan-nusantara-secara-militer-diapit-oleh-dua-kekuatan-yaitu/">Keberadaan Wawasan Nusantara Secara Militer Diapit Oleh Dua Kekuatan Yaitu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/domestik-adalah/">Domestik Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

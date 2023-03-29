@@ -1,0 +1,1390 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mitos Nyaeta - BELAJAR</title>
+    <meta name="description" content="Mitos Nyaeta, , , , , , , 0, purpura: REFLEXIONES SOBRE LOS MITOS, unavidaenlosaromos.blogspot.com, 1200 x 800, jpeg, , 20, mitos-nyaeta, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Mitos Nyaeta - BELAJAR" />
+    <meta property="og:description" content="Mitos Nyaeta, , , , , , , 0, purpura: REFLEXIONES SOBRE LOS MITOS, unavidaenlosaromos.blogspot.com, 1200 x 800, jpeg, , 20, mitos-nyaeta, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Mitos Nyaeta - BELAJAR" />
+    <meta name="twitter:description" content="Mitos Nyaeta, , , , , , , 0, purpura: REFLEXIONES SOBRE LOS MITOS, unavidaenlosaromos.blogspot.com, 1200 x 800, jpeg, , 20, mitos-nyaeta, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Mitos Nyaeta</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">timbulsugiyono</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Mitos+Nyaeta" alt="Mitos Nyaeta">
+                    </div>
+                    <p></p>
+                    <p>dongeng kapercayaan ( more/mitos) nyaeta​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dongeng-kapercayaan-moremitos-nyaeta%e2%80%8b">1.
+                                            dongeng kapercayaan ( more/mitos) nyaeta​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-mitosmitos-itu-apakah-mitos-adalah">2.
+                                            Apa itu mitos
+Mitos itu apakah mitos adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitos-mitos-tentang-seseorang">3.
+                                            mitos mitos tentang seseorang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#macam-macam-mitos-seseorang">4.
+                                            macam macam mitos seseorang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitos-mitos-kepemimpinan-salah-satunya-memyatakan-bahwa-para-pemimpin-dilahirkan-bukan-dibentuk-jelaskan-pendapat-saudara-tentang-mitos-kepemimpinan-tersebut">5.
+                                            mitos-mitos kepemimpinan salah satunya memyatakan bahwa "para pemimpin dilahirkan, bukan dibentuk". jelaskan pendapat saudara tentang mitos kepemimpinan tersebut !</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-itu-mitos">6.
+                                            Apakah itu mitos ????</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitos-nyai-roro-kidul-mempunyai-cerita-yang-sangat-menarik-keterkaitan-antara-mitos-dan-kehidupan-masyarakat-tempat-mitos-itu-berkembang">7.
+                                            Mitos nyai roro kidul mempunyai cerita yang sangat menarik. Keterkaitan antara mitos dan kehidupan masyarakat tempat mitos itu berkembang.?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#termasuk-apakah-cerita-rakyat-tangkuban-perahu-mitos-legendakalau-itu-mitos-bantu-saya-mencari-legendakalau-itu-legenda-bantu-saya-mencari-mitosv">8.
+                                            Termasuk apakah cerita rakyat Tangkuban Perahu? (mitos / legenda)
+Kalau itu mitos , bantu saya mencari legenda
+Kalau itu legenda , bantu saya mencari mitos
+:v</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-sajakah-mitos-mitos-yang-salah-tentang-wirausaha">9.
+                                            Apa sajakah mitos-mitos yang salah tentang wirausaha</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#persebaran-antara-sejarah-dalam-mitos-adalah-a-kajian-dalam-secara-logis-sedangkab-kajian-mitos-tidak-logisb-seharah-hanya-mengkaji-masalalu-manusia-sedangkan-mitos-kajian-masa-lalu-lebih-luasc">10.
+                                            persebaran antara sejarah dalam mitos adalah... A. Kajian dalam secara logis sedangkab kajian mitos tidak logisB. Seharah hanya mengkaji masalalu manusia sedangkan mitos kajian masa lalu lebih luasC. Sejarah merupakan salah satu cabang ilmu sementara mitos bukanD. Sejarah mengungkapkan peristiwa nyata,sedangkab mitos adalah mitosE. Tidak dengan unsur waktu pada mitos sedangkan sejarah sebaliknya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-mitos-mitos-angka-menurut-filsuf-phytagoras">11.
+                                            Sebutkan Mitos mitos angka menurut Filsuf Phytagoras</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kenapa-orang-indonesia-banyak-yang-percaya-terhadap-mitos-mitos-dan-kepercayaan-mitosnya-sangat-kental-di-sini">12.
+                                            Kenapa orang indonesia banyak yang percaya terhadap mitos-mitos dan kepercayaan mitosnya sangat kental di sini??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-tujuan-mitos-menggigit-kuku-dan-maksud-sebenarnya-dari-mitos-tersebut-%e2%80%8b">13.
+                                            jelaskan tujuan mitos "menggigit kuku" dan maksud sebenarnya dari mitos tersebut !​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitos-mitos-indonesia-yang-terkenal-apa-ya">14.
+                                            Mitos mitos indonesia yang terkenal apa ya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitos-mitos-tentang-suku-kajang-di-pulau-sulawesi">15.
+                                            mitos mitos tentang suku kajang di pulau sulawesi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-mitos-mitos-di-indonesia-misalnya-nyi-roro-kidul">16.
+                                            Sebutkan mitos mitos di indonesia misalnya nyi roro kidul </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#penciptaan-mitos-mitos-tersebut-dilakukan-dengan-tujuan">17.
+                                            Penciptaan mitos-mitos tersebut dilakukan dengan tujuan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-sejarah-sebagai-mitos-bagaimana-pembuktiannya-dan-apa-yang-menjadikan-mitos-tersebut-dipercaya-hinggga-saat-ini">18.
+                                            konsep sejarah sebagai mitos. bagaimana pembuktiannya dan apa yang menjadikan mitos tersebut dipercaya hinggga saat ini</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-apa-pendapat-saudara-tentang-mitos-mitos-kewirausahaan-yang-terdapat-di-masyarakat">19.
+                                            1. Apa pendapat saudara tentang mitos-mitos kewirausahaan yang terdapat di masyarakat?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ideologi-berlandaskan-mitos-itu-seperti-apa-dan-mitos-apa-yg-menjadi-landasan-ideologi-tersebut%e2%80%8b">20.
+                                            Ideologi berlandaskan mitos itu seperti apa? Dan mitos apa yg menjadi landasan ideologi tersebut?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kalimat-mitos-mitos-termasuk-kaidah-kebahasaan-tentang">21.
+                                            Kalimat mitos-mitos termasuk kaidah kebahasaan tentang 
+? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-masa-hindu-budha-seorang-raja-yang-berkuasa-dianggap-sebagai-titisan-dewa-dan-dilakukan-penciptaan-mitos-mitos-pencipta-mitos-mitos-dilakukan-dengan-tujuan%e2%80%8b">22.
+                                            pada masa hindu budha seorang raja yang berkuasa dianggap sebagai titisan dewa dan dilakukan penciptaan mitos-mitos.pencipta mitos-mitos dilakukan dengan tujuan?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitos-mitos-tentang-malaikat-yang-tersebar-di-masyarakat">23.
+                                            mitos mitos tentang malaikat yang tersebar di masyarakat?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitos-mitos-terbentuknya-bumi">24.
+                                            mitos mitos terbentuknya bumi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cerita-sejarah-yang-mengandung-unsur-rekaan-adalah-sebagai-berikutkecualia-mitos-asal-usul-rajab-mitos-pembukaan-negeric-mitos-kedatangam-sebuah-agamad-mitos-alegorie-mitos-latar">25.
+                                            Cerita sejarah yang mengandung unsur rekaan adalah sebagai berikut,kecuali
+A. Mitos asal usul raja
+B. mitos pembukaan negeri
+C. mitos kedatangam sebuah           agama
+D. Mitos alegori
+E. Mitos latar</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-mitos-mitos-di-indonesia">26.
+                                            Sebutkan mitos mitos di indonesia </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitos-mitos-yg-dianggap-nyata-ada-adalah%e2%80%8b">27.
+                                            MITOS MITOS YG DIANGGAP NYATA  ADA ADALAH​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tugas-memilih-jawabanmitos-atau-faktasars-cov-2%c2%a0bukan%c2%a0mutasi-dari-virus-flu-%e2%80%a2mitos%e2%80%a2faktavirus-ini-dibuat-manusia-%e2%80%a2mitos%e2%80%a2faktatidak-seperti-flu-covid-19-in">28.
+                                            Tugas! memilih jawaban,Mitos atau Fakta?SARS-CoV-2 bukan mutasi dari virus flu.•Mitos•FaktaVirus ini dibuat manusia.•Mitos•FaktaTidak seperti flu, COVID-19 ini lebih tidak menular.•Mitos•FaktaSARS-2 lebih mematikan daripada flu.MitosFaktaAnak-anak tidak akan tertular virus corona.MitosFaktaHewan peliharaan seperti dog atau kucing tidak dapat menularkan SARS-CoV-2.MitosFaktaMengidap COVID-19 pasti berujung pada kematian.MitosFakta​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-ada-mitos-mitos-tentang-asal-usul-tradisi-kuah-beulangong%e2%80%8b">29.
+                                            apa ada mitos mitos tentang asal-usul tradisi kuah beulangong​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitos-mitos-dalam-keluarga-suku-batak%e2%80%8b">30.
+                                            mitos mitos dalam keluarga suku batak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-masa-hindu-buddha-seorang-raja-yang-berkuasa-dianggap-sebaga-titisan-dewa-jika-seorang-raja-berasal-dari-rakyat-biasa-di-ciptakan-mitos-mitos-tertentu-tentang-dirinya-penciptaan-mitos-mito">31.
+                                            Pada masa hindu -buddha seorang raja yang berkuasa  dianggap sebaga titisan dewa .jika seorang raja berasal dari rakyat biasa ,di ciptakan mitos -mitos tertentu tentang dirinya .penciptaan mitos -mitos tersebut dilakukan dengan tujuan ...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dongeng-sajarah-sagenyaeta-dongeng-anu-nyaritakeun-ngeunaan-a-kahirupan-jalmab-sasatoanc-kapahlawanand-mitostolong-di-jwb-ya-kak-mksii-%e2%80%8b">32.
+                                            Dongeng sajarah (sage)nyaeta dongeng anu nyaritakeun ngeunaan...A. Kahirupan jalmaB. SasatoanC. KapahlawananD. Mitostolong di jwb ya kak mksii..​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perbedaan-antara-sejarah-dengan-mitos-adalah-a-kajian-dalam-sejarah-logis-sedangkan-kajian-mitos-tidak-logis">33.
+                                            perbedaan antara sejarah dengan mitos adalah........                                  A.kajian dalam sejarah logis ,sedangkan kajian mitos tidak logis                                                    B.sejarah hanya mengkaji masa lalunya manusia,sedangkan mitos kajian masa lalunya lebihluas                      C.sejarah mengungkapkan peristiwa nyata,sedangkan mitos adalah dongeng                                           D.sejarah merupakan salah satu cabang ilmu,sementara mitos bukan                                                           E.tidak adanya unsur waktu pada mitos,sementara sejarah sebaliknya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ciri-ciri-mitos-dan-jenis-mitos-beserta-contohnya">34.
+                                            ciri ciri mitos dan jenis mitos beserta contohnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-sejarah-sebagai-mitos-bagaimana-pembuktian-dan-apa-yang-menjadikan-mitos-tersebut-dipercaya-hingga-saat-ini">35.
+                                            Konsep Sejarah Sebagai Mitos, Bagaimana Pembuktian dan apa yang menjadikan Mitos tersebut dipercaya hingga saat ini?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitos-dapat-digunakan-sebagai-sumber-daya-rekonstruksi-sejarah-apa-yang-anda-ketahui-tentang-mitos">36.
+                                            mitos dapat digunakan sebagai sumber daya rekonstruksi sejarah Apa yang anda ketahui tentang mitos</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitos-mitos-kepemimpinan-salah-satunya-menyatakan-bahwa-para-pemimpin-dilahirkan-bukan-dibentuk-jelaskan-pendapat-saudara-tentang-mitos-kepemimpinan-tersebut">37.
+                                            mitos-mitos kepemimpinan salah satunya menyatakan bahwa "para pemimpin dilahirkan, bukan dibentuk". jelaskan pendapat saudara tentang mitos kepemimpinan tersebut!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-memang-benar-vampire-itu-tidak-ada-dan-hanya-mitos-siapa-yg-membuat-mitos-tersebut-dan-alasan-apa-ia-membuat-mitos-tersebut">38.
+                                            Jika memang benar Vampire itu tidak ada, dan hanya mitos. Siapa yg membuat mitos tersebut dan alasan apa ia membuat mitos tersebut? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kenapa-mitos-di-pandang-sangat-penting-padahal-mitos-itu-bukan-fakta">39.
+                                            Kenapa mitos di pandang sangat penting
+  Padahal mitos itu bukan fakta...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitos-mitos-gedung-internatio-di-surabaya%e2%80%8b">40.
+                                            mitos mitos gedung internatio di surabaya​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="dongeng-kapercayaan-moremitos-nyaeta%e2%80%8b">
+                            1. dongeng kapercayaan ( more/mitos) nyaeta​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>dongeng kapercayaan teh nyaeta carita anu turun temurun ti buyut urang </p><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-mitosmitos-itu-apakah-mitos-adalah">
+                            2. Apa itu mitos
+Mitos itu apakah mitos adalah</h2><br />
+                        <p>Jawaban:</p><p>Mitos (bahasa Yunani: μῦθος— mythos) atau mite (bahasa Belanda: mythe) adalah bagian dari suatu folklor yang berupa kisah berlatar masa lampau, mengandung penafsiran tentang alam semesta (seperti penciptaan dunia dan keberadaan makhluk di dalamnya), serta dianggap benar-benar terjadi oleh yang empunya cerita atau penganutnya. Dalam pengertian yang lebih luas, mitos dapat mengacu kepada cerita tradisional.Pada umumnya mitos menceritakan terjadinya alam semesta dan bentuk topografi, keadaan dunia dan para makhluk penghuninya, deskripsi tentang para makhluk mitologis, dan sebagainya. </p><p></p><p>Maksudnya seperti itu kan</p><p>Maaf jika salah</p><p>Sumber:wikipedia</p><br />
+                                            <h2 class="ez-toc-section" id="mitos-mitos-tentang-seseorang">
+                            3. mitos mitos tentang seseorang</h2><br />
+                        sesuatu yang bukan takdirjika wanita meningalkan wanita maka sulit mendapat jodoh<br />
+                                            <h2 class="ez-toc-section" id="macam-macam-mitos-seseorang">
+                            4. macam macam mitos seseorang</h2><br />
+                        - Adanya mermaid/duyung<br />- Membuang sampah pada hutan<br />- Adanya hantu/setan<br />
+                                            <h2 class="ez-toc-section" id="mitos-mitos-kepemimpinan-salah-satunya-memyatakan-bahwa-para-pemimpin-dilahirkan-bukan-dibentuk-jelaskan-pendapat-saudara-tentang-mitos-kepemimpinan-tersebut">
+                            5. mitos-mitos kepemimpinan salah satunya memyatakan bahwa "para pemimpin dilahirkan, bukan dibentuk". jelaskan pendapat saudara tentang mitos kepemimpinan tersebut !</h2><br />
+                        Menurut pendapat sya itu kurang tepat, karena kita dilahirkan sama di dunia ini oleh tuhan tidak ada yang berbeda... <br />Namun bagaimana karakter seseorang itu dibangun setelah ia dilahirkan di dunia ini entah melalui jalur pendidikan, karakter, cara memimpin dan sebaginya... <br />Semoga membantu. <br />
+                                            <h2 class="ez-toc-section" id="apakah-itu-mitos">
+                            6. Apakah itu mitos ????</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>mitos adalah sesuatu yang tidak begitu nyata</p><br />
+                                            <h2 class="ez-toc-section" id="mitos-nyai-roro-kidul-mempunyai-cerita-yang-sangat-menarik-keterkaitan-antara-mitos-dan-kehidupan-masyarakat-tempat-mitos-itu-berkembang">
+                            7. Mitos nyai roro kidul mempunyai cerita yang sangat menarik. Keterkaitan antara mitos dan kehidupan masyarakat tempat mitos itu berkembang.?</h2><br />
+                        biasanya berkaitan dengan pantai selatan pulau jawa <br /><br />
+                                            <h2 class="ez-toc-section" id="termasuk-apakah-cerita-rakyat-tangkuban-perahu-mitos-legendakalau-itu-mitos-bantu-saya-mencari-legendakalau-itu-legenda-bantu-saya-mencari-mitosv">
+                            8. Termasuk apakah cerita rakyat Tangkuban Perahu? (mitos / legenda)
+Kalau itu mitos , bantu saya mencari legenda
+Kalau itu legenda , bantu saya mencari mitos
+:v</h2><br />
+                        Menurut saya Tangkuban Perahu adalah legenda<br />contoh mitos : main lewat magrib akan diculik hantu Wewe Gombel<br /><br />
+                                            <h2 class="ez-toc-section" id="apa-sajakah-mitos-mitos-yang-salah-tentang-wirausaha">
+                            9. Apa sajakah mitos-mitos yang salah tentang wirausaha</h2><br />
+                        menjadi wirausaha sukses adalah bakat, menjadi wirausaha itu faktor keturunan, menjadi wirausaha itu membutuhkan modal yang banyak, menjadi wirausaha itu harus mempunyai peluang emas dulu, menjadi wirausaha itu harus nekad, <br />
+                                            <h2 class="ez-toc-section" id="persebaran-antara-sejarah-dalam-mitos-adalah-a-kajian-dalam-secara-logis-sedangkab-kajian-mitos-tidak-logisb-seharah-hanya-mengkaji-masalalu-manusia-sedangkan-mitos-kajian-masa-lalu-lebih-luasc">
+                            10. persebaran antara sejarah dalam mitos adalah... A. Kajian dalam secara logis sedangkab kajian mitos tidak logisB. Seharah hanya mengkaji masalalu manusia sedangkan mitos kajian masa lalu lebih luasC. Sejarah merupakan salah satu cabang ilmu sementara mitos bukanD. Sejarah mengungkapkan peristiwa nyata,sedangkab mitos adalah mitosE. Tidak dengan unsur waktu pada mitos sedangkan sejarah sebaliknya</h2><br />
+                        D. sejarah mengungkapkan peristiwa nyata ,sedangkan mitos adalah mitosPersebaran antara sejarah dalam mitos adalah<br />---》 D. Sejarah mengungkapkan peristiwa nyata, sedangkan mitos adalah mitos<br /><br />S3moga bermanfaat ya....<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-mitos-mitos-angka-menurut-filsuf-phytagoras">
+                            11. Sebutkan Mitos mitos angka menurut Filsuf Phytagoras</h2><br />
+                        <p>BILANGAN MENGATUR ALAM SEMESTA</p><p>(Sebuah Kajian Metafisika tentang Keberadaan Sebuah Angka)</p><p>Oleh ; Syahrul</p><p></p><p>“Apabila bilangan mengatur alam semesta, Bilangan adalah kuasa yang diberikan kepada kita guna mendapatkan mahkota, untuk itu kita menguasai bilangan.</p><p>If “Number rules the universe, Number is merely our delegate to the throne, for we rule Number.” </p><p>Pythagoras</p><p></p><p></p><p>Pertanyaan Thales tentang “apa sebenarnya bahan alam ("arche" = ) semesta ini?”, ternyata telah “menggelitik” hati-hati para pemikir untuk ikut merenungkannya. Maka lahirlah beragam pendapat dan pandangan tentang persoalan ini, Thales mengusulkan air, Anaximandros menjawab dengan yang tak terbatas, Demokritos memberi sanggahan bahwa atomlah yang menyusun alam semesta ini, Anaximenes mensinyalir bahwa udara yang menjadi stuff alam raya ini, Heraklitos tidak mau kalah dan memberikan jawaban bahwa bahan dasar semesta ini berasal dari api. Empedokles dengan bijak menggabungkan semuanya dan menjawab api-udara-tanah-air.</p><p></p><p>Dari beragam seliweran pandangan pertanyaan mendasar di atas, muncul pula pemikiran seorang tokoh dengan jawabasn yang sulit dicerna dengan indera yaitu angka. Tokoh itu adalah Phytagoras. Ya…,Pythagoras (580-500 SM) percaya bahwa angka bukan unsur seperti udara, api dan air yang banyak dipercaya sebagai unsur semua benda. Angka bukan anasir alam. Phytagoras berargumen bahwa segala sesuatu dalam alam raya tidak tertentu dan tidak menentu, baru setelah memiliki batas bentuk dan angka ia menjadi tentu dan pasti.</p><p></p><p>Kaum Phytagorean (pengikut phytagoras) menganggap bahwa pandangan Anaximandros tentang to Apeiron dekat juga dengan pandangan Phytagoras. To Apeiron melepaskan unsur-unsur berlawanan agar terjadi keseimbangan atau keadilan (dikhe). Pandangan Phytagoras mengungkapkan bahwa harmoni terjadi berkat angka. Bila segala hal adalah angka, maka hal ini tidak saja berarti bahwa segalanya bisa dihitung, dinilai dan diukur dengan angka dalam hubungan yang proporsional dan teratur, melainkan berkat angka-angka itu segala sesuatu menjadi harmonis, seimbang. Dengan kata lain tata tertib terjadi melalui angka-angka.</p><p></p><p>Phytagoras (560-480 SM) adalah seorang filsuf dan matematikawan yang dikenal sebagai pendiri sekolah filsafat yang bertahan hingga 200 tahun lamanya, serta berpengaruh kuat terhadap perkembangan pemikiran Yunani. Meski sejarah kehidupan Pythagoras sangat sedikit diketahui, diyakini dia pernah belajar matematika di mesir dan Babilonia. Dia lahir di Samos kemudian menetap di Croton, Italia. Di Croton ini dia mendirikan sekolah filsafat dan mendirikan mazhab pemikiran yang disebut mazhab Pythagorean. Pemikiran filsafat terpenting mazhab Pythagorean adalah bahwa bilangan adalah segalanya. Bilangan tersebut terdiri atas bilangan genap dan ganjil, bilangan terbatas dan tak terbatas. </p><p></p><p>Phytagoras juga mengemukakan beberapa prinsip lain yang saling berlawanan, seperti gerak dan diam, terang dan gelap, lurus dan bengkok, baik dan jahat, laki-laki dan perempuan, kanan dan kiri, bujur sangkar dan empat persegi panjang. Pythagoras percaya bahwa seluruh fenomena alam dapat dijelaskan melalui istilah yang terdapat pada bilangan yang saling berkaitan. Dengan kata lain, bilangan ditempatkan sebagai penanda alam atau simbol. Bilangan enam misalnya, selain dianggap bilangan sempurna, juga dianggap memiliki nilai mistis. Pada bidang matematika, apa yang dimaksud dengan bilangan sempurna adalah bilangan yang apabila faktor-faktornya dijumlahkan hasilnya sama dengan bilangan itu sendiri. Misalnya bilangan 6, faktor-faktornya adalah 1,2 dan 3, dan apabila dijumlahkan (1+2+3) hasilnya akan sama dengan 6. Bilangan sempurna seperti angka enam tersebut selain memiliki nilai mistis, dipercaya sebagai simbol keseimbangan. </p><p></p><p>Pengaruh pemikiran mistis Phytagoras dapat dijumpai pada karya Saint Augustine dalam bukunya The City of God. Augustine menyebutkan bahwa bilangan enam itu sempurna dengan sendirinya, bukan karena Tuhan menciptakan alam semesta dalam enam masa. Karena bilang</p><br />
+                                            <h2 class="ez-toc-section" id="kenapa-orang-indonesia-banyak-yang-percaya-terhadap-mitos-mitos-dan-kepercayaan-mitosnya-sangat-kental-di-sini">
+                            12. Kenapa orang indonesia banyak yang percaya terhadap mitos-mitos dan kepercayaan mitosnya sangat kental di sini??</h2><br />
+                        karena di indonesia dulunya mayoritas penduduknya beragama hindhu-bundha yang memiliki banyak kepercayaan.dan sampai sekarang kepercayaan tersebut masih dipercaya khususnya para orang tua.karena bangsa indonesia masih menganggap mitos itu benar karena adanya ajaran <br />coperllinus yang menyatahkan bahwa bumi itu<br />bulat dan juga ilmu supranatural yang masih sangat kental<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-tujuan-mitos-menggigit-kuku-dan-maksud-sebenarnya-dari-mitos-tersebut-%e2%80%8b">
+                            13. jelaskan tujuan mitos "menggigit kuku" dan maksud sebenarnya dari mitos tersebut !​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Sebenarnya Itu adalah mitos </p><p>mari saya jelaskan:</p><p>Jadi kalau kita potong kuku saat malam hari itu mengganggu, karena <strong>Kurang </strong><strong>cahaya,</strong><strong> </strong><strong>dan </strong><strong>saat </strong><strong>malam </strong><strong>hari </strong><strong>pasti </strong><strong>langit </strong><strong>akan </strong><strong>gelap</strong></p><br />
+                                            <h2 class="ez-toc-section" id="mitos-mitos-indonesia-yang-terkenal-apa-ya">
+                            14. Mitos mitos indonesia yang terkenal apa ya</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Mitos di Indonesia Bersiul di Sore &amp; Malam Hari</p><p>2.Mitos di Indonesia Nyapu Tidak Bersih</p><p>3.Mitos di Indonesia Makan Menggunakan Tutup Piring</p><p>4.Makan Sayap Ayam</p><p>5.Potong Kuku Malam Hari</p><p>6.Keluar Saat Maghrib</p><p>7.Pakai Baju Hijau di Pantai Selatan</p><p>8.Posisi Rumah Tusuk Sate</p><p>9.Bangun Siang</p><p>10. Mandi Malam Hari</p><p></p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah  moga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="mitos-mitos-tentang-suku-kajang-di-pulau-sulawesi">
+                            15. mitos mitos tentang suku kajang di pulau sulawesi</h2><br />
+                        daerahnya bekas makam dan kuburan sungai sekitarnya konon bekas tempat pembantaian daranya semua dibuang ke sungai tsb<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-mitos-mitos-di-indonesia-misalnya-nyi-roro-kidul">
+                            16. Sebutkan mitos mitos di indonesia misalnya nyi roro kidul </h2><br />
+                        1.ratu penguasa pantai selatan <br />2.keturunan dari kerajaan pejajaran <br />3.himbauan larangan memakai pakaian warna hijau <br />4.pantai selatan pulau jawa( pintu gerbang sang ratu Kidul )<br /><br /><br />semoga membantu :)<br />
+                                            <h2 class="ez-toc-section" id="penciptaan-mitos-mitos-tersebut-dilakukan-dengan-tujuan">
+                            17. Penciptaan mitos-mitos tersebut dilakukan dengan tujuan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pada masa Hindu-Buddha seorang raja yang berkuasa dianggap sebagai titisan dewa jika seorang raja berasal dari rakyat biasa,diciptakan mitos-mitos </p><br />
+                                            <h2 class="ez-toc-section" id="konsep-sejarah-sebagai-mitos-bagaimana-pembuktiannya-dan-apa-yang-menjadikan-mitos-tersebut-dipercaya-hinggga-saat-ini">
+                            18. konsep sejarah sebagai mitos. bagaimana pembuktiannya dan apa yang menjadikan mitos tersebut dipercaya hinggga saat ini</h2><br />
+                          <br /><br />[[[[]]]]]]{{{{}}}}}}/////??????<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="1-apa-pendapat-saudara-tentang-mitos-mitos-kewirausahaan-yang-terdapat-di-masyarakat">
+                            19. 1. Apa pendapat saudara tentang mitos-mitos kewirausahaan yang terdapat di masyarakat?</h2><br />
+                        Mitos mitos dalam masyarakat desa itu sangat kental sekali termasuk mitos kewirausahaan... Dimna bnyak mitos yg sulit dtrima akal yg dlakukan oleh masyarakat.. Tidak salah percya pda mitos tapi mitos yg rasional.<br />
+                                            <h2 class="ez-toc-section" id="ideologi-berlandaskan-mitos-itu-seperti-apa-dan-mitos-apa-yg-menjadi-landasan-ideologi-tersebut%e2%80%8b">
+                            20. Ideologi berlandaskan mitos itu seperti apa? Dan mitos apa yg menjadi landasan ideologi tersebut?​</h2><br />
+                        <p><strong>Ideologi</strong> dapat diartikan sebagai suatu gagasan yang secara sistematis tersusun dan kebenarannya diyakini dalam upaya untuk diwujudkan ke dalam kehidupan bermasyarakat. <strong>Mitos </strong>merupakan bagian dari kisah masa lampau yang penyampaiannya secara lisan ke lisan berkaitan dengan suatu cerita yang dianggap ada kebenaranya, ideologi dan mitos memiliki keterkaitan antar keduanya.</p><p></p><p><strong>Pembahasan </strong></p><p><strong>Ideologi</strong> merupakan gagasan serta cita cita yang berlandaskan pengetahuan untuk diwujudkan dalam tatanan sosial bermasyarakat, berbangsa dan bernegara. Salah satu landasan yang digunakan dalam Ideologi adalah mitos yang berkembang di wilayah tersebut. Mitos dapat dijadikan sebagai dasar suatu ideologi karena mitos diyakini ada dan benar akan keberadaanya di masyarakat. Ideologi sebagai pegangan masyarakat juga diyakini ada dan benar untuk diwujudkan, sehingga Ideologi terkadang memiliki filosofi yang berasal dari mitos yang berkembang.<strong> Ideologi berlandaskan mitos </strong>dapat diartikan sebagai ideologi yang dipegang masyarakat memiliki suatu nilai dan keterkaitan dengan mitos tertentu.</p><p>Salah satu mitos yang digunakan sebagai dasar ideologi di Indonesia adalah keberhasilan majapahit dalam menaklukan wilayah nusantara, sehingga nusantara menjadi negara yang makmur. Meski memiliki wilayah yang luas dan suku yang beragam, majapahit mampu bertahan dibawah bhineka tunggal ika atau berbeda tetapi tetap satu. Indonesia mengadopsi hal tersebut untuk dijadikan ideologi sebagai bangsa yang besar dan majemuk kita tetap harus berbhineka tunggal ika atau menjaga kesatuan dan jangan sampai terpecah belah.</p><p></p><p><strong>Pelajari lebih lanjut :</strong></p><p>Materi tentang ideologi brainly.co.id/tugas/11169873</p><p></p><p><strong>#BelajarBersamaBrainly</strong></p><p><strong>#SPJ1</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="kalimat-mitos-mitos-termasuk-kaidah-kebahasaan-tentang">
+                            21. Kalimat mitos-mitos termasuk kaidah kebahasaan tentang 
+? </h2><br />
+                        kepalsuan dan kebohonganmitos/kebohongan<br /><br /><br />semoga membanti dan maaf jika salah<br />
+                                            <h2 class="ez-toc-section" id="pada-masa-hindu-budha-seorang-raja-yang-berkuasa-dianggap-sebagai-titisan-dewa-dan-dilakukan-penciptaan-mitos-mitos-pencipta-mitos-mitos-dilakukan-dengan-tujuan%e2%80%8b">
+                            22. pada masa hindu budha seorang raja yang berkuasa dianggap sebagai titisan dewa dan dilakukan penciptaan mitos-mitos.pencipta mitos-mitos dilakukan dengan tujuan?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Mencapai moksa</p><p>*maaf klo salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="mitos-mitos-tentang-malaikat-yang-tersebar-di-masyarakat">
+                            23. mitos mitos tentang malaikat yang tersebar di masyarakat?</h2><br />
+                        <p>
+	<strong>10. Sandalphon - "Ia yang Mengenakan Sandal"</strong></p><p>
+	Mungkin Anda akan merasa arti nama dari Sandalphon cukup unik, hal ini 
+karena tidak ada arti jelas mengenai apa makna sebenarnya dari nama 
+Sandalphon. Ada yang mengatakan namanya melambangkan "hubungan", 
+"kebersamaan", "saudara".</p>
+<p>
+	</p>
+<p>
+	<strong>9. Raziel - "Rahasia Tuhan"</strong></p><p>
+	Seperti namanya, Raziel merupakan malaikat yang melambangkan misteri 
+dan kerahasiaan.
+Saat Raziel mencoba memberikan bukunya ini ke Adam, ada malaikat lain 
+yang iri dan mencuri bukunya, kemudian membuangnya ke lautan.</p>
+<p>
+	</p>
+<p>
+	<strong>8. Zadkiel/Tzadkiel (Amethystia) - "Kebenaran Tuhan"</strong></p><p>
+	Zadkiel merupakan malaikat yang berada di bawah kepemimpinan Michael 
+sebagai kepala dari malaikat utama saat memasuki perperangan dan sering 
+dikaitkan dengan warna ungu.</p>
+<p>
+	<strong>7. Khamael/Chamuel/Camael (Seraphina) - "Ia yang mencari Tuhan"</strong></p><p>
+	Ada 2 penyebab mengapa malaikat ini merupakan salah satu malaikat 
+paling terkenal di dunia. Hal ini disebabkan karena namanya yang sering 
+di salahartikan dengan "Samael" (nomor 6) dan alasan keduanya adalah 
+karena ia memiliki banyak nama seperti Chamuel, Camael, Jahoel, 
+Seraphiel atau Shemue. Ia merupakan archangel atau malaikat utama yang 
+melambangkan cinta sejati, karir, kedamaian dan tujuan hidup, tapi 
+karena namanya sering disamakan dengan Samael, ia lebih sering diartikan
+ sebagai Malaikat Kematian padahal itu salah.</p><p>
+	<strong>6. Samael - "Raja dari Yang Jahat"</strong></p><p>
+	Menurut mitologi yang tersebar di Palestina Kuno, Samael adalah 
+malaikat yang digambarkan sebagai sosok yang jahat namun juga baik. Hal 
+ini karena ia merupakan malaikat yang bekerja di bawah Tuhan namun 
+memiliki peran sebagai Malaikat Kematian. Salah satu penyebab mengapa 
+namanya masuk ke dalam daftar paling terkenal ini adalah karena ia 
+dipercaya merupakan nama lain dari Lucifer, namun ada kepercayaan lain 
+bahwa ia merupakan wujud yang berbeda dari Lucifer. Ia dipercaya sebagai
+ penguasa Surga tingkat ke-5 dan tinggal di Surga tingkat ke-7.</p><p>
+	<strong>5. Uriel (Aurora) - "Tuhan adalah Cahayaku"</strong></p><p>
+	Merupakan malaikat  yang dikenal sebagai Penjaga Matahari, Penguasa 
+atas Hades, dan perannya yang paling dikenal adalah Malaikat Penyelamat.
+ Menyerupai Michael, ia digambarkan sebagai malaikat yang memegang 
+pedang berapi, hanya saja digambarkan bersamaan dengan Eden. Hal ini 
+karena Uriel dipercaya merupakan roh yang berdiri di gerbang taman Eden 
+dengan pedang apinya.</p><p>
+	<strong>4. Raphael (Mareia) - "Tuhan Sembuhkan"</strong></p><p>
+	Raphael merupakan malaikat paling menawan  dan oleh karena itu ia 
+sering sekali terlihat dalam gambar-gambar aliran Barat. Ia merupakan 
+archangel atau malaikat utama yang bertugas untuk memperbaiki Bumi, 
+memberikan petunjuk bagi pengelana, pelindung kaum muda. Dalam literatur
+ ia disebut-sebut sebagai malaikat yang pernah makan bersama degan Adam 
+dan Eve di Eden.</p>
+<p>
+	</p>
+<p>
+	<strong>3. Gabriel (Annunciata) - "Tuhan adalah Kekuatanku"</strong></p><p>
+	Dalam legenda Yahudi, Gabriel dikatakan merupakan malaikat yang 
+membelah Laut Merah agar kaum Ibrani dapat kabur dari pasukan Firaun. 
+Dalam Islam, ia dipercaya sebagai malaikat yang mengantar qur'an ke 
+Muhammad. Sering digambarkan sebagai sosok manusia dengan rambut panjang
+ dan sayap yang penuh warna serta memegang tongkat atau bunga lily. 
+Gabriel merupakan satu-satunya malaikat yang sering digambarkan dalam 
+bentuk wanita di seni dan literatur.</p><p>
+	<strong>2. Lucifer - "Pembawa Cahaya"</strong></p><p>
+	Beberapa dari Anda mungkin bingung mengapa nama Lucifer dimasukkan ke 
+dalam daftar malaikat. Hal ini disebabkan karena Lucifer pada awalnya 
+merupakan salah satu malaikat paling utama, bahkan paling dekat dengan 
+Tuhan. Tuhan membentuk Lucifer sedemikian rupa hingga ia dikatakan 
+paling indah di antara malaikat lainnya. Sayangnya hal ini justru 
+membuat Lucifer terlalu bangga (pride) akan dirinya dan ingin menguasai 
+semuanya dengan membuat malaikat lainnya berbuat dosa. Pada akhirnya ia 
+dan 1/3 malaikat Surga lainnya dikalahkan oleh Archangel Michael. 
+Walaupun ia adalah fallen angel, tetapi namanya masih sangat sering 
+terdengar di berbagai belahan dunia.</p>
+<p>
+	Banyak yang mengatakan bahwa begitu ia diusir dari Surga, namanya 
+diubah menjadi Satan. Pada saat ia masih di Surga, ia memegang dosa 
+kebanggaan (pride) dari 7 dosa mematikan (7 deadly sins), begitu ia 
+diusir dan mengganti namanya menjadi Satan, ia sangat marah dan memegang
+ dosa lainnya yaitu kemarahan (wrath). Nama Lucifer sendiri memiliki 
+arti "Pembawa Cahaya."</p>
+<p>
+	<strong>1. Michael (Mikaela) - "Menyerupai Tuhan"</strong></p>
+<p>
+	</p>
+<p>
+	Seberapa sering Anda mendengar nama Michael? nama Michael adalah nama 
+dari malaikat paling dikenal di dunia. Ia merupakan archangels atau 
+malaikat utama yang disebut-sebut sebagai malaikat yang mengusir Lucifer
+ dan 1/3 malaikat lainnya dari Surga, saat Lucifer memulai dosanya. 
+Disebut juga sebagai malaikat paling pertama yang diciptakan, walaupun 
+sebenarnya itu tidak benar (Lihat di paling bawah). Salah satu penyebab 
+mengapa namanya sangat dikenal adalah karena ia muncul di 3 agama, yaitu
+ Kristen, Islam dan Katholik.</p><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="mitos-mitos-terbentuknya-bumi">
+                            24. mitos mitos terbentuknya bumi</h2><br />
+                        <p>Mitos mitos terbentuknya bumi:</p><p><strong>Suku Dayak</strong></p><p>Orang di suku Dayak menganut Kaharingan, yaitu salah satu bentuk animisme. Mereka percaya bahwa suku Dayak muncul dari tengah bumi ketika perang kosmik di awal waktu antara naga jantan dan betina. Representasi dari pertempuran kosmik ini muncul di beberapa karya orang Dayak.  Berakhirnya pertempuran tersebutlah yang menciptakan kehidupan bumi ini. Tubuh mereka perlahan-lahan membentuk semesta.</p><p><strong>Suku Batak</strong></p><p>Salah satu ceritanya, semesta ini awalnya hanya ada langit dan laut yang sangat luas. Di langit hiduplah beberapa dewa dan laut adalah tempat tinggal seekor naga yang sangat kuat, Naga Padoha. Saat itu bumi masih belum tercipta, dan juga kehidupan manusia. Mereka mempercayai bahwa terciptanya kehidupan ini sebab dewa Mula Jadi. Mula Jadi tinggal di langit, yang dibagi menjadi 7 tingkat. Tiga anak Mula Jadi memiliki tiga anak, Batara Guru, Mangalabulan, dan Soripada, yang lahir dari ayam betina. Mula Jadi dibantu oleh dua burung layang-layang ketika menciptakan kehidupan. Pekerjaan mereka pun berbeda dan memili banyak versi di setiap cerita.</p><p><strong>Suku Toraja</strong></p><p>Nenek moyang suku Toraja mempercayai animisme polteistik, yang bernama aluk, atau cara/jalan yang kadang diartikan sebagai aturan. Dalam mitologi Toraja, nenek moyang suku Toraja dipercayai turun dari surge menggunakan tangga, yang digunakan bagi penduduk suku toraja sebagai media penghubung dengan Puang Matua, Sang pencipta. Menurut aluk, alam semesta dibagi menjadi dunia atas surga, dunia manusia atau bumi, dan dunia bawah atau neraka. Awalnya, surga dan bumi menikah, yang kemudian ada kegelapan, kemudian perpisahan, dan kemudian cahaya. Dewa pada mitologi Toraja adalah Png Baggai di Rante (Dewa bumi), Indo’ Ongon-Ongon (Dewi yang menyebabkan gempa), Pong Lalondong (Dewa kematian), Indo’ Belo Tumbang (Dewi penyembuh), dan masih banyak yang lain.
+</p><p>*tolong beri nilai bintang ya :)</p><p>
+#semogabermanfaat</p><br />
+                                            <h2 class="ez-toc-section" id="cerita-sejarah-yang-mengandung-unsur-rekaan-adalah-sebagai-berikutkecualia-mitos-asal-usul-rajab-mitos-pembukaan-negeric-mitos-kedatangam-sebuah-agamad-mitos-alegorie-mitos-latar">
+                            25. Cerita sejarah yang mengandung unsur rekaan adalah sebagai berikut,kecuali
+A. Mitos asal usul raja
+B. mitos pembukaan negeri
+C. mitos kedatangam sebuah           agama
+D. Mitos alegori
+E. Mitos latar</h2><br />
+                        c.mitos kedatangan sebuah agama<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-mitos-mitos-di-indonesia">
+                            26. Sebutkan mitos mitos di indonesia </h2><br />
+                        Jangan Duduk di Depan Pintu<br />Jangan Buka Payung di Dalam Rumah<br />Kalau Nyapu Gak Bersih, Nanti Jodohnya Brewokan<br />Jangan Tidur Saat Maghrib<br />
+                                            <h2 class="ez-toc-section" id="mitos-mitos-yg-dianggap-nyata-ada-adalah%e2%80%8b">
+                            27. MITOS MITOS YG DIANGGAP NYATA  ADA ADALAH​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>nyai Roro kidul</p><p><strong>Penjelasan:</strong></p><p> maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="tugas-memilih-jawabanmitos-atau-faktasars-cov-2%c2%a0bukan%c2%a0mutasi-dari-virus-flu-%e2%80%a2mitos%e2%80%a2faktavirus-ini-dibuat-manusia-%e2%80%a2mitos%e2%80%a2faktatidak-seperti-flu-covid-19-in">
+                            28. Tugas! memilih jawaban,Mitos atau Fakta?SARS-CoV-2 bukan mutasi dari virus flu.•Mitos•FaktaVirus ini dibuat manusia.•Mitos•FaktaTidak seperti flu, COVID-19 ini lebih tidak menular.•Mitos•FaktaSARS-2 lebih mematikan daripada flu.MitosFaktaAnak-anak tidak akan tertular virus corona.MitosFaktaHewan peliharaan seperti dog atau kucing tidak dapat menularkan SARS-CoV-2.MitosFaktaMengidap COVID-19 pasti berujung pada kematian.MitosFakta​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>semua nya fakta</p><p><strong>Penjelasan:</strong></p><p>Maaf klo salah </p><p><strong>Jawaban:</strong></p><p>fakta</p><p>mitos</p><p>mitos</p><p>mitos</p><p>fakta</p><p>mitos</p><br />
+                                            <h2 class="ez-toc-section" id="apa-ada-mitos-mitos-tentang-asal-usul-tradisi-kuah-beulangong%e2%80%8b">
+                            29. apa ada mitos mitos tentang asal-usul tradisi kuah beulangong​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>adanya kuah bakso</p><p>wkwk</p><br />
+                                            <h2 class="ez-toc-section" id="mitos-mitos-dalam-keluarga-suku-batak%e2%80%8b">
+                            30. mitos mitos dalam keluarga suku batak​</h2><br />
+                        <p><strong>Jawaban:</strong></p>ADA 10 MITOS SUKU ATAU ORANG BATAKMitosnya Orang batak itu doyan babiMitosnya Orang batak itu makan orangMitosnya Orang batak lebih pintar berpolitik dari Orang lainMitosnya Orang batak itu taat beragama dan patuh pada ajaran yang baikMitosnya orang batak galak-galak,sombong dan mengerikanMitosnya orang batak cinta kampung halaman ( bona pasogit )Mitosnya orang batak cinta damaiMitosnya cewe batak itu cantikMitosnya orang batak itu kompak dan bangga jadi orang batakSEMOGA MEMBANTU ;)kalo salah maaf ya :(<br />
+                                            <h2 class="ez-toc-section" id="pada-masa-hindu-buddha-seorang-raja-yang-berkuasa-dianggap-sebaga-titisan-dewa-jika-seorang-raja-berasal-dari-rakyat-biasa-di-ciptakan-mitos-mitos-tertentu-tentang-dirinya-penciptaan-mitos-mito">
+                            31. Pada masa hindu -buddha seorang raja yang berkuasa  dianggap sebaga titisan dewa .jika seorang raja berasal dari rakyat biasa ,di ciptakan mitos -mitos tertentu tentang dirinya .penciptaan mitos -mitos tersebut dilakukan dengan tujuan ...</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>membohongi rakyat</p><p><strong>Penjelasan:</strong></p><p>..............</p><p><strong>Jawaban:</strong></p><p>membodohi masyarakat</p><br />
+                                            <h2 class="ez-toc-section" id="dongeng-sajarah-sagenyaeta-dongeng-anu-nyaritakeun-ngeunaan-a-kahirupan-jalmab-sasatoanc-kapahlawanand-mitostolong-di-jwb-ya-kak-mksii-%e2%80%8b">
+                            32. Dongeng sajarah (sage)nyaeta dongeng anu nyaritakeun ngeunaan...A. Kahirupan jalmaB. SasatoanC. KapahlawananD. Mitostolong di jwb ya kak mksii..​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C.  Kapahlawanan</p><p></p><p>semoga membantu dan maaf jika salah</p><br />
+                                            <h2 class="ez-toc-section" id="perbedaan-antara-sejarah-dengan-mitos-adalah-a-kajian-dalam-sejarah-logis-sedangkan-kajian-mitos-tidak-logis">
+                            33. perbedaan antara sejarah dengan mitos adalah........                                  A.kajian dalam sejarah logis ,sedangkan kajian mitos tidak logis                                                    B.sejarah hanya mengkaji masa lalunya manusia,sedangkan mitos kajian masa lalunya lebihluas                      C.sejarah mengungkapkan peristiwa nyata,sedangkan mitos adalah dongeng                                           D.sejarah merupakan salah satu cabang ilmu,sementara mitos bukan                                                           E.tidak adanya unsur waktu pada mitos,sementara sejarah sebaliknya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>B.sejarah hanya mengkaji masa lalu nya</p><p>manusia,sedangkan mitos kajian masa lalu nya lebih luas</p><br />
+                                            <h2 class="ez-toc-section" id="ciri-ciri-mitos-dan-jenis-mitos-beserta-contohnya">
+                            34. ciri ciri mitos dan jenis mitos beserta contohnya</h2><br />
+                        *Distorsif <br />*Intension <br />*Statemen of fact <br />*Motivasional <br /><br />Jenis mitos:<br />Mitos sebenarnya, cerita rakyat, dan legenda.<br /><br />maaf kalo salah..<br />
+                                            <h2 class="ez-toc-section" id="konsep-sejarah-sebagai-mitos-bagaimana-pembuktian-dan-apa-yang-menjadikan-mitos-tersebut-dipercaya-hingga-saat-ini">
+                            35. Konsep Sejarah Sebagai Mitos, Bagaimana Pembuktian dan apa yang menjadikan Mitos tersebut dipercaya hingga saat ini?</h2><br />
+                        mitos yang berkembang saat ini adalah mitos tentang ratu pantai selatan, nyi roro kidul. dalam sejarah di ceritakan asal usulnya, lalu dijadikan mitos .Sejarah sbg mitos tidak dapat dibuktikan ke asliannya karena didalam mitos terdapat pemikiran irasional dan tidak dapat dibuktikan kebenarannya karena tidak bersifat pasti<br />Yang menyebabkan dipercaya hingga saat ini adalah kurangnya pemikiran logis terhadap mitos oleh masyarakat<br />
+                                            <h2 class="ez-toc-section" id="mitos-dapat-digunakan-sebagai-sumber-daya-rekonstruksi-sejarah-apa-yang-anda-ketahui-tentang-mitos">
+                            36. mitos dapat digunakan sebagai sumber daya rekonstruksi sejarah Apa yang anda ketahui tentang mitos</h2><br />
+                        mitos adalah hal-hal yg beredar di tengah masyarakat tertentu yang sebenarnya belum tentu kebenarannya namun seringkali dipercaya..<br />
+                                            <h2 class="ez-toc-section" id="mitos-mitos-kepemimpinan-salah-satunya-menyatakan-bahwa-para-pemimpin-dilahirkan-bukan-dibentuk-jelaskan-pendapat-saudara-tentang-mitos-kepemimpinan-tersebut">
+                            37. mitos-mitos kepemimpinan salah satunya menyatakan bahwa "para pemimpin dilahirkan, bukan dibentuk". jelaskan pendapat saudara tentang mitos kepemimpinan tersebut!</h2><br />
+                        KARENA KALAU DI LAHIRKAN BERARTI MELAHIRKAN KADER BARU....<br /><br />
+                                            <h2 class="ez-toc-section" id="jika-memang-benar-vampire-itu-tidak-ada-dan-hanya-mitos-siapa-yg-membuat-mitos-tersebut-dan-alasan-apa-ia-membuat-mitos-tersebut">
+                            38. Jika memang benar Vampire itu tidak ada, dan hanya mitos. Siapa yg membuat mitos tersebut dan alasan apa ia membuat mitos tersebut? </h2><br />
+                        Vampire berasal dari Rumania dan mulai menyebar di Eropa pada abad 16. Vampire atau bisa disebut "Dracula" adalah kisah nyata. Sejarah Dracula berasal dari seorang Raja Rumania pada Abad 15 bernama Vlad Dracul.<br /><br />Vlad Dracul adalah Raja Rumania pada abad 14 yang gemar berperang dan terkenal kejam. Kemampuannya dalam berperang tidak diragukan lagi dilihat dari jumlah peperangan yang dia menangkan. Dipercaya Vlad Dracul mempunyai ritual khusus sebelum memulai peperangan, yaitu meminum dan berendam dengan darah mayat yang berhasil dikalahkannya (namun saya tidak mendapatkan bukti yang menguatkan hal ini). setelah itu berkembanglah dan banyak cerita mitos tentang vampir di berbagai negara.<br />semoga membantu yaa :)<strong>banyak sekali mitos-mitos populer vampire yang sudah kita kenal diantaranya vampire takut dengan bawang putih, sinar matahari, dll.   kebanyakan mitos-mitos itu berasal dari era abad pertengahan di Eropa, yang berkembang dari cerita rakyat setempat, lalu kemudia di kenal sebagai mitos vampire yang kita ketahui sekarang ini.</strong><br />
+                                            <h2 class="ez-toc-section" id="kenapa-mitos-di-pandang-sangat-penting-padahal-mitos-itu-bukan-fakta">
+                            39. Kenapa mitos di pandang sangat penting
+  Padahal mitos itu bukan fakta...</h2><br />
+                        karena biasanya mitos merupakan kepercayaan yang sudah turun temurunkarena cara pandang manusia berbeda beda jadi ada yang memandang mitos itu penting. tapi saya percaya bahwa mitos itu untuk menakut nakuti saja.<br /><br />
+                                            <h2 class="ez-toc-section" id="mitos-mitos-gedung-internatio-di-surabaya%e2%80%8b">
+                            40. mitos mitos gedung internatio di surabaya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Selasa, 30 Oktober 1945, situasi Surabaya semakin memanas. Di dalam gedung Internatio, kubu dari pasukan Inggris telah terkepung oleh ratusan pejuang republiken dan arek-arek Suroboyo.</p><p>Pimpinan Inggris saat itu Brigjen AWS Mallaby dan pimpinan dari Indonesia yang diwakili Dul Arnowo sedang berunding mengenai gencatan senjata dan pemindahan pasukan Gurkha Inggris ke Perak. Maklum, pasukan Gurkha terus berbuat ulah dengan menembaki orang-orang lewat yang dianggap republiken.</p><p>Meskipun sudah diperintahkan keluar dan pindah dengan jaminan, tampaknya pasukan Gurkha enggan meninggalkan gedung Internatio di pinggir Kalimas tersebut. Suara saling tembak yang sempat terhenti beberapa saat, pecah lagi yang diawali dari Pasukan Gurkha.</p><p>Peluru pertama Gurkha meletus yang kemudian disahut peluru kedua dan seterusnya dari pejuang. Kontak senjata antara pasukan Inggris dan pemuda Suroboyo tidak bisa dihindakan. Sekonyong-konyong dua kubu langsung saling berlindung dari terkaman peluru.</p><p>Tapi celaka, Komandan Brigade ke-49 Allied Forces In the Netherlands East Indie (AFNEI) Jawa Timur Brigjen AWS Mallaby berada di dalam mobil. Saat hendak meninggalkan gedung internatio dan melewati jembatan merah Ia terjebak di tengah-tengah baku tembak. Ia dinyatakan vermist atau hilang. Sesaat kemudian, ia telah ditemukan tewas tertembak.</p><p>Tewasnya Brigjen AWS Mallaby mendapat respon keras oleh atasannya Divisi ke-5 Jawa Timur Jenderal EC Mansergh. Hal inilah yang kemudian membuka jalan lebar menuju pertempuan yang lebih besar yakni 10 November 1945.</p><p>Pendiri komunitas Roodebrug Soerabaia Ady Setyawan (35) mengatakan, gedung internatio merupakan salah satu monumen saksi bisu menjelang dan saat berlangsungnya pertempuran 10 November.</p><p>"Gedung Internatio ini dulu menjadi salah satu markas tentara Inggris dan tentara Sekutu dalam menghadapi perlawanan dari pejuang di Surabaya," kata Ady saat ditemui detikcom, Sabtu (10/11/2018).</p><p>Dalam kronologi waktu pertempuran 10 November 1945, insiden di gedung Internatio merupakan salah satu rangkaian dari rentetan revolusi di Surabaya. Karena dari insiden Internatio yang menewaskan Mallaby, kemudian lahir ultimatum dari EC Mansergh pada tanggal 9 November 1945.</p><p>"Ultimatum Mansergh ini mengancam jika rakyat Surabaya tidak menyerah esok harinya maka akan diserang dari darat, udara, dan laut oleh sekitar 24 ribu pasukan Inggris," terang Ady.</p><p>Namun yang diketahui selanjutnya, arek-arek Suroboyo tak menyerah. Mereka mengabaikan ultimatum itu. Tak ada senjata yang diserahkan dan dilucuti. Arek-arek Suroboyo dengan gagah berani berjuang melawan dan menghadapi serangan pasukan sekutu yang dipimpin Inggris.</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/dMuPCHLEbS8?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_daerah</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-raja-abrahah-ingin-menghancurkan-ka-bah/">Mengapa Raja Abrahah Ingin Menghancurkan Ka bah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-motivator-adalah/">Contoh Motivator Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/etto-artinya/">Etto Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hubungan-antara-kepribadian-dan-kebudayaan-adalah/">Hubungan Antara Kepribadian Dan Kebudayaan Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/andai-kalian-sebagai-pemilik-bank-pemberi-pinjaman-modal/">Andai Kalian Sebagai Pemilik Bank Pemberi Pinjaman Modal</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-pengertian-disiplin/">Jelaskan Pengertian Disiplin</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lele-bersifat-aktif-bergerak-mencari-makanan-pada-malam-hari-disebut/">Lele Bersifat Aktif Bergerak Mencari Makanan Pada Malam Hari Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ciri-pernapasan-dada-pada-waktu-inspirasi-adalah/">Ciri Pernapasan Dada Pada Waktu Inspirasi Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/limas-segi-empat/">Limas Segi Empat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-olahraga-yang-memanfaatkan-gaya-tarik-adalah/">Contoh Olahraga Yang Memanfaatkan Gaya Tarik Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kelebihan-bahan-plastik-sebagai-bahan-kerajinan-adalah/">Kelebihan Bahan Plastik Sebagai Bahan Kerajinan Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pentingnya-membuat-rencana-aksi-dalam-perencanaan-usaha-adalah/">Pentingnya Membuat Rencana Aksi Dalam Perencanaan Usaha Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pesawat-terbang-termasuk-alat-transportasi-udara-yang-menggunakan/">Pesawat Terbang Termasuk Alat Transportasi Udara Yang Menggunakan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-hasil-cetak-tinggi/">Contoh Hasil Cetak Tinggi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/semua-nabi-menyebarkan-ajaran-yang-sama-yaitu-berupa-ajaran/">Semua Nabi Menyebarkan Ajaran Yang Sama Yaitu Berupa Ajaran</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pengertian-teknik-carving-adalah/">Pengertian Teknik Carving Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apakah-yang-dimaksud-dengan-plot/">Apakah Yang Dimaksud Dengan Plot</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/saat-sebuah-benda-bergerak-dengan-kecepatan-tetap-maka/">Saat Sebuah Benda Bergerak Dengan Kecepatan Tetap Maka</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jalur-tanah-pada-kanan-kiri-sungai/">Jalur Tanah Pada Kanan Kiri Sungai</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/judge-artinya/">Judge Artinya</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

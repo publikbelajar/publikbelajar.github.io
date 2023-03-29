@@ -1,0 +1,1678 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Rumus Sudut Fase - BELAJAR</title>
+    <meta name="description" content="Rumus Sudut Fase, , , , , , , 0, LATIHAN SOAL MENGHITUNG SUDUT FASE RANGKAIAN RLC | ARUS BOLAK-BALIK #3, www.youtube.com, 1280 x 720, jpeg, , 20, rumus-sudut-fase, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Rumus Sudut Fase - BELAJAR" />
+    <meta property="og:description" content="Rumus Sudut Fase, , , , , , , 0, LATIHAN SOAL MENGHITUNG SUDUT FASE RANGKAIAN RLC | ARUS BOLAK-BALIK #3, www.youtube.com, 1280 x 720, jpeg, , 20, rumus-sudut-fase, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Rumus Sudut Fase - BELAJAR" />
+    <meta name="twitter:description" content="Rumus Sudut Fase, , , , , , , 0, LATIHAN SOAL MENGHITUNG SUDUT FASE RANGKAIAN RLC | ARUS BOLAK-BALIK #3, www.youtube.com, 1280 x 720, jpeg, , 20, rumus-sudut-fase, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Rumus Sudut Fase</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">crcaidelia23</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Rumus+Sudut+Fase" alt="Rumus Sudut Fase">
+                    </div>
+                    <p></p>
+                    <p>rumus mencari sudut fase gelombang</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-mencari-sudut-fase-gelombang">1.
+                                            rumus mencari sudut fase gelombang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cara-menentukan-fase-sudut-fase-beda-fase">2.
+                                            cara menentukan fase, sudut fase, beda fase </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-kalian-ketahui-mengenai-sudut-fasefasedan-beda-fase-getaran-harmonik-%e2%80%8b">3.
+                                            apa yang kalian ketahui mengenai sudut fase,fase,dan beda fase getaran harmonik ?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-beda-fase-gelombang">4.
+                                            Rumus beda fase gelombang = ...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-beda-sudut-fase%e2%80%8b">5.
+                                            tentukan beda sudut fase!!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-benda-bergetar-harmonik-sederhana-dengan-sudut-fase-awal-0-dan-amplitudo-10cm-saat-sudut-fase-getarnya-30%c2%b0-berapa-simpagannya">6.
+                                            suatu benda bergetar harmonik sederhana dengan sudut fase awal 0 dan amplitudo 10cm saat sudut fase getarnya 30° berapa simpagannya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-benda-bergetar-harmonik-dengan-amplitudo-5-cm-dan-frekuensi-5-hz-jika-sudut-fase-awal-nol-tentukan-sudut-fase-getaran-saat-simpangannya-mencapai-4-cm">7.
+                                            suatu benda bergetar harmonik dengan amplitudo 5 cm dan frekuensi 5 Hz. jika sudut fase awal nol, tentukan sudut fase getaran saat simpangannya mencapai 4 cm ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pengertian-sudut-fase">8.
+                                            pengertian sudut fase</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#benda-bergetar-harmonik-dengan-amplitudo-4-cm-dan-frekuensi-10hz-saat-simpangannya-2-cmsudut-fase-awal-0%c2%b0maka-sudut-fase-getarannya-sebesar-%e2%80%8b">9.
+                                            benda bergetar harmonik dengan amplitudo 4 cm dan frekuensi 10hz.Saat simpangannya 2 cm,sudut fase awal 0°,maka sudut fase  getarannya sebesar..​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-benda-bergetar-harmonik-dengan-amplitudo-6cm-dan-frekuensi-5hz-saat-simpangan-mencapai-3cm-jika-sudut-fase-awal-nol-besar-sudut-fase-getaran-adalah">10.
+                                            Suatu benda bergetar harmonik dengan amplitudo 6cm dan frekuensi 5hz. Saat simpangan mencapai 3cm, jika sudut fase awal nol, besar sudut fase getaran adalah..</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-benda-bergetar-harmonik-dengan-amplitudo-6-cm-dan-frekuensi-5-hz-saat-simpangannya-mencapai-3-cm-jika-sudut-fase-awal-nol-besar-sudut-fase-getaran-adalah">11.
+                                            suatu benda bergetar harmonik dengan amplitudo 6 cm dan frekuensi 5 Hz. saat simpangannya mencapai 3 cm jika sudut fase awal nol,  besar sudut fase getaran adalah... </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-sudut-revolusi-bumi-adalah-2-fase-fase-bulan-adalah">12.
+                                            1.Sudut revolusi bumi adalah...
+2.Fase - fase bulan adalah...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#besarnya-selisih-sudut-fase-antara-kedua-gelombang-disebut">13.
+                                            Besarnya selisih sudut fase antara kedua gelombang disebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-titik-melakukan-gerak-harmonik-dengan-frekuensi-05-hz-hitunglah-fase-sudut-fase-dan-beda-fase-pada-05-detik-dan-3-detik">14.
+                                            suatu titik melakukan gerak harmonik dengan frekuensi 0,5 Hz. hitunglah fase, sudut fase dan beda fase pada 0,5 detik dan 3 detik.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-benda-bergetar-harmonik-dengan-amplitudo-4cm-dan-5hz-saat-simpangannya-mencapai-2cm-jika-sudut-fase-awal-nol-maka-sudut-fase-getarannya-adalah">15.
+                                            Suatu benda bergetar harmonik dengan amplitudo 4cm dan 5hz saat simpangannya mencapai 2cm ,jika sudut fase awal nol maka sudut fase getarannya adalah...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diagram-yang-menyatakan-hubungan-antara-sudut-fase-dari-suatu-vektor-disebut">16.
+                                            diagram yang menyatakan hubungan antara sudut fase dari suatu vektor disebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-benda-bergetar-harmonik-dengan-amplitudo-4-cm-dan-frekuensi-5-hz-saat-simpangannya-mencapai-2-cm-jika-sudut-fase-awal-nol-maka-sudut-fase-getarannya-adalah">17.
+                                            Suatu benda bergetar harmonik dengan amplitudo 4 cm dan frekuensi 5 Hz. Saat simpangannya mencapai 2 cm, jika sudut fase awal nol, maka sudut fase getarannya adalah ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apabila-suatu-getaran-mempunyai-fase-112-maka-berapa-sudut-fasenya">18.
+                                            apabila suatu getaran mempunyai fase 1/12, maka berapa sudut fasenya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-persamaan-untuka-sudut-fase-b-fase-c-beda-fase-d-beda-fase-dua-benda-yang-sefasee-beda-fase-dua-benda-yang-berbeda-fase%e2%80%8b">19.
+                                            Tuliskan persamaan untuka. Sudut fase b. Fase c. Beda fase d. Beda fase dua benda yang sefasee. Beda fase dua benda yang berbeda fase​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-saat-energi-kinetik-benda-yang-bergetar-selaras-sama-dengan-energi-potensialnya-maka-a-sudut-fasenya-180%c2%b0b-sudut-fasenya-90%c2%b0c-sudut-fasenya-45%c2%b0d-percepatan-nya-0e-kecepa">20.
+                                            pada saat energi kinetik benda yang bergetar selaras sama dengan energi potensialnya,  maka... a. sudut fasenya 180°b.  sudut fasenya 90°c. sudut fasenya 45°d. percepatan nya 0e. kecepatannya 0</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#benda-bergetar-harmonik-dengan-amplitudo-4cm-dan-frekuensi-10hz-saat-simpangngannya-2cm-sudut-fase-awal-0-derajat-maka-sudut-fase-getarannya-sebesar">21.
+                                            Benda bergetar harmonik dengan amplitudo 4cm dan frekuensi 10hz saat simpangngannya 2cm sudut fase awal 0 derajat maka sudut fase getarannya sebesar?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-saat-energi-kinetik-benda-yang-bergetar-harmonis-sama-dengan-energi-potensialnya-maka-sudut-fasenya-dan-radian-fasenya-berapa">22.
+                                            pada saat energi kinetik benda yang bergetar harmonis sama dengan energi potensialnya maka sudut fasenya dan radian fasenya berapa</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-perbedaan-sudut-fase-fase-dan-beda-faseyang-tau-tolong-jawab-ya">23.
+                                            Sebutkan perbedaan sudut fase, fase, dan beda fase
+Yang tau tolong jawab ya..</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-benda-bergetar-harmonik-dengan-amplitudo-5-cm-dan-frekuensi-5hz-jika-sudut-fase-awal-nol-tentukan-sudut-fase-getaran-saat-simpanganya-mencapai-4-cm">24.
+                                            suatu benda bergetar harmonik dengan amplitudo 5 cm dan frekuensi 5Hz jika sudut fase awal nol tentukan sudut fase getaran saat simpanganya mencapai 4 cm</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-saat-energi-kinetik-benda-bergetar-selaras-sama-dengan-energi-potensialnya-maka%e2%80%a6-a-sudut-fasenya-180%c2%b0-b-fasenya-%c2%be-c-sudut-fasenya-45%c2%b0-d-fasenya-%c2%bc">25.
+                                              Pada saat energi kinetik benda bergetar selaras sama dengan energi potensialnya, maka….  a.   sudut fasenya 180°  b.   fasenya ¾  c.   sudut fasenya 45°  d.   fasenya ¼  e.   percepatannya nol</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#benda-bergetar-harmonik-amplitudo-4-cm-dan-frekuensinya-10-hz-saat-simpangan-2-cm-sudut-fase-awal-0%c2%b0-maka-sudut-fasenya">26.
+                                            Benda bergetar harmonik amplitudo 4 cm dan frekuensinya 10 hz. Saat simpangan 2 cm sudut fase awal 0°. Maka sudut fasenya </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-suatu-benda-bergetar-harmonik-sederhana-dengan-sudut-fase-awal-0-dan-amplitudo-10-cm-saat-sudut-fase-getarnya-30%c2%b0-berapa-simpanganya-tolong-di-bantu-kk">27.
+                                            1. suatu benda bergetar harmonik sederhana dengan sudut fase awal 0 dan amplitudo 10 cm, saat sudut fase getarnya 30°. berapa simpanganya.  tolong di bantu kk</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-benda-bergetar-harmonik-dengan-amplitudo-5cm-frekuensi-5-hz-jika-sudut-fase-awal-nol-tentukan-sudut-fase-getaran-saat-simpanganya-mencapai-4cm%e2%80%8b">28.
+                                            suatu benda bergetar harmonik dengan amplitudo 5cm frekuensi 5 Hz jika sudut fase awal nol tentukan sudut fase getaran saat simpanganya mencapai 4cm​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-benda-bergetar-harmonik-sederhana-dengan-sudut-fase-awal-0-dan-amplitudo-10-cm-saat-sudut-fase-getarnya-30%c2%b0-simpangannya-adalah">29.
+                                            Suatu benda bergetar harmonik sederhana dengan sudut fase awal 0 dan amplitudo 10 cm. Saat sudut fase getarnya 30° simpangannya adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#benda-begerak-harmonik-dengan-amplitudo-4-cm-dan-frekuensi-10-hz-saat-simpangan-2-cm-sudut-fase-awal-0%c2%b0-maka-sudut-fase-getarannya-sebesar">30.
+                                            Benda begerak harmonik dengan amplitudo 4 cm dan frekuensi 10 Hz saat simpangan 2 cm sudut fase awal 0°, maka sudut fase getarannya sebesar</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-benda-bergerak-harmonik-dengan-ampltudo-4cm-dan-frekuenzi-5hz-saat-simpangannya-mencapai-2-cm-jika-sudut-fase-awal-0-maka-sudut-fase-getarannya-adalah">31.
+                                            suatu benda bergerak harmonik dengan ampltudo 4cm dan frekuenzi 5Hz.saat simpangannya mencapai 2 cm.jika sudut fase awal 0 maka sudut fase getarannya adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebuah-partikel-melakukan-ghs-dengan-periode-2-sekon-hitung-fase-dan-sudut-fase-setelah-05-s-dan-1-s-jika-sudut-fase-awalnya-sama-dengan-nol%e2%80%8b">32.
+                                            Sebuah partikel melakukan ghs dengan periode 2 sekon. hitung fase dan sudut fase setelah 0,5 s dan 1 s, jika sudut fase awalnya sama dengan nol!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#8-kedudukan-suatu-benda-dilihat-dari-arahgetar-dan-simpangannya-pada-suatu-saattertentu-disebut-dengan-a-fased-periodeb-sudut-fase-e-frekuensic-beda-fase%e2%80%8b">33.
+                                            8. Kedudukan suatu benda dilihat dari arahgetar dan simpangannya pada suatu saattertentu disebut dengan ....a. Fased. Periodeb. Sudut fase e. Frekuensic. Beda fase​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-benda-bergetar-harmonik-dengan-amplitudo-5-cm-dan-frekuensi-5-hz-jika-sudut-fase-awal-nol-tentukan-sudut-fase-getaran-saat-simpangannya-mencapai-4-cm%e2%80%8b">34.
+                                            Suatu benda bergetar harmonik dengan amplitudo 5 cm dan frekuensi 5 Hz. Jika sudut fase awal nol, tentukan sudut fase getaran saat simpangannya mencapai 4 cm!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kedudukan-suatu-benda-dilihat-dari-arahgetar-dan-simpangannya-pada-suatu-saattertentu-disebut-dengan-a-fased-periodeb-sudut-fase-e-frekuensic-beda-fase%e2%80%8b">35.
+                                            Kedudukan suatu benda dilihat dari arahgetar dan simpangannya pada suatu saattertentu disebut dengan ....a. fased. periodeb. sudut fase e. frekuensic. beda fase​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-perbedaan-antara-sudut-fase-dan-fase-getaran-pada-gerak-harmonik">36.
+                                            Apa perbedaan antara sudut fase dan fase getaran pada gerak harmonik</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-persamaan-gelombang-yaitu-y-02-sin-10%cf%80t-02%cf%80x-tentukan-sudut-fase-fase-dan-beda-fasetolong-di-bantu-yh-%e2%80%8b">37.
+                                            diketahui persamaan gelombang yaitu y= 0,2 Sin (10πt - 0,2πx) tentukan sudut fase, fase dan beda fase?(tolong di bantu yh) ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perbedaan-sudut-fase-dan-beda-fase-apa-yah-yg-tau-tolong-dijawab-yah">38.
+                                            Perbedaan sudut fase dan beda fase apa yah? Yg tau tolong dijawab yah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-saat-energi-kinetik-benda-yang-melakukan-gerak-harmonik-sederhana-sama-dengan-energi-potensialnya-maka-a-sudut-fasenya-180%c2%b0b-fasenya-34c-sudut-fasenya-45%c2%b0d-fasenya-14e-pe">39.
+                                            Pada saat energi kinetik benda yang melakukan gerak harmonik sederhana sama dengan energi potensialnya, maka...
+A. Sudut fasenya 180°
+B. Fasenya 3/4
+C. Sudut fasenya 45°
+D. Fasenya 1/4
+E. Percepatannya nol
+Yang bisa jawab, tolong bantuin yah beserta cara" nya...miane</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-capaian-pembelajaran-dirumuskan-per-fase">40.
+                                            Mengapa capaian pembelajaran dirumuskan per fase?</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="rumus-mencari-sudut-fase-gelombang">
+                            1. rumus mencari sudut fase gelombang</h2><br />
+                        ada pada foto ya......<p><strong>Penjelasan:</strong></p><p>sudut fase gelombang   :     θ = ω.t ± kx = 2π . φ</p><p></p><p></p>              semoga sukses ^_^<br />
+                                            <h2 class="ez-toc-section" id="cara-menentukan-fase-sudut-fase-beda-fase">
+                            2. cara menentukan fase, sudut fase, beda fase </h2><br />
+                        sudut fase =<br />2phi ( t/T - x/λ)<br />fase = <br />( t/T - x/λ)<br />beda fase = <br />Δx/λ atau [tex]  X_{b} [/tex] - [tex] X_{a} [/tex] / λ<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-kalian-ketahui-mengenai-sudut-fasefasedan-beda-fase-getaran-harmonik-%e2%80%8b">
+                            3. apa yang kalian ketahui mengenai sudut fase,fase,dan beda fase getaran harmonik ?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Perbedaan antara sudut fase, fase dan beda fase adalah fase besar sudut pada gelombang, sedangkan fase sama dengan sudut fase yang dibagi 2π sedangkan beda fase adalah selisih dua fase partikel pada gelombangnya</p><p><strong>Penjelasan:</strong></p><p>Semoga bermanfaat</p><p>Yang aku tau itu perbedaannya</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-beda-fase-gelombang">
+                            4. Rumus beda fase gelombang = ...</h2><br />
+                        <p>rumus tertera pada gambar ya kak </p><p></p><p>#smg membantu </p><p>#tetap smngt!</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-beda-sudut-fase%e2%80%8b">
+                            5. tentukan beda sudut fase!!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tungguuuuuuuuuuu</p><p><strong>Penjelasan:</strong></p><p>huhuhuhu</p><br />
+                                            <h2 class="ez-toc-section" id="suatu-benda-bergetar-harmonik-sederhana-dengan-sudut-fase-awal-0-dan-amplitudo-10cm-saat-sudut-fase-getarnya-30%c2%b0-berapa-simpagannya">
+                            6. suatu benda bergetar harmonik sederhana dengan sudut fase awal 0 dan amplitudo 10cm saat sudut fase getarnya 30° berapa simpagannya</h2><br />
+                        y = A sin θ <br />   = 0,1 sin 30°<br />   = 0,1 (1/2)<br />   = 0,05 m = 5 cm<br /><br /><br />Semangat belajar.. ^_^<br />
+                                            <h2 class="ez-toc-section" id="suatu-benda-bergetar-harmonik-dengan-amplitudo-5-cm-dan-frekuensi-5-hz-jika-sudut-fase-awal-nol-tentukan-sudut-fase-getaran-saat-simpangannya-mencapai-4-cm">
+                            7. suatu benda bergetar harmonik dengan amplitudo 5 cm dan frekuensi 5 Hz. jika sudut fase awal nol, tentukan sudut fase getaran saat simpangannya mencapai 4 cm ?</h2><br />
+                        y = A sin wt<br /><br />4 = 5 sin wt<br /><br />Sin wt= 0,8<br /><br />wt = 53 derajat<br />y = A sin θ<br />θ = sin⁻¹ (y / A)<br />   = sin⁻¹ [4 cm / (5 cm)]<br />   = sin⁻¹ (0,8) ≈ 53°<br />
+                                            <h2 class="ez-toc-section" id="pengertian-sudut-fase">
+                            8. pengertian sudut fase</h2><br />
+                        Sudut fase adalah sudut yang telah ditempuh sebuah benda yang bergetar. <br /><br />Ө = ω.t +Өo <br /><br /><br />Fase adalah sudut fase di bagi sudut satu kali putaran. <br /><br />φ = Ө / 2πSudut fase adalah sudut yang telah ditempuh sebuah benda yang bergetar<br /><br />
+                                            <h2 class="ez-toc-section" id="benda-bergetar-harmonik-dengan-amplitudo-4-cm-dan-frekuensi-10hz-saat-simpangannya-2-cmsudut-fase-awal-0%c2%b0maka-sudut-fase-getarannya-sebesar-%e2%80%8b">
+                            9. benda bergetar harmonik dengan amplitudo 4 cm dan frekuensi 10hz.Saat simpangannya 2 cm,sudut fase awal 0°,maka sudut fase  getarannya sebesar..​</h2><br />
+                        <p>A=4cm</p><p></p><p>f=10hz</p><p></p><p>y=2cm</p><p></p><p>∝=0°</p><p></p><p>sudut fase getaranya__?</p><p></p><p>y=Asin∝</p><p></p><p>2=4sin∝</p><p></p><p>sin∝=1/2</p><p></p><p>∝=30°</p><br />
+                                            <h2 class="ez-toc-section" id="suatu-benda-bergetar-harmonik-dengan-amplitudo-6cm-dan-frekuensi-5hz-saat-simpangan-mencapai-3cm-jika-sudut-fase-awal-nol-besar-sudut-fase-getaran-adalah">
+                            10. Suatu benda bergetar harmonik dengan amplitudo 6cm dan frekuensi 5hz. Saat simpangan mencapai 3cm, jika sudut fase awal nol, besar sudut fase getaran adalah..</h2><br />
+                        GERAK HARMNONIK<br />- persamaan simpangan<br /><br />A = 6 cm<br />y = 3 cxm<br />θ = ___ ?<br /><br />persamaan simpangan<br />y = A sin θ<br />3 = 6 sin θ<br />sin θ = ¹/₂<br />θ = <strong>30° = π/6 rad</strong><br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="suatu-benda-bergetar-harmonik-dengan-amplitudo-6-cm-dan-frekuensi-5-hz-saat-simpangannya-mencapai-3-cm-jika-sudut-fase-awal-nol-besar-sudut-fase-getaran-adalah">
+                            11. suatu benda bergetar harmonik dengan amplitudo 6 cm dan frekuensi 5 Hz. saat simpangannya mencapai 3 cm jika sudut fase awal nol,  besar sudut fase getaran adalah... </h2><br />
+                        GH<br />• Persamaan simpangan<br /><br />A = 6 cm<br />y = 3 cm<br />θ = __?<br /><br />sudut fase<br />y = A sin θ<br />3 = 6 sin θ<br />sin θ = ½<br />θ = 30° atau π/6 rad ✓<br />
+                                            <h2 class="ez-toc-section" id="1-sudut-revolusi-bumi-adalah-2-fase-fase-bulan-adalah">
+                            12. 1.Sudut revolusi bumi adalah...
+2.Fase - fase bulan adalah...</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Definisi dari revolusi bumi adalah sebuah pergerakan peredaran bumi mengelilingi matahari. Dimana waktu yang dibutuhkan oleh bumi mengelilingi matahari adalah 365¼ hari pada orbitnya dalam sekali. Dari waktu 365¼ tersebut atau 1 tahun surya disebut kala revolusi bumi</p><p>2. Fase bulan adalah bentuk bulan yang selalu berubah-ubah jika dilihat dari bumi. Fase bulan tergantung pada kedudukan bulab terhadap matahari yang dilihat dari bumi. Fase bulan disebut juga Aspek bulan. ... Bulan baru (new moon).</p><p><strong>Jawaban:</strong></p><p>1.membentuk 23,5°</p><p>2.Bulan baru, bulan sabit, bulan separuh, bulan cembung, bulan purnama</p><br />
+                                            <h2 class="ez-toc-section" id="besarnya-selisih-sudut-fase-antara-kedua-gelombang-disebut">
+                            13. Besarnya selisih sudut fase antara kedua gelombang disebut</h2><br />
+                        Dalam fisika, kita mengenal istilah gelombang. Gelombang merupakan gejala rambatan yang diakibatkan oleh suatu getaran atau usikan. Suatu gelombang hanya akan terjadi apabila sumber getaran mengirimkan getaran dari satu titik ke titik lain secara terus menerus. Selain itu, setiap terjadinya suatu gelombang, gelombang tersebut turut membawa energi dari titik asal hingga ke tujuannya. <br /><br />Lebih lanjut lagi, dalam gelombang, kita mengenal beberapa istilah, misalnya fase dan beda fase. Fase merupakan istilah yang dikenakan pada suatu tahap yang dicapai oleh gelombang, yang dilakukan dengan membandingkan gerak lain yang sejenis dengan frekuensi yang sama. Dua buah gelombang baru dapat dikatakan berada dalam satu fase apabila keduanya memiliki frekuensi yang sama serta titik-titiknya berada pada posisi yang bersesuaian dan sama selama terjadi osilasi. Apabila syarat ini tidak terpenuhi, maka kedua gelombang tersebut dikatakan tidak sefase.<br /><br />Selain satu fase, kita juga mengenal istilah lain yaitu beda fase. Dalam fisika, BEDA FASE DIARTIKAN SEBAGAI BESARNYA SELISIH SUDUT FASE ANTARA KEDUA GELOMBANG. <br /><br />Beda fase turut menyertakan informasi perihal seberapa jauh sebuah titik dari saatu gelombang yang berada di titik yang bersesuaian dengan gelombang yang lain. Biasanya, untuk gelombang yang berlawanan fase, besar beda fasenya adalah 180 derajat. Sementara itu, untuk gelombang yang sefase, besar beda fasenya adalah 0 derajat.<br /><br /><br />Contoh lain tentang beda fase dapat kamu pelajari pada halaman berikut:<br />https://brainly.co.id/tugas/4285856<br /><br />Simpulan:<br />Besarnya selisih sudut fase antara kedua gelombang disebut BEDA FASE.<br /><br /><br />Kelas: SMP<br />Mata pelajaran: Fisika<br />Kategori: Gelombang<br />Kata kunci: gelombang, fase, beda fase<br />
+                                            <h2 class="ez-toc-section" id="suatu-titik-melakukan-gerak-harmonik-dengan-frekuensi-05-hz-hitunglah-fase-sudut-fase-dan-beda-fase-pada-05-detik-dan-3-detik">
+                            14. suatu titik melakukan gerak harmonik dengan frekuensi 0,5 Hz. hitunglah fase, sudut fase dan beda fase pada 0,5 detik dan 3 detik.</h2><br />
+                        <p>Gerak harmonis adalah gerak bolak- balik secara periodik melalui titik
+setimbangnya. Contohnya adalah ayunan dan pegas. </p>
+
+<p> </p>
+
+<p>Dari soal di atas dapat diketahui bahwa:</p>
+
+<p>- frekuensi -&gt; f = 0,5 Hz</p>
+
+<p>- waktu -&gt; t1 = 0,5 s dan t2 = 3 s</p>
+
+<p> </p>
+
+<p>Pada soal ditanyakan fase, sudut fase dan beda fase pada 0,5 detik dan 3
+detik.</p>
+
+<p> </p>
+
+<p>Langkah pertama kita cari fase:</p>
+
+<p>Fase 1 </p>
+
+<p>φ1 = f. t1 = 0,5. 0,5 = 0,25</p>
+
+<p>Fase 2 </p>
+
+<p>Φ2 = f. t2 = 0,5. 3 = 1,5</p>
+
+<p> </p>
+
+<p>Langkah kedua mencari sudut fase:</p>
+
+<p>Sudut fase 1 </p>
+
+<p>θ1 = φ1. 2π = 0,25. 2π = 0,5π</p>
+
+<p>Sudut fase 2</p>
+
+<p>θ2 = φ2. 2π = 1,5. 2π = 3π</p>
+
+<p> </p>
+
+<p>Langkah ketiga kita cari beda fase:</p>
+
+<p>Δφ = φ2 – φ1 = 1,5 – 0,25 = 1,25</p>
+
+<p> </p>
+
+<p> </p>
+
+<p>PEMBAHASAN LEBIH LANJUT :</p>
+
+<p> </p>
+
+<p>Persamaan simpangan gerak harmonis yaitu:</p>
+
+<p>Y = A sin (ωt)</p>
+
+<p> </p>
+
+<p>Persamaan kecepatan gerak harmonis yaitu:</p>
+
+<p>V = Aω cos (ωt)</p>
+
+<p> </p>
+
+<p>Persamaan percepatan gerak harmonis yaitu:</p>
+
+<p>a = A ω^2 sin (ωt)</p>
+
+<p> </p>
+
+<p>Keterangan:</p>
+
+<p>Y = simpangan</p>
+
+<p>A = amplitudo</p>
+
+<p>ω = frekuensi sudut</p>
+
+<p>t = waktu</p>
+
+<p>v = kecepatan</p>
+
+<p>a = percepatan</p>
+
+<p> </p>
+
+<p>Energi kinetik getaran</p>
+
+<p>Ek = [tex]{1/2. k A^{2} cos^{2} wt}[/tex]</p>
+
+<p> </p>
+
+<p>Energi potensial getaran</p>
+
+<p>Ep = [tex]{1/2. k A^{2} sin^{2} wt}[/tex]</p>
+
+<p> </p>
+
+<p>Agar semakin paham, simak juga contoh soal berikut:</p>
+
+Pada
+GHS dengan persamaan simpangan berikut,
+
+ Y=
+10 sin 20 πt
+
+<p>Berapa frekuensi getaran?</p>
+
+<p> </p>
+
+<p>Didapat bahwa frekuensi sudut  ω =
+20π rad/s</p>
+
+<p>Mencari frekuensi benda melalui frekuensi
+sudut :</p>
+
+<p>ω = 2πf</p>
+
+<p>20π = 2πf </p>
+
+<p>f = 10 Hz</p>
+
+<p> </p>
+
+<p> Semoga
+penjelasan di atas memudahkan kalian mempelajari materi ini :)</p>
+
+<p> </p>
+
+<p>Nah untuk contoh lain mengenai GHS bisa kalian lihat pada link berikut :</p>
+
+<p>https://brainly.co.id/tugas/15778383</p>
+
+<p>https://brainly.co.id/tugas/15732601</p>
+
+<p>https://brainly.co.id/tugas/15763033</p>
+
+<p> </p>
+
+<p>Mata pelajaran : Fisika</p>
+
+<p>Kelas: X SMA</p>
+
+<p>Kategori : gerak harmonis sederhana</p>
+
+<p>Kata kunci : getaran, frekuensi, periode, kecepatan sudut, energi
+potensial, energi kinetik, simpangan, kecepatan, percepatan</p>
+
+<p>Kode kategori berdasarkan kurikulum KTSP : 11.6.4</p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p><br />
+                                            <h2 class="ez-toc-section" id="suatu-benda-bergetar-harmonik-dengan-amplitudo-4cm-dan-5hz-saat-simpangannya-mencapai-2cm-jika-sudut-fase-awal-nol-maka-sudut-fase-getarannya-adalah">
+                            15. Suatu benda bergetar harmonik dengan amplitudo 4cm dan 5hz saat simpangannya mencapai 2cm ,jika sudut fase awal nol maka sudut fase getarannya adalah...</h2><br />
+                        y=Asin teta<br />2=4 sin teta<br />sin teta = 1/2<br />teta = 30 derajat<br /><br />
+                                            <h2 class="ez-toc-section" id="diagram-yang-menyatakan-hubungan-antara-sudut-fase-dari-suatu-vektor-disebut">
+                            16. diagram yang menyatakan hubungan antara sudut fase dari suatu vektor disebut</h2><br />
+                        diagram fasor<br />maaf kalo salah<br />Disebut diagram fasor. <br /><br /><br />
+                                            <h2 class="ez-toc-section" id="suatu-benda-bergetar-harmonik-dengan-amplitudo-4-cm-dan-frekuensi-5-hz-saat-simpangannya-mencapai-2-cm-jika-sudut-fase-awal-nol-maka-sudut-fase-getarannya-adalah">
+                            17. Suatu benda bergetar harmonik dengan amplitudo 4 cm dan frekuensi 5 Hz. Saat simpangannya mencapai 2 cm, jika sudut fase awal nol, maka sudut fase getarannya adalah ?</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>Semoga membantu yah. ^_^</p><br />
+                                            <h2 class="ez-toc-section" id="apabila-suatu-getaran-mempunyai-fase-112-maka-berapa-sudut-fasenya">
+                            18. apabila suatu getaran mempunyai fase 1/12, maka berapa sudut fasenya</h2><br />
+                        <p>Fase φ = 1/12</p><br /><p>Sudut fase θ ?</p><br /><p>SUDUT FASE</p><p>θ = 2π. φ</p><p>θ = 2π. 1/12</p><p>θ = π/6 rad = 30°</p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-persamaan-untuka-sudut-fase-b-fase-c-beda-fase-d-beda-fase-dua-benda-yang-sefasee-beda-fase-dua-benda-yang-berbeda-fase%e2%80%8b">
+                            19. Tuliskan persamaan untuka. Sudut fase b. Fase c. Beda fase d. Beda fase dua benda yang sefasee. Beda fase dua benda yang berbeda fase​</h2><br />
+                        <p>jawaban d</p><p><strong>Penjelasan:</strong></p><p>karna saya tak yau</p><br />
+                                            <h2 class="ez-toc-section" id="pada-saat-energi-kinetik-benda-yang-bergetar-selaras-sama-dengan-energi-potensialnya-maka-a-sudut-fasenya-180%c2%b0b-sudut-fasenya-90%c2%b0c-sudut-fasenya-45%c2%b0d-percepatan-nya-0e-kecepa">
+                            20. pada saat energi kinetik benda yang bergetar selaras sama dengan energi potensialnya,  maka... a. sudut fasenya 180°b.  sudut fasenya 90°c. sudut fasenya 45°d. percepatan nya 0e. kecepatannya 0</h2><br />
+                        GETARAN<br />• energi<br /><br />Ek = Ep → θ = __?<br /><br />tan²θ = Ep / Ek<br />tan²θ = 1<br />tan θ = 1<br />θ = 45° ← jwb<br />
+                                            <h2 class="ez-toc-section" id="benda-bergetar-harmonik-dengan-amplitudo-4cm-dan-frekuensi-10hz-saat-simpangngannya-2cm-sudut-fase-awal-0-derajat-maka-sudut-fase-getarannya-sebesar">
+                            21. Benda bergetar harmonik dengan amplitudo 4cm dan frekuensi 10hz saat simpangngannya 2cm sudut fase awal 0 derajat maka sudut fase getarannya sebesar?</h2><br />
+                        <p>JAWABAN :</p>
+
+<p> </p>
+
+<p>Dari soal di atas dapat diketahui bahwa:</p>
+
+<p>- amplitudo -&gt; A = 4 cm</p>
+
+<p>- frekuensi -&gt; f = 10 Hz</p>
+
+<p>- simpangan -&gt; y = 2 cm</p>
+
+<p> </p>
+
+<p>Karena yang ditanyakan pada soal di atas adalah sudut fase, maka kita cari
+dulu persamaan umum.</p>
+
+<p> </p>
+
+<p>Mencari persamaan umum:</p>
+
+<p>Y = A sin (ωt)</p>
+
+<p>Y = 4 sin (ωt)</p>
+
+<p> </p>
+
+<p>Jika mencari sudut fase, masukkan nilai simpangan 2 cm ke persamaan:</p>
+
+<p>Y = 4 sin (ωt)</p>
+
+<p>2 = 4 sin (ωt)</p>
+
+<p>½ = sin (ωt)</p>
+
+<p>(ωt) = 30</p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Berdasarkan uraian di atas di dapat bahwa sudut fase getarnya saat
+simpangan 2 cm sebesar 30 derajat.</p>
+
+<p> </p>
+
+<p> </p>
+
+<p>PEMBAHASAN LEBIH LANJUT :</p>
+
+<p> </p>
+
+<p>Persamaan simpangan gerak harmonis yaitu:</p>
+
+<p>Y = A sin (ωt)</p>
+
+<p> </p>
+
+<p>Persamaan kecepatan gerak harmonis yaitu:</p>
+
+<p>V = Aω cos (ωt)</p>
+
+<p> </p>
+
+<p>Persamaan percepatan gerak harmonis yaitu:</p>
+
+<p>a = A ω^2 sin (ωt)</p>
+
+<p> </p>
+
+<p>Keterangan:</p>
+
+<p>Y = simpangan</p>
+
+<p>A = amplitudo</p>
+
+<p>ω = frekuensi sudut</p>
+
+<p>t = waktu</p>
+
+<p>v = kecepatan</p>
+
+<p>a = percepatan</p>
+
+<p> </p>
+
+<p>Energi kinetik getaran</p>
+
+<p>Ek = [tex]{1/2. k A^{2} cos^{2} wt}[/tex]</p>
+
+<p> </p>
+
+<p>Energi potensial getaran</p>
+
+<p>Ep = [tex]{1/2. k A^{2} sin^{2} wt}[/tex]</p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Semoga penjelasan di atas bermanfaat ya :)</p>
+
+<p> </p>
+
+<p>Mata pelajaran : Fisika</p>
+
+<p>Kelas: X SMA</p>
+
+<p>Kategori : gerak harmonis sederhana</p>
+
+<p>Kata kunci : getaran, frekuensi, periode, kecepatan sudut, energi
+potensial, energi kinetik, simpangan, kecepatan, percepatan</p>
+
+<p>Kode kategori berdasarkan kurikulum KTSP : 11.6.4</p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p><br />
+                                            <h2 class="ez-toc-section" id="pada-saat-energi-kinetik-benda-yang-bergetar-harmonis-sama-dengan-energi-potensialnya-maka-sudut-fasenya-dan-radian-fasenya-berapa">
+                            22. pada saat energi kinetik benda yang bergetar harmonis sama dengan energi potensialnya maka sudut fasenya dan radian fasenya berapa</h2><br />
+                        GGB<br />• Gerak harmonis<br />→ energi<br /><br />Ek = Ep<br /><br />simpangan<br />Ep + Ek = Em<br />Ep + Ep = Em<br />2 Ep = Em<br />2 (½ k y²) = ½ k A²<br />2 y² = A²<br />y² = ½ A²<br />y = ± ½√2 A<br /><br />sudut fase<br />y = A sin θ<br />±½√2 A = A sin θ<br />sin θ = ±½√2<br />θ = 45°, 135°, 225°, 315° ✔️<br />θ = π/4, 3π/4, 5π/4, 7π/4 rad ✔️<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-perbedaan-sudut-fase-fase-dan-beda-faseyang-tau-tolong-jawab-ya">
+                            23. Sebutkan perbedaan sudut fase, fase, dan beda fase
+Yang tau tolong jawab ya..</h2><br />
+                        <p>Perbedaan antara sudut fase, fase dan beda fase <strong>adalah fase besar sudut pada gelombang, sedangkan fase sama dengan sudut fase yang dibagi 2π sedangkan beda fase adalah selisih dua fase partikel pada gelombangnya.</strong></p><p>Rumus sudut fase <strong>adalah ωt - kx atau 2π ([tex]\frac{t}{T} \:-\: \frac{x}{\lambda}[/tex]).</strong></p><p>Rumus fase <strong>adalah [tex]\frac{t}{T} \:-\: \frac{x}{\lambda}[/tex].</strong></p><p>Rumus beda fase <strong>adalah [tex]\frac{-\: \Delta x}{\lambda}[/tex].</strong></p><p><strong></strong></p><strong></strong><strong>Pembahasan</strong><p><strong></strong></p><p><strong>FASE GELOMBANG BERJALAN</strong></p><p><strong></strong></p><p>Persamaan gelombang berjalan dinyatakan dengan</p><p><strong>y = ± A sin 2π ([tex]\frac{t}{T} \pm \frac{x}{\lambda}[/tex])</strong></p><p>atau</p><p><strong>y = ± A sin (ωt ± kx)</strong></p><p>dengan </p><p>A = amplitudo</p><p>t = waktu (s)</p><p>T = periode gelombang (s)</p><p>x = jarak titik dari titik asal gelombang</p><p>λ = panjang gelombang</p><p>y = simpangan</p><p>ω = frekuensi sudut atau kecepatan sudut (rad/s)</p><p>k = bilangan gelombang (/m)</p><p>Bila A positif, artinya gelombang bergerak ke atas dari titik asal getaran.</p><p>Bila A negatif, artinya gelombang bergerak ke bawah dari titik asal getaran.</p><p>Bila k positif, artinya gelombang bergerak ke kiri dari titik asal getaran.</p><p>Bila k negatif, artinya gelombang bergerak ke kanan dari titik asal getaran.</p><p>Fase gelombang menyatakan kondisi gelombang pada suatu titik yang berhubungan dengan simpangan dan arah getarnya.</p><p>Bila gelombang <strong>y = A sin (ωt - kx) = A sin 2π ([tex]\frac{t}{T} - \frac{x}{\lambda}[/tex])</strong></p><p>Maka</p><p><strong>Sudut fase </strong></p><p><strong>θ = ωt - kx</strong></p><p><strong>θ = 2π ([tex]\frac{t}{T} \:-\: \frac{x}{\lambda}[/tex])</strong></p><p></p><p>Karena bentuk sudut fase</p><p>θ = 2π ([tex]\frac{t}{T} \:-\: \frac{x}{\lambda}[/tex])</p><p><strong>θ = 2πφ</strong></p><p>φ = fase gelombang</p><p>Maka</p><p><strong>φ = [tex]\frac{t}{T} \:-\: \frac{x}{\lambda}[/tex]</strong></p><p></p><p>Beda fase antara dua titik pada sebuah gelombang adalah selisih dari kedua fase gelombang titik tersebut.</p><p>Jadi misalkan ada dua titik pada gelombang yaitu titik A dan titik B dimana B berada di depan A, dengan besar sudut fase masing - masing titik</p><p>φa = [tex]\frac{t}{T} \:-\: \frac{x_1}{\lambda}[/tex]</p><p>φb = [tex]\frac{t}{T} \:-\: \frac{x_2}{\lambda}[/tex]</p><p>Beda fase A dan B adalah</p><p>Δφ = φb - φa</p><p>Δφ = [tex](\frac{t}{T} \:-\: \frac{x_2}{\lambda}) \:-\: (\frac{t}{T} \:-\: \frac{x_1}{\lambda})[/tex]</p><p>Δφ = [tex]\frac{- \: (x_2 \:-\: x_1)}{\lambda}[/tex]</p><p><strong>Δφ = [tex]\frac{-\: \Delta x}{\lambda}[/tex]</strong></p><p>Tanda negatif menunjukkan bahwa saat gelombang merambat, partikel yang berada di depan mengalami keterlambatan fase bila dibandingkan dengan partikel yang berada di belakang.</p><p><strong>Ditanyakan:</strong></p><p>Perbedaan sudut fase, fase dan beda fase ?</p><p><strong>Penjelasan:</strong></p><p>Rumus sudut fase <strong>adalah ωt - kx atau 2π ([tex]\frac{t}{T} \:-\: \frac{x}{\lambda}[/tex]).</strong></p><p>Rumus fase <strong>adalah [tex]\frac{t}{T} \:-\: \frac{x}{\lambda}[/tex].</strong></p><p>Rumus beda fase <strong>adalah [tex]\frac{-\: \Delta x}{\lambda}[/tex].</strong></p><p>Perbedaan antara sudut fase, fase dan beda fase <strong>adalah fase besar sudut pada gelombang, sedangkan fase sama dengan sudut fase yang dibagi 2π sedangkan beda fase adalah selisih dua fase partikel pada gelombangnya.</strong></p><p><strong></strong></p><p><strong></strong></p><p><strong>Pelajari lebih lanjut</strong></p><p>Gelombang Mekanik https://brainly.co.id/tugas/21038090</p><p>Persamaan Gelombang Mekanik https://brainly.co.id/tugas/21196738</p><p>Beda Fase https://brainly.co.id/tugas/21441577</p><p>Berlawanan Fase https://brainly.co.id/tugas/20961024</p><p><strong></strong></p><p><strong>Detail Jawaban</strong></p><p><strong>Kelas : </strong>XI</p><p><strong>Mapel : </strong>Fisika</p><p><strong>Bab : </strong>Gelombang Mekanik</p><p><strong>Kode : </strong>11.6.8.</p><p><strong></strong></p><p><strong></strong></p><p><strong>#AyoBelajar</strong></p><br />
+                                            <h2 class="ez-toc-section" id="suatu-benda-bergetar-harmonik-dengan-amplitudo-5-cm-dan-frekuensi-5hz-jika-sudut-fase-awal-nol-tentukan-sudut-fase-getaran-saat-simpanganya-mencapai-4-cm">
+                            24. suatu benda bergetar harmonik dengan amplitudo 5 cm dan frekuensi 5Hz jika sudut fase awal nol tentukan sudut fase getaran saat simpanganya mencapai 4 cm</h2><br />
+                        __________________<br />Diketahui : <br />Amplitudo, A = 5 cm<br />Frekuensi, f = 5 Hz<br />Sudut fase awal, @o = 0<br /><br />Simpangan, Y = 4 cm<br /><br />Tanya : <br />Sudut fase, @ = ___?<br /><br />Jawab : <br /><br />Y = A.sin (@ - @o)<br /><br />4 = 5.sin (@ - 0)<br /><br />4/5 = sin @<br /><br />@ = 37 derajat<br /><br />___________________<br />)|(<br />FZA<br />
+                                            <h2 class="ez-toc-section" id="pada-saat-energi-kinetik-benda-bergetar-selaras-sama-dengan-energi-potensialnya-maka%e2%80%a6-a-sudut-fasenya-180%c2%b0-b-fasenya-%c2%be-c-sudut-fasenya-45%c2%b0-d-fasenya-%c2%bc">
+                            25.   Pada saat energi kinetik benda bergetar selaras sama dengan energi potensialnya, maka….  a.   sudut fasenya 180°  b.   fasenya ¾  c.   sudut fasenya 45°  d.   fasenya ¼  e.   percepatannya nol</h2><br />
+                        C. Sudut Fasenya 45°<br /><br />#Semoga Membantu<br />
+                                            <h2 class="ez-toc-section" id="benda-bergetar-harmonik-amplitudo-4-cm-dan-frekuensinya-10-hz-saat-simpangan-2-cm-sudut-fase-awal-0%c2%b0-maka-sudut-fasenya">
+                            26. Benda bergetar harmonik amplitudo 4 cm dan frekuensinya 10 hz. Saat simpangan 2 cm sudut fase awal 0°. Maka sudut fasenya </h2><br />
+                        maaf kalo salah jawabannya<br />
+                                            <h2 class="ez-toc-section" id="1-suatu-benda-bergetar-harmonik-sederhana-dengan-sudut-fase-awal-0-dan-amplitudo-10-cm-saat-sudut-fase-getarnya-30%c2%b0-berapa-simpanganya-tolong-di-bantu-kk">
+                            27. 1. suatu benda bergetar harmonik sederhana dengan sudut fase awal 0 dan amplitudo 10 cm, saat sudut fase getarnya 30°. berapa simpanganya.  tolong di bantu kk</h2><br />
+                        y = A sin θ<br /><br />= 0,1 sin 30°<br />= 0,1 (1/2)<br />= 0,05 m = 5 cm<br /><br />Jadi, saat sudut fase getarnya 30°, simpangannya adalah 5 cm.<br /><br /><br />Semoga membantu, semangat belajar.. ^_^<br /><br />
+                                            <h2 class="ez-toc-section" id="suatu-benda-bergetar-harmonik-dengan-amplitudo-5cm-frekuensi-5-hz-jika-sudut-fase-awal-nol-tentukan-sudut-fase-getaran-saat-simpanganya-mencapai-4cm%e2%80%8b">
+                            28. suatu benda bergetar harmonik dengan amplitudo 5cm frekuensi 5 Hz jika sudut fase awal nol tentukan sudut fase getaran saat simpanganya mencapai 4cm​</h2><br />
+                        <p>Jawabannya sudah saya lampirkan diatas.</p><br />
+                                            <h2 class="ez-toc-section" id="suatu-benda-bergetar-harmonik-sederhana-dengan-sudut-fase-awal-0-dan-amplitudo-10-cm-saat-sudut-fase-getarnya-30%c2%b0-simpangannya-adalah">
+                            29. Suatu benda bergetar harmonik sederhana dengan sudut fase awal 0 dan amplitudo 10 cm. Saat sudut fase getarnya 30° simpangannya adalah</h2><br />
+                        <p>JAWABAN :</p>
+
+<p> </p>
+
+<p>Dari soal di atas dapat diketahui bahwa:</p>
+
+<p>- sudut fase getaran &gt; ωt = 30</p>
+
+<p>- amplitudo getaran &gt; A = 10 cm</p>
+
+<p> </p>
+
+<p>Karena pada soal ditanyakan simpangan, maka kita masukkan ke persamaan umum
+simpangan.</p>
+
+<p> </p>
+
+<p>Mencari simpangan: </p>
+
+<p> Y = A sin (ωt)</p>
+
+<p>Y = 10 sin 30</p>
+
+<p>Y = 10. ½</p>
+
+<p>Y = 5 cm</p>
+
+<p> </p>
+
+<p>Berdasarkan uraian di atas di dapat bahwa simpangan GHS pada saat itu
+adalah 5 cm.</p>
+
+<p> </p>
+
+<p> </p>
+
+<p>PEMBAHASAN LEBIH LANJUT :</p>
+
+<p> </p>
+
+<p>Persamaan simpangan gerak harmonis yaitu:</p>
+
+<p>Y = A sin (ωt)</p>
+
+<p> </p>
+
+<p>Persamaan kecepatan gerak harmonis yaitu:</p>
+
+<p>V = Aω cos (ωt)</p>
+
+<p> </p>
+
+<p>Persamaan percepatan gerak harmonis yaitu:</p>
+
+<p>a = A ω^2 sin (ωt)</p>
+
+<p> </p>
+
+<p>Keterangan:</p>
+
+<p>Y = simpangan</p>
+
+<p>A = amplitudo</p>
+
+<p>ω = frekuensi sudut</p>
+
+<p>t = waktu</p>
+
+<p>v = kecepatan</p>
+
+<p>a = percepatan</p>
+
+<p> </p>
+
+<p>Energi kinetik getaran</p>
+
+<p>Ek = [tex]{1/2. k A^{2} cos^{2} wt}[/tex]</p>
+
+<p> </p>
+
+<p>Energi potensial getaran</p>
+
+<p>Ep = [tex]{1/2. k A^{2} sin^{2} wt}[/tex]</p>
+
+<p> </p>
+
+<p>Energi total</p>
+
+<p>E tot = Ep + Ek</p>
+
+<p> E tot =[tex]{1/2. k A^{2} sin^{2} wt}[/tex] + [tex]{1/2. k A^{2}
+cos^{2} wt}[/tex]</p>
+
+<p>E tot = 1/2. k A^{2}</p>
+
+<p> </p>
+
+<p>Semoga penjelasan di atas bermanfaat ya :)</p>
+
+<p> </p>
+
+<p>Mata pelajaran : Fisika</p>
+
+<p>Kelas: X SMA</p>
+
+<p>Kategori : gerak harmonis sederhana</p>
+
+<p>Kata kunci : getaran, frekuensi, periode, kecepatan sudut, energi
+potensial, energi kinetik, simpangan, kecepatan, percepatan</p>
+
+<p>Kode kategori berdasarkan kurikulum KTSP : 11.6.4</p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p><br />
+                                            <h2 class="ez-toc-section" id="benda-begerak-harmonik-dengan-amplitudo-4-cm-dan-frekuensi-10-hz-saat-simpangan-2-cm-sudut-fase-awal-0%c2%b0-maka-sudut-fase-getarannya-sebesar">
+                            30. Benda begerak harmonik dengan amplitudo 4 cm dan frekuensi 10 Hz saat simpangan 2 cm sudut fase awal 0°, maka sudut fase getarannya sebesar</h2><br />
+                        maaf kalo jawabannya salah<br />
+                                            <h2 class="ez-toc-section" id="suatu-benda-bergerak-harmonik-dengan-ampltudo-4cm-dan-frekuenzi-5hz-saat-simpangannya-mencapai-2-cm-jika-sudut-fase-awal-0-maka-sudut-fase-getarannya-adalah">
+                            31. suatu benda bergerak harmonik dengan ampltudo 4cm dan frekuenzi 5Hz.saat simpangannya mencapai 2 cm.jika sudut fase awal 0 maka sudut fase getarannya adalah</h2><br />
+                        y = 2 cm<br />A = 4 cm<br />θo = 0°<br />θ = __?<br /><br />persamaan simpangan <br />y = A sin (θ + θo)<br />2 = 4 sin (θ + 0°)<br />½ = sin θ<br />θ = 30° atau 150° ← jwb<br />
+                                            <h2 class="ez-toc-section" id="sebuah-partikel-melakukan-ghs-dengan-periode-2-sekon-hitung-fase-dan-sudut-fase-setelah-05-s-dan-1-s-jika-sudut-fase-awalnya-sama-dengan-nol%e2%80%8b">
+                            32. Sebuah partikel melakukan ghs dengan periode 2 sekon. hitung fase dan sudut fase setelah 0,5 s dan 1 s, jika sudut fase awalnya sama dengan nol!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Cara dan jawaban ada di foto </p><br />
+                                            <h2 class="ez-toc-section" id="8-kedudukan-suatu-benda-dilihat-dari-arahgetar-dan-simpangannya-pada-suatu-saattertentu-disebut-dengan-a-fased-periodeb-sudut-fase-e-frekuensic-beda-fase%e2%80%8b">
+                            33. 8. Kedudukan suatu benda dilihat dari arahgetar dan simpangannya pada suatu saattertentu disebut dengan ....a. Fased. Periodeb. Sudut fase e. Frekuensic. Beda fase​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>c beda fase </p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah soalnya manusia berbeda beda</p><br />
+                                            <h2 class="ez-toc-section" id="suatu-benda-bergetar-harmonik-dengan-amplitudo-5-cm-dan-frekuensi-5-hz-jika-sudut-fase-awal-nol-tentukan-sudut-fase-getaran-saat-simpangannya-mencapai-4-cm%e2%80%8b">
+                            34. Suatu benda bergetar harmonik dengan amplitudo 5 cm dan frekuensi 5 Hz. Jika sudut fase awal nol, tentukan sudut fase getaran saat simpangannya mencapai 4 cm!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>53°</p><p><strong>Penjelasan:</strong></p><p>A = 5 cm</p><p>f = 5 Hz</p><p>tetha nol = 0</p><p>y = 4 cm</p><p></p><p>tetha awal ?</p><p></p><p>y = A sin tetha</p><p>4 = 5 sin tetha</p><p>4 / 5 = sin tetha</p><p>0,8 = sin tetha</p><p>tetha = 53°</p><br />
+                                            <h2 class="ez-toc-section" id="kedudukan-suatu-benda-dilihat-dari-arahgetar-dan-simpangannya-pada-suatu-saattertentu-disebut-dengan-a-fased-periodeb-sudut-fase-e-frekuensic-beda-fase%e2%80%8b">
+                            35. Kedudukan suatu benda dilihat dari arahgetar dan simpangannya pada suatu saattertentu disebut dengan ....a. fased. periodeb. sudut fase e. frekuensic. beda fase​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>periode</p><p></p><p></p><p>{maaf kalau salah T^T}</p><br />
+                                            <h2 class="ez-toc-section" id="apa-perbedaan-antara-sudut-fase-dan-fase-getaran-pada-gerak-harmonik">
+                            36. Apa perbedaan antara sudut fase dan fase getaran pada gerak harmonik</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p><strong>Sudut fase dalam gerak harmonik dirumuskan sebagai berikut. Fase (ϕ) dalam gerak harmoni dirumuskan berikut. Dua buah benda yang melakukan gerak harmonik akan sefase jika beda fase keduanya sama dengan nol dan memiliki fase yang berlawanan jika beda fase keduanya sama dengan setengah.</strong></p><p></p><p>maaf klo salh saya cumn bntu saja..</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-persamaan-gelombang-yaitu-y-02-sin-10%cf%80t-02%cf%80x-tentukan-sudut-fase-fase-dan-beda-fasetolong-di-bantu-yh-%e2%80%8b">
+                            37. diketahui persamaan gelombang yaitu y= 0,2 Sin (10πt - 0,2πx) tentukan sudut fase, fase dan beda fase?(tolong di bantu yh) ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Berdasarkan persamaan gelombang tsb, didapatkan Amplitudo sebesar 0,02 m, frekuensi sudut gelombang sebesar 10π rad/s, tetapan gelombangnya 2π, cepat rambat sebesar 5 m/s, frekuensi gelombang 5 Hz, Periode gelombang 0,2 sekon, panjang gelombang 1 m, arah rambat ke kanan, dan simpangan pada saat t = 1 s dan x = 1 m adalah 0 m sesuai dengan perhitungan sebagai berikut.</p><p></p><p></p><p>PEMBAHASAN</p><p>Diketahui</p><p></p><p>y = 0,02 sin (10πt - 2πx)</p><p></p><p></p><p>Ditanya</p><p></p><p>a. A = ?</p><p></p><p>b. ω = ?</p><p></p><p>c. k = ?</p><p></p><p>d. v = ?</p><p></p><p>e. f = ?</p><p></p><p>f. T = ?</p><p></p><p>g. λ = ?</p><p></p><p>h. Arah Rambat = ?</p><p></p><p>i. y = ?, t = 1 sekon, x = 1 m</p><p></p><p></p><p>PENYELESAIAN</p><p>Diberikan persamaan gelombang y = 0,02 sin (10πt - 2πx)</p><p></p><p></p><p>Persamaan umum gelombang yaitu</p><p></p><p>y = A sin (ωt - kx)</p><p></p><p>y = 0,02 sin (10πt - 2πx)</p><p></p><p></p><p>a) Amplitudo Gelombang</p><p></p><p>A = 0,02 m</p><p></p><p></p><p>b) frekuensi sudut</p><p></p><p>ω = 10π rad/s</p><p></p><p></p><p>c) tetapan gelombang</p><p></p><p>k = 2π</p><p></p><p></p><p>d) cepat rambat gelombang</p><p></p><p>v = </p><p></p><p>v = </p><p></p><p>v = 5 m/s</p><p></p><p></p><p>e) frekuensi gelombang</p><p></p><p>ω = 2πf</p><p></p><p>10π = 2π f</p><p></p><p>f = 5 Hz</p><p></p><p></p><p>f) periode gelombang</p><p></p><p>T = </p><p></p><p>T = </p><p></p><p>T = 0,2 sekon</p><p></p><p></p><p>g) panjang gelombang</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>λ = 1 meter</p><p></p><p></p><p>h) arah rambat gelombang</p><p></p><p>persamaan gelombang yaitu y = A sin (ωt - kx) ,</p><p></p><p></p><p>perhatikan tanda hubung ωt dengan kx, bila dia negatif maka arah rambat ke kanan, bila positif maka arah rambat ke kiri.</p><p></p><p></p><p>y = 0,02 sin (10πt - 2πx)</p><p></p><p>maka arah rambat ke KANAN</p><p></p><p></p><p>i) simpangan</p><p></p><p>y = 0,02 sin (10πt - 2πx)</p><p></p><p>y = 0,02 sin (10π (1) - 2π(1))</p><p></p><p>y = 0,02 sin (10π - 2π)</p><p></p><p>y = 0,02 sin 8π</p><p></p><p>y = 0,02 sin 8 • 180</p><p></p><p>y = 0,02 sin 1440</p><p></p><p>y = 0,02 (0)</p><p></p><p>y = 0</p><p></p><p></p><p>PEMBAHASAN MATERI GELOMBANG MEKANIK</p><p></p><p></p><p>        Getaran merupakan gerak bolak balik melalui titik keseimbangan. Jika terdapat bandul yang bergerak antara titik A-B-C, maka 1 Getaran bandul adalah A-B-C-B-A</p><p></p><p></p><p></p><p></p><p>        Gelombang merupakan getaran yang merambat. Gelombang terbagi dua, yakni Gelombang Transversal dan Longitudinal.</p><p></p><p></p><p>1 Gelombang pada Gelombang Transversal adalah terbentuknya 1 bukit dan 1 lembah. Sedangkan 1 gelombang pada Gelombang Longitudinal adalah terbentuknya 1 rapatan dan 1 renggangan.</p><p></p><p></p><p></p><p></p><p>Persamaan umum gelombang berjalan adalah</p><p></p><p></p><p></p><p></p><p></p><p>Ketentuan :</p><p></p><p>• pada Amplitudo</p><p></p><p>gunakan + jika gelombang pertama merambat ke atas</p><p></p><p>gunakan - jika gelombang pertama merambat ke bawah</p><p></p><p></p><p>• pada kx</p><p></p><p>gunakan + jika gelombang merambat ke kiri</p><p></p><p>gunakan - jika gelombang merambat ke kanan</p><p></p><p></p><p></p><p></p><p>Persamaan gelombang pada ujung bebas</p><p></p><p>➡ </p><p></p><p></p><p>Amplitudo untuk gelombang stasioner ini adalah</p><p></p><p></p><p></p><p></p><p>Persamaan gelombang pada ujung terikat</p><p></p><p>➡ </p><p></p><p></p><p>Amplitudo untuk gelombang stasioner ini adalah</p><p></p><p></p><p></p><p></p><p>Bilangan Gelombang (k)</p><p></p><p></p><p></p><p></p><p>Frekuensi Getaran dan Gelombang</p><p></p><p></p><p></p><p></p><p>Periode Getaran dan Gelombang</p><p></p><p></p><p></p><p></p><p>Hubungan Frekuensi dan Periode Getaran dan Gelombang</p><p></p><p></p><p></p><p></p><p>Dengan,</p><p></p><p>n = jumlah getaran/gelombang</p><p></p><p>t = waktu tempuh getaran/gelombang (sekon)</p><p></p><p>f = frekuensi getaran/gelombang (Hz)</p><p></p><p>T = periode getaran/gelombang (s)</p><p></p><p></p><p>Cepat Rambat Gelombang</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="perbedaan-sudut-fase-dan-beda-fase-apa-yah-yg-tau-tolong-dijawab-yah">
+                            38. Perbedaan sudut fase dan beda fase apa yah? Yg tau tolong dijawab yah</h2><br />
+                        fase: 2 puncak gel. yg sama dan sebaliknya<br /><br />
+                                            <h2 class="ez-toc-section" id="pada-saat-energi-kinetik-benda-yang-melakukan-gerak-harmonik-sederhana-sama-dengan-energi-potensialnya-maka-a-sudut-fasenya-180%c2%b0b-fasenya-34c-sudut-fasenya-45%c2%b0d-fasenya-14e-pe">
+                            39. Pada saat energi kinetik benda yang melakukan gerak harmonik sederhana sama dengan energi potensialnya, maka...
+A. Sudut fasenya 180°
+B. Fasenya 3/4
+C. Sudut fasenya 45°
+D. Fasenya 1/4
+E. Percepatannya nol
+Yang bisa jawab, tolong bantuin yah beserta cara" nya...miane</h2><br />
+                        Kategori: Fisika <br />Materi: Getaran <br />Kelas: XI SMA IPA <br />Kata kunci: Energi getaran <br /><br />Pembahasan :<br /><br />Pada saat energi kinetik benda yang bergetar selaras sama dengan energi potensial maka sudut fasenya sama dengan 45°.<br />Jawaban C<br /><br /><br />Perhitungan Terlampir<br />
+                                            <h2 class="ez-toc-section" id="mengapa-capaian-pembelajaran-dirumuskan-per-fase">
+                            40. Mengapa capaian pembelajaran dirumuskan per fase?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>karena dalam mempelajari  sesuatu harus  di pelajari per fase agar dapat mengetahui  atau mengajarkan dengan baik contoh nya saat kita belajar bermain bola basket yang fase pertama yang harus kita ketahui bagaimana cara mengunakan  bolanya hal ini membantu kita mengerti langkah apa yang harus kita ambil dalam mengetahui permainan bola dan mengarahkan kita mengetahui fase atau tahap mana yang bisa dan tidak kita lakukan </p><p><strong>Penjelasan:</strong></p><p>semoga membantu </p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/Rxn1NkKQyoQ?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>fisika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-yang-termasuk-kosakata-baku-yaitu/">Berikut Yang Termasuk Kosakata Baku Yaitu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebutkan-tiga-contoh-perilaku-hemat-energi-dalam-kehidupan-sehari-hari/">Sebutkan Tiga Contoh Perilaku Hemat Energi Dalam Kehidupan Sehari Hari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/penguraian-limbah-disebut-juga-dengan/">Penguraian Limbah Disebut Juga Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/yang-berfungsi-untuk-membentuk-fungsi-pengolahan-data-komputer-adalah/">Yang Berfungsi Untuk Membentuk Fungsi Pengolahan Data Komputer Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/side-pass-adalah/">Side Pass Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-unsur-unsur-apa-saja-yang-harus-dimiliki-oleh-pesenam/">Jelaskan Unsur Unsur Apa Saja Yang Harus Dimiliki Oleh Pesenam</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hadits-hadits-tentang-iman-kepada-kitab-allah-swt-brainly/">Hadits Hadits Tentang Iman Kepada Kitab Allah Swt Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-tujuan-eksportir/">Apa Tujuan Eksportir</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pandhusa/">Pandhusa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/please-explain-how-to-travel-by-bus/">Please Explain How To Travel By Bus</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tujuan-pki-mengeluarkan-isu-dewan-jendral-ialah-untuk/">Tujuan Pki Mengeluarkan Isu Dewan Jendral Ialah Untuk</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebut-dan-jelaskan-struktur-teks-ulasan/">Sebut Dan Jelaskan Struktur Teks Ulasan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pembuka-tutup-botol-bali/">Pembuka Tutup Botol Bali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-asimetris/">Contoh Asimetris</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perbedaan-tinjauan-pustaka-dan-landasan-teori/">Perbedaan Tinjauan Pustaka Dan Landasan Teori</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/alat-yang-dipakai-dalam-pembuatan-lukis-kaca-adalah/">Alat Yang Dipakai Dalam Pembuatan Lukis Kaca Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-yang-dimaksud-falsafah-negara/">Jelaskan Yang Dimaksud Falsafah Negara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/rangkaian-tertutup/">Rangkaian Tertutup</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/a-1-2-3-4/">A 1 2 3 4</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/keras-lembutnya-lagu-disebut/">Keras Lembutnya Lagu Disebut</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

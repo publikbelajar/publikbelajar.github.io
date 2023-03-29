@@ -1,0 +1,1298 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Kebakuan Bahasa - BELAJAR</title>
+    <meta name="description" content="Kebakuan Bahasa, , , , , , , 0, (PDF) Tingkat Kebakuan Pemakaian Bahasa Indonesia Ditinjau dari aspek, www.academia.edu, 600 x 776, png, , 20, kebakuan-bahasa, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Kebakuan Bahasa - BELAJAR" />
+    <meta property="og:description" content="Kebakuan Bahasa, , , , , , , 0, (PDF) Tingkat Kebakuan Pemakaian Bahasa Indonesia Ditinjau dari aspek, www.academia.edu, 600 x 776, png, , 20, kebakuan-bahasa, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Kebakuan Bahasa - BELAJAR" />
+    <meta name="twitter:description" content="Kebakuan Bahasa, , , , , , , 0, (PDF) Tingkat Kebakuan Pemakaian Bahasa Indonesia Ditinjau dari aspek, www.academia.edu, 600 x 776, png, , 20, kebakuan-bahasa, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Kebakuan Bahasa</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">putrirahmadhani606</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Kebakuan+Bahasa" alt="Kebakuan Bahasa">
+                    </div>
+                    <p></p>
+                    <p>omongan apa bahasa baku nya
+lagian apa bahasa baku nya
+buat apa bahasa baku nya 
+ngikut apa bahasa baku nya
+ketabrak apa bahasa baku nya 
+ngelarang apa bahasa baku nya 
+ngeloyor apa bahasa baku nya 
+analisa apa bahasa baku nya</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#omongan-apa-bahasa-baku-nyalagian-apa-bahasa-baku-nyabuat-apa-bahasa-baku-nya-ngikut-apa-bahasa-baku-nyaketabrak-apa-bahasa-baku-nya-ngelarang-apa-bahasa-baku-nya-ngeloyor-apa-bahasa-baku-nya-a">1.
+                                            omongan apa bahasa baku nya
+lagian apa bahasa baku nya
+buat apa bahasa baku nya 
+ngikut apa bahasa baku nya
+ketabrak apa bahasa baku nya 
+ngelarang apa bahasa baku nya 
+ngeloyor apa bahasa baku nya 
+analisa apa bahasa baku nya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kebakuan-bahasakebakuan-bahasa-%e2%80%8b">2.
+                                            kebakuan bahasakebakuan bahasa ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kapan-bahasa-tidak-bakunyabagaimanabahasa-tidak-bakunyadimanabahasa-tidak-bakunya-bukubahasa-tidak-bakunyakemudianbahasa-tidak-bakunyasejak-bahasa-tidak-bakunya%e2%80%8b">3.
+                                            kapan: bahasa tidak bakunyabagaimana:bahasa tidak bakunyadimana:bahasa tidak bakunya buku:bahasa tidak bakunyakemudian:bahasa tidak bakunyasejak: bahasa tidak bakunya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-kalian-tentang-bahasa-baku-dan-bahasa-tidak-baku">4.
+                                            bagaimana pendapat kalian tentang bahasa baku dan bahasa tidak baku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-kalian-tentang-bahasa-yang-baku-dan-bahasa-yang-tidak-baku%e2%80%8b">5.
+                                            bagaimana pendapat kalian, tentang bahasa yang baku dan bahasa yang tidak baku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-anda-tentang-ragam-bahasa-baku-dengan-bahasa-yang-tidak-baku">6.
+                                            Bagaimana pendapat anda tentang ragam bahasa baku dengan bahasa yang tidak baku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">7.
+                                            Bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-perbedaan-bahasa-baku-dan-bahasa-tidak-baku">8.
+                                            apa perbedaan bahasa baku dan bahasa tidak baku..??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-artinya-kenapa-bahasa-yang-baku-dan-kok-bahasa-yang-tidak-baku">9.
+                                            apa artinya kenapa bahasa yang baku dan kok bahasa yang tidak baku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">10.
+                                            bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-konsep-bahasa-baku-dan-bahasa-tidak-baku">11.
+                                            Tuliskan konsep bahasa baku dan bahasa tidak baku! </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bawain-bahasa-baku-dan-alasan-bahasa-tidak-baku">12.
+                                            Bawain bahasa baku dan alasan bahasa tidak baku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perbedaan-antara-bahasa-baku-dengan-bahasa-tidak-baku">13.
+                                            perbedaan antara bahasa baku dengan bahasa tidak baku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-bentuk-bahasa-baku-dan-non-baku-serta-contoh-bahasa-baku-dan-non-baku-%e2%80%8b">14.
+                                            Sebutkan bentuk bahasa baku dan non baku serta contoh bahasa baku dan non baku.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-pengertian-bahasa-baku-dan-bahasa-tidak-baku">15.
+                                            tuliskan pengertian bahasa baku dan bahasa tidak baku?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-baku-dan-tidak-baku%e2%80%8b">16.
+                                            bahasa baku dan tidak baku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">17.
+                                            bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-cabal-adalah-bahasa-baku-jika-tidak-apa-bahasa-bakunya%e2%80%8b">18.
+                                            apakah cabal adalah bahasa baku, jika tidak apa bahasa bakunya?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-kata-ujung-adalah-bahasa-baku-jika-tidak-berikan-bahasa-bakunya">19.
+                                            apakah kata ''ujung'' adalah bahasa baku? jika tidak? berikan bahasa bakunya!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-tentang-bahasa-baku-dan-bahasa-tidak-baku">20.
+                                            Bagaimana pendapat tentang bahasa baku dan bahasa tidak baku.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-tentang-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">21.
+                                            Bagaimana tentang pendapat anda tentang bahasa baku dan bahasa tidak baku?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-bahasa-baku-mengapa-perlu-adanya-pembakuan-bahasa-indonesia">22.
+                                            Apa yang dimaksud dengan bahasa baku? Mengapa perlu adanya pembakuan bahasa indonesia</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-menurut-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">23.
+                                            bagaimana menurut pendapat anda tentang bahasa baku dan bahasa tidak baku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-baku-dan-bukan-baku">24.
+                                            bahasa baku dan bukan baku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">25.
+                                            Bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-perbandingan-bahasa-baku-dan-bahasa-tidak-baku%e2%80%8b">26.
+                                            contoh perbandingan bahasa baku dan bahasa tidak baku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#conoh-bahasa-baku-dan-bahasa-tidak-baku%e2%80%8b">27.
+                                            conoh bahasa baku dan bahasa tidak baku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">28.
+                                            bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perbedaan-bahasa-baku-dengan-bahasa-non-baku">29.
+                                            Perbedaan bahasa baku dengan bahasa non baku.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ngaji-termasuk-bahasa-baku-atau-tidak-jika-tidak-apa-bahasa-bakunya">30.
+                                            ngaji termasuk bahasa baku atau tidak? jika tidak, apa bahasa bakunya?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">31.
+                                            Bagaimana pendapat Anda tentang bahasa baku dan bahasa tidak baku ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nyelonong-itu-bahasa-baku-atau-bukan-kalau-bukan-bahasa-bakunya-apa">32.
+                                            nyelonong itu bahasa baku atau bukan? kalau bukan, bahasa bakunya apa?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">33.
+                                            bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-hiperbola-bahasa-baku-dan-bahasa-tidak-baku">34.
+                                            apa yang dimaksud dengan hiperbola, bahasa baku, dan bahasa tidak baku </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-perbedaan-bahasa-baku-dengan-bahasa-tidak-baku">35.
+                                            apa perbedaan bahasa baku dengan bahasa tidak baku?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usah-itu-bahasa-baku-atau-bukan-kalau-bukan-apa-bahasa-bakunya">36.
+                                            Usah' itu bahasa baku atau bukan? kalau bukan apa bahasa bakunya?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-bahasa-baku-dan-tidak-baku">37.
+                                            Apa itu bahasa baku dan tidak baku?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">38.
+                                            Bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">39.
+                                            bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#usah-itu-bahasa-baku-atau-bukan-kalau-bukan-apa-bahasa-bakunya">40.
+                                            'usah' itu bahasa baku atau bukan? kalau bukan apa bahasa bakunya?</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="omongan-apa-bahasa-baku-nyalagian-apa-bahasa-baku-nyabuat-apa-bahasa-baku-nya-ngikut-apa-bahasa-baku-nyaketabrak-apa-bahasa-baku-nya-ngelarang-apa-bahasa-baku-nya-ngeloyor-apa-bahasa-baku-nya-a">
+                            1. omongan apa bahasa baku nya
+lagian apa bahasa baku nya
+buat apa bahasa baku nya 
+ngikut apa bahasa baku nya
+ketabrak apa bahasa baku nya 
+ngelarang apa bahasa baku nya 
+ngeloyor apa bahasa baku nya 
+analisa apa bahasa baku nya</h2><br />
+                        OMONGAN=PERKATAAN<br />LAGIAN=LAGI PULA<br />BUAT=MEMBUAT<br />NGIKUT=MENGIKUTI, TURUT, IKUT<br />KETABRAK=TERTABRAK<br />NGELARANG=MELARANG<br />NGELOYOR=MELOYORKAN (KALAU TDK SALAH)<br />
+                                            <h2 class="ez-toc-section" id="kebakuan-bahasakebakuan-bahasa-%e2%80%8b">
+                            2. kebakuan bahasakebakuan bahasa ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>kebakuan bahasa</p><p>kebakuan bahasa </p><p>kebakuan bahasa </p><p>kebakuan bahasa</p><p><strong>Penjelasan:</strong></p><p>swmoga membantu...</p><br />
+                                            <h2 class="ez-toc-section" id="kapan-bahasa-tidak-bakunyabagaimanabahasa-tidak-bakunyadimanabahasa-tidak-bakunya-bukubahasa-tidak-bakunyakemudianbahasa-tidak-bakunyasejak-bahasa-tidak-bakunya%e2%80%8b">
+                            3. kapan: bahasa tidak bakunyabagaimana:bahasa tidak bakunyadimana:bahasa tidak bakunya buku:bahasa tidak bakunyakemudian:bahasa tidak bakunyasejak: bahasa tidak bakunya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>kemudian bahasa tidak bakunya</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-kalian-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            4. bagaimana pendapat kalian tentang bahasa baku dan bahasa tidak baku</h2><br />
+                        bahasa baku adalah bahasa yang ada di kamus besar bahasa indonesia yang digunakan untuk mengirim surat,pernyataan dan lain lain.                                                                 bahasa tidak baku adalah bahasa sehari hari yang terkadang tidak sesuai dengan EYD.            semoga membantu maaf kalo salah》Bahasa Baku dan Bahasa Tidak Baku<br /><br />Bahasa baku merupakan tata bahasa secara formal dan resmi, yang pelaksanaannya sesuai dengan kaidah-kaidah kebahasaan tanpa dicampuri dengan bahasa-bahasa yang tidak sesuai. <br /><br />Sedangkan bahasa tidak baku menurut saya adalah bahasa informal dengan pengembangan yang hanya diketahui oleh sebagian orang, bersifat kurang resmi, dan hanya digunakan untuk suatu keadaan yang berhubungan dengan sebaya atau sesama. <br /><br />Contoh penggunaan bahasa baku saat berada di area perkantoran, area sekolah, dan area pemerintahan. <br /><br />Sedangkan penggunaan bahasa tidak baku digunakan saat di taman bermain, di pasar, atau di lingkungan rumah. <br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-kalian-tentang-bahasa-yang-baku-dan-bahasa-yang-tidak-baku%e2%80%8b">
+                            5. bagaimana pendapat kalian, tentang bahasa yang baku dan bahasa yang tidak baku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>bahasa baku tuh kyk bahasa formal gitu di pake buat pidato/kl ngomong ke orang yg lebih tua</p><p>kl bahasa yg tidak baku adlh bahasa sehari-hari yg di pake buat org seumuran ato gak yg ud dkt gitu.</p><p><strong>Penjelasan:</strong></p><p>itu menurut saya, maaf kl salah ^^</p><p>Bahasa baku biasanya digunakan pada buku fiksi dan juga surat resmi</p><p>Sedangkan bahasa yang tidak baku sering digunakan pada buku nonfiksi dan surat pribadi</p><p></p><p>Maaf kalau salah</p><p>Terima kasih✨</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-anda-tentang-ragam-bahasa-baku-dengan-bahasa-yang-tidak-baku">
+                            6. Bagaimana pendapat anda tentang ragam bahasa baku dengan bahasa yang tidak baku</h2><br />
+                        ragam bahasa baku adalah ragam bahasa berdasarkan tata bahasa yang telah di tetapkan atau sesuai dengan eyd.<br />ragam bahasa tidak baku adalah ragam bahasa yang tidak sesuai dengan tata bahasa<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            7. Bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku</h2><br />
+                        jika bahasa baku biasa digunakan saat formal . tapi jika bahasa tidak baku biasa digunakan dalam kehidupan sehari hari untuk kalangan orang indonesia<br />Bahasa baku atau bahasa formal bahasa yg biasa digunakan kepada orang yg lebih tua. bahasa tidak baku atau bahasa informal yaitu bahasa  sehari-hari yg biasa di pakai untuk berbincang dengan teman<br />
+                                            <h2 class="ez-toc-section" id="apa-perbedaan-bahasa-baku-dan-bahasa-tidak-baku">
+                            8. apa perbedaan bahasa baku dan bahasa tidak baku..??</h2><br />
+                        <strong>Kata baku </strong>merupakan kata yang dipakai sesuai dengan kaidah bahasa Indonesia yang telah di tentukan sebelumnya. Sedangkan suatu kata dianggap tidak baku apabila kata yang di pakai tidak sesai dengan kaidah bahasa Indonesia.<br /><strong>Kata tidak baku</strong> ialah kata yang dipergunakan tidak sesuai dengan kaidah atau pedoman bahasa yang telah ditentukan. Umumnya kata tidak baku ini sering kita gunakan saat percakapan sehari-hari atau dalam bahasa tutur. <br />
+                                            <h2 class="ez-toc-section" id="apa-artinya-kenapa-bahasa-yang-baku-dan-kok-bahasa-yang-tidak-baku">
+                            9. apa artinya kenapa bahasa yang baku dan kok bahasa yang tidak baku</h2><br />
+                        bahasa yg baku bahasa yg mempunya anak kalimat dan bahasa yg tidak baku bahasa yg tidak mempunyai anak kalimat semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            10. bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku?</h2><br />
+                        bahasa baku adalah bahasa yg sesuai dengan kamus<br />bahasa tidak baku adalah bahasa yg kita gunakan sehari hariKata baku adalah kata yang digunakan sesuai dengan kaidah bahasa Indonesia yang telah ditentukan. sebagai sumber utama bahasa baku adalah KamusBesar Bahasa Indonesia. Kata baku digunakan dalam kalimat resmi, baik lisan maupun tertulis dengan pengungkapan gagasan secara cepat<br />
+                                            <h2 class="ez-toc-section" id="tuliskan-konsep-bahasa-baku-dan-bahasa-tidak-baku">
+                            11. Tuliskan konsep bahasa baku dan bahasa tidak baku! </h2><br />
+                        Kata baku adalah kata yg digunakan sudah sesuai dgn pedoman/ kaidah bahasa yg telah ditentukan<br />Kata tidak baku adalah kata yg digunakan tidak sesuai dgn pedoman/ kaidah bahasa sudah ditentukan<br />
+                                            <h2 class="ez-toc-section" id="bawain-bahasa-baku-dan-alasan-bahasa-tidak-baku">
+                            12. Bawain bahasa baku dan alasan bahasa tidak baku</h2><br />
+                        Kata Baku &amp; Kata Tidak Baku<br />Materi Tes CPNS  <br />Kata baku adalah kata yang sesuai dengan kaidah bahasa Indonesia. Sumber utama yang telah ditentukan dalam pemakaian bahasa baku yaitu Kamus Besar Bahasa Indonesia(KBBI). Kata baku umumnya digunakan dalam kalimat resmi( lisan dan tertulis).<br />
+                                            <h2 class="ez-toc-section" id="perbedaan-antara-bahasa-baku-dengan-bahasa-tidak-baku">
+                            13. perbedaan antara bahasa baku dengan bahasa tidak baku</h2><br />
+                        bahasa baku berarti bahasa formal. digunakan dalam acara penting.<br /><br />bahasa tidak baku berarti bahasa tidak formal. biasa kita gunakan dalam kehidupan sehari-hari.perbedaan antara Bahasa Baku dan Bahasa Tidak Baku: <br /><br />Bahasa Baku umumnya sering digunakan pada Kalimat yang Resmi,baik itu dalam tulisan maupun dalam pengungkapan kata2<br />Sedang kan Bahasa Tidak Baku sering digunakan saat percakapan sehari hari atau Dalam Bahasa Tutur<br /><br />--MAAF KLO SALAH--<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-bentuk-bahasa-baku-dan-non-baku-serta-contoh-bahasa-baku-dan-non-baku-%e2%80%8b">
+                            14. Sebutkan bentuk bahasa baku dan non baku serta contoh bahasa baku dan non baku.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Abjad. - Abjat</p><p>2. Apotek. - Apotik</p><p>3. Atlet. - Atlit</p><p>4. Berpikir. - Berfikir</p><p>5. Film-Pilem</p><p>6.Bus-Bis</p><p>7.Cabai-Cabe</p><p>8.Junior-Yunior</p><p>9.Kaidah-Kaedah</p><p>10.Justru-Justeru</p><p>11.Aktivitas-Aktifitas</p><p>12.Frekuensi-Frekwensi</p><p>13.Ambulans-Ambulan</p><p>14.Amfibi-Amphibi</p><p>15.Antre-antri</p><p>16.Asas-Azas</p><p>17.Azan-Adzan</p><p>18.Balsam-Balsem</p><p>19.Batalion-Batalyon</p><p>20.Baterai-Baterei</p><p>21.Berandal-Brandal</p><p>22.Belum-Belom</p><p>23.Brankas-Brangkas</p><p>24.Cedera-Cidera 25.Cengkih-Cengkeh</p><p>26.Daftar-Daptar</p><p>27.Detail-Detil</p><p>28.Durian-Duren</p><p>29.Februari-Pebruari</p><p>30.Fondasi-Pondasi</p><p>31.Formal-Pormal</p><p>32.Fotokopi-Photokopi</p><p>33.Kanker-Kangker</p><p>34.Zaman-Jaman</p><p>35.Utang-Hutang</p><p>36.Tobat-Taubat</p><p>37.Tim-Team</p><p>38.Terampil-Trampil</p><p>39.Subjek-Subyek</p><p>40.Nasihat-Nasehat</p><p><strong>Jawaban:</strong></p><p>Ciri-Ciri Kata Baku</p><p>Tidak terkontaminasi atau rancu</p><p>Tanpa pengaruh bahasa asing atau bahasa daerah</p><p>Bentuk tetap dan tidak berubah-ubah</p><p>Menggunakan imbuhan secara tersurat (eksplisit)</p><p>Digunakan dalam acara resmi atau formal</p><p>Tidak digunakan dalam percakapan sehari-hari</p><p>Tidak menggunakan majas pleonasme (menambahan keterangan tambahan yang tidak diperlukan)</p><p>Memiliki arti yang jelas (tidak rancu)</p><p>Ciri-Ciri Kata Tidak Baku</p><p>Digunakan dalam percakapan sehari-hari</p><p>Sudah bercampur dengan bahasa asing atau daerah</p><p>Bentuk kata yang berubah-ubah</p><p>Memiliki makna yang sama dengan kata baku dengan pengucapan berbeda</p><p>Contoh Kalimat dengan Kata Baku dan Tidak Baku</p><p>Untuk lebih jelas mengenai penggunaan kata baku dan tidak baku, berikut beberapa contoh dalam penggunaannya.</p><p></p><p>Contoh Kalimat Kata Baku</p><p>1.)Saya mohon izin karena tidak dapat menghadiri rapat.</p><p>2.)Memaafkan kesalahan orang lain adalah perbuatan yang mulia.</p><p>3.)Meskipun hanya sekedar memberi saran, penyampainnya perlu diperhatikan.</p><p>4.)Karier yang dipilih memang tidak sesuai dengan jurusan kuliah. Namun, hal itu bukan masalah besar selama bisa memberikan kontribusi.</p><p>5.)Apotek terlengkap di kota ini menyedikan jenis obat-obatan generik hingga obat-obatan langka.</p><p>Contoh Kalimat Kata Tidak Baku</p><p>1.)Aku sangat nggak suka dengan sikapnya akhir-akhir ini.</p><p>2.)Sekarang harga cabe terus naik</p><p>Belom apa-apa kok udah nyerah. Masa nggak malu ama diri sendiri.</p><p>3.)Ibu nyuruh beli sayuran di pasar.</p><p>Hakekat orang hidup sebenarnya apa, sih?</p><p>#maaf klo salah :) </p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-pengertian-bahasa-baku-dan-bahasa-tidak-baku">
+                            15. tuliskan pengertian bahasa baku dan bahasa tidak baku?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>bahasa baku ialah bahasa yg sesuai dengan EYD. Contohnya hari senin, kualitas</p><p>bahasa tidak baku ialah bahasa yang tidak sesuai dengan EYD. Contohnya senen,kuwalitas</p><p><strong>Jawaban:</strong></p><p>bahasa baku adalah: kata yg d gunakan sudah sesuai dengan pedoman/ kaidah yv telah d tntukan, atau kata yg sudah benar dengan aturan maupun ejaan kaidah dalam kamus besar bahasa indonesia (KBBI)</p><p></p><p>bahasa tidak baku adalah: kata yg di gunakan tidak sesuai dengan pedoman atau kaidah bahasa yg sudah d tentukan. biasanya kata ini sering d gunakan dalam bahasa sehari", atau dalam bahasa tutur.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bahasa-baku-dan-tidak-baku%e2%80%8b">
+                            16. bahasa baku dan tidak baku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p>Bahasa Baku Adalah Bahasa Yang Terdapat Dalam KBBI / Kamus Besar Bahasa Indonesia , Dan Bersifat Formal.</p><p></p><p>Bahasa Tidak Baku Adalah Bahasa Yang Tidak Terdapat Dalam KBBI/Kamus Besar Bahasa Indonesia , Dan Bahasanya Bersifat Non-Formal.</p><p></p><p>Semoga Membantu Ya Terima Kasih !!!</p><p></p><p>Jangan Lupa Jadikan Jawaban Terbaik !</p><p></p><p>Dan Kalo Jawabannya Benar Jangan Lupa Di Follow Ya !</p><p></p><p><strong>Jawaban:</strong></p><p><strong>k</strong><strong>a</strong><strong>t</strong><strong>a</strong><strong> </strong><strong>b</strong><strong>a</strong><strong>k</strong><strong>u</strong> </p><p>-Abjad</p><p>-Advokat</p><p>-Aktif</p><p>-Apotek</p><p>-Asas</p><p>-Atlet</p><p>-Atmosfer</p><p>-Baut</p><p>-Berpikir</p><p>-Bus</p><p><strong>k</strong><strong>a</strong><strong>t</strong><strong>a</strong><strong> </strong><strong>t</strong><strong>i</strong><strong>d</strong><strong>a</strong><strong>k</strong><strong> </strong><strong>b</strong><strong>a</strong><strong>k</strong><strong>u</strong></p><p>-Abjat</p><p>-Adpokat</p><p>-Aktip</p><p>-Apotik</p><p>-Azas</p><p>-Atlit</p><p>-Atmosfir</p><p>-Baud </p><p>-Berfikir</p><p>-Bis</p><p>       <strong>~</strong><strong>s</strong><strong>e</strong><strong>m</strong><strong>o</strong><strong>g</strong><strong>a</strong><strong> </strong><strong>b</strong><strong>e</strong><strong>r</strong><strong>m</strong><strong>a</strong><strong>n</strong><strong>f</strong><strong>a</strong><strong>a</strong><strong>t</strong><strong>~</strong></p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            17. bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku</h2><br />
+                        bahasa baku dipakai dalam situasi resmi,sedangkan bahasa tidak baku dipakai dalam situasi tidak resmi.....!!<br /><br />maaf kalau salah....Bahasa baku/kalimat baku biasanya di gunakan untuk acara acara resmi atau penting seperti yang berkegantungan kepada kepresidenan, pendidikan, dan lain lain. <br />Kalau bahasa tidak baku/tidak baku adalah bahasa campuran dari bahasa asing dan bahasa indonesia. Dan bahasa tidak baku biasanya di gunakan sebagai ucapan sehari hari seperti dengan kawan/teman, adik/saudara yang lebih rendah dengan umur kita. <br /><br /><strong>-Salam EXO-L :)</strong><br /><strong>Gamsahabidnida ~</strong><br />
+                                            <h2 class="ez-toc-section" id="apakah-cabal-adalah-bahasa-baku-jika-tidak-apa-bahasa-bakunya%e2%80%8b">
+                            18. apakah cabal adalah bahasa baku, jika tidak apa bahasa bakunya?​</h2><br />
+                        Jawaban<br />Cabai adalah bahasa baku menurut KBBI<br /><br />Maaf kalau salah<p><strong>Jawaban:</strong></p><p>menurut saya Cabal bukan sebuah kata mungkin yg dimaksud adalah Cabai, nah Cabai merupakan bahasa baku karna bahasa tdk bakunya adalah cabe.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apakah-kata-ujung-adalah-bahasa-baku-jika-tidak-berikan-bahasa-bakunya">
+                            19. apakah kata ''ujung'' adalah bahasa baku? jika tidak? berikan bahasa bakunya!</h2><br />
+                        jawabannya: tidak karena bahasa bakunya adalah penghujung<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            20. Bagaimana pendapat tentang bahasa baku dan bahasa tidak baku.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>bahwa kedua bahasa tersebut adalah bahasa yang penting di kehidupan sehari-hari </p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-tentang-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            21. Bagaimana tentang pendapat anda tentang bahasa baku dan bahasa tidak baku?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> menurut saya bahasa baku adalah bahasa terstruktur dan mudah di pahami secara universal (satu negara)</p><p></p><p>bahasa tidak baku adalah bahasa yang cenderung tidak terstruktur dan Terkadang hanya bisa di pahami sebagian orang </p><p></p><p></p><p> Ini menurut sya kk maaf jika keliru</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-bahasa-baku-mengapa-perlu-adanya-pembakuan-bahasa-indonesia">
+                            22. Apa yang dimaksud dengan bahasa baku? Mengapa perlu adanya pembakuan bahasa indonesia</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>yang berkontras dengan bentuk-bentuk vernakular (termasuk dialek geografis dan sosiolek). </p><p><strong>Penjelasan:</strong></p><p>Maap klo salah :')) </p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-menurut-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            23. bagaimana menurut pendapat anda tentang bahasa baku dan bahasa tidak baku</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Bahasa baku yaitu bahasa yang sesuai dengan kamus besar bahasa indonesia, bahasa ini akan mudah dan enak untuk digunakan dan didengarkan. </p><p>Sedangkan bahasa tidak baku yaitu bahasa yang tidak sesuai dengan kamus besar bahasa indonesia dan pastinya tidaklah bagus untuk digunakan. </p><p>Maaf kalau salah </p><br />
+                                            <h2 class="ez-toc-section" id="bahasa-baku-dan-bukan-baku">
+                            24. bahasa baku dan bukan baku</h2><br />
+                        bahasa baku adalah bahasa yg sesuai dgn EYD dan terdaftar di KBBI <br /><br />bahasa tidak baku adalah bahasa yg tdk sesuai EYD dan tidak terdaftar KBBIbaku = sesuai EYD<br />tidak baku = tidak sesuai EYD<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            25. Bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku</h2><br />
+                        #Bahasa baku adalah bahasa yang ejaannya dan penulisannya menurut kamus besar bahasa indonesia<br />#Bahasa tidak baku adalah bahasa yang penulisannya tidak menurut kamus bahasa indonesia. biasa diapakai sehari hari.<br />#maaf klo salahbahsa baku adalah bahasa yg digunakan pada saat saat resmi atau kegiatan" resmi seperti meeting, dan pidatoo..<br />bhasa tdak baku adalah bahasa yg di gunakan srhari hari misalnya kata iya dong, pastilah, santai aja napa...<br />
+                                            <h2 class="ez-toc-section" id="contoh-perbandingan-bahasa-baku-dan-bahasa-tidak-baku%e2%80%8b">
+                            26. contoh perbandingan bahasa baku dan bahasa tidak baku​</h2><br />
+                        <p>Bahasa baku: apotik</p><p>Bahasa tidak baku: apotek</p><br />
+                                            <h2 class="ez-toc-section" id="conoh-bahasa-baku-dan-bahasa-tidak-baku%e2%80%8b">
+                            27. conoh bahasa baku dan bahasa tidak baku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>karir:karier</p><p>jadual:jadwal</p><p>pantey:pantai</p><p><strong>Penjelasan:</strong></p><p>tiga aja dulu yaa</p><p><strong>Jawaban:</strong></p><p>apotek = apotik </p><p>abjad = abjat </p><p>antre = antri </p><p>asas = azas </p><p>akhirat = akherat </p><p>aksesoris = asesoris </p><p><strong>Penjelasan:</strong></p><p>segitu dulu ya</p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            28. bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku?</h2><br />
+                        Bahasa yang baku adalah bahasa yang sesuai dengan kaidah kebahasaan (benar secara spok).<br />Bahasa yang tidak baku adalah bahasa yang tidak sesuai dengan kaidah kebahasaan. bahasa baku biasa digunakan pada orang yang lebih tua atau terhormat, dan biasanya dipakai untuk acara2 resmi. sedangkan bahasa tidak baku biasa digunakan pada orang yang seumuran dan lebih muda<br />
+                                            <h2 class="ez-toc-section" id="perbedaan-bahasa-baku-dengan-bahasa-non-baku">
+                            29. Perbedaan bahasa baku dengan bahasa non baku.</h2><br />
+                        Bahasa Baku Adlah Bahasa Yg Sebenar-Benarnya.<br />Bahasa NonBaku Adlah Bahasa Yg salah .<br />Bahasa baku adalah bahasa yang kata- kata sudah ada di KBBI dan kata yang digunakan efektif.<br />Sedangkan bahasa tidak baku yaitu bahasa yang kata-katanya tidak efektif.<br />
+                                            <h2 class="ez-toc-section" id="ngaji-termasuk-bahasa-baku-atau-tidak-jika-tidak-apa-bahasa-bakunya">
+                            30. ngaji termasuk bahasa baku atau tidak? jika tidak, apa bahasa bakunya?</h2><br />
+                        tidak. Yang betul adalah Mengaji.<p>Bukan, tetapi mengaji</p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            31. Bagaimana pendapat Anda tentang bahasa baku dan bahasa tidak baku ?</h2><br />
+                        dapat membantu kita agar membaca dengan benarkeduanya baik karena bahasa baku bisa dipakai pada suasana resmi sedangkan bahasa tidak baku bisa dipakai pada suasana santai<br />
+                                            <h2 class="ez-toc-section" id="nyelonong-itu-bahasa-baku-atau-bukan-kalau-bukan-bahasa-bakunya-apa">
+                            32. nyelonong itu bahasa baku atau bukan? kalau bukan, bahasa bakunya apa?</h2><br />
+                        itu bukan bahasa baku.bahasa bakunya kalo nggak salah lewat maaf kalo salahbukan bahasa baku, bahasa bakunya selonong<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            33. bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku?</h2><br />
+                        Kalau bahasa baku itu bahasa resmi dan bersifat formal biasanya digunakan dalam acara resmi dan berbicara kepada orang yang kita hormati atau memiliki kedudukan yang lebih tinggi dari kita, sedangkan bahasa tidak baku adalah bahasa informal yang digunakan dalam aktivitas sehari-haribahasa baku adalah bahasa formal(resmi)<br />bahasa tidak baku adalah bahasa informal<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-hiperbola-bahasa-baku-dan-bahasa-tidak-baku">
+                            34. apa yang dimaksud dengan hiperbola, bahasa baku, dan bahasa tidak baku </h2><br />
+                        hiperbola adalah kata yang berulang-rulang muncul/ada, bahsa baku adalah bahasa yang logis dan mudah dimengerti,kata yg tidak tetep/ tidak baku<br />
+                                            <h2 class="ez-toc-section" id="apa-perbedaan-bahasa-baku-dengan-bahasa-tidak-baku">
+                            35. apa perbedaan bahasa baku dengan bahasa tidak baku?</h2><br />
+                        Kata baku adalah
+ kata yang digunakan sesuai dengan kaidah bahasa Indonesia yang telah 
+ditentukan. sebagai sumber utama bahasa baku adalah Kamus Besar Bahasa 
+Indonesia. Kata baku digunakan dalam kalimat resmi, baik lisan maupun tertulis dengan pengungkapan gagasan secara tepat.<br /><br />Kata tidak baku adalah
+ kata yang digunakan tidak sesuai dengan kaidah bahasa Indonesia yang 
+ditentukan. kata tidak baku digunakan dalam bahasa percakapan 
+sehari-hari, atau bahasa tutur.<br /><br />kalau bahasa baku bahasa yang resmi biasanya digunakan untuk menulis surat resmi.Kalau bahasa tidak baku adalah bahasa yang biasanya digunakan untuk menulis surat pribadi<br />
+                                            <h2 class="ez-toc-section" id="usah-itu-bahasa-baku-atau-bukan-kalau-bukan-apa-bahasa-bakunya">
+                            36. Usah' itu bahasa baku atau bukan? kalau bukan apa bahasa bakunya?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Kata 'usah' tidak termasuk kata baku. Kata baku dari usah adalah perlu.</p><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-bahasa-baku-dan-tidak-baku">
+                            37. Apa itu bahasa baku dan tidak baku?</h2><br />
+                        bahasa baku adalah bahasa formal dan sopan<br />bahasa tidak baku adalah bahasa informal<br />bahasa baku itu seperti misalnya:<br />Aku : saya<br />jika tidak baku seperti misalnya:<br />aku : gue<br />gitu loh caranya jadi semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            38. Bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku.</h2><br />
+                        Jawaban:Umumnya, kata baku digunakan sesuai dengan kaidah bahasa Indonesia yang telah ditentukan sebelumnya. Sedangkan suatu kata dianggap tidak baku apabila kata yang digunakan tidak sesuai dengan kaidah bahasa Indonesia. ... Umumnya, kata tidak baku sering diucapkan atau muncul dalam percakapan sehari-hari.<p></p><p></p><p><strong>Penjelasan:</strong></p>#Semoga membantu:)<p><strong>Jawaban:</strong></p><p>bahasa baku adalah bahasa yang sudah ada artinya/ sesuai kaidah pada KBBI (Kamus besar bahasa indonesia) sementara bahasa tidak baku adalah bahasa yg keluar dari kaidah  KBBI dan seringkali digunakan dlm kehidupan sehari hari</p><p><strong>Penjelasan:</strong></p><p>semoga membantu:)</p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendapat-anda-tentang-bahasa-baku-dan-bahasa-tidak-baku">
+                            39. bagaimana pendapat anda tentang bahasa baku dan bahasa tidak baku?</h2><br />
+                        meurut saya sedikit susah menentukan baku dan tidak baku karena terkadang memiliki banyak kata namun masih satu artimenurut saya, bahasa baku dan tidak baku sama sama dapat digunakan dalam kehidupan sehari hari, namun bahasa baku akan cenderung lebih cocok untuk acara formal.<br />
+                                            <h2 class="ez-toc-section" id="usah-itu-bahasa-baku-atau-bukan-kalau-bukan-apa-bahasa-bakunya">
+                            40. 'usah' itu bahasa baku atau bukan? kalau bukan apa bahasa bakunya?</h2><br />
+                        Kata Baku dan Tidak Baku<br /><br />Kata 'usah' tidak termasuk kata baku.<br /><br />Kata baku dari usah adalah perlu.<br /><br />Contoh:<br />▪ Kalimat yang mengandung kata tidak baku<br />Kamu tidak usah memanjat pohon itu.<br />◾ Kalimat yang mengandung kata baku<br />Kamu tidak perlu memanjat pohon itu.<br /><br />*semoga membantu. sukses selalu ^_^<p>Perlu<br />Tidak usah=tidak perlu</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/BubE_vfhOKE?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_indonesia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/what-is-the-writer-s-intention-to-write-the-text/">What Is The Writer s Intention To Write The Text</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pbb-dasar/">Pbb Dasar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-sesongan/">Contoh Sesongan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/yang-tidak-termasuk-dalam-aplikasi-microsoft-office-adalah/">Yang Tidak Termasuk Dalam Aplikasi Microsoft Office Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pangjejer/">Pangjejer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/yang-bukan-termasuk-fungsi-lembaga-sosial-yaitu/">Yang Bukan Termasuk Fungsi Lembaga Sosial Yaitu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-bacaan-lam-tafkhim/">Contoh Bacaan Lam Tafkhim</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/physical-fitness-adalah/">Physical Fitness Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/x-25-0/">X 25 0</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/3-100/">3 100</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/v3-use/">V3 Use</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/panenggak-pandawa-yaiku/">Panenggak Pandawa Yaiku</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/4-windu-berapa-bulan/">4 Windu Berapa Bulan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tabel-berikut-menunjukkan-kecepatan-empat-merek-printer/">Tabel Berikut Menunjukkan Kecepatan Empat Merek Printer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1km-20-hm-km/">1km 20 Hm Km</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/penyesuaian-diri-makhluk-hidup-terhadap-lingkungannya-disebut/">Penyesuaian Diri Makhluk Hidup Terhadap Lingkungannya Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pengertian-seni-grafis/">Pengertian Seni Grafis</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-mata-pencaharian-penduduk-berbeda-sesuai-lingkungan-tempat-hidupnya/">Mengapa Mata Pencaharian Penduduk Berbeda Sesuai Lingkungan Tempat Hidupnya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/15-dolar-berapa-rupiah/">15 Dolar Berapa Rupiah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/geometris-adalah/">Geometris Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

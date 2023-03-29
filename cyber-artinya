@@ -1,0 +1,1298 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cyber Artinya - BELAJAR</title>
+    <meta name="description" content="Cyber Artinya, , , , , , , 0, Why is Cyber Defense Necessary? - 2WTech : 2WTech, 2wtech.com, 1429 x 953, jpeg, , 20, cyber-artinya, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Cyber Artinya - BELAJAR" />
+    <meta property="og:description" content="Cyber Artinya, , , , , , , 0, Why is Cyber Defense Necessary? - 2WTech : 2WTech, 2wtech.com, 1429 x 953, jpeg, , 20, cyber-artinya, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Cyber Artinya - BELAJAR" />
+    <meta name="twitter:description" content="Cyber Artinya, , , , , , , 0, Why is Cyber Defense Necessary? - 2WTech : 2WTech, 2wtech.com, 1429 x 953, jpeg, , 20, cyber-artinya, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Cyber Artinya</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">myrnacharla</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Cyber+Artinya" alt="Cyber Artinya">
+                    </div>
+                    <p></p>
+                    <p>arti cyber bullying?</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-cyber-bullying">1.
+                                            arti cyber bullying?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-dari-cyber-crime-adalah%e2%80%8b">2.
+                                            arti dari cyber crime adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-cyber-bullying">3.
+                                            arti cyber bullying?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-tuliskan-yang-anda-ketahui-tentang-jenis-jenis-cyber-crime2-tuliskan-berbagai-upaya-pencegahan-hingga-penanggulangan-cyber-crime-yang-dilakukan-pemerintah-ri3-jelaskan-yang-anda-ketahui-tentang-ma">4.
+                                            1.Tuliskan yang Anda ketahui tentang jenis-jenis cyber crime!2.Tuliskan berbagai upaya pencegahan hingga penanggulangan cyber crime yang dilakukan pemerintah RI!3.Jelaskan yang anda ketahui tentang manfaat penggunaan komputer di sektor pendidikan dan pembelajaran!4.Tuliskan yang Anda ketahui tentang penggunaan e-government!5.Tuliskan yang Anda ketahui tentang peranan komputer di masyarakat!6.Jabarkan yang Anda ketahui tentang peranan komputer dalam bidang jasa pengiriman!7.Tuliskan dampak positif penggunaan teknologi komputer!8.Terangkan fungsi BSSN!Bagaimana pemerintah dalam melakukan pengamanan anak di dunia maya?9.Jelaskan penertian cyber crime dalam arti luas!10.Jabarkan yang dimaksud dengan unauthorized access!11.Terangkan pengertian cyber espionage!12.Fungsi dari e-commerce adalah….13.Tuliskan beberapa cara mengatasi ketertinggalan penggunaan teknologi terhadap murid-murid di perdesaan!14.Uraikan yang Anda ketahui tentang penerapan teknologi informasi dan komunikasi dalam kesehatan!15Tuliskan yang Anda ketahui tentang cara cyber crime yang sering dilakukan!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikan-contoh-arti-di-indonesia-dari-cyber-crime">5.
+                                            Berikan contoh arti di indonesia dari cyber crime</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cyberbullying-adalah-serangan-atau-ancaman-yang-dilakukan-seseorang-melalui-media-elektronik-seperti-internet-mungkin-biasanya-aksi-perundungan-atau-bullying-hanya-terjadi-di-dunia-nyata-namun-sekar">6.
+                                            Cyberbullying adalah serangan atau ancaman yang dilakukan seseorang melalui media elektronik seperti internet. Mungkin biasanya aksi perundungan atau bullying hanya terjadi di dunia nyata, namun sekarang bullying juga sudah marak di dunia maya.Cyberbullying merupakan fenomena sosial baru yang muncul karena perkembangan teknologi dan komunikasi.Hal ini diartikan sebagai tindakan menyakiti orang lain yang dilakukan dengan sengaja melalui media seluler, komputer atau alat elektronik lainnya.Aktivitas cyberbullying dilakukan dengan cara mengirim komentar yang mengandung kebencian di media sosial, blog, email atau postingan. Komentar ini dibuat untuk menghina orang lain.Hal tersebut dapat menurunkan kepercayaan diri orang yang dijadikan target perundungan. Biasanya berujung pada kecemasan, kekhawatiran atau bahkan keinginan untuk bunuh diri.Kasus cyberbullying tidak hanya merugikan, bahkan dapat mengancam kondisi psikologis korban.Mental korban kasus perundungan cyber dapat terganggu dan korban akan kesulitan mengatur emosi. Sebab itu kita harus mencegah dan menghentikan aksi cyberbullying.​ identifikasilah struktur teks eskplanasi di atas​jangan ngasal ya kak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kebebasan-berbicara-di-ruang-publik-cyber-menjadi-mahal-apalagi-adanya-uu-ite-yang-berujung-menjadi-pasal-karet-artinya-uu-tersebut-hanya-berlaku-bagi-sebagian-orang-yang-tidak-disukai-yang-beruj">7.
+                                            Kebebasan berbicara di ruang publik (Cyber) menjadi mahal, apalagi adanya UU ITE yang berujung menjadi pasal karet, artinya UU tersebut hanya berlaku bagi sebagian orang yang tidak disukai, yang berujung kepada kasus pelaporan dan penahanan (seperti kasus Ahmad Dhani dan yang lainnya). Bagaimana menurut pendapat Anda tentang hal tersebut, sementara Indonesia dikenal sebagai negara dengan sistem politik nya demokrasi yang menghargai kebebasan terutama dalam berpendapat di depan publik?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#di-dunia-internet-yang-sering-mendengar-istilah-cyber-crime-yang-artinya-adalah-a-www-kejahatan-dunia-internasional-b-kejahatan-dunia-maya-c-kejahatan-dunia-lain-d-kejahatan-dalam-negeri-jawab-yang">8.
+                                            di dunia Internet yang sering mendengar istilah cyber crime yang artinya adalah A.www. Kejahatan dunia internasional B.kejahatan dunia maya C.kejahatan dunia lain D. Kejahatan dalam negeri Jawab yang bener ya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#are-you-aware-of-cyber-bullying-do-you-think-it-is-worse-than-physical-bullyingwhy-support-your-opinion-with-examples-artikan-ke-bahasa-indonesia">9.
+                                            are you aware of cyber bullying? do you think it is worse than physical bullying?why? support your opinion with examples. artikan ke bahasa indonesia</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-istilah-literasi-dlm-bahasa-latin-di-sebut2-pemanfaatan-teknologi-untuk-melakukan-segala-bentuk-gangguan-guna-merendahkan-martabat-seseorang-dalam-pengertian-dari-6-semua-aktivitas-yang-dilakukan-d">10.
+                                            1.istilah literasi dlm bahasa latin di sebut?2 pemanfaatan teknologi untuk melakukan segala bentuk gangguan guna merendahkan martabat seseorang dalam pengertian dari 6 semua aktivitas yang dilakukan di internet disebut 7 catatan nama baik dalam Kewargaan digital disebut 8 arti dari cyber Crime adalah 9 mengatakan atau menuliskan suatu hal yang bermakna tertentu adalah jenis intimidasi 10 meninggalkan seseorang dengan sengaja mengatakan kepada siswa lain untuk tidak berteman dengan seseorang menyebarkan rumor tentang seseorang atau melakukan seseorang di depan umum dari  bantu jawab maksi kk kk cantik atau ganteng​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-istilah-real-space-mempunyai-arti-a-penghubung-jaringanb-penghilang-jaringanc-jarak-nyata2-internet-merupakan-sekumpulan-jaringan-antara-a-lan-dengan-wanb-lan-dengan-manc-man-dengan-wa">11.
+                                            1.) istilah real space mempunyai arti...a. penghubung jaringanb. penghilang jaringanc. jarak nyata2.) internet merupakan sekumpulan jaringan antara...a. LAN dengan WANb. LAN dengan MANc. MAN dengan WAN d. LAN dengan LAN3.) jaringan komunikasi jarak jauh tanpa kabel sering disebut dengan...a. wirelessb. real spacec. cyber spaced. hunting</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#soal-cyberbullyingcyberbullying-adalah-serangan-atau-ancaman-yang-dilakukan-seseorang-melalui-media-elektronik-seperti-internet-mungkin-biasanya-aksi-perundungan-atau-bullying-h">12.
+                                            soal                       CyberbullyingCyberbullying adalah serangan atau ancaman yang dilakukan seseorang melalui media elektronik seperti internet. Mungkin biasanya aksi perundungan atau bullying hanya terjadi di dunia nyata, namun sekarang bullying juga sudah marak di dunia maya.Cyberbullying merupakan fenomena sosial baru yang muncul karena perkembangan teknologi dan komunikasi.Hal ini diartikan sebagai tindakan menyakiti orang lain yang dilakukan dengan sengaja melalui media seluler, komputer atau alat elektronik lainnya.Aktivitas cyberbullying dilakukan dengan cara mengirim komentar yang mengandung kebencian di media sosial, blog, email atau postingan. Komentar ini dibuat untuk menghina orang lain.Hal tersebut dapat menurunkan kepercayaan diri orang yang dijadikan target perundungan. Biasanya berujung pada kecemasan, kekhawatiran atau bahkan keinginan untuk bunuh diri.Kasus cyberbullying tidak hanya merugikan, bahkan dapat mengancam kondisi psikologis korban.Mental korban kasus perundungan cyber dapat terganggu dan korban akan kesulitan mengatur emosi. Sebab itu kita harus mencegah dan menghentikan aksi cyberbullying.​ KK carilah konflik di atas KK mengerjakan soalnya nanti dikumpulkan KK nanti kasih nilai 50 poin​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pilih-salah-satu-jawaban-yang-dianggap-paling-benar-1-media-yang-menggunakan-foto-atau-gambar-sebagai-sarana-berbagi-utamanya-adalah-a-twitter-b-instagram-c-ask-fm-d-facebook-2-perkembangan">13.
+                                            PILIH SALAH SATU JAWABAN YANG DIANGGAP PALING BENAR! 1. Media yang menggunakan foto atau gambar sebagai sarana berbagi utamanya adalah.... a.	Twitter b.	Instagram c.	Ask.fm d.	Facebook 2. Perkembangan teknologi sistem pembelajaran tidak harus melalui tatap muka, kemajuan teknologi proses pembelajaran tidak harus mempertemukan siswa dengan guru. Pernyataan tersebut merupakan perkembangan TIK di bidang .... a.	Politik b.	Ekonomi c.	Sosial d.	Pendidikan 3. Berbelanja menggunakan nomor dan identitas kartu kredit orang lain, yang diperoleh secara ilegal, biasanya dengan mencuri data di internet adalah ....a.	Spamming b.	Phishing c.	Defacing d.	Carding 4. Saat kita membeli barang melalui media online, terkadang barang yang sampai belum tentu seperti yang kita pesan merupakan contoh dampak negatif dari penggunaan TIK dalam bidang.... a.	kebudayaan b.	e-commerce c.	komunikasi d.	e-learning 5. Dampak negatif dari adanya pemakaian teknologi informasi dan komunikasi seperti yang di bawah ini, kecuali .... a.	Berkurangnya lapangan pekerjaan b.	Pekerjaan lebih efisien c.	Nilai-nilai luhur bangsa indonesia terkikis dengan era kebebasan d.	Masuknya budaya asing lewat internet 6. Salah satu kejahatan di dunia internet adalah phising, yaitu.... a.	Memata-matai pengguna untuk mendapatkan informasi b.	Situs tiruan untuk mendapatkan identitas pengguna c.	Menjual barang, setelah pembayaran, barang tidak terkirim d.	Software jahat untuk merusak data pengguna 7. Aktivitas mengirim pesan kepada orang lain menggunakan surat elektronik secara terus-menerus dan jumlahnya banyak tanpa dikehendaki oleh penerima dinamakan.... a.	Defasing b.	Spamming c.	Carding d.	Phising 8.Merupakan kegiatan mengubah tampilan website atau situs tertentu yang dikehendaki dengan memanfaatkan kelemahan sistem keamanan pada website tersebut dan merugikan pemiliknya dinamakan .... a.	defacing b.	Carding c.	Phishing d.	Spamming 9. Media sosial media khusus untuk bisnis dan profesional pengusaha bisa mencari langsung tenaga kerja yang potensial untuk kemajuan perusahaannya adalah .... a.	Facebook b.	LinkedIn c.	Google Plus d.	Twitter 10. Media Sosial yang paling populer di dunia adalah Facebook dibuat oleh.... a.	Mark Zuckerberg b.	Thomas Anderson c.	John Rezner d.	Jack Dorsey 11. Merupakan muatan ilegal yang berupa data atau informasi tidak benar dan tidak sesuai dengan norma yang dimasukkan oleh pelaku kejahatan diistilahkan dengan .... a.	Illegal Contents b.	Sabotase c.	Defasing d.	Unauthorized Access 12. Layanan jejaring sosial dan mikroblog daring yang memungkinkan penggunanya untuk mengirim dan membaca pesan berbasis teks yang dikenal dengan sebutan kicauan .... a.	Instagram b.	Facebook c.	Twitter d.	Bloger 13. Komputer dapat diartikan sebagai alat yang dapat melakukan tugas untuk menerima masukan, memproses masukan, menyimpan dan.... a.	menampilkan keluaran b.	menambah output c.	menampilkan masukan d.	menghapus input. 14. Teknologi yang membantu pengemudi kendaraan bermotor di darat dalam menunjukkan arah atau letak suatu tempat serta posisi si pengendara adalah … a.	GPS b.	CDMA c.	GPRS d.	GSM 15. Bentuk usaha yang menimbulkan kerusakan, kehancuran data, dan gangguan jaringan komputer disebut .... a.	Cyber Crime b.	Carding. c.	Sabotase d.	Phising 16. Kejahatan yang digunakan dengan cara mengecoh korban sehingga memberikan data ke dalam situs yang telah disiapkan oleh pelaku kejahatan adalah .... a.	spamming b.	Defacing c.	Carding d.	Phishing 17. Pengggunaan kekerasan, ancaman, atau paksaan untuk menyalah gunakan atau mengintimidasi orang lain termasuk .... a.	Penipuan b.	Gambling c.	hoax d.	Bulying 18. Dampak positif media sosial kegiatan jual beli (perdagangan) dipermudah sehingga antara penjual dan pembeli tidak harus bertemu adalah.... a.	informasi cepat dan luas b.	mempermudah bisnis c.	kemudahan membuat komunitas d.	promosi produk 19. Tindakan kriminal yang memanfaatkan internet untuk menjalankan aksinya dan sering disebut dengan kejahatan dunia maya adalah.... a.	Spamming b.	Illegal Contents c.	Phising d.	Cyber Crime 20. Orang yang memiliki kemampuan pemrograman komputer dan mampu menganalisis, mengubah, serta memodifikasi sistem atau software orang lain dengan tujuan yang tidak baik adalah.... a.	hacker b.	pemrograman c.	hunter d.	crackerjangan ngasal ya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-arti-cyber-law">14.
+                                            apakah Arti cyber law</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bacalah-dengan-walkmenurut-kamus-merriam-webster-cyber-buliying-berarti-bentuk-ancaman-aldu-seldny-unyang-dilakukan-seseorang-terhadap-orang-lain-yang-disampaikan-melalui-pesan-elek-tronik-media-bul">15.
+                                            Bacalah dengan walk!Menurut kamus merriam-Webster, cyber-buliying berarti bentuk ancaman aldu seldny unyang dilakukan seseorang terhadap orang lain yang disampaikan melalui pesan elek-tronik media.Bulliying yang biasanya terjadi hanya di dunia nyata saja sekarang sudah mulai merambah kedunia mayaCyberbulliying merupakan sebuah feno-mena baru dari perkembangan teknologi komunikasiPada kondisi sekarang, hal ter-sebut didefinisikan sebagai sebuah perbuatan menyakiti atausecara terus menerus dan disengaja melalui media komputer,individu yang dimanasemenurut kamus dianggap Star cubling berarti bentuk ancaman atau Serangan yang dilakukan seseorang terhadap orang lain disampaikan melalui pesan elektronik media yang biasanya terjadi hanya di dunia nyata saja sekarang sudah mulai merambah ke dunia maya merupakan sebuah fenomena perkembangan teknologi komunikasi pada kondisi sekarang hal tersebut didefinisikan sebagai sebuah perbuatan menyakiti atau mengolok-olok yang dilakukan secara terus-menerus dan disengaja melalui media komputer ataupun peralatan elektronik lainnya yang dilakukan oleh seseorang individu yang di mana seseorang yang tidak dapat dirinya 1.identifikasilah struktur teks eksplanasi di atas! (AKM LITERASI)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-cyber-clonetolong-kak-di-jawab%e2%80%8b">16.
+                                            arti cyber clonetolong kak di jawab​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-ide-pokok-dari-karangan-dibawah-ini-cyberbullying-adalah-serangan-atau-ancaman-yang-dilakukan-seseorang-melalui-media-elektronik-seperti-internet-mungkin-biasanya-aksi-perundungan-atau-bull">17.
+                                            Tentukan ide pokok dari karangan dibawah ini !Cyberbullying adalah serangan atau ancaman yang dilakukan seseorang melalui media elektronik seperti internet. Mungkin biasanya aksi perundungan atau bullying hanya terjadi di dunia nyata, namun sekarang bullying juga sudah marak di dunia maya.Cyberbullying merupakan fenomena sosial baru yang muncul karena perkembangan teknologi dan komunikasi.Hal ini diartikan sebagai tindakan menyakiti orang lain yang dilakukan dengan sengaja melalui media seluler, komputer atau alat elektronik lainnya.Aktivitas cyberbullying dilakukan dengan cara mengirim komentar yang mengandung kebencian di media sosial, blog, email atau postingan. Komentar ini dibuat untuk menghina orang lain.Hal tersebut dapat menurunkan kepercayaan diri orang yang dijadikan target perundungan. Biasanya berujung pada kecemasan, kekhawatiran atau bahkan keinginan untuk bunuh diri.Kasus cyberbullying tidak hanya merugikan, bahkan dapat mengancam kondisi psikologis korban.Mental korban kasus perundungan cyber dapat terganggu dan korban akan kesulitan mengatur emosi. Sebab itu kita harus mencegah dan menghentikan aksi cyberbullying.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cyberbullying-adalah-serangan-atau-ancaman-yang-dilakukan-seseorang-melalui-media-elektronik-seperti-internet-mungkin-biasanya-aksi-perundungan-atau-bullying-hanya-terjadi-di-dunia-nyata-namun-sekar">18.
+                                            Cyberbullying adalah serangan atau ancaman yang dilakukan seseorang melalui media elektronik seperti internet. Mungkin biasanya aksi perundungan atau bullying hanya terjadi di dunia nyata, namun sekarang bullying juga sudah marak di dunia maya.Cyberbullying merupakan fenomena sosial baru yang muncul karena perkembangan teknologi dan komunikasi.Hal ini diartikan sebagai tindakan menyakiti orang lain yang dilakukan dengan sengaja melalui media seluler, komputer atau alat elektronik lainnya.Aktivitas cyberbullying dilakukan dengan cara mengirim komentar yang mengandung kebencian di media sosial, blog, email atau postingan. Komentar ini dibuat untuk menghina orang lain.Hal tersebut dapat menurunkan kepercayaan diri orang yang dijadikan target perundungan. Biasanya berujung pada kecemasan, kekhawatiran atau bahkan keinginan untuk bunuh diri.Kasus cyberbullying tidak hanya merugikan, bahkan dapat mengancam kondisi psikologis korban.Mental korban kasus perundungan cyber dapat terganggu dan korban akan kesulitan mengatur emosi. Sebab itu kita harus mencegah dan menghentikan aksi cyberbullying.​ identifikasilah struktur teks eskplanasi di atas​jangan ngasal ya kak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#artikan-ke-bahasa-indonesia-yes-public-can-see-cyber-bullying">19.
+                                            artikan ke bahasa indonesia. yes. public can see cyber bullying</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#15-salah-satu-manfaat-proxy-adalah-sebagai-filter-yang-artinya-a-untuk-mempercepat-pemanggilan-alamat-web-yang-dilakukan-secara-berulangb-sebagai-pintu-gerbang-c-menyaring-aktivitas-di-interne">20.
+                                            15. Salah satu manfaat proxy adalah sebagai filter yang artinya ... a. untuk mempercepat pemanggilan alamat web yang dilakukan secara berulangb. sebagai pintu gerbang c. menyaring aktivitas di internet d. pengaman kejahatan cyber​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-cyber-yg-sesungguhnya">21.
+                                            arti cyber yg sesungguhnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-indonesia-kd-3-2bacalah-dengan-baikdunia-mayayang-dilakukan-seseorang-terhadap-orang-lain-yang-disampaikan-melalui-pesan-elektronik-mediapulising-yang-biasanya-terjadi-hanya-di-dunia-nyata-s">22.
+                                            BAHASA INDONESIA (KD 3.2)Bacalah dengan baik!dunia mayayang dilakukan seseorang terhadap orang lain yang disampaikan melalui pesan elektronik mediaPulising yang biasanya terjadi hanya di dunia nyata saya sekarang sudah mulai merambah kecyberbulliying merupakan sebuah fenomena baru dari perkembangan teknologikomunikasıPada kondisi sekarang, hal ter-sebut didefinisikan sebagai sebuah perbuatan menyakiti ataumengolok-olok yang dilakukan secara terus menerus dan disengaja melalui media komputerseseorang yang dibully tidak dapat membela dirinya.Cyberbulliying dilakukan antara lain dengan mengirim komentar-komentar yang mengan-dung kebencian di blog, akun media sosial, email, membuat postingan yang ditujukan untukmenghina orang tertentu, mengunggah privasi seseorang ke media sosial, dan lain sebagainyaSebab dari cyberbulliying tidak jauh berbeda dengan bulliying seperti biasa dan akibatnyapunjuga hampir sama atau bisa jadi lebih parah. Akibat dari cyberbulliying adalah korban bulliyingsewaktu-waktu bisa kehilangan privasinya, kepercayaan dirinya, yang berujung dengankecemasan, kekhawatiran bahkan sampai titik tertentu menyebabkan bunuh diriCyberbulliying merupakan tindak kejahatan yang harus dihindari. "Cyberbulliying adalahancaman psikologis bagi per individu, oleh karena itu persiapan mental dan kecakapan mengolahemosi dengan baik sangat diperlukan1.Identifikasilah struktur teks eksplanasi di atas!Menurut kamus merriam-Webster, cyber-buliying berarti bentuk ancaman atau serang-anseluler, ataupun peralatan elktronik lainnya yang dilakukan oleh seorang individu yang dimana​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1cyber-law-adalah-hukum-yang-mengatur-permasalahan-yang-terjadi-di-2istilah-asing-untuk-hak-cipta-adalah-3kepanjangan-atm-adalah-4seseorang-yag-dengan-sengaja-dan-tannpa-hak-memmperban">23.
+                                            1)cyber law adalah hukum yang mengatur permasalahan yang terjadi di.... 2)istilah asing untuk hak cipta adalah.... 3)kepanjangan ATM adalah.... 4)seseorang yag dengan sengaja dan tannpa hak memmperbanyak penggunaan untuk kepentingan komersial suatu program kommputer di pidana penjara selama.... 5)copyright secara bahasa berarti.... 6)open source secara bahasa berarti....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-tahun-2010-sebuah-skandal-di-departemen-pajak-di-indonesia-yang-melibatkan-seorang-petugas-pajak-yang-dibayar-rendah-yang-memiliki-lebih-dari-3-juta-di-rekening-banknya-telah-terkena-bagaiman">24.
+                                            Pada tahun 2010, sebuah skandal di departemen pajak di Indonesia yang melibatkan seorang petugas pajak yang dibayar rendah yang memiliki lebih dari $ 3 juta di rekening banknya, telah terkena bagaimana pejabat mendirikan sebuah sindikat besar untuk menipu pemerintah dan mencuri dana yang benar dimiliki kepada Pemerintah Pusat . Sebagai konsekuensi dari skandal itu, banyak orang yang mempertanyakan kewajiban warga membayar pajak.
+Mereka yang menolak untuk membayar pajak dianggap sebagai fakta bahwa puluhan juta orang masih hidup di bawah garis properti, ribuan bayi menderita kekurangan gizi khrom, orang harus berurusan dengan infrastruktur transportasi yang mengerikan, dan banyak belajar siswa di ruang kelas dibangun dengan buruk lusuh. Kemana uang dari pajak pergi? Mengapa pembayar pajak harus membuat tangan mereka memperoleh uang untuk pemerintah dengan kedok pajak, jika ada kemungkinan bahwa dana akan digelapkan oleh pejabat yang sama mengumpulkan pajak tersebut?
+Kasus pajak yang melibatkan Gayus telah menyebabkan kemarahan publik, dengan ribuan orang Indonesia jengkel mendaftar untuk kampanye Facebook yang menyerukan pemboikotan pembayaran pajak. Kelompok "Kampanye dari 1.000.000 Facebookers Boikot Pajak untuk Keadilan" dibuat oleh Alexander A. Spinoza sebagai bentuk protes. Kelompok ini berbicara untuk semua orang Indonesia yang sakit dan lelah uang pajak mereka yang squndered oleh pejabat pemerintah. Gerakan ini cyber diharapkan menghasut rakyat untuk memprotes negara dengan cara yang mengarah ke gerakan rakyat.
+Namun, kewajiban membayar pajak tidak dapat dihindari karena negara membutuhkan uang untuk membiayai pembangunan. Kasus pajak tidak ada hubungannya dengan deparment, dan karena itu, boikot publik atas pembayaran pajak harus berakhir. Warga harus terus membayar pajak untuk membayar infrastruktur, kesejahteraan sosial dan, yang paling penting, para pejabat pemerintah untuk melakukan pekerjaan mereka dengan baik.
+ Memang, masyarakat kecewa terhadap korupsi baru-baru ini di kalangan pejabat pajak. Namun demikian, wajib pajak masih harus mematuhi hukum dan terus membayar pajak. Dalam waktu yang berarti, perlu juga bagi pemerintah untuk melanjutkan reformasi pajak dalam rangka memulihkan kepercayaan pembayar pajak di dalamnya. Selain itu, sanksi tegas harus diberlakukan untuk memperbaiki citra masyarakat terhadap pegawai pajak.
+Apakah teks diatas termasuk teks diskusi?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cyberbullying-adalah-serangan-atau-ancaman-yang-dilakukan-seseorang-melalui-media-elektronik-seperti-internet-mungkin-biasanya-aksi-perundungan-atau-bullying-hanya-terjadi-di-dunia-nyata-namun-sekar">25.
+                                            Cyberbullying adalah serangan atau ancaman yang dilakukan seseorang melalui media elektronik seperti internet. Mungkin biasanya aksi perundungan atau bullying hanya terjadi di dunia nyata, namun sekarang bullying juga sudah marak di dunia maya.Cyberbullying merupakan fenomena sosial baru yang muncul karena perkembangan teknologi dan komunikasi.Hal ini diartikan sebagai tindakan menyakiti orang lain yang dilakukan dengan sengaja melalui media seluler, komputer atau alat elektronik lainnya.Aktivitas cyberbullying dilakukan dengan cara mengirim komentar yang mengandung kebencian di media sosial, blog, email atau postingan. Komentar ini dibuat untuk menghina orang lain.Hal tersebut dapat menurunkan kepercayaan diri orang yang dijadikan target perundungan. Biasanya berujung pada kecemasan, kekhawatiran atau bahkan keinginan untuk bunuh diri.Kasus cyberbullying tidak hanya merugikan, bahkan dapat mengancam kondisi psikologis korban.Mental korban kasus perundungan cyber dapat terganggu dan korban akan kesulitan mengatur emosi. Sebab itu kita harus mencegah dan menghentikan aksi cyberbullying.​ identifikasilah struktur teks eskplanasi di atas​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1jabarkan-yang-dimaksud-dengan-unauthorized-access2-terangkan-pengertian-cyber-espionage3-fungsi-dari-e-commerce-4-tuliskan-beberapa-cara-mengatasi-ketertinggalan-penggunaan-teknologi-terhadap-muri">26.
+                                            1Jabarkan yang dimaksud dengan unauthorized access!2.Terangkan pengertian cyber espionage!3.Fungsi dari e-commerce ?4.Tuliskan beberapa cara mengatasi ketertinggalan penggunaan teknologi terhadap murid-murid di perdesaan!5.Uraikan yang Anda ketahui tentang penerapan teknologi informasi dan komunikasi dalam kesehatan!6.Tuliskan yang Anda ketahui tentang cara cyber crime yang sering dilakukan!7.Jabarkan fungsi Pemblokiran yang digunakan dalam penanganan cyber crime!8.Tuliskan beberapa faktor yang bisa mendorong pencegahan tindakan cyber crime secara umum!9.Uraikan secara singkat awal mula Cyber Crime!10.Terangkan dampak virus yang menyerang komputer pada tahun 1988!11.Uraikan pengertian carding!12.Uraikan yang Anda ketahui tentang cyber crime!13.Jabarkan pengertian cyber typosquatting!14.Jelaskan yang dimaksud dengan cyber squatting!15.Terangkan pengertian cyber crime menurut Parker!16.Tuliskan cyber crime menurut Wahid dan Labib!17.Tuliskan yang Anda ketahui tentang jenis-jenis cyber crime!18.Tuliskan berbagai upaya pencegahan hingga penanggulangan cyber crime yang dilakukan pemerintah RI!19.Jelaskan yang anda ketahui tentang manfaat penggunaan komputer di sektor pendidikan dan pembelajaran!20.Tuliskan yang Anda ketahui tentang penggunaan e-government!21.Tuliskan yang Anda ketahui tentang peranan komputer di masyarakat!22.Jabarkan yang Anda ketahui tentang peranan komputer dalam bidang jasa pengiriman!23.Tuliskan dampak positif penggunaan teknologi komputer!24.Terangkan fungsi BSSN!Bagaimana pemerintah dalam melakukan pengamanan anak di dunia maya?25.Jelaskan penertian cyber crime dalam arti luas!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cyber-crime-adalah-istilah-internet-yang-berarti">27.
+                                            cyber crime adalah istilah internet yang berarti...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jawab-pertanyaan-inisebutkan-arti-kata-yang-berada-dibawah-ini1-musyawarah2-cyber-crime3-terorist4-cyber-bullyingjawab-ya-kak-biar-saya-makin-tau%e2%80%8b">28.
+                                            jawab pertanyaan inisebutkan arti kata yang berada dibawah ini1.MUSYAWARAH2.CYBER CRIME3.TERORIST4.CYBER BULLYINGJAWAB YA KAK BIAR SAYA MAKIN TAU​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-slogan-dri-kejahatan-internetkenaliwaspadai-dan-hindari-tindakan-kejahatan-internet-stop-cyber-crime">29.
+                                            arti slogan dri : kejahatan internet,kenali,waspadai dan hindari tindakan kejahatan internet.stop cyber crime</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-buat-cyber-chr-admin-dalam-rp-itu-apa-ya-%e2%80%8b">30.
+                                            arti buat "cyber chr admin" dalam rp itu apa ya? ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-tahun-2010-sebuah-skandal-di-departemen-pajak-di-indonesia-yang-melibatkan-seorang-petugas-pajak-yang-dibayar-rendah-yang-memiliki-lebih-dari-3-juta-di-rekening-banknya-telah-terkena-bagaiman">31.
+                                            Pada tahun 2010, sebuah skandal di departemen pajak di Indonesia yang melibatkan seorang petugas pajak yang dibayar rendah yang memiliki lebih dari $ 3 juta di rekening banknya, telah terkena bagaimana pejabat mendirikan sebuah sindikat besar untuk menipu pemerintah dan mencuri dana yang benar dimiliki kepada Pemerintah Pusat . Sebagai konsekuensi dari skandal itu, banyak orang yang mempertanyakan kewajiban warga membayar pajak.
+Mereka yang menolak untuk membayar pajak dianggap sebagai fakta bahwa puluhan juta orang masih hidup di bawah garis properti, ribuan bayi menderita kekurangan gizi khrom, orang harus berurusan dengan infrastruktur transportasi yang mengerikan, dan banyak belajar siswa di ruang kelas dibangun dengan buruk lusuh. Kemana uang dari pajak pergi? Mengapa pembayar pajak harus membuat tangan mereka memperoleh uang untuk pemerintah dengan kedok pajak, jika ada kemungkinan bahwa dana akan digelapkan oleh pejabat yang sama mengumpulkan pajak tersebut?
+Kasus pajak yang melibatkan Gayus telah menyebabkan kemarahan publik, dengan ribuan orang Indonesia jengkel mendaftar untuk kampanye Facebook yang menyerukan pemboikotan pembayaran pajak. Kelompok "Kampanye dari 1.000.000 Facebookers Boikot Pajak untuk Keadilan" dibuat oleh Alexander A. Spinoza sebagai bentuk protes. Kelompok ini berbicara untuk semua orang Indonesia yang sakit dan lelah uang pajak mereka yang squndered oleh pejabat pemerintah. Gerakan ini cyber diharapkan menghasut rakyat untuk memprotes negara dengan cara yang mengarah ke gerakan rakyat.
+Namun, kewajiban membayar pajak tidak dapat dihindari karena negara membutuhkan uang untuk membiayai pembangunan. Kasus pajak tidak ada hubungannya dengan deparment, dan karena itu, boikot publik atas pembayaran pajak harus berakhir. Warga harus terus membayar pajak untuk membayar infrastruktur, kesejahteraan sosial dan, yang paling penting, para pejabat pemerintah untuk melakukan pekerjaan mereka dengan baik.
+ Memang, masyarakat kecewa terhadap korupsi baru-baru ini di kalangan pejabat pajak. Namun demikian, wajib pajak masih harus mematuhi hukum dan terus membayar pajak. Dalam waktu yang berarti, perlu juga bagi pemerintah untuk melanjutkan reformasi pajak dalam rangka memulihkan kepercayaan pembayar pajak di dalamnya. Selain itu, sanksi tegas harus diberlakukan untuk memperbaiki citra masyarakat terhadap pegawai pajak.
+Apakah teks diatas termasuk teks diskusi?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-berikut-adalah-dampak-negatif-dari-pemanfaatan-tikkecuali-a-memperluas-lowongan-kerjab-munculnya-cyber-crimec-masuknya-budaya-asing-yang-burukd-meningkatnya-pornografi2-berikut-ini-adalah-bebera">32.
+                                            1.berikut adalah dampak negatif dari pemanfaatan TIK,kecuali....a.memperluas lowongan kerjab.munculnya cyber crimec.masuknya budaya asing yang burukd.meningkatnya pornografi2.berikut ini adalah beberapa kejahatan jenis baru dengan adanya internet,kecuali...a.pencurian nomor kartu kreditb.penyebaran virus komputer c.mengacaukan trafik jaringand.adanya tindakan konsumtif3.kejahatan berupa penggunaan teknologi komputer untuk mencetak ulang software atau informasi disebut....a.cyber crimeb.cyber trespassc.cyber piracyd.cyber vancalism4.memasuki,memodifikasi,atau merusak homepage disebut...a.rackingb.hackingc.cardingd.skating5.salah satu contoh nilai budaya asing yang negatif adalaha.pergaulan bebasb.menghormati orang tuac.sikap yang adild.cara berpakaian rapi6.internet dapat membuat masyarakat membeli barang yang bukan kebutuhan pokok dan pemborosan.hal ini disebut tindakan...a.produktifb.konsumtifc.agresifd.protektif7.undang-undang hak cipta adalaha.Nomor 19 tahun 2002b.nomor 19 tahun 2003c.nomor 29 tahun 2002d.nomor 29 tahun 20038.berikut ini pemakaian hak cipta yang tidak dianggap pelanggaran, kecualia.mencantumkan identitas karya ciptab.penggunaan di lingkungan pendidikanc.penggunaan untuk penelitiand.penggunaan untuk keperluan komersial9.salah satu sikap menghargai karya cipta adalah... a.menggunakan software bajakanb.meniru novel orangc.menggunakan free wared.membeli mp3 bajakan10.berikut ini adalah dampak dari pelanggaran hak cipta,kecualia.dimasukkan ke dalam penjarab.membayar ganti rugic.kerugian secara materid.memperkaya pemegang hak cipta11.membajak perangkat lunak komputer berarti...a.menggadakan perangkat lunak komputer tanpa izinb.menggunakan perangkat lunak komputer yang digandakan tanpa izinc.menjual perangkat lunak komputer yang digandakan tanpa izind.semua jawaban benar12.karakteristik kejahatan internet adalah seperti berikut,kecuali...a.melintasi batas-batas negarab.menggunakan peralatan-peralatan yang berhubungan dengan komputer dan internetc.pelaku memahami dengan baik internet,komputer,dan aplikasi-aplikasinyad.menyebabkan kerugian yang lebih kecil dibanding kejahatan biasa13.penemu telepon pertama kali adalah... 14.perkembangan komputer dimulai dengan adanya alat yang disebut...15.ENIAC merupakan singkatan dari... 16.teknologi telepon pada saat ini,yaitu adanya telepon genggam atau sering disebut...17.aplikasi yang memungkinkan para pengguna internet untuk saling berkirim pesan melalui alamat elektronik di internet disebut...18.kejahatan di internet kita kenal dengan sebutan...19.kegiatan yang bersifat komersial di internet disebut...20.teknik penyampaian atau pengiriman informasi dari suatu tempat ke tempat lain disebut... 21.tulisan yang pertama kali digunakan oleh bangsa sumerio hurufnya dibentuk dari...22.bahasa simbol yang digunakan oleh bangsa mesir kuno adalahmohon dijawab dikumpulin besok</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-multipedia-artinya2-viral-artinya3-konten-artinya4-cyber-crime-artinya5-perangkat-ulility-artinya6-netizen-artinya%e2%80%8b">33.
+                                            1.multipedia artinya?2.viral artinya?3.konten artinya?4.cyber crime artinya?5.perangkat ulility artinya?6.netizen artinya?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#les-bahasa-indonesia-kd-3-2-literasi-membaca-bacalah-dengan-baik-menurut-kamus-merriam-webster-cyber-buliying-berarti-bentuk-ancaman-atau-serang-an-yang-dilakukan-seseorang-terhadap-orang-lain">34.
+                                            les ! BAHASA INDONESIA (KD. 3.2) Literasi Membaca Bacalah dengan baik ! Menurut kamus merriam-Webster, cyber-buliying berarti bentuk ancaman atau serang-an yang dilakukan seseorang terhadap orang lain yang disampaikan melalui pesan elek-tronik media. Bulliying yang biasanya terjadi hanya di dunia nyata saja sekarang sudah mulai merambah ke dunia maya. Cyberbulliying merupakan sebuah fenomena baru dari perkembangan teknologi komunikasi. Pada kondisi sekarang, hal ter-sebut didefinisikan sebagai sebuah perbuatan menyakiti atau mengolok-olok yang dilakukan secara terus menerus dan disengaja melalui media komputer, seluler, ataupun peralatan elktronik lainnya yang dilakukan oleh seorang individu yang dimana seseorang yang dibully tidak dapat membela dirinya. Cyberbulliying dilakukan antara lain dengan mengirim komentar-komentar yang mengan- dung kebencian di blog, akun media sosial, email, membuat postingan yang ditujukan untuk menghina orang tertentu, mengunggah privasi seseorang ke media sosial, dan lain sebagainya. Sebab dari cyberbulliying tidak jauh berbeda dengan bulliying seperti biasa dan akibatnyapun juga hampir sama atau bisa jadi lebih parah. Akibat dari cyberbulliying adalah korban bulliying sewaktu-waktu bisa kehilangan privasinya, kepercayaan dirinya, yang berujung dengan kecemasan, kekhawatiran bahkan sampai titik tertentu menyebabkan bunuh diri. Cyberbulliying merupakan tindak kejahatan yang harus dihindari. Cyberbulliying adalah ancaman psikologis bagi per individu, oleh karena itu persiapan mental dan kecakapan mengolah emosi dengan baik sangat diperlukan. 1. Identifikasilah struktur teks eksplanasi di atas ! (AKM Literasi) Jawab:​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-cyber-relational-addiction">35.
+                                            apa arti cyber relational addiction</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cyber-crime-adalah-istilah-internet-yang-berarti-%e2%80%8b">36.
+                                            cyber crime adalah istilah internet yang berarti ......​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#di-dunia-internet-kita-sering-mendengar-istilah-cyber-crime-yang-artinya-adalah-a-kejahatan-dunia-mayab-kejahatan-dalam-negeric-kejahatan-internasionald-kejahatan-dunia-lain">37.
+                                            Di dunia internet kita sering mendengar istilah Cyber Crime, yang artinya adalah....a kejahatan dunia mayab kejahatan dalam negeric kejahatan internasionald kejahatan dunia lain</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#literasi-membaca-bacalah-dengan-baik-dunia-maya-du-s-pokunyoam-pak-nyaan-di-bawalindongan-singkat-dan-jolas-bahasa-indonesia-kd-32-menurut-kamus-merriam-webster-cyber-bullying-berarti-bentuk-anc">38.
+                                            Literasi Membaca Bacalah dengan baik ! dunia maya du s pokunyoam pak nyaan di bawalindongan singkat dan Jolas! BAHASA INDONESIA (KD 32) Menurut kamus merriam Webster, cyber bullying berarti bentuk ancaman atau serang-an Bulliving yang biasanya terjadi hanya di dunia nyata saja sekarang sudah mulai merambah ke yang dilakukan seseorang terhadap orang lain yang disampaikan melalui pesan elek-tronik media. Xborbullying merupakan sebuah fenomena baru dari perkembangan teknologi komunikasi, Pada kondisi sekarang, hal tersebut didefinisikan sebagai sebuah perbuatan menyakiti atau mengolok-olok yang dilakukan secara terus menerus dan disengaja melalui media komputer , seluler ataupun peralatan elktronik lainnya yang dilakukan oleh seorang individu yang dimana seseorang yang dibully tidak dapat membela dirinya, cyberbulliying dilakukan antara lain dengan mengirim komentar-komentar yang mengan- dung kebencian di blog, akun media sosial, email, membuat postingan yang ditujukan untuk menghina orang tertentu, mengunggah privasi seseorang ke media sosial, dan lain sebagainya. Sebab dari cyberbullying tidak jauh berbeda dengan bullying seperti biasa dan akibatnyapun juga hampir sama atau bisa jadi lebih parah. Akibat dari cyberbulliying adalah korban bulliying sewaktu-waktu bisa kehilangan privasinya, kepercayaan dirinya, yang berujung dengan kecemasan, kekhawatiran bahkan sampai titik tertentu menyebabkan bunuh diri, Cyberbullying merupakan tindak kejahatan yang harus dihindari. Cyberbulliying adalah ancaman psikologis bagi per individu, oleh karena itu persiapan mental dan kecakapan mengolah emosi dengan baik sangat diperlukan1. Identifikasilah struktur teks eksplanasi di atas ! (AKM Literasi) Jawab:​2.perbuatan apa saja yg dikategorikan cyberbulliying?jawab:3.bagaimana dampaj cyberbulliying?jawab:4.apa yg perlu diperhatikan dlm menghadapi tindakan cyberbullying?jawab:</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="arti-cyber-bullying">
+                            1. arti cyber bullying?</h2><br />
+                        Cyber bullying adalah perilaku yang melecehkan ataupun merendahkan seseorang, kebanyakan menimpa anak-anak dan remaja, baik yang dilakukan secara online atau melalui telepon seluler. <br />anak-anak melecehkan anak lain di sekolah atau mendengar seseorang mengatakan sesuatu yang tidak menyenangkan tentang orang lain secara sembunyi-sembunyi. Pelecehan cyber tidak berbeda.  Anda mungkin menerima teks atau pesan instan yang bersifat kasar atau menghina dari seseorang yang menurut Anda itu teman Anda. Atau seorang teman mungkin berpura-pura menjadi Anda kemudian memposting informasi palsu atau menyebarkan foto yang tidak menyenangkan di situs web. Itu yang disebut cyberbullying atau pelecehan cyber.<br /><br />
+                                            <h2 class="ez-toc-section" id="arti-dari-cyber-crime-adalah%e2%80%8b">
+                            2. arti dari cyber crime adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Kejahatan di dunia maya atau <strong>cyber crime</strong> adalah salah satu tindak kejahatan yang mana pelaku bisa dikenakan tindak pidana sesuai UU ITE yang telah di tetapkan. </p><p>Contoh cyber crime misalnya pembobolan atm, pembobolan data suatu perusahaan, pengkloningan akun medsos sampai berita bohong atau hoax.</p><p><strong>Jawaban:</strong></p><p>Apa Itu Cyber Crime? Menurut Organization of European Community Development (OECD) cyber crime adalah semua bentuk akses ilegal terhadap suatu transmisi data. Itu artinya, semua bentuk kegiatan yang tidak sah dalam suatu sistem komputer termasuk dalam suatu tindak kejahatan.</p><p></p><p>Secara umum, pengertian cyber crime sendiri memang biasa diartikan sebagai tindak kejahatan di ranah dunia maya yang memanfaatkan teknologi komputer dan jaringan internet sebagai sasaran. </p><br />
+                                            <h2 class="ez-toc-section" id="arti-cyber-bullying">
+                            3. arti cyber bullying?</h2><br />
+                        membully seseorang lewat teknologi jaman sekarang terutama lewat internet<br />
+                                            <h2 class="ez-toc-section" id="1-tuliskan-yang-anda-ketahui-tentang-jenis-jenis-cyber-crime2-tuliskan-berbagai-upaya-pencegahan-hingga-penanggulangan-cyber-crime-yang-dilakukan-pemerintah-ri3-jelaskan-yang-anda-ketahui-tentang-ma">
+                            4. 1.Tuliskan yang Anda ketahui tentang jenis-jenis cyber crime!2.Tuliskan berbagai upaya pencegahan hingga penanggulangan cyber crime yang dilakukan pemerintah RI!3.Jelaskan yang anda ketahui tentang manfaat penggunaan komputer di sektor pendidikan dan pembelajaran!4.Tuliskan yang Anda ketahui tentang penggunaan e-government!5.Tuliskan yang Anda ketahui tentang peranan komputer di masyarakat!6.Jabarkan yang Anda ketahui tentang peranan komputer dalam bidang jasa pengiriman!7.Tuliskan dampak positif penggunaan teknologi komputer!8.Terangkan fungsi BSSN!Bagaimana pemerintah dalam melakukan pengamanan anak di dunia maya?9.Jelaskan penertian cyber crime dalam arti luas!10.Jabarkan yang dimaksud dengan unauthorized access!11.Terangkan pengertian cyber espionage!12.Fungsi dari e-commerce adalah….13.Tuliskan beberapa cara mengatasi ketertinggalan penggunaan teknologi terhadap murid-murid di perdesaan!14.Uraikan yang Anda ketahui tentang penerapan teknologi informasi dan komunikasi dalam kesehatan!15Tuliskan yang Anda ketahui tentang cara cyber crime yang sering dilakukan!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.cyber crime adalah kejahatan di dunia maya yang di lakukan pada teknologi internet</p><p></p><p>2. Harus lebih hati-hati jika menggunakan media sosial, jangan menerima atau cepat mempercayai orang asing(OrangYngTidakDiKenal)</p><p>Dan lebih paham lagi mggunakan Medsos agar tidak gampang untuk menjdi korban CyberCrime.</p><p></p><p>3. Pencarian yang lebih luas dan lebih mudah untuk menggunakannya. Fitur Pencarian yang sangat bagus.</p><p></p><p>4.manfaat e-government, yaitu pertama mengurangi biaya, alasannya karena melalui sistem online, maka biaya administrasi dan sebagainya akan berkurang. Kedua, meningkatkan transparansi dan akuntabilitas karena masyarakat dapat dengan mudah mengakses dan melihat sejauh mana kegiatan pemerintah sudah dilakukan.</p><p></p><p>5.Untuk membantu suatu perkerjaan yang terbilang banyak. dan bisa mengakses informasi atau pencarian yang lebih baik.</p><p></p><p>6.Agar lebih mudah untuk mengerjakannya</p><p></p><p>7. lebih mahir mggunkannya, bisa mengakses ssuatu dan lebih banyak informsi yang bisa di dapat.</p><p></p><p></p><p></p><p><strong>Penjelasan:</strong></p><p>semoga bisa membantu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="berikan-contoh-arti-di-indonesia-dari-cyber-crime">
+                            5. Berikan contoh arti di indonesia dari cyber crime</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Kejahatan dunia maya secara luas didefinisikan sebagai aktivitas ilegal apa pun yang melibatkan komputer, perangkat digital lain, atau jaringan komputer. Contoh cyber crime di antaranya yaitu ancaman keamanan cyber seperti rekayasa sosial, eksploitasi kerentanan perangkat lunak, dan serangan jaringan.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu yaa-!!</p><p><strong>Jawaban:</strong></p><p>Cyber crime adalah bentuk kejahatan-kejahatan ilegal yang dilakukan online.</p><p>Seperti ancaman, mengambil informasi privat, pelecehan online, eksploitasi, pencurian uang dan lain-lain.</p><p><strong>Penjelasan:</strong></p><p>Semoga membantu ^^</p><br />
+                                            <h2 class="ez-toc-section" id="cyberbullying-adalah-serangan-atau-ancaman-yang-dilakukan-seseorang-melalui-media-elektronik-seperti-internet-mungkin-biasanya-aksi-perundungan-atau-bullying-hanya-terjadi-di-dunia-nyata-namun-sekar">
+                            6. Cyberbullying adalah serangan atau ancaman yang dilakukan seseorang melalui media elektronik seperti internet. Mungkin biasanya aksi perundungan atau bullying hanya terjadi di dunia nyata, namun sekarang bullying juga sudah marak di dunia maya.Cyberbullying merupakan fenomena sosial baru yang muncul karena perkembangan teknologi dan komunikasi.Hal ini diartikan sebagai tindakan menyakiti orang lain yang dilakukan dengan sengaja melalui media seluler, komputer atau alat elektronik lainnya.Aktivitas cyberbullying dilakukan dengan cara mengirim komentar yang mengandung kebencian di media sosial, blog, email atau postingan. Komentar ini dibuat untuk menghina orang lain.Hal tersebut dapat menurunkan kepercayaan diri orang yang dijadikan target perundungan. Biasanya berujung pada kecemasan, kekhawatiran atau bahkan keinginan untuk bunuh diri.Kasus cyberbullying tidak hanya merugikan, bahkan dapat mengancam kondisi psikologis korban.Mental korban kasus perundungan cyber dapat terganggu dan korban akan kesulitan mengatur emosi. Sebab itu kita harus mencegah dan menghentikan aksi cyberbullying.​ identifikasilah struktur teks eskplanasi di atas​jangan ngasal ya kak​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>paragraf 1 sama 2 stukturnya : [identifikasi fenomena]
+</p><p>
+paragraf 3 struktur nya [rangkaian kejadian, polanya kausalitas]
+</p><p>
+paragraf 4 struktur nya [ ulasan]
+</p><p>
+</p><p><strong>Penjelasan:</strong></p><p>Jadikan yang tercerdas ya</p><br />
+                                            <h2 class="ez-toc-section" id="kebebasan-berbicara-di-ruang-publik-cyber-menjadi-mahal-apalagi-adanya-uu-ite-yang-berujung-menjadi-pasal-karet-artinya-uu-tersebut-hanya-berlaku-bagi-sebagian-orang-yang-tidak-disukai-yang-beruj">
+                            7. Kebebasan berbicara di ruang publik (Cyber) menjadi mahal, apalagi adanya UU ITE yang berujung menjadi pasal karet, artinya UU tersebut hanya berlaku bagi sebagian orang yang tidak disukai, yang berujung kepada kasus pelaporan dan penahanan (seperti kasus Ahmad Dhani dan yang lainnya). Bagaimana menurut pendapat Anda tentang hal tersebut, sementara Indonesia dikenal sebagai negara dengan sistem politik nya demokrasi yang menghargai kebebasan terutama dalam berpendapat di depan publik?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>kita Harus melakukan salah satu Cara penyelesaiannya. jika dibiarkan semakin lama maka akan semakin menjadi jadi</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah </p><br />
+                                            <h2 class="ez-toc-section" id="di-dunia-internet-yang-sering-mendengar-istilah-cyber-crime-yang-artinya-adalah-a-www-kejahatan-dunia-internasional-b-kejahatan-dunia-maya-c-kejahatan-dunia-lain-d-kejahatan-dalam-negeri-jawab-yang">
+                            8. di dunia Internet yang sering mendengar istilah cyber crime yang artinya adalah A.www. Kejahatan dunia internasional B.kejahatan dunia maya C.kejahatan dunia lain D. Kejahatan dalam negeri Jawab yang bener ya</h2><br />
+                        B. kejahatan dunia maya<br /><br /><br />maaf kalau salahB. Kejahatan dunia maya.<br />Karena menurut saya Cyber itu adalah didalam internet, dan crime itu jahat / kejahatan.<br />Jadi inti nya Cyber Crime itu adalah kejahatan yang berada didalam internet seperti ada nya hacker, web phissing, dll.<br />
+                                            <h2 class="ez-toc-section" id="are-you-aware-of-cyber-bullying-do-you-think-it-is-worse-than-physical-bullyingwhy-support-your-opinion-with-examples-artikan-ke-bahasa-indonesia">
+                            9. are you aware of cyber bullying? do you think it is worse than physical bullying?why? support your opinion with examples. artikan ke bahasa indonesia</h2><br />
+                        apakah Anda sadar akan cyber bullying? Menurut Anda apakah ini lebih buruk daripada bullying fisik? mengapa? dukung opini anda dengan contoh <br /><br />maff kalo salahapakah kamu peduli dengan cyber bullying? apakah menurutmu itu lebih buruk dari pembullyan fisik? kenapa? dukung opinimu dengan contoh-contoh<br />
+                                            <h2 class="ez-toc-section" id="1-istilah-literasi-dlm-bahasa-latin-di-sebut2-pemanfaatan-teknologi-untuk-melakukan-segala-bentuk-gangguan-guna-merendahkan-martabat-seseorang-dalam-pengertian-dari-6-semua-aktivitas-yang-dilakukan-d">
+                            10. 1.istilah literasi dlm bahasa latin di sebut?2 pemanfaatan teknologi untuk melakukan segala bentuk gangguan guna merendahkan martabat seseorang dalam pengertian dari 6 semua aktivitas yang dilakukan di internet disebut 7 catatan nama baik dalam Kewargaan digital disebut 8 arti dari cyber Crime adalah 9 mengatakan atau menuliskan suatu hal yang bermakna tertentu adalah jenis intimidasi 10 meninggalkan seseorang dengan sengaja mengatakan kepada siswa lain untuk tidak berteman dengan seseorang menyebarkan rumor tentang seseorang atau melakukan seseorang di depan umum dari  bantu jawab maksi kk kk cantik atau ganteng​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Absen : 4</p><p>kelas   : .a</p><p>nma : ...... ... .....</p><p><strong>Penjelasan:</strong></p><p>selamat m.n.na.</p><br />
+                                            <h2 class="ez-toc-section" id="1-istilah-real-space-mempunyai-arti-a-penghubung-jaringanb-penghilang-jaringanc-jarak-nyata2-internet-merupakan-sekumpulan-jaringan-antara-a-lan-dengan-wanb-lan-dengan-manc-man-dengan-wa">
+                            11. 1.) istilah real space mempunyai arti...a. penghubung jaringanb. penghilang jaringanc. jarak nyata2.) internet merupakan sekumpulan jaringan antara...a. LAN dengan WANb. LAN dengan MANc. MAN dengan WAN d. LAN dengan LAN3.) jaringan komunikasi jarak jauh tanpa kabel sering disebut dengan...a. wirelessb. real spacec. cyber spaced. hunting</h2><br />
+                        1. C<br />2. A<br />3. A<br /><br />Saya sudah pernah menjawab soal ini. Pasti pengarang bukunya bernama Uji Saputro wkwkwk3.a wireless 2.A 3c. maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="soal-cyberbullyingcyberbullying-adalah-serangan-atau-ancaman-yang-dilakukan-seseorang-melalui-media-elektronik-seperti-internet-mungkin-biasanya-aksi-perundungan-atau-bullying-h">
+                            12. soal                       CyberbullyingCyberbullying adalah serangan atau ancaman yang dilakukan seseorang melalui media elektronik seperti internet. Mungkin biasanya aksi perundungan atau bullying hanya terjadi di dunia nyata, namun sekarang bullying juga sudah marak di dunia maya.Cyberbullying merupakan fenomena sosial baru yang muncul karena perkembangan teknologi dan komunikasi.Hal ini diartikan sebagai tindakan menyakiti orang lain yang dilakukan dengan sengaja melalui media seluler, komputer atau alat elektronik lainnya.Aktivitas cyberbullying dilakukan dengan cara mengirim komentar yang mengandung kebencian di media sosial, blog, email atau postingan. Komentar ini dibuat untuk menghina orang lain.Hal tersebut dapat menurunkan kepercayaan diri orang yang dijadikan target perundungan. Biasanya berujung pada kecemasan, kekhawatiran atau bahkan keinginan untuk bunuh diri.Kasus cyberbullying tidak hanya merugikan, bahkan dapat mengancam kondisi psikologis korban.Mental korban kasus perundungan cyber dapat terganggu dan korban akan kesulitan mengatur emosi. Sebab itu kita harus mencegah dan menghentikan aksi cyberbullying.​ KK carilah konflik di atas KK mengerjakan soalnya nanti dikumpulkan KK nanti kasih nilai 50 poin​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>janaknakamanannanannanannananannanan</p><p><strong>Penjelasan:</strong></p><p>iskkaksmmamammmmmmmmmmamsmskamamamamamamamamamamamamamamammaammamamamamammama</p><br />
+                                            <h2 class="ez-toc-section" id="pilih-salah-satu-jawaban-yang-dianggap-paling-benar-1-media-yang-menggunakan-foto-atau-gambar-sebagai-sarana-berbagi-utamanya-adalah-a-twitter-b-instagram-c-ask-fm-d-facebook-2-perkembangan">
+                            13. PILIH SALAH SATU JAWABAN YANG DIANGGAP PALING BENAR! 1. Media yang menggunakan foto atau gambar sebagai sarana berbagi utamanya adalah.... a.	Twitter b.	Instagram c.	Ask.fm d.	Facebook 2. Perkembangan teknologi sistem pembelajaran tidak harus melalui tatap muka, kemajuan teknologi proses pembelajaran tidak harus mempertemukan siswa dengan guru. Pernyataan tersebut merupakan perkembangan TIK di bidang .... a.	Politik b.	Ekonomi c.	Sosial d.	Pendidikan 3. Berbelanja menggunakan nomor dan identitas kartu kredit orang lain, yang diperoleh secara ilegal, biasanya dengan mencuri data di internet adalah ....a.	Spamming b.	Phishing c.	Defacing d.	Carding 4. Saat kita membeli barang melalui media online, terkadang barang yang sampai belum tentu seperti yang kita pesan merupakan contoh dampak negatif dari penggunaan TIK dalam bidang.... a.	kebudayaan b.	e-commerce c.	komunikasi d.	e-learning 5. Dampak negatif dari adanya pemakaian teknologi informasi dan komunikasi seperti yang di bawah ini, kecuali .... a.	Berkurangnya lapangan pekerjaan b.	Pekerjaan lebih efisien c.	Nilai-nilai luhur bangsa indonesia terkikis dengan era kebebasan d.	Masuknya budaya asing lewat internet 6. Salah satu kejahatan di dunia internet adalah phising, yaitu.... a.	Memata-matai pengguna untuk mendapatkan informasi b.	Situs tiruan untuk mendapatkan identitas pengguna c.	Menjual barang, setelah pembayaran, barang tidak terkirim d.	Software jahat untuk merusak data pengguna 7. Aktivitas mengirim pesan kepada orang lain menggunakan surat elektronik secara terus-menerus dan jumlahnya banyak tanpa dikehendaki oleh penerima dinamakan.... a.	Defasing b.	Spamming c.	Carding d.	Phising 8.Merupakan kegiatan mengubah tampilan website atau situs tertentu yang dikehendaki dengan memanfaatkan kelemahan sistem keamanan pada website tersebut dan merugikan pemiliknya dinamakan .... a.	defacing b.	Carding c.	Phishing d.	Spamming 9. Media sosial media khusus untuk bisnis dan profesional pengusaha bisa mencari langsung tenaga kerja yang potensial untuk kemajuan perusahaannya adalah .... a.	Facebook b.	LinkedIn c.	Google Plus d.	Twitter 10. Media Sosial yang paling populer di dunia adalah Facebook dibuat oleh.... a.	Mark Zuckerberg b.	Thomas Anderson c.	John Rezner d.	Jack Dorsey 11. Merupakan muatan ilegal yang berupa data atau informasi tidak benar dan tidak sesuai dengan norma yang dimasukkan oleh pelaku kejahatan diistilahkan dengan .... a.	Illegal Contents b.	Sabotase c.	Defasing d.	Unauthorized Access 12. Layanan jejaring sosial dan mikroblog daring yang memungkinkan penggunanya untuk mengirim dan membaca pesan berbasis teks yang dikenal dengan sebutan kicauan .... a.	Instagram b.	Facebook c.	Twitter d.	Bloger 13. Komputer dapat diartikan sebagai alat yang dapat melakukan tugas untuk menerima masukan, memproses masukan, menyimpan dan.... a.	menampilkan keluaran b.	menambah output c.	menampilkan masukan d.	menghapus input. 14. Teknologi yang membantu pengemudi kendaraan bermotor di darat dalam menunjukkan arah atau letak suatu tempat serta posisi si pengendara adalah … a.	GPS b.	CDMA c.	GPRS d.	GSM 15. Bentuk usaha yang menimbulkan kerusakan, kehancuran data, dan gangguan jaringan komputer disebut .... a.	Cyber Crime b.	Carding. c.	Sabotase d.	Phising 16. Kejahatan yang digunakan dengan cara mengecoh korban sehingga memberikan data ke dalam situs yang telah disiapkan oleh pelaku kejahatan adalah .... a.	spamming b.	Defacing c.	Carding d.	Phishing 17. Pengggunaan kekerasan, ancaman, atau paksaan untuk menyalah gunakan atau mengintimidasi orang lain termasuk .... a.	Penipuan b.	Gambling c.	hoax d.	Bulying 18. Dampak positif media sosial kegiatan jual beli (perdagangan) dipermudah sehingga antara penjual dan pembeli tidak harus bertemu adalah.... a.	informasi cepat dan luas b.	mempermudah bisnis c.	kemudahan membuat komunitas d.	promosi produk 19. Tindakan kriminal yang memanfaatkan internet untuk menjalankan aksinya dan sering disebut dengan kejahatan dunia maya adalah.... a.	Spamming b.	Illegal Contents c.	Phising d.	Cyber Crime 20. Orang yang memiliki kemampuan pemrograman komputer dan mampu menganalisis, mengubah, serta memodifikasi sistem atau software orang lain dengan tujuan yang tidak baik adalah.... a.	hacker b.	pemrograman c.	hunter d.	crackerjangan ngasal ya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><strong>b. Instagram</strong><strong>d. Pendidikan</strong><strong>d. Carding</strong><strong>b. E-commerce</strong><strong>b. Pekerjaan lebih efisien</strong><strong>b. Situs tiruan untuk mendapatkan identitas pengguna</strong><strong>b. Spamming</strong><strong>a. Defacing</strong><strong>b. LinkedIn</strong><strong>a. Mark Zuckerberg</strong><strong>a. Illegal Contents</strong><strong>d. Blogger</strong><strong>a. menampilkan keluaran</strong><strong>a. GPS</strong><strong>c. Sabotase</strong><strong>d. Phising</strong><strong>d. Bullying</strong><strong>b. mempermudah bisnis</strong><strong>d. Cyber Crime</strong><strong>d. cracker</strong><br />
+                                            <h2 class="ez-toc-section" id="apakah-arti-cyber-law">
+                            14. apakah Arti cyber law</h2><br />
+                        hukum atau aturan kita dalam menggunakan internet (cyber)<br />
+                                            <h2 class="ez-toc-section" id="bacalah-dengan-walkmenurut-kamus-merriam-webster-cyber-buliying-berarti-bentuk-ancaman-aldu-seldny-unyang-dilakukan-seseorang-terhadap-orang-lain-yang-disampaikan-melalui-pesan-elek-tronik-media-bul">
+                            15. Bacalah dengan walk!Menurut kamus merriam-Webster, cyber-buliying berarti bentuk ancaman aldu seldny unyang dilakukan seseorang terhadap orang lain yang disampaikan melalui pesan elek-tronik media.Bulliying yang biasanya terjadi hanya di dunia nyata saja sekarang sudah mulai merambah kedunia mayaCyberbulliying merupakan sebuah feno-mena baru dari perkembangan teknologi komunikasiPada kondisi sekarang, hal ter-sebut didefinisikan sebagai sebuah perbuatan menyakiti atausecara terus menerus dan disengaja melalui media komputer,individu yang dimanasemenurut kamus dianggap Star cubling berarti bentuk ancaman atau Serangan yang dilakukan seseorang terhadap orang lain disampaikan melalui pesan elektronik media yang biasanya terjadi hanya di dunia nyata saja sekarang sudah mulai merambah ke dunia maya merupakan sebuah fenomena perkembangan teknologi komunikasi pada kondisi sekarang hal tersebut didefinisikan sebagai sebuah perbuatan menyakiti atau mengolok-olok yang dilakukan secara terus-menerus dan disengaja melalui media komputer ataupun peralatan elektronik lainnya yang dilakukan oleh seseorang individu yang di mana seseorang yang tidak dapat dirinya 1.identifikasilah struktur teks eksplanasi di atas! (AKM LITERASI)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>
+</strong>Struktur teks eksplanasi pada teks di atas adalah urutan sebab akibat karena merupakan detail penjelasan tentang terjadinya cyber bullying.<strong>
+</strong></p><p><strong>
+</strong></p><p><strong>Penjelasan:
+</strong></p><p>Teks eksplanasi merupakan suatu tulisan yang bertujuan untuk menjelaskan suatu informasi (proses apa dan mengapa) tentang suatu peristiwa.
+</p><p>Struktur teks eksplanasi:
+</p>Pernyataan gagasan
+Urutan sebab akibat
+Interpretasi<p></p><p>Materi tentang teks eksplanasi dapat disimak pada link berikut ini https://brainly.co.id/tugas/255188</p><br />
+                                            <h2 class="ez-toc-section" id="arti-cyber-clonetolong-kak-di-jawab%e2%80%8b">
+                            16. arti cyber clonetolong kak di jawab​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>artinya klon cyber </p><p><strong>Penjelasan:</strong></p><p> semoga benarr</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-ide-pokok-dari-karangan-dibawah-ini-cyberbullying-adalah-serangan-atau-ancaman-yang-dilakukan-seseorang-melalui-media-elektronik-seperti-internet-mungkin-biasanya-aksi-perundungan-atau-bull">
+                            17. Tentukan ide pokok dari karangan dibawah ini !Cyberbullying adalah serangan atau ancaman yang dilakukan seseorang melalui media elektronik seperti internet. Mungkin biasanya aksi perundungan atau bullying hanya terjadi di dunia nyata, namun sekarang bullying juga sudah marak di dunia maya.Cyberbullying merupakan fenomena sosial baru yang muncul karena perkembangan teknologi dan komunikasi.Hal ini diartikan sebagai tindakan menyakiti orang lain yang dilakukan dengan sengaja melalui media seluler, komputer atau alat elektronik lainnya.Aktivitas cyberbullying dilakukan dengan cara mengirim komentar yang mengandung kebencian di media sosial, blog, email atau postingan. Komentar ini dibuat untuk menghina orang lain.Hal tersebut dapat menurunkan kepercayaan diri orang yang dijadikan target perundungan. Biasanya berujung pada kecemasan, kekhawatiran atau bahkan keinginan untuk bunuh diri.Kasus cyberbullying tidak hanya merugikan, bahkan dapat mengancam kondisi psikologis korban.Mental korban kasus perundungan cyber dapat terganggu dan korban akan kesulitan mengatur emosi. Sebab itu kita harus mencegah dan menghentikan aksi cyberbullying.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>cyberbullying adalah serangan atau ancaman yang di lakukan seseorang melalui media elektronik seperti Internet</p><p></p><p>*maaf jika salah*</p><p></p><p><strong>Penjelasan:</strong></p><strong>cyberbullying adalah serangan atau ancaman yang dilakukan seseorang melalui media elektronik seperti internet</strong><p></p><br />
+                                            <h2 class="ez-toc-section" id="cyberbullying-adalah-serangan-atau-ancaman-yang-dilakukan-seseorang-melalui-media-elektronik-seperti-internet-mungkin-biasanya-aksi-perundungan-atau-bullying-hanya-terjadi-di-dunia-nyata-namun-sekar">
+                            18. Cyberbullying adalah serangan atau ancaman yang dilakukan seseorang melalui media elektronik seperti internet. Mungkin biasanya aksi perundungan atau bullying hanya terjadi di dunia nyata, namun sekarang bullying juga sudah marak di dunia maya.Cyberbullying merupakan fenomena sosial baru yang muncul karena perkembangan teknologi dan komunikasi.Hal ini diartikan sebagai tindakan menyakiti orang lain yang dilakukan dengan sengaja melalui media seluler, komputer atau alat elektronik lainnya.Aktivitas cyberbullying dilakukan dengan cara mengirim komentar yang mengandung kebencian di media sosial, blog, email atau postingan. Komentar ini dibuat untuk menghina orang lain.Hal tersebut dapat menurunkan kepercayaan diri orang yang dijadikan target perundungan. Biasanya berujung pada kecemasan, kekhawatiran atau bahkan keinginan untuk bunuh diri.Kasus cyberbullying tidak hanya merugikan, bahkan dapat mengancam kondisi psikologis korban.Mental korban kasus perundungan cyber dapat terganggu dan korban akan kesulitan mengatur emosi. Sebab itu kita harus mencegah dan menghentikan aksi cyberbullying.​ identifikasilah struktur teks eskplanasi di atas​jangan ngasal ya kak​</h2><br />
+                        <p>Pernyataan umum berisikan satu pernyataan umum atas suatu topik
+</p><p>
+</p><p>Dari Google kak/bang, maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="artikan-ke-bahasa-indonesia-yes-public-can-see-cyber-bullying">
+                            19. artikan ke bahasa indonesia. yes. public can see cyber bullying</h2><br />
+                        =&gt; Iya, publik bisa melihat cyber bullying. <br />Note : cyber bullying merupakan intimidasi yg dilakukan di dunia maya (Pembullyan lewat sosmed) <br />Smoga membantu^^ya , publik bisa lihat cyber bullying<br /><br />semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="15-salah-satu-manfaat-proxy-adalah-sebagai-filter-yang-artinya-a-untuk-mempercepat-pemanggilan-alamat-web-yang-dilakukan-secara-berulangb-sebagai-pintu-gerbang-c-menyaring-aktivitas-di-interne">
+                            20. 15. Salah satu manfaat proxy adalah sebagai filter yang artinya ... a. untuk mempercepat pemanggilan alamat web yang dilakukan secara berulangb. sebagai pintu gerbang c. menyaring aktivitas di internet d. pengaman kejahatan cyber​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a.untuk mempercepat pemanggilan alamat web yang dilakukan secara berulang</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="arti-cyber-yg-sesungguhnya">
+                            21. arti cyber yg sesungguhnya</h2><br />
+                        <p><strong>Pengertian </strong><strong>Cyber  </strong>merupakan bentuk kata yang diperoleh dari bahasa Inggris yang artinya dalam Bahasa Indonesia "maya, tidak nyata, tidak terlihat, terawang, tidak ada bentuk"</p><p>Army juga merupakan bentuk kata yang diperoleh dari bahasa inggris yang artinya dalam bahasa Indonesia " tentara, pasukan bersenjata,  berperang(kehiatan), angkatan, kelompok, berkekuatan,"</p><p>Ketika dua kata tersebut digabung, maka akan di peroleh bentuk kata <strong>Cyber </strong>Army yang berarti "pasukan maya" atau "kekuatan tersembunyi".  Maka perang ataupun pertempuran yang dilakukan oleh cyber army di wilayah dunia maya. Apa yang mereka lakukan di dunia maya.</p><p></p>Pembahasan<p>Berikut tindakan yang biasa dilakukan oleh pasukan <strong>Cyber </strong>Army:</p><p>1. Membuat opini tandingan</p><p>2. Membuat berita tandingan</p><p>3. Menyebarluaskan opini</p><p>4. Mempengaruhi pembaca dunia maya</p><p></p><p>Tujuan pasukan <strong>cyber</strong>:</p><p>1. Memangkas opini menjatuhkan pimpinan</p><p>2. Menyerang dan menjatuhkan musuh dengan opini</p><p>3. Memenangkan pertempuran di dunia maya</p><p></p><p>Sebenarnya siapa pasukan <strong>Cyber </strong>Army?</p><p>Mengenai siapa saja pasukan cyber Army tentu kita bertanya siapa saja,  terdaftar, dibayar dan dapet fasilitas seperti apa?</p><p>Ternyata tidak demikian, netizen (pengguna internet khususnya media sosial) berperan sebagai cyber army. Netizen dalam mendapatkan informasi kemudian meneruskan dan ditambahkan dengan opini netizen maka secara otomatis menjadi bagian dari cyber army,  tergantung dari opini yang disampaikan untuk kebaikan atau kejahatan.</p><p></p><p><strong>Cyber </strong>Army hanya ada dua macam golongan besar, yaitu:</p><p>1. Kelompok besar ada cyber kebaikan atau yang berjuang  bersama membela kebaikan, mendukung kebenaran dan menegakkan keadilan.</p><p>2. Kelompok besar cyber jahat atau yang berjuang dan bergerak untuk membela kejahatan dengan dalih yang beragam</p><p></p>Pelajari lebih lanjutMateri tentang affirmatif agreement brainly.co.id/tugas/13737639Materi tentang expression refusing agreement brainly.co.id/tugas/5878688Materi tentang contoh kalimat agreement brainly.co.id/tugas/7091914<p></p><p><strong>Detail jawaban</strong></p><p>Kelas: 8</p><p>Mapel: Bahasa Inggris</p><p>Bab: -</p><p>Kode: -</p><p></p><p><strong>#TingkatkanPrestasimu</strong></p><p><strong>#SPJ3</strong></p><br />
+                                            <h2 class="ez-toc-section" id="bahasa-indonesia-kd-3-2bacalah-dengan-baikdunia-mayayang-dilakukan-seseorang-terhadap-orang-lain-yang-disampaikan-melalui-pesan-elektronik-mediapulising-yang-biasanya-terjadi-hanya-di-dunia-nyata-s">
+                            22. BAHASA INDONESIA (KD 3.2)Bacalah dengan baik!dunia mayayang dilakukan seseorang terhadap orang lain yang disampaikan melalui pesan elektronik mediaPulising yang biasanya terjadi hanya di dunia nyata saya sekarang sudah mulai merambah kecyberbulliying merupakan sebuah fenomena baru dari perkembangan teknologikomunikasıPada kondisi sekarang, hal ter-sebut didefinisikan sebagai sebuah perbuatan menyakiti ataumengolok-olok yang dilakukan secara terus menerus dan disengaja melalui media komputerseseorang yang dibully tidak dapat membela dirinya.Cyberbulliying dilakukan antara lain dengan mengirim komentar-komentar yang mengan-dung kebencian di blog, akun media sosial, email, membuat postingan yang ditujukan untukmenghina orang tertentu, mengunggah privasi seseorang ke media sosial, dan lain sebagainyaSebab dari cyberbulliying tidak jauh berbeda dengan bulliying seperti biasa dan akibatnyapunjuga hampir sama atau bisa jadi lebih parah. Akibat dari cyberbulliying adalah korban bulliyingsewaktu-waktu bisa kehilangan privasinya, kepercayaan dirinya, yang berujung dengankecemasan, kekhawatiran bahkan sampai titik tertentu menyebabkan bunuh diriCyberbulliying merupakan tindak kejahatan yang harus dihindari. "Cyberbulliying adalahancaman psikologis bagi per individu, oleh karena itu persiapan mental dan kecakapan mengolahemosi dengan baik sangat diperlukan1.Identifikasilah struktur teks eksplanasi di atas!Menurut kamus merriam-Webster, cyber-buliying berarti bentuk ancaman atau serang-anseluler, ataupun peralatan elktronik lainnya yang dilakukan oleh seorang individu yang dimana​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>BAHASA INDONESIA (KD 3.2)</p><p>Bacalah dengan baik!</p><p>dunia maya</p><p>yang dilakukan seseorang terhadap orang lain yang disampaikan melalui pesan elektronik media</p><p>Pulising yang biasanya terjadi hanya di dunia nyata saya sekarang sudah mulai merambah ke</p><p>cyberbulliying merupakan sebuah fenomena baru dari perkembangan teknologi</p><p>komunikası</p><p>Pada kondisi sekarang, hal ter-sebut didefinisikan sebagai sebuah perbuatan menyakiti atau</p><p>mengolok-olok yang dilakukan secara terus menerus dan disengaja melalui media komputer</p><p>seseorang yang dibully tidak dapat membela dirinya.</p><p>Cyberbulliying dilakukan antara lain dengan mengirim komentar-komentar yang mengan-</p><p>dung kebencian di blog, akun media sosial, email, membuat postingan yang ditujukan untuk</p><p>menghina orang tertentu, mengunggah privasi seseorang ke media sosial, dan lain sebagainya</p><p>Sebab dari cyberbulliying tidak jauh berbeda dengan bulliying seperti biasa dan akibatnyapun</p><p>juga hampir sama atau bisa jadi lebih parah. Akibat dari cyberbulliying adalah korban bulliying</p><p>sewaktu-waktu bisa kehilangan privasinya, kepercayaan dirinya, yang berujung dengan</p><p>kecemasan, kekhawatiran bahkan sampai titik tertentu menyebabkan bunuh diri</p><p>Cyberbulliying merupakan tindak kejahatan yang harus dihindari. "Cyberbulliying adalah</p><p>ancaman psikologis bagi per individu, oleh karena itu persiapan mental dan kecakapan mengolah</p><p>emosi dengan baik sangat diperlukan</p><p>1.</p><p>Identifikasilah struktur teks eksplanasi di atas!</p><p>Menurut kamus merriam-Webster, cyber-buliying berarti bentuk ancaman atau serang-an</p><p>seluler, ataupun peralatan elktronik lainnya yang dilakukan oleh seorang individu yang dimana</p><p></p><p></p><p>jangan lupa follow</p><br />
+                                            <h2 class="ez-toc-section" id="1cyber-law-adalah-hukum-yang-mengatur-permasalahan-yang-terjadi-di-2istilah-asing-untuk-hak-cipta-adalah-3kepanjangan-atm-adalah-4seseorang-yag-dengan-sengaja-dan-tannpa-hak-memmperban">
+                            23. 1)cyber law adalah hukum yang mengatur permasalahan yang terjadi di.... 2)istilah asing untuk hak cipta adalah.... 3)kepanjangan ATM adalah.... 4)seseorang yag dengan sengaja dan tannpa hak memmperbanyak penggunaan untuk kepentingan komersial suatu program kommputer di pidana penjara selama.... 5)copyright secara bahasa berarti.... 6)open source secara bahasa berarti....</h2><br />
+                        1. dunia maya<br />2. droit d'auteur perancis /urheberrecht jerman<br />3. anjungan tunai mandiri (indo), automated teller machine (eng)<br />4. 1 bulan dan denda 1jt / paling lama 7 tahun dan denda 5 miliar<br />5. karya hak cipta seseorang / perusahaan<br />6. sumber terbuka dalam artian pengembangan-nya lewat internet (software)1, Hukum di dunia maya Virtual world<br />2. Copyright<br />3. Automated Teller Machine<br />4. 1 bulan dan denda 1jt / paling lama 7 tahun dan denda 5 miliar<br />5. Karya Hak Cipta<br />6. Gratis dan tidak berbayar<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="pada-tahun-2010-sebuah-skandal-di-departemen-pajak-di-indonesia-yang-melibatkan-seorang-petugas-pajak-yang-dibayar-rendah-yang-memiliki-lebih-dari-3-juta-di-rekening-banknya-telah-terkena-bagaiman">
+                            24. Pada tahun 2010, sebuah skandal di departemen pajak di Indonesia yang melibatkan seorang petugas pajak yang dibayar rendah yang memiliki lebih dari $ 3 juta di rekening banknya, telah terkena bagaimana pejabat mendirikan sebuah sindikat besar untuk menipu pemerintah dan mencuri dana yang benar dimiliki kepada Pemerintah Pusat . Sebagai konsekuensi dari skandal itu, banyak orang yang mempertanyakan kewajiban warga membayar pajak.
+Mereka yang menolak untuk membayar pajak dianggap sebagai fakta bahwa puluhan juta orang masih hidup di bawah garis properti, ribuan bayi menderita kekurangan gizi khrom, orang harus berurusan dengan infrastruktur transportasi yang mengerikan, dan banyak belajar siswa di ruang kelas dibangun dengan buruk lusuh. Kemana uang dari pajak pergi? Mengapa pembayar pajak harus membuat tangan mereka memperoleh uang untuk pemerintah dengan kedok pajak, jika ada kemungkinan bahwa dana akan digelapkan oleh pejabat yang sama mengumpulkan pajak tersebut?
+Kasus pajak yang melibatkan Gayus telah menyebabkan kemarahan publik, dengan ribuan orang Indonesia jengkel mendaftar untuk kampanye Facebook yang menyerukan pemboikotan pembayaran pajak. Kelompok "Kampanye dari 1.000.000 Facebookers Boikot Pajak untuk Keadilan" dibuat oleh Alexander A. Spinoza sebagai bentuk protes. Kelompok ini berbicara untuk semua orang Indonesia yang sakit dan lelah uang pajak mereka yang squndered oleh pejabat pemerintah. Gerakan ini cyber diharapkan menghasut rakyat untuk memprotes negara dengan cara yang mengarah ke gerakan rakyat.
+Namun, kewajiban membayar pajak tidak dapat dihindari karena negara membutuhkan uang untuk membiayai pembangunan. Kasus pajak tidak ada hubungannya dengan deparment, dan karena itu, boikot publik atas pembayaran pajak harus berakhir. Warga harus terus membayar pajak untuk membayar infrastruktur, kesejahteraan sosial dan, yang paling penting, para pejabat pemerintah untuk melakukan pekerjaan mereka dengan baik.
+ Memang, masyarakat kecewa terhadap korupsi baru-baru ini di kalangan pejabat pajak. Namun demikian, wajib pajak masih harus mematuhi hukum dan terus membayar pajak. Dalam waktu yang berarti, perlu juga bagi pemerintah untuk melanjutkan reformasi pajak dalam rangka memulihkan kepercayaan pembayar pajak di dalamnya. Selain itu, sanksi tegas harus diberlakukan untuk memperbaiki citra masyarakat terhadap pegawai pajak.
+Apakah teks diatas termasuk teks diskusi?</h2><br />
+                        antara teks diskusi dan teks opini sih Kemungkinan kalimat/kata opini<br />
+                                            <h2 class="ez-toc-section" id="cyberbullying-adalah-serangan-atau-ancaman-yang-dilakukan-seseorang-melalui-media-elektronik-seperti-internet-mungkin-biasanya-aksi-perundungan-atau-bullying-hanya-terjadi-di-dunia-nyata-namun-sekar">
+                            25. Cyberbullying adalah serangan atau ancaman yang dilakukan seseorang melalui media elektronik seperti internet. Mungkin biasanya aksi perundungan atau bullying hanya terjadi di dunia nyata, namun sekarang bullying juga sudah marak di dunia maya.Cyberbullying merupakan fenomena sosial baru yang muncul karena perkembangan teknologi dan komunikasi.Hal ini diartikan sebagai tindakan menyakiti orang lain yang dilakukan dengan sengaja melalui media seluler, komputer atau alat elektronik lainnya.Aktivitas cyberbullying dilakukan dengan cara mengirim komentar yang mengandung kebencian di media sosial, blog, email atau postingan. Komentar ini dibuat untuk menghina orang lain.Hal tersebut dapat menurunkan kepercayaan diri orang yang dijadikan target perundungan. Biasanya berujung pada kecemasan, kekhawatiran atau bahkan keinginan untuk bunuh diri.Kasus cyberbullying tidak hanya merugikan, bahkan dapat mengancam kondisi psikologis korban.Mental korban kasus perundungan cyber dapat terganggu dan korban akan kesulitan mengatur emosi. Sebab itu kita harus mencegah dan menghentikan aksi cyberbullying.​ identifikasilah struktur teks eskplanasi di atas​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>paragraf 1 sama 2 stukturnya : <strong>[identifikasi fenomena]</strong>
+</p><p>
+paragraf 3 struktur nya<strong> [rangkaian kejadian, polanya kausalitas]</strong>
+</p><p>
+paragraf 4 struktur nya <strong>[ ulasan]</strong>
+</p><p>
+</p><p>
+<strong>Penjelasan:</strong></p><strong>Tolong jadikan yang tercerdas yaaa</strong><br />
+                                            <h2 class="ez-toc-section" id="1jabarkan-yang-dimaksud-dengan-unauthorized-access2-terangkan-pengertian-cyber-espionage3-fungsi-dari-e-commerce-4-tuliskan-beberapa-cara-mengatasi-ketertinggalan-penggunaan-teknologi-terhadap-muri">
+                            26. 1Jabarkan yang dimaksud dengan unauthorized access!2.Terangkan pengertian cyber espionage!3.Fungsi dari e-commerce ?4.Tuliskan beberapa cara mengatasi ketertinggalan penggunaan teknologi terhadap murid-murid di perdesaan!5.Uraikan yang Anda ketahui tentang penerapan teknologi informasi dan komunikasi dalam kesehatan!6.Tuliskan yang Anda ketahui tentang cara cyber crime yang sering dilakukan!7.Jabarkan fungsi Pemblokiran yang digunakan dalam penanganan cyber crime!8.Tuliskan beberapa faktor yang bisa mendorong pencegahan tindakan cyber crime secara umum!9.Uraikan secara singkat awal mula Cyber Crime!10.Terangkan dampak virus yang menyerang komputer pada tahun 1988!11.Uraikan pengertian carding!12.Uraikan yang Anda ketahui tentang cyber crime!13.Jabarkan pengertian cyber typosquatting!14.Jelaskan yang dimaksud dengan cyber squatting!15.Terangkan pengertian cyber crime menurut Parker!16.Tuliskan cyber crime menurut Wahid dan Labib!17.Tuliskan yang Anda ketahui tentang jenis-jenis cyber crime!18.Tuliskan berbagai upaya pencegahan hingga penanggulangan cyber crime yang dilakukan pemerintah RI!19.Jelaskan yang anda ketahui tentang manfaat penggunaan komputer di sektor pendidikan dan pembelajaran!20.Tuliskan yang Anda ketahui tentang penggunaan e-government!21.Tuliskan yang Anda ketahui tentang peranan komputer di masyarakat!22.Jabarkan yang Anda ketahui tentang peranan komputer dalam bidang jasa pengiriman!23.Tuliskan dampak positif penggunaan teknologi komputer!24.Terangkan fungsi BSSN!Bagaimana pemerintah dalam melakukan pengamanan anak di dunia maya?25.Jelaskan penertian cyber crime dalam arti luas!​</h2><br />
+                        <p>1. Unauthorized access adalah kejahatan yang terjadi ketika seseorang memasuki atau menyusup ke dalam suatu sistem jaringan komputer secara tidak sah.</p><p></p><p>2.cyber espionage merupakan kejahatan yang menggunakan jaringan internet untuk melakukan kegiatan mata-mata terhadap pihak lain. Dengan memasuki jaringan komputer (komputer network sistem) pihak sasaran.</p><p></p><p>3. E-ommerce dapat mempermudah pemasaran produk yang ingin dijual. Dengan adanya e-commerce, Pembayaran dapat dilakukan secara online dan pastinya memudahkan para pembeli. E-commerce dapat membantu penjual untuk memperluas jangkauan calon konsumen.</p><p></p><p>11. Carding adalah modus tindakan kejahatan dalam transaksi menggunakan kartu kredit seseorang</p><p></p><p>12. Cyber crime adalah tindakan ilegal yang dilakukan pelaku kejahatan dengan menggunakan teknologi komputer dan jaringan internet untuk menyerang sistem informasi korban. </p><p></p><p>13. CyberSquatting adalah istilah yang merujuk pada penyerobotan nama domain yang bukan haknya dengan tujuan dan maksud tertentu.</p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="cyber-crime-adalah-istilah-internet-yang-berarti">
+                            27. cyber crime adalah istilah internet yang berarti...</h2><br />
+                        cyber crime adalah istilah internet yang berarti "kejahatan didunia maya"cyber crime di internet adalah kejahatan di dunia maya <br />
+                                            <h2 class="ez-toc-section" id="jawab-pertanyaan-inisebutkan-arti-kata-yang-berada-dibawah-ini1-musyawarah2-cyber-crime3-terorist4-cyber-bullyingjawab-ya-kak-biar-saya-makin-tau%e2%80%8b">
+                            28. jawab pertanyaan inisebutkan arti kata yang berada dibawah ini1.MUSYAWARAH2.CYBER CRIME3.TERORIST4.CYBER BULLYINGJAWAB YA KAK BIAR SAYA MAKIN TAU​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Musyawarah =Suatu Kegiatan yang dilakukan untuk mencapai Mufakat atau Kesepakatan Bersama. </p><p>2. Cyber Crime =Suatu Tindak Kejahatan/Kriminal. </p><p>3. Terorist = Tindak Kriminal tingkat tinggi yang dapat mengancam kedaulatan negara. </p><p>4. Cyber Bullying = Pembullyan melalui media sosial.</p><p><strong>Penjelasan:</strong></p><p>#Salamdarikakeksugiono</p><p><strong>Jawaban:</strong></p><p>1. <strong>Musyawarah</strong> berasal dari kata Syawara yaitu berasal dari Bahasa Arab yang berarti berunding, urun rembuk atau mengatakan dan mengajukan sesuatu.Istilah-istilah lain dalam tata Negara Indonesia dan kehidupan modern tentang musyawarah dikenal dengan sebutan “syuro”, “rembug desa”, “kerapatan nagari” bahkan “demokrasi”</p><p>2. <strong>cyber crime atau Kejahatan dunia maya</strong> adalah istilah yang mengacu kepada aktivitas kejahatan dengan komputer atau jaringan komputer menjadi alat, sasaran atau tempat terjadinya kejahatan.</p><p>3. <strong>Terorist</strong> adalah perbuatan atau seseorang/suatu kelompok yang melawan hukum atau tindakan yang mengan-dung ancaman dengan kekerasan atau paksaan terhadap individu atau hak milik untuk memaksa atau mengintimidasi pemerintah atau masyarakat dengan tujuan politik, agama atau ideologi .</p><p>4. <strong>cyber bullying atau Intimidasi dunia maya atau penindasan dunia maya</strong> adalah segala bentuk kekerasan yang dialami anak atau remaja dan dilakukan teman seusia mereka melalui dunia maya atau internet</p><br />
+                                            <h2 class="ez-toc-section" id="arti-slogan-dri-kejahatan-internetkenaliwaspadai-dan-hindari-tindakan-kejahatan-internet-stop-cyber-crime">
+                            29. arti slogan dri : kejahatan internet,kenali,waspadai dan hindari tindakan kejahatan internet.stop cyber crime</h2><br />
+                        berhati hati dalam menggunakan internet/sosmed.karena jaman sekarang bnyk hacker yg mengatas namakan korbanHarus berhati-hati, dan saat menggunakan komputer sebaiknya dilakukan dengan benar.<br />
+                                            <h2 class="ez-toc-section" id="arti-buat-cyber-chr-admin-dalam-rp-itu-apa-ya-%e2%80%8b">
+                            30. arti buat "cyber chr admin" dalam rp itu apa ya? ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>cyber itu postingan yang mengandung unsur aesthetic, biasanya lebih merujuk ke foto dengan editan overlay, dll</p><p></p><p>chr, itu adalah chara, atau sebagai siapa kamu berperan</p><p></p><p>admin, itu adalah posisi dimana kamu akan menjadi admin dari akun tersebut.</p><p></p><p>yea jadi singkatnya, mereka meminta kamu nyari admin yang postingannya cyber gitu kalii:(( , gatau juga</p><br />
+                                            <h2 class="ez-toc-section" id="pada-tahun-2010-sebuah-skandal-di-departemen-pajak-di-indonesia-yang-melibatkan-seorang-petugas-pajak-yang-dibayar-rendah-yang-memiliki-lebih-dari-3-juta-di-rekening-banknya-telah-terkena-bagaiman">
+                            31. Pada tahun 2010, sebuah skandal di departemen pajak di Indonesia yang melibatkan seorang petugas pajak yang dibayar rendah yang memiliki lebih dari $ 3 juta di rekening banknya, telah terkena bagaimana pejabat mendirikan sebuah sindikat besar untuk menipu pemerintah dan mencuri dana yang benar dimiliki kepada Pemerintah Pusat . Sebagai konsekuensi dari skandal itu, banyak orang yang mempertanyakan kewajiban warga membayar pajak.
+Mereka yang menolak untuk membayar pajak dianggap sebagai fakta bahwa puluhan juta orang masih hidup di bawah garis properti, ribuan bayi menderita kekurangan gizi khrom, orang harus berurusan dengan infrastruktur transportasi yang mengerikan, dan banyak belajar siswa di ruang kelas dibangun dengan buruk lusuh. Kemana uang dari pajak pergi? Mengapa pembayar pajak harus membuat tangan mereka memperoleh uang untuk pemerintah dengan kedok pajak, jika ada kemungkinan bahwa dana akan digelapkan oleh pejabat yang sama mengumpulkan pajak tersebut?
+Kasus pajak yang melibatkan Gayus telah menyebabkan kemarahan publik, dengan ribuan orang Indonesia jengkel mendaftar untuk kampanye Facebook yang menyerukan pemboikotan pembayaran pajak. Kelompok "Kampanye dari 1.000.000 Facebookers Boikot Pajak untuk Keadilan" dibuat oleh Alexander A. Spinoza sebagai bentuk protes. Kelompok ini berbicara untuk semua orang Indonesia yang sakit dan lelah uang pajak mereka yang squndered oleh pejabat pemerintah. Gerakan ini cyber diharapkan menghasut rakyat untuk memprotes negara dengan cara yang mengarah ke gerakan rakyat.
+Namun, kewajiban membayar pajak tidak dapat dihindari karena negara membutuhkan uang untuk membiayai pembangunan. Kasus pajak tidak ada hubungannya dengan deparment, dan karena itu, boikot publik atas pembayaran pajak harus berakhir. Warga harus terus membayar pajak untuk membayar infrastruktur, kesejahteraan sosial dan, yang paling penting, para pejabat pemerintah untuk melakukan pekerjaan mereka dengan baik.
+ Memang, masyarakat kecewa terhadap korupsi baru-baru ini di kalangan pejabat pajak. Namun demikian, wajib pajak masih harus mematuhi hukum dan terus membayar pajak. Dalam waktu yang berarti, perlu juga bagi pemerintah untuk melanjutkan reformasi pajak dalam rangka memulihkan kepercayaan pembayar pajak di dalamnya. Selain itu, sanksi tegas harus diberlakukan untuk memperbaiki citra masyarakat terhadap pegawai pajak.
+Apakah teks diatas termasuk teks diskusi?</h2><br />
+                        bukan, karena jika teks diskusi didalamnya terdapat 2 opini penulis/ lebih dari 2 opini penulis <br />teks diatas bukan termasuk teks diskusi.<br />
+                                            <h2 class="ez-toc-section" id="1-berikut-adalah-dampak-negatif-dari-pemanfaatan-tikkecuali-a-memperluas-lowongan-kerjab-munculnya-cyber-crimec-masuknya-budaya-asing-yang-burukd-meningkatnya-pornografi2-berikut-ini-adalah-bebera">
+                            32. 1.berikut adalah dampak negatif dari pemanfaatan TIK,kecuali....a.memperluas lowongan kerjab.munculnya cyber crimec.masuknya budaya asing yang burukd.meningkatnya pornografi2.berikut ini adalah beberapa kejahatan jenis baru dengan adanya internet,kecuali...a.pencurian nomor kartu kreditb.penyebaran virus komputer c.mengacaukan trafik jaringand.adanya tindakan konsumtif3.kejahatan berupa penggunaan teknologi komputer untuk mencetak ulang software atau informasi disebut....a.cyber crimeb.cyber trespassc.cyber piracyd.cyber vancalism4.memasuki,memodifikasi,atau merusak homepage disebut...a.rackingb.hackingc.cardingd.skating5.salah satu contoh nilai budaya asing yang negatif adalaha.pergaulan bebasb.menghormati orang tuac.sikap yang adild.cara berpakaian rapi6.internet dapat membuat masyarakat membeli barang yang bukan kebutuhan pokok dan pemborosan.hal ini disebut tindakan...a.produktifb.konsumtifc.agresifd.protektif7.undang-undang hak cipta adalaha.Nomor 19 tahun 2002b.nomor 19 tahun 2003c.nomor 29 tahun 2002d.nomor 29 tahun 20038.berikut ini pemakaian hak cipta yang tidak dianggap pelanggaran, kecualia.mencantumkan identitas karya ciptab.penggunaan di lingkungan pendidikanc.penggunaan untuk penelitiand.penggunaan untuk keperluan komersial9.salah satu sikap menghargai karya cipta adalah... a.menggunakan software bajakanb.meniru novel orangc.menggunakan free wared.membeli mp3 bajakan10.berikut ini adalah dampak dari pelanggaran hak cipta,kecualia.dimasukkan ke dalam penjarab.membayar ganti rugic.kerugian secara materid.memperkaya pemegang hak cipta11.membajak perangkat lunak komputer berarti...a.menggadakan perangkat lunak komputer tanpa izinb.menggunakan perangkat lunak komputer yang digandakan tanpa izinc.menjual perangkat lunak komputer yang digandakan tanpa izind.semua jawaban benar12.karakteristik kejahatan internet adalah seperti berikut,kecuali...a.melintasi batas-batas negarab.menggunakan peralatan-peralatan yang berhubungan dengan komputer dan internetc.pelaku memahami dengan baik internet,komputer,dan aplikasi-aplikasinyad.menyebabkan kerugian yang lebih kecil dibanding kejahatan biasa13.penemu telepon pertama kali adalah... 14.perkembangan komputer dimulai dengan adanya alat yang disebut...15.ENIAC merupakan singkatan dari... 16.teknologi telepon pada saat ini,yaitu adanya telepon genggam atau sering disebut...17.aplikasi yang memungkinkan para pengguna internet untuk saling berkirim pesan melalui alamat elektronik di internet disebut...18.kejahatan di internet kita kenal dengan sebutan...19.kegiatan yang bersifat komersial di internet disebut...20.teknik penyampaian atau pengiriman informasi dari suatu tempat ke tempat lain disebut... 21.tulisan yang pertama kali digunakan oleh bangsa sumerio hurufnya dibentuk dari...22.bahasa simbol yang digunakan oleh bangsa mesir kuno adalahmohon dijawab dikumpulin besok</h2><br />
+                        Yang tidak termasuk dalam dampak negatif penggunaan TIK adalah <strong>(A) memperluas lowongan kerja.</strong>Yang tidak termasuk dalam salah satu kejahatan akibat internet adalah<strong> (D) tindakan konsumtif.</strong>Sebutan untuk kejahatan yang dilakukan dengan mencetak ulang informasi dengan teknologi komputer adalah <strong>(C) cyberpiracy.</strong>Kegiatan merusak, memasuki, dan memodifikasi homepage adalah <strong>(B) hacking.</strong>Contoh dari budaya asing yang membawa dampak negatif adalah<strong> (A) pergaulan bebas.</strong>Sebutan untuk tindakan pemborosan adalah <strong>(B) konsumtif.</strong>Mengenai hak cipta, undang-undang yang berlaku adalah<strong> (A) Nomor 19 Tahun 2002.</strong>Yang termasuk dalam salah satu kegiatan pelanggaran hak cipta adalah <strong>(D) penggunaan untuk keperluan komersial.</strong>Untuk menghargai karya cipta, sikap yang bisa dilakukan adalah <strong>(C) menggunakan free ware.</strong>Yang tidak termasuk dalam salah akibat dari pelanggaran hak cipta adalah <strong>(D) memperkaya pemegang hak cipta.</strong>Arti dari membajak perangkat lunak adalah <strong>(D) semua jawaban benar.</strong>Yang tidak termasuk dalam salah satu karakteristik kejahatan internet adalah <strong>(D) menyebabkan kerugian yang lebih kecil dibanding kejahatan biasa.</strong>Telepon pertama kali ditemukan oleh <strong>Alexander Graham Bell.</strong>Alat yang menginspirasi pengembangan komputer adalah <strong>abacus atau sempoa.</strong>Kepanjangan dari ENIAC adalah <strong>Electronic Numerical Integrator and Computer.</strong>Sebutan lain untuk telepon genggam adalah <strong>handphone</strong>.Untuk saling berkirim pesan menggunakan alamat elektronik di internet, aplikasi yang digunakan adalah <strong>e-mail.</strong>Sebutan untuk kejahatan yang ada di internet adalah <strong>cybercrime</strong>.Di internet, kegiatan yang bersifat komersial disebut dengan <strong>e-commerce.</strong>Istilah untuk pengiriman informasi dari suatu tempat ke tempat lain adalah <strong>komunikasi</strong>.Hal yang menjadi dasar dalam pembentukan huruf bangsa Sumerio adalah <strong>piktografi.</strong>Pada bangsa Mesir kuno, bahasa simbol yang digunakan adalah <strong>hieroglif</strong>.<p></p>Pembahasan<p><strong>Pada nomor 1, pilihan (A) benar karena </strong>merupakan dampak positif dari penggunaan TIK.</p><p><strong></strong></p><p><strong>Pada nomor 2, pilihan (D) benar karena</strong> konsumtif bukan merupakan tindakan kejahatan.</p><p></p><p><strong>Pada nomor 3, pilihan (C) benar karena</strong> cyberpiracy atau pembajakan adalah tindakan mencetak ulang tanpa izin.</p><p></p><p><strong>Pada nomor 4, pilihan (B) benar karena</strong> hacking dilakukan dengan cara mengubah informasi yang ada pada suatu homepage.</p><p></p><p><strong>Pada nomor 5, pilihan (B), (C), dan (D) salah karena</strong> merupakan nilai budaya asing yang positif.</p><p></p><p><strong>Pada nomor 8, pilihan (D) benar karena</strong> kita tidak bisa menggunakan karya orang tanpa izin, khususnya untuk kebutuhan komersial.</p><p></p><p><strong>Pada nomor 9, pilihan (C) benar karena</strong> free ware adalah perangkat yang bisa digunakan oleh semua orang secara gratis.</p><p><strong></strong></p><p><strong>Pada nomor 10, pilihan (D) benar karena</strong> pelanggaran hak cipta tidak akan meningkatkan kekayaan dari pemegang hak cipta tersebut.</p><p><strong></strong></p><p><strong>Pada nomor 12, pilihan (D) benar karena</strong> kerugian akibat kejahatan internet pada dasarnya sama besarnya atau bahkan bisa lebih besar ketimbang kejahatan biasa.</p><p></p>Pelajari lebih lanjutMateri tentang jenis cybercrime https://brainly.co.id/tugas/1963788Materi tentang dampak negatif teknologi https://brainly.co.id/tugas/50726202Materi tentang sejarah perkembangan komputer https://brainly.co.id/tugas/6424055<p></p>Detail jawaban<p><strong>Kelas</strong>: 7</p><p><strong>Mapel</strong>: TIK</p><p><strong>Bab</strong>: 2 - Sejarah Perkembangan Teknologi Informasi dan Komunikasi</p><p><strong>Kode</strong>: 7.11.2</p><p></p><p><strong>#AyoBelajar #SPJ2</strong> </p><p><strong></strong></p><br />
+                                            <h2 class="ez-toc-section" id="1-multipedia-artinya2-viral-artinya3-konten-artinya4-cyber-crime-artinya5-perangkat-ulility-artinya6-netizen-artinya%e2%80%8b">
+                            33. 1.multipedia artinya?2.viral artinya?3.konten artinya?4.cyber crime artinya?5.perangkat ulility artinya?6.netizen artinya?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Multimedia adalah kombinasi dari komputer dan video atau Multimedia secara umum merupakan kombinasi tiga elemen, yaitu suara, gambar dan teks</p><p></p><p>2.viral berarti berbagi sesuatu melalui email atau media sosial yang menyebar dengan cepat ke jutaan orang yang online.</p><p></p><p>3. Konten adalah informasi yang tersedia melalui media atau produk elektronik</p><p></p><p>4. Kejahatan dunia maya adalah istilah yang mengacu kepada aktivitas kejahatan dengan komputer atau jaringan komputer menjadi alat, sasaran atau tempat terjadinya kejahatan. </p><p></p><p>5. Perangkat lunak utilitas merupakan perangkat lunak komputer yang didisain untuk membantu proses analisis, konfigurasi, optimasi, dan membantu pengelolaan sebuah komputer ataupun sistem</p><p></p><p>6. Istilah warganet atau netizen adalah sebuah lakuran dari kata warga (citizen) dan Internet yang artinya "warga internet" (citizen of the net)</p><br />
+                                            <h2 class="ez-toc-section" id="les-bahasa-indonesia-kd-3-2-literasi-membaca-bacalah-dengan-baik-menurut-kamus-merriam-webster-cyber-buliying-berarti-bentuk-ancaman-atau-serang-an-yang-dilakukan-seseorang-terhadap-orang-lain">
+                            34. les ! BAHASA INDONESIA (KD. 3.2) Literasi Membaca Bacalah dengan baik ! Menurut kamus merriam-Webster, cyber-buliying berarti bentuk ancaman atau serang-an yang dilakukan seseorang terhadap orang lain yang disampaikan melalui pesan elek-tronik media. Bulliying yang biasanya terjadi hanya di dunia nyata saja sekarang sudah mulai merambah ke dunia maya. Cyberbulliying merupakan sebuah fenomena baru dari perkembangan teknologi komunikasi. Pada kondisi sekarang, hal ter-sebut didefinisikan sebagai sebuah perbuatan menyakiti atau mengolok-olok yang dilakukan secara terus menerus dan disengaja melalui media komputer, seluler, ataupun peralatan elktronik lainnya yang dilakukan oleh seorang individu yang dimana seseorang yang dibully tidak dapat membela dirinya. Cyberbulliying dilakukan antara lain dengan mengirim komentar-komentar yang mengan- dung kebencian di blog, akun media sosial, email, membuat postingan yang ditujukan untuk menghina orang tertentu, mengunggah privasi seseorang ke media sosial, dan lain sebagainya. Sebab dari cyberbulliying tidak jauh berbeda dengan bulliying seperti biasa dan akibatnyapun juga hampir sama atau bisa jadi lebih parah. Akibat dari cyberbulliying adalah korban bulliying sewaktu-waktu bisa kehilangan privasinya, kepercayaan dirinya, yang berujung dengan kecemasan, kekhawatiran bahkan sampai titik tertentu menyebabkan bunuh diri. Cyberbulliying merupakan tindak kejahatan yang harus dihindari. Cyberbulliying adalah ancaman psikologis bagi per individu, oleh karena itu persiapan mental dan kecakapan mengolah emosi dengan baik sangat diperlukan. 1. Identifikasilah struktur teks eksplanasi di atas ! (AKM Literasi) Jawab:​</h2><br />
+                        <p>saya tidak mengerti apa yang di bilang pada cerita atau soal tersebut </p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-cyber-relational-addiction">
+                            35. apa arti cyber relational addiction</h2><br />
+                        keterlibatan yang berlebihan pada hubungan yang terjalin melalui internetkecanduan jejaring sosial, chat room, SMS, dan perpesanan ke titik di mana virtual, teman online menjadi lebih penting daripada hubungan kehidupan nyata dengan keluarga dan teman.<br /><br />Pada intinya kecanduan dengan segala hal yang ada didunia maya, sehingga tidak memperdulikan dunia nyatanya.<br /><br />
+                                            <h2 class="ez-toc-section" id="cyber-crime-adalah-istilah-internet-yang-berarti-%e2%80%8b">
+                            36. cyber crime adalah istilah internet yang berarti ......​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>cyber crime merupakan makna dari bahasa inggris yang berarti pemberantas kejahatan di dunia internet</p><p>misalkan mengatasi masalah tentang virus pada software di sebabkan oknum tidak bertanggung jawab, mengawasi webside apakah di web tersebut terdapat konten yang tidak pantas. cyber crime terkenal di negara maju, seperti amerika, china, rusia dan lain lain.</p><p>terkadang juga mengawasi pemilu di negara2 agar tidak terjadi kecurangan</p><p></p><p><strong>s</strong><strong>e</strong><strong>m</strong><strong>o</strong><strong>g</strong><strong>a</strong><strong> </strong><strong>m</strong><strong>e</strong><strong>m</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong>t</strong><strong>u</strong></p><p><strong>Jawaban:</strong></p><p>kejahatan dunia maya</p><p>maaaf kalau salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="di-dunia-internet-kita-sering-mendengar-istilah-cyber-crime-yang-artinya-adalah-a-kejahatan-dunia-mayab-kejahatan-dalam-negeric-kejahatan-internasionald-kejahatan-dunia-lain">
+                            37. Di dunia internet kita sering mendengar istilah Cyber Crime, yang artinya adalah....a kejahatan dunia mayab kejahatan dalam negeric kejahatan internasionald kejahatan dunia lain</h2><br />
+                        Arti dari Cyber Crime yg tepat adalah yg <strong>A. Kejahatan Dunia Maya</strong><br /><br />Semoga membantu...<br />
+                                            <h2 class="ez-toc-section" id="literasi-membaca-bacalah-dengan-baik-dunia-maya-du-s-pokunyoam-pak-nyaan-di-bawalindongan-singkat-dan-jolas-bahasa-indonesia-kd-32-menurut-kamus-merriam-webster-cyber-bullying-berarti-bentuk-anc">
+                            38. Literasi Membaca Bacalah dengan baik ! dunia maya du s pokunyoam pak nyaan di bawalindongan singkat dan Jolas! BAHASA INDONESIA (KD 32) Menurut kamus merriam Webster, cyber bullying berarti bentuk ancaman atau serang-an Bulliving yang biasanya terjadi hanya di dunia nyata saja sekarang sudah mulai merambah ke yang dilakukan seseorang terhadap orang lain yang disampaikan melalui pesan elek-tronik media. Xborbullying merupakan sebuah fenomena baru dari perkembangan teknologi komunikasi, Pada kondisi sekarang, hal tersebut didefinisikan sebagai sebuah perbuatan menyakiti atau mengolok-olok yang dilakukan secara terus menerus dan disengaja melalui media komputer , seluler ataupun peralatan elktronik lainnya yang dilakukan oleh seorang individu yang dimana seseorang yang dibully tidak dapat membela dirinya, cyberbulliying dilakukan antara lain dengan mengirim komentar-komentar yang mengan- dung kebencian di blog, akun media sosial, email, membuat postingan yang ditujukan untuk menghina orang tertentu, mengunggah privasi seseorang ke media sosial, dan lain sebagainya. Sebab dari cyberbullying tidak jauh berbeda dengan bullying seperti biasa dan akibatnyapun juga hampir sama atau bisa jadi lebih parah. Akibat dari cyberbulliying adalah korban bulliying sewaktu-waktu bisa kehilangan privasinya, kepercayaan dirinya, yang berujung dengan kecemasan, kekhawatiran bahkan sampai titik tertentu menyebabkan bunuh diri, Cyberbullying merupakan tindak kejahatan yang harus dihindari. Cyberbulliying adalah ancaman psikologis bagi per individu, oleh karena itu persiapan mental dan kecakapan mengolah emosi dengan baik sangat diperlukan1. Identifikasilah struktur teks eksplanasi di atas ! (AKM Literasi) Jawab:​2.perbuatan apa saja yg dikategorikan cyberbulliying?jawab:3.bagaimana dampaj cyberbulliying?jawab:4.apa yg perlu diperhatikan dlm menghadapi tindakan cyberbullying?jawab:</h2><br />
+                        <p>1.) pembukaan, isi, dan penutup</p><p>2.) •perbuatan menyakiti atau mengolok-olok yang dilakukan secara terus-menerus dan disengaja</p><p>     •menggungah privasi orang lain</p><p>     •ancaman psikolog</p><p>3.) -korban sewaktu-waktu bisa kehilangan privasinya</p><p>     -cemas berlebihan</p><p>     -kehilangan kepercayaan diri</p><p>4.) persiapan mental dan kecakapan mengolah emosi dengan baik</p><p></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/xvXarCMKcaY?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_indonesia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/arti-it-s-oke/">Arti It s Oke</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/does-saidah-want-to-be-alia-s-friend/">Does Saidah Want To Be Alia s Friend</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-hubungan-kemajuan-teknologi-dengan-kenakalan-remaja-jelaskan/">Apa Hubungan Kemajuan Teknologi Dengan Kenakalan Remaja Jelaskan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagian-yang-paling-menarik/">Bagian Yang Paling Menarik</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/2-adalah/">2 Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lakukan-pengubahan-satuan-di-bawah-ini/">Lakukan Pengubahan Satuan Di Bawah Ini</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-pengertian-syaja-ah-menurut-bahasa-dan-istilah/">Jelaskan Pengertian Syaja Ah Menurut Bahasa Dan Istilah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/keistimewaan-dari-faktor-produksi-kewirausahaan-terletak-pada/">Keistimewaan Dari Faktor Produksi Kewirausahaan Terletak Pada</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-cara-tumbuhan-berbunga-berkembang-biak/">Bagaimana Cara Tumbuhan Berbunga Berkembang Biak</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kepanjangan-asean/">Kepanjangan Asean</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/v3-use/">V3 Use</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-aktivitas/">Contoh Aktivitas</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-pentingnya-hubungan-internasional-bagi-indonesia/">Apa Pentingnya Hubungan Internasional Bagi Indonesia</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dalam-reklame-dibutuhkan-perencanaan-gambar-atau/">Dalam Reklame Dibutuhkan Perencanaan Gambar Atau</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/text-1-paragraph-main-idea-details/">Text 1 Paragraph Main Idea Details</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/cerita-tentang-lingkungan-rumah-yang-bersih/">Cerita Tentang Lingkungan Rumah Yang Bersih</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berlatih-teknik-arsir-gradasi-dapat-dimulai-dengan-membuat/">Berlatih Teknik Arsir Gradasi Dapat Dimulai Dengan Membuat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-pengertian-diskusi/">Jelaskan Pengertian Diskusi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nabi-ibrahim-sejak-masih-bayi-diasingkan-untuk-menghindari-kekejaman-raja/">Nabi Ibrahim Sejak Masih Bayi Diasingkan Untuk Menghindari Kekejaman Raja</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/cara-memainkan-gong-bumbung-mirip-dengan-cara-memainkan-alat-musik/">Cara Memainkan Gong Bumbung Mirip Dengan Cara Memainkan Alat Musik</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

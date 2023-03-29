@@ -1,0 +1,1365 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sponsored By - BELAJAR</title>
+    <meta name="description" content="Sponsored By, , , , , , , 0, How to Value a Sponsorship - Martin Kihn, blogs.gartner.com, 1300 x 1300, jpeg, , 20, sponsored-by, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Sponsored By - BELAJAR" />
+    <meta property="og:description" content="Sponsored By, , , , , , , 0, How to Value a Sponsorship - Martin Kihn, blogs.gartner.com, 1300 x 1300, jpeg, , 20, sponsored-by, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Sponsored By - BELAJAR" />
+    <meta name="twitter:description" content="Sponsored By, , , , , , , 0, How to Value a Sponsorship - Martin Kihn, blogs.gartner.com, 1300 x 1300, jpeg, , 20, sponsored-by, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Sponsored By</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">atimkarim669</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Sponsored+By" alt="Sponsored By">
+                    </div>
+                    <p></p>
+                    <p>The project is sponsored by program 863, am initiative endorse by then-leader Deng Xiaoping in 1986 to boost high-tech development.&quot; What is the synonym of sponsored?...​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#the-project-is-sponsored-by-program-863-am-initiative-endorse-by-then-leader-deng-xiaoping-in-1986-to-boost-high-tech-development-what-is-the-synonym-of-sponsored-%e2%80%8b">1.
+                                            The project is sponsored by program 863, am initiative endorse by then-leader Deng Xiaoping in 1986 to boost high-tech development." What is the synonym of sponsored?...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-ini-yang-termasuk-pemasaran-ratis-menggunakan-fecebook-antar-lain-a-fecebook-page-facebook-group-facebook-questionb-facebook-page-facebook-ads-marketplacec-facebook-page-facebook">2.
+                                            Berikut ini yang termasuk pemasaran ratis menggunakan fecebook antar lain...
+a. Fecebook page, facebook group, facebook question
+b. Facebook page, facebook Ads, marketplace
+c. Facebook page, facebook Ads, facebook Connecr, Sponsored Stories
+d. Facebook Ads, Sponsored Stories, iklan social media
+e. Marketplace, facebook Ads, Sponsored Stories</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#8-rina-its-gonna-be-long-weekend-next-week-what-is-your-plan-indra-there-will-be-family-gathering-sponsored-by-the-office%e2%80%8b">3.
+                                            8. Rina : It's gonna be long weekend next week, what is your plan? Indra : ... There will be family gathering Sponsored by the office​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#activity-reducing-adverblal-clauses-change-the-adverbial-clauses-in-these-sentences-into-adverbial-phrases-1-after-he-graduated-ngurah-rai-joined-the-dutch-sponsored-military-as-a-second-lieutena">4.
+                                            Activity: Reducing Adverblal Clauses Change the adverbial clauses in these sentences into adverbial phrases! 1 ) After he graduated, Ngurah Rai joined the Dutch-sponsored military as a second lieutenant in Bali.  2 )  Because he wanted to prepare Hasanuddin to be the next king, Hasanuddin's father asked him to accompany him to some important meeting.3 )  Because she was part of the Javanese aristocracy, Kartini was allowed to attend a Dutch- language primary school.4 )  While Hatta studied in the Netherlands from 1922 to 1932, he was president of the Perhimpunan Indonesia. 5 ) After the Dutch was betrayed by Teuku Umar, the Dutch was angry and launched a massive operation to capture Teuku Umar and Cut Nyak Dhien.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#in-india-thanksgiving-is-primarily-celebrated-in-the-state-of-goa-with-a-different-name-thanksgiving-is-popularly-known-as-ladin-ladainha-in-india-during-the-thanksgiving-ritual-people-thank-the-g">5.
+                                            In india, thanksgiving is primarily celebrated in the state of Goa, with a different name.Thanksgiving is popularly known as Ladin ladainha in india. During the thanksgiving ritual, people thank the gods for all the material and spiritual benefits. the thanksgiving celebration is sponsored by a different person every year who seeks benefits, or has been lucky enough to have the gods special grace.
+christians start preparing for thanksgiving celebrations by purchasing wheat and grain, candles, wine and colored tinsel paper.
+a temporary platform/altar is constructed and decorated with flowers, vines and creepers. celebrations also include singing of hymns and prayers. the village local violinist or choirmaster conducts the entire show of singing litany.
+question :
+1. why is a person in india willing to sponsor the thanksgiving section ?
+2. what is the thanksgiving popular named in india ?
+3. that is the people doing during the thanksgiving ritual ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#complete-the-sentences-with-the-correct-form-of-the-verbs-in-brackets-2-if-jackie-go-on-the-sponsored-walk-next-week-ill-go-with-her">6.
+                                            Complete the sentences with the correct form of the verbs in brackets 2. If Jackie ........(go) on the sponsored walk next week, I'll go with her </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#43-the-text-above-is-written-in-order-to-a-introduce-their-new-serviceb-inform-their-reservation-phonec-describe-their-service-to-peopled-persuade-people-to-use-their-service44-which-informat">7.
+                                            43. The text above is written in order to ...A. introduce their new serviceB. inform their reservation phoneC. describe their service to peopleD. persuade people to use their service44. Which information can make the readers become more interested?A. The fare is affordable.B. The capacity of the bus is big.C. Reservation can be done by phone.D. Each customer will get a sponsored backpack.45. The text above is intended for people who want to ... bus.A. transport inter-cities byB. have a city tour byC. travel abroad byD. buy a new ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#how-many-sponsored-walk-in-philippinesa-175000-peopleb-77019-peoplec-more-than-175000-peopled-more-than-77019-people%e2%80%8b">8.
+                                            How many sponsored walk in Philippines?A) 175,000 peopleB) 77,019 peopleC) More than 175,000 peopleD) More than 77,019 people​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-the-purpose-of-the-text-is-to-invite-youa-to-attend-mr-and-mrs-sembirings-marriageb-to-unite-alice-and-jeffry-ini-a-wedding-partyc-to-attend-alice-and-jeffrys-wedding-partyd-to-marry-with-mr">9.
+                                            1. the purpose of the text is to invite youa. to attend Mr and Mrs sembiring's marriageb. to unite Alice and Jeffry ini a wedding partyc. to attend Alice and jeffry's wedding partyd. to marry with Mr and Mrs sembiring2. which statement is TRUE based on text?a. the party Will be held on june13th,2008b. Jeffry Sitorus is Mr and Mrs Joseph sembiring's sonc. the party Will be sponsored by gajah wong restaurantd. Mr and Mrs sembiring Will celebrate their anniversary</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-the-purpose-of-the-text-is-to-invite-youa-to-attend-mr-and-mrs-sembirings-marriageb-to-unite-alice-and-jeffry-ini-a-wedding-partyc-to-attend-alice-and-jeffrys-wedding-partyd-to-marry-with-mr">10.
+                                            1. the purpose of the text is to invite youa. to attend Mr and Mrs sembiring's marriageb. to unite Alice and Jeffry ini a wedding partyc. to attend Alice and jeffry's wedding partyd. to marry with Mr and Mrs sembiring2. which statement is TRUE based on text?a. the party Will be held on june13th,2008b. Jeffry Sitorus is Mr and Mrs Joseph sembiring's sonc. the party Will be sponsored by gajah wong restaurantd. Mr and Mrs sembiring Will celebrate their anniversary</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mapel-b-inggriskelas-xi-smatentang-reading-comprehensionanswer-these-questions-then-roleplay-an-interview-with-david1-what-was-the-sponsored-challenge-for2-what-did-david-have-to-do3-wha">11.
+                                            Mapel: B. InggrisKelas: XI SMATentang: Reading ComprehensionAnswer These Questions, Then Roleplay An Interview With David!1.) What was the sponsored Challenge for?2.) What did David have to do?3.) What was the best part?4.) What was the worst part?5.) How much money did he raise?Tolong Bantu Dijawab Yang Benar Ya ^_^Tapi Jangan Jawaban Asal-Asalan GAK SUKA!!!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#activity-reducing-advenbial-clauses-1-after-he-graduatedngurah-rai-joined-the-dutch-sponsored-milutary-as-a-second-lieutenant-in-bali-2-because-he-wanted-to-prepare-hasanuddin-to-be-the-next-king">12.
+                                            Activity : reducing advenbial clauses 1. After he graduated,Ngurah Rai joined the dutch-sponsored milutary as a second lieutenant in Bali 2. Because he wanted to prepare Hasanuddin to be the next king, Hasanuddin father Askes him</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#avalon-high-schoolstreet-art-fairactual-demonstrations%e2%80%a2-potters-wheel%e2%80%a2-silk-screen%e2%80%a2-weaving%e2%80%a2-painting%e2%80%a2-drawingin-the-street-on-avalon-highwayfrom-avalon-high">13.
+                                            Avalon High SchoolStreet Art FairActual Demonstrations• Potter's Wheel• Silk Screen• Weaving• Painting• DrawingIn the street on AVALON HIGHWAY(from Avalon High School to Avalon Park)Saturday-Sunday7 a.m. to 10 a.m.In conjunction with Bargain Days, you can'tafford to miss this combination of a uniqueStreet Act Fair and Superb Bargains in theAvalon Highway stores.Sponsored by Candy Art Association and Art StoresAdapted from: https:://aadl. orgQuestions:1. What does the ad promote?2. Who are the committee of this event?3. What can the target audience do in the event?4. Which part shows persuasion?5. Will you restate that this event is free? Why do you think so?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#18-lindra-do-you-have-any-plans-for-this-holidaycarlathere-will-be-a-family-outing-sponsored-by-my-fathers-companya-i-have-gone-by-planeb-i-am-going-to-go-to-bandungc-i-will-stay-in-a-cotiaged">14.
+                                            18. Lindra : Do you have any plans for this holiday?Carla:There will be a family outing sponsored by my father's companyA I have gone by planeB. I am going to go to BandungC. I will stay in a cotiageD. I have a barbeque partyinE You do for funmy house​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-ka-deadline-iniasri%c2%a0%c2%a0%c2%a0%c2%a0%c2%a0-%c2%a0-it-will-be-a-long-weekend-next-week-what-is-your-plan-deny%c2%a0%c2%a0%c2%a0-%c2%a0-there-will-be-a-family-outing-sponsor">15.
+                                            tolong ka deadline ini:'Asri      :  It will be a long weekend next week. What is your plan ?Deny    :  ........ There will be a family outing sponsored by the officePilih salah satu:a. We stayed in a cottageb. We have gone by a tourist busc. We have a barbecued. We go to the beache. We are going to go to Anyer​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#read-the-following-text-to-answer-questions-number-12-and-13-mr-and-mrs-rob-driehuis-invite-you-to-sharethe-joy-of-the-marriage-uniting-their-daughterana-driehuis-to-silvio-stainer-the-thirthteenth">16.
+                                            READ THE FOLLOWING TEXT TO ANSWER QUESTIONS NUMBER 12 AND 13.Mr and Mrs. Rob Driehuis invite you to sharethe joy of the marriage uniting their daughterAna Driehuis to Silvio Stainer, the thirthteenth ofJune two thousand and twenty At three o'clockin the afternoon Jowo Londo Restaurant Jl.Kauman Yogyakarta12. The purpose of the text is to invite you....A. to attend Mr and Mrs Rob's marriage.B.to unite Ana an Silvio in a wedding party.C.to attend Ana and Silvio's wedding party.D.to marry with Mr and Mrs. Rob.13. Which statement is TRUE based on text?A The party will be held on june 13th, 2020.B.Silvio Stainer is Mr. and Mrs. Rob Driehuis's sonC.The party will be sponsored by JowoLondo Restaurant.D.Mr. and Mrs. Rob Driehuis will celebratetheir anniversary​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#quiz-19by-texbannastexquiz-terakhir-kembali-setelah-lebaran-mengapakarena-akan-menyambut-lebaran1-banna-membelikan-same-100-kardus-baju-lebaran-saat-pembayaran-banna-membayar-1-000-000">17.
+                                            Quiz #19By : [tex]BannaS[/tex]Quiz Terakhir ( Kembali setelah lebaran )Mengapa?Karena, akan menyambut lebaran1. Banna membelikan Same 100 kardus baju lebaran. Saat pembayaran, Banna membayar 1.000.000.000 Rupiah. 1 Kardus seharga 100.000 rupiah. Berapa total kembalian uang banna dan berapa total pembayarannya?2. Banna membelikan Iqbal kue lebaran. Banna membelikan 60 toples. Banna membayar 500.000 Rupiah. Sedangkan, 1 toples seharga 15.000 Rupiah. Berapa uang kembaliannya uang banna dan berapa total pembayarannya?____________#SelamatHariRayaIdulFitri#LiburQuizSponsored by :@BannaS@SameShark948@Iqbal19135See you next party...Bye !​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#quiz%e2%98%95________________1-sebutkan-macam-macam-sudut2-suatu-kotak-berbentuk-kubus-memiliki-volume-3-375-berapakah-sisi-kubus-tersebut-3-suatu-tabung-yang-memiliki-diameter-14-cm-dan-ting">18.
+                                            Quiz☕________________1.) Sebutkan macam-macam sudut2.) Suatu kotak berbentuk kubus memiliki volume 3.375, berapakah Sisi kubus tersebut? 3.) Suatu tabung yang memiliki diameter 14 cm, dan tingginya 8 cm, berapakah volume tabung tersebut? 4.) 1 dollar = .... rupiah________________________Bonus:– Apakah azka cantik?Sponsored by:–Team yang sangad akrab:T​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sutomo-or-bung-tomo-was-born-on-october-3-1920-in-kampung-blauran-in-the-center-of-surabaya-atthe-age-of-12-sutomo-left-his-school-at-mulo-to-find-a-job-due-to-economy-problem-at-age-17-he-beca">19.
+                                            Sutomo or bung tomo was born on october 3, 1920, in kampung blauran, in the center of surabaya. atthe age of 12, sutomo left his school at mulo to find a job due to economy problem. at age 17, he became famous when he managed to become the second person in the dutch east indies to reach garuda scout rank. during the japanese occupation, sutomo was chosen in 1944 as a member of the japanese-sponsored gerakan rakyat baru (new people’s movement). while in october and november 1945, he became on of the leaders of the people moving and uplifting surabaya which was under attack by nica. sutomo particularly remembered for opening calls on the radio broadcasts were filled with emotion.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#with-the-end-of-military-operation-to-eradicate-the-g-30s-rebellion-by-the-indonesian-communist-party-in-1965-the-political-issue-in-indonesia-was-also-resolved-becauseafter-the-g-30-s-rebellion-by">20.
+                                            With the end of military operation to eradicate the G 30S rebellion by the Indonesian Communist Party in 1965, the political issue in Indonesia was also resolved.
+BECAUSE
+After the G 30 S rebellion by the Indonesian Communist Party, the students movements in Jakarta formed organizations which were sponsored by the government through the Ministry of Higher Education and Knowledge.
+The answer is...
+(A) If the statement is correct, the reason is correct, and both show a cause and effect relationship.
+(B) If the statement is correct, the reason is correct, but both do not show a cause and effect relationship.
+(C) If the statement is correct and the reason is incorrect.
+(D) If the statement is incorrect and the reason is correct. 
+(E) If the statement and the reason are both incorrect.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#17-linda-do-you-have-any-plans-this-holiday-carla-there-will-be-a-family-outing-sponsored-by-my-dads-company-a-i-have-gone-by-plane-d-i-am-going-to-go-to-bandung-b-i-will-stay-i">21.
+                                            17. Linda: Do you have any plans this holiday? Carla :........... There will be a family outing sponsored by my dad's company. A. I have gone by plane. D. I am going to go to Bandung, B. I will stay in a cottage. E. I have a barbeque party in my house C. My family are at home. 1​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bab-activity-reducing-adverbial-clauseschange-the-adverbial-clauses-in-these-sentences-into-adverbial-phrases1-after-he-graduated-ngurah-rai-joined-the-dutch-sponsored-military-as-a-second-lieuten">22.
+                                            Bab activity: reducing adverbial clauseschange the adverbial clauses in these sentences into adverbial phrases!1. after he graduated, ngurah rai joined the dutch-sponsored military as a second lieutenant in bali.2. because he wanted to prepare hasanuddin to be the next king. hasanuddin's father askedhim to accompany him to some important meeting.3. because she was part of the javanese aristocracy, kartini was allowed to attend a dutch-language primary school.4. while hatta studied in the netherlands from 1922 to 1932, he was president of the perhimpunan indonesia. 5. after the dutch was betrayed by teuku umar, the dutch was angry and launched a massive operation to capture teuku umar and cut nyak dhien. pelajaran kelas 10 semester 2​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-tulis-nama-teks-nya-apa-dan-tulis-alasannya-knp-km-pilih-jwbn-itu43-the-text-above-is-written-in-order-to-a-introduce-their-new-serviceb-inform-their-reservation-ohonec-describe-their-s">23.
+                                            Tolong tulis nama teks nya apa dan tulis alasannya knp km pilih jwbn itu!43. The text above is written in order to....A. Introduce their new serviceB. Inform their reservation ohoneC. Describe their service to peopleD. Persuade people to use their service44. Which information can make the readers become more interested?A. The fare is affordableB. The capacity of the bus is bigC. Reservation can be done by phoneD. Each customer will get a sponsored backpack45. The text above is intended for people who want to...busA. Transport inter-cities nyB. Have a city tour byC. Travel abroad byD. Buy a new</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#linda-do-you-have-any-plans-this-holiday-carla-there-will-be-a-family-outing-sponsored-by-my-dads-company-tolong-isi-yg-kosongnya-%e2%80%8b">24.
+                                            Linda : Do you have any plans this holiday ? Carla : .......... There will be a family outing sponsored by my dad's company.tolong isi yg kosongnya ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#in-the-afternoon-jowo-londo-restaurant-ji-kauman-yogyakartav12-the-purpose-of-the-text-is-to-invite-you-17-to-attend-mr-and-mrs-robs-marriageb-to-unite-ana-an-silvio-in-a-wedding-partyto-atte">25.
+                                            in the afternoon Jowo Londo Restaurant JI.Kauman YogyakartaV12. The purpose of the text is to invite you ..... 17.to attend Mr and Mrs Rob's marriageb. to unite Ana an Silvio in a wedding partyto attend Ana and Silvio's wedding partyd. to marry with Mr and Mrs. Rob13. Which statement is TRUE based on text?a. The party will be held on june 13th, 2020.b. Silvio Stainer is Mr. and Mrs. Rob 18. TDriehuis's son.The party will be sponsored by JowoDLondo Restaurant.d. Mr. and Mrs. Rob Driehuis will celebrateabeC.atheirbtolong jawab no 11-30big foint jangan ngasal pliss kecuali yg nama nya osama dia baik soal nya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#find-out-about-a-recent-space-mission-gather-information-at-the-library-orfrom-the-internet-take-notes-below-write-a-paragraph-about-it-on-a-separatepiece-of-paper-include-this-information1-what">26.
+                                            Find out about a recent space mission Gather information at the library orfrom the Internet. Take notes below. Write a paragraph about it on a separatepiece of paper. Include this information:1. What: What country sponsored the mission2. Whe: Who were the astronauts?3. Where: Where did the spacecraft travel?4. When: When was the mission?5. How: How will the mission help us understand space better?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rewrite-the-following-sentences-and-arrange-into-a-good-paragraph-1-after-independence-dewantara-was-appointed-as-minister-of-education-and-culture-in-the-first-cabinet-of-soekarno-2-during-the">27.
+                                            Rewrite the following sentences and arrange into a good paragraph !
+1. After independence, Dewantara was appointed as Minister of Education and Culture in the first cabinet of Soekarno.
+2. During the Japanese period ( 1942 – 1945)  Dewantara,Soekarno,Muhammad Hatta and K.H. Mas Mansur were appointed as leaders of the People Power Center ( Pusat Tenaga Rakyat) 
+	3. A Japanesed sponsored umbrella organization for all nationalist organizations on Java and Madura</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#this-text-for-questions1-to-5famous-italian-explorerschristopher-columbusfind-newworld-americaon-expeditionsponsored-by-the-kingferdinand-from-spainat-1492-christophercolumbus-was-born-in1451-in-it">28.
+                                            This text for questions1 to 5Famous Italian ExplorersChristopher Columbusfind "newworld "Americaon expeditionsponsored by the kingFerdinand from Spainat 1492. ChristopherColumbus was born in1451 in Italy. His fatheris a weaver, but otherfamily membersinvolved in trade byship. He began to leaveon a trade trip withwhen he was aloneteenager, and startlearn about life at seaand how to sail the ship.1. Why Christopher?famous for Columbia?2. What is the main idea?the paragraph above?3. "His father is a personWeaver, but otherfamily member isinvolved in trade by aship ". What can you concludefrom this information?4. What will happen ifno familymembers involved intrade by boat?5. How is ChristopherColumbus learned aboutlife at sea and howsailing ship​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pertanyaan-mingguansoal-pembuatan-film-tidak-terlepas-dari-peran-sutradara-kemukakan-pendapatmu-apakah-sebuah-film-yang-diminati-penonton-tergantung-pada-sutradara-ataukah-pemainnya%e2%86%93">29.
+                                            "PERTANYAAN MINGGUAN"Soal: Pembuatan film tidak terlepas dari peran sutradara. Kemukakan pendapatmu, apakah sebuah film yang diminati penonton tergantung pada sutradara ataukah pemainnya?↓↓↓Ketentuan↓↓↓Yang jawab ngasal auto REPORT (dilaporkan)Dimulai kurang lebih pukul →19.30← SETIAP HARI MINGGUTingkat: SMPMapel: AcakPoints: 10 - 50 (tergantung kesulitan soal)Sponsored by: PelajarRemaja22​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#11-john-it-will-be-along-next-week-what-is-your-plan-karen-%e2%80%a6-there-will-be-a-family-outing-sponsored-by-the-office">30.
+                                            11.john: it will be along next week. what is your plan? karen: …. there will be a family outing sponsored by the office. *</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#which-statement-is-true-based-on-textread-the-following-text-to-answer-questions-number-11-and-12-mr-and-mrs-joseph-sembiring-invite-you-to-share-the-joy-of-the-marriage-uniting-their-daughter-alic">31.
+                                            Which statement is TRUE based on text?Read the following text to answer questions number 11 and 12. Mr and Mrs. Joseph Sembiring Invite you to share the joy of the marriage uniting their daughter Alice Sembiring To Jeffry Sitorus Friday, the thirthteenth of June two thousand and eight At three o'clock in the afternoon Gajah Wong Restaurant JI. Affandi Yogyakarta The purpose of the text is to invite youa. The party will be held on june 13th, 2008b. Jeffry Sitorus is Mr. and Mrs. Joseph Sembiring's sonc. The party will be sponsored by Gajah Wong Restaurantd. Mr. and Mrs. Joseph Sembiring will celebrate their anniversary​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#read-the-following-text-to-answer-questions-number-1-and-2-mr-and-mrs-joseph-sembiring-invite-you-to-share-the-joy-of-the-marriage-uniting-their-daughter-alice-sembiring-to-jeffry-sitorus-friday">32.
+                                            read the following text to answer questions number 1 and 2      Mr and Mrs.Joseph Sembiring invite you to share the Joy of the marriage uniting their daughter Alice Sembiring to Jeffry Sitorus Friday the thirthteenth of june two thousand and right at ther o' clock in the afternoon Gajah Wong Restaurant JL.Afandi Yogyakarta1.The purpose of the text is to invite youA.To attend Mr and Mrs Sembiring's marriageB.To unite Alice an Jeffry in a wedding partyC.To attend Alice and jeffry's wedding partyD.To marry with Mr and Mrs Sembiring2.Which statement is True based on text?A.The party will be held on June 13th,2008B.Jeffry Sitorus is Mr.and Mrs.Joseph Sembiring's sonC.The party will be sponsored by gajah wong RestaurantD.Mr.and Mrs.Joseph Sembiring Will celebrate their anniversary​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#iklan-berbentuk-banner-yang-kemunculannya-pada-website-atau-inventory-yang-bekerjasama-dengan-google-merupakan-jenis-google-ads-adalah-a-search-engine-marketing-sem-b-google-display-netw">33.
+                                            Iklan berbentuk banner yang kemunculannya pada website atau inventory yang bekerjasama dengan google merupakan jenis google ads adalah???... A. Search engine marketing ( SEM).. B.. Google display network ( GDN).. C. Gmail Sponsored promotion (GSP)... D. Benner ads.. E. Youtube ads.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#quiz-midnightby-texbannastex1-aleyazz-sedang-membuat-kue-membuat-100-potong-kue-dan-di-jual-per-potong-7-000-rupiah-dan-di-diskon-50-dari-harga-sebelumnya-berapa-penghasilan-kue-yang-dijua">34.
+                                            Quiz MidnightBy : [tex]BannaS[/tex]1. Aleyazz sedang membuat kue. Membuat 100 potong kue. Dan di jual per potong 7.000 Rupiah. Dan di diskon 50% dari harga sebelumnya. Berapa penghasilan kue yang dijual oleh Aleyazz2. Banna dan Iqbal sedang membeli sebuah meja dan kursi. Harga meja adalah 200.000, dan harga kursi adalah 150.000 Rupiah. Dan semua produk di diskon 54% dari harga sebelumnya. Berapa yang akan mereka bayar?3. Same sedang membeli sepatu baru. Sepatu tersebut di jual dengan harga 340.000 Rupiah. Dia membeli sepatu tersebut dan menjualnya kembali dengan harga 400.000 Rupiah. Berapa untung dan rugi nya Same?4. Stingray sedang membelikan baju untuk Same❤. Dan diharga dengan 200.000 Per pasang nya. Dan di diskon 30% Dari harga sebelumnya. Berapa harga baju tersebut sekarang?10 Poinz saja :vIngat !Peraturan :Pake penjelasan ✔️Pakai cara ✔️Copas ❌Google ❌Paste ❌Ngasal ❌Bahasa alien (pqbdyase) ❌Cara sendiri ✔️Nb : Kalau tidak penjelasan, maka akan langsung direport ! Quiz kemarin, banyak yang saya report akibat tidak ada penjelasan ! Jadi, harap berhati hati !Sponsored by :@Aleyazz0721@BannaS@iqbal16135@SameShark948@StingrayDach~❤​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#iklan-berbentuk-banner-yang-kemunculannya-pada-website2-atau-inventory-yang-bekerjasama-dengan-google-merupakan-jenis-google-ada-a-search-engin-marketing-semb-google-display-network-gdnc-gmai">35.
+                                            Iklan berbentuk banner yang kemunculannya pada website2 atau inventory yang bekerjasama dengan google merupakan jenis google ada ?
+A.Search Engin Marketing (SEM)
+B.Google Display Network ( GDN)
+C.Gmail Sponsored Promotion (GSP)
+D.Banner ads
+C.YouTube ads</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#salah-satu-fitur-facbook-yang-betujuan-agar-pemasaran-dapat-menembus-pasar-yang-lebih-besar-dapat-terhubung-dengan-lebih-dari-500-jutu-konsumen-potensial-yaitu-a-facebook-pageb-iklan-social-fac">36.
+                                            salah satu fitur facbook yang betujuan agar pemasaran dapat menembus pasar yang lebih besar, dapat terhubung dengan lebih dari 500 jutu konsumen potensial yaitu...
+a. Facebook page
+b. Iklan social facebook
+c. Sponsored stories
+d. Facebook conner
+e. Marketplace</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arrange-the-jumbled-words-into-meaningful-passive-sentences-1-out-by-the-referee-was-the-player-sent2-been-the-committee-has-the-match-by-prepared3-in-was-the-stadium-1">37.
+                                            arrange the jumbled words into meaningful passive sentences.
+1. out - by - the referee - was - the player - sent
+2. been - the committee - has - the match - by - prepared
+3. in - was - the stadium - 1960 - built
+4. switched - the flag - by - the linesman - is
+5. by - the tickets - ordered - were - the supporters
+6. cooked - a - this - is - by - cook - food - professional
+7. the match - be - a - station - by - broadcasted - private - TV - will
+8. the  - is - league - by - indonesian - football - PT. Djarum - sponsored
+9. the supporters - is - by - crowded - of - the hall - the two teams
+10. thi book - Quadra - by - is - published</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sutomo-or-bung-tomo-was-born-on-october-3-1920-in-kampung-blauran-in-the-center-of-surabaya-at-the-age-of-12-sutomo-left-his-school-at-mulo-to-find-a-job-due-to-economy-problem-at-age-17-he-bec">38.
+                                            Sutomo or Bung Tomo was born on October 3, 1920, in Kampung Blauran, in the center of Surabaya. At the age of 12, Sutomo left his school at MULO to find a job due to economy problem. At age 17, he became famous when he managed to become the second person in the Dutch East Indies to reach Garuda Scout rank. During the Japanese occupation, Sutomo was chosen in 1944 as a member of the Japanese-sponsored Gerakan Rakyat Baru (New People’s Movement). While in October and November 1945, he became one of the leaders of the people moving and uplifting Surabaya which was under attack by NICA. Sutomo particularly remembered for opening calls on the radio broadcasts were filled with emotion. Sutomo got his first job at the age of … *homon bantuannya kk​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nah-yang-sering-nanyain-kontak-wa-ku-mulu-btw-ini-no-wa-ku-lohdnananana-_______________________-quiz-hukuman_1-same-memiliki-utang-kepada-azka-dan-ackerman-sebesar-200-00000-kemudian-same-me">39.
+                                            Nah yang sering nanyain kontak wa ku mulu, Btw ini no wa ku loh;Dnananana._______________________.Quiz + Hukuman,_,1.) Same memiliki utang kepada Azka dan Ackerman sebesar 200.000,00. kemudian Same membayar sebanyak 1.000.000,00 berapakah sisa kembalian utang tersebut?2.) Same mentraktir bakso kepada Azka dan Ackerman sebanyak 10 porsi, Kemudian Azka ingin menambah sebanyak 5 porsi, harga 1 porsi adalah 17.000,00. berapakah uang yang harus dikeluarkan oleh Same?3.) Ackerman dan Azka duduk dikelas 6, sedangkan Same duduk dikelas 8, berapakah selisih antara kelas Azka,Ackerman dan Same?4.) Ani si cupank pada hari Minggu bermain ke rumah Same, kemudian Same akan memberi Ani si cupank oreo 1 box yang berisi 3 rasa, 1 rasa berisi 20 oreo. Berapakah jumlah oreo yang dimiliki Ani si cupank?______________________Sponsored by: @Ackerman096@Azkadigdaya1407@AniCupank938​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#4-to-celebrate-earth-day-the-speakers-have-an-idea-to-5-the-activity-may-be-sponsored-by-as-the-tree-providerayooo-dijawabbb-lgi-butuh-bgttt%e2%80%8b">40.
+                                            4.To celebrate Earth Day, the speakers have an idea to 5. The activity may be sponsored by as the tree providerayooo dijawabbb lgi butuh bgttt​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="the-project-is-sponsored-by-program-863-am-initiative-endorse-by-then-leader-deng-xiaoping-in-1986-to-boost-high-tech-development-what-is-the-synonym-of-sponsored-%e2%80%8b">
+                            1. The project is sponsored by program 863, am initiative endorse by then-leader Deng Xiaoping in 1986 to boost high-tech development." What is the synonym of sponsored?...​</h2><br />
+                        <p>Answer: Sponsor</p><p></p><p>I dont think this is correct</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="berikut-ini-yang-termasuk-pemasaran-ratis-menggunakan-fecebook-antar-lain-a-fecebook-page-facebook-group-facebook-questionb-facebook-page-facebook-ads-marketplacec-facebook-page-facebook">
+                            2. Berikut ini yang termasuk pemasaran ratis menggunakan fecebook antar lain...
+a. Fecebook page, facebook group, facebook question
+b. Facebook page, facebook Ads, marketplace
+c. Facebook page, facebook Ads, facebook Connecr, Sponsored Stories
+d. Facebook Ads, Sponsored Stories, iklan social media
+e. Marketplace, facebook Ads, Sponsored Stories</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawabanya yang (E)</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah </p><br />
+                                            <h2 class="ez-toc-section" id="8-rina-its-gonna-be-long-weekend-next-week-what-is-your-plan-indra-there-will-be-family-gathering-sponsored-by-the-office%e2%80%8b">
+                            3. 8. Rina : It's gonna be long weekend next week, what is your plan? Indra : ... There will be family gathering Sponsored by the office​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>my plan is</strong></p><p><strong>Penjelasan:</strong></p><p><strong></strong></p><p>goodluck kk </p><br />
+                                            <h2 class="ez-toc-section" id="activity-reducing-adverblal-clauses-change-the-adverbial-clauses-in-these-sentences-into-adverbial-phrases-1-after-he-graduated-ngurah-rai-joined-the-dutch-sponsored-military-as-a-second-lieutena">
+                            4. Activity: Reducing Adverblal Clauses Change the adverbial clauses in these sentences into adverbial phrases! 1 ) After he graduated, Ngurah Rai joined the Dutch-sponsored military as a second lieutenant in Bali.  2 )  Because he wanted to prepare Hasanuddin to be the next king, Hasanuddin's father asked him to accompany him to some important meeting.3 )  Because she was part of the Javanese aristocracy, Kartini was allowed to attend a Dutch- language primary school.4 )  While Hatta studied in the Netherlands from 1922 to 1932, he was president of the Perhimpunan Indonesia. 5 ) After the Dutch was betrayed by Teuku Umar, the Dutch was angry and launched a massive operation to capture Teuku Umar and Cut Nyak Dhien.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. After gratuated, Ngurah Rai joined the Dutch-sponsored military as a second lieutenant in Bali.</p><p></p><p>2. Because of wanting to prepare Hasanuddin to be the next king, Hasanuddin's fsther asked him to accompany him to some important meeting.</p><p></p><p>3. Because of her part in the Javanese aristocracy, Kartini was allowed to attend a Dutch-language primary school.</p><p></p><p>4. While studying in the Netherlands from 1922 to 1932, he was president of the Perhimpunan Indonesia.</p><p></p><p>5. After betrayed by Teuku Umar, the Dutch was angry and launched a massive operation to capture Teuku Umar and Cut Nyak Dien.</p><p></p><p>Semoga bermanfaat. Maaf kalau ada yang salah. Jangan lupa follow dan jadikan Brainliest Answer. Terima kasih</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="in-india-thanksgiving-is-primarily-celebrated-in-the-state-of-goa-with-a-different-name-thanksgiving-is-popularly-known-as-ladin-ladainha-in-india-during-the-thanksgiving-ritual-people-thank-the-g">
+                            5. In india, thanksgiving is primarily celebrated in the state of Goa, with a different name.Thanksgiving is popularly known as Ladin ladainha in india. During the thanksgiving ritual, people thank the gods for all the material and spiritual benefits. the thanksgiving celebration is sponsored by a different person every year who seeks benefits, or has been lucky enough to have the gods special grace.
+christians start preparing for thanksgiving celebrations by purchasing wheat and grain, candles, wine and colored tinsel paper.
+a temporary platform/altar is constructed and decorated with flowers, vines and creepers. celebrations also include singing of hymns and prayers. the village local violinist or choirmaster conducts the entire show of singing litany.
+question :
+1. why is a person in india willing to sponsor the thanksgiving section ?
+2. what is the thanksgiving popular named in india ?
+3. that is the people doing during the thanksgiving ritual ?</h2><br />
+                        1.-<br />2.Ladin ladainha<br />3.people thank to the gods for all materials and spiritual benefits.<br />
+                                            <h2 class="ez-toc-section" id="complete-the-sentences-with-the-correct-form-of-the-verbs-in-brackets-2-if-jackie-go-on-the-sponsored-walk-next-week-ill-go-with-her">
+                            6. Complete the sentences with the correct form of the verbs in brackets 2. If Jackie ........(go) on the sponsored walk next week, I'll go with her </h2><br />
+                        conditional 1 :<br /><br />If Jackie <strong>goes</strong> on the sponsored walk next week, I'll go with her.If Jackie go on the sponsored walk next week, I'll go with her.<br /><br />Rumus conditional type 1:<br /><br />If + s + v1 , s + will + v1<br />
+                                            <h2 class="ez-toc-section" id="43-the-text-above-is-written-in-order-to-a-introduce-their-new-serviceb-inform-their-reservation-phonec-describe-their-service-to-peopled-persuade-people-to-use-their-service44-which-informat">
+                            7. 43. The text above is written in order to ...A. introduce their new serviceB. inform their reservation phoneC. describe their service to peopleD. persuade people to use their service44. Which information can make the readers become more interested?A. The fare is affordable.B. The capacity of the bus is big.C. Reservation can be done by phone.D. Each customer will get a sponsored backpack.45. The text above is intended for people who want to ... bus.A. transport inter-cities byB. have a city tour byC. travel abroad byD. buy a new ​</h2><br />
+                        <p>43. b. describe their service to people</p><p>44. a. the fare is affordable</p><p>45. b. have a city tour by</p><br />
+                                            <h2 class="ez-toc-section" id="how-many-sponsored-walk-in-philippinesa-175000-peopleb-77019-peoplec-more-than-175000-peopled-more-than-77019-people%e2%80%8b">
+                            8. How many sponsored walk in Philippines?A) 175,000 peopleB) 77,019 peopleC) More than 175,000 peopleD) More than 77,019 people​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D</p><p><strong>Penjelasan:</strong></p><p>I hope it's correct sorry if it's Wrong</p><br />
+                                            <h2 class="ez-toc-section" id="1-the-purpose-of-the-text-is-to-invite-youa-to-attend-mr-and-mrs-sembirings-marriageb-to-unite-alice-and-jeffry-ini-a-wedding-partyc-to-attend-alice-and-jeffrys-wedding-partyd-to-marry-with-mr">
+                            9. 1. the purpose of the text is to invite youa. to attend Mr and Mrs sembiring's marriageb. to unite Alice and Jeffry ini a wedding partyc. to attend Alice and jeffry's wedding partyd. to marry with Mr and Mrs sembiring2. which statement is TRUE based on text?a. the party Will be held on june13th,2008b. Jeffry Sitorus is Mr and Mrs Joseph sembiring's sonc. the party Will be sponsored by gajah wong restaurantd. Mr and Mrs sembiring Will celebrate their anniversary</h2><br />
+                        1. tujuan dari teks adalah untuk mengundang Anda. untuk menghadiri marriageb Mr dan Mrs sembiring. untuk menyatukan Alice dan Jeffry ini pesta pernikahan. untuk menghadiri pesta pernikahan Alice dan jeffry. menikah dengan Tuan dan Nyonya sembiring2. pernyataan mana yang BENAR berdasarkan teks? pesta Akan diadakan pada tanggal juni13th, 2008b. Jeffry Sitorus adalah sonc Tuan dan Nyonya Joseph sembiring. pesta akan disponsori oleh gajah wong restaurantd. Bapak dan Ibu sembiring akan merayakan ulang tahun mereka<br />
+                                            <h2 class="ez-toc-section" id="1-the-purpose-of-the-text-is-to-invite-youa-to-attend-mr-and-mrs-sembirings-marriageb-to-unite-alice-and-jeffry-ini-a-wedding-partyc-to-attend-alice-and-jeffrys-wedding-partyd-to-marry-with-mr">
+                            10. 1. the purpose of the text is to invite youa. to attend Mr and Mrs sembiring's marriageb. to unite Alice and Jeffry ini a wedding partyc. to attend Alice and jeffry's wedding partyd. to marry with Mr and Mrs sembiring2. which statement is TRUE based on text?a. the party Will be held on june13th,2008b. Jeffry Sitorus is Mr and Mrs Joseph sembiring's sonc. the party Will be sponsored by gajah wong restaurantd. Mr and Mrs sembiring Will celebrate their anniversary</h2><br />
+                        Invitation Letter<p>1. The purpose of the text is to invite you ....
+</p><p>=&gt; <strong>C. To attend Alice and Jeffry's wedding party  </strong></p><p>2. Which statement is TRUE based on text?
+</p><p>=&gt; <strong>A. The party will be held on June 13th, 2008
+</strong></p><p><strong></strong></p><p><strong>PEMBAHASAN:</strong></p><p>An invitation is a document written or printed or spoken words, conveying the message by which one is invited.</p><p>The social function of invitation letter
+</p><p>It is used to invite someone to come, to invite people to join, to ask someone to attend, and to ask people to take part in an occasion.  </p><p>The generic structure of invitation letter  </p>The first line is the name(s) of the person who invite(s)  The second line is the request for participation  The third line is the name of the person(s) invited  The fourth line is the occasion for invitation  The fifth line is the time and date of occasion  The sixth line is the place of occasion  The last line is the request for reply
+<p></p><p><strong>PELAJARI LEBIH LANJUT:  </strong></p><p>Materi tentang invitation letter https://brainly.co.id/tugas/8966726
+</p><p>Materi tentang invitation letter https://brainly.co.id/tugas/18347861
+</p><p>Materi tentang invitation letter https://brainly.co.id/tugas/410279
+</p><p>--------------------------------------------------  </p><p><strong>DETAIL JAWABAN:  </strong></p><p>Kelas : 11
+</p><p>Mata Pelajaran: bahasa Inggris  </p><p>Bab : 4
+</p><p>Kode : 11.5.4  </p><p>#AyoBelajar </p><br />
+                                            <h2 class="ez-toc-section" id="mapel-b-inggriskelas-xi-smatentang-reading-comprehensionanswer-these-questions-then-roleplay-an-interview-with-david1-what-was-the-sponsored-challenge-for2-what-did-david-have-to-do3-wha">
+                            11. Mapel: B. InggrisKelas: XI SMATentang: Reading ComprehensionAnswer These Questions, Then Roleplay An Interview With David!1.) What was the sponsored Challenge for?2.) What did David have to do?3.) What was the best part?4.) What was the worst part?5.) How much money did he raise?Tolong Bantu Dijawab Yang Benar Ya ^_^Tapi Jangan Jawaban Asal-Asalan GAK SUKA!!!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. cancer research</p><p>2. participating on travel challenge</p><p>3. the best part was cycling from florence to rome.</p><p>4. the worst part was the horse ride</p><p>5. £800</p><p></p><p><strong>Penjelasan:</strong></p><p> semoga membantu :)</p><p></p><p><strong>Jawaban:</strong></p> International Travel challenge The student had to complete a 1500 kilometer journey from the north to the south of Italy in less than fourteen days. The journey had to involve   six different means of transport, but no car, motorbike, boat, or plane  The best part was cycling from Florence to Rome. The worst part is was the horse ride. It was only his second time on a  horse!He raises $800<p><strong>Penjelasan:</strong></p><p><strong>Maaf klo salah, bagian ''What did David have to do?'' </strong></p><p><strong>Bisa aja jawabannya itu</strong></p><p><strong>''The challenge, for sixteen to twenty-year-old students, was to raise money for cancer research.''</strong></p><p><strong>Maaf bgt klo aku salah</strong></p><br />
+                                            <h2 class="ez-toc-section" id="activity-reducing-advenbial-clauses-1-after-he-graduatedngurah-rai-joined-the-dutch-sponsored-milutary-as-a-second-lieutenant-in-bali-2-because-he-wanted-to-prepare-hasanuddin-to-be-the-next-king">
+                            12. Activity : reducing advenbial clauses 1. After he graduated,Ngurah Rai joined the dutch-sponsored milutary as a second lieutenant in Bali 2. Because he wanted to prepare Hasanuddin to be the next king, Hasanuddin father Askes him</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>Kegiatan: mengurangi klausa advenbial 1. Setelah lulus, Ngurah Rai bergabung dengan militer Belanda yang disponsori sebagai letnan dua di Bali 2. Karena ia ingin mempersiapkan Hasanuddin menjadi raja berikutnya, ayah Hasanuddin memintanya.</p><br />
+                                            <h2 class="ez-toc-section" id="avalon-high-schoolstreet-art-fairactual-demonstrations%e2%80%a2-potters-wheel%e2%80%a2-silk-screen%e2%80%a2-weaving%e2%80%a2-painting%e2%80%a2-drawingin-the-street-on-avalon-highwayfrom-avalon-high">
+                            13. Avalon High SchoolStreet Art FairActual Demonstrations• Potter's Wheel• Silk Screen• Weaving• Painting• DrawingIn the street on AVALON HIGHWAY(from Avalon High School to Avalon Park)Saturday-Sunday7 a.m. to 10 a.m.In conjunction with Bargain Days, you can'tafford to miss this combination of a uniqueStreet Act Fair and Superb Bargains in theAvalon Highway stores.Sponsored by Candy Art Association and Art StoresAdapted from: https:://aadl. orgQuestions:1. What does the ad promote?2. Who are the committee of this event?3. What can the target audience do in the event?4. Which part shows persuasion?5. Will you restate that this event is free? Why do you think so?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1 Street Art Fair </p><p></p><p>4 In conjunction with Bargain Days, you can't</p><p>afford to miss this combination of a unique</p><p>Street Act Fair and Superb Bargains in the</p><p>Avalon Highway stores.</p><br />
+                                            <h2 class="ez-toc-section" id="18-lindra-do-you-have-any-plans-for-this-holidaycarlathere-will-be-a-family-outing-sponsored-by-my-fathers-companya-i-have-gone-by-planeb-i-am-going-to-go-to-bandungc-i-will-stay-in-a-cotiaged">
+                            14. 18. Lindra : Do you have any plans for this holiday?Carla:There will be a family outing sponsored by my father's companyA I have gone by planeB. I am going to go to BandungC. I will stay in a cotiageD. I have a barbeque partyinE You do for funmy house​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>B. i am going to go to Bandung</p><br />
+                                            <h2 class="ez-toc-section" id="tolong-ka-deadline-iniasri%c2%a0%c2%a0%c2%a0%c2%a0%c2%a0-%c2%a0-it-will-be-a-long-weekend-next-week-what-is-your-plan-deny%c2%a0%c2%a0%c2%a0-%c2%a0-there-will-be-a-family-outing-sponsor">
+                            15. tolong ka deadline ini:'Asri      :  It will be a long weekend next week. What is your plan ?Deny    :  ........ There will be a family outing sponsored by the officePilih salah satu:a. We stayed in a cottageb. We have gone by a tourist busc. We have a barbecued. We go to the beache. We are going to go to Anyer​</h2><br />
+                        <p>Jawaban:</p><p></p><p>e. We are going to go to Anyer</p><p></p><p>Penjelasan:</p><p></p><p>Jawaban:</p><p>Asri: It will be a long weekend next week. What is your plan?</p><p>Deny: ........ there will be a family outing sponsored by the office</p><p>*e. We are going to go to Anyer. </p><p>Pembahasan:</p><p>Asri: Ini akan menjadi akhir pekan yang panjang minggu depan. Apa rencanamu? </p><p>Deny: ........ akan ada tamasya keluarga yang disponsori oleh kantor</p><p>a. Kami tinggal di sebuah pondok. </p><p>b. Kami naik bus turis. </p><p>c. Kami memiliki barbekyu. </p><p>d. Kita pergi ke pantai. </p><p>e. Kami akan pergi ke Anyer✅</p><p>Penjelasan:</p><p>Anyer is the name of a sub-district in Serang City, Banten Province, Indonesia. This district has a beach that is very well known as a tourism area.</p><p></p><p>And Deny plan he are going to go to Anyer for a long weekend next week. </p><p></p><p></p><p>Semoga membantu:-) </p><br />
+                                            <h2 class="ez-toc-section" id="read-the-following-text-to-answer-questions-number-12-and-13-mr-and-mrs-rob-driehuis-invite-you-to-sharethe-joy-of-the-marriage-uniting-their-daughterana-driehuis-to-silvio-stainer-the-thirthteenth">
+                            16. READ THE FOLLOWING TEXT TO ANSWER QUESTIONS NUMBER 12 AND 13.Mr and Mrs. Rob Driehuis invite you to sharethe joy of the marriage uniting their daughterAna Driehuis to Silvio Stainer, the thirthteenth ofJune two thousand and twenty At three o'clockin the afternoon Jowo Londo Restaurant Jl.Kauman Yogyakarta12. The purpose of the text is to invite you....A. to attend Mr and Mrs Rob's marriage.B.to unite Ana an Silvio in a wedding party.C.to attend Ana and Silvio's wedding party.D.to marry with Mr and Mrs. Rob.13. Which statement is TRUE based on text?A The party will be held on june 13th, 2020.B.Silvio Stainer is Mr. and Mrs. Rob Driehuis's sonC.The party will be sponsored by JowoLondo Restaurant.D.Mr. and Mrs. Rob Driehuis will celebratetheir anniversary​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> </p><p>12. C</p><p>13. A</p><p></p><p>sorry if i am wrong in answer^^</p><p><strong>Jawaban:</strong></p><p>12.c</p><p>13.a</p><p></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="quiz-19by-texbannastexquiz-terakhir-kembali-setelah-lebaran-mengapakarena-akan-menyambut-lebaran1-banna-membelikan-same-100-kardus-baju-lebaran-saat-pembayaran-banna-membayar-1-000-000">
+                            17. Quiz #19By : [tex]BannaS[/tex]Quiz Terakhir ( Kembali setelah lebaran )Mengapa?Karena, akan menyambut lebaran1. Banna membelikan Same 100 kardus baju lebaran. Saat pembayaran, Banna membayar 1.000.000.000 Rupiah. 1 Kardus seharga 100.000 rupiah. Berapa total kembalian uang banna dan berapa total pembayarannya?2. Banna membelikan Iqbal kue lebaran. Banna membelikan 60 toples. Banna membayar 500.000 Rupiah. Sedangkan, 1 toples seharga 15.000 Rupiah. Berapa uang kembaliannya uang banna dan berapa total pembayarannya?____________#SelamatHariRayaIdulFitri#LiburQuizSponsored by :@BannaS@SameShark948@Iqbal19135See you next party...Bye !​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. a, uang kembalian nya Banna : Rp. 990.000.000</p><p>   b, total pembayaran : Rp. 10.000.000</p><p>2.  maaf itu yang buat soal 500.000 atau 5.000.000, aku pakai yang 5 juta aja ya soalnya kalau uangnya 5 ratus ribu itu kurang bukan kembalian</p><p>  a, uang kembalian : 4.100.000</p><p>  b, total pembayaran : 900.000</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantu</p><p>jadikan jawaban terbaik ya </p><br />
+                                            <h2 class="ez-toc-section" id="quiz%e2%98%95________________1-sebutkan-macam-macam-sudut2-suatu-kotak-berbentuk-kubus-memiliki-volume-3-375-berapakah-sisi-kubus-tersebut-3-suatu-tabung-yang-memiliki-diameter-14-cm-dan-ting">
+                            18. Quiz☕________________1.) Sebutkan macam-macam sudut2.) Suatu kotak berbentuk kubus memiliki volume 3.375, berapakah Sisi kubus tersebut? 3.) Suatu tabung yang memiliki diameter 14 cm, dan tingginya 8 cm, berapakah volume tabung tersebut? 4.) 1 dollar = .... rupiah________________________Bonus:– Apakah azka cantik?Sponsored by:–Team yang sangad akrab:T​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1) macam-macam sudut:</p><p>    &gt; sudut lancip</p><p>    &gt; sudut siku-siku</p><p>    &gt; sudut tumpul</p><p>    &gt; sudut lurus</p><p>    &gt; sudut refleksi</p><p>    &gt; sudut putaran penuh</p><p>2) volume kubus = 3375,</p><p>    panjang sisi kubus = ³√3375 = 15</p><p>3) tabung, d = 14cm =&gt; r= 7cm,  t=8cm</p><p>     Volume = 22/7×7×7×8 = 1.232 cm³</p><p>4)  1 dollar (USD) = Rp. 14.131,50</p><p>     (kurs tgl 8 Mei 2021)</p><p>semoga membantu</p><p><strong>Jawaban:</strong></p>nomor 1.sudut nol derajat adalah sudut yang besarnya 0⁰ sudut lancip adalah sudut yang besarnya antara 0⁰ dan 90⁰sudut siku-siku adalah sudut yang besarnya 90⁰sudut tumpul adalah sudut yang besarnya antara 90⁰ dan 180⁰sudut lurus adalah sudut yang besarnya 180⁰sudut refleks adalah sudut yang besarnya antara 180⁰ dan 360⁰sudut penuh adalah sudut yang besarnya 360⁰<p>----------------</p>nomor 2<p>rumus volume kubus = s³</p><p>untuk soal di atas dicari s</p><p>s=³√3375 </p>s = 15 <p>-----------------</p>nomor 3<p>radius alas tabung = 7 cm</p><p>tinggi tabung=8 cm</p><p></p><p>rumus volume tabung=πr²t</p><p>untuk soal di atas</p><p>v=22/7*7*7*8</p>v=1232 cm³<p>-----------------</p><p>nomor 4</p><p>menurut bloomberg dot com, harga per 7 Mei 2021 (Sabtu dan Minggu tutup) adalah</p>1 USD = 14.285 IDR <p>-----------------</p><p>semangat belajar...</p><p>semoga bermanfaat....</p><p>aamiin.....</p><br />
+                                            <h2 class="ez-toc-section" id="sutomo-or-bung-tomo-was-born-on-october-3-1920-in-kampung-blauran-in-the-center-of-surabaya-atthe-age-of-12-sutomo-left-his-school-at-mulo-to-find-a-job-due-to-economy-problem-at-age-17-he-beca">
+                            19. Sutomo or bung tomo was born on october 3, 1920, in kampung blauran, in the center of surabaya. atthe age of 12, sutomo left his school at mulo to find a job due to economy problem. at age 17, he became famous when he managed to become the second person in the dutch east indies to reach garuda scout rank. during the japanese occupation, sutomo was chosen in 1944 as a member of the japanese-sponsored gerakan rakyat baru (new people’s movement). while in october and november 1945, he became on of the leaders of the people moving and uplifting surabaya which was under attack by nica. sutomo particularly remembered for opening calls on the radio broadcasts were filled with emotion.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Sutomo atau bung tomo lahir pada tanggal 3 oktober 1920, di kampung blauran, surabaya tengah. pada usia 12 tahun, sutomo meninggalkan sekolahnya di mulo untuk mencari pekerjaan karena masalah ekonomi. pada usia 17, ia menjadi terkenal ketika ia berhasil menjadi orang kedua di hindia belanda yang mencapai pangkat pramuka garuda. selama pendudukan jepang, sutomo dipilih pada tahun 1944 sebagai anggota gerakan rakyat baru (gerakan rakyat baru) yang disponsori jepang. sedangkan pada oktober dan november 1945, ia menjadi salah satu pemimpin yang menggerakkan dan membangkitkan semangat surabaya yang diserang oleh nica. Sutomo terutama diingat untuk membuka panggilan di siaran radio yang penuh dengan emosi.</p><p></p><p><strong>Penjelasan:</strong></p><p>moga bener yaa</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="with-the-end-of-military-operation-to-eradicate-the-g-30s-rebellion-by-the-indonesian-communist-party-in-1965-the-political-issue-in-indonesia-was-also-resolved-becauseafter-the-g-30-s-rebellion-by">
+                            20. With the end of military operation to eradicate the G 30S rebellion by the Indonesian Communist Party in 1965, the political issue in Indonesia was also resolved.
+BECAUSE
+After the G 30 S rebellion by the Indonesian Communist Party, the students movements in Jakarta formed organizations which were sponsored by the government through the Ministry of Higher Education and Knowledge.
+The answer is...
+(A) If the statement is correct, the reason is correct, and both show a cause and effect relationship.
+(B) If the statement is correct, the reason is correct, but both do not show a cause and effect relationship.
+(C) If the statement is correct and the reason is incorrect.
+(D) If the statement is incorrect and the reason is correct. 
+(E) If the statement and the reason are both incorrect.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>B. If the statement is correct, the reason is correct, and both show a cause and effect relationship.</p><p><strong>Penjelasan:</strong></p><p>Why B ? Becaused After the G 30 S rebellion by the Indonesian Communist Party, the students movements in Jakarta formed organizations which were sponsored by the government through the Ministry of Higher Education and Knowledge.</p><p></p><p></p><p></p><p>#FOLLOW</p><p><strong>Jawaban:</strong></p><p>(B) If the statement is correct, the reason is correct, but both do not show a cause and effect relationship.</p><p><strong>Penjelasan:</strong></p><p>Dengan berakhirnya operasi militer untuk memberantas pemberontakan G 30S oleh Partai Komunis Indonesia pada tahun 1965, masalah politik di Indonesia juga terselesaikan.</p><p> KARENA</p><p> Setelah pemberontakan G 30 S oleh Partai Komunis Indonesia, gerakan mahasiswa di Jakarta membentuk organisasi yang disponsori oleh pemerintah melalui Kementerian Pendidikan Tinggi dan Pengetahuan.</p><br />
+                                            <h2 class="ez-toc-section" id="17-linda-do-you-have-any-plans-this-holiday-carla-there-will-be-a-family-outing-sponsored-by-my-dads-company-a-i-have-gone-by-plane-d-i-am-going-to-go-to-bandung-b-i-will-stay-i">
+                            21. 17. Linda: Do you have any plans this holiday? Carla :........... There will be a family outing sponsored by my dad's company. A. I have gone by plane. D. I am going to go to Bandung, B. I will stay in a cottage. E. I have a barbeque party in my house C. My family are at home. 1​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D. I'm going to go to Bandung</p><br />
+                                            <h2 class="ez-toc-section" id="bab-activity-reducing-adverbial-clauseschange-the-adverbial-clauses-in-these-sentences-into-adverbial-phrases1-after-he-graduated-ngurah-rai-joined-the-dutch-sponsored-military-as-a-second-lieuten">
+                            22. Bab activity: reducing adverbial clauseschange the adverbial clauses in these sentences into adverbial phrases!1. after he graduated, ngurah rai joined the dutch-sponsored military as a second lieutenant in bali.2. because he wanted to prepare hasanuddin to be the next king. hasanuddin's father askedhim to accompany him to some important meeting.3. because she was part of the javanese aristocracy, kartini was allowed to attend a dutch-language primary school.4. while hatta studied in the netherlands from 1922 to 1932, he was president of the perhimpunan indonesia. 5. after the dutch was betrayed by teuku umar, the dutch was angry and launched a massive operation to capture teuku umar and cut nyak dhien. pelajaran kelas 10 semester 2​</h2><br />
+                        <p>1. After graduating, Ngurah Rai joined the Dutch-sponsored military as a second lieutenant in Bali.</p><p>2. Wanting to prepare Hasanuddin to be the next king, Hasanuddin's father asked him to accompany him to some important meeting.</p><p>3. Part of the Javanese aristocracy, Kartini was allowed to attend a Dutch-language primary school.</p><p>4. While studying in the Netherlands from 1922 to 1932, Hatta was president of the Perhimpunan Indonesia. </p><p>5. After betrayed by Teuku Umar, the Dutch was angry and launched a massive operation to capture Teuku Umar and Cut Nyak Dhien. </p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tolong-tulis-nama-teks-nya-apa-dan-tulis-alasannya-knp-km-pilih-jwbn-itu43-the-text-above-is-written-in-order-to-a-introduce-their-new-serviceb-inform-their-reservation-ohonec-describe-their-s">
+                            23. Tolong tulis nama teks nya apa dan tulis alasannya knp km pilih jwbn itu!43. The text above is written in order to....A. Introduce their new serviceB. Inform their reservation ohoneC. Describe their service to peopleD. Persuade people to use their service44. Which information can make the readers become more interested?A. The fare is affordableB. The capacity of the bus is bigC. Reservation can be done by phoneD. Each customer will get a sponsored backpack45. The text above is intended for people who want to...busA. Transport inter-cities nyB. Have a city tour byC. Travel abroad byD. Buy a new</h2><br />
+                        Pembahasan<br /><p>39. The text highlights ….</p><p>Jawaban: <strong>A. the Sioux tribes</strong></p><br /><p>Penjelasan: Pada paragraf pertama diawali dengan penjelasan tentang suku Sioux, oleh karena itu topik utamanya adalah tentang the Sioux tribes.</p><br /><p>40. What are the Lakota Sioux famous as?</p><p>Jawaban: <strong>B. Hunters</strong></p><br /><p>Penjelasan: Seperti yang dijelaskan pada paragraf kedua “The Lakota, also called Teton…..known for their hunting and warrior culture.”</p><br /><p>41. Where do the Yanktonai Dakota Sioux live?</p><p>Jawaban: <strong>D. Minnesota</strong></p><br /><p>Penjelasan: Seperti yang dikutip dari “The Yankton and Yanktonai Dakota…..reside in the Minnesota River area.”</p><br /><p>42. “The Sioux comprise three major divisions…”(paragraph 1)</p><p>The underlined word probably means…</p><p>Jawaban: <strong>D. involve</strong></p><br /><p>Penjelasan: Comprise memiliki definisi consist of; be made up of. Sehingga arti yang paling mendekati adalah involve (mencakup)</p><br /><p>43. The text above is written in order to…</p><p>Jawaban: <strong>D. Persuade people to use their service</strong></p><br /><p>Penjelasan: Pada brosur Atlantic City bus trip bertujuan untuk menarik minat konsumen agar menggun akan jasa mereka.</p><br /><p>44. Which information can make the reader become more interested?</p><p>Jawaban: <strong>A. The fare is affordable</strong></p><br /><p>Penjelasan: Informasi yang membuat orang-orang tertarik adalah harga yang ditawarkan terjangkau.</p><br /><p>45. The text above is intended for people who want to … bus</p><p>Jawaban: <strong>B. Have a city tour by</strong></p><br /><p>Penjelasan: Atlantic City bus trip merupakan city tur menggunakan bus, sehingga jawaban yang tepat adalah B.</p>Pelajari lebih lanjut soal-soal yang berhubungan tentang understanding text:<p>https://brainly.co.id/tugas/8628638</p><p>https://brainly.co.id/tugas/8459833</p><p>https://brainly.co.id/tugas/18224543 </p>___________________________Detil Jawaban<p><strong>Kelas : </strong>SMA kelas X</p><p><strong>Mapel : </strong>Bahasa Inggris</p><p><strong>Kategori : </strong>Understanding the context (from the song/ text)</p><p><strong>Kata kunci : </strong>Multiple choice, Descriptive text, Brochure, Advertisment</p><p><strong>Kode : </strong>10.5.15</p><br />
+                                            <h2 class="ez-toc-section" id="linda-do-you-have-any-plans-this-holiday-carla-there-will-be-a-family-outing-sponsored-by-my-dads-company-tolong-isi-yg-kosongnya-%e2%80%8b">
+                            24. Linda : Do you have any plans this holiday ? Carla : .......... There will be a family outing sponsored by my dad's company.tolong isi yg kosongnya ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>Carla :</strong><strong> </strong>"<strong>Yes, i do</strong>. There will be a family outing sponsored by my dad's company."</p><p><strong>Jawaban:</strong></p><p>Yes I do! There will be a family outing sponsored by my dad's company</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="in-the-afternoon-jowo-londo-restaurant-ji-kauman-yogyakartav12-the-purpose-of-the-text-is-to-invite-you-17-to-attend-mr-and-mrs-robs-marriageb-to-unite-ana-an-silvio-in-a-wedding-partyto-atte">
+                            25. in the afternoon Jowo Londo Restaurant JI.Kauman YogyakartaV12. The purpose of the text is to invite you ..... 17.to attend Mr and Mrs Rob's marriageb. to unite Ana an Silvio in a wedding partyto attend Ana and Silvio's wedding partyd. to marry with Mr and Mrs. Rob13. Which statement is TRUE based on text?a. The party will be held on june 13th, 2020.b. Silvio Stainer is Mr. and Mrs. Rob 18. TDriehuis's son.The party will be sponsored by JowoDLondo Restaurant.d. Mr. and Mrs. Rob Driehuis will celebrateabeC.atheirbtolong jawab no 11-30big foint jangan ngasal pliss kecuali yg nama nya osama dia baik soal nya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>MAAF TOLONG JAWAB IN DENGAN BENAR KASIAN ORANG INI PLISSS BANGAET KALO PERLU TUTOR NYA BANTUIN KASIAN</p><br />
+                                            <h2 class="ez-toc-section" id="find-out-about-a-recent-space-mission-gather-information-at-the-library-orfrom-the-internet-take-notes-below-write-a-paragraph-about-it-on-a-separatepiece-of-paper-include-this-information1-what">
+                            26. Find out about a recent space mission Gather information at the library orfrom the Internet. Take notes below. Write a paragraph about it on a separatepiece of paper. Include this information:1. What: What country sponsored the mission2. Whe: Who were the astronauts?3. Where: Where did the spacecraft travel?4. When: When was the mission?5. How: How will the mission help us understand space better?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. america</p><p>2. idk</p><p>3. moon</p><p>4. 1996</p><p>5. adam wingard</p><p><strong>Penjelasan:</strong></p><p>?</p><br />
+                                            <h2 class="ez-toc-section" id="rewrite-the-following-sentences-and-arrange-into-a-good-paragraph-1-after-independence-dewantara-was-appointed-as-minister-of-education-and-culture-in-the-first-cabinet-of-soekarno-2-during-the">
+                            27. Rewrite the following sentences and arrange into a good paragraph !
+1. After independence, Dewantara was appointed as Minister of Education and Culture in the first cabinet of Soekarno.
+2. During the Japanese period ( 1942 – 1945)  Dewantara,Soekarno,Muhammad Hatta and K.H. Mas Mansur were appointed as leaders of the People Power Center ( Pusat Tenaga Rakyat) 
+	3. A Japanesed sponsored umbrella organization for all nationalist organizations on Java and Madura</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>2-3-1</p><p></p><p>thank you</p><p>xoxoxooxozozoozozo</p><br />
+                                            <h2 class="ez-toc-section" id="this-text-for-questions1-to-5famous-italian-explorerschristopher-columbusfind-newworld-americaon-expeditionsponsored-by-the-kingferdinand-from-spainat-1492-christophercolumbus-was-born-in1451-in-it">
+                            28. This text for questions1 to 5Famous Italian ExplorersChristopher Columbusfind "newworld "Americaon expeditionsponsored by the kingFerdinand from Spainat 1492. ChristopherColumbus was born in1451 in Italy. His fatheris a weaver, but otherfamily membersinvolved in trade byship. He began to leaveon a trade trip withwhen he was aloneteenager, and startlearn about life at seaand how to sail the ship.1. Why Christopher?famous for Columbia?2. What is the main idea?the paragraph above?3. "His father is a personWeaver, but otherfamily member isinvolved in trade by aship ". What can you concludefrom this information?4. What will happen ifno familymembers involved intrade by boat?5. How is ChristopherColumbus learned aboutlife at sea and howsailing ship​</h2><br />
+                        Christoper Colombus<br /><br />1. Christoper is famous for Columbia because he could find a new world called America when he was on expedition.<br />2. The main idea of the paragraph is: Christopher Colombus found America<br />3. Weaver = penenun, dan keluarganya yang lain adalah orang yang terlibat dalam perdagangan kapal.<br /><br />What I can conclude is that Christopher knew about ships and ship's trade because of his other family member.<br /><br />4. Maybe Christopher will never understand about ships and will never try to around the world by his ship, so he will not find America.<br /><br />5. He learned it when he was alone on teenager when he left on a trade trip.<br />
+                                            <h2 class="ez-toc-section" id="pertanyaan-mingguansoal-pembuatan-film-tidak-terlepas-dari-peran-sutradara-kemukakan-pendapatmu-apakah-sebuah-film-yang-diminati-penonton-tergantung-pada-sutradara-ataukah-pemainnya%e2%86%93">
+                            29. "PERTANYAAN MINGGUAN"Soal: Pembuatan film tidak terlepas dari peran sutradara. Kemukakan pendapatmu, apakah sebuah film yang diminati penonton tergantung pada sutradara ataukah pemainnya?↓↓↓Ketentuan↓↓↓Yang jawab ngasal auto REPORT (dilaporkan)Dimulai kurang lebih pukul →19.30← SETIAP HARI MINGGUTingkat: SMPMapel: AcakPoints: 10 - 50 (tergantung kesulitan soal)Sponsored by: PelajarRemaja22​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Tergantung pada sutradara.</p><p><strong>Penjelasan:</strong></p><p>Hal ini dikarenakan sutradara memiliki peran yang sangat penting mulai dari proses pra produksi, produksi, hingga pasca produksi.</p><p></p><p><strong>Jadikan </strong><strong>jawaban </strong><strong>terbaik </strong></p><br />
+                                            <h2 class="ez-toc-section" id="11-john-it-will-be-along-next-week-what-is-your-plan-karen-%e2%80%a6-there-will-be-a-family-outing-sponsored-by-the-office">
+                            30. 11.john: it will be along next week. what is your plan? karen: …. there will be a family outing sponsored by the office. *</h2><br />
+                        <p><strong>Answers:</strong></p><p></p><p>On the next week</p><br />
+                                            <h2 class="ez-toc-section" id="which-statement-is-true-based-on-textread-the-following-text-to-answer-questions-number-11-and-12-mr-and-mrs-joseph-sembiring-invite-you-to-share-the-joy-of-the-marriage-uniting-their-daughter-alic">
+                            31. Which statement is TRUE based on text?Read the following text to answer questions number 11 and 12. Mr and Mrs. Joseph Sembiring Invite you to share the joy of the marriage uniting their daughter Alice Sembiring To Jeffry Sitorus Friday, the thirthteenth of June two thousand and eight At three o'clock in the afternoon Gajah Wong Restaurant JI. Affandi Yogyakarta The purpose of the text is to invite youa. The party will be held on june 13th, 2008b. Jeffry Sitorus is Mr. and Mrs. Joseph Sembiring's sonc. The party will be sponsored by Gajah Wong Restaurantd. Mr. and Mrs. Joseph Sembiring will celebrate their anniversary​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a. true</p><p>b. false</p><p>c. false</p><p>d. false</p>a. True.<br />b. False.<br />c. True.<br />d. False.<br />
+                                            <h2 class="ez-toc-section" id="read-the-following-text-to-answer-questions-number-1-and-2-mr-and-mrs-joseph-sembiring-invite-you-to-share-the-joy-of-the-marriage-uniting-their-daughter-alice-sembiring-to-jeffry-sitorus-friday">
+                            32. read the following text to answer questions number 1 and 2      Mr and Mrs.Joseph Sembiring invite you to share the Joy of the marriage uniting their daughter Alice Sembiring to Jeffry Sitorus Friday the thirthteenth of june two thousand and right at ther o' clock in the afternoon Gajah Wong Restaurant JL.Afandi Yogyakarta1.The purpose of the text is to invite youA.To attend Mr and Mrs Sembiring's marriageB.To unite Alice an Jeffry in a wedding partyC.To attend Alice and jeffry's wedding partyD.To marry with Mr and Mrs Sembiring2.Which statement is True based on text?A.The party will be held on June 13th,2008B.Jeffry Sitorus is Mr.and Mrs.Joseph Sembiring's sonC.The party will be sponsored by gajah wong RestaurantD.Mr.and Mrs.Joseph Sembiring Will celebrate their anniversary​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.The purpose of the text is to invite you </p><p>C.To attend Alice and jeffry's wedding party</p><p>2.Which statement is True based on text?</p><p>A.The party will be held on June 13th,2008</p><p><strong>Penjelasan:</strong></p><p>1. Tujuan teks tersebut adalah mengundang kamu .....</p><p>C. untuk datang ke acara pernikahan Alice dan Jeffry</p><p>2. Pernyataan yang benar berdasarkan teks tersebut adalah .....</p><p>A. pesta akan diselenggarakan pada tanggal 13 juni 2008</p><p></p><p>semoga membantu dan jangan lupa unutk membuat jawaban ini jawaban terbaik :)</p><br />
+                                            <h2 class="ez-toc-section" id="iklan-berbentuk-banner-yang-kemunculannya-pada-website-atau-inventory-yang-bekerjasama-dengan-google-merupakan-jenis-google-ads-adalah-a-search-engine-marketing-sem-b-google-display-netw">
+                            33. Iklan berbentuk banner yang kemunculannya pada website atau inventory yang bekerjasama dengan google merupakan jenis google ads adalah???... A. Search engine marketing ( SEM).. B.. Google display network ( GDN).. C. Gmail Sponsored promotion (GSP)... D. Benner ads.. E. Youtube ads.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C. Gmail Sponsored promotion (GSP)</p><br />
+                                            <h2 class="ez-toc-section" id="quiz-midnightby-texbannastex1-aleyazz-sedang-membuat-kue-membuat-100-potong-kue-dan-di-jual-per-potong-7-000-rupiah-dan-di-diskon-50-dari-harga-sebelumnya-berapa-penghasilan-kue-yang-dijua">
+                            34. Quiz MidnightBy : [tex]BannaS[/tex]1. Aleyazz sedang membuat kue. Membuat 100 potong kue. Dan di jual per potong 7.000 Rupiah. Dan di diskon 50% dari harga sebelumnya. Berapa penghasilan kue yang dijual oleh Aleyazz2. Banna dan Iqbal sedang membeli sebuah meja dan kursi. Harga meja adalah 200.000, dan harga kursi adalah 150.000 Rupiah. Dan semua produk di diskon 54% dari harga sebelumnya. Berapa yang akan mereka bayar?3. Same sedang membeli sepatu baru. Sepatu tersebut di jual dengan harga 340.000 Rupiah. Dia membeli sepatu tersebut dan menjualnya kembali dengan harga 400.000 Rupiah. Berapa untung dan rugi nya Same?4. Stingray sedang membelikan baju untuk Same❤. Dan diharga dengan 200.000 Per pasang nya. Dan di diskon 30% Dari harga sebelumnya. Berapa harga baju tersebut sekarang?10 Poinz saja :vIngat !Peraturan :Pake penjelasan ✔️Pakai cara ✔️Copas ❌Google ❌Paste ❌Ngasal ❌Bahasa alien (pqbdyase) ❌Cara sendiri ✔️Nb : Kalau tidak penjelasan, maka akan langsung direport ! Quiz kemarin, banyak yang saya report akibat tidak ada penjelasan ! Jadi, harap berhati hati !Sponsored by :@Aleyazz0721@BannaS@iqbal16135@SameShark948@StingrayDach~❤​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>1. Rp 350.000</p><p>2. Rp. 161.000</p><p>3. Rp 60.000 / 17,6%</p><p>4. Rp 140.000</p><p></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1. Aleyazz </p><p>Dik : terdapat 100 potong kue, dijual per potong 7000 dan didiskon 50% dari harga sebelumnya. </p><p></p><p>Dit:</p><p>total penghasilan = 100 x (50% x 7.000)</p><p>= 100 x 3.500</p><p><strong>= 350.000</strong></p><p></p><p>2. Banna dan Iqbal</p><p>Dik : </p><p>harga meja = 200.000</p><p>harga kursi = 150.000</p><p>Seluruh produk didiskon 54% dari harga sebelumnya. </p><p>Dit: </p><p>Harga yang dibayar adalah 100% - 54% = 46% </p><p>Harga = 46% x (200.000 + 150.000)</p><p>= 46% x (350.000)</p><p>= 46 x 3500</p><p><strong>= 161.000</strong></p><p></p><p>3. Same</p><p>Dik: </p><p>Harga sepatu asal = 340.000</p><p>Harga sepatu dijual ulang = 400.000</p><p>Dit: </p><p>Berapa untung/rugi? </p><p>Karena harga sepatu dijual ulang &gt; sepatu asal, maka Same mendapatkan untung sebesar 400.000-340.000 =<strong> 60.000</strong> rupiah</p><p>atau sebesar 60.000/340.000 x 100% =<strong> 17,6%</strong></p><p></p><p>4. Stingray</p><p>Dik: </p><p>Harga baju = 200.000 per pasang</p><p>Didiskon 30%</p><p>Dit: </p><p>harga baju sekarang. </p><p>Persentase harga baju adalah 100%-30% = 70%</p><p>Sehingga Harga baju sekarang = 70% x 200.000 = 70 x 2000 = <strong>140.000 </strong>rupiah</p><br />
+                                            <h2 class="ez-toc-section" id="iklan-berbentuk-banner-yang-kemunculannya-pada-website2-atau-inventory-yang-bekerjasama-dengan-google-merupakan-jenis-google-ada-a-search-engin-marketing-semb-google-display-network-gdnc-gmai">
+                            35. Iklan berbentuk banner yang kemunculannya pada website2 atau inventory yang bekerjasama dengan google merupakan jenis google ada ?
+A.Search Engin Marketing (SEM)
+B.Google Display Network ( GDN)
+C.Gmail Sponsored Promotion (GSP)
+D.Banner ads
+C.YouTube ads</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>D</strong><strong>.</strong><strong>Banner</strong><strong> </strong><strong>ads</strong></p><p><strong>Penjelasan:</strong></p><p>karena banner ads adalah sebuah iklan banner</p><p><strong>m</strong><strong>a</strong><strong>a</strong><strong>f</strong><strong> </strong><strong>k</strong><strong>a</strong><strong>l</strong><strong>o</strong><strong> </strong><strong>s</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>h</strong></p><br />
+                                            <h2 class="ez-toc-section" id="salah-satu-fitur-facbook-yang-betujuan-agar-pemasaran-dapat-menembus-pasar-yang-lebih-besar-dapat-terhubung-dengan-lebih-dari-500-jutu-konsumen-potensial-yaitu-a-facebook-pageb-iklan-social-fac">
+                            36. salah satu fitur facbook yang betujuan agar pemasaran dapat menembus pasar yang lebih besar, dapat terhubung dengan lebih dari 500 jutu konsumen potensial yaitu...
+a. Facebook page
+b. Iklan social facebook
+c. Sponsored stories
+d. Facebook conner
+e. Marketplace</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>e.  Marketplace</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="arrange-the-jumbled-words-into-meaningful-passive-sentences-1-out-by-the-referee-was-the-player-sent2-been-the-committee-has-the-match-by-prepared3-in-was-the-stadium-1">
+                            37. arrange the jumbled words into meaningful passive sentences.
+1. out - by - the referee - was - the player - sent
+2. been - the committee - has - the match - by - prepared
+3. in - was - the stadium - 1960 - built
+4. switched - the flag - by - the linesman - is
+5. by - the tickets - ordered - were - the supporters
+6. cooked - a - this - is - by - cook - food - professional
+7. the match - be - a - station - by - broadcasted - private - TV - will
+8. the  - is - league - by - indonesian - football - PT. Djarum - sponsored
+9. the supporters - is - by - crowded - of - the hall - the two teams
+10. thi book - Quadra - by - is - published</h2><br />
+                        1.The player was sent out by the referee<br />2.The match has been prepared by the committee<br />3.The stadium was built in 1960<br />4.The flag is switched by the linesman<br />5.The tickets were ordered by thr supporters<br />6.This food is cooked by a professional cook &lt;-(ga yakin sih)<br />7.The match will be broadcasted by a TV private station<br />8.The Indonesian Football League is sponsored by PT. Djarum<br />9.The two teams of the hall is crowded by the supporters<br />10.This book is published by Quadra<br />.<br />Correct Me If I Wrong ✌ hehe<br />
+                                            <h2 class="ez-toc-section" id="sutomo-or-bung-tomo-was-born-on-october-3-1920-in-kampung-blauran-in-the-center-of-surabaya-at-the-age-of-12-sutomo-left-his-school-at-mulo-to-find-a-job-due-to-economy-problem-at-age-17-he-bec">
+                            38. Sutomo or Bung Tomo was born on October 3, 1920, in Kampung Blauran, in the center of Surabaya. At the age of 12, Sutomo left his school at MULO to find a job due to economy problem. At age 17, he became famous when he managed to become the second person in the Dutch East Indies to reach Garuda Scout rank. During the Japanese occupation, Sutomo was chosen in 1944 as a member of the Japanese-sponsored Gerakan Rakyat Baru (New People’s Movement). While in October and November 1945, he became one of the leaders of the people moving and uplifting Surabaya which was under attack by NICA. Sutomo particularly remembered for opening calls on the radio broadcasts were filled with emotion. Sutomo got his first job at the age of … *homon bantuannya kk​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Sutomo got his first job at the age of 17 year old</p><br />
+                                            <h2 class="ez-toc-section" id="nah-yang-sering-nanyain-kontak-wa-ku-mulu-btw-ini-no-wa-ku-lohdnananana-_______________________-quiz-hukuman_1-same-memiliki-utang-kepada-azka-dan-ackerman-sebesar-200-00000-kemudian-same-me">
+                            39. Nah yang sering nanyain kontak wa ku mulu, Btw ini no wa ku loh;Dnananana._______________________.Quiz + Hukuman,_,1.) Same memiliki utang kepada Azka dan Ackerman sebesar 200.000,00. kemudian Same membayar sebanyak 1.000.000,00 berapakah sisa kembalian utang tersebut?2.) Same mentraktir bakso kepada Azka dan Ackerman sebanyak 10 porsi, Kemudian Azka ingin menambah sebanyak 5 porsi, harga 1 porsi adalah 17.000,00. berapakah uang yang harus dikeluarkan oleh Same?3.) Ackerman dan Azka duduk dikelas 6, sedangkan Same duduk dikelas 8, berapakah selisih antara kelas Azka,Ackerman dan Same?4.) Ani si cupank pada hari Minggu bermain ke rumah Same, kemudian Same akan memberi Ani si cupank oreo 1 box yang berisi 3 rasa, 1 rasa berisi 20 oreo. Berapakah jumlah oreo yang dimiliki Ani si cupank?______________________Sponsored by: @Ackerman096@Azkadigdaya1407@AniCupank938​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p>Nomor 1.<p></p><p>hutang = Rp 200.000,-</p><p>bayar hutang = Rp.1000.000,-</p><p>sisa kembalian</p><p>= bayar hutang - hutang</p><p>= Rp.1000.000,00 - Rp.200.000,00</p><p>= Rp.800.000,00</p><p></p>Nomor 2.<p></p><p>banyak bakso = 10 + 5 =15</p><p>harga bakso = Rp.17000,00</p><p>uang yg harus dibayarkan</p><p>= banyak bakso × harga bakso</p><p>= 15 × Rp.17000,00</p><p>= Rp 255000,00</p><p></p>Nomor 3.<p></p><p>Selisih kls Ackerman &amp; Same</p><p>= 8 -,6</p><p>= 2</p><p>kls Azka dan Same</p><p>= 8 - 6</p><p>= 2</p><p></p>Nomor 4.<p></p><p>jumlah oreo</p><p>= 1 × 3 × 20</p><p>= 3 × 20</p><p>= 60 oreo</p><p></p>____________<p>Ngakak yg Beli bakso sampai 10 porsi</p><p></p><p>[tex]{\huge{\gray{\mathfrak{Korajanew \ 354}}}}[/tex]</p><p>[tex]{\huge{\pink{\mathfrak{Lyodra \ Kim}}}}[/tex]</p><p></p><p>Biodata</p><p>Nama Asli: Tasya</p><p>Nama pena: Lyodra Bianca</p><p>Nama panggilan: Kim Ra</p><p>Novel sudah publish:</p><p>- Gadis penjaga bintang</p><p>- Tanpa sebuah batas</p><p>Novel akan publish:</p><p>- Click &amp; Kissed</p><p>- Hidupku yang Konyol</p><p>- Desainer atau model?</p><p>- Detectif Is Full</p><p>Asal:</p><p>Sampingnya bandara</p><p>TTL: Jatim 2 Februari 2008</p><p>Kls: mau kls 7</p><p>Keturunan: China, Jawa, Belanda, Arab</p><p>1. <strong>R</strong><strong>p</strong><strong> </strong><strong>8</strong><strong>0</strong><strong>0</strong><strong>.</strong><strong>0</strong><strong>0</strong><strong>0</strong><strong>,</strong><strong>0</strong><strong>0</strong></p><p>2. <strong>R</strong><strong>p</strong><strong> </strong><strong>2</strong><strong>5</strong><strong>5</strong><strong>.</strong><strong>0</strong><strong>0</strong><strong>0</strong><strong>,</strong><strong>0</strong><strong>0</strong></p><p>3. <strong>2</strong></p><p>4. <strong>6</strong><strong>0</strong><strong> </strong><strong>O</strong><strong>r</strong><strong>e</strong><strong>o</strong></p><p></p><p>(Langkah² ada pada lampiran)</p><p>Kalo burem bilang aja</p><br />
+                                            <h2 class="ez-toc-section" id="4-to-celebrate-earth-day-the-speakers-have-an-idea-to-5-the-activity-may-be-sponsored-by-as-the-tree-providerayooo-dijawabbb-lgi-butuh-bgttt%e2%80%8b">
+                            40. 4.To celebrate Earth Day, the speakers have an idea to 5. The activity may be sponsored by as the tree providerayooo dijawabbb lgi butuh bgttt​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>4.The speaker ( Dirga and Sari ) have an idea to propose a tree planting activity on the hill near their school.</p><p>5.The tree may or will be provided by Sari aunt's that works for Forestry Ministry , which may be their sponsor for the event that they are planning .</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/WVDQEoe6ZWY?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_inggris</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/larutan-dibandingkan-pelarutnya-memiliki/">Larutan Dibandingkan Pelarutnya Memiliki</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/buatlah-kalimat-dengan-kata-cair/">Buatlah Kalimat Dengan Kata Cair</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/langkah-pertama-dalam-menggambar-ilustrasi-digital-adalah/">Langkah Pertama Dalam Menggambar Ilustrasi Digital Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-yang-dimaksud-dengan-pertumbuhan-dan-perkembangan/">Apa Yang Dimaksud Dengan Pertumbuhan Dan Perkembangan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/peta-konsep-dinasti-ayyubiyah/">Peta Konsep Dinasti Ayyubiyah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-tentang-perkembangan-iptek-di-indonesia-sebelum-abad-ke-20/">Jelaskan Tentang Perkembangan Iptek Di Indonesia Sebelum Abad Ke 20</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/keliling-bangun-abcd-adalah/">Keliling Bangun Abcd Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/danau-singapura/">Danau Singapura</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-pengertian-disiplin/">Jelaskan Pengertian Disiplin</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hasil-dari-8-adalah/">Hasil Dari 8 Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/goods-services-varieties-price-time-place/">Goods Services Varieties Price Time Place</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-itu-permeabel/">Apa Itu Permeabel</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-asimetris/">Contoh Asimetris</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/slogan-adiwiyata/">Slogan Adiwiyata</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-proses-pemeriksaan-dalam-sidang-pengadilan/">Jelaskan Proses Pemeriksaan Dalam Sidang Pengadilan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bentuk-pemerintahan-negara-jerman-adalah-republik-parlementer-hal-ini-berarti/">Bentuk Pemerintahan Negara Jerman Adalah Republik Parlementer Hal Ini Berarti</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-pengertian-diskusi/">Jelaskan Pengertian Diskusi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pemberian-nama-wirausaha-harus-berpikir-ke-depan-karena/">Pemberian Nama Wirausaha Harus Berpikir Ke Depan Karena</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/induk-organisasi-basket-internasional-ialah/">Induk Organisasi Basket Internasional Ialah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gerakan-kepala-seolah-menarik-dagu-disebut/">Gerakan Kepala Seolah Menarik Dagu Disebut</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

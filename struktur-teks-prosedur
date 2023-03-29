@@ -1,0 +1,1370 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Struktur Teks Prosedur - BELAJAR</title>
+    <meta name="description" content="Struktur Teks Prosedur, , , , , , , 0, Urutan Struktur Teks Prosedur Yang Benar Adalah - AsriPortal.com, asriportal.com, 599 x 599, jpeg, , 20, struktur-teks-prosedur, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Struktur Teks Prosedur - BELAJAR" />
+    <meta property="og:description" content="Struktur Teks Prosedur, , , , , , , 0, Urutan Struktur Teks Prosedur Yang Benar Adalah - AsriPortal.com, asriportal.com, 599 x 599, jpeg, , 20, struktur-teks-prosedur, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Struktur Teks Prosedur - BELAJAR" />
+    <meta name="twitter:description" content="Struktur Teks Prosedur, , , , , , , 0, Urutan Struktur Teks Prosedur Yang Benar Adalah - AsriPortal.com, asriportal.com, 599 x 599, jpeg, , 20, struktur-teks-prosedur, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Struktur Teks Prosedur</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">ekalusiana6830</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Struktur+Teks+Prosedur" alt="Struktur Teks Prosedur">
+                    </div>
+                    <p></p>
+                    <p>Struktur teks prosedur ada 3 jelaskan struktur teks prosedur tersebut</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur-ada-3-jelaskan-struktur-teks-prosedur-tersebut">1.
+                                            Struktur teks prosedur ada 3 jelaskan struktur teks prosedur tersebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#teks-prosedur-adalahjenis-teks-prosedur-struktur-teks-prosedur">2.
+                                            Teks prosedur adalahjenis teks prosedur struktur teks prosedur</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#untuk-mengidentifikasi-teks-prosedur-diperlukan-struktur-dari-teks-prosedur-sebut-dan-jelaskan-struktur-dari-teks-prosedur-%e2%80%8b">3.
+                                            Untuk mengidentifikasi teks prosedur diperlukan struktur dari teks prosedur. Sebut dan jelaskan struktur dari teks prosedur ! *​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-yang-dimaksud-dengan-teks-prosedur-dan-jelaskan-struktur-teks-prosedur">4.
+                                            Apakah yang dimaksud dengan teks prosedur dan jelaskan struktur teks prosedur</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur%e2%80%8b">5.
+                                            Struktur teks prosedur​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur">6.
+                                            Struktur teks prosedur</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-teks-prosedur-dan-klasifikasikan-ke-dalam-struktur-teks-prosedur%e2%80%8b">7.
+                                            contoh teks prosedur dan klasifikasikan ke dalam struktur teks prosedur​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur-adalah">8.
+                                            struktur teks prosedur adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-struktur-teks-prosedur">9.
+                                            apa struktur teks prosedur ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelasin-struktur-teks-prosedur-sama-ciri-kebahasaan-teks-prosedur%e2%80%8b">10.
+                                            jelasin struktur teks prosedur sama ciri kebahasaan teks prosedur​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-sebuah-teks-prosedur-sesuai-dengan-struktur-teks-prosedur%e2%80%8b">11.
+                                            Tuliskan sebuah teks prosedur sesuai dengan struktur teks prosedur​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-teks-prosedur-yang-pernah-kalian-lakukan-dan-perhatikan-teks-struktur-prosedur%e2%80%8b">12.
+                                            buatlah teks prosedur yang pernah kalian lakukan dan perhatikan teks struktur prosedur​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur-dari-judul-bahan-dan-alat-langkah-dan-penutup-jelaskan-struktur-teks-prosedur-tersebut%e2%80%8b">13.
+                                            struktur teks prosedur dari judul bahan dan alat langkah dan penutup Jelaskan struktur teks prosedur tersebut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur-terdiri-dari-dan-%e2%80%8b">14.
+                                            struktur teks prosedur terdiri dari........... dan .....​......</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-dalam-menyusun-teks-prosedur-memiliki-beberapa-struktur-jelaskan-struktur-yang-terdapat-dalam-teks-prosedur">15.
+                                            2. dalam menyusun teks prosedur memiliki beberapa struktur, jelaskan struktur yang terdapat dalam teks prosedur</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perbedaan-antara-teks-prosedur-dan-teks-bukan-prosedur-dilihat-dari-struktur-teks-dan-struktur-bahasa-yang-digunakan">16.
+                                            perbedaan antara teks prosedur dan teks bukan prosedur dilihat dari struktur teks dan struktur bahasa yang digunakan </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-teks-prosedur-terdiri-dari-dan-%e2%80%8b">17.
+                                            struktur teks teks prosedur terdiri dari...... dan.....​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-apa-fungsi-struktur-teks-prosedur2-seperti-apakah-struktur-teks-prosedur-tersebut3-bagaimana-struktur-teks-prosedur-itu-bekerja4-bagaimanakah-materi-struktur-teks-prosedur-itu-berperan-dal">18.
+                                            1. apa fungsi struktur teks prosedur?
+2. seperti apakah struktur teks prosedur tersebut?
+3. bagaimana struktur teks prosedur itu bekerja?
+4. bagaimanakah materi struktur teks prosedur itu berperan dalam kehidupan sehari hari dan kariri masa depan peserta didik?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-struktur-struktur-teks-prosedur">19.
+                                            Sebutkan struktur struktur teks prosedur</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur">20.
+                                            struktur teks prosedur?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#terdiri-dari-apakah-struktur-teks-tersebut-teks-prosedur-tersebut">21.
+                                            Terdiri dari apakah struktur teks tersebut teks prosedur tersebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur-terdiri-dari%e2%80%8b">22.
+                                            struktur teks prosedur terdiri dari​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-teks-prosedur-sesuaikan-dengan-struktur-teks-prosedur%e2%80%8b">23.
+                                            Buatlah Teks Prosedur Sesuaikan Dengan Struktur Teks Prosedur​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur%e2%80%8b">24.
+                                            struktur teks prosedur​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-cara-mengelompokkan-teks-prosedur-berdasarkan-struktur-bagaimana-pula-struktur-teks-prosedur">25.
+                                            bagaimana cara mengelompokkan teks prosedur berdasarkan struktur &amp; bagaimana pula struktur teks prosedur</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutka-struktur-teks-prosedur-membuat-dan-struktur-teks-prosedur-melakukan%c2%a0%e2%80%8b">26.
+                                            sebutka struktur teks prosedur membuat dan struktur teks prosedur melakukan! ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-apa-fungsi-struktur-teks-prosedur2-seperti-apakah-struktur-teks-prosedur-tersebut3-bagaimana-struktur-teks-prosedur-itu-bekerja4-bagaimanakah-materi-struktur-teks-prosedur-itu-berperan-dalam">27.
+                                            1. apa fungsi struktur teks prosedur?2. seperti apakah struktur teks prosedur tersebut?3. bagaimana struktur teks prosedur itu bekerja?4. bagaimanakah materi struktur teks prosedur itu berperan dalam kehidupan sehari hari dan kariri masa depan peserta didik?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur-terdiri-dari-dan-%e2%80%8b">28.
+                                            struktur teks prosedur terdiri dari....dan....​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dengan-struktur-yang-lengkapcontoh-teks-prosedur-contoh-teks-prosedur-dengan-struktur-yang-lengkap-%e2%80%8b">29.
+                                            dengan struktur yang lengkapcontoh teks prosedur contoh teks prosedur dengan struktur yang lengkap ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur">30.
+                                            struktur teks prosedur</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur-di-antaranya%e2%80%a6">31.
+                                            Struktur teks prosedur di antaranya… *</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur2-seperti-apakah-struktur-teks-prosedur-tersebut3-bagaimana-struktur-teks-prosedur-itu-bekerja4-bagaimanakah-materi-struktur-teks-prosedur-itu-berperan-dalam-kehidupan-seh">32.
+                                             struktur teks prosedur?2. seperti apakah struktur teks prosedur tersebut?3. bagaimana struktur teks prosedur itu bekerja?4. bagaimanakah materi struktur teks prosedur itu berperan dalam kehidupan sehari hari dan kariri masa depan peserta didik?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur%e2%80%8b">33.
+                                            struktur teks prosedur​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-struktur-teks-prosedur%e2%80%8b">34.
+                                            Bagaimana struktur teks prosedur​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur-terdiri-dari%e2%80%8b">35.
+                                            struktur  teks prosedur terdiri dari​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur%e2%80%8b">36.
+                                            struktur teks prosedur​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-teks-prosedur-ada-yang-namanya-struktur-teks-prosedur-coba-kalian-jelaskan-kata-struktur-itu-dengan-bahasa-sendiri%e2%80%8b">37.
+                                            Dalam Teks Prosedur ada yang namanya struktur Teks Prosedur, coba kalian jelaskan kata Struktur itu dengan bahasa sendiri!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur">38.
+                                            Struktur Teks prosedur</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur">39.
+                                            Struktur teks prosedur </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-prosedur-terdiri-dari-dan">40.
+                                            Struktur teks prosedur terdiri dari....dan....</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur-ada-3-jelaskan-struktur-teks-prosedur-tersebut">
+                            1. Struktur teks prosedur ada 3 jelaskan struktur teks prosedur tersebut</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>pengantar tentang topik yang akan dijelaskan dalam teks. ...</p><p>Alat dan Bahan. Berupa perincian alat-alat dan bahan yang akan digunakan/dibutuhkan untuk melakukan kegiatan dalam teks prosedur.</p><p>Langkah -langkah. ...</p><p>Penutup.</p><p></p><p>maap klo salah kak</p><br />
+                                            <h2 class="ez-toc-section" id="teks-prosedur-adalahjenis-teks-prosedur-struktur-teks-prosedur">
+                            2. Teks prosedur adalahjenis teks prosedur struktur teks prosedur</h2><br />
+                        <p>Teks prosedur adalah teks yang berisi petunjuk cara melakukan sesuatu</p><p></p><p>Jenis teks prosedur : teks prosedur sederhana, teks prosedur kompleks, teks prosedur protokol</p><p></p><p>Struktur teks prosedur : tujuan, langkah-langkah, penegasan ulang</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="untuk-mengidentifikasi-teks-prosedur-diperlukan-struktur-dari-teks-prosedur-sebut-dan-jelaskan-struktur-dari-teks-prosedur-%e2%80%8b">
+                            3. Untuk mengidentifikasi teks prosedur diperlukan struktur dari teks prosedur. Sebut dan jelaskan struktur dari teks prosedur ! *​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tujuan,materi dan langkah-langkah</p><br />
+                                            <h2 class="ez-toc-section" id="apakah-yang-dimaksud-dengan-teks-prosedur-dan-jelaskan-struktur-teks-prosedur">
+                            4. Apakah yang dimaksud dengan teks prosedur dan jelaskan struktur teks prosedur</h2><br />
+                        Teks prosedur adalah teks paduan tentang cara membuat sesuatu yg dikerjakan melalui tahapan tertentu yg logis dan runtut<br /><br />Strukturnya:1. Judul  2. Tujuan  3. Alat dan bahan  4. Langkah-langkah prosedur merupakan produk penjualan barang yg sering kita konsumsi <br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur%e2%80%8b">
+                            5. Struktur teks prosedur​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur Teks Prosedur</p><p>1. Pengantar atau pembuka</p><p>Teks prosedur umumnya diawali dengan judul, yang merupakan inti dari kegiatan yang akan dilakukan. Kemudian, dilanjutkan bagian pengantar berupa kalimat interogatif sebagai pembuka teks sebelum masuk ke topik yang dibahas. Pada bagian ini juga dijelaskan tujuan dari pembuatan teks prosedur atau hasil akhir yang akan dicapai dalam melakukan tahapan-tahapan pada teks prosedur. Bagian pengantar dan pembuka ini bersifat tentatif, sehingga tidak selalu ada dalam tiap teks prosedur.</p><p></p><p>2. Material</p><p>Pada bagian ini berisikan bahan-bahan, alat-alat, atau material yang diperlukan dalam melakukan kegiatan ataupun membuat sesuatu. Contohnya dalam teks membuat makanan, akan dijelaskan bumbu dan bahan apa saja yang akan digunakan. Kemudian, dalam teks prosedur cara melakukan sesuatu akan dijelaskan alat-alat yang perlu disiapkan sebelum mulai melakukan kegiatan.</p><p></p><p>3. Langkah-langkah</p><p>Bagian ini berisikan langkah-langkah yang harus dilakukan untuk memperoleh hasil sesuai dengan tujuan teks prosedur. Tahapan ini harus dilakukan secara runut dan tidak boleh ada tahapan yang terlewat ataupun tertukar.</p><p></p><p>4. Simpulan</p><p>Setelah selesai melakukan kegiatan sesuai tahapan, di akhir teks prosedur terdapat simpulan kegiatan. Bagian ini berupa kalimat atau paragraf yang menjelaskan hasil yang didapat setelah melakukan setiap langkah kegiatan. Pada bagian ini juga terdapat saran dan tanggapan penulis terhadap kegiatan yang telah dilakukan.</p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur">
+                            6. Struktur teks prosedur</h2><br />
+                        _Bagian Tujuan, bagian tujua teks prosedur dapat berupa judul dan juga berisikan tujuan dari pembuatan teks prosedur tersebut atau hasil akhir yang akan di capai jika kita melakukan tahapan pada teks prosedur tersebut.<br />_Bagian material, beribahan, alat-alat, atau material yang diperlukan, namun tidak tidak semua teks prosedur terdapat bagian ini. Pada umumnya penggunaan bagian material terdapat pada teks prosedur tentang pembuatan suatu hal seperti makanan dan sebagainya.<br />_Bagian langkah-langkah, bag berisikan langkah-langkah yang harus ditempuh untuk memperoleh hasil sesuai dengan tujuan teks prosedur. Pada bagian ini setiap langkah harus dilakukan secara urut tidak boleh secara acak dalam melakukannya.<br />
+                                            <h2 class="ez-toc-section" id="contoh-teks-prosedur-dan-klasifikasikan-ke-dalam-struktur-teks-prosedur%e2%80%8b">
+                            7. contoh teks prosedur dan klasifikasikan ke dalam struktur teks prosedur​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Teks Prosedur Sederhana</p><p>Prosedur yang dapat ditempuh hanya dengan dua atau tiga langkah saja, contoh: prosedur mengoperasikan setrika.</p><p>2. Teks Prosedur Kompleks</p><p>Prosedur yang terdiri atas banyak langkah dan langkah-langkah tersebut berjenjang dengan sublangkah pada setiap langkahnya. Contoh: prosedur tentang terkena tilang.</p><p>3. Protokol</p><p>Prosedur yang langkah-langkahnya tidak terlalu ketat/rumit dan mudah dipahami.</p><p></p><p></p><p><strong>s</strong><strong>e</strong><strong>m</strong><strong>o</strong><strong>g</strong><strong>a</strong><strong> </strong><strong>m</strong><strong>e</strong><strong>m</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong>t</strong><strong>u</strong><strong> </strong><strong>y</strong><strong>a</strong><strong>:</strong><strong>)</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur-adalah">
+                            8. struktur teks prosedur adalah</h2><br />
+                        Tujuan<br />Langkah"<br />Penegasan UlangStruktur teks prosedur :<br />1. Judul<br />- Dapat beruap nama/sesuatu yang hendak dibuat/dilakukan<br />- Dapat beruap cara melakukan/menggunakan sesuatu<br />2. Pengantar yang menyatakan tujuan penulisan<br />- Dapat berupa pernyataan yang menyatakan tujuan penulisan<br />- Dapat berupa paragraf pengantar yang menyatakan tujuan penulisan<br />3. Bahan atau alat untuk melaksanakan suatu prosedur<br />- Dapat berupa daftar/rincian<br />- Dapat berupa paragraf<br />- Pada teks prosedur tertentu, misalnya prosedur melakukan sesuatu, tidak diperlukan bahan/alat<br />4. Langkah/tahapan dengan urutan yang benar<br />- Berupa tahapan yang ditunjukkan dengan penomoran<br />- Berupa tahapan yang ditunjukkan dengan kata yang menunjukkan urutan : pertama, kedua, ketiga, dst.<br />- Berupa tahapan yang ditunjukkan dengan kata yang menunjukkan urutan waktu : sekarang, kemudian, setelah itu, dst.<br />
+                                            <h2 class="ez-toc-section" id="apa-struktur-teks-prosedur">
+                            9. apa struktur teks prosedur ?</h2><br />
+                        tujuan  alat dan bahan langkah langkahbagian tujuan<br />bagian material<br />bagian langkah langkah<br /><br /><br /><br />maaf kalo salah,,,,,<br /><br />
+                                            <h2 class="ez-toc-section" id="jelasin-struktur-teks-prosedur-sama-ciri-kebahasaan-teks-prosedur%e2%80%8b">
+                            10. jelasin struktur teks prosedur sama ciri kebahasaan teks prosedur​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur teks prosedur adalah: Judul: judul singkat dan jelas, menyebutkan obyek yang akan dibahas. Tujuan: menyebutkan maksud dari prosedur yang akan dijelaskan. Alat dan bahan: semua barang atau benda yang berkaitan dengan prosedur harus dirinci, disertai dengan ukuran atau batasan yang perlu dipatuhi</p><p>1. Menggunakan kata kerja perintah (imperatif).</p><p>2. Menggunakan kata teknis yang berkaitan dengan topik bahasan. </p><p>3. Menggunakan kata penghubung (konjungsi) temporal.</p><p><strong>Penjelasan:</strong></p><p>Plis dong jadikan jawaban terbaik</p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-sebuah-teks-prosedur-sesuai-dengan-struktur-teks-prosedur%e2%80%8b">
+                            11. Tuliskan sebuah teks prosedur sesuai dengan struktur teks prosedur​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Membuat Kue Brownies Kukus Instan</p><p>Tujuan</p><p>Siapa yang tidak suka kue brownies? Kue ini adalah salah satu camilan yang digemari masyarakat. Namun, kesulitan membuat kue ini juga sudah tidak asing lagi di kalangan masyarakat.</p><p></p><p>Namun terdapat cara mudah untuk membuatnya, yakni dengan menggunakan adonan brownies instan yang bisa didapatkan di pasar atau mini market terdekat. Kombinasikan juga dengan mengubah cara memasaknya, yakni dengan cara mengukusnya, bukan dipanggang. Maka brownies ini akan menjadi brownies anti gagal.</p><p></p><p></p><p>Langkah-Langkah</p><p>Bagaimana cara membuatnya? Mudah saja, cukup ikuti tahapan-tahapan berikut ini.</p><p></p><p>Campurkan adonan instan brownies dengan air dan telur sesuai dengan takaran yang tercantum dalam kemasannya.</p><p>Tuangkan adonan brownies ke dalam mangkok alumunium yang biasa digunakan untuk membuat kue mangkok.</p><p>Kukus brownis hingga matang, tidak usah khawatir untuk mengukusnya terlalu lama, karena brownies tidak bisa hangus oleh uap.</p><p>Penegasan Ulang / Penutup</p><p>Cukup mudah bukan untuk menyajikannya. Jangan bingung jika kamu tidak memiliki alat pengukus khusus, karena kita dapat memanfaatkan pemasak nasi atau rice cooker untuk mengukusnya. Kita juga dapat menambahkan kepingan cokelat atau keju parut agar brownies terasa lebih nikmat</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-teks-prosedur-yang-pernah-kalian-lakukan-dan-perhatikan-teks-struktur-prosedur%e2%80%8b">
+                            12. buatlah teks prosedur yang pernah kalian lakukan dan perhatikan teks struktur prosedur​</h2><br />
+                        <p>kalau ada yang kurang jelas tanya aja dan maaf kalau ada yang salah:')</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur-dari-judul-bahan-dan-alat-langkah-dan-penutup-jelaskan-struktur-teks-prosedur-tersebut%e2%80%8b">
+                            13. struktur teks prosedur dari judul bahan dan alat langkah dan penutup Jelaskan struktur teks prosedur tersebut​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur teks prosedur yaitu</p><p>Tujuan</p><p>Bahan dan alat</p><p>Langkah-langkah</p><p>Penutup</p><p></p><p></p><p>Teks prosedur adalah teks yang memberikan petunjuk agar seseorang dapat melakukan suatu pekerjaan secara tepat dan akurat serta memperoleh hasil yang maksimal.</p><p></p><p>Struktur teks prosedur adalah</p><p></p><p>1. Tujuan</p><p></p><p>Tujuan pada teks prosedur adalah pengantar umum sebagai penanda apa yang akan dibuat atau dilakukan dan motivasi dalam melakukannya.</p><p></p><p>2. Bahan dan Alat</p><p></p><p>Berisi mengenai rincian bahan dan alat yang digunakan dengan ukuran yang akurat.</p><p></p><p>3. Langkah-langkah</p><p></p><p>Berisi langkah melakukan sesuatu dengan urut secara per tahap.</p><p></p><p>4. Penutup</p><p></p><p>Berisi penekanan pada keuntungan dan ucapan selamat melakukan sesuatu.</p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur-terdiri-dari-dan-%e2%80%8b">
+                            14. struktur teks prosedur terdiri dari........... dan .....​......</h2><br />
+                        <strong>Halo kak , aku ica</strong><strong>Aku coba bantu ya...</strong><strong></strong><p><strong>Stuktur teks prosedur adalah terdiri dari material dan langkah langkah.</strong></p><p><strong>Material adalah alat alat dan bahan bahan yang digunakan untuk membuat sesuau sesuai judul teks prosedur tersebut, sedangan langkah langkah adalah tahap tahap pembuatan sesuatu dengan menggunakan material material sesuai judul teks prosedur tersebut.</strong></p><p><strong></strong></p><p><strong>Semoga membantu</strong></p><p><strong>Jawaban:</strong></p><p>dari bentuk dan isi</p><p><strong>Penjelasan:</strong></p><p></p><p>SEMOGA MEMBANTUNYA</p><br />
+                                            <h2 class="ez-toc-section" id="2-dalam-menyusun-teks-prosedur-memiliki-beberapa-struktur-jelaskan-struktur-yang-terdapat-dalam-teks-prosedur">
+                            15. 2. dalam menyusun teks prosedur memiliki beberapa struktur, jelaskan struktur yang terdapat dalam teks prosedur</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.judul</p><p>2.tujuan</p><p>3.bahan dan alat</p><p>4.langkah-langkah</p><p>5.penutup</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="perbedaan-antara-teks-prosedur-dan-teks-bukan-prosedur-dilihat-dari-struktur-teks-dan-struktur-bahasa-yang-digunakan">
+                            16. perbedaan antara teks prosedur dan teks bukan prosedur dilihat dari struktur teks dan struktur bahasa yang digunakan </h2><br />
+                        Teks prosedur merupakan teks suatu cara atau pembuatan sesuatu yang berisi tujuan dan langkah langkah.Dan yang bukan teks prosedur adalah teks yang tidak  memiliki tujuan dan langkah langkah.<br /><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-teks-prosedur-terdiri-dari-dan-%e2%80%8b">
+                            17. struktur teks teks prosedur terdiri dari...... dan.....​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Secara umum, struktur teks prosedur terdiri atas empat bagian, yakni judul, tujuan, alat dan bahan, serta langkah-langkah</p><p><strong>Penjelasan:</strong></p><p>maaf kalo slh</p><p>Jawaban:</p><p>judul, tujuan, alat dan bahan, serta langkah-langkah.</p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-apa-fungsi-struktur-teks-prosedur2-seperti-apakah-struktur-teks-prosedur-tersebut3-bagaimana-struktur-teks-prosedur-itu-bekerja4-bagaimanakah-materi-struktur-teks-prosedur-itu-berperan-dal">
+                            18. 1. apa fungsi struktur teks prosedur?
+2. seperti apakah struktur teks prosedur tersebut?
+3. bagaimana struktur teks prosedur itu bekerja?
+4. bagaimanakah materi struktur teks prosedur itu berperan dalam kehidupan sehari hari dan kariri masa depan peserta didik?</h2><br />
+                        1.langkah2 untuk mencapai tujuan<br />2.strukturnya bertahap dari awal hingga akhir<br /><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-struktur-struktur-teks-prosedur">
+                            19. Sebutkan struktur struktur teks prosedur</h2><br />
+                        1. Tujuan<br />2. Langkah-langkahteks prosedur memiliki 2 struktur yaitu : <br />1. tujuan<br />2. langkah-langkah<br /><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur">
+                            20. struktur teks prosedur?</h2><br />
+                        tujuan dan langkah-langkahTujuan dan Langkah kerja<br />
+                                            <h2 class="ez-toc-section" id="terdiri-dari-apakah-struktur-teks-tersebut-teks-prosedur-tersebut">
+                            21. Terdiri dari apakah struktur teks tersebut teks prosedur tersebut</h2><br />
+                        1) tujuan<br />2)  material<br />3) langkah langkah<br />maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur-terdiri-dari%e2%80%8b">
+                            22. struktur teks prosedur terdiri dari​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>bagian tujuan, bagian material, dan bagian langkah-langkah</p><p><strong>Jawaban:</strong></p><p>Teks <strong>prosedur</strong> sendiri memiliki tiga struktur dalam pembentukannya. Dalam hal ini ketiga struktur tersebut adalah bagian <strong>tujuan</strong>, bagian <strong>material</strong>, dan bagian <strong>langkah</strong>-<strong>langkah</strong>.Bagian <strong>material</strong>, berisikan <strong>bahan</strong>-<strong>bahan</strong>, <strong>alat</strong>-<strong>alat</strong>, atau material yang diperlukan, namun tidak tidak semua teks prosedur terdapat bagian ini.</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-teks-prosedur-sesuaikan-dengan-struktur-teks-prosedur%e2%80%8b">
+                            23. Buatlah Teks Prosedur Sesuaikan Dengan Struktur Teks Prosedur​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Memanfaatkan Energi Listrik untuk Menyalakan Lampu</p><p>Tujuan (Pernyataan Umum)</p><p>Listrik adalah energi yang dapat dihantarkan untuk menyalakan suatu benda teknologi. Untuk mengetahui dan memahami bagaimana listrik dihantarkan, maka kita harus melakukan percobaan atau eksperimen. Percobaan yang dilaksanakan adalah menyalakan lampu dengan memanfaatkan energi listrik.</p><p>Pertama, hubungkan kedua kabel pada bohlam. Caranya kelupas sebagian ujung kabel hingga bagian logamnya terkuak lalu rekatkan pada bohlam dengan menggunakan selotip. Menggunakan dudukan lampu yang sudah memiliki kabel akan memudahkan proses ini.</p><p></p><p>Selanjutnya, hubungkan kedua sisa ujung kabel yang telah terhubung ke lampu pada baterai. Caranya dapat dilakukan dengan mengelupas sebagian kabel hingga terkuak bagian logamnya pula. Kabel dapat ditempelkan saja pada kedua bagian baterai dengan tangan, namun pastikan tanganmu tidak basah atau gunakan sarung tangan.</p><p></p><p>Seharusnya pada tahap ini bohlam akan menyala. Jika tidak, perhatikan keterhubungan kabel pada bohlam dan baterai. Pastikan bahwa baterai juga masih memiliki cukup daya untuk menyalakan lampu.</p><p></p><p>Setelah itu, ulangi tahap yang telah dilakukan di atas dengan mengganti kabel menggunakan tali plastik. Bohlam tidak akan menyala.</p><p><strong>Jawaban:</strong></p><p>Teks prosedur adalah teks yang berisi arahan, tahapan, atau langkah-langkah untuk melakukan atau membuat sesuatu. Pada aman ini, contoh teks prosedur lengkap dengan strukturnya disajikan dengan cara yang singkat dan mudah untuk dipahami.</p><p></p><p> </p><p>Di bawah ini adalah berbagai macam contoh teks prosedur beserta strukturnya yang terdiri dari: a) tujuan/pernyataan umum, b) langkah-langkah (tahapan), c) penegasan ulang/penutup dalam berbagai macam jenis dan tema.</p><p></p><p>Contoh Teks Prosedur Kompleks</p><p>Teks prosedur kompleks adalah teks prosedur yang terdiri lebih dari lima tahapan dan membutuhkan pemahaman khusus dari penulisnya. Misalnya seperti teks prosedur kelistrikan di bawah ini.</p><p></p><p>Memanfaatkan Energi Listrik untuk Menyalakan Lampu</p><p>Tujuan (Pernyataan Umum)</p><p>Listrik adalah energi yang dapat dihantarkan untuk menyalakan suatu benda teknologi. Untuk mengetahui dan memahami bagaimana listrik dihantarkan, maka kita harus melakukan percobaan atau eksperimen. Percobaan yang dilaksanakan adalah menyalakan lampu dengan memanfaatkan energi listrik.</p><p><strong>Penjelasan:</strong></p><p>semoga bermanfaat dan membantu tetap semangat dan jaga kesehatan ya dan ikuti kata protokol kesehatan dengan cara 3M memakai masker mencuci tangan pake Sabun menjaga jarak selamat mengerjakan </p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur%e2%80%8b">
+                            24. struktur teks prosedur​</h2><br />
+                        <p>Struktur teks prosedur adalah</p><p></p><p>1. Tujuan</p><p></p><p>Tujuan pada teks prosedur adalah pengantar umum sebagai penanda apa yang akan dibuat atau dilakukan dan motivasi dalam melakukannya.</p><p></p><p>2. Bahan dan Alat</p><p></p><p>Berisi mengenai rincian bahan dan alat yang digunakan dengan ukuran yang akurat.</p><p></p><p>3. Langkah-langkah</p><p></p><p>Berisi langkah melakukan sesuatu dengan urut secara per tahap.</p><p></p><p>4. Penutup</p><p></p><p>Berisi penekanan pada keuntungan dan ucapan selamat melakukan sesuatu.</p><p></p><p>Smoga membantu maaf klo salah </p><p>Struktur teks prosedur terdiri dari</p><p>1. Tujuan</p><p>2. Bahan dan alat</p><p>3. Langkah langkah pembuatan</p><p>4. Penutup</p><p></p><p></p><p>semoga membantu^^</p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-cara-mengelompokkan-teks-prosedur-berdasarkan-struktur-bagaimana-pula-struktur-teks-prosedur">
+                            25. bagaimana cara mengelompokkan teks prosedur berdasarkan struktur &amp; bagaimana pula struktur teks prosedur</h2><br />
+                        struktur teks prosedur yaitu<br />1. tujuan<br />2. alat dan bahan<br />3. langkah-langkah<br /><br />cara mengelompokkannya dapat dilakukan dengan cara :<br />1. tujuan --&gt; alasan membuat / melakukan sesuatu<br />2. alat dan bahan --&gt; berisi alat dan bahan untuk membuat / melakukan sesuatu<br />3. langkah - langkah --&gt; berisi cara untuk membuat / melakukan sesuatu<br />
+                                            <h2 class="ez-toc-section" id="sebutka-struktur-teks-prosedur-membuat-dan-struktur-teks-prosedur-melakukan%c2%a0%e2%80%8b">
+                            26. sebutka struktur teks prosedur membuat dan struktur teks prosedur melakukan! ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Tujuan,berisi paparan dasar atau tujuan umum pembuatan sesuatu</p><p>2. Alat dan Bahan,dijelaskan secara rinci misal: minyak 3sdm, telur 1 butir,dll</p><p>3. Langkah-langkah, dijelaskan berurutan,tidak boleh dibolak-balik</p><p><strong>Penjelasan:</strong></p><p>teks prosedur adalah  sebuah teks yang menyajikan langkah-langkah kegiatan atau berbagai tahapan untuk melakukan atau menghasilkan sesuatu</p><p></p><p></p><p>semoga membantuu</p>Struktur teks prosedur yaitu<p></p>TujuanBahan dan alatLangkah-langkahPenutup<p></p>Pembahasan<p>Teks prosedur adalah teks yang berisi langkah-langkah atau tahapan yang harus dilakukan untuk mencapai suatu tujuan.</p><p></p>Menentukan prosedur yang ingin disusunMencari data yang sedetail mungkinSetelah mempunyai data, pelajarilah data yang telah dicari tersebut.Lakukan analisis terhadap produr yang telah dibuat berdasarkan data yang diperolahSetelah dianalisis, praktikkanlah kembali untuk memantapkan apakah cara yang baru sudah benar-benar baik dan efisienJika sudah tepat,prosedur tersebut ditulis ke teks prosedur.<p></p>Judul<p></p><p>Judul dapat diambil berdasarkan pertimbangan dari nama benda/sesuatu yang hendak dibuat/dilakukan dan cara melakukan/menggunakan sesuatu.</p><p></p>Tujuan<p></p><p>Merupakan pengantar yang menjelaskan tujuan dari prosedur. Bentuknya dapat berupa pernyataan yang menyatakan tujuan penulisan. Tidak jarang tujuan berbentuk beberapa paragraf pengantar yang menyatakan tujuan penulisan.</p><p></p>Bahan atau alat (biasanya, untuk jenis prosedur membuat)<p></p><p>Biasanya berupa daftar atau rincian, namun bisa juga dibuat menjadi paragraf. Bagian ini tentunya hanya digunakan untuk beberapa jenis prosedur seperti cara melakukan sesuatu dengan alat yang spesifik, atau untuk membuat sesuatu yang membutuhkan bahan.</p><p></p>Tahapan (Langkah-Langkah)<p></p><p>Tahapan biasanya dipisahkan dengan penomoran yang berupa lis tahapan. Tahapan dapat ditunjukkan menggunakan kata urutan seperti: pertama, kedua, ketiga dan seterusnya. Bisa juga menggunakan kata yang menunjukkan urutan waktu : sekarang, kemudian, setelah dan seterusnya. Tahapan juga dapat dimulai dengan kata yang menunjukkan perintah : tambahkan aduk tiriskan, panaskan dan lain-lain.</p><p></p>Struktur teks laporan percobaanJudul.Tujuan.Bahan dan alat.Langkah-langkah kegiatan.Hasil percobaan.Simpulan.<p></p>2. Perbedaan<p> Teks laporan percobaan merupakan merupakan teks yang berisi mengenai pembahasan tentang suatu percobaan, sedangkan teks prosedur merupakan sebuah teks yang berisi cara atau tujuan untuk membuat atau melakukan sesuatu dengan langkah-langkah yang tepat, tujuannya adalah untuk membantu para pembaca memahami bagaimana cara melakukan atau membuat sesuatu.</p><p></p>3. Unsur kebahasaan teks prosedurKonjungsi temporal.Kata kerja imperative.Verba material.Verba tingkah laku.Partisipan manusia.Penanda atau bilangan urutan.Kalimat interogatif atau pertanyaan.Kalimat deklaratif atau pernyataan.<p></p>4. Kebahasaan Teks Prosedurmenggunakan kaidah bahasa yang bakumenggunakan kaidah penulisan kata berimbuhanmenggunakan kaidah penulisan kata depanmenggunakan kalimat kompleks dan kalimat simpleksMenggunakan konjungsiMenggunakan istilah teknisMenggunakan kata bilangan (numeralia)Kata depan dan awalan<br />
+                                            <h2 class="ez-toc-section" id="1-apa-fungsi-struktur-teks-prosedur2-seperti-apakah-struktur-teks-prosedur-tersebut3-bagaimana-struktur-teks-prosedur-itu-bekerja4-bagaimanakah-materi-struktur-teks-prosedur-itu-berperan-dalam">
+                            27. 1. apa fungsi struktur teks prosedur?2. seperti apakah struktur teks prosedur tersebut?3. bagaimana struktur teks prosedur itu bekerja?4. bagaimanakah materi struktur teks prosedur itu berperan dalam kehidupan sehari hari dan kariri masa depan peserta didik?​</h2><br />
+                        <p></p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>Mengidentifikasi</strong><strong> </strong><strong>Teks</strong><strong> </strong><strong>Prosedur</strong></p><p>Teks prosedur termasuk dalam jenis teks yang berisi instruksi dalam melakukan sesuatu. Instruksi prosedural dapat berupa resep masakan,cara membuat sesuatu,dan pertunjukan berkaitan dengan cara seseorang melakukan sesuatu. Oleh karena itu,teks prosedural umumnya diawali dengan tujuan dari tugas yang biasanya dinyatakan dalam judul. Selanjutnya,pada tahap kedua diuraikan bahan-bahan dan alat-alat yang harus digunakan. Pada tahap ketiga,dijelaskan langkah-langkah yang harus dilakukan untuk membuat sesuatu sesuai tujuan. Teks prosedur biasanya dilengkapi dengan gambar atau ilustrasi yang mendukung</p><p>                    Teks prosedur dibedakan menjadi dua jenis berikut.</p><p></p><p><strong>1</strong><strong>.</strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>Teks</strong><strong> </strong><strong>prosedur</strong><strong> </strong><strong>cara</strong><strong> </strong><strong>membuat</strong><strong> </strong><strong>sesuatu</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>Jenis teks prosedur ini mempunyai hasil akhir berupa produk. Teks prosedur tersebut terdiri atas bagian yang menjelaskan tujuan,bahan dan alat,serta langkah-langkah membuat sesuatu.</p><p></p><p><strong>2</strong><strong>.</strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>Teks</strong><strong> </strong><strong>prosedur</strong><strong> </strong><strong>cara</strong><strong> </strong><strong>melakukan</strong><strong> </strong><strong>sesuatu</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong>Berbeda dengan jenis teks prosedur cara membuat sesuatu,teks prosedur ini tidak menghasilkan produk. Bagian teks prosedur ini terdiri atas tujuan dan langkah-langkah kegiatan.</p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur-terdiri-dari-dan-%e2%80%8b">
+                            28. struktur teks prosedur terdiri dari....dan....​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur teks prosedur kompleks terdiri atas beberapa bagian yaitu:</p><p>1). pembukaan</p><p>2). isi dan</p><p>3). penutup.</p><p><strong>Jawaban:</strong></p><p>pernyataan umum dan langkah langkah</p><br />
+                                            <h2 class="ez-toc-section" id="dengan-struktur-yang-lengkapcontoh-teks-prosedur-contoh-teks-prosedur-dengan-struktur-yang-lengkap-%e2%80%8b">
+                            29. dengan struktur yang lengkapcontoh teks prosedur contoh teks prosedur dengan struktur yang lengkap ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Cara Membuat Telur Mata Sapi
+</p><p>Telur mata sapi merupakan makanan paling disukai anak-anak. Biasanya telur mata sapi disajikan untuk sarapan dengan dipadukan beberapa sayur dan toping yang menarik. Inilah langkah membuat telur mata sapi untuk sang buah hati tercinta.
+</p><p>
+</p><p>Bahan :
+</p><p>
+</p><p>1 buah telur
+</p><p>garam secukupnya
+</p><p>mentega
+</p><p>wortel]</p><p>Cara Membuat Teh Manis Hangat
+</p><p>Teh manis adalah minuman paling hangat dalam segala aktivitas. Teh manis hangat dapat membuat tubuh menjadi lebih segar dan pikiran lebih fresh. Berikut langkah membuat teh manis hangat.
+</p><p>
+</p><p>Bahan :
+</p><p>
+</p><p>1 buah teh celup
+</p><p>gula pasir secukupnya
+</p><p>air hangat
+</p><p>Lemon
+</p><p>Alat :
+</p><p>
+</p><p>gelas
+</p><p>sendok
+</p><p>pisau
+</p><p>Langkah kerja :
+</p><p>
+</p><p>pertama, menyiapkan gelas;
+</p><p>memasukkan air hangat dalam gelas tersebut;
+</p><p>masukan teh celup dalam gelas dan celup-celupkan hingga warnanya tercampur rata;
+</p><p>menambahkan gula pasir secukupnya sesuai dengan selera anda;
+</p><p>sebagai toping atau hiasannya, potong lemon dengan pisau;
+</p><p>meletakkan lemon di samping gelas tersebut;
+</p><p>teh manis hangat siap dinikmati.
+</p><p>Contoh Teks Prosedur Sederhana
+</p><p>Contoh Teks Prosedur Sederhana
+</p><p>sahabatnesia.com
+</p><p>Cara Membuat KTP
+</p><p>Kartu Tanda Penduduk atau yang sering kita sebut dengan KTP merupakan identitas paling utama yang harus dimiliki oleh warga negara Indonesia . Semua warga Indonesia yang sudah berusia 17 tahun wajib membuat KTP sebagai tanda kependudukan yang sah. Sehingga sangat penting bagi anda untuk mengetahui prosedur dalam membuat KTP. Berikut langkah-langkah membuat KTP.
+</p><p>
+</p><p>PROMOTED CONTENTMgid
+</p><p>
+</p><p>Anda wajib minum ini! Agar tensi 120/80 dan pembuluh darah bersih
+</p><p>Heart
+</p><p>
+</p><p>Nenek 120 tahun: “Pembersihan pembuluh darah sangatlah mudah!“
+</p><p>Naturatensi
+</p><p>
+</p><p>Pelajar Indonesia temukan cara pulihkan diabetes secara permanen!
+</p><p>Herbal Glucoactive
+</p><p>Menyiapkan semua dokumen yang diperlukan, yaitu :
+</p><p>
+</p><p>akte kelahiran
+</p><p>kartu keluarga
+</p><p>kartu pelajar
+</p><p>pas foto ukuran 3×4 dan 2×3
+</p><p>Mendatangi Ketua RT setempat untuk membuat permohonan pembuatan KTP dengan menyerahkan semua data tersebut;
+</p><p>Setelah formulir permohonan sudah ada, anda bisa mendatangi Ketua RW untuk meminta stempel dan tanda tangan;
+</p><p>Lalu, anda mendatangi kantor kelurahan setempat untuk meminta stempel dan tanda tangan;
+</p><p>Setelah semua sudah siap, anda mendatangi kantor kecamatan dan melakukan sesi foto dan rekam sidik jari;
+</p><p>Terakhir, anda menunggu KTP sampai jadi selama seminggu sesuai dengan ketentuan yang berlaku.
+</p><p>Cara Membuat Masker dari Susu
+</p><p>Merawat kesehatan kulit adalah hal yang sangat penting. Terutama kulit wajah, karena kulit wajah adalah kulit paling sensitif terkena iritasi. Oleh karena itu, perlu dilakukan perawatan dengan menggunakan masker susu yang dipadukan dengan madu dan jeruk nipis. Tujuannya untuk mencerahkan kulit dan menghilangkan noda hitam pada wajah. Berikut langkah-langkah membuat masker susu.
+</p><p>
+</p><p>Menyiapkan 2 sendok susu bubuk, 1 sendok madu, dan 1 sendok perasan jeruk nipis;
+</p><p>Mencampurkan ketiga bahan tersebut hingga tercampur dengan rata;
+</p><p>Mengoleskan masker tersebut ke seluruh area wajah kecuali mata dan mulut;
+</p><p>Diamkan hingga 15 menit sampai masker tersebut mengering;
+</p><p>Membilas dengan air dingin hingga bersih;
+</p><p>Rasakan sensasi kesegaran masker susu pada wajah anda.
+</p><p>Cara Membuat Masker dari Telur
+</p><p>Kulit wajah adalah kulit paling sensitif terkena iritasi. Oleh karena itu, perlu dilakukan perawatan dengan menggunakan masker telur yang dipadukan dengan madu dan jeruk nipis. Tujuannya untuk mencerahkan kulit dan menghilangkan noda hitam pada wajah. Berikut langkah-langkah membuat masker telur dengan campuran madu.
+</p><p>
+</p><p>SUGGESTED NEWSMgid
+</p><p>
+</p><p>Nenek 120 tahun: “Pembersihan pembuluh darah sangatlah mudah!“
+</p><p>Naturatensi
+</p><p>
+</p><p>Pelajar Indonesia temukan cara pulihkan diabetes secara permanen!
+</p><p>Herbal Glucoactive
+</p><p>
+</p><p>Anda wajib minum ini! Agar tensi 120/80 dan pembuluh darah bersih
+</p><p>Heart
+</p><p>
+</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur">
+                            30. struktur teks prosedur</h2><br />
+                        Tujuan <br />Materi / komposisi<br />Langkah"nyaTujuan-langkah-langkah<br />contoh teks prosedur :<br /><br />Tujuan : Membuat es batu<br />Langkah-langkah :<br />1. Siapkan plastik,air, dan lemari es<br />2. Masukkan plastik dengan air<br />3. Ikatlah plastik tersebut dengan erat<br />4. masukkan plastik ke lemari es lalu tunggu sampai kurang lebih setengah hari<br />5. Selesai<br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur-di-antaranya%e2%80%a6">
+                            31. Struktur teks prosedur di antaranya… *</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tujuan, material, dan langkah-langkah. </p><p><strong>Penjelasan:</strong></p><p>Semoga_Membantu</p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur2-seperti-apakah-struktur-teks-prosedur-tersebut3-bagaimana-struktur-teks-prosedur-itu-bekerja4-bagaimanakah-materi-struktur-teks-prosedur-itu-berperan-dalam-kehidupan-seh">
+                            32.  struktur teks prosedur?2. seperti apakah struktur teks prosedur tersebut?3. bagaimana struktur teks prosedur itu bekerja?4. bagaimanakah materi struktur teks prosedur itu berperan dalam kehidupan sehari hari dan kariri masa depan peserta didik?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>struktur teks prosedur</p><p>-tujuan</p><p>-bahan dan alat</p><p>-langkah-langkah </p><p>-penutup</p><p><strong>Penjelasan:</strong></p><p>#sejutapohon</p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur%e2%80%8b">
+                            33. struktur teks prosedur​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>Struktur</strong><strong> </strong><strong>teks</strong><strong> </strong><strong>prosedur</strong><strong> </strong>adalah teks yang berisi tentang langkah-langkah ataupun tahap-tahap dalam melakukan suatu hal dari mulai melakukan kegiatan tertentu atau membuat hal tertentu yang di sajikan dengan berurutan.</p>TUJUAN  berisi menyebutkan apa yang akan dilakukan BAHAN DAN ALAT berisi memerinci bahan dan alatLANGKAH berisi urutan lanngka secara rinci per tahap PENUTUP  berisi bagian lain penekanan pada keuntungan dann ucapan selamat<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-struktur-teks-prosedur%e2%80%8b">
+                            34. Bagaimana struktur teks prosedur​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur teks prosedur terdiri dari tiga bagian, yaitu tujuan, langkah-langkah, dan penegasan ulang.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu;)</p><p>Struktur teks prosedur terdiri dari tiga bagian, yaitu tujuan, langkah-langkah, dan penegasan ulang. </p><p></p><p><strong>Penjelasan:</strong></p>semoga membantu :)yang baik bantu follow :)<br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur-terdiri-dari%e2%80%8b">
+                            35. struktur  teks prosedur terdiri dari​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur Teks Prosedur</p><p>Strukturnya terdiri dari: 1) tujuan, 2) alat dan bahan (untuk jenis prosedur cara membuat), 3) langkah-langkah (tahapan), 4) penutup.</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><p><strong>Jawaban:</strong></p><p>Teks prosedur sendiri memiliki tiga struktur dalam pembentukannya. Dalam hal ini ketiga struktur tersebut adalah bagian tujuan, bagian material, dan bagian langkah-langkah. ... Bagian material, berisikan bahan-bahan, alat-alat, atau material yang diperlukan, namun tidak tidak semua teks prosedur terdapat bagian ini.</p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur%e2%80%8b">
+                            36. struktur teks prosedur​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Bagian tujuan, bagian material, dan bagian langkah-langkah</p><p><strong>Penjelasan:</strong></p><p>Struktur Teks Prosedur Kompleks
+</p><p>Dalam pembuatan teks prosesdur memiliki 3 struktur penting yang harus ada diantaranya:
+</p><p>
+</p><p>1. Bagian Tujuan
+</p><p>Pada bagian tujuan teks prosedur ini dapat berisi tentang tujuan pembuatan teks prosedur atau hasil akhir yang hendak dicapai bila sudah melakukan beberapa tahapan dalam teks prosedur itu.
+</p><p></p><p>  </p><p>2. Bagian Material
+</p><p>Selanjutnya ada pada bagian material dari teks prosedur yang isinya terkait bahan, alat, ataupun material yang diperlukan. Namun tak semua teks prosedur ada bagian satu ini. Umumnya pemakaian bagian material ada dalam teks prosedur yang membahas tentang pembuatan tertentu seperti pembuatan resep makanan ataupun lainnya.
+</p><p>
+</p><p>3. Bagian Langkah-Langkah
+</p><p>Yang ketiga ada bagian langkah langkah yang isinya tentang langkah langkah yang perlu di lalui agar memperoleh hasil yang sesuai terhadap tujuan dari teks prosedur. Di bagian ini, setiap tahapnya juga harus dilakukan secara urut tidak boleh dilakukan secara acak.</p><p><strong>Jawaban:</strong></p><p><strong>1.</strong><strong>t</strong><strong>u</strong><strong>j</strong><strong>u</strong><strong>a</strong><strong>n</strong></p><p><strong>2.</strong><strong>m</strong><strong>a</strong><strong>t</strong><strong>e</strong><strong>r</strong><strong>i</strong><strong>a</strong><strong>l</strong></p><p><strong>3.</strong><strong>langkah-langkah</strong></p><p><strong>Penjelasan:</strong></p><p> semoga membantu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dalam-teks-prosedur-ada-yang-namanya-struktur-teks-prosedur-coba-kalian-jelaskan-kata-struktur-itu-dengan-bahasa-sendiri%e2%80%8b">
+                            37. Dalam Teks Prosedur ada yang namanya struktur Teks Prosedur, coba kalian jelaskan kata Struktur itu dengan bahasa sendiri!​</h2><br />
+                        <p>menurut saya, struktur merupakan suatu subjek/objek/hal yang ada pada sesuatu teks/rupa yang menjadi aspek dalam main ideanya.</p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur">
+                            38. Struktur Teks prosedur</h2><br />
+                        judul,pengantar tujuan,alat dan bahan,langkah langkah,penutup....Teks prosedur sendiri memiliki tiga struktur dalam pembentukannya. Dalam hal ini ketiga struktur tersebut adalah bagian tujuan, bagian material, dan bagian langkah-langkah. Untuk mengetahui penjelasan dari setiap struktur tersebut kalian bisa simak langsung berikut ini.
+Bagian Tujuan, bagian tujuan dari teks prosedur dapat berupa judul dan juga berisikan tujuan dari pembuatan teks prosedur tersebut atau hasil akhir yang akan di capai jika kita melakukan tahapan pada teks prosedur tersebut.
+Bagian material, berisikan bahan-bahan, alat-alat, atau material yang diperlukan, namun tidak tidak semua teks prosedur terdapat bagian ini. Pada umumnya penggunaan bagian material terdapat pada teks prosedur tentang pembuatan suatu hal seperti makanan dan sebagainya.
+Bagian langkah-langkah, bagian ini berisikan langkah-langkah yang harus ditempuh untuk memperoleh hasil sesuai dengan tujuan teks prosedur. Pada bagian ini setiap langkah harus dilakukan secara urut tidak boleh secara acak dalam melakukannya.<br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur">
+                            39. Struktur teks prosedur </h2><br />
+                        struktur teks prosedur yaitu<br />1.tujuan<br />2.langkah langkah (petunjuk) <br />3.penegasan ulang (penutup) <br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-prosedur-terdiri-dari-dan">
+                            40. Struktur teks prosedur terdiri dari....dan....</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>struktur teks prosedur terdiri dari tujuan dan langkah langkah</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/h1gjHOGcpJA?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ujian_nasional</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/what-is-the-writer-s-intention-to-write-the-text/">What Is The Writer s Intention To Write The Text</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/keunikan-karya-tari-dapat-dilihat-dari/">Keunikan Karya Tari Dapat Dilihat Dari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/verb-2-cook/">Verb 2 Cook</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-yang-dimaksud-dengan-aerobic/">Jelaskan Yang Dimaksud Dengan Aerobic</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/x-2-x-12-0/">X 2 X 12 0</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/awanna-be-with-you-artinya/">Awanna Be With You Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/rekreatif/">Rekreatif</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/putrane-puntadewa-yaiku/">Putrane Puntadewa Yaiku</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/400-ml-berapa-sendok-makan/">400 Ml Berapa Sendok Makan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/komputer-dalam-keadaan-setengah-mati-disebut/">Komputer Dalam Keadaan Setengah Mati Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dewasa-ini/">Dewasa Ini</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fungsi-protoplasma/">Fungsi Protoplasma</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pathokan-tembang-kinanthi/">Pathokan Tembang Kinanthi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-ini-yang-bukan-merupakan-struktur-aransemen-musik-yaitu/">Berikut Ini Yang Bukan Merupakan Struktur Aransemen Musik Yaitu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tentukan-kedudukan-titik-b-terhadap-garis-ab/">Tentukan Kedudukan Titik B Terhadap Garis Ab</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kern-invented/">Kern Invented</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dekel-artinya/">Dekel Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/aktivitas-perencanaan-produksi-berkaitan-dengan/">Aktivitas Perencanaan Produksi Berkaitan Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-persatuan-dan-kesatuan-sangat-penting-bagi-bangsa-indonesia/">Mengapa Persatuan Dan Kesatuan Sangat Penting Bagi Bangsa Indonesia</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-pelanggaran-terhadap-kewajiban-sebagai-warga-negara-adalah/">Contoh Pelanggaran Terhadap Kewajiban Sebagai Warga Negara Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

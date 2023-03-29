@@ -1,0 +1,1364 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Soft File Adalah - BELAJAR</title>
+    <meta name="description" content="Soft File Adalah, , , , , , , 0, SOFTFILE DAN HARDFILE - Bakhel Share, www.bakhel.com, 1366 x 768, jpeg, , 20, soft-file-adalah, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Soft File Adalah - BELAJAR" />
+    <meta property="og:description" content="Soft File Adalah, , , , , , , 0, SOFTFILE DAN HARDFILE - Bakhel Share, www.bakhel.com, 1366 x 768, jpeg, , 20, soft-file-adalah, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Soft File Adalah - BELAJAR" />
+    <meta name="twitter:description" content="Soft File Adalah, , , , , , , 0, SOFTFILE DAN HARDFILE - Bakhel Share, www.bakhel.com, 1366 x 768, jpeg, , 20, soft-file-adalah, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Soft File Adalah</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">radi0458</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Soft+File+Adalah" alt="Soft File Adalah">
+                    </div>
+                    <p></p>
+                    <p>apa yang dimaksud soft file​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-soft-file%e2%80%8b">1.
+                                            apa yang dimaksud soft file​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cara-membuat-soft-file">2.
+                                            Cara membuat soft file</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dari-contoh-di-atas-file-soft-copy-tuh-yg-mana-ya-%e2%80%8b">3.
+                                            dari contoh di atas, FILE SOFT COPY tuh yg mana ya? ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yang-bukan-perangkat-komputer-adalaha-hardwareb-soft-warec-brainwared-soft-filee-usersertakan-penjelasan-lugas%e2%80%8b">4.
+                                            yang bukan perangkat komputer adalah?A. HARDWAREB. SOFT WAREC. BRAINWARED. SOFT FILEE. USERsertakan penjelasan lugas​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perangkat-untuk-merubah-hard-file-menjadi-soft-file-adalaha-cpub-printerc-scannerd-monitor-%e2%80%8b">5.
+                                            perangkat untuk merubah hard file menjadi soft file adalaha. CPUb. Printerc. Scannerd. Monitor ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buku-elektronik-yang-dihadirkan-dalam-bentuk-soft-file-di-internet-disebut">6.
+                                            buku elektronik yang dihadirkan dalam bentuk soft file di internet disebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-di-maksud-soft-distorsi">7.
+                                            Apa yang di maksud soft distorsi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pertanyaan-tentang-soft-ball">8.
+                                            pertanyaan tentang soft ball</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#klik-tab-file-lalu-klik-print-artinyaa-membuka-fileb-menyimpan-filec-menutup-filed-mencetak-filee-menghapus-file">9.
+                                            Klik tab file, lalu klik print, artinya
+a.membuka file
+b.menyimpan file
+c.menutup file
+d.mencetak file
+e.menghapus file</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#synonym-dari-kata-softmeaningdari-kata-soft">10.
+                                            Synonym: dari kata 
+soft
+Meaning:dari kata soft</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perintah-untuk-membuat-presentasi-baru-adalah%e2%80%a6file-barufile-barufile-bukafile-bukafile-hematfile-hematfile-simpan-sebagai">11.
+                                            Perintah untuk membuat presentasi baru adalah…
+FILE - BARU
+FILE - BARU
+FILE - BUKA
+FILE - BUKA
+FILE- HEMAT
+FILE- HEMAT
+FILE- SIMPAN SEBAGAI</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#soft-and-the-bread-is-bigthe-correct-sentence-is-a-the-big-is-bread-and-soft-b-the-soft-is-bread-and-big-c-the-soft-is-big-and-bread-d-the-bread-is-big-and-soft-%e2%80%8b">12.
+                                            ./ soft-and-the-bread-is-bigThe correct sentence is ....a. The big is bread and soft.b. The soft is bread and big.c. The soft is big and bread.d. The bread is big and soft.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-jenis-fileapakah-jenis-file-berhubungan-dengan-file">13.
+                                            apa saja jenis file?apakah jenis file berhubungan dengan file?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#espak-soft-adalah">14.
+                                            espak soft adalah....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-kita-membuka-sesuatu-filemengubah-file-tersebutkemudian-menyimpanyaberarti-kita-telah-melakukan-a-penyimpanan-file-barub-penyimpanan-file-lamac-pembukaan-file-barud-pembukaan-file-lama">15.
+                                            jika  kita membuka sesuatu file,mengubah file tersebut,kemudian menyimpanya,berarti kita telah melakukan.....a.penyimpanan file barub.penyimpanan file lamac.pembukaan file barud.pembukaan file lama​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-di-maksud-soft-distorsi">16.
+                                            Apa yang di maksud soft distorsi </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ini-maksudnya-gmana-ya-aku-gk-ngerti-soft-file-infograpfic-tuh-apa%e2%80%8b">17.
+                                            ini maksudnya gmana ya aku gk ngerti, soft file infograpfic tuh apa?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apabila-seseorang-akan-berkomunikasi-dengan-relasi-kerja-dan-dalam-komunikasi-tersebut-juga-akan-memberikan-beberapa-soft-file-dalam-berbagai-bentuk-yang-berbeda-beda-dan-berukuran-yang-besar-maka-al">18.
+                                            Apabila seseorang akan berkomunikasi dengan relasi kerja dan dalam komunikasi tersebut juga akan memberikan beberapa soft file dalam berbagai bentuk yang berbeda-beda dan berukuran yang besar, maka alat komunikasi yang paling efektif adalah….
+a. Surat
+b. Telepon
+c. Faximile
+d. E-mail
+e. Intercom</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-soft-filters%e2%80%8b">19.
+                                            Apa itu Soft-Filters​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mohon-buatkan-pidato-b-inggris-tentang-bahaya-narkoba-min-1-folio-lampirkan-dalam-bentuk-soft-file-terima-kasih">20.
+                                            Mohon buatkan pidato b.inggris tentang bahaya narkoba min 1 folio. Lampirkan dalam bentuk soft file. Terima kasih</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#penjelasan-mengenai-fungsi-permintaan-rumus-dan-keterangan-terlengkap-bisa-kasi-site-nya-atau-file-soft-copynya-biar-gampang-terima-kasih">21.
+                                            Penjelasan Mengenai Fungsi Permintaan 
+Rumus dan keterangan TERLENGKAP ...
+( Bisa kasi site nya atau file soft copynya biar gampang ) 
+Terima kasih </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-menajemen-file-ada-file-file-yang-tidak-boleh-di-ubah-yaitu-file-yang-termasuk">22.
+                                            dalam menajemen file ada file file yang tidak boleh di ubah yaitu file yang termasuk </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-adalah-nama-file-d0050821-jpeg-dari-nama-file-tersebut-pernyataan-di-bawah-ini-yang-benar-adalah-1-poin-d0050821-adalah-nama-file-dan-jpeg-adalah-type-file-d0050821-adalah-type-file-dan-j">23.
+                                            Berikut adalah Nama file " D0050821.Jpeg" dari nama file tersebut pernyataan di bawah ini yang benar adalah 1 poin D0050821 adalah nama file dan .Jpeg adalah Type file D0050821 adalah Type file dan .Jpeg adalah nama file D0050821 adalah ukuran file dan .Jpeg adalah Type file D0050821 adalah Nama file dan .Jpeg adalah Ukuran file​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-file-yang-berisikan-record-record-disebut-dengan-file-a-history-fileb-backup-file-c-master-file-d-property-filee-report-file">24.
+                                            Suatu file yang berisikan record-record disebut dengan file .... 
+a. history file
+b. backup file 
+c. master file 
+d. property file
+e. report file </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-alat-yang-digunakan-sebagai-pengganti-listrik-adalah-2-microsoft-excel-termasuk-salah-satu-soft-file-dalam-kelompok-tolong-bantu-jawab-besok-dikumpulin">25.
+                                            1. Alat yang digunakan sebagai pengganti listrik adalah...
+2. Microsoft excel termasuk salah satu soft file dalam kelompok....
+Tolong bantu jawab.. Besok dikumpulin</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#singkatan-dari-soft-ball">26.
+                                            singkatan dari soft ball</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perangkat-ini-memiliki-prinsip-kerja-merubah-bentuk-hard-file-menjadi-soft-file-perangkat-yang-dimaksud-adalah-%e2%80%a6-a-keyboardb-mousec-microphoned-scanner%e2%80%8b">27.
+                                            Perangkat ini memiliki prinsip kerja merubah bentuk hard file menjadi soft file. Perangkat yang dimaksud adalah … A.KeyboardB.MouseC.MicrophoneD.Scanner​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#untuk-informasi-yang-tersaji-dalam-bentuk-soft-file-dapat-diperoleh-melalui-proses">28.
+                                            untuk informasi yang tersaji dalam bentuk soft-file dapat diperoleh melalui proses??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-buatkan-cerkak-cerpen-dalam-bahasa-jawa-tema-bebas-kalo-bisa-sampe-2-lembar-lebih-yaa-soft-file-di-mc-word-makasih-%c2%a0note-dalam-bahasa-jawa-jawaban-ditunggu-coz-besok-selasa-d">29.
+                                            tolong buatkan CERKAK (cerpen dalam bahasa jawa). tema bebas. kalo bisa sampe 2 lembar lebih yaa, soft file di mc.word.. makasih :) *note: dalam bahasa jawa.jawaban ditunggu.. 'coz besok selasa dikumpulin.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#setiap-file-memiliki-identitas-masing-masing-dalam-pemberian-nama-file-identitas-ini-dapat-di-kenal-melalui-a-nama-file-c-ukuran-fileb-ekstensi-file-d-bentuk-file">30.
+                                            setiap file memiliki identitas masing-masing dalam pemberian nama file.identitas ini dapat di kenal  melalui...a.nama file.                 c.ukuran fileb.ekstensi file.            d.bentuk file​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#memiliki-kompatibilitas-yang-tinggi-dengan-aplikasi-aplikasi-lain-berbasis-window-maksud-dari-pertanyaan-tersebut-adalah-a-hasil-soft-file-kerja-programnya-yang-berupa-dokumen-dapat-di-baca-oleh-progr">31.
+                                            memiliki kompatibilitas yang tinggi dengan aplikasi-aplikasi lain berbasis window maksud dari pertanyaan tersebut adalah a.hasil soft-file kerja programnya yang berupa dokumen dapat di baca oleh program aplikasi dalam lingkup microsoft office 
+b.tidak dapat di hubungkan dengan program lain dalam lingkup microsoft office 
+c.hasil produk file tidak memiliki korelasi dengan program lain 
+d.tidak mampu menghasilkan program yang support</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-terjadi-apabila-menyimpan-file-dengan-nama-file-yang-sama-dengan-file-sebelumnya">32.
+                                            apa yang terjadi apabila menyimpan file dengan nama file yang sama dengan file sebelumnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-jawab-yaa-1-jelaskan-peraturan-dalam-permainan-soft-ball-2-sebutkan-jenis-pukulan-dalam-permainan-soft-ball-3-jelaskan-tehnik-melempar-dalam-permainan-soft-ball-4-sebutkan-induk-organ">33.
+                                            Tolong Jawab Yaa :)1. Jelaskan peraturan dalam permainan soft ball !2. Sebutkan jenis pukulan dalam permainan soft ball ! 3. Jelaskan tehnik melempar dalam permainan soft ball !4. Sebutkan induk organisasi internasional soft ball !​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-apa-fungsi-espak-soft2-berapa-harga-espak-soft3-kebanyakan-espak-soft-dijual-dimana">34.
+                                            1. Apa fungsi ESPAK SOFT?
+2. Berapa harga ESPAK SOFT
+3. Kebanyakan ESPAK SOFT dijual dimana?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#representasi-filemencari-masing-masing-5-ektensi-dari-1-jenis-filejenis-jenis-file-file-sistem-file-video-file-dokumen-file-gambar-file-audiopilih-salah-satu-filenya-%e2%80%8b">35.
+                                            Representasi FileMencari masing masing 5 ektensi dari 1 jenis fileJenis jenis File :-File Sistem-File Video-File Dokumen-File Gambar-File Audiopilih salah satu filenya ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sinonim-soft-apa">36.
+                                            sinonim "soft" apa ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alat-penyimpan-data-data-kantor-yang-berupa-soft-file-di-sebut">37.
+                                            Alat penyimpan data data kantor yang berupa soft file di sebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapa-jumlah-pemain-soft-ball-buatlah-gambar-lapangan-soft-ball-lamanya-permainan-soft-ball-ditentukan-berapa-jumlah-kesalahan-dalam-seitiap-setbaru-diganti-penjaga">38.
+                                            Berapa jumlah pemain soft ball ? Buatlah gambar lapangan soft ball ? Lamanya permainan soft ball ditentukan ? Berapa jumlah kesalahan dalam seitiap set,baru diganti penjaga ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tanda-yang-membedakan-antara-satu-jenis-file-dengan-jenis-file-lainnya-adalah-%e2%80%a6%e2%80%a6-a-sistem-fileb-ekstensi-filec-tanda-filed-dokumen-file%e2%80%8b">39.
+                                            Tanda yang membedakan antara satu jenis file dengan jenis file lainnya adalah …….A. Sistem FileB. Ekstensi FileC. Tanda FileD. Dokumen File​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pertanyaan-yang-benar-tentang-microsoft-word-adalah-a-soft-ware-pengolah-data-b-soft-ware-pengolah-angkac-soft-ware-pengolah-gambar-d-soft-ware-pengolah-kata">40.
+                                            Pertanyaan yang benar tentang Microsoft word adalah??...
+A. Soft ware pengolah data 
+B. Soft ware pengolah angka
+C. Soft ware pengolah gambar 
+D. Soft ware pengolah kata</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-soft-file%e2%80%8b">
+                            1. apa yang dimaksud soft file​</h2><br />
+                        <p>Soft file merupakan sebuah dokumen digital dalam komputer atau perangkat elektronik. Soft file hanya dapat dibuka dengan menggunakan sebuah aplikasi sesuai jenis soft filenya.</p>Pembahasan<p>Dalam dunia teknologi, terdapat berbagai istilah yang sering digunakan untuk menggambarkan sesuatu. Salah satu istilah yang harus dipahami adalah soft file. Soft file merupakan sebuah program digital yang berupa dokumen. Soft file hanya dapat di buka dengan menggunakan sebuah aplikasi tertentu. Selain itu, soft file juga dapat di simpan di berbagai perangkat tekonologi.
+</p><p>Soft file sering digunakan karena memiliki beberapa keunggulan. Berikut adalah beberapa keunggulan soft file dibandingkan dengan jenis dokumen lainnya.
+</p><strong>Praktis. </strong>Pasalnya soft file dapat disimpan di berbagai perangkat elektronik
+<strong>Hemat.</strong> Dengan menggunakan soft file, user tidak perlu mengeluarkan biaya lebih untuk mencetak dokumen tersebut.
+<strong>Mudah di salin.</strong> Dengan menggunakan soft file, user dapat menyalin untuk berbagai keperluan lain.
+<strong>Pengiriman yang mudah.</strong> Jika menggunakan soft file, pengirimannya dapat dilakukan dengan mudah, seperti melalui sosial media atau email.
+<p>  </p>Pelajari lebih lanjut<p>1. Materi tentang cara membuat soft file https://brainly.co.id/tugas/32183761</p><p>2. Materi tentang buku elektronik dalam bentuk soft file https://brainly.co.id/tugas/4392817</p><p>3. Materi tentang langkah-langkah menyimpan soft file https://brainly.co.id/tugas/9750899</p><p>-----------------------------
+</p><p>  </p>Detil jawaban<p><strong>Kelas:</strong> 7 SMP
+</p><p><strong>Mapel:</strong> TIK
+</p><p><strong>Bab:</strong> Bab 8 - Perangkat Lunak Komputer</p><p><strong>Kode:</strong> 7.11.8</p><p>
+</p><p><strong>#AyoBelajar</strong>
+</p><br />
+                                            <h2 class="ez-toc-section" id="cara-membuat-soft-file">
+                            2. Cara membuat soft file</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>maaf Kak Saya tahunya cuman itu tapi masalahnya saya nggak ngerti apa soft  saya nggak tahu itu apaan makanya saya tahunya cuman itu saja</p><p><strong>Penjelasan:</strong></p><p>Pilih File &gt; Open untuk membuka dokumen yang ingin Anda simpan sebagai PDF, atau cukup ketik dokumen baru. Setelah dokumen Anda siap pilih File &gt; Export dan kemudian pilih PDF / XPS . Di bawah Publish as PDF or XPS, ubah nama file Anda dan pilih di mana Anda ingin menyimpan file PDF. Pilih Publish.3 Sep 2018</p><br />
+                                            <h2 class="ez-toc-section" id="dari-contoh-di-atas-file-soft-copy-tuh-yg-mana-ya-%e2%80%8b">
+                            3. dari contoh di atas, FILE SOFT COPY tuh yg mana ya? ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Document paling atas</p><p></p><p><strong>Penjelasan:</strong></p><p>Soft copy berarti data atau informasi yang dapat disimpan dalam segala jenis memori digital. Ini adalah bentuk melestarikan materi yang tidak berwujud. Anda dapat melihat catatan tetapi tidak dapat menyentuhnya. Monitor atau layar tampilan lain digunakan untuk melihat hasil soft copy. Soft copy adalah bentuk terbaru untuk melestarikan materi dan informasi dalam bentuk digital. Dengan penemuan komputer, konsep soft copy muncul.Soft Copy</p><p></p><p></p><strong>Contoh Soft Copy</strong><p>Tidak seperti hard copy, itu tidak disimpan atau dicetak di atas kertas fisik melainkan tersedia dalam bentuk file dokumen digital seperti format teks digital, format gambar atau format presentasi lainnya. PDF, file doc, file xlx, file presentasi, dll. Adalah contoh terbaik dari soft copy.</p><p></p><p>Alih-alih melihat melalui media fisik apa pun, ini diakses melalui program basis data, program pengolah kata atau melalui program presentasi yang tunduk pada format file atau data. Ini dapat ditransfer dari satu PC dan sistem operasi ke PC lain atau sistem operasi melalui drive USB, drive disk eksternal atau berbagi dan mengunduh secara online.</p><br />
+                                            <h2 class="ez-toc-section" id="yang-bukan-perangkat-komputer-adalaha-hardwareb-soft-warec-brainwared-soft-filee-usersertakan-penjelasan-lugas%e2%80%8b">
+                            4. yang bukan perangkat komputer adalah?A. HARDWAREB. SOFT WAREC. BRAINWARED. SOFT FILEE. USERsertakan penjelasan lugas​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>yang bukan perangkat komputer adalah?</p><p></p><p>E. USER</p><p>Acer merupakan sebuah merek lima besar komputer pribadi dunia.</p><br />
+                                            <h2 class="ez-toc-section" id="perangkat-untuk-merubah-hard-file-menjadi-soft-file-adalaha-cpub-printerc-scannerd-monitor-%e2%80%8b">
+                            5. perangkat untuk merubah hard file menjadi soft file adalaha. CPUb. Printerc. Scannerd. Monitor ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>c scanner</p><p><strong>Penjelasan:</strong></p><p>semoga Membantu</p><p><strong>Jawaban:</strong></p><p>C. scanner</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah </p><br />
+                                            <h2 class="ez-toc-section" id="buku-elektronik-yang-dihadirkan-dalam-bentuk-soft-file-di-internet-disebut">
+                            6. buku elektronik yang dihadirkan dalam bentuk soft file di internet disebut</h2><br />
+                        Eletronic Book Atau E Book<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-di-maksud-soft-distorsi">
+                            7. Apa yang di maksud soft distorsi</h2><br />
+                        <p>Distorsi adalah perangkat elektronik yang mengubah bagaimana sebuah alat musik atau sumber audio lainnya ( efek ) yang digunakan pada gitar listrik, bass listrik, dan instrumen yang diamplifikasi lainnya seperti organ Hammond, synthesizer, harmonika, dan bahkan vokal yang menggunakan kliping elektronik sinyal.</p><br />
+                                            <h2 class="ez-toc-section" id="pertanyaan-tentang-soft-ball">
+                            8. pertanyaan tentang soft ball</h2><br />
+                        <p>Bagaimana soft ball diciptakan?</p><p>Siapa yang menciptakan permainan softball?</p><p>Bagaimana cara memainkan permainan softball?</p><br />
+                                            <h2 class="ez-toc-section" id="klik-tab-file-lalu-klik-print-artinyaa-membuka-fileb-menyimpan-filec-menutup-filed-mencetak-filee-menghapus-file">
+                            9. Klik tab file, lalu klik print, artinya
+a.membuka file
+b.menyimpan file
+c.menutup file
+d.mencetak file
+e.menghapus file</h2><br />
+                        <p>Klik tab file, lalu klik print artinya <strong>D. Mencetak file</strong></p><p></p><p>Alasan: Karena, secara harfiahpun print merupakan tindakan dalam membuat suatu file tertentu menjadi selembaran atau lebih kertas yang isinya serupa dengan tampilan yang terdapat di file. </p><br />
+                                            <h2 class="ez-toc-section" id="synonym-dari-kata-softmeaningdari-kata-soft">
+                            10. Synonym: dari kata 
+soft
+Meaning:dari kata soft</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>synonym soft = fine/halus</p><p>lunak dan halus (tidak keras); lemas (tidak kaku); lemah (mudah dilentuk)./ soft and smooth (not hard); limp (not stiff); weak (easily pliable).</p><br />
+                                            <h2 class="ez-toc-section" id="perintah-untuk-membuat-presentasi-baru-adalah%e2%80%a6file-barufile-barufile-bukafile-bukafile-hematfile-hematfile-simpan-sebagai">
+                            11. Perintah untuk membuat presentasi baru adalah…
+FILE - BARU
+FILE - BARU
+FILE - BUKA
+FILE - BUKA
+FILE- HEMAT
+FILE- HEMAT
+FILE- SIMPAN SEBAGAI</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>File - Baru (New)</p><p><strong>Penjelasan:</strong></p><p>Semangat teruss</p><br />
+                                            <h2 class="ez-toc-section" id="soft-and-the-bread-is-bigthe-correct-sentence-is-a-the-big-is-bread-and-soft-b-the-soft-is-bread-and-big-c-the-soft-is-big-and-bread-d-the-bread-is-big-and-soft-%e2%80%8b">
+                            12. ./ soft-and-the-bread-is-bigThe correct sentence is ....a. The big is bread and soft.b. The soft is bread and big.c. The soft is big and bread.d. The bread is big and soft.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D. the bread is big and soft</p><p><strong>Jawaban:</strong></p><p><strong> </strong><strong>D</strong><strong>.</strong><strong> </strong><strong>T</strong><strong>h</strong><strong>e</strong><strong> </strong><strong>b</strong><strong>r</strong><strong>e</strong><strong>a</strong><strong>d</strong><strong> </strong><strong>i</strong><strong>s</strong><strong> </strong><strong>b</strong><strong>i</strong><strong>g</strong><strong> </strong><strong>a</strong><strong>n</strong><strong>d</strong><strong> </strong><strong>s</strong><strong>o</strong><strong>f</strong><strong>t</strong><strong>.</strong><strong> </strong></p><p><strong>Penjelasan:</strong></p><p>seperti kita tau bahwa bread adalah subject, </p><p>dan kata " big, soft " bukanlah subject</p><br />
+                                            <h2 class="ez-toc-section" id="apa-saja-jenis-fileapakah-jenis-file-berhubungan-dengan-file">
+                            13. apa saja jenis file?apakah jenis file berhubungan dengan file?</h2><br />
+                        file berupa data doc,image dll<br />
+                                            <h2 class="ez-toc-section" id="espak-soft-adalah">
+                            14. espak soft adalah....</h2><br />
+                        bahan untuk membuat squishy kayanyaBahan yang digunakan untuk membuat squishy ya insyaallah bener ya<br />
+                                            <h2 class="ez-toc-section" id="jika-kita-membuka-sesuatu-filemengubah-file-tersebutkemudian-menyimpanyaberarti-kita-telah-melakukan-a-penyimpanan-file-barub-penyimpanan-file-lamac-pembukaan-file-barud-pembukaan-file-lama">
+                            15. jika  kita membuka sesuatu file,mengubah file tersebut,kemudian menyimpanya,berarti kita telah melakukan.....a.penyimpanan file barub.penyimpanan file lamac.pembukaan file barud.pembukaan file lama​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>B. penyimpanan file lama</p><p><strong>Penjelasan:</strong></p><p><strong>Jawaban:</strong></p><p>b.penyimpanan file lama</p><p></p><p>maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-di-maksud-soft-distorsi">
+                            16. Apa yang di maksud soft distorsi </h2><br />
+                        perangkat elektronik yang mengubah bagaimana sebuah alat musik atau sumber audio lainnya ( efek ) yang digunakan pada gitar listrik, bass listrik, dan instrumen yang diamplifikasi lainnya seperti organ Hammond, synthesizer, harmonika, dan bahkan vokal yang menggunakan kliping elektronik sinyal.<br /><br />#Semoga membantu<br />-Maaf kalo salah jawabDistorsi adalah proses penyimpangan atau kekacauan baik itu besar maupun kecil yang dapat mengganggu atau menghambat proses tercapainya suatu tujuan.<br />atau penyimpangan dari sejarah<br />
+                                            <h2 class="ez-toc-section" id="ini-maksudnya-gmana-ya-aku-gk-ngerti-soft-file-infograpfic-tuh-apa%e2%80%8b">
+                            17. ini maksudnya gmana ya aku gk ngerti, soft file infograpfic tuh apa?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>soft file infograpfic :infografis file lunak </p><p><strong>Jawaban:</strong></p><p>soft file infographic:infographic file lunak</p><br />
+                                            <h2 class="ez-toc-section" id="apabila-seseorang-akan-berkomunikasi-dengan-relasi-kerja-dan-dalam-komunikasi-tersebut-juga-akan-memberikan-beberapa-soft-file-dalam-berbagai-bentuk-yang-berbeda-beda-dan-berukuran-yang-besar-maka-al">
+                            18. Apabila seseorang akan berkomunikasi dengan relasi kerja dan dalam komunikasi tersebut juga akan memberikan beberapa soft file dalam berbagai bentuk yang berbeda-beda dan berukuran yang besar, maka alat komunikasi yang paling efektif adalah….
+a. Surat
+b. Telepon
+c. Faximile
+d. E-mail
+e. Intercom</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D. E-email</p><p><strong>Penjelasan:</strong></p><p>karna bisa mengirim documen/maupun file /teks dll</p><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-soft-filters%e2%80%8b">
+                            19. Apa itu Soft-Filters​</h2><br />
+                        <p>saringan lembut.........</p><br />
+                                            <h2 class="ez-toc-section" id="mohon-buatkan-pidato-b-inggris-tentang-bahaya-narkoba-min-1-folio-lampirkan-dalam-bentuk-soft-file-terima-kasih">
+                            20. Mohon buatkan pidato b.inggris tentang bahaya narkoba min 1 folio. Lampirkan dalam bentuk soft file. Terima kasih</h2><br />
+                        ini semoga  bisa  membantu.....................<br /><p>Good afternoon.</p><br />I would like to thank for all the attendees who have provided an opportunity for me to stand in this pulpit. Let us give thanks to God for the permission so we are able to follow this great event.<br />Drug is a term that is so popular in Indonesia and the world. In Indonesian, we know drugs as Narkoba which stands for narcotic, psychotropic and addictive. Drugs are commonly known as shabu and ectasy. Both substances are widely used by middle and high school students. However, many adults also consume it, because we often see on the television that adults are arrested by the police because they were using ectasy.<br />Drug manufacturers realize that consumers do not like the expensive price. Therefore, in order to promote the drug wider, then a lot of low-grade heroin is produced. Even though known as heroin, it has lower-priced, and may also give the death effect to the drug user.The presence of drugs that have a low price can be seen in a lot of places. At the first time, we encounter drug users only in nightclubs or discotheques, now they are increasingly widespread. You can find low-grade heroin even in isolated villages. It proves that drug users continue to increase every year and this is a terrible fact.<br />Of course, a very broad spread of drug impact on all circle of life. Currently, the youth with the teen years are wasted their life by taking drugs. They use drugs for many reasons. Most young people who use drugs are the teenagers who do not get the attention of their parents. Somewhere in Indonesia, the data showed that three out of ten young people are drug users. Meanwhile, the data for all of the area in Indonesia shows that from the 50 Indonesian is at least one person ever tasted the drug.<br />A study conducted by the ILO or the International Labor Organization said that about 4 percent of drug users in Indonesia is a juvenile under the age of 17 years. It is a fact that we should ponder. Indonesia is a big country and has the potency to become a developed country. But how Indonesia can be a developed country if its young people use drugs?<br />In fact, several teens are involved in the manufacture and trade of the drugs even when they were 13 or 15 years old. The fact is reinforced by the statement of National Narcotics Coordinating Agency which revealed that drug users Indonesia numbered about 7,000 from junior high school students, more than 10,000 from senior high school students, and about 800 from elementary school students. The data is very poor and I personally will not able to imagine if the drug use continues to rise again and again.<br />Besides the affordable prices, what really makes the students in Indonesian are easy to get drugs? People who use drugs usually want to have fun or escape from the problems of life. Most likely, the students in Indonesia use drugs because they are ostracized by their families or their families are broken home. Thus, they are reluctant to stay at home and prefer to have fun by using drugs.<br />Besides those reasons, students can use drugs easily because a number of merchants are closely to the schools to deceive, to coerce, or to give the drugs freely for the students around the school. When the students are addicted to drugs, then the merchant will not allow them to get it free. They have to buy with the high prices.<br />All the facts that I have given you, have shown that the drug is very close to the lives of us especially the young people. In fact, when people consume drugs consistently, the brain function can be damaged and certainly exacerbate the future.<br />Let us keep ourselves and our families from illegal drugs. When you have a teenager, then pay attention to their physical and spiritual needs as well. Never give them the opportunity to use drugs.<br />Those are the facts and the suggestions that I can tell, I apologize if there are mistakes in speaking. I thank you for your attention.<br /><br /> MAAF KALAU HANYA MEMBUAT PIDATO SAJA <br />
+                                            <h2 class="ez-toc-section" id="penjelasan-mengenai-fungsi-permintaan-rumus-dan-keterangan-terlengkap-bisa-kasi-site-nya-atau-file-soft-copynya-biar-gampang-terima-kasih">
+                            21. Penjelasan Mengenai Fungsi Permintaan 
+Rumus dan keterangan TERLENGKAP ...
+( Bisa kasi site nya atau file soft copynya biar gampang ) 
+Terima kasih </h2><br />
+                        Fungsi permintaan adalah menggambarkan hubungan antara variabel harga (P) dengan variabel jumlah barang yang di minta (Qd) <br /><br />Rumusnya : di foto<br />Keterangan rumus : <br />a = konstanta<br />b= variabel bebas<br />P = harga<br />Qd = jumlah barang yang di minta<br />
+                                            <h2 class="ez-toc-section" id="dalam-menajemen-file-ada-file-file-yang-tidak-boleh-di-ubah-yaitu-file-yang-termasuk">
+                            22. dalam menajemen file ada file file yang tidak boleh di ubah yaitu file yang termasuk </h2><br />
+                        file system seperi file berektensi dll sys dan lainnya<br />
+                                            <h2 class="ez-toc-section" id="berikut-adalah-nama-file-d0050821-jpeg-dari-nama-file-tersebut-pernyataan-di-bawah-ini-yang-benar-adalah-1-poin-d0050821-adalah-nama-file-dan-jpeg-adalah-type-file-d0050821-adalah-type-file-dan-j">
+                            23. Berikut adalah Nama file " D0050821.Jpeg" dari nama file tersebut pernyataan di bawah ini yang benar adalah 1 poin D0050821 adalah nama file dan .Jpeg adalah Type file D0050821 adalah Type file dan .Jpeg adalah nama file D0050821 adalah ukuran file dan .Jpeg adalah Type file D0050821 adalah Nama file dan .Jpeg adalah Ukuran file​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D0050821 adalah nama file dan .Jpeg adalah Type file</p><p>Maaf jika salah :) &amp; Semoga Membantu &gt;&gt;</p><p><strong>Jawaban:</strong></p><p>D0050821 adalah nama file dan .Jpeg adalah Type file</p><p><strong>Penjelasan:</strong></p><p>:)</p><br />
+                                            <h2 class="ez-toc-section" id="suatu-file-yang-berisikan-record-record-disebut-dengan-file-a-history-fileb-backup-file-c-master-file-d-property-filee-report-file">
+                            24. Suatu file yang berisikan record-record disebut dengan file .... 
+a. history file
+b. backup file 
+c. master file 
+d. property file
+e. report file </h2><br />
+                        report file . <br />maaf kalo salah<br />semoga membantuHistory file ,jika benar ,kalo salah maafkeun<br />
+                                            <h2 class="ez-toc-section" id="1-alat-yang-digunakan-sebagai-pengganti-listrik-adalah-2-microsoft-excel-termasuk-salah-satu-soft-file-dalam-kelompok-tolong-bantu-jawab-besok-dikumpulin">
+                            25. 1. Alat yang digunakan sebagai pengganti listrik adalah...
+2. Microsoft excel termasuk salah satu soft file dalam kelompok....
+Tolong bantu jawab.. Besok dikumpulin</h2><br />
+                        <p>1. Alat yang digunakan untuk pengganti listrik adalah generator.</p><p>2. Microsoft Excel merupakan salah satu soft file dalam kelompok perangkat lunak ( bisa ditemui di C:/Program Files )</p><br />
+                                            <h2 class="ez-toc-section" id="singkatan-dari-soft-ball">
+                            26. singkatan dari soft ball</h2><br />
+                        singkatan dari soft ball adalah bola lembut<br />
+                                            <h2 class="ez-toc-section" id="perangkat-ini-memiliki-prinsip-kerja-merubah-bentuk-hard-file-menjadi-soft-file-perangkat-yang-dimaksud-adalah-%e2%80%a6-a-keyboardb-mousec-microphoned-scanner%e2%80%8b">
+                            27. Perangkat ini memiliki prinsip kerja merubah bentuk hard file menjadi soft file. Perangkat yang dimaksud adalah … A.KeyboardB.MouseC.MicrophoneD.Scanner​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D. scaner</p><p><strong>Penjelasan:</strong></p><p>MAAF KALO SALAH</p><p><strong>Jawaban:</strong></p><p>d. scanner; berfungsi memindai dokumen baik teks, gambar, atau gabungan keduanya (hardfile) menjadi soft file dalam bentuk gambar atau dokumen pdf </p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="untuk-informasi-yang-tersaji-dalam-bentuk-soft-file-dapat-diperoleh-melalui-proses">
+                            28. untuk informasi yang tersaji dalam bentuk soft-file dapat diperoleh melalui proses??</h2><br />
+                        download mungkin......Dengan download<br />Atau Copy paste di suatu blog<br /><br />Semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="tolong-buatkan-cerkak-cerpen-dalam-bahasa-jawa-tema-bebas-kalo-bisa-sampe-2-lembar-lebih-yaa-soft-file-di-mc-word-makasih-%c2%a0note-dalam-bahasa-jawa-jawaban-ditunggu-coz-besok-selasa-d">
+                            29. tolong buatkan CERKAK (cerpen dalam bahasa jawa). tema bebas. kalo bisa sampe 2 lembar lebih yaa, soft file di mc.word.. makasih :) *note: dalam bahasa jawa.jawaban ditunggu.. 'coz besok selasa dikumpulin.</h2><br />
+                        Sawijining dina…Ora kaya biasane Pras lan Pandu sing   kawentar minangka kanca raket iku meneng-menengan lan katon wis rong dina  ora guneman , amarga kuwi Yudha sing bocah anyar pindahan saka kutha nanging uga kerep srawung karo kekarone nyoba nengahi supaya paseduluran ing antarane bocah loro iku ora pedhot.“Pras, aku lihat-lihat wis rong dina iki  koq nggak bertegur sapa karo Pandu, memangnya kowe ono masalah ya karo Pandu?” pitakone Yudha nganggo basa jawa sing grothal grathul“ora koq Yud, ora ono apa apa” jawabe Pras singkat“ayolah Pras, ora usah ngapusi ..kalian kan sahabat, kanca kenthel malah kata Bu Guru, pasti ada sesuatu kan mmungkin wae aku bisa bantu” Yudha tetep ora nyerah mbujuki Pras supaya gelem crita“Yud,  sebenere pancen  aku karo Pandu wis ora sapa aruh rong ndina iki, tapi iki merga kabeh salahe koq, mosok buku diktat  sing disilih Pandu  ki ngakune wis dibalikke seminggu kepungkur , padahal kenyataane durung mbalik ning aku, nanging Pandu ngodro yen wis dibalikke pas dolan ning omah malah ganti nuduh aku pikun jan nggregetke tenan bocah iku” pungkasane Pras crita dawa“ooo…ngono to Pras, tapi memang nya sudah kamu cari ke tempat lain selain di meja belajarmu Pras, ya siapa tahu bukunya ketlisut dimana gitu?” Yudha nyoba takon kanthi ati-ati“apa kowe ya nuduh aku pikun, lali ndeleh buku ning endi to Yud?” Pras rada muring-muring ditakoni ngono“yo nggak gitu, aku kan cuman nanya…sapa ngerti gitu, ntar aku boleh kan main ke tempatmu, tak nyoba bantu kamu nyari sekalian belajar bareng kaya biasane, piye Pras?” pitakone Yudha“yo gak pa pa sih ,sinau bareng wae ning nggonku Yud” jawabe Pras“iya deh…sip. sampai ketemu ngko sore yo pras”***Sejam sakdurunge….“dadi ngono critane Yud, mosok aku ki yo ngapusi to wong cetha cetha aku ki wis mbalikke bukune Pras koq pas aku dolan ning omahe““ooh gitu critanya Pan..hem mungkin saja Pras lupa lali kalau buku yang kamu pinjam wis mbok balikke yo” ujare Yudha“lagian Pras iku kan lalinan Yud, kowe ngerti dhewe kan muga muga sih bukune pancen ming ketlisut, aku yo dadi ora penak gara-gara buku dhewe dadi meneng menengan ngene, dikirane aku ora njaga amanah to”curhate Pandu maneh“ya sudah kalau gitu, nanti sore kamu ikut aku saja kita sianau bareng seperti biasanya, nanti sambil njelasin masalah ini biar selesai, gimana?”“yo wis aku melu wae Yud, aku yo bakal ngganti bukune yen pancen ora ono”***sore iku ing omahe Pras“Pandu, aku njaluk ngapura yo jebul buku diktat sing mbok balikke kae pancen wis tak tampa, tapi gara-gara tak nggo sinau bengi-bengi nganti keturon malah tiba ning ngisor dipan, dhek awan tak temu pas resik resik kamar…..maaf yo aku wis nuduh kowe rung mbalikke” Pras ngomong sinambi ndhingkluk nalika Pandu lan Yudha teka ing omahe“wah syukur nek ngono Pras, aku ki yo kepikiran terus, wis ora perlu isin . aku yo njaluk ngapura amarga ngenengke awakmu….kosong kosong yo Pras dhewe tetep kekancan to?” jawabe Pandu“he em ora ming kekancan tapi seduluran” Pras ngomong sinambi ngrangkul pandu“nah gitu donk…kalian kan sahabat baik, sudah seharusnya saling memaafkan dan berbaikan lagi seperti ini” Yudha katon seneng amarga usahane kasil“maturnuwun y Yud…kamu memang baik hati”ujare Pras lan Pandu bebarengan“okeee…sama-sama yuk….sinau bareng e ndang dimulai”Ing dina minggu sekolah smp 1 permata nganakno sing jenenge pariwisata ing yogya. murid-murid dikon gawe kelompok. 1 kelompok ono 5 wong. yudi lan diko bingung goleki pasangane dhewe-dhewe. lan kayata ana sisa yaiku jarwo , udin ,lan kirno. kabeh siswa wis dicepaki kamar dhewe - dhewe. siswa liburan 3 dina. tekan yogya tengah wengi. kabeh padha manuju ing hotele. amarga murid-murid padha kesel, padha turu kabeh. esoke , murid-murid di jak ing taman pintar. bar iku ing pantai parangtritis. banjur balik ing hotel. kabeh padha cepak-cepak kanggo sesuk mulih. tiba-tiba yudi kelangan tab. dekne goleki ning endi-endi nanging ra ketemu. deweke ileng pas mau ning bus disileh karo udin. udin pancen bocah kere. banjur yudi takok udin. yudi"din , ning endi tab ku ? dek mau mok sileh tha?". "iya nanging wes tak balike karo kowe." saure udin. yudi " ora lah ngapusi koe, tab ku ilang iki." udi " sumpah aku ora nggowo opo maneh maling yud." yudi " halah ora usah ngeles tetep aku ra percaya!!" akhire yudi lan udin eneng-engan. esuk e kabeh padha menyang ing bus , amarga dina iki mulih.yudi lapor ing guru. banjur diumumake. banjur kabeh kanca - kanca padha goleki.jebule tab kui ono ing bangkune yudi dhewe. banjur yudi nyuwun ngapura karo udin yudi "din , sorry yo, aku wes nuduh kue." udin " ya gak papa kok makhlum." yudi lan udin rangkulan.<br /><br />maaf kalau salah :)<br /><br />
+                                            <h2 class="ez-toc-section" id="setiap-file-memiliki-identitas-masing-masing-dalam-pemberian-nama-file-identitas-ini-dapat-di-kenal-melalui-a-nama-file-c-ukuran-fileb-ekstensi-file-d-bentuk-file">
+                            30. setiap file memiliki identitas masing-masing dalam pemberian nama file.identitas ini dapat di kenal  melalui...a.nama file.                 c.ukuran fileb.ekstensi file.            d.bentuk file​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a nama file.                                         maaf kalo salah</p><p><strong>Penjelasan:</strong></p>A. NAMA FILE<p></p><p>semoga membantu maap kalau salah:&gt;</p><br />
+                                            <h2 class="ez-toc-section" id="memiliki-kompatibilitas-yang-tinggi-dengan-aplikasi-aplikasi-lain-berbasis-window-maksud-dari-pertanyaan-tersebut-adalah-a-hasil-soft-file-kerja-programnya-yang-berupa-dokumen-dapat-di-baca-oleh-progr">
+                            31. memiliki kompatibilitas yang tinggi dengan aplikasi-aplikasi lain berbasis window maksud dari pertanyaan tersebut adalah a.hasil soft-file kerja programnya yang berupa dokumen dapat di baca oleh program aplikasi dalam lingkup microsoft office 
+b.tidak dapat di hubungkan dengan program lain dalam lingkup microsoft office 
+c.hasil produk file tidak memiliki korelasi dengan program lain 
+d.tidak mampu menghasilkan program yang support</h2><br />
+                        jawabannya yang A, karena yg dimaksud kompatibilitas itu bisa dicocokan di mana saja, contoh, kamu bikin file doc di word, tp aku bisa buka di openoffice word, itu berarti berkompatibilitas tinggi<br />
+                                            <h2 class="ez-toc-section" id="apa-yang-terjadi-apabila-menyimpan-file-dengan-nama-file-yang-sama-dengan-file-sebelumnya">
+                            32. apa yang terjadi apabila menyimpan file dengan nama file yang sama dengan file sebelumnya</h2><br />
+                        Dibelakang nama file yang baru akan berisi angkaAda 2 kemungkinan yang terjadi jika kita menyimpan file dengan nama file yang sama dengan file sebelumnya:<br />1. Akan muncul popup/pesan dengan pilihan Yes atau No. Jika memilih Yes, maka filenya akan tertimpa dengan file yang baru, jika memilih No maka kamu harus mengganti nama file tersebut <br />2. Dibelakang nama file tersebut ada angka atau simbol sebagai pembeda nama file <br /><br />Semoga membantu...<br />
+                                            <h2 class="ez-toc-section" id="tolong-jawab-yaa-1-jelaskan-peraturan-dalam-permainan-soft-ball-2-sebutkan-jenis-pukulan-dalam-permainan-soft-ball-3-jelaskan-tehnik-melempar-dalam-permainan-soft-ball-4-sebutkan-induk-organ">
+                            33. Tolong Jawab Yaa :)1. Jelaskan peraturan dalam permainan soft ball !2. Sebutkan jenis pukulan dalam permainan soft ball ! 3. Jelaskan tehnik melempar dalam permainan soft ball !4. Sebutkan induk organisasi internasional soft ball !​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>2.) pukulan lurus, memukul bola melambung, memukul bola rendah, pukulan sentuhan pada bola.</p><p></p><p>3.) a. Underhand Throw (lemparan      bawah)</p><p>     b. Overhand Throw (lemparan atas)</p><p>     c. Sidehand Throw (lemparan samping)</p><p></p><p>4.) Soff ball di Indonesia berada dibawah naungan perbasasi (Persatuan Baseball dan Soffball Indonesia), induk organisasi softball nasional.</p><p>ISF (Internasional Softball Federation), merupakan iduk organisasi softball dunia</p><p><strong>Jawaban:</strong></p><p></p><p><strong>Nih yang nomor 1 dan nomor 4</strong></p><p><strong>1. </strong>Untuk bermain softball, terdapat beberapa peraturan yang harus dipahami oleh para pemain, diantaranya adalah.
+</p><p>
+</p><p>- Satu tim terdiri dari 9 pemain yang berada di lapangan dan beberapa pemain cadangan
+</p><p>- Menggunakan seragam yang memiliki nomor punggung
+</p><p>- Menggunakan peralatan lengkap
+</p><p>- Memukul bola dilakukan sesuai urutan
+</p><p>- Permainan dimainkan dalam durasi 7 inning</p><p><strong>4.</strong>  induk organisasi softball nasional adalah ISF (International Softball Federation) </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-apa-fungsi-espak-soft2-berapa-harga-espak-soft3-kebanyakan-espak-soft-dijual-dimana">
+                            34. 1. Apa fungsi ESPAK SOFT?
+2. Berapa harga ESPAK SOFT
+3. Kebanyakan ESPAK SOFT dijual dimana?</h2><br />
+                        1.prochima<br />2.140rb / 500ml<br />3.di wilayah indonesia<br />
+                                            <h2 class="ez-toc-section" id="representasi-filemencari-masing-masing-5-ektensi-dari-1-jenis-filejenis-jenis-file-file-sistem-file-video-file-dokumen-file-gambar-file-audiopilih-salah-satu-filenya-%e2%80%8b">
+                            35. Representasi FileMencari masing masing 5 ektensi dari 1 jenis fileJenis jenis File :-File Sistem-File Video-File Dokumen-File Gambar-File Audiopilih salah satu filenya ​</h2><br />
+                        <p><strong>Kamu n a n y a????  Jawabannya ada di idung lo</strong></p><br />
+                                            <h2 class="ez-toc-section" id="sinonim-soft-apa">
+                            36. sinonim "soft" apa ?</h2><br />
+                        sinonim soft adalah smooth. gentle, easygoingsinonim "soft" adalah subdued , tender , delicate , creamy <br />
+                                            <h2 class="ez-toc-section" id="alat-penyimpan-data-data-kantor-yang-berupa-soft-file-di-sebut">
+                            37. Alat penyimpan data data kantor yang berupa soft file di sebut</h2><br />
+                        flashdisk atau hardisk flashdisk atau hardisk yang biasanya dpt menyimpan data sampai 256 gb<br /><br /><br />kalo gk salah<br />
+                                            <h2 class="ez-toc-section" id="berapa-jumlah-pemain-soft-ball-buatlah-gambar-lapangan-soft-ball-lamanya-permainan-soft-ball-ditentukan-berapa-jumlah-kesalahan-dalam-seitiap-setbaru-diganti-penjaga">
+                            38. Berapa jumlah pemain soft ball ? Buatlah gambar lapangan soft ball ? Lamanya permainan soft ball ditentukan ? Berapa jumlah kesalahan dalam seitiap set,baru diganti penjaga ?</h2><br />
+                        jumlahpemainsoftball=11/12 orang<br />
+                                            <h2 class="ez-toc-section" id="tanda-yang-membedakan-antara-satu-jenis-file-dengan-jenis-file-lainnya-adalah-%e2%80%a6%e2%80%a6-a-sistem-fileb-ekstensi-filec-tanda-filed-dokumen-file%e2%80%8b">
+                            39. Tanda yang membedakan antara satu jenis file dengan jenis file lainnya adalah …….A. Sistem FileB. Ekstensi FileC. Tanda FileD. Dokumen File​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C. tanda file</p><p> maaf kalau salah ^_^</p><p><strong>Penjelasan:</strong></p><p>jangan lupa follow nanti aku folback</p><p> jadikan jawaban terbaik kamu udah aku follow jangan lupa aku juga difollow</p><br />
+                                            <h2 class="ez-toc-section" id="pertanyaan-yang-benar-tentang-microsoft-word-adalah-a-soft-ware-pengolah-data-b-soft-ware-pengolah-angkac-soft-ware-pengolah-gambar-d-soft-ware-pengolah-kata">
+                            40. Pertanyaan yang benar tentang Microsoft word adalah??...
+A. Soft ware pengolah data 
+B. Soft ware pengolah angka
+C. Soft ware pengolah gambar 
+D. Soft ware pengolah kata</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Berikut kam1 rangkum Mac4m-macam Software Peng0lah Kata.</p><p>Microsoft Word. Yang pertama ada Microsoft Word. ...</p><p>Wordpad. Yang kedua ada Wordpad. ...</p><p>Notepad. Yang ketiga ada Notepad. ...</p><p>Corel WordPerfect. ...</p><p>OpenOffice Writer. ...</p><p>Lotus Word Pro. ...</p><p>AbiWord. ...</p><p>KWord.</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/3yih3SXXpN4?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ti</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/arti-it-s-okay/">Arti It s Okay</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimanakah-cara-melakukan-langkah-rapat/">Bagaimanakah Cara Melakukan Langkah Rapat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gambar-tersebut-menunjukkan-kelainan-tulang-yang-disebut/">Gambar Tersebut Menunjukkan Kelainan Tulang Yang Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-faktor-sugesti/">Contoh Faktor Sugesti</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebutkan-tiga-contoh-perilaku-hemat-energi-dalam-kehidupan-sehari-hari/">Sebutkan Tiga Contoh Perilaku Hemat Energi Dalam Kehidupan Sehari Hari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/menjaga-persatuan-dan-kesatuan-adalah-tugas-dari/">Menjaga Persatuan Dan Kesatuan Adalah Tugas Dari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/cara-main-gong/">Cara Main Gong</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-menurut-pendapatmu-mengapa-ayah-adi-melakukan-perbuatan-tersebut/">Jelaskan Menurut Pendapatmu Mengapa Ayah Adi Melakukan Perbuatan Tersebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/why-do-all-of-those-congratulate-alif/">Why Do All Of Those Congratulate Alif</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-ini-tanaman-hias-buah-kecuali/">Berikut Ini Tanaman Hias Buah Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kuat-arus-listrik-yang-mengalir-melalui-r3-adalah/">Kuat Arus Listrik Yang Mengalir Melalui R3 Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/konflik-antara-pengusaha-dengan-buruh-merupakan-contoh-dari-konflik/">Konflik Antara Pengusaha Dengan Buruh Merupakan Contoh Dari Konflik</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pembuka-tutup-botol-bali/">Pembuka Tutup Botol Bali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/absorbsi-adalah/">Absorbsi Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-olahraga-yang-memanfaatkan-gaya-tarik-adalah/">Contoh Olahraga Yang Memanfaatkan Gaya Tarik Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/diketahui-sin-a/">Diketahui Sin A</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sabilulungan-hartina/">Sabilulungan Hartina</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tabel-berikut-menunjukkan-kecepatan-empat-merek-printer/">Tabel Berikut Menunjukkan Kecepatan Empat Merek Printer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/modus-data-tersebut-adalah/">Modus Data Tersebut Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/titikane-geguritan-yaiku/">Titikane Geguritan Yaiku</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

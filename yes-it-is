@@ -1,0 +1,1293 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Yes It Is - BELAJAR</title>
+    <meta name="description" content="Yes It Is, , , , , , , 0, #IMMOOC #IMMOOCB1: A culture of yes! – The View from 518, theviewfrom518.wordpress.com, 800 x 800, jpeg, , 20, yes-it-is, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Yes It Is - BELAJAR" />
+    <meta property="og:description" content="Yes It Is, , , , , , , 0, #IMMOOC #IMMOOCB1: A culture of yes! – The View from 518, theviewfrom518.wordpress.com, 800 x 800, jpeg, , 20, yes-it-is, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Yes It Is - BELAJAR" />
+    <meta name="twitter:description" content="Yes It Is, , , , , , , 0, #IMMOOC #IMMOOCB1: A culture of yes! – The View from 518, theviewfrom518.wordpress.com, 800 x 800, jpeg, , 20, yes-it-is, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Yes It Is</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">erlangga5536</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Yes+It+Is" alt="Yes It Is">
+                    </div>
+                    <p></p>
+                    <p>&quot;Yes It is&quot; Atau &quot; Yes is it&quot;yang lebih tepat yang mana​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yes-it-is-atau-yes-is-ityang-lebih-tepat-yang-mana%e2%80%8b">1.
+                                            "Yes It is" Atau " Yes is it"yang lebih tepat yang mana​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#is-a-car-slower-than-a-bike-yes-it-is-no-it-is-not-no-it-is-yes-it-is-not">2.
+                                            Is a car slower than a bike? *
+Yes, it is.
+No, it is not.
+No, it is.
+Yes, it is not.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#is-it-ten-oclockyes-it-is-%e2%80%8b">3.
+                                            is it Ten o'clock?yes ,it is..........​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#7-hani-look-at-the-curtain-it-isbeautiful-isnitririn-arnosta-is-aa-yes-it-is-notb-no-it-isc-yes-it-isd-yes-it-does%e2%80%8b">4.
+                                            7. Hani : "Look at the curtain! It isbeautiful, isn'it?"Ririn :arnosta-is aa. Yes, it is notb. No, it isc. Yes, it isd. Yes, it does​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#is-there-a-parking-area-in-adi%e2%80%99s-school-%e2%80%a6%e2%80%a6%e2%80%a6%e2%80%a6%e2%80%a6%e2%80%a6a-nothere-is-notb-yesit-isc-yes-there-isd-yes-it-is%e2%80%8b">5.
+                                             Is there a parking area in Adi’s school ?………………A. No,there is notB. Yes,It isC. Yes, there isD. Yes, It is​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#6-is-this-a-bird-it-is-a-crocodile-a-yes-it-is-c-no-it-is-notb-yes-it-is-d-no-it-is-%e2%80%8b">6.
+                                            6. Is this a bird? ... it is a crocodile.a. Yes, it is.C. no, it is notb. Yes, it is.D. no, it is.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mau-tanya-soal-pelajaran-bahasa-inggris-kenapa-klo-jawab-harus-yes-it-is-klo-yes-doang-salah-contoh-soal-begini-is-sofis-school-large-enough-answer-yes-it-istolong-dong-bantu-ini-buat-ulangan">7.
+                                            mau tanya soal pelajaran bahasa inggris .kenapa klo jawab harus yes ,it is klo yes doang salah .contoh soal begini Is Sofi's school large enough ?answer : yes ,it istolong dong bantu ini buat ulangan besok kenapa bisa "yes,it is"</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#20-a-is-it-a-goat-b-%d1%81-no-it-is-nota-yes-it-isd-yes-it-is-notb-no-it-is%e2%80%8b">8.
+                                            20. A : Is it a goat ?B:...с.No, it is nota.Yes, it isd. Yes, it is notb. No, it is​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#carlos-it-is-half-past-nine-oclockclara-a-yes-it-isb-no-is-it-notc-yes-is-it-notd-no-it-is%e2%80%8b">9.
+                                            carlos :it is half past nine o'clock?clara.  :......   ?a. yes, it isb. no, is it notc. yes, is it notd. no, it is​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#is-it-ruleryes-it-is-it-is-my-ruler">10.
+                                            Is it ....ruler??
+Yes it is.it is my ruler</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bambang-is-it-a-sugeng-yes-it-is%e2%80%8b">11.
+                                            bambang is it a ,sugeng yes it is​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#8-deni-is-the-wheel-circlejimmya-no-it-is-notb-no-it-isc-yes-it-is-notd-yes-it-is%e2%80%8b">12.
+                                            8. Deni: Is the wheel circleJimmya. No, it is notb. No, it isc. Yes, it is notd. Yes, it is​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#6-aa-is-this-borobudur-templeb-a-yes-it-isb-yes-is-itc-no-is-it-notd-no-it-is-not%e2%80%8b">13.
+                                            6.aA : Is this Borobudur temple?B : ....a. Yes, it isb. Yes, is itC. No, is it notd. No, it is not​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nava-is-it-a-lion-beta-a-yes-it-is-b-no-it-is-not-od-c-yes-is-it-d-no-is-it-not%e2%80%8b">14.
+                                            Nava : Is it a lion? Beta : .... A. Yes, it is B. No, it is not od C. Yes, is it D. No, is it not​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-indonesia-yes-it-is-it-is-very-prevalent">15.
+                                            Bahasa indonesia yes, it is. It is very prevalent</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ga-is-it-a-scooterba-no-it-is-b-yes-it-is-notc-yes-it-is-d-no-it-is-not%e2%80%8b">16.
+                                            GA: Is it a scooter?Ba. No, it is.b. Yes, it is notc. Yes, it is.d. No, it is not​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#a-is-it-ruler-b-yes-it-is-it-is-my-ruler-%e2%80%8b">17.
+                                            A: is it ..... ruler ? B :yes it is ,it is my ruler .​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#8-a-is-the-ball-rounda-no-it-doesntb-no-it-is-notc-yes-it-isd-yes-it-does%e2%80%8b">18.
+                                            8. A: "Is the ball round?"A. No, it doesn'tB. No, it is notC. Yes, it isD. Yes it does​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#it-is-long-it-can-be-the-best-it-is-yes-it-is%e2%80%8b">19.
+                                            it is long it can be the best it is yes it is​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ryan-is-it-a-dodi-yes-it-is-%e2%80%8b">20.
+                                            Ryan : is it a......?Dodi : yes, it is.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#is-our-mouth-for-breathing-a-no-it-isntb-no-it-is-noc-yes-it-is-d-yes-is-it%e2%80%8b">21.
+                                            is our mouth for breathing? A no, it isn'tB no, it is noC  yes, it is D yes, is it​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yesit-is-terjemahannya">22.
+                                            yes,it is. terjemahannya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#11-is-it-a-crossroad-a-yes-it-isb-yes-it-isntc-no-it-isntd-no-it-is%e2%80%8b">23.
+                                            11. Is it a crossroad? ....a. Yes, it isb. Yes, it isn'tc. No, it isn'td. No, it is​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#7-is-it-an-ear-a-no-it-isnt-b-yes-it-is-c-yes-they-are-%e2%80%8b">24.
+                                            7. Is it an ear? A. No, it isn't. B. Yes, it is. C. Yes, they are.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#is-references-is-part-of-main-section-of-standard-reporta-no-is-it-notb-yes-is-itc-yes-he-isd-no-it-is-note-yes-it-is%e2%80%8b">25.
+                                            Is references is part of main section of standard report?a.No, is it notb.Yes, is itc.Yes, he isd.No, it is note.Yes, it is​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#is-plane-on-air-transportation-a-yes-it-is-b-noit-is-not-c-yes-it-is-not">26.
+                                            Is plane on air transportation?  A.  Yes it is B. No,it is not  C.  Yes, it is not</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#it-this-hatyes-it-is-mine%e2%80%8b">27.
+                                            It this...hat?yes, it is mine,​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#is-junk-food-an-unhealthy-fooda-no-it-is-notb-yes-it-isc-no-it-isd-yes-it-is-not%e2%80%8b">28.
+                                            is junk food an unhealthy food?A. no, it is notB. yes, it isC. no, it isD. yes, it is not​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#4-is-this-my-pencil-yes-it-is-pencil-it-is%e2%80%8b">29.
+                                            4.is this my pencil? yes, it is.... pencil it is​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-bantuhani-look-at-the-curtain-it-is-beautiful-isnitririna-yes-it-is-notb-no-it-isc-yes-it-isd-yes-it-does%e2%80%8b">30.
+                                            tolong bantuHani "Look at the curtain! It is beautiful, isn'it?"Ririna. Yes, it is notb. No, it isc. Yes, it isd. Yes, it does​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#is-it-grey-yes">31.
+                                             Is it grey ? Yes.....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#is-this-umbrellayesit-is-%e2%80%8b">32.
+                                            Is this .... umbrella?Yes,it is.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pertanyaan-is-this-a-book-jawabannya-apa-yesit-is-apa-yes-this-is">33.
+                                            Pertanyaan : Is this a book? 
+Jawabannya apa : Yes,It is.        apa           Yes this is. </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#is-this-a-fence-a-yes-it-doesb-no-it-does-notc-yes-it-isd-no-it-is-not-tolong%e2%80%8b">34.
+                                            Is this a fence ?a. Yes, it doesb. No, it does notc. Yes, it isd. No, it is not.                      tolong!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#it-is-watermelonyes">35.
+                                            It is watermelon?
+Yes,... </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#6-26a-is-it-number-twenty-sixb-a-yes-it-is-c-no-it-is-notb-yes-that-is-%e2%80%8b">36.
+                                            6.26A: Is it number twenty six?B: ....a. Yes, it is.C. No, it is notb. Yes, that is.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#is-your-car-is-blue-a-yes-it-isb-no-itsntc-no-it-doesntd-yes-it-does">37.
+                                            Is your car is blue? 
+A. Yes, it is
+B. No, its'nt
+C. No, it doesn't
+D. Yes, it does</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#a-is-it-eleven-oclock-b-a-yes-it-isb-yes-it-id-notc-no-it-is-notd-no-it-is%e2%80%8b">38.
+                                            A : is it Eleven o'clock B : ...a. Yes, it isb. Yes, it id notc. No, it is notd. No, it is​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ninas-ia-bigisnt-ityesit-is%e2%80%8b">39.
+                                            "Nina's...ia big,isn't it?"yes,it is​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#he-is-tall-isn%e2%80%99t-he-a-yes-it-isc-yes-it-is-notb-yes-he-isd-yes-is-he%e2%80%8b">40.
+                                            He is tall, isn’t he? A.Yes, it is				c. Yes, it is notB.Yes, He is				d. Yes, is he​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="yes-it-is-atau-yes-is-ityang-lebih-tepat-yang-mana%e2%80%8b">
+                            1. "Yes It is" Atau " Yes is it"yang lebih tepat yang mana​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Yes it is</p><p><strong>Penjelasan:</strong></p><p>yes is it itu artinya beda lagi</p><p></p><p>Yes it is : ya itu</p><p>Yes is it : ya itu?</p><p></p><p>Yes is it itu biasanya digunakan untuk menanyakan suatu hal</p><p><strong>Jawaban:</strong></p><p>Yes it is</p><p><strong>Penjelasan:</strong></p><p>Kayanya itu yang benar</p><br />
+                                            <h2 class="ez-toc-section" id="is-a-car-slower-than-a-bike-yes-it-is-no-it-is-not-no-it-is-yes-it-is-not">
+                            2. Is a car slower than a bike? *
+Yes, it is.
+No, it is not.
+No, it is.
+Yes, it is not.</h2><br />
+                        No, it is.<p></p><p>maaf kalau salah, semoga membantu(◕ᴗ◕✿)</p>-Adelia1401<p><strong>Jawaban:</strong></p><p></p>No, it is.<p></p><p></p>maaf kalo salah<br />
+                                            <h2 class="ez-toc-section" id="is-it-ten-oclockyes-it-is-%e2%80%8b">
+                            3. is it Ten o'clock?yes ,it is..........​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>yes, it is ten o'clock</p><p><strong>Penjelasan:</strong></p><p>soalnya ditulis kembali. &amp; be nya ditulis di blkg subjek</p><br />
+                                            <h2 class="ez-toc-section" id="7-hani-look-at-the-curtain-it-isbeautiful-isnitririn-arnosta-is-aa-yes-it-is-notb-no-it-isc-yes-it-isd-yes-it-does%e2%80%8b">
+                            4. 7. Hani : "Look at the curtain! It isbeautiful, isn'it?"Ririn :arnosta-is aa. Yes, it is notb. No, it isc. Yes, it isd. Yes, it does​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C. Yes, it is</p><p><strong>Penjelasan:</strong></p><p>Pertanyaan menggunakan isn't? berarti juga memiliki jawaban is. C adalah jawaban yang tepat.</p><br />
+                                            <h2 class="ez-toc-section" id="is-there-a-parking-area-in-adi%e2%80%99s-school-%e2%80%a6%e2%80%a6%e2%80%a6%e2%80%a6%e2%80%a6%e2%80%a6a-nothere-is-notb-yesit-isc-yes-there-isd-yes-it-is%e2%80%8b">
+                            5.  Is there a parking area in Adi’s school ?………………A. No,there is notB. Yes,It isC. Yes, there isD. Yes, It is​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawabanya adalah B</p><p></p><p></p><p>maaf kalo salah </p><br />
+                                            <h2 class="ez-toc-section" id="6-is-this-a-bird-it-is-a-crocodile-a-yes-it-is-c-no-it-is-notb-yes-it-is-d-no-it-is-%e2%80%8b">
+                            6. 6. Is this a bird? ... it is a crocodile.a. Yes, it is.C. no, it is notb. Yes, it is.D. no, it is.​</h2><br />
+                        <p>c. no, it is not.</p><p>   maaf kalo salah, kalo bener moga membantu:).</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="mau-tanya-soal-pelajaran-bahasa-inggris-kenapa-klo-jawab-harus-yes-it-is-klo-yes-doang-salah-contoh-soal-begini-is-sofis-school-large-enough-answer-yes-it-istolong-dong-bantu-ini-buat-ulangan">
+                            7. mau tanya soal pelajaran bahasa inggris .kenapa klo jawab harus yes ,it is klo yes doang salah .contoh soal begini Is Sofi's school large enough ?answer : yes ,it istolong dong bantu ini buat ulangan besok kenapa bisa "yes,it is"</h2><br />
+                        kalau jawabnya ye doank bukan salah tapi kurang tepat.kenapa pake it is karena it is nya itu merupakan kata ganti untuk benda hewan dll.<br /><br />maaf klo slh<br />
+                                            <h2 class="ez-toc-section" id="20-a-is-it-a-goat-b-%d1%81-no-it-is-nota-yes-it-isd-yes-it-is-notb-no-it-is%e2%80%8b">
+                            8. 20. A : Is it a goat ?B:...с.No, it is nota.Yes, it isd. Yes, it is notb. No, it is​</h2><br />
+                        <p>Jawaban:</p><p>C.no its not </p><br />
+                                            <h2 class="ez-toc-section" id="carlos-it-is-half-past-nine-oclockclara-a-yes-it-isb-no-is-it-notc-yes-is-it-notd-no-it-is%e2%80%8b">
+                            9. carlos :it is half past nine o'clock?clara.  :......   ?a. yes, it isb. no, is it notc. yes, is it notd. no, it is​</h2><br />
+                        <p>Jawaban:</p><p>a. Yes, it is</p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="is-it-ruleryes-it-is-it-is-my-ruler">
+                            10. Is it ....ruler??
+Yes it is.it is my ruler</h2><br />
+                        <p>it is ...you... ruler </p><p>jadi jawabannya you</p><p>maaf klo salah;-)</p>your. karena kalau ‘you’ itu menandakan kamu. tapi kalau ‘youR’ itu menandakan punya kamu/milik kamu. jadi jawaban plg tepat adalah your.<br /><br />
+                                            <h2 class="ez-toc-section" id="bambang-is-it-a-sugeng-yes-it-is%e2%80%8b">
+                            11. bambang is it a ,sugeng yes it is​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Bangbang it is a, happy yes it is from</p><p><strong>Jawaban:</strong></p><p>Sorry, I don't know this question :')</p><br />
+                                            <h2 class="ez-toc-section" id="8-deni-is-the-wheel-circlejimmya-no-it-is-notb-no-it-isc-yes-it-is-notd-yes-it-is%e2%80%8b">
+                            12. 8. Deni: Is the wheel circleJimmya. No, it is notb. No, it isc. Yes, it is notd. Yes, it is​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D. Yes, it is</p><p><strong>Penjelasan:</strong></p><p>Deni menanyakan kepada Jimmy apakah bentuk roda itu Bulat</p><br />
+                                            <h2 class="ez-toc-section" id="6-aa-is-this-borobudur-templeb-a-yes-it-isb-yes-is-itc-no-is-it-notd-no-it-is-not%e2%80%8b">
+                            13. 6.aA : Is this Borobudur temple?B : ....a. Yes, it isb. Yes, is itC. No, is it notd. No, it is not​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pokoknya jawabannya antara  a dan d</p><p><strong>Jawaban:</strong></p><p>a. Yes it is </p><p>d. No, it is not</p><p>Tergantung benar tau gak itu borobudur temple?</p><p><strong>Penjelasan:</strong></p><p>Maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="nava-is-it-a-lion-beta-a-yes-it-is-b-no-it-is-not-od-c-yes-is-it-d-no-is-it-not%e2%80%8b">
+                            14. Nava : Is it a lion? Beta : .... A. Yes, it is B. No, it is not od C. Yes, is it D. No, is it not​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A: Yes, it is.</p><p><strong>Penjelasan:</strong></p><p>I =Are</p><p>You=Are</p><p>They=Are</p><p>We=Are</p><p></p><p>He=Is</p><p>She=Is</p><p>It=Is</p><br />
+                                            <h2 class="ez-toc-section" id="bahasa-indonesia-yes-it-is-it-is-very-prevalent">
+                            15. Bahasa indonesia yes, it is. It is very prevalent</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>yes, it is. It is very prevalent</p><p></p><p>Iya benar. Ini sangat umum,.......</p><p></p><p>Prevalent sendiri banyak artinya. Bisa artinya; lazim, umum, populer, terkenal. </p><p></p><p>Ini tergantung dari kalimat atau paragraf sebelumnya. Jadi kamu bisa artikan sendiri prevalent itu apa dari kalimat atau paragraf sebelumnya. </p><p></p><p>Semoga membantu :) </p><p></p><p></p><p>Jawaban:</p><p>ya itu Sangat Lazim</p><p></p><p>Kenapa jawabannya ini?</p><p>Yes it is : ya itu</p><p>It is very prevalent : itu Sangat lazim</p><p></p><p>Ya itu. Itu Sangat lazim.</p><p>Supaya lebih nyambung kita hilangkan itunya ( kan itunya ada dua jadi tulis satu aja) </p><p></p><p>Jadi nyambung</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="ga-is-it-a-scooterba-no-it-is-b-yes-it-is-notc-yes-it-is-d-no-it-is-not%e2%80%8b">
+                            16. GA: Is it a scooter?Ba. No, it is.b. Yes, it is notc. Yes, it is.d. No, it is not​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D. No, it ia not</p><p><strong>Penjelasan:</strong></p><p>#Maaf kali salah y</p><br />
+                                            <h2 class="ez-toc-section" id="a-is-it-ruler-b-yes-it-is-it-is-my-ruler-%e2%80%8b">
+                            17. A: is it ..... ruler ? B :yes it is ,it is my ruler .​</h2><br />
+                        <p>A: is it your ruler ? B: yes it is my ruler</p>Q:is it your ruler? <br />A:yes it is my ruler <br />
+                                            <h2 class="ez-toc-section" id="8-a-is-the-ball-rounda-no-it-doesntb-no-it-is-notc-yes-it-isd-yes-it-does%e2%80%8b">
+                            18. 8. A: "Is the ball round?"A. No, it doesn'tB. No, it is notC. Yes, it isD. Yes it does​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C. Yes, it is.</p><p><strong>Penjelasan:</strong></p><p>Karena pertanyaannya : 'Is' the ball round?</p><br />
+                                            <h2 class="ez-toc-section" id="it-is-long-it-can-be-the-best-it-is-yes-it-is%e2%80%8b">
+                            19. it is long it can be the best it is yes it is​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> what are u saying? sorry i cannot help</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="ryan-is-it-a-dodi-yes-it-is-%e2%80%8b">
+                            20. Ryan : is it a......?Dodi : yes, it is.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Ryan : is that a cycle?</p><p>Dodi:  yes, it is</p><p><strong>Penjelasan:</strong></p><p><strong>I hope this will help with your answer =]</strong></p><p><strong>and one more thing ryan said" is it a" thats not right the right one is that because it doesen't make any sence </strong></p><p></p>Ryan:is it A earphone?<br />Dodi:yes,it is<br />
+                                            <h2 class="ez-toc-section" id="is-our-mouth-for-breathing-a-no-it-isntb-no-it-is-noc-yes-it-is-d-yes-is-it%e2%80%8b">
+                            21. is our mouth for breathing? A no, it isn'tB no, it is noC  yes, it is D yes, is it​</h2><br />
+                        <p></p><p>is our mouth for breathing?</p><p></p><p>A.No,it isn't</p><p></p><p><strong>Penj</strong><strong>elasan</strong><strong>:</strong><strong> </strong><strong>Perta</strong><strong>nyaan</strong><strong> </strong><strong>tersebu</strong><strong>t</strong><strong> </strong><strong>menanyakan</strong><strong> </strong><strong>apakah</strong><strong> </strong><strong>mulut</strong><strong> </strong><strong>k</strong><strong>i</strong><strong>t</strong><strong>a</strong><strong> </strong><strong>untuk</strong><strong> </strong><strong>bernafas</strong><strong>,</strong><strong>jadi</strong><strong> </strong><strong>jawabannya</strong><strong> </strong><strong>A.no</strong><strong>,</strong><strong>it</strong><strong> </strong><strong>isn't</strong><strong> </strong><strong> </strong><strong>yang</strong><strong> </strong><strong>artinya</strong><strong> </strong><strong>tidak</strong><strong>,</strong><strong>bukan</strong></p><p></p><p><strong>Semoga</strong><strong> </strong><strong>me</strong><strong>mbantu</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong></p><p><strong>ARIGATOU </strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong></p><p><strong>@</strong><strong>P</strong><strong>l</strong><strong>i</strong><strong>s</strong><strong>j</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>d</strong><strong>o</strong><strong>n</strong><strong>g</strong><strong>x</strong><strong>x</strong><strong>_</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="yesit-is-terjemahannya">
+                            22. yes,it is. terjemahannya</h2><br />
+                        iya, itu.<br />semoga bermanfaatjawabannya ya, itu, adalah<br />
+                                            <h2 class="ez-toc-section" id="11-is-it-a-crossroad-a-yes-it-isb-yes-it-isntc-no-it-isntd-no-it-is%e2%80%8b">
+                            23. 11. Is it a crossroad? ....a. Yes, it isb. Yes, it isn'tc. No, it isn'td. No, it is​</h2><br />
+                        <p> </p><p></p><p><strong>Jawaban</strong><strong> </strong><strong>:</strong></p><p></p><p>Is it a crossroad ? (apakah itu perempatan ?)</p><p>No, it isn't ( tidak, itu tidak benar )</p><p><strong>Jawaban:</strong></p><p>C. No,it isn't</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="7-is-it-an-ear-a-no-it-isnt-b-yes-it-is-c-yes-they-are-%e2%80%8b">
+                            24. 7. Is it an ear? A. No, it isn't. B. Yes, it is. C. Yes, they are.​</h2><br />
+                        <p>Kalau Itu Bukan Kuping Berarti A.No, It Isn't. Tapi Kalau Itu Kuping Berarti B.Yes, It Is.</p><p><strong>Penjelasan:</strong></p><p>Maap Kalau Salah Boss</p><p><strong>P</strong><strong>e</strong><strong>r</strong><strong>t</strong><strong>a</strong><strong>n</strong><strong>y</strong><strong>a</strong><strong>a</strong><strong>n</strong><strong>:</strong></p><p>7. Is it an ear? </p><p>A. No, it isn't. </p><p>B. Yes, it is. </p><p>C. Yes, they are.</p><p></p><p><strong>Terjemahan:</strong></p><p>7. Apakah itu telinga?</p><p>A. Tidak, tidak.</p><p>B. Ya, memang.</p><p>C. Ya, mereka adalah</p><p></p><p><strong>Jawaban:</strong></p><p>7. Is it an ear? </p><p>A. No, it isn't. </p><p><strong>B. Yes, it is. </strong></p><p>C. Yes, they are.</p><p></p><p><strong>Penjelasan:</strong></p><p>Bahasa inggris merupakan bahasa resmi negara united kingdom.</p><p>Telinga merupakan salah satu bagian tubuh kita yang berfungsi sebagai alat pendengar pada kita.</p><p></p><p><strong>D</strong><strong>e</strong><strong>t</strong><strong>a</strong><strong>i</strong><strong>l</strong><strong>:</strong></p><p>Mapel:Bahasa inggris</p><p>Kelas:SD</p><p>Kata kunci:United kingdom,Telinga</p><p></p><p><strong>J</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>d</strong><strong>i</strong><strong>b</strong><strong>u</strong><strong>a</strong><strong>t</strong><strong> </strong><strong>o</strong><strong>l</strong><strong>e</strong><strong>h</strong><strong>=</strong><strong>A</strong><strong>c</strong><strong>l</strong><strong>e</strong><strong>B</strong><strong>r</strong><strong>a</strong><strong>i</strong><strong>n</strong><strong>l</strong><strong>y</strong><strong>0</strong><strong>1</strong></p><br />
+                                            <h2 class="ez-toc-section" id="is-references-is-part-of-main-section-of-standard-reporta-no-is-it-notb-yes-is-itc-yes-he-isd-no-it-is-note-yes-it-is%e2%80%8b">
+                            25. Is references is part of main section of standard report?a.No, is it notb.Yes, is itc.Yes, he isd.No, it is note.Yes, it is​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>E</p><p></p><p><strong>Penjelasan:</strong></p><p></p><p>Maaf kalau salah. semoga membantu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="is-plane-on-air-transportation-a-yes-it-is-b-noit-is-not-c-yes-it-is-not">
+                            26. Is plane on air transportation?  A.  Yes it is B. No,it is not  C.  Yes, it is not</h2><br />
+                        <p><strong>Jawaban: A</strong></p><p><strong></strong></p><p></p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="it-this-hatyes-it-is-mine%e2%80%8b">
+                            27. It this...hat?yes, it is mine,​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>The answer is <strong>your</strong><strong>.</strong></p><p><strong>Penjelasan:</strong></p><p>Because, "Yes, it is mine" in Bahasa means : Ya, itu punyaku. </p><p><strong>Jawaban:</strong></p><p>itu ..... itu?                                                                                  </p><p>ya, ini milikku</p><br />
+                                            <h2 class="ez-toc-section" id="is-junk-food-an-unhealthy-fooda-no-it-is-notb-yes-it-isc-no-it-isd-yes-it-is-not%e2%80%8b">
+                            28. is junk food an unhealthy food?A. no, it is notB. yes, it isC. no, it isD. yes, it is not​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Hello, kk coba bantu jawab yaa!</p><p></p><p>is junk food an unhealthy food?</p><p>➡️ <strong>B</strong><strong>.</strong><strong> </strong><strong>Y</strong><strong>e</strong><strong>s</strong><strong> </strong><strong>i</strong><strong>t</strong><strong> </strong><strong>i</strong><strong>s</strong></p><p></p><p><strong>Penjelasan:</strong></p><p><strong>Junk food</strong> merupakan makanan cepat saji yang memiliki kandungan nutrisi yang rendah. Sehingga makanan tersebut memberikan banyak dampak negatif bagi kesehatan. Junk food merupakan makanan yang banyak memberikan dampak kurang baik bagi kesehatan.</p><p>b. yes, it is </p><p></p><p><strong>Penjelasan:</strong></p><p>karena dia bukan makhluk hidup makannya menggunakan it</p><p></p><p>smoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="4-is-this-my-pencil-yes-it-is-pencil-it-is%e2%80%8b">
+                            29. 4.is this my pencil? yes, it is.... pencil it is​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Mine's</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tolong-bantuhani-look-at-the-curtain-it-is-beautiful-isnitririna-yes-it-is-notb-no-it-isc-yes-it-isd-yes-it-does%e2%80%8b">
+                            30. tolong bantuHani "Look at the curtain! It is beautiful, isn'it?"Ririna. Yes, it is notb. No, it isc. Yes, it isd. Yes, it does​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Jawabannya c. Yes, it is</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="is-it-grey-yes">
+                            31.  Is it grey ? Yes.....</h2><br />
+                        <p>yes it is</p><p></p><strong>maaf </strong><strong>kalo </strong><strong>salah </strong><strong>:</strong><strong>V</strong><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="is-this-umbrellayesit-is-%e2%80%8b">
+                            32. Is this .... umbrella?Yes,it is.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Is this ..... umbrella? yes, it is</p><p></p><p>is this a umbrella? yes it is</p><p><strong>Penjelasan:</strong></p><p>artinya: ini payung? ya</p><p></p>Maaf jika salah.<br />
+                                            <h2 class="ez-toc-section" id="pertanyaan-is-this-a-book-jawabannya-apa-yesit-is-apa-yes-this-is">
+                            33. Pertanyaan : Is this a book? 
+Jawabannya apa : Yes,It is.        apa           Yes this is. </h2><br />
+                        Yes, this is.<br /><br />maaf kalo salahYes, this is<br />karena pada soalnya is this bukan is it<br />
+                                            <h2 class="ez-toc-section" id="is-this-a-fence-a-yes-it-doesb-no-it-does-notc-yes-it-isd-no-it-is-not-tolong%e2%80%8b">
+                            34. Is this a fence ?a. Yes, it doesb. No, it does notc. Yes, it isd. No, it is not.                      tolong!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>is this a fence?</p><p>apakah ini sebuah pagar</p><p>this-&gt; diganti dengan it Karena pagar adalah sebuah benda</p><p>jika tidak ada gambarnya dalam soal,maka jawabannya bisa yes atau no.</p><p>yes,this is/yes,it is</p><p>no,this is not/no,it is not.</p><br />
+                                            <h2 class="ez-toc-section" id="it-is-watermelonyes">
+                            35. It is watermelon?
+Yes,... </h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>jawabannya adalah </p><p>yes,it is </p><p></p><p></p>semoga bermanfaat:)<p><strong>Jawaban:</strong></p><p>yes, it is watermelon.</p><br />
+                                            <h2 class="ez-toc-section" id="6-26a-is-it-number-twenty-sixb-a-yes-it-is-c-no-it-is-notb-yes-that-is-%e2%80%8b">
+                            36. 6.26A: Is it number twenty six?B: ....a. Yes, it is.C. No, it is notb. Yes, that is.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A. Yes, it is </p><p><strong>Penjelasan:</strong></p><p>karena 26 itu twenty six, lalu "It Is" itu dari pertanyaannya. kan pertanyaannya itu ada" Is It" jadi tinggal di balik saja, semoga membantu:)</p><p><strong>Jawaban:</strong></p><p>A yes, it is</p><p>maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="is-your-car-is-blue-a-yes-it-isb-no-itsntc-no-it-doesntd-yes-it-does">
+                            37. Is your car is blue? 
+A. Yes, it is
+B. No, its'nt
+C. No, it doesn't
+D. Yes, it does</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a.yes,it is</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="a-is-it-eleven-oclock-b-a-yes-it-isb-yes-it-id-notc-no-it-is-notd-no-it-is%e2%80%8b">
+                            38. A : is it Eleven o'clock B : ...a. Yes, it isb. Yes, it id notc. No, it is notd. No, it is​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C.) no, it is not</p><p><strong>Penjelasan:</strong></p><p>Semoga membantu </p><p>Tolong jadikan jawaban tercerdas yahh ^^</p><br />
+                                            <h2 class="ez-toc-section" id="ninas-ia-bigisnt-ityesit-is%e2%80%8b">
+                            39. "Nina's...ia big,isn't it?"yes,it is​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>nina's is she big.isn't it''yes.it is</p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="he-is-tall-isn%e2%80%99t-he-a-yes-it-isc-yes-it-is-notb-yes-he-isd-yes-is-he%e2%80%8b">
+                            40. He is tall, isn’t he? A.Yes, it is				c. Yes, it is notB.Yes, He is				d. Yes, is he​</h2><br />
+                        B. Yes, he is.<br /><br /><br /><br />Maaf jika salah ｡ﾟ(ﾟ´Д｀ﾟ)ﾟ｡B.) Yes, He is <br />Maaf jika salah<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/acWj7M0-9rY?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_inggris</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/o°u-uƒ/">Ø°Ù Ùƒ</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-cara-menghayati-lagu/">Bagaimana Cara Menghayati Lagu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/45-2/">45 2</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/naon-sia/">Naon Sia</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/abu-jafar-al-mansur-masih-memiliki-garis-keturunan-dengan/">Abu Jafar Al Mansur Masih Memiliki Garis Keturunan Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/yang-bukan-termasuk-fungsi-lembaga-sosial-yaitu/">Yang Bukan Termasuk Fungsi Lembaga Sosial Yaitu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/faktor-ergonomis/">Faktor Ergonomis</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/75-dollar-berapa-rupiah/">75 Dollar Berapa Rupiah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berdirinya-sebuah-negara-harus-memenuhi-syarat-sebagai-berikut-kecuali/">Berdirinya Sebuah Negara Harus Memenuhi Syarat Sebagai Berikut Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jumlah-6x-5y-2z-dan-8x-6y-9z-adalah/">Jumlah 6x 5y 2z Dan 8x 6y 9z Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hal-hal-yg-belum-dapat-dilakukan/">Hal Hal Yg Belum Dapat Dilakukan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-kang-diarani-serat-wedhatama/">Apa Kang Diarani Serat Wedhatama</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-fonologi/">Contoh Fonologi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/konflik-antara-pengusaha-dengan-buruh-merupakan-contoh-dari-konflik/">Konflik Antara Pengusaha Dengan Buruh Merupakan Contoh Dari Konflik</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nama-file-data-bisnis-harus-unik-artinya/">Nama File Data Bisnis Harus Unik Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-yang-dibahas-pada-teks-di-atas/">Apa Yang Dibahas Pada Teks Di Atas</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/2x-1-9/">2x 1 9</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/diantara-nilai-p-berikut-yang-memenuhi-proporsi/">Diantara Nilai P Berikut Yang Memenuhi Proporsi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/domestik-adalah/">Domestik Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bargainser-yang-lazim-kita-temui-dibagi-menjadi-dua-kategori-yaitu/">Bargainser Yang Lazim Kita Temui Dibagi Menjadi Dua Kategori Yaitu</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

@@ -1,0 +1,1441 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tentukan Luas Permukaan Dan Volume Bangun Bola Berikut - BELAJAR</title>
+    <meta name="description" content="Tentukan Luas Permukaan Dan Volume Bangun Bola Berikut, , , , , , , 0, tentukan luas permukaan dan volume bangun bola berikut.! - Brainly.co.id, brainly.co.id, 2080 x 1560, jpeg, , 20, tentukan-luas-permukaan-dan-volume-bangun-bola-berikut, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Tentukan Luas Permukaan Dan Volume Bangun Bola Berikut - BELAJAR" />
+    <meta property="og:description" content="Tentukan Luas Permukaan Dan Volume Bangun Bola Berikut, , , , , , , 0, tentukan luas permukaan dan volume bangun bola berikut.! - Brainly.co.id, brainly.co.id, 2080 x 1560, jpeg, , 20, tentukan-luas-permukaan-dan-volume-bangun-bola-berikut, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Tentukan Luas Permukaan Dan Volume Bangun Bola Berikut - BELAJAR" />
+    <meta name="twitter:description" content="Tentukan Luas Permukaan Dan Volume Bangun Bola Berikut, , , , , , , 0, tentukan luas permukaan dan volume bangun bola berikut.! - Brainly.co.id, brainly.co.id, 2080 x 1560, jpeg, , 20, tentukan-luas-permukaan-dan-volume-bangun-bola-berikut, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Tentukan Luas Permukaan Dan Volume Bangun Bola Berikut</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">alfaheldy23</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Tentukan+Luas+Permukaan+Dan+Volume+Bangun+Bola+Berikut" alt="Tentukan Luas Permukaan Dan Volume Bangun Bola Berikut">
+                    </div>
+                    <p></p>
+                    <p>Tentukan luas permukaan dan volume bangun bola berikut.</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut">1.
+                                            Tentukan luas permukaan dan volume bangun bola berikut.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut">2.
+                                            tentukan luas permukaan dan volume bangun bola berikut.!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut%e2%80%8b">3.
+                                            tentukan luas permukaan dan volume bangun bola berikut!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#latihan-5-3bolatentukan-luas-permukaan-dan-volume-bangun-bola-berikut-1-d-12-dm2-r-12-m3-d10-cm%e2%80%8b">4.
+                                            Latihan 5.3BolaTentukan luas permukaan dan volume bangun bola berikut.1.d= 12 dm2.r= 12 m3.d=10 cm​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#d-10cm-tentukan-luas-permukaan-dan-volume-bangun-bola-berikut">5.
+                                            d= 10cm tentukan luas permukaan dan volume bangun bola berikut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut%e2%80%8b">6.
+                                            tentukan luas permukaan dan volume bangun bola berikut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut%e2%80%8b">7.
+                                            tentukan luas permukaan dan volume bangun bola berikut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#latihan-5-3soal1-tentukan-luas-permukaan-bangun-bola-berikutr-12-m2-tentukan-volume-bangun-bola-berikutd-10-cm%e2%80%8b">8.
+                                            Latihan 5.3Soal:1. Tentukan Luas permukaan bangun bola berikut!r = 12 m2.Tentukan Volume bangun bola berikut!d = 10 cm​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikuttolong-bantu-ya-soalnya-besok-di-kumpulkan-tolong-ya-terimakasih-sebelumnya-%e2%80%8b">9.
+                                            Tentukan luas permukaan dan volume bangun bola berikuttolong bantu ya..... soalnya besok di kumpulkan tolong ya ... terimakasih sebelumnya ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-dengan-diameter-10-cmcm">10.
+                                            tentukan luas permukaan dan volume bangun bola berikut dengan diameter :10 cm
+cm</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-r45cm">11.
+                                            tentukan luas permukaan dan volume bangun bola berikut . r=4'5cm</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-jika-di-ketahui-panjang-jari-jari-bola-18-cm%e2%80%8b">12.
+                                            tentukan luas permukaan dan volume bangun bola berikut jika di ketahui panjang jari jari bola 18 cm​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-a-r-12-m%e2%80%8b">13.
+                                            Tentukan luas permukaan dan volume bangun bola berikut a. r = 12 m​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-d-12-dmr-12-md-10-cm2-berapakah-luas-permukaan-bangun-setengah-bola-tertutup-berikut-8-cm12-cm12-cm%e2%80%8b">14.
+                                            1. Tentukan luas permukaan dan volume bangun bola berikut.d = 12 dmr = 12 md = 10 cm2. Berapakah luas permukaan bangun setengah bola tertutup berikut.8 cm12 cm12 cm​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#c-1d-12-dmtentukan-luas-permukaan-dan-volume-bangun-bola-berikut%e2%80%8b">15.
+                                            C.1d =12 dmtentukan luas permukaan dan volume bangun bola berikut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut%e2%80%8b">16.
+                                            Tentukan Luas Permukaan dan volume bangun bola berikut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-dengan-jari-12-m">17.
+                                            tentukan luas permukaan dan volume bangun bola berikut dengan jari : 12 m</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-a-diketahui-r-12-mtentukan-luas-permukaan-dan-volumeb-diketahui-d10-cmtentukan-luas-permukaan-dan-volumec-diketahui-d12-dmtentukan-l">18.
+                                            Tentukan luas permukaan dan volume bangun bola berikut :
+a. diketahui r= 12 m
+Tentukan luas permukaan dan volume
+b. diketahui d=10 cm
+Tentukan luas permukaan dan volume
+c. diketahui d=12 dm
+Tentukan luas permukaan dan volume</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-tolong-jawabmakasi%e2%80%8b">19.
+                                            Tentukan luas permukaan dan volume bangun bola berikut tolong jawab,makasi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-r-15-m%e2%80%8b">20.
+                                            1. Tentukan luas permukaan dan volume bangun bola berikut.r= 15 m​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-yaitu-yg-di-tanya-acf">21.
+                                            Tentukan luas permukaan dan volume bangun bola berikut yaitu yg di tanya A,C,F</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-r12cm">22.
+                                            Tentukan luas permukaan dan volume bangun bola berikut r=12cm</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-dengan-diameter-12">23.
+                                            Tentukan Luas permukaan dan volume bangun bola berikut dengan diameter 12</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-a-r-12-m%e2%80%8b">24.
+                                            Tentukan luas permukaan dan volume bangun bola berikut a. r = 12 m​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#5-3-tentukan-luas-permukaan-dan-volume-bangun-bola-berikut%e2%80%8b">25.
+                                            5.3 tentukan luas permukaan dan volume bangun bola berikut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-dari-bangun-bola-berikut%e2%80%8b">26.
+                                            tentukan luas permukaan dan volume dari bangun bola berikut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-r12-m%e2%80%8b">27.
+                                            tentukan luas permukaan dan volume bangun bola berikut r=12 m​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#latihan-5-3bolatentukan-luas-permukaan-dan-volume-bangun-bola-berikut-1-r-45-cm2-d-20-m3-r-15-m%e2%80%8b">28.
+                                            Latihan 5.3BolaTentukan Luas Permukaan dan volume bangun bola berikut.1. r = 4,5 cm2. d = 20 m3. r = 15 m​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-e-d20cm">29.
+                                            Tentukan luas permukaan dan volume bangun bola berikut: e. d=20cm</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-diameter-10cm">30.
+                                            tentukan luas permukaan dan volume bangun bola berikut diameter 10cm</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-perhatikan-bangun-ruang-berikut-tentukan-luas-permukaan-bangun-tersebut-jawab-12-cm-24-cm-normukaan-sebuah-bola-yang-bervolume-24-416%e2%80%8b">31.
+                                            2. perhatikan bangun ruang berikut! tentukan luas permukaan bangun tersebut! jawab: .. 12 cm 24 cm - normukaan sebuah bola yang bervolume 24.416​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-d10-cm%e2%80%8b">32.
+                                            tentukan luas permukaan dan volume bangun bola berikut  d=10 cm​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut">33.
+                                            Tentukan luas permukaan dan volume bangun bola berikut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut">34.
+                                            Tentukan luas permukaan dan volume bangun bola berikut.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-e-d20cm">35.
+                                            Tentukan luas permukaan dan volume bangun bola berikut: e. d=20cm</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-d-12-dm-tolong-di-jawab-soalnya-butuh-jawaban-dan-usahakan-benar-makasih-%e2%80%8b">36.
+                                            tentukan luas permukaan dan volume bangun bola berikut d= 12 dm tolong di jawab soalnya butuh jawaban dan usahakan benar makasih ;)​ </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-%e2%80%8b">37.
+                                            1. Tentukan luas permukaan dan volume bangun bola berikut.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#latihan-5-3bolatentukan-luas-permukaan-dan-volume-bangun-bola-berikut-d-12-dmr-12-md-10-cm%e2%80%8b">38.
+                                            Latihan 5.3BolaTentukan luas permukaan dan volume bangun bola berikut.d = 12 dmr= 12 md = 10 cm​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-dr15-m">39.
+                                            Tentukan luas permukaan dan volume bangun bola berikut: (d):r=15 m</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-r12-dan-d12">40.
+                                            tentukan luas permukaan dan volume bangun bola berikut r=12 dan d=12</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut">
+                            1. Tentukan luas permukaan dan volume bangun bola berikut.</h2><br />
+                        <p>Luas Permukaan Bola</p><p>= 4 x π x r x r</p><p>= 4 x 3.14 x 15 x 15 </p><p>= 2826 cm^2</p><p></p><p>Volume Bola</p><p>= 4/3 x π x r x r x r</p><p>= 4/3 x 3.14 x 15 x 15 x 15 </p><p>= 14130 cm^3</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut">
+                            2. tentukan luas permukaan dan volume bangun bola berikut.!</h2><br />
+                        <p>a. Luas permukaan (L) dan volume (V) bola yang memiliki jari jari 12 m adalah <strong>1.808,64 m²  dan 7.234,56 m³
+.</strong></p>Penyelesaian Soal :
+<p><strong>LANGKAH PERTAMA (I)
+</strong></p><p>Hitung luas permukaan bola (L) dengan menggunakan cara sebagai berikut:  </p><p>L = 4πr²
+</p><p>Keterangan: L = luas permukaan bola  (cm²)
+</p><p>                      r = jari - jari bola  (cm)
+</p><p>                      π = ²²/₇ atau 3,14
+</p><p><strong>Maka perhitungannya yaitu :
+</strong></p><p>L = 4πr²
+</p><p>   = 4 × 3,14 × (12 m)²
+</p><p>   = 4 × 3,14 × 144 m²
+</p><p>   = 1.808,64 m²
+</p><p><strong>LANGKAH KEDUA (II)
+</strong></p><p>Hitung Volume bola (V) dengan menggunakan cara sebagai berikut :  </p><p>V = ⁴/₃ πr³
+</p><p>Keterangan : V = volume bola (cm³)
+</p><p>                       π = ²²/₇ atau 3,14
+</p><p>                       r = jari jari bola (cm)
+</p><p><strong>Maka perhitungannya yaitu :
+</strong></p><p>V = ⁴/₃ πr³
+</p><p>    = ⁴/₃ × 3,14 × (12 m)³
+</p><p>    = ⁴/₃ × 3,14 × 1.728 m³
+</p><p>    = 7.234,56 m³
+</p><p><strong>∴ Kesimpulan Luas permukaan (L) dan volume (V) bola tersebut adalah 1.808,64 m²  dan 7.234,56 m³
+.</strong></p><p></p><p>b. Luas permukaan (L) dan volume (V) bola yang memiliki diameter 10 cm adalah <strong>314 cm²  dan 523,33 cm³
+.
+</strong></p>Penyelesaian Soal :
+<p><strong>LANGKAH PERTAMA (I)
+</strong></p><p>Hitung jari jari (r) bola dengan menggunakan cara sebagai berikut :  </p><p>r = ¹/₂ × d  </p><p>Keterangan : r = jari - jari bola
+</p><p>                      d = diameter bola  </p><p><strong>Maka perhitungannya yaitu :
+</strong></p><p>r = ¹/₂ × d  </p><p>r = ¹/₂ × 10 cm
+</p><p>r = 5 cm
+</p><p><strong>LANGKAH KEDUA (II)
+</strong></p><p>Hitung luas permukaan bola (L) dengan menggunakan cara sebagai berikut:  </p><p>L = 4πr²
+</p><p>Keterangan: L = luas permukaan bola  (cm²)
+</p><p>                      r = jari - jari bola  (cm)
+</p><p>                      π = ²²/₇ atau 3,14
+</p><p><strong>Maka perhitungannya yaitu :
+</strong></p><p>L = 4πr²
+</p><p>   = 4 × 3,14 × (5 cm)²
+</p><p>   = 4 × 3,14 × 25 cm²
+</p><p>   = 314 cm²
+</p><p><strong>LANGKAH KETIGA (III)
+</strong></p><p>Hitung Volume bola (V) dengan menggunakan cara sebagai berikut :  </p><p>V = ⁴/₃ πr³
+</p><p>Keterangan : V = volume bola (cm³)
+</p><p>                       π = ²²/₇ atau 3,14
+</p><p>                       r = jari jari bola (cm)
+</p><p><strong>Maka perhitungannya yaitu :
+</strong></p><p>V = ⁴/₃ πr³
+</p><p>    = ⁴/₃ × 3,14 × (5 cm)³
+</p><p>    = ⁴/₃ × 3,14 × 125 cm³
+</p><p>    = 523,33 cm³
+</p><p><strong>∴ Kesimpulan Luas permukaan (L) dan volume (V) bola tersebut adalah 314 cm²  dan 523,33 cm³
+.
+</strong></p><p></p><p>c. Luas permukaan (L) dan volume (V) bola yang memiliki diameter 12 dm adalah <strong>452,16 dm²   dan 904,32 dm³
+.</strong></p>Penyelesaian Soal :
+<p><strong>LANGKAH PERTAMA (I)
+</strong></p><p>Hitung jari jari (r) bola dengan menggunakan cara sebagai berikut :  </p><p>r = ¹/₂ × d  </p><p>r = ¹/₂ × 12 dm
+</p><p>r = 6 dm
+</p><p><strong>LANGKAH KEDUA (II)
+</strong></p><p>Hitung luas permukaan bola (L) dengan menggunakan cara sebagai berikut:  </p><p>L = 4πr²
+</p><p>   = 4 × 3,14 × (6 dm)²
+</p><p>   = 4 × 3,14 × 36 dm²
+</p><p>   = 452,16 dm²
+</p><p><strong>LANGKAH KETIGA (III)
+</strong></p><p>Hitung Volume bola (V) dengan menggunakan cara sebagai berikut :  </p><p>V = ⁴/₃ πr³
+</p><p>    = ⁴/₃ × 3,14 × (6 dm)³
+</p><p>    = ⁴/₃ × 3,14 × 216 dm³
+</p><p>    = 904,32 dm³
+</p><p><strong>∴ Kesimpulan Luas permukaan (L) dan volume (V) bola tersebut adalah 452,16 dm²   dan 904,32 dm³
+.</strong></p><p></p><p>d. Luas permukaan (L) dan volume (V) bola yang memiliki jari jari 4,5 cm adalah <strong>254,34 cm²   dan 381,51 cm³
+.</strong></p>Penyelesaian Soal :
+<p><strong>LANGKAH PERTAMA (I)
+</strong></p><p>Hitung luas permukaan bola (L) dengan menggunakan cara sebagai berikut:  </p><p>L = 4πr²
+</p><p>   = 4 × 3,14 × (4,5 cm)²
+</p><p>   = 4 × 3,14 × 20,25 cm²
+</p><p>   = 254,34 cm²
+</p><p><strong>LANGKAH KEDUA (II)
+</strong></p><p>Hitung Volume bola (V) dengan menggunakan cara sebagai berikut :  </p><p>V = ⁴/₃ πr³
+</p><p>    = ⁴/₃ × 3,14 × (4,5 cm)³
+</p><p>    = ⁴/₃ × 3,14 × 91,125 cm³
+</p><p>    = 381,51 cm³
+</p><p><strong>∴ Kesimpulan Luas permukaan (L) dan volume (V) bola tersebut adalah 254,34 cm²   dan 381,51 cm³
+.</strong></p><p></p><p>e. Luas permukaan (L) dan volume (V) bola yang memiliki diameter 20 m adalah <strong>1.256 m²   dan 4.186,67 m³
+.</strong></p>Penyelesaian Soal :
+<p><strong>LANGKAH PERTAMA (I)
+</strong></p><p>Hitung jari jari (r) bola dengan menggunakan cara sebagai berikut :  </p><p>r = ¹/₂ × d  </p><p>r = ¹/₂ × 20 m
+</p><p>r = 10 m
+</p><p><strong>LANGKAH KEDUA (II)
+</strong></p><p>Hitung luas permukaan bola (L) dengan menggunakan cara sebagai berikut:  </p><p>L = 4πr²
+</p><p>   = 4 × 3,14 × (10 m)²
+</p><p>   = 4 × 3,14 × 100 m²
+</p><p>   = 1.256 m²
+</p><p><strong>LANGKAH KETIGA (III)
+</strong></p><p>Hitung Volume bola (V) dengan menggunakan cara sebagai berikut :  </p><p>V = ⁴/₃ πr³
+</p><p>    = ⁴/₃ × 3,14 × (10 m)³
+</p><p>    = ⁴/₃ × 3,14 × 1000 m³
+</p><p>    = 4.186,67 m³
+</p><p><strong>∴ Kesimpulan Luas permukaan (L) dan volume (V) bola tersebut adalah 1.256 m²   dan 4.186,67 m³
+.</strong></p><p></p><p>f. Luas permukaan (L) dan volume (V) bola yang memiliki jari jari 15 m adalah <strong>2.826 m²   dan 14.130 m³
+.</strong></p>Penyelesaian Soal :
+<p><strong>LANGKAH PERTAMA (I)
+</strong></p><p>Hitung luas permukaan bola (L) dengan menggunakan cara sebagai berikut:  </p><p>L = 4πr²
+</p><p>   = 4 × 3,14 × (15 m)²
+</p><p>   = 4 × 3,14 × 225 m²
+</p><p>   = 2.826 m²
+</p><p><strong>LANGKAH KEDUA (II)
+</strong></p><p>Hitung Volume bola (V) dengan menggunakan cara sebagai berikut :  </p><p>V = ⁴/₃ πr³
+</p><p>    = ⁴/₃ × 3,14 × (15 m)³
+</p><p>    = ⁴/₃ × 3,14 × 3.375 m³
+</p><p>    = 14.130 m³
+</p><p><strong>∴ Kesimpulan Luas permukaan (L) dan volume (V) bola tersebut adalah 2.826 m²   dan 14.130 m³
+.</strong></p>Pelajari Lebih Lanjut :
+<p>Materi Tentang Volume bola https://brainly.co.id/tugas/18264022
+</p><p>Materi Tentang Volume bola https://brainly.co.id/tugas/17863592
+</p><p>Materi Tentang Volume bola https://brainly.co.id/tugas/10947950
+</p><p>Materi Tentang Volume bola https://brainly.co.id/tugas/3810935
+</p><p>Materi tentang Luas bola https://brainly.co.id/tugas/4041310
+</p><p>Materi tentang Luas bola https://brainly.co.id/tugas/931691
+</p>______________________
+Detail Jawaban :
+<p>Kelas : 9
+</p><p>Mapel : Matematika
+</p><p>Bab : 5
+</p><p>Kode : 9.2.5</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut%e2%80%8b">
+                            3. tentukan luas permukaan dan volume bangun bola berikut!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Luas Permukaan : 1.808,64</p><p>Volume : 7.234,56</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p><strong>L</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>k</strong><strong>a</strong><strong>h</strong><strong> </strong><strong>-</strong><strong> </strong><strong>l</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>k</strong><strong>a</strong><strong>h</strong><strong> </strong><strong>a</strong><strong>d</strong><strong>a</strong><strong> </strong><strong>d</strong><strong>i</strong><strong> </strong><strong>d</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>m</strong><strong> </strong><strong>g</strong><strong>a</strong><strong>m</strong><strong>b</strong><strong>a</strong><strong>r</strong></p><p></p><p><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong></p><p></p><p><strong>M</strong><strong>a</strong><strong>p</strong><strong>e</strong><strong>l</strong><strong> </strong><strong>:</strong><strong> </strong><strong>M</strong><strong>a</strong><strong>t</strong><strong>e</strong><strong>m</strong><strong>a</strong><strong>t</strong><strong>i</strong><strong>k</strong><strong>a</strong></p><p></p><p><strong>※</strong><strong> </strong><strong>J</strong><strong>a</strong><strong>d</strong><strong>i</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>J</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>T</strong><strong>e</strong><strong>r</strong><strong>c</strong><strong>e</strong><strong>d</strong><strong>a</strong><strong>s</strong><strong> </strong><strong>y</strong><strong>a</strong><strong>a</strong><strong> </strong><strong>※</strong></p><p></p><p><strong>♡</strong><strong> </strong><strong>T</strong><strong>H</strong><strong>A</strong><strong>N</strong><strong>K</strong><strong>S</strong><strong> </strong><strong>♡</strong></p><br />
+                                            <h2 class="ez-toc-section" id="latihan-5-3bolatentukan-luas-permukaan-dan-volume-bangun-bola-berikut-1-d-12-dm2-r-12-m3-d10-cm%e2%80%8b">
+                            4. Latihan 5.3BolaTentukan luas permukaan dan volume bangun bola berikut.1.d= 12 dm2.r= 12 m3.d=10 cm​</h2><br />
+                        <p>Luas permukaan dan volume bola jika diketahui :</p><p>1. diameter (d) = 12 dm adalah <strong>452,16 dm² dan 904,32 dm³.</strong></p><p>2. jari jari (r) = 12 m adalah <strong>1.808,64 m² dan 7.234,56 m³.</strong></p><p>3. diameter (d) = 10 cm adalah <strong>314 cm² dan 523,3 cm³.</strong></p><strong>Penyelesaian Soal :</strong>1. diameter (d) = 12 dm<p><strong>LANGKAH PERTAMA (I)</strong></p><p>Hitung jari jari (r) bola dengan menggunakan cara sebagai berikut :</p><p>r = ¹/₂ × d  </p><p>Keterangan : r = jari - jari bola</p><p>                      d = diameter bola</p><p><strong>Maka perhitungannya yaitu :</strong></p><p>
+r = ¹/₂ × d  </p><p>r = ¹/₂ × 12 dm</p><p>r = 6 dm</p><p><strong>LANGKAH KEDUA (II)</strong></p><p>Hitung luas permukaan bola (L) dengan menggunakan cara sebagai berikut:</p><p>L = 4πr²
+</p><p>Keterangan: L = luas permukaan bola
+</p><p>                      r = jari - jari bola
+</p><p>                      π = ²²/₇ atau 3,14
+</p><p><strong>Maka perhitungannya yaitu :</strong></p><p>L = 4πr²
+</p><p>   = 4 × 3,14 × (6 dm)²</p><p>   = 4 × 3,14 × 36 dm²</p><p>   = 452,16 dm²</p><p><strong>LANGKAH KETIGA (III)</strong></p><p>Hitung volume bola (V) dengan menggunakan cara sebagai berikut:</p><p>V = ⁴/₃ πr³
+</p><p>Keterangan : V = volume bola (cm³)
+</p><p>                       π = ²²/₇ atau 3,14
+</p><p>                       r = jari jari bola (cm)</p><p><strong>Maka perhitungannya yaitu :</strong></p><p>V = ⁴/₃ πr³
+</p><p>    = ⁴/₃ × 3,14 × (6 dm)³</p><p>    = ⁴/₃ × 3,14 × 216 dm³</p><p>    = 904,32 dm³</p><p><strong>∴ Kesimpulan Luas permukaan dan volume bola adalah 452,16 dm² dan 904,32 dm³.</strong></p><p></p>2. jari jari (r) = 12 m<p><strong>LANGKAH PERTAMA (I)</strong></p><p>Hitung luas permukaan bola (L) dengan menggunakan cara sebagai berikut:</p><p>L = 4πr²
+</p><p>Keterangan: L = luas permukaan bola
+</p><p>                      r = jari - jari bola
+</p><p>                      π = ²²/₇ atau 3,14
+</p><p><strong>Maka perhitungannya yaitu :</strong></p><p>L = 4πr²
+</p><p>   = 4 × 3,14 × (12 m)²</p><p>   = 4 × 3,14 × 144 m²</p><p>   = 1.808,64 m²</p><p><strong>LANGKAH KEDUA (II)</strong></p><p>Hitung volume bola (V) dengan menggunakan cara sebagai berikut:</p><p>V = ⁴/₃ πr³
+</p><p>Keterangan : V = volume bola (cm³)
+</p><p>                       π = ²²/₇ atau 3,14
+</p><p>                       r = jari jari bola (cm)</p><p><strong>Maka perhitungannya yaitu :</strong></p><p>V = ⁴/₃ πr³
+</p><p>    = ⁴/₃ × 3,14 × (12 m)³</p><p>    = ⁴/₃ × 3,14 × 1.728 m³</p><p>    = 7.234,56 m³</p><p><strong>∴ Kesimpulan Luas permukaan dan volume bola adalah 1.808,64 m² dan 7.234,56 m³.</strong></p><p></p>3. diameter (d) = 10 cm<p><strong>LANGKAH PERTAMA (I)</strong></p><p>Hitung jari jari (r) bola dengan menggunakan cara sebagai berikut :</p><p>
+r = ¹/₂ × d  </p><p>r = ¹/₂ × 10 cm</p><p>r = 5 cm</p><p><strong>LANGKAH KEDUA (II)</strong></p><p>Hitung luas permukaan bola (L) dengan menggunakan cara sebagai berikut:</p><p>L = 4πr²
+</p><p>   = 4 × 3,14 × (5 cm)²</p><p>   = 4 × 3,14 × 25 cm²</p><p>   = 314 cm²</p><p><strong>LANGKAH KETIGA (III)</strong></p><p>Hitung volume bola (V) dengan menggunakan cara sebagai berikut:</p><p>V = ⁴/₃ πr³
+</p><p>    = ⁴/₃ × 3,14 × (5 cm)³</p><p>    = ⁴/₃ × 3,14 × 125 cm³</p><p>    = 523,3 cm³</p><p><strong>∴ Kesimpulan Luas permukaan dan volume bola adalah 314 cm² dan 523,3 cm³.</strong></p>Pelajari Lebih Lanjut :
+<p>Materi Tentang Volume bola https://brainly.co.id/tugas/18264022
+</p><p>Materi Tentang Volume bola https://brainly.co.id/tugas/17863592
+</p><p>Materi Tentang Volume bola https://brainly.co.id/tugas/10947950
+</p><p>Materi Tentang Volume bola https://brainly.co.id/tugas/3810935
+</p><p>Materi tentang Volume dan Luas bola https://brainly.co.id/tugas/21699537
+</p><p>Materi tentang Volume dan Luas bola https://brainly.co.id/tugas/19972181</p>______________________Detail Jawaban :
+<p>Kelas : 9
+</p><p>Mapel : Matematika
+</p><p>Bab : 5
+</p><p>Kode : 9.2.5
+</p><br />
+                                            <h2 class="ez-toc-section" id="d-10cm-tentukan-luas-permukaan-dan-volume-bangun-bola-berikut">
+                            5. d= 10cm tentukan luas permukaan dan volume bangun bola berikut</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>maafkan saya kalau salah</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Luas permukaan = 4πr²</p><p>= 4π5.5</p><p>=100π cm²</p><p></p><p>Volume = 4/3πr³</p><p>= 4/3 π 5.5.5 </p><p>=166,6π cm³</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut%e2%80%8b">
+                            6. tentukan luas permukaan dan volume bangun bola berikut​</h2><br />
+                        <p><strong>Diketahui</strong><strong>:</strong><strong> </strong></p><p><strong>diameter</strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>2</strong><strong> </strong><strong>DM</strong></p><p><strong>jari </strong><strong>jari </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>/</strong><strong>2</strong><strong> </strong><strong>dari </strong><strong>1</strong><strong>2</strong><strong> </strong><strong>=</strong><strong> </strong><strong>6</strong><strong> </strong><strong>dm</strong></p><p></p><p><strong>Ditanyakan</strong><strong>:</strong><strong> </strong><strong>luas</strong><strong> </strong><strong>permukaan</strong><strong> </strong><strong>dan</strong><strong> </strong><strong>volume</strong><strong> </strong><strong>bangun</strong><strong> </strong><strong>bola</strong><strong> </strong><strong>tsb</strong><strong>?</strong><strong> </strong></p><p></p><p><strong>Jawab</strong><strong>:</strong><strong> </strong></p><p></p><p><strong>luas</strong><strong> </strong><strong>permukaan</strong><strong>:</strong><strong> </strong></p><p><strong>=</strong><strong> </strong><strong>4</strong><strong> </strong><strong>x</strong><strong> </strong><strong>π</strong><strong> </strong><strong>x</strong><strong> </strong><strong>r²</strong></p><p><strong>=</strong><strong> </strong><strong>4</strong><strong> </strong><strong>x</strong><strong> </strong><strong>3</strong><strong>,</strong><strong>1</strong><strong>4</strong><strong> </strong><strong>x </strong><strong>6</strong><strong> </strong><strong>x </strong><strong>6</strong></p><p><strong>=</strong><strong> </strong><strong>4</strong><strong> </strong><strong>x</strong><strong> </strong><strong>3</strong><strong>,</strong><strong>1</strong><strong>4</strong><strong> </strong><strong>x</strong><strong> </strong><strong>3</strong><strong>6</strong></p><p><strong>=</strong><strong> </strong><strong>4</strong><strong>5</strong><strong>2</strong><strong>,</strong><strong>1</strong><strong>6</strong><strong> </strong><strong>dm</strong><strong> </strong></p><p></p><p></p><p><strong>volume</strong><strong> </strong><strong>bola:</strong></p><p><strong>=</strong><strong> </strong><strong>4</strong><strong>/</strong><strong>3</strong><strong> </strong><strong>x</strong><strong> </strong><strong>π</strong><strong> </strong><strong>x</strong><strong> </strong><strong>r³</strong></p><p><strong>=</strong><strong> </strong><strong>4</strong><strong>/</strong><strong>3</strong><strong> </strong><strong>x </strong><strong>3</strong><strong>,</strong><strong>1</strong><strong>4</strong><strong> </strong><strong>x </strong><strong>6</strong><strong> </strong><strong>x </strong><strong>6</strong><strong> </strong><strong>x </strong><strong>6</strong></p><p><strong>=</strong><strong> </strong><strong>4</strong><strong>/</strong><strong>3</strong><strong> </strong><strong>x </strong><strong>3</strong><strong>,</strong><strong>1</strong><strong>4</strong><strong> </strong><strong>x </strong><strong>2</strong><strong>1</strong><strong>6</strong></p><p><strong>=</strong><strong> </strong><strong>9</strong><strong>0</strong><strong>4</strong><strong>,</strong><strong>3</strong><strong>2</strong><strong> </strong><strong>dm</strong></p><p></p><p></p><p><strong>semoga </strong><strong>bermanfaat </strong></p><p><strong>maaf </strong><strong>kalo </strong><strong>salah</strong></p><p>Luas Permukaan Bola</p><p>= 4πr²</p><p>= 4 × 3,14 × 6²</p><p>= 4 × 3,14 × 36</p><p>= 4 × 113,04</p><p>= 452,16 dm²</p><p></p><p>Volume Bola</p><p>= 4/3 × π × r³</p><p>= 4/3 × 3,14 × 6³</p><p>= 4/3 × 3,14 × 216</p><p>= 4 × 3,14 × 72</p><p>= 4 × 226,08</p><p>= 904,32 dm³</p><p></p><p>~Opung~</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut%e2%80%8b">
+                            7. tentukan luas permukaan dan volume bangun bola berikut​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Luas permukaan</p><p>L≈4.π.r²</p><p>L≈(4×3,14)×12×12</p><p>L≈12,56×144</p><p>L≈<strong>1</strong><strong>.</strong><strong>8</strong><strong>0</strong><strong>8</strong><strong>,</strong><strong>6</strong><strong>4</strong><strong>c</strong><strong>m</strong><strong>²</strong></p><p>Volume </p><p>L≈4/3.π.r³</p><p>L≈4/3×3,14×(12×12×12)</p><p>L≈(4/3×3,14×1.728)</p><p>L≈<strong>7</strong><strong>.</strong><strong>2</strong><strong>3</strong><strong>4</strong><strong>,</strong><strong>5</strong><strong>6</strong><strong>c</strong><strong>m</strong><strong>³</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="latihan-5-3soal1-tentukan-luas-permukaan-bangun-bola-berikutr-12-m2-tentukan-volume-bangun-bola-berikutd-10-cm%e2%80%8b">
+                            8. Latihan 5.3Soal:1. Tentukan Luas permukaan bangun bola berikut!r = 12 m2.Tentukan Volume bangun bola berikut!d = 10 cm​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. 1,808,64</p><p>2. 523,33</p><p></p><p><strong>pembahasan</strong></p><p></p><p><strong>1</strong><strong>.</strong><strong> </strong><strong>d</strong><strong>i</strong><strong>k</strong><strong>e</strong><strong>t</strong><strong>a</strong><strong>h</strong><strong>u</strong><strong>i</strong> : r = 12 m </p><p>rumus luas permukaan bola </p><p>[tex]4\pi \:  {r}^{ 2} [/tex]</p><p>[tex]l \:  = 4 \times 3.14 \times  {12}^{2} [/tex]</p><p>= 1,808,64 m</p><p></p><p>2. <strong>diketahui</strong><strong> </strong><strong>:</strong><strong> </strong>d = 10 m</p><p> r = 10 : 2 = 5</p><p>rumus volume bola </p><p>[tex]v =  \frac{4}{3} \pi  {r}^{3} [/tex]</p><p>[tex]v =  \frac{4}{3}  \times 3.14 \times  {5}^{3 } [/tex]</p><p>= 523,33 m</p><p>     </p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikuttolong-bantu-ya-soalnya-besok-di-kumpulkan-tolong-ya-terimakasih-sebelumnya-%e2%80%8b">
+                            9. Tentukan luas permukaan dan volume bangun bola berikuttolong bantu ya..... soalnya besok di kumpulkan tolong ya ... terimakasih sebelumnya ​</h2><br />
+                        <p>semoga membantu,,!!!</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-dengan-diameter-10-cmcm">
+                            10. tentukan luas permukaan dan volume bangun bola berikut dengan diameter :10 cm
+cm</h2><br />
+                        <p>Lp = 4 x phi x r^2</p><p>Lp = 4 x 3,14 x 10^2</p><p>Lp = 4 x 3,14 x 100</p><p>Lp = 1256 cm2</p><br /><p>V = 4/3 x phi x r^3</p><p>V = 4/3 x 3,14 x 10^3</p><p>V = 4/3 x 3,14 x 1000</p><p>V = 4186,67 cm3</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-r45cm">
+                            11. tentukan luas permukaan dan volume bangun bola berikut . r=4'5cm</h2><br />
+                        <p><strong>Jawab:</strong></p><br /><p><strong>Penjelasan dengan langkah-langkah:</strong></p><br /><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-jika-di-ketahui-panjang-jari-jari-bola-18-cm%e2%80%8b">
+                            12. tentukan luas permukaan dan volume bangun bola berikut jika di ketahui panjang jari jari bola 18 cm​</h2><br />
+                        <p>Dik : r = 18</p><p>Luas permukaan</p><p> L = 4πr²</p><p>    = 4×3,14×18²</p><p>    = 4069,44</p><p>Volume bola </p><p>[tex]v =  \frac{4}{3}  \times \pi {r}^{3}  \\  =  \frac{4}{3}  \times 3.14 \times  {18}^{3}  \\  = 24416.64[/tex]</p><p></p><p><strong>Jawaban:</strong></p><p>Lp = 4 x π x r²</p><p>     = 4 x 3,14 x 18 x 18</p><p>     = 4069,44 cm²</p><p></p><p>vol. = 4/3 x π x r³</p><p>       = 4/3 x 3,14 x 18 x 18 x 18</p><p>       = 24.461,64</p><p></p><p>#Semoga membantu </p><p>#Jawaban terbaik </p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-a-r-12-m%e2%80%8b">
+                            13. Tentukan luas permukaan dan volume bangun bola berikut a. r = 12 m​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>r = 12 m</p><p>Lp = 4πr² = 4 x 3,14 x 12 x 12 = 1808,64 m²</p><p>V = 4/3 πr³ = 4/3 x 3,14 x 12 x 12 x 12 = 7234,56 m³</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-d-12-dmr-12-md-10-cm2-berapakah-luas-permukaan-bangun-setengah-bola-tertutup-berikut-8-cm12-cm12-cm%e2%80%8b">
+                            14. 1. Tentukan luas permukaan dan volume bangun bola berikut.d = 12 dmr = 12 md = 10 cm2. Berapakah luas permukaan bangun setengah bola tertutup berikut.8 cm12 cm12 cm​</h2><br />
+                        <p> </p><p> </p><p>kita bikin jadi abc ya sesuai urutan yang di soal</p><p>1.) a.) L.p = 4πr² = 4 . 3,14 . 6² (12 dibagi 2 karena di soal diameter) = 75,36 dm²</p><p>kalau harus dirubah dalam bentuk cm² tinggal dikali 100 jadinya 7536 cm²</p><p>Volume = 4/3πr³ = 4/3 . 3,14 . 6³ = 904,32 dm³</p><p>kalau harus dirubah dalam bentuk cm³ maka dikali 1000 sehingga menjadi 904320 cm³</p><p></p><p>1.)b.) L.p = 4πr² = 4 . 3,14 . 12² = 1808,64 m²</p><p>Volume = 4/3πr³ = 4/3 . 3,14 . 12² = 7234,56 m³</p><p></p><p>1.)c.) L.p = 4πr² = 4 . 3,14 . 10² = 1256 cm²</p><p>Volume = 4/3πr³ = 4/3 . 3,14 . 10³ = 4186,6 cm³</p><p></p><p></p><p>2.) Rumus untuk luas permukaan setengah bola tertutup adalah 3πr² didapat dari 1/2 . 4πr² + πr²</p><p>Di soal ga dikasih tau itu diameter atau jari jari, jadi <strong>kita anggap jari-jari semua</strong> aja ya? kalo ternyata ada yang diameter, berarti diubah ke jari jari dulu. tinggal diameter dibagi dua aja yaa~</p><p></p><p>a.) L.p = 3πr² = 3 . 3,14 . 8² = 602,88 cm²</p><p>b.) L.p = 3πr² = 3 . 3,14 . 12² = 1356,48 cm²</p><p>c.) yang c ini mungkin diameter, jadinya</p><p>L.p = 3πr² = 3 . 3,14 . (12/2)² = 339,12 cm²</p><p></p><p>selesai dehh, kalo ada yang ga paham bisa tanya di komen yaaa</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="c-1d-12-dmtentukan-luas-permukaan-dan-volume-bangun-bola-berikut%e2%80%8b">
+                            15. C.1d =12 dmtentukan luas permukaan dan volume bangun bola berikut​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>LP sama Volume bola nya yang diameter = 12 dm?</p><p></p><p>kalo iya, jawabannya gini</p><p>1. Volume </p><p>r=6 dm</p><p> volume bola = 4/3 ×πr³</p><p>= 4/3×3,14×6×6×6</p><p>=904,32 dm³</p><p>2. Luas Permukaan</p><p>r=6</p><p>luas permukaan bola= 4 ×πr²</p><p>= 4×3,14×6×6</p><p>=452,16 dm</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut%e2%80%8b">
+                            16. Tentukan Luas Permukaan dan volume bangun bola berikut​</h2><br />
+                        <p>Jawaban Di Lampiran</p><p>.</p><p>Semoga Membantu!</p>L = 1.808,64 m²V = 7.234,56 m³<p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Diketahui</p><p>• jari jari 12 m</p><p>Ditanya</p><p>• Luas permukaan bola?</p><p>• Volume bola?</p><p>[tex]\huge\colorbox{p}{penyelesain࿐}[/tex]</p>Luas Permukaan Bola<p>[tex]lp = 4 \times \pi \times r \times r[/tex]</p><p>[tex]lp = 4 \times 3,14 \times 12 \: m \times 12 \: m[/tex]</p><p>[tex]lp =  {1.808,64 \: m}^{2} [/tex]</p><p></p><p>Jadi, luas permukaan bola tersebut yaitu <strong>1.808,64</strong><strong> </strong><strong>m²</strong></p>Volume Bola<p>[tex]v =  \frac{4}{3}  \times \pi \times r \times r \times r[/tex]</p><p>[tex]v =  \frac{4}{3}  \times 3,14 \times 12 \: m \times 12 \: m \times 12 \: m[/tex]</p><p>[tex]v =  {7.234,56 \: m}^{3} [/tex]</p><p>Jadi, volume bola tersebut yaitu <strong>7.234,56</strong><strong> </strong><strong>m³</strong></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-dengan-jari-12-m">
+                            17. tentukan luas permukaan dan volume bangun bola berikut dengan jari : 12 m</h2><br />
+                        <p>Tentukan luas permukaan dan volume <strong>bangun bola</strong> berikut dengan jari" 12 m</p><p><strong>Bola</strong> adalah bangun ruang 3 dimensi yang terdiri dari beberapa lingkaran yang tak hingga jumlahnya dengan jari-jari yang sama.</p><p><strong>Rumus-rumus tentang bangun ruang bola</strong></p><p>1) Volume bola = ⁴/₃ x π x r³</p><p>2) Luas permukaan bola = 4 x π x r²</p><p>3) Luas belahan bola pepat (padat) = 3 x π x r² </p><p></p>Pembahasan<p><strong>Diketahui:</strong></p><p>Jari-jari bola = 12 m</p><p><strong>Ditanya:</strong></p><p>Luas permukaan dan volume bola</p><p><strong>Jawab:</strong></p><p><strong>Luas permukaan bola = 4 x π x r²</strong></p><p>                                     = 4 x 3,14 x 12 x 12</p><p>                                     = 1.808,64 m²</p><p><strong>Volume bola = ⁴/₃ x π x r³</strong></p><p>                      = ⁴/₃ x 3,14 x 12 x 12 x 12</p><p>                      = 4 x 3,14 x 4 x 12 x 12</p><p>                      = 7.234,56 m³</p><p></p>Pelajari Lebih Lanjut<p>Bab bola dapat disimak juga di</p>https://brainly.co.id/tugas/18252972brainly.co.id/tugas/4073091brainly.co.id/tugas/3557968brainly.co.id/tugas/4319344==============================Detail Jawaban<p><strong>Kelas </strong>: 8</p><p><strong>Mapel </strong>; Matematika</p><p><strong>Kategori </strong>: Bangun ruang</p><p><strong>Kode </strong>: 8.2.8</p><p></p><p><strong>Kata Kunci </strong>: Volume bola, luas permukaan bola, luas belahan bola pepat</p><p></p><p></p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-a-diketahui-r-12-mtentukan-luas-permukaan-dan-volumeb-diketahui-d10-cmtentukan-luas-permukaan-dan-volumec-diketahui-d12-dmtentukan-l">
+                            18. Tentukan luas permukaan dan volume bangun bola berikut :
+a. diketahui r= 12 m
+Tentukan luas permukaan dan volume
+b. diketahui d=10 cm
+Tentukan luas permukaan dan volume
+c. diketahui d=12 dm
+Tentukan luas permukaan dan volume</h2><br />
+                        a. VB = 3/4 . 22/7 . 12 .12 .12<br />= 4073,14 cm^3<br /><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-tolong-jawabmakasi%e2%80%8b">
+                            19. Tentukan luas permukaan dan volume bangun bola berikut tolong jawab,makasi​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantu</p><p>jadikan jawaban terbaikkk</p><br />
+                                            <h2 class="ez-toc-section" id="1-tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-r-15-m%e2%80%8b">
+                            20. 1. Tentukan luas permukaan dan volume bangun bola berikut.r= 15 m​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>[tex] \frac{4}{3}  \times \pi \times  {r}^{3}  =  \frac{4}{3}  \times 3.14 \times 15 \times 15 \times 15  \times 15 = 2826 \div 3 = 942[/tex]</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-yaitu-yg-di-tanya-acf">
+                            21. Tentukan luas permukaan dan volume bangun bola berikut yaitu yg di tanya A,C,F</h2><br />
+                         adalah sebuah abjad itu jawabannya mungkin<br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-r12cm">
+                            22. Tentukan luas permukaan dan volume bangun bola berikut r=12cm</h2><br />
+                        ini jawabannya akhy wa ukhty<br /><br /><br />maaf tulisan ana jelek<br /><br /><br /><br />dan maaf bila jawaban ana salah<br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-dengan-diameter-12">
+                            23. Tentukan Luas permukaan dan volume bangun bola berikut dengan diameter 12</h2><br />
+                        <p>Luas permukaan bola</p><p>πd² = π(12)² = 144π</p><p>volume bola</p><p>πd³/6 = π(12)³/6 = 288π</p><p>ni, maaf ya kalau salah </p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-a-r-12-m%e2%80%8b">
+                            24. Tentukan luas permukaan dan volume bangun bola berikut a. r = 12 m​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>r = 12 m</p><p></p><p>Lp = 4πr² = 4 x 3,14 x 12 x 12 = 1808,64 m²</p><p></p><p>V = 4/3 πr³ = 4/3 x 3,14 x 12 x 12 x 12 = 7234,56 m³</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="5-3-tentukan-luas-permukaan-dan-volume-bangun-bola-berikut%e2%80%8b">
+                            25. 5.3 tentukan luas permukaan dan volume bangun bola berikut​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p></p><p></p><p>semogaa membantuuu:))</p><p></p><p></p><p></p><p>tetap semangat-!!</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-dari-bangun-bola-berikut%e2%80%8b">
+                            26. tentukan luas permukaan dan volume dari bangun bola berikut​</h2><br />
+                        <p>ada di lampiran, semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-r12-m%e2%80%8b">
+                            27. tentukan luas permukaan dan volume bangun bola berikut r=12 m​</h2><br />
+                        <p></p><p></p><p><strong>Penjelasan:</strong></p><p>volume bola= 4/3×π×r3</p><p>                      =4/3×3,14×12×12×12</p><p>                       =7.234,56 m3</p><p>luas permukaan bola =4×π×r2</p><p>                                       =4×3,14×12×12</p><p>                                       =1.808,64 m </p><p>semoga membantu ❤️</p><br />
+                                            <h2 class="ez-toc-section" id="latihan-5-3bolatentukan-luas-permukaan-dan-volume-bangun-bola-berikut-1-r-45-cm2-d-20-m3-r-15-m%e2%80%8b">
+                            28. Latihan 5.3BolaTentukan Luas Permukaan dan volume bangun bola berikut.1. r = 4,5 cm2. d = 20 m3. r = 15 m​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1.</p><p>[tex]4 \times \pi \times r \times r \\  4 \times 3.14 \times 4.5 \times 4.5 \\  = 254.34 {cm}^{2} [/tex]</p><p></p><p>2. D=20 r=10</p><p></p><p>[tex]4 \times \pi \times r\times r \\ 4 \times 3.14 \times 10 \times 10 \\  = 1256 {m}^{2} [/tex]</p><p>3.</p><p>[tex]4 \times \pi \times r \times r \\ 4 \times 3.14 \times 15 \times 15 \\  = 2826 {m}^{2} [/tex]</p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-e-d20cm">
+                            29. Tentukan luas permukaan dan volume bangun bola berikut: e. d=20cm</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>d≈20/2</p><p>r≈10cm</p><p>_______</p><p>Luas</p><p>L≈4.π.r²</p><p>L≈4×3,14×(10×10)</p><p>L≈12,56×100</p><p>L≈<strong>1</strong><strong>.</strong><strong>2</strong><strong>5</strong><strong>6</strong><strong>c</strong><strong>m</strong><strong>³</strong></p><p>Volume</p><p>V≈4/3.π.r³</p><p>V≈4/3×3,14×10×10×10</p><p>V≈4/3×3,14×1.000</p><p>V≈<strong>4186,66 cm³</strong></p><p><strong>Jawab:</strong></p><p>LP = 1256 cm²</p><p>V = 4186,66 cm³</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>d </strong>= 20</p><p><strong>r </strong>= 10</p><p><strong></strong></p><p><strong>L.P. Bola </strong>= 4 × [tex]\pi[/tex] × r²</p><p>= 4 × 3,14 × 10²</p><p>= 1256 cm²</p><p></p><p><strong>V. Bola </strong>= [tex]\frac{4}{3}[/tex] × [tex]\pi[/tex] × r³</p><p>= [tex]\frac{4}{3}[/tex] × 3,14 × 10³</p><p>= 4186,66 cm³</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-diameter-10cm">
+                            30. tentukan luas permukaan dan volume bangun bola berikut diameter 10cm</h2><br />
+                        <br />[tex]d = 10 \:  \:  \: r = 5cm \\ luas \: permukaan = 4\pi {r}^{2}  = 4 \times 3.14 \times  {5}^{2}  \\  = 100 {cm}^{2}  \\ v =   \frac{4}{3}  \pi {r}^{3} =  \frac{4}{3}  \times 3.14 \times  {5}^{3} = 523.3 {cm}^{3} [/tex]<br /><p>penyelesaian :</p><p>luas = 4 x π x r²</p><p>        = 4 x 3,14 x 5²</p><p>        = 4 x 3,14 x 25</p><p>        = 3,14 x 100</p><p>        = 314 cm²</p><p>volume = 4/3 x π x r³</p><p>              = 4/3 x 3,14 x 5³</p><p>              = 4/3 x 3,14 x 125</p><p>              = 1.570/3</p><p>              = 523,3 cm³</p><br />
+                                            <h2 class="ez-toc-section" id="2-perhatikan-bangun-ruang-berikut-tentukan-luas-permukaan-bangun-tersebut-jawab-12-cm-24-cm-normukaan-sebuah-bola-yang-bervolume-24-416%e2%80%8b">
+                            31. 2. perhatikan bangun ruang berikut! tentukan luas permukaan bangun tersebut! jawab: .. 12 cm 24 cm - normukaan sebuah bola yang bervolume 24.416​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>24.416 cm </p><p>saya cuma tau itu jadi maaf klo salah</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-d10-cm%e2%80%8b">
+                            32. tentukan luas permukaan dan volume bangun bola berikut  d=10 cm​</h2><br />
+                        <p>Penyelesaian:</p><p>Luas= 4×π× r²</p><p>        = 4× 3,14× 5³</p><p>        = 4× 3,14× 125</p><p>        = 1.570/3</p><p>        = 523,3 cm³</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut">
+                            33. Tentukan luas permukaan dan volume bangun bola berikut</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Mencari luas permukaan:</p><p>Luas permukaan = 4 x π x r²</p><p>Luas permukaan = 4 x 3,14 x 15 x 15</p><p>Luas permukaan = 4 x 3,14 x 225</p><p>Luas permukaan = 2.826 </p><p></p><p>Mencari volume:</p><p>Volume = 4/3 x π x r³</p><p>Volume = 4/3 x 3,14 x 15 x 15 x 15</p><p>Volume = 14. 130</p><p></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>MAAF KL SALAH</p><p>SEMOGA BERMANFAAT</p><p>JADIKAN JAWABAN TERBAIK</p><p>FOLLOW YAAA NANTI SY FOLLOW BALIK</p><p>MAKASIH </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut">
+                            34. Tentukan luas permukaan dan volume bangun bola berikut.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a). Luas permukaan dan volume dari bangun ruang bola yang mempunyai panjang jari - jari 12 m tersebut berturut-turut adalah 1.808,64 m² dan 7.234,56 m³ .</p><p>b). Luas permukaan dan volume dari bangun ruang bola yang mempunyai panjang diameter 10 cm tersebut berturut-turut adalah 314 cm² dan 523,33 cm³ .</p><p>c). Luas permukaan dan volume dari bangun ruang bola yang mempunyai panjang diameter 12 dm tersebut berturut-turut adalah 452,16 dm² dan 904,32 dm³ .</p><p>d). Luas permukaan dan volume dari bangun ruang bola yang mempunyai panjang jari - jari 4,5 cm tersebut berturut-turut adalah 254,34 cm² dan 381,51 cm³ .</p><p>e). Luas permukaan dan volume dari bangun ruang bola yang mempunyai panjang diameter 20 m tersebut berturut-turut adalah 1.256 m² dan 4.186,67 m³ .</p><p>f). Luas permukaan dan volume dari bangun ruang bola yang mempunyai panjang jari - jari 15 m tersebut berturut-turut adalah 2.826 m² dan 14.130 m³ .</p><p> </p><p></p>Pembahasan: <p>a). Panjang jari - jari bola (r) = 12 m </p><p>• Luas permukaan bola: </p><p>L = 4πr² </p><p>L = 4 x 3,14 x (12 m)² </p><p>L = 12,56 x 144 m² </p><p>L = 1.808,64 m² </p><p>• Volume bola: </p><p>V = [tex] \sf \frac{4}{3} [/tex] x πr³ </p><p>V = [tex] \sf \frac{4}{3} [/tex] x 3,14 x (12 m)³ </p><p>V = [tex] \sf \frac{4}{3} [/tex] x 3,14 x 1.728 m³</p><p>V = [tex] \sf \frac{21.703,68\:m^{3}}{3} [/tex]</p><p>V = 7.234,56 m³ </p><p></p><p>b). Panjang diameter bola (d) = 10 cm </p><p>Jari - jari bola (r) = [tex] \sf \frac{d}{2} = \frac{10\:cm}{2} = 5 \: cm [/tex].</p><p>• Luas permukaan bola: </p><p>L = 4πr² </p><p>L = 4 x 3,14 x (5 cm)²</p><p>L = 12,56 x 25 cm²</p><p>L = 314 cm²</p><p>• Volume bola: </p><p>V = [tex] \sf \frac{4}{3} [/tex] x πr³ </p><p>V = [tex] \sf \frac{4}{3} [/tex] x 3,14 x (5 cm)³ </p><p>V = [tex] \sf \frac{4}{3} [/tex] x 3,14 x 125 cm³</p><p>V = [tex] \sf \frac{1.570\:cm^{3}}{3} [/tex]</p><p>V = 523,33 cm³ </p><p></p><p>c). Panjang diameter bola (d) = 12 dm </p><p>Jari - jari bola (r) = [tex] \sf \frac{d}{2} = \frac{12\:dm}{2} = 6 \: dm [/tex].</p><p>• Luas permukaan bola: </p><p>L = 4πr² </p><p>L = 4 x 3,14 x (6 dm)²</p><p>L = 12,56 x 36 dm²</p><p>L = 452,16 dm²</p><p>• Volume bola: </p><p>V = [tex] \sf \frac{4}{3} [/tex] x πr³ </p><p>V = [tex] \sf \frac{4}{3} [/tex] x 3,14 x (6 dm)³ </p><p>V = [tex] \sf \frac{4}{3} [/tex] x 3,14 x 216 dm³</p><p>V = [tex] \sf \frac{2.712,96\:dm^{3}}{3} [/tex]</p><p>V = 904,32 dm³ </p><p></p><p>d). Panjang jari - jari bola (r) = 4,5 cm </p><p>• Luas permukaan bola: </p><p>L = 4πr² </p><p>L = 4 x 3,14 x (4,5 cm)² </p><p>L = 12,56 x 20,25 cm² </p><p>L = 254,34 cm² </p><p>• Volume bola: </p><p>V = [tex] \sf \frac{4}{3} [/tex] x πr³ </p><p>V = [tex] \sf \frac{4}{3} [/tex] x 3,14 x (4,5 cm)³ </p><p>V = [tex] \sf \frac{4}{3} [/tex] x 3,14 x 91,125 cm³</p><p>V = [tex] \sf \frac{1.144,53\:cm^{3}}{3} [/tex]</p><p>V = 381,51 cm³ </p><p></p><p>e). Panjang diameter bola (d) = 20 m </p><p>Jari - jari bola (r) = [tex] \sf \frac{d}{2} = \frac{20\:m}{2} = 10 \: m [/tex].</p><p>• Luas permukaan bola: </p><p>L = 4πr² </p><p>L = 4 x 3,14 x (10 m)²</p><p>L = 12,56 x 100 m²</p><p>L = 1.256 m²</p><p>• Volume bola: </p><p>V = [tex] \sf \frac{4}{3} [/tex] x πr³ </p><p>V = [tex] \sf \frac{4}{3} [/tex] x 3,14 x (10 m)³ </p><p>V = [tex] \sf \frac{4}{3} [/tex] x 3,14 x 1.000 m³</p><p>V = [tex] \sf \frac{12.560\:m^{3}}{3} [/tex]</p><p>V = 4.186,67 m³ </p><p></p><p>f). Panjang jari - jari bola (r) = 15 m </p><p>• Luas permukaan bola: </p><p>L = 4πr² </p><p>L = 4 x 3,14 x (15 m)² </p><p>L = 12,56 x 225 m² </p><p>L = 2.826 m² </p><p>• Volume bola: </p><p>V = [tex] \sf \frac{4}{3} [/tex] x πr³ </p><p>V = [tex] \sf \frac{4}{3} [/tex] x 3,14 x (15 m)³ </p><p>V = [tex] \sf \frac{4}{3} [/tex] x 3,14 x 3.375 m³</p><p>V = [tex] \sf \frac{42.390\:m^{3}}{3} [/tex]</p><p>V = 14.130 m³ </p><p></p>Kesimpulan: <p>Berdasarkan perhitungan diatas, bisa kita simpulkan bahwa: </p><p>a). Luas permukaan dan volume dari bangun ruang bola yang mempunyai panjang jari - jari 12 m tersebut berturut-turut adalah 1.808,64 m² dan 7.234,56 m³ .</p><p>b). Luas permukaan dan volume dari bangun ruang bola yang mempunyai panjang diameter 10 cm tersebut berturut-turut adalah 314 cm² dan 523,33 cm³ .</p><p>c). Luas permukaan dan volume dari bangun ruang bola yang mempunyai panjang diameter 12 dm tersebut berturut-turut adalah 452,16 dm² dan 904,32 dm³ .</p><p>d). Luas permukaan dan volume dari bangun ruang bola yang mempunyai panjang jari - jari 4,5 cm tersebut berturut-turut adalah 254,34 cm² dan 381,51 cm³ .</p><p>e). Luas permukaan dan volume dari bangun ruang bola yang mempunyai panjang diameter 20 m tersebut berturut-turut adalah 1.256 m² dan 4.186,67 m³ .</p><p>f). Luas permukaan dan volume dari bangun ruang bola yang mempunyai panjang jari - jari 15 m tersebut berturut-turut adalah 2.826 m² dan 14.130 m³ .</p><p></p>Pelajari Lebih Lanjut <p>1. Materi tentang menghitung volume bangun ruang tabung → brainly.co.id/tugas/48836817</p><p>2. Materi tentang bangun ruang balok → brainly.co.id/tugas/48807995</p><p>3. Materi tentang menghitung mencari panjang rusuk dari bangun ruang kubus → brainly.co.id/tugas/47579041</p><p>-----------------------------------------------------------------</p>Detail Jawaban<p>Kelas : 9</p><p>Mapel : Matematika</p><p>Bab : Bangun Ruang</p><p>Kode Kategorisasi : 9.2.5</p><p>Kata Kunci : Bangun,ruang, bola, volume, luas permukaan.</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-e-d20cm">
+                            35. Tentukan luas permukaan dan volume bangun bola berikut: e. d=20cm</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Lp = 4πr²</p><p>     = 4 × 3,14 × 10²</p><p>     = 1.256 cm³</p><p></p><p>V = 4/3 π r³</p><p>    = 4/3 × 3,14 × 10³</p><p>    = 4.186,6666666667</p><p></p><p>maaf klo slh</p><p><strong>Jawaban:</strong></p><p>Lp = 1.256 cm²</p><p>V = 4.186,66 cm³</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Lp = 4 × π × r²</p><p>Lp = 4 × 3,14 × 10²</p><p>Lp = 4 × 3,14 × 100</p><p>Lp = 4 × 314</p><p>Lp =<strong> 1.256 cm²</strong></p><p></p><p>V = 4/3 × π × r³</p><p>V = 4/3 × 3,14 × 10³</p><p>V = 4/3 × 3,14 × 1.000</p><p>V = 4/3 × 3.140</p><p>V = <strong>4.186,66 cm³</strong></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-d-12-dm-tolong-di-jawab-soalnya-butuh-jawaban-dan-usahakan-benar-makasih-%e2%80%8b">
+                            36. tentukan luas permukaan dan volume bangun bola berikut d= 12 dm tolong di jawab soalnya butuh jawaban dan usahakan benar makasih ;)​ </h2><br />
+                        <p><strong>jawaban </strong></p><p></p><p><strong>r=</strong><strong> </strong><strong>1</strong><strong>2</strong><strong> </strong><strong>/</strong><strong> </strong><strong>2</strong><strong> </strong><strong>=</strong><strong> </strong>6 </p><p></p><p><strong>luas </strong><strong>permukaan</strong><strong> </strong><strong>bola </strong><strong>=</strong><strong> </strong><strong>4</strong><strong>π</strong><strong>(</strong><strong> </strong><strong>1</strong><strong>/</strong><strong>2</strong><strong> </strong><strong>d </strong><strong>)</strong><strong> </strong><strong>²</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>4</strong><strong> </strong><strong>×</strong><strong> </strong><strong>3</strong><strong>,</strong><strong>1</strong><strong>4</strong><strong> </strong><strong>×</strong><strong> </strong><strong>6</strong><strong>²</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>2</strong><strong> </strong><strong>,</strong><strong> </strong><strong>5</strong><strong>6</strong><strong> </strong><strong> </strong><strong>×</strong><strong> </strong><strong>6</strong><strong> </strong><strong>×</strong><strong> </strong><strong>6</strong><strong> </strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>4</strong><strong>5</strong><strong>2</strong><strong> </strong><strong>,</strong><strong> </strong><strong>1</strong><strong>6</strong><strong> </strong><strong>cm²</strong></p><p></p><p></p><p><strong>volume </strong><strong> </strong><strong>bola </strong><strong>=</strong><strong> </strong><strong>4</strong><strong>/</strong><strong>3</strong><strong> </strong><strong>×</strong><strong> </strong><strong>π </strong><strong>×</strong><strong> </strong><strong>d</strong>³</p><p>                      = 1/4 × 3,14 × 12 × 12 × 12 </p><p>                      = 1.356, 48 dm³</p><p></p><p>jadi , luas permukaan bola 452,16 cm²</p><p>jadi , volume bola 1.356,48 dm³</p><p></p><p>maaf kalau salah</p><p></p><p></p><p>                                 </p><br />
+                                            <h2 class="ez-toc-section" id="1-tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-%e2%80%8b">
+                            37. 1. Tentukan luas permukaan dan volume bangun bola berikut.​</h2><br />
+                        <p></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>a. </p><p>[tex]luas  = 4 \times \pi \times r {}^{2}  \  \:  \:  \:  \:  \:  \:  \:  \:   \\  \:  \:  \:  \:  \:   \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \: = 4 \times 3.14 \times 12 \times 12 \\   \:  \:  \:  \:  \: = 12.56 \times 144  \\ = 1808.64[/tex]</p><p></p><p>[tex]v =   \frac{4}{3}  \times  \frac{22}{7}   \times 12 \times 12 \times 12 \\  = 4 \times \frac{22}{7}  \times 4 \times 12 \times 12 \\  = 16  \times \frac{22}{7}  \times 144 \\  = 50.24 \times 14 \\  = 7234.56[/tex]</p><p></p><p>b. </p><p>[tex]luas = 4 \times \pi \times  {r}^{2}    \\  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  = 4  \times3.14 \times 5 \times 5 \\  = 12.56 \times 25 \\  = 314[/tex]</p><p>[tex]v =   \frac{4}{3}  \times 3.14 \times 5 \times 5 \times 5 \\  = 1.3 \times 3.14 \times 125 \\  = 4.082 \times 125 \\  = 510.25[/tex]</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="latihan-5-3bolatentukan-luas-permukaan-dan-volume-bangun-bola-berikut-d-12-dmr-12-md-10-cm%e2%80%8b">
+                            38. Latihan 5.3BolaTentukan luas permukaan dan volume bangun bola berikut.d = 12 dmr= 12 md = 10 cm​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawabannyaa adalah 281.</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-dr15-m">
+                            39. Tentukan luas permukaan dan volume bangun bola berikut: (d):r=15 m</h2><br />
+                        3,14×15×15×4<br />2826<br /><br />Semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="tentukan-luas-permukaan-dan-volume-bangun-bola-berikut-r12-dan-d12">
+                            40. tentukan luas permukaan dan volume bangun bola berikut r=12 dan d=12</h2><br />
+                        <p><strong>Jawab:</strong></p><p>a. Bola dengan r=12</p><p>L = 4 πr² = 4 x 3,14 x 12 x 12 = 1808,64 </p><p>V = 4/3 πr³ = 4/3 x 3,14 x 12 x 12 x 12 = 7234,56</p><p></p><p>a. Bola dengan d=12, berarti r=6</p><p>L = 4 πr² = 4 x 3,14 x 6 x 6 = 452.16</p><p>V = 4/3 πr³ = 4/3 x 3,14 x 6 x 6 x 6 = 904.32</p><p></p><p></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/jPX8aIp57BI?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>matematika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/he-s/">He s</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/when-did-habibie-s-father-die/">When Did Habibie s Father Die</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sikologis/">Sikologis</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagian-dari-suatu-piramida-makanan-yang-mempunyai-massa-terbanyak-adalah/">Bagian Dari Suatu Piramida Makanan Yang Mempunyai Massa Terbanyak Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nyatakan-himpunan-a-dengan-notasi-pembentuk-himpunan/">Nyatakan Himpunan A Dengan Notasi Pembentuk Himpunan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kegiatan-1-menyimpulkan-pidato-persuasif/">Kegiatan 1 Menyimpulkan Pidato Persuasif</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ungkapan-tanggapan-dapat-berupa/">Ungkapan Tanggapan Dapat Berupa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/antonim-delusi/">Antonim Delusi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-perbedaan-antara-drna-trna-dan-rrna/">Jelaskan Perbedaan Antara Drna Trna Dan Rrna</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-gerakan-kepala/">Contoh Gerakan Kepala</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/panenggak-pandawa-yaiku/">Panenggak Pandawa Yaiku</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pembalikan-dalam-renang-gaya-dada-dilakukan-pada-saat/">Pembalikan Dalam Renang Gaya Dada Dilakukan Pada Saat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-pengertian-biosfer/">Jelaskan Pengertian Biosfer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gambarkan-bangun-ruang-prisma-segitiga/">Gambarkan Bangun Ruang Prisma Segitiga</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tangga-nada-yang-memiliki-5-buah-nada-adalah-tangga-nada/">Tangga Nada Yang Memiliki 5 Buah Nada Adalah Tangga Nada</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/50-gram-berapa-ons/">50 Gram Berapa Ons</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/faktor-internal-dan-eksternal/">Faktor Internal Dan Eksternal</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/molekul-senyawa/">Molekul Senyawa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/homogen/">Homogen</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/istinja-adalah/">Istinja Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

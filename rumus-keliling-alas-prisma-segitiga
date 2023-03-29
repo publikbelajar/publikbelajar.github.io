@@ -1,0 +1,1191 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Rumus Keliling Alas Prisma Segitiga - BELAJAR</title>
+    <meta name="description" content="Rumus Keliling Alas Prisma Segitiga, , , , , , , 0, Cara Mencari Keliling Segitiga Siku Siku, edukasy.com, 1280 x 720, jpeg, , 20, rumus-keliling-alas-prisma-segitiga, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Rumus Keliling Alas Prisma Segitiga - BELAJAR" />
+    <meta property="og:description" content="Rumus Keliling Alas Prisma Segitiga, , , , , , , 0, Cara Mencari Keliling Segitiga Siku Siku, edukasy.com, 1280 x 720, jpeg, , 20, rumus-keliling-alas-prisma-segitiga, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Rumus Keliling Alas Prisma Segitiga - BELAJAR" />
+    <meta name="twitter:description" content="Rumus Keliling Alas Prisma Segitiga, , , , , , , 0, Cara Mencari Keliling Segitiga Siku Siku, edukasy.com, 1280 x 720, jpeg, , 20, rumus-keliling-alas-prisma-segitiga, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Rumus Keliling Alas Prisma Segitiga</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">wira4217</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Rumus+Keliling+Alas+Prisma+Segitiga" alt="Rumus Keliling Alas Prisma Segitiga">
+                    </div>
+                    <p></p>
+                    <p>rumus keliling alas segitiga dalam prisma segitiga.​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-keliling-alas-segitiga-dalam-prisma-segitiga-%e2%80%8b">1.
+                                            rumus keliling alas segitiga dalam prisma segitiga.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-rumus-dari-keliling-alas-prisma-segitiga">2.
+                                            apakah rumus dari keliling alas prisma segitiga</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-mencari-keliling-alas-prisma-segitiga%e2%80%8b">3.
+                                            rumus mencari keliling alas prisma segitiga​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#luas-prisma-2-luas-alas-keliling-alas-tinggi-limasvolume-prisma-13%c3%97-luas-alas-x-tinggilatihan-tuliskan-rumus-a-luas-persegib-luas-persegi-panjangc-luas-belah-ketupatd-luas-segitiga-e">4.
+                                            luas prisma = 2 Luas alas + keliling alas , tinggi limasvolume prisma = 1/3× luas alas x tinggiLatihan Tuliskan rumus a. Luas persegib. Luas persegi panjangc. Luas belah ketupatd. Luas segitiga e. Luas trapesiumf. Luas belah ketupat​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#salah-satu-pilihan-a-b-c-atau-d10-sebuah-prisma-dengan-alas-32-cm-dan-tinggi-10-cmtentukan-volume-prisma-tersebuta-312-cm-b-416-cm-c-516-cm-0-616-cm11-sederhanakanlah-2x-5y-4x-y-3">5.
+                                            salah satu pilihan (a, b, c atau d)!10 Sebuah prisma dengan alas 32 cm dan tinggi 10 cmTentukan volume prisma tersebuta 312 cm b. 416 cm' c. 516 cm 0.616 cm?11. Sederhanakanlah 2x + 5y - 4x + y + 3 = ....a 2x + 6y - 3c. 2x +9yb.-2x+6y + 3d. -2x + 5y +312. Faktor dari bentuk aljabar: x2 + 5x + 6 adalah ....a. (x+3)(x+2)c. (x+2)(x-3)b. (x+3)(x+3)d. (x+2) (x+2)13. Hasil fungsi dari f(x) = 2x - 3 dimana 1 (-2) = ....a. 7b. 1C.-1d. -714. Diketahui A = {a,b,c} dan B = {1,2}, makapemetaan yang terjadi sebanyak .....a. 4 b. 8c. 9 d. 1615. Jika titik A (2,3) dan B (5,8). Tentukan gradientgarisnya !a.-INb.C.WINd.316. Persamaan garis 2x + y + 6 = 0. Mempunyaipersamaan garis lurus ....a. y = 2x + 6C. y = - 2xb. y = -2x + 617.Tentukan tinggi b dari segitiga siku-sikutersebut!c. 12b. 10d. 13b5a 89a L18. Tentukanlah rumus luas dan keliling lingkaran!= 2πηc. L = Ter2K = ir2K= 4trb. L = nr2d. L = 217Κ = 2πηK=tr3​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#8-rumus-volume-prisma-segitiga-adalaha-v-alas-x-tinggi-x-tinggi-prismab-v-%c2%bd-x-alas-x-tinggi-x-tinggi-prismac-v-p-x-l-x-tinggi-segitigad-v-p-x-l-x-tinggi-prisma9-sebuah-prisma-alasnya">6.
+                                            8. Rumus volume prisma segitiga adalahA. V = alas x tinggi x tinggi prismaB.V = ½ x alas x tinggi x tinggi prismaC. V = p x l x tinggi segitigaD. V = p x l x tinggi prisma9. Sebuah prisma alasnya berbentuk segitiga sama sisi dengan panjang sisinya 24 cm. Jika tinggi prisma 40 cm, maka panjang kerangka prisma tersebut adalah .... CmA. 254B. 258C. 262D. 26410. Rumus luas permukaan prisma segitiga adalah .... *A. L = (2 x luas alas) + luas sisi tegakB. L = (2 x luas segitiga) + luas selimutC. L = (2 x luas segitiga) + (keliling alas×tinggi prisma)D. A, b, dan c benarkalo ngawur jawabnya gua report kalau benar gua follow atau jadikan yg tecerdas​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-keliling-sebuah-persegi-panjang-80-cm-jika-lebar-persegi-panjang-itu-15-cmmaka-luas-persegi-panjang-adalah-cma-325-b-350-c-375-d-4002-luas-lingkaran-dengan-jari-jari-105-cm-adalah-a-3465cm-b">7.
+                                            1.keliling sebuah persegi panjang 80 cm.jika lebar persegi panjang itu 15 cm,maka luas persegi panjang adalah.....cma.325 B.350 C.375 D.4002.Luas lingkaran dengan jari-jari 10,5 cm adalah A.346,5cm  B.350cm  C 365 cm  D.364,5 cm3.Luas lingkaran yang panjang diameternya 40 cm dengan rumus:3,14 adalah...cm2a.1.570b.1.256c.942d.6284.sebuah lingkaran luasnya 2.826 cm2.Diameter lingkaran itu adalah.......a.30 cmb.45 cmc.60 cmd.75 cm5.Volume tabung yang mempunyai tinggi 5 dm adalah 6.930 liter.jari-jari alas tabung tersebut adalah6.Volume sebuah prisma segitiga adalah 168 cm3.luas alas prisma tersebut adalah 24 cm2.Tinggi prisma adalah...a.12 cmb.9 cmc.7 cmd.5 cm7.Volume sebuah tabung 38.500 cm3.Tinggi tabung itu 40 cm.Luas alas tabung adalah....a.926,5 cm2b.946,5 cm2c.962,5 cm2d.982,5 cm2</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#q-dadakan-mapel-mmmtttkkksebuah-prisma-sama-sisi-diketahui-tinggi-12-cm-panjang-rusuk-segitiga-5cmdan-tingginya-8cm-berapakah-luas-permukaan-prisma-segitigarumus-prisma-2%c3%97luas-alaskeliling">8.
+                                            Q. dadakan mapel mmmtttkkksebuah prisma sama sisi diketahui tinggi 12 cm panjang rusuk segitiga 5cmdan tingginya 8cm, berapakah luas permukaan prisma segitiga?rumus prisma (2×luas alas)+(Keliling× tinggi prisma)kalau benar- follow- like- mahkotakalau asal asalan atau ngawurReport!!!!!!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-prisma-segitiga-adalah-a-l2%c3%97luas-alasluas-sisi-tegakb-l2%c3%97luas-segitigaluas-selimutc-l2%c3%97luas-segitigakeliling-alas%c3%97tinggi-prismad-abc-benar">9.
+                                            Rumus luas permukaan prisma segitiga adalah...a. L=(2×luas alas)+luas sisi tegakb. L=(2×luas segitiga)+luas selimutc.L=(2×luas segitiga)+(keliling alas×tinggi prisma)d. A,b,c benartolong ya slur...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-prisma-segitiga-adalah-c-l-2-x-luas-segitiga-keliling-alas%c3%97tinggi-prismab-l-2-x-luas-segitiga-luas-selimuta-l-2-x-luas-alas-luas-sisi-tegakd-a-b">10.
+                                            Rumus luas permukaan prisma segitiga adalah ...c. L = (2 x luas segitiga) + (keliling alas×tinggi prisma)b. L = (2 x luas segitiga) + luas selimuta. L = (2 x luas alas) + luas sisi tegakd. a, b, dan c benar​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-rumus-yang-digunakan-untuk-mencari-volume-tabung-yaitu-a-v-%cf%80-x-r-x-rb-v-%cf%80-x-r-x-r-x-tinggic-v-2-x-luas-alas-x-tinggid-v-2-x-luas-alas-luas-selimut-tabung2-volume-t">11.
+                                            1. Rumus yang digunakan untuk mencari volume tabung yaitu .... A. V = π x r x rB. V = ( π x r x r ) x TinggiC. V = 2 x Luas alas x TinggiD. V = 2 x Luas alas + Luas selimut tabung2. Volume tabung pada gambar berikut ini adalah .... A. 154 cm³B. 540 cm³C. 1450 cm³D. 1.540 cm³3. Sebuah tabung memiliki jari-jari 10 cm dan tinggi 5 cm. Volume tabung tersebut adalah .... (π = 3,14) A. 157 cm³B. 570 cm³C. 1.570 cm³D. 1.750 cm³4. Sebuah tabung memiliki diameter 14 cm dan tinggi 5 cm. Volume tabung tersebut adalah .... A. 154 cm³B. 770 cm³C. 1770 cm³D. 3080 cm³5. Rumus yang digunakan untuk mencari volume prisma segitiga yaitu .... A. V = 1/2 x a x tB. V = panjang x lebar x tinggiC. V = ( 1/2 x a x t ) x tinggi prismaD. V = 2 x Luas alas+Keliling alas x tinggi6. Sebuah prisma segitiga panjang alasnya 18 cm dan tingginya 15 cm. Jika tinggi prisma 26 cm, maka volumenya .... cm³ A. 3.410B. 3.480C. 3.500D. 3.5107. Sebuah prisma segitiga mempunyai panjang alas 25 cm, tinggi 14 cm. Jika tinggi prisma 22 cm, maka volumenya .... cm³ A. 3.650B. 3.700C. 3.830D. 3.850 ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-prisma-segitiga-adalah-a-l2%c3%97luas-alasluas-sisi-tegakb-l2%c3%97luas-segitigaluas-selimutc-l2%c3%97luas-segitigakeliling-alas%c3%97tinggi-prismad-abc-benar">12.
+                                            Rumus luas permukaan prisma segitiga adalah...a. L=(2×luas alas)+luas sisi tegakb. L=(2×luas segitiga)+luas selimutc.L=(2×luas segitiga)+(keliling alas×tinggi prisma)d. A,b,c benarmohon bantuan nya kak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#isilah-dengan-benarsebuah-prisma-mempunyai-volume-450-cm-alas-prisma-tersebut-berbentuk-segitiga-siku-sidengan-panjang-sisi-siku-sikunya-masing-masing-adalah-10-cm-dan-9-cm-lalu-berapakah-tinda">13.
+                                            "Isilah dengan benar"Sebuah prisma mempunyai volume 450 cm'. Alas prisma tersebut berbentuk segitiga siku-sidengan panjang sisi siku-sikunya masing-masing adalah 10 cm dan 9 cm. Lalu, berapakah tin"dari prisma tersebut?"Sebuah bangun b berbentuk limas dengan alas berbentu persegi dengan sisi 14 cm. Tentuk"volum"e dari limas tersebut jika tingginya 18 cmlSebuah kerucut mempunyai nggi 19 cm dan jari-jarinya 7 cm. Hitunglah volume dari ketersebutlsebuah balok mempunyai panjang 21 cm, lebar 18 cm dan tinggi 17 cm. hitunglah" Luas permukaan ( rumus L.Permukaan -2 x pxl +pxt +hxt )" Volume balok ( rumus Ve pxlxt)"Keliling balok (rumus K-4 x (p++t)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-prisma-segitiga-adalah-a-l-2-x-luas-alas-luas-sisi-tegak-b-l-2-x-luas-segitiga-luas-selimut-c-l-2-x-luas-segitiga-keliling-alas%c3%97tinggi-prisma-d-a">14.
+                                            Rumus luas permukaan prisma segitiga adalah .... a. L = (2 x luas alas) + luas sisi tegak b. L = (2 x luas segitiga) + luas selimut c. L = (2 x luas segitiga) + (keliling alas×tinggi prisma) d. a, b, dan c benar​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-rumus-luas-permukaan-prisma-segitiga-adalah-a-l-2-x-luas-alas-luas-sisi-tegakb-l-2-x-luas-segitiga-luas-selimutc-l-2-x-luas-segitiga-keliling-alas%c3%97tinggi-prismad">15.
+                                            2. Rumus luas permukaan prisma segitiga adalah .... *a. L = (2 x luas alas) + luas sisi tegakb. L = (2 x luas segitiga) + luas selimutc. L = (2 x luas segitiga) + (keliling alas×tinggi prisma)d. a, b, dan c benar3. Sebuah prisma segitiga panjang alasnya 18 cm dan tingginya 15 cm. Jika tinggi prisma 26 cm, maka volumenya .... cm³ *a. 3.410b. 3.480c. 3.500d. 3.5104. Sebuah prisma segitiga mempunyai panjang alas 25 cm, tinggi 14 cm. Jika tinggi prisma 22 cm, maka volumenya .... cm³ *a. 3.650b. 3.700c. 3.830d. 3.8505. Sebuah prisma segitiga tingginya 35 cm, panjang alas segitiga 14 cm dan tinggi segitiga 18 cm. Volume prisma tersebut .... cm³ *a. 4.410b. 4.415c. 4.420d. 4.430​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#4-sebuah-balok-memiliki-panjang-28-cm-lebar-14-cm-dan-tingginya-12-cm-volume-balok-tersebut-adalah-cm%c2%b3a-4-700b-4-702c-4-704d-4-7065-volume-suatu-balok-dengan-panjang-17-cm-lebar-11">16.
+                                            4. Sebuah balok memiliki panjang 28 cm, lebar 14 cm, dan tingginya 12 cm. Volume balok tersebut adalah .... cm³a. 4.700b. 4.702c. 4.704d. 4.7065. Volume suatu balok dengan panjang 17 cm, lebar 11 cm, dan tinggi 8 adalah .... cm³a. 1.496b. 1.498c. 1.502d. 1.5166. Rumus volume prisma segitiga adalah ....a. V = alas x tinggi x tinggi prismab. V = ½ x alas x tinggi x tinggi prismac. V = p x l x tinggi segitigad. V = p x l x tinggi prisma7. Rumus luas permukaan prisma segitiga adalah ..a.   L = (2 x luas alas) + luas sisi tegakb.   L = (2 x luas segitiga) + luas selimutc.   L = (2 x luas segitiga) + (keliling alas×tinggi prisma)d.   a, b, dan c benar8. Sebuah prisma segitiga panjang alasnya 18 cm dan tingginya 15 cm. Jika tinggi prisma 26 cm, maka volumenya .... cm³a. 3.410b. 3.480c. 3.500d. 3.5109. Sebuah prisma segitiga mempunyai panjang alas 25 cm, tinggi 14 cm. Jika tinggi prisma 22 cm, maka volumenya .... cm³a. 3.650b. 3.700c. 3.830d. 3.85010.  Volume prisma segitiga 4.224 cm³  . Jika panjang alas segitiga 24 cm dan tinggi segitiga 16 cm, maka tinggi prisma .... cm.a. 18b. 21c. 22d. 24tolong di jawab dengan benar habis ini ku kumpulkan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-keliling-alas-pada-prisma-segitiga-siku-siku">17.
+                                            rumus keliling alas pada prisma segitiga siku siku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-suatu-fungsi-dirumuskan-f5a2-20a5-nilai-fungsi-f3-adalah-2-jika-titik-p67-q2-1-dan-r5-k-terletak-pada-satu-garis-nilai-k-adalah-3-keliling-sebuah-kebun-yang-berbentuk-pers">18.
+                                            1.suatu fungsi dirumuskan f(5a+2) =20a+5. nilai fungsi f(3) adalah...2. Jika titik P(6,7), Q(2,-1), dan R(5, k) terletak pada satu garis, nilai k adalah... 3. Keliling sebuah kebun yang berbentuk persegi panjang adalah 96 m. Jika panjang kebun 3 kali lebarnya, luas kebun tersebut adalah... 4. Jika a, b, dan c adalah sisi-sisi segitiga dan a sisi terpanjang, pernyataan-pernyataan dibawah ini yang selalu benar adalah... A. a &gt; b + cB. a &lt; b + cC. a &lt;_ b + cD. a pangkat2 + b pangkat2 = c pangkat2 5. Keliling belah ketupat 100cm dan panjang salah satu diagonalnya 30cm. Luas belah ketupat tersebut adalah... 6. Sebuah kolam ikan berbentuk lingkaran dengan panjang diameter 2,8m. Di sekeliling kolam akan dibuat jalan dengan lebar 70cm. Luas jalan tersebut adalah... 7. Sebuah tiang yang tingginya 2m mempunyai bayangan 250cm. Jika pada saat yang sama bayangan sebuah gedung 40m, maka tinggi gedung adalah.... 8. Besar sudut terkecil dari dua jarum jam pada pukul 07.20 adalah... 9. Banyak sisi dan rusuk pada prisma dengan alas segi-7 adalah... 10. Sebuah bak mandi berbentuk balok berukuran 60cm x 50cm x 70cm. Melalui sebuah keran, bak tersebut akan diisi air hingga penuh. Jika air mengalir dengan debit 45 liter per jam, waktu yang diperlukan untuk mengisi bak sampai penuh adalah.... #terimakasih</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-volume-prisma-yang-mempunyai-tinggi-20-cm-dan-bantalan-berbentuk-segitiga-siku-siku-dengan-sisi-yang-saling-tegak-lurus-berukuran-6-cm-dan-8-cm-untuk-mencari-keliling-alas-di-perlukan-sisi">19.
+                                            Tentukan volume prisma yang mempunyai tinggi 20 cm dan bantalan berbentuk segitiga siku siku dengan sisi yang saling tegak lurus berukuran 6 cm dan 8 cm . Untuk mencari keliling alas di perlukan sisi miring segita dan untuk mencari sisi miring segitiga kita gunakan rumus pythagoras</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-prisma-segitiga-adalah-a-l-2-x-luas-alas-luas-sisi-tegakb-l-2-x-luas-segitiga-luas-selimutc-l-2-x-luas-segitiga-keliling-alas%c3%97tinggi-prismad-a-b">20.
+                                            Rumus luas permukaan prisma segitiga adalah ....a. L = (2 x luas alas) + luas sisi tegakb. L = (2 x luas segitiga) + luas selimutc. L = (2 x luas segitiga) + (keliling alas×tinggi prisma)d. a, b, dan c benartolong di jawab ya kakdikumpulin sampe jam 11JANGAN NGASAL​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-volume-prisma-yang-mempunyai-tinggi-20-cm-dan-bantalan-berbentuk-segitiga-siku-siku-dengan-sisi-yang-saling-tegak-lurus-berukuran-6-cm-dan-8-cm-untuk-mencari-keliling-alas-di-perlukan-sisi">21.
+                                            Tentukan volume prisma yang mempunyai tinggi 20 cm dan bantalan berbentuk segitiga siku siku dengan sisi yang saling tegak lurus berukuran 6 cm dan 8 cm . Untuk mencari keliling alas di perlukan sisi miring segitiga , dan untuk mencari sisi miring segitiga , kita gunakan rumus pythagoras?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-mencari-keliling-alas-prisma-segitiga-sama-sisi%e2%80%8b">22.
+                                            rumus mencari keliling alas prisma segitiga sama sisi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-luas-permukaan-prisma-adalah-a-valas%c3%97tinggi%c3%97tinggi-prismab-v12%c3%97alas%c3%97tinggi%c3%97tinggi-prismac-l2%c3%97luas-segitigakeliling-alas%c3%97tinggi-prismad-l12%c3%97alas">23.
+                                            rumus luas permukaan prisma adalah A.v=alas×tinggi×tinggi prismaB.v=1/2×alas×tinggi×tinggi prismaC.L=(2×luas segitiga)+(keliling alas×tinggi prisma)D.L=1/2×alas ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-jumlah-rusuk-yang-terdapat-di-prisma-tegak-segitiga-ada-a3-rusuk-alas-3-rusuk-atas-dan-3-rusuk-tegakb-3-rusuk-alas-4-rusuk-atas-dan-3-rusuk-tegakc-4-rusuk-alas-3-rusuk-atas-dan-3-rusuk-teg">24.
+                                            2. Jumlah rusuk yang terdapat di prisma tegak segitiga ada .... *a3 rusuk alas, 3 rusuk atas dan 3 rusuk tegakb.3 rusuk alas, 4 rusuk atas dan 3 rusuk tegakc.4 rusuk alas, 3 rusuk atas dan 3 rusuk tegakd.4 rusuk alas, 4 rusuk atas dan 4 rusuk tegak4. Rumus luas permukaan prisma segitiga adalah .... *a. L = (2 x luas alas) + luas sisi tegakb. L = (2 x luas segitiga) + luas selimutc. L = (2 x luas segitiga) + (keliling alas×tinggi prisma)d. A, b, dan c benar5. Sebuah prisma alasnya berbentuk Bunsegitiga siku-siku. Jika panjang sisinya 6 cm, 8 cm serta 10 cm, dan tinggi prisma tersebut adalah 15 cm, maka luas permukaan prisma tersebut .... Cm² *a. 398b. 404c. 408d. 4126. Sebuah prisma alasnya berbentuk segitiga sama sisi dengan panjang sisinya 24 cm. Jika tinggi prisma 40 cm, maka panjang kerangka prisma tersebut adalah .... Cm *a. 2</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-mencari-keliling-alas-prisma-segitiga-sama-sisi%e2%80%8b">25.
+                                            rumus mencari keliling alas prisma segitiga sama sisi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-sebuah-prisma-tegak-memiliki-volume-432-cm3-alas-prisma-tersebut-berbentuk-segitiga-siku-siku-yang-panjang-siku-siku-nya-6-cm-dan-8-cm-hitunglah-tinggi-prisma-tersebut-2-pak-budi-membuat-kolam">26.
+                                            1. Sebuah prisma tegak memiliki volume 432 cm^3. Alas prisma tersebut berbentuk segitiga siku-siku yang panjang siku-siku nya 6 cm dan 8 cm. hitunglah tinggi prisma tersebut! 2. Pak budi membuat kolam renang di halaman belakang rumahnya berbentuk persegi panjang dengan ukuran 15 m × 10 m. Di keliling kolam di buat jalan dengan lebar 1 m dan dipasang keramik. Luas keramik yang di perlukan untuk jalan tersebut adalah?!3. Sebuah atap museum berbentuk limas segiempat beraturan. Atap museum terbuat dari kaca. Jika panjang sisi alas 18 m dan tinggi pada sisi tegaknya 15 m, maka luas permukaan atap museum adalah...........m^2"Mohon disertakan dengan rumusnya" ^Terima Kasih^​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-keliling-sebuah-persegi-panjang-80-cm-jika-lebar-persegi-panjang-itu-15-cmmaka-luas-persegi-panjang-adalah-cma-325-b-350-c-375-d-4002-luas-lingkaran-dengan-jari-jari-105-cm-adalah-a-3465cm-b">27.
+                                            1.keliling sebuah persegi panjang 80 cm.jika lebar persegi panjang itu 15 cm,maka luas persegi panjang adalah.....cma.325 B.350 C.375 D.4002.Luas lingkaran dengan jari-jari 10,5 cm adalah A.346,5cm  B.350cm  C 365 cm  D.364,5 cm3.Luas lingkaran yang panjang diameternya 40 cm dengan rumus:3,14 adalah...cm2a.1.570b.1.256c.942d.6284.sebuah lingkaran luasnya 2.826 cm2.Diameter lingkaran itu adalah.......a.30 cmb.45 cmc.60 cmd.75 cm5.Volume tabung yang mempunyai tinggi 5 dm adalah 6.930 liter.jari-jari alas tabung tersebut adalah6.Volume sebuah prisma segitiga adalah 168 cm3.luas alas prisma tersebut adalah 24 cm2.Tinggi prisma adalah...a.12 cmb.9 cmc.7 cmd.5 cm7.Volume sebuah tabung 38.500 cm3.Tinggi tabung itu 40 cm.Luas alas tabung adalah....a.926,5 cm2b.946,5 cm2c.962,5 cm2d.982,5 cm2</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mercan-volume-dan-luasprisma-segi-tiga1-berapa-volume-prisma-segi-tiga-dif-sampingrumusv-luas-alas-x-tinggi-x-tinggi-prismav-cm2-berapa-luas-permukaan-prismasegitiga-di-samping-rumuslua">28.
+                                            Mercan Volume dan LuasPrisma Segi Tiga1. Berapa volume prisma segi tiga diF. samping?RumusV = luas alas x tinggi x tinggi prismav=....cm2. Berapa luas permukaan prismasegitiga di samping ? ...RumusLuas permukaan= (alasx tinggi)+(keliling alasx t.prism)=....cm​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-yang-digunakan-untuk-mencari-volume-tabung-yaitu-%c2%a012-pointsa-v-%cf%80-x-r-x-rb-v-%cf%80-x-r-x-r-x-tinggic-v-2-x-luas-alas-x-tinggid-v-2-x-luas-alas-luas-selimut-tabun">29.
+                                            Rumus yang digunakan untuk mencari volume tabung yaitu .... *12 pointsA. V = π x r x rB. V = ( π x r x r ) x TinggiC. V = 2 x Luas alas x TinggiD. V = 2 x Luas alas + Luas selimut tabung2. Volume tabung pada gambar berikut ini adalah .... *13 pointsA. 154 cm³B. 540 cm³C. 1450 cm³D. 1.540 cm³3. Volume tabung pada gambar berikut ini adalah .... *13 pointsA. 10.220 cm³B. 11.320 cm³C. 12.320 cm³D. 13.220 cm³4. Sebuah tabung memiliki jari-jari 10 cm dan tinggi 5 cm. Volume tabung tersebut adalah .... (π = 3,14) *12 pointsA. 157 cm³B. 570 cm³C. 1.570 cm³D. 1.750 cm³5. Sebuah tabung memiliki diameter 14 cm dan tinggi 5 cm. Volume tabung tersebut adalah .... *12 pointsA. 154 cm³B. 770 cm³C. 1770 cm³D. 3080 cm³6. Rumus yang digunakan untuk mencari volume prisma segitiga yaitu .... *12 pointsA. V = 1/2 x a x tB. V = panjang x lebar x tinggiC. V = ( 1/2 x a x t ) x tinggi prismaD. V = 2 x Luas alas+Keliling alas x tinggi7. Sebuah prisma segitiga panjang alasnya 18 cm dan tingginya 15 cm. Jika tinggi prisma 26 cm, maka volumenya .... cm³ *13 pointsA. 3.410B. 3.480C. 3.500D. 3.5108.Sebuah prisma segitiga mempunyai panjang alas 25 cm, tinggi 14 cm. Jika tinggi prisma 22 cm, maka volumenya .... cm³ *13 pointsA. 3.650B. 3.700C. 3.830D. 3.850jawab ya kk​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-mencari-luas-alas-prisma-segitiga-siku-siku-dan-rumus-mencari-keliling-alas-segitiga-siku-siku%e2%80%8b">30.
+                                            rumus mencari luas alas prisma segitiga siku siku dan rumus mencari keliling alas segitiga siku siku​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="rumus-keliling-alas-segitiga-dalam-prisma-segitiga-%e2%80%8b">
+                            1. rumus keliling alas segitiga dalam prisma segitiga.​</h2><br />
+                        <p>rumus keliling alas segitiga dalam prisma segitiga adalah p×t (panjang×tinggi)</p><p></p><p>semoga membantu</p><p>maaf kalau salah</p><p>follow me</p><br />
+                                            <h2 class="ez-toc-section" id="apakah-rumus-dari-keliling-alas-prisma-segitiga">
+                            2. apakah rumus dari keliling alas prisma segitiga</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a + b + c</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>karena alas nya berbentuk segitiga jadi sama saja dengan keliling segitiga</p><p></p><p><strong>semog</strong><strong>a</strong><strong> membantu</strong><strong> jangan</strong><strong> lupa</strong><strong> follow</strong><strong> like</strong><strong> and</strong><strong> komen</strong></p><p><strong>selam</strong><strong>at</strong><strong> menjalankan</strong><strong> ibadah</strong><strong> puasa</strong><strong> bagi</strong><strong> yang</strong><strong> menjalankan</strong></p><p><strong>moho</strong><strong>n</strong><strong> maaf</strong><strong> lahir</strong><strong> dan</strong><strong> batin</strong></p><p><strong>#</strong><strong>s</strong><strong>t</strong><strong>a</strong><strong>y</strong><strong> </strong><strong>@</strong><strong> </strong><strong>home</strong></p><p><strong>#</strong><strong>j</strong><strong>a</strong><strong>g</strong><strong>a</strong><strong>k</strong><strong>e</strong><strong>s</strong><strong>e</strong><strong>h</strong><strong>a</strong><strong>t</strong><strong>a</strong><strong>n</strong></p><p><strong>#</strong><strong>f</strong><strong>o</strong><strong>l</strong><strong>l</strong><strong>o</strong><strong>w</strong><strong> </strong><strong>ig</strong><strong> </strong><strong>@</strong><strong>s</strong><strong>r</strong><strong>i</strong><strong>_</strong><strong>g</strong><strong>u</strong><strong>s</strong><strong>t</strong><strong>i</strong><strong>a</strong><strong>n</strong><strong>i</strong><strong>1</strong><strong>3</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>kelililng alas prisma segitiga berbentuk segitiga jadi rumus keliling alasnya = a+b+c</p><p></p><p></p><p></p><p>#mohon maaf kalo salah</p><p>#semoga membantu</p><p>#folowwwwwwwwwwwww</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-mencari-keliling-alas-prisma-segitiga%e2%80%8b">
+                            3. rumus mencari keliling alas prisma segitiga​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Rumus mencari keliling alas prisma segitiga yaitu :</p><p><strong>K</strong><strong> </strong><strong>=</strong><strong> </strong><strong>3</strong><strong>s</strong><strong> </strong><strong>(</strong><strong>s</strong><strong>i</strong><strong>s</strong><strong>i</strong><strong> </strong><strong>+</strong><strong> </strong><strong>s</strong><strong>i</strong><strong>s</strong><strong>i</strong><strong> </strong><strong>+</strong><strong> </strong><strong>s</strong><strong>i</strong><strong>s</strong><strong>i</strong><strong>)</strong></p>Rumus keliling alas prisma segitiga adalah sebagai berikut :<br />K = 3s (s + s + s)<br />Penjelasan dengan langkah-langkah:<br />Contoh:<br />1. Ada sebuah prisma segitiga yang memiliki tiga sisi, masing – masing sisinya berukuran 4 cm, 7 cm, 2 cm. Cari dan hitunglah keliling alas prisma segitiga tersebut !<br />Penyelesaian :<br />Diketahui :<br />s = 4 cm<br />s = 7 cm<br />s = 2 cm<br />ditanya : K = …?<br />Jawab :<br />K = 3s<br />K = s + s + s<br />K = 4 + 7 + 2<br />K = 13 cm3<br />Jadi, keliling alas prisma segitiga tersebut adalah = 13 cm³<br />
+                                            <h2 class="ez-toc-section" id="luas-prisma-2-luas-alas-keliling-alas-tinggi-limasvolume-prisma-13%c3%97-luas-alas-x-tinggilatihan-tuliskan-rumus-a-luas-persegib-luas-persegi-panjangc-luas-belah-ketupatd-luas-segitiga-e">
+                            4. luas prisma = 2 Luas alas + keliling alas , tinggi limasvolume prisma = 1/3× luas alas x tinggiLatihan Tuliskan rumus a. Luas persegib. Luas persegi panjangc. Luas belah ketupatd. Luas segitiga e. Luas trapesiumf. Luas belah ketupat​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>insyaallah luas trapesium</p><p>a. L persegi = s²</p><p>b. L persegi panjang = p × l</p><p>c. L belah ketupat = ½ × d¹ × d²</p><p>d. L segitiga = ½ × a × t</p><p>e. L trapesium = ½ × t × (a + b)</p><p>f. L belah ketupat = ½ × d¹ × d²</p><br />
+                                            <h2 class="ez-toc-section" id="salah-satu-pilihan-a-b-c-atau-d10-sebuah-prisma-dengan-alas-32-cm-dan-tinggi-10-cmtentukan-volume-prisma-tersebuta-312-cm-b-416-cm-c-516-cm-0-616-cm11-sederhanakanlah-2x-5y-4x-y-3">
+                            5. salah satu pilihan (a, b, c atau d)!10 Sebuah prisma dengan alas 32 cm dan tinggi 10 cmTentukan volume prisma tersebuta 312 cm b. 416 cm' c. 516 cm 0.616 cm?11. Sederhanakanlah 2x + 5y - 4x + y + 3 = ....a 2x + 6y - 3c. 2x +9yb.-2x+6y + 3d. -2x + 5y +312. Faktor dari bentuk aljabar: x2 + 5x + 6 adalah ....a. (x+3)(x+2)c. (x+2)(x-3)b. (x+3)(x+3)d. (x+2) (x+2)13. Hasil fungsi dari f(x) = 2x - 3 dimana 1 (-2) = ....a. 7b. 1C.-1d. -714. Diketahui A = {a,b,c} dan B = {1,2}, makapemetaan yang terjadi sebanyak .....a. 4 b. 8c. 9 d. 1615. Jika titik A (2,3) dan B (5,8). Tentukan gradientgarisnya !a.-INb.C.WINd.316. Persamaan garis 2x + y + 6 = 0. Mempunyaipersamaan garis lurus ....a. y = 2x + 6C. y = - 2xb. y = -2x + 617.Tentukan tinggi b dari segitiga siku-sikutersebut!c. 12b. 10d. 13b5a 89a L18. Tentukanlah rumus luas dan keliling lingkaran!= 2πηc. L = Ter2K = ir2K= 4trb. L = nr2d. L = 217Κ = 2πηK=tr3​</h2><br />
+                        <p>no 17 </p><strong>b</strong><strong>^</strong><strong>=</strong><strong>1</strong><strong>5</strong><strong>^</strong><strong>-</strong><strong>9</strong><strong>^</strong><strong>b</strong><strong>^</strong><strong>=</strong><strong>2</strong><strong>2</strong><strong>5</strong><strong>-</strong><strong>8</strong><strong>1</strong><strong>b</strong><strong>^</strong><strong>=</strong><strong>1</strong><strong>4</strong><strong>4</strong><strong>b</strong><strong>=</strong><strong>1</strong><strong>2</strong><strong>j</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>y</strong><strong>a</strong><strong> </strong><strong>c</strong><strong>.</strong><strong>1</strong><strong>2</strong><br />
+                                            <h2 class="ez-toc-section" id="8-rumus-volume-prisma-segitiga-adalaha-v-alas-x-tinggi-x-tinggi-prismab-v-%c2%bd-x-alas-x-tinggi-x-tinggi-prismac-v-p-x-l-x-tinggi-segitigad-v-p-x-l-x-tinggi-prisma9-sebuah-prisma-alasnya">
+                            6. 8. Rumus volume prisma segitiga adalahA. V = alas x tinggi x tinggi prismaB.V = ½ x alas x tinggi x tinggi prismaC. V = p x l x tinggi segitigaD. V = p x l x tinggi prisma9. Sebuah prisma alasnya berbentuk segitiga sama sisi dengan panjang sisinya 24 cm. Jika tinggi prisma 40 cm, maka panjang kerangka prisma tersebut adalah .... CmA. 254B. 258C. 262D. 26410. Rumus luas permukaan prisma segitiga adalah .... *A. L = (2 x luas alas) + luas sisi tegakB. L = (2 x luas segitiga) + luas selimutC. L = (2 x luas segitiga) + (keliling alas×tinggi prisma)D. A, b, dan c benarkalo ngawur jawabnya gua report kalau benar gua follow atau jadikan yg tecerdas​</h2><br />
+                        <p>Jawab:</p><p>8. A. V = alas x tinggi x tinggi prisma.</p><p>9. 264 cm</p><p>10. C. L = (2 x luas segitiga) + </p><p>(keliling alas×tinggi prisma)</p><p>Penjelasan dengan langkah-langkah:</p><p>8. A. V = alas x tinggi x tinggi prisma.</p><p>9. Diketahui :</p><p>s = 24 cm</p><p>t prsima = 40 cm</p><p></p><p>Ditanya :</p><p>Kerangka?</p><p></p><p>Jawab :</p><p>Kerangka = 6s + 3t prisma</p><p>Kerangka = 6(24) + 3(40)</p><p>Kerangka = 144 + 120</p><p>Kerangka = 264 cm</p><p>10. C. L = (2 x luas segitiga) + (keliling alas×tinggi prisma).</p><br />
+                                            <h2 class="ez-toc-section" id="1-keliling-sebuah-persegi-panjang-80-cm-jika-lebar-persegi-panjang-itu-15-cmmaka-luas-persegi-panjang-adalah-cma-325-b-350-c-375-d-4002-luas-lingkaran-dengan-jari-jari-105-cm-adalah-a-3465cm-b">
+                            7. 1.keliling sebuah persegi panjang 80 cm.jika lebar persegi panjang itu 15 cm,maka luas persegi panjang adalah.....cma.325 B.350 C.375 D.4002.Luas lingkaran dengan jari-jari 10,5 cm adalah A.346,5cm  B.350cm  C 365 cm  D.364,5 cm3.Luas lingkaran yang panjang diameternya 40 cm dengan rumus:3,14 adalah...cm2a.1.570b.1.256c.942d.6284.sebuah lingkaran luasnya 2.826 cm2.Diameter lingkaran itu adalah.......a.30 cmb.45 cmc.60 cmd.75 cm5.Volume tabung yang mempunyai tinggi 5 dm adalah 6.930 liter.jari-jari alas tabung tersebut adalah6.Volume sebuah prisma segitiga adalah 168 cm3.luas alas prisma tersebut adalah 24 cm2.Tinggi prisma adalah...a.12 cmb.9 cmc.7 cmd.5 cm7.Volume sebuah tabung 38.500 cm3.Tinggi tabung itu 40 cm.Luas alas tabung adalah....a.926,5 cm2b.946,5 cm2c.962,5 cm2d.982,5 cm2</h2><br />
+                        1.) K = 2(p+l) <br />    80 = 2(p+15)<br />    80 = 2p + 30<br />    2p = 80 -30<br />    2p = 50<br />      p = 25<br />*L=p×l<br />   =25×15<br />   = 375 (c) <br />
+                                            <h2 class="ez-toc-section" id="q-dadakan-mapel-mmmtttkkksebuah-prisma-sama-sisi-diketahui-tinggi-12-cm-panjang-rusuk-segitiga-5cmdan-tingginya-8cm-berapakah-luas-permukaan-prisma-segitigarumus-prisma-2%c3%97luas-alaskeliling">
+                            8. Q. dadakan mapel mmmtttkkksebuah prisma sama sisi diketahui tinggi 12 cm panjang rusuk segitiga 5cmdan tingginya 8cm, berapakah luas permukaan prisma segitiga?rumus prisma (2×luas alas)+(Keliling× tinggi prisma)kalau benar- follow- like- mahkotakalau asal asalan atau ngawurReport!!!!!!​</h2><br />
+                        <p><strong>Jawaban:</strong></p>L = (2 × luas alas) + ( 3 × luas salah satu bidang tegak)<p></p>L= (2×(1 / 2 × 5 × 8)) + (3×(12 × 5 ))<p></p>[tex]l = 40 + 180l \:  =  {220}cm^{2} [/tex]<p>   </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]\colorbox{black}{\color{red}{\boxed{\rm{ \: semoga \: membantu \:  \: }}}}[/tex]</p><p></p><p></p><p><strong>Jawaban:</strong></p><p></p><p>sebuah prisma sama sisi diketahui tinggi 12 cm panjang rusuk segitiga 5cm</p><p>dan tingginya 8cm, berapakah luas permukaan prisma segitiga?</p><p></p><p>rumus prisma (2×luas alas)+(Keliling× tinggi prisma)</p><p>jawab : </p><p>L = (2 × luas alas) + ( 3 × luas salah satu bidang tegak)</p><p></p><p>L = ( 2 × ( [tex] \frac{1}{2} [/tex]× 5 × 8 )) + ( 3 × ( 12 × 5 ))</p><p></p><p>L = 40 + 180</p><p></p><p>L = 220cm {}^{2}</p><p>jadi , luas permukaan Prisma segitiga adalah 220 cm2</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Semoga membantu </p><p><strong>#jangan</strong><strong> </strong><strong>lupa</strong><strong> </strong><strong>follow</strong><strong> </strong><strong>ya</strong></p><p><strong>#AYO</strong><strong> </strong><strong>BELAJAR BERSAMA BRANLY</strong></p><p><strong>#DAN</strong><strong> </strong><strong>AYO TINGKATKAN PRESTASI MU</strong></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-prisma-segitiga-adalah-a-l2%c3%97luas-alasluas-sisi-tegakb-l2%c3%97luas-segitigaluas-selimutc-l2%c3%97luas-segitigakeliling-alas%c3%97tinggi-prismad-abc-benar">
+                            9. Rumus luas permukaan prisma segitiga adalah...a. L=(2×luas alas)+luas sisi tegakb. L=(2×luas segitiga)+luas selimutc.L=(2×luas segitiga)+(keliling alas×tinggi prisma)d. A,b,c benartolong ya slur...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p>Rumus luas permukaan prisma segitiga adalah </p><p>C. L=(2×luas segitiga)+(keliling alas×tinggi prisma)</p><p></p><p>Volume = Luas Alas x tinggi prisma</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-prisma-segitiga-adalah-c-l-2-x-luas-segitiga-keliling-alas%c3%97tinggi-prismab-l-2-x-luas-segitiga-luas-selimuta-l-2-x-luas-alas-luas-sisi-tegakd-a-b">
+                            10. Rumus luas permukaan prisma segitiga adalah ...c. L = (2 x luas segitiga) + (keliling alas×tinggi prisma)b. L = (2 x luas segitiga) + luas selimuta. L = (2 x luas alas) + luas sisi tegakd. a, b, dan c benar​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C kayaknya</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="1-rumus-yang-digunakan-untuk-mencari-volume-tabung-yaitu-a-v-%cf%80-x-r-x-rb-v-%cf%80-x-r-x-r-x-tinggic-v-2-x-luas-alas-x-tinggid-v-2-x-luas-alas-luas-selimut-tabung2-volume-t">
+                            11. 1. Rumus yang digunakan untuk mencari volume tabung yaitu .... A. V = π x r x rB. V = ( π x r x r ) x TinggiC. V = 2 x Luas alas x TinggiD. V = 2 x Luas alas + Luas selimut tabung2. Volume tabung pada gambar berikut ini adalah .... A. 154 cm³B. 540 cm³C. 1450 cm³D. 1.540 cm³3. Sebuah tabung memiliki jari-jari 10 cm dan tinggi 5 cm. Volume tabung tersebut adalah .... (π = 3,14) A. 157 cm³B. 570 cm³C. 1.570 cm³D. 1.750 cm³4. Sebuah tabung memiliki diameter 14 cm dan tinggi 5 cm. Volume tabung tersebut adalah .... A. 154 cm³B. 770 cm³C. 1770 cm³D. 3080 cm³5. Rumus yang digunakan untuk mencari volume prisma segitiga yaitu .... A. V = 1/2 x a x tB. V = panjang x lebar x tinggiC. V = ( 1/2 x a x t ) x tinggi prismaD. V = 2 x Luas alas+Keliling alas x tinggi6. Sebuah prisma segitiga panjang alasnya 18 cm dan tingginya 15 cm. Jika tinggi prisma 26 cm, maka volumenya .... cm³ A. 3.410B. 3.480C. 3.500D. 3.5107. Sebuah prisma segitiga mempunyai panjang alas 25 cm, tinggi 14 cm. Jika tinggi prisma 22 cm, maka volumenya .... cm³ A. 3.650B. 3.700C. 3.830D. 3.850 ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.B</p><p>2.D</p><p>5.C</p><p>UNTUK JAWABAN 3.4.6.7 PAKE RUMUS YG SUDAH DIBERI TAHU YA TERIMAKASIH</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-prisma-segitiga-adalah-a-l2%c3%97luas-alasluas-sisi-tegakb-l2%c3%97luas-segitigaluas-selimutc-l2%c3%97luas-segitigakeliling-alas%c3%97tinggi-prismad-abc-benar">
+                            12. Rumus luas permukaan prisma segitiga adalah...a. L=(2×luas alas)+luas sisi tegakb. L=(2×luas segitiga)+luas selimutc.L=(2×luas segitiga)+(keliling alas×tinggi prisma)d. A,b,c benarmohon bantuan nya kak​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C. L=(2×luas segitiga)+(keliling alas×tinggi prisma)</p><p></p><p>semoga membantu </p><p>maaf kalo salah ya </p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="isilah-dengan-benarsebuah-prisma-mempunyai-volume-450-cm-alas-prisma-tersebut-berbentuk-segitiga-siku-sidengan-panjang-sisi-siku-sikunya-masing-masing-adalah-10-cm-dan-9-cm-lalu-berapakah-tinda">
+                            13. "Isilah dengan benar"Sebuah prisma mempunyai volume 450 cm'. Alas prisma tersebut berbentuk segitiga siku-sidengan panjang sisi siku-sikunya masing-masing adalah 10 cm dan 9 cm. Lalu, berapakah tin"dari prisma tersebut?"Sebuah bangun b berbentuk limas dengan alas berbentu persegi dengan sisi 14 cm. Tentuk"volum"e dari limas tersebut jika tingginya 18 cmlSebuah kerucut mempunyai nggi 19 cm dan jari-jarinya 7 cm. Hitunglah volume dari ketersebutlsebuah balok mempunyai panjang 21 cm, lebar 18 cm dan tinggi 17 cm. hitunglah" Luas permukaan ( rumus L.Permukaan -2 x pxl +pxt +hxt )" Volume balok ( rumus Ve pxlxt)"Keliling balok (rumus K-4 x (p++t)</h2><br />
+                        1)V=L alasxtinggi<br />    =1/2x(10x9)xt<br />    =1/2x90xt<br />    =45 t<br />  T=Volume:L alas<br />    =450:45<br />    =10 cm<br />2)V=L alasxtinggi<br />      =1/2x(14x14)x18<br />      =1/2x196x18<br />      =1/2x3528<br />      =1764 cm³<br />3)V=tinggixjari-jari<br />     =19x7<br />     =133 cm³<br />4)a.LP=2x((21x18)+(21x17)+(18x17))<br />       =2x(378+459+306)<br />       =2x1143<br />       =2286 cm²<br />    b.V=pxlxt<br />          =21x18x17<br />          =6426 cm³<br />    c.K=4x(21+18+17)<br />         =4x56<br />         =224 cm<br />Maaf klo salah,sebenernya aku cuma tau nomor 1,2,sama4 doang,nomor 4 itu cuma menurut aku doang<br />Smga membantu;)(nomor 1,2,3)<br />sory kepanjangan<br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-prisma-segitiga-adalah-a-l-2-x-luas-alas-luas-sisi-tegak-b-l-2-x-luas-segitiga-luas-selimut-c-l-2-x-luas-segitiga-keliling-alas%c3%97tinggi-prisma-d-a">
+                            14. Rumus luas permukaan prisma segitiga adalah .... a. L = (2 x luas alas) + luas sisi tegak b. L = (2 x luas segitiga) + luas selimut c. L = (2 x luas segitiga) + (keliling alas×tinggi prisma) d. a, b, dan c benar​</h2><br />
+                        <strong>Jawaban:</strong><p><strong>A.L=</strong><strong>(</strong><strong>2</strong><strong> </strong><strong>x </strong><strong>Luas </strong><strong>alas)</strong><strong>+</strong><strong> </strong><strong>luas </strong><strong>sisi </strong><strong>tegak</strong></p><p></p><strong>Pembahasan:</strong><p></p><strong>Rumus </strong><strong>Prisma </strong><strong>Segitiga</strong><strong> </strong><strong>Yang </strong><strong>Dapat</strong><strong> </strong><strong>Kamu </strong><strong>Pelajar</strong><strong>i:</strong><strong>Volume:</strong><strong>V=</strong><strong>luas </strong><strong>alas </strong><strong>x </strong><strong>tinggi</strong><strong>Luas </strong><strong>Permukaan:</strong><strong>L=(2 x Luas ala</strong><strong>s)+ luas sisi </strong><strong>tegak</strong><p></p><strong>Ciri</strong><strong>-</strong><strong>ciri </strong><strong>prisma </strong><strong>segitiga</strong><strong>:</strong><strong>Mempun</strong><strong>y</strong><strong>ai</strong><strong> </strong><strong>5</strong><strong> </strong><strong>Sisi</strong><strong>Me</strong><strong>m</strong><strong>punyai </strong><strong>6</strong><strong> </strong><strong>Titik </strong><strong>Sudut</strong><strong>M</strong><strong>empunyai </strong><strong>9</strong><strong> </strong><strong>Rusuk</strong><p></p><strong>Jenis </strong><strong>Prisma:</strong><strong>Prisma </strong><strong>Persegi</strong><strong>Prisma</strong><strong> </strong><strong>Segitiga</strong><strong>Prisma</strong><strong> </strong><strong>Trapesium</strong><strong>Prisma</strong><strong> </strong><strong>Belah </strong><strong>Ketupa</strong><strong>t</strong><strong>Prisma</strong><strong> </strong><strong>Segilima </strong><strong>Beraturan</strong><strong>Prisma </strong><strong>Segienam </strong><strong>Ber</strong><strong>a</strong><strong>turan</strong><strong>Prisma</strong><strong> </strong><strong>Persegi </strong><strong>Panjang</strong><p></p><strong>Pelajari </strong><strong>Lebih </strong><strong>Lanjut:</strong><p></p><strong>Contoh </strong><strong>Soal </strong><strong>Luas </strong><strong>Permukaan</strong><strong> </strong><strong>Prisma</strong><strong> </strong><strong>Segitiga</strong><strong>=</strong><strong>https://brainly.co.id/tugas/5976258</strong><strong>Contoh </strong><strong>Soal </strong><strong>Volume </strong><strong>Prisma </strong><strong>Segitiga</strong><strong>=</strong><strong>https://brainly.co.id/tugas/204966</strong><p></p><strong>Detail </strong><strong>Jawaban</strong><strong>:</strong><p></p><strong>Kelas:</strong><strong>6</strong><strong> </strong><strong>Sekolah </strong><strong>Dasar</strong><strong>Mata </strong><strong>Pelajaran</strong><strong>:</strong><strong> Matematika</strong><strong>Materi:</strong><strong>Prisma</strong><strong>Kata </strong><strong>Kunci:</strong><strong>Prisma</strong><strong>Kode </strong><strong>Kategorisasi</strong><strong>:</strong><strong>-</strong><br />
+                                            <h2 class="ez-toc-section" id="2-rumus-luas-permukaan-prisma-segitiga-adalah-a-l-2-x-luas-alas-luas-sisi-tegakb-l-2-x-luas-segitiga-luas-selimutc-l-2-x-luas-segitiga-keliling-alas%c3%97tinggi-prismad">
+                            15. 2. Rumus luas permukaan prisma segitiga adalah .... *a. L = (2 x luas alas) + luas sisi tegakb. L = (2 x luas segitiga) + luas selimutc. L = (2 x luas segitiga) + (keliling alas×tinggi prisma)d. a, b, dan c benar3. Sebuah prisma segitiga panjang alasnya 18 cm dan tingginya 15 cm. Jika tinggi prisma 26 cm, maka volumenya .... cm³ *a. 3.410b. 3.480c. 3.500d. 3.5104. Sebuah prisma segitiga mempunyai panjang alas 25 cm, tinggi 14 cm. Jika tinggi prisma 22 cm, maka volumenya .... cm³ *a. 3.650b. 3.700c. 3.830d. 3.8505. Sebuah prisma segitiga tingginya 35 cm, panjang alas segitiga 14 cm dan tinggi segitiga 18 cm. Volume prisma tersebut .... cm³ *a. 4.410b. 4.415c. 4.420d. 4.430​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>2. c. L = (2 × luas segitiga) + (keliling alas × tinggi prisma)</p><p>3. d. 3.510</p><p>4. d. 3.850</p><p>5. a. 4.410 </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>3. V = a × t/2 × t </p><p>= 18 × 15/2 × 26</p><p>= 9 × 15 × 26 </p><p>= 3.510 cm³</p><p></p><p>4. V = a × t/2 × t</p><p>= 25 × 14/2 × 22</p><p>= 25 × 7 × 22</p><p>= 3.850 cm³</p><p></p><p>5. V = a × t/2 × t</p><p>= 35 × 14/2 × 18 </p><p>= 35 × 7 × 18</p><p>= 4.410 cm³</p><br />
+                                            <h2 class="ez-toc-section" id="4-sebuah-balok-memiliki-panjang-28-cm-lebar-14-cm-dan-tingginya-12-cm-volume-balok-tersebut-adalah-cm%c2%b3a-4-700b-4-702c-4-704d-4-7065-volume-suatu-balok-dengan-panjang-17-cm-lebar-11">
+                            16. 4. Sebuah balok memiliki panjang 28 cm, lebar 14 cm, dan tingginya 12 cm. Volume balok tersebut adalah .... cm³a. 4.700b. 4.702c. 4.704d. 4.7065. Volume suatu balok dengan panjang 17 cm, lebar 11 cm, dan tinggi 8 adalah .... cm³a. 1.496b. 1.498c. 1.502d. 1.5166. Rumus volume prisma segitiga adalah ....a. V = alas x tinggi x tinggi prismab. V = ½ x alas x tinggi x tinggi prismac. V = p x l x tinggi segitigad. V = p x l x tinggi prisma7. Rumus luas permukaan prisma segitiga adalah ..a.   L = (2 x luas alas) + luas sisi tegakb.   L = (2 x luas segitiga) + luas selimutc.   L = (2 x luas segitiga) + (keliling alas×tinggi prisma)d.   a, b, dan c benar8. Sebuah prisma segitiga panjang alasnya 18 cm dan tingginya 15 cm. Jika tinggi prisma 26 cm, maka volumenya .... cm³a. 3.410b. 3.480c. 3.500d. 3.5109. Sebuah prisma segitiga mempunyai panjang alas 25 cm, tinggi 14 cm. Jika tinggi prisma 22 cm, maka volumenya .... cm³a. 3.650b. 3.700c. 3.830d. 3.85010.  Volume prisma segitiga 4.224 cm³  . Jika panjang alas segitiga 24 cm dan tinggi segitiga 16 cm, maka tinggi prisma .... cm.a. 18b. 21c. 22d. 24tolong di jawab dengan benar habis ini ku kumpulkan​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>4. 4704 </p><p>5.1496</p><p>6. B</p><p>7. A </p><p>8.3510</p><p>9.3850</p><p>10.22</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>10. </p><p>1/2 x 24 x 16 x T = 4224 </p><p>12 x 16 x T = 4224 </p><p>192 x T = 4224</p><p>T = 4224 : 192 </p><p>T = 22 cm </p><p><strong>Jawaban:</strong></p><p>4. C. 4.704 </p><p>5. A. 1.496 </p><p>6. B. V = ½ x alas x tinggi x tinggi prisma</p><p>7. C. L = (2 × luas segitiga) + (keliling alas × tinggi prisma)</p><p>8. D. 3.510</p><p>9. D. 3.850 </p><p>10. C. 22 </p><br />
+                                            <h2 class="ez-toc-section" id="rumus-keliling-alas-pada-prisma-segitiga-siku-siku">
+                            17. rumus keliling alas pada prisma segitiga siku siku</h2><br />
+                        Sisi x 3<br /><br />semoga membantu:)<br />
+                                            <h2 class="ez-toc-section" id="1-suatu-fungsi-dirumuskan-f5a2-20a5-nilai-fungsi-f3-adalah-2-jika-titik-p67-q2-1-dan-r5-k-terletak-pada-satu-garis-nilai-k-adalah-3-keliling-sebuah-kebun-yang-berbentuk-pers">
+                            18. 1.suatu fungsi dirumuskan f(5a+2) =20a+5. nilai fungsi f(3) adalah...2. Jika titik P(6,7), Q(2,-1), dan R(5, k) terletak pada satu garis, nilai k adalah... 3. Keliling sebuah kebun yang berbentuk persegi panjang adalah 96 m. Jika panjang kebun 3 kali lebarnya, luas kebun tersebut adalah... 4. Jika a, b, dan c adalah sisi-sisi segitiga dan a sisi terpanjang, pernyataan-pernyataan dibawah ini yang selalu benar adalah... A. a &gt; b + cB. a &lt; b + cC. a &lt;_ b + cD. a pangkat2 + b pangkat2 = c pangkat2 5. Keliling belah ketupat 100cm dan panjang salah satu diagonalnya 30cm. Luas belah ketupat tersebut adalah... 6. Sebuah kolam ikan berbentuk lingkaran dengan panjang diameter 2,8m. Di sekeliling kolam akan dibuat jalan dengan lebar 70cm. Luas jalan tersebut adalah... 7. Sebuah tiang yang tingginya 2m mempunyai bayangan 250cm. Jika pada saat yang sama bayangan sebuah gedung 40m, maka tinggi gedung adalah.... 8. Besar sudut terkecil dari dua jarum jam pada pukul 07.20 adalah... 9. Banyak sisi dan rusuk pada prisma dengan alas segi-7 adalah... 10. Sebuah bak mandi berbentuk balok berukuran 60cm x 50cm x 70cm. Melalui sebuah keran, bak tersebut akan diisi air hingga penuh. Jika air mengalir dengan debit 45 liter per jam, waktu yang diperlukan untuk mengisi bak sampai penuh adalah.... #terimakasih</h2><br />
+                        no.2 <br /><br />y2-y1/x2-x1 = y3-y2/x3-x2<br />-1-7/2-6 = K+1/5-2<br />-8/-4 = K+1/3<br />-4K-4 = -24<br />-4K=-24+4<br />-4K=-20<br />K= -20/-4<br />K= 5<br /><br />no.3<br /><br />dik: <br />p = 3l<br /><br />cari dulu lebarnya<br /><br />K  =p+l+p+l<br />96=3l+l+3l+l<br />96=8l<br />l   =96/8<br />l   = 12<br /><br />luas persegi panjang: p.l<br />(3.12).12<br />=36.12<br />=432<br />
+                                            <h2 class="ez-toc-section" id="tentukan-volume-prisma-yang-mempunyai-tinggi-20-cm-dan-bantalan-berbentuk-segitiga-siku-siku-dengan-sisi-yang-saling-tegak-lurus-berukuran-6-cm-dan-8-cm-untuk-mencari-keliling-alas-di-perlukan-sisi">
+                            19. Tentukan volume prisma yang mempunyai tinggi 20 cm dan bantalan berbentuk segitiga siku siku dengan sisi yang saling tegak lurus berukuran 6 cm dan 8 cm . Untuk mencari keliling alas di perlukan sisi miring segita dan untuk mencari sisi miring segitiga kita gunakan rumus pythagoras</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>20×6×8=960 </p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-prisma-segitiga-adalah-a-l-2-x-luas-alas-luas-sisi-tegakb-l-2-x-luas-segitiga-luas-selimutc-l-2-x-luas-segitiga-keliling-alas%c3%97tinggi-prismad-a-b">
+                            20. Rumus luas permukaan prisma segitiga adalah ....a. L = (2 x luas alas) + luas sisi tegakb. L = (2 x luas segitiga) + luas selimutc. L = (2 x luas segitiga) + (keliling alas×tinggi prisma)d. a, b, dan c benartolong di jawab ya kakdikumpulin sampe jam 11JANGAN NGASAL​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>c. L = (2 x luas segitiga) + (keliling alas×tinggi prisma)</p><p></p><strong>S</strong><strong>E</strong><strong>M</strong><strong>O</strong><strong>G</strong><strong>A</strong><strong> </strong><strong>M</strong><strong>E</strong><strong>M</strong><strong>B</strong><strong>A</strong><strong>N</strong><strong>T</strong><strong>U</strong><strong> </strong><strong>:</strong><strong> </strong><strong>)</strong><p><strong>Jawaban:</strong></p><p>C. L=(2×luas segitiga)+(keliling alas×tinggi prisma)</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-volume-prisma-yang-mempunyai-tinggi-20-cm-dan-bantalan-berbentuk-segitiga-siku-siku-dengan-sisi-yang-saling-tegak-lurus-berukuran-6-cm-dan-8-cm-untuk-mencari-keliling-alas-di-perlukan-sisi">
+                            21. Tentukan volume prisma yang mempunyai tinggi 20 cm dan bantalan berbentuk segitiga siku siku dengan sisi yang saling tegak lurus berukuran 6 cm dan 8 cm . Untuk mencari keliling alas di perlukan sisi miring segitiga , dan untuk mencari sisi miring segitiga , kita gunakan rumus pythagoras?</h2><br />
+                        <p>Jawab:</p><p>V: 480 cm3</p><p>Penjelasan dengan langkah-langkah:</p><p>V: Luas alas × tinggi</p><p>V= (1/2 × 6 × 8) × 20 = 24 × 20 = 480 cm3</p><p></p><p>Ya, dengan rumus tersebut</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-mencari-keliling-alas-prisma-segitiga-sama-sisi%e2%80%8b">
+                            22. rumus mencari keliling alas prisma segitiga sama sisi​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>k = 3s (s + s + s )</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>SEMOGA MEMBANTU</p>     Rumus Keliling Alas                 Prisma        Segitiga Beserta                  Contoh               Soalnya<p></p><p></p>Setelah sebelumnya kita membahas tentang rumus keliling tabung kali ini kita akan membahas materi tentang rumus keliling alas prisma segitiga dan contoh soalnya, kita akan jabarkan secara detail dan lengkap dari pengertian prisma, pengertian prisma segitiga, sifat – sifat prisma segitiga, macam – macam prisma, rumus, dan contoh soal dari keliling alas prisma segitiga<br />
+                                            <h2 class="ez-toc-section" id="rumus-luas-permukaan-prisma-adalah-a-valas%c3%97tinggi%c3%97tinggi-prismab-v12%c3%97alas%c3%97tinggi%c3%97tinggi-prismac-l2%c3%97luas-segitigakeliling-alas%c3%97tinggi-prismad-l12%c3%97alas">
+                            23. rumus luas permukaan prisma adalah A.v=alas×tinggi×tinggi prismaB.v=1/2×alas×tinggi×tinggi prismaC.L=(2×luas segitiga)+(keliling alas×tinggi prisma)D.L=1/2×alas ​</h2><br />
+                        <p>Jawab:</p><p>Kayaknya Yang B deh, </p><p>Soalnya rumus </p><p>L.permukaan Prisma itu: </p><p>2x(alas+L.bidang tegak tegaknya)</p><p></p><p></p><p></p><p></p><p></p><p>Maaf kalo salah:)</p><br />
+                                            <h2 class="ez-toc-section" id="2-jumlah-rusuk-yang-terdapat-di-prisma-tegak-segitiga-ada-a3-rusuk-alas-3-rusuk-atas-dan-3-rusuk-tegakb-3-rusuk-alas-4-rusuk-atas-dan-3-rusuk-tegakc-4-rusuk-alas-3-rusuk-atas-dan-3-rusuk-teg">
+                            24. 2. Jumlah rusuk yang terdapat di prisma tegak segitiga ada .... *a3 rusuk alas, 3 rusuk atas dan 3 rusuk tegakb.3 rusuk alas, 4 rusuk atas dan 3 rusuk tegakc.4 rusuk alas, 3 rusuk atas dan 3 rusuk tegakd.4 rusuk alas, 4 rusuk atas dan 4 rusuk tegak4. Rumus luas permukaan prisma segitiga adalah .... *a. L = (2 x luas alas) + luas sisi tegakb. L = (2 x luas segitiga) + luas selimutc. L = (2 x luas segitiga) + (keliling alas×tinggi prisma)d. A, b, dan c benar5. Sebuah prisma alasnya berbentuk Bunsegitiga siku-siku. Jika panjang sisinya 6 cm, 8 cm serta 10 cm, dan tinggi prisma tersebut adalah 15 cm, maka luas permukaan prisma tersebut .... Cm² *a. 398b. 404c. 408d. 4126. Sebuah prisma alasnya berbentuk segitiga sama sisi dengan panjang sisinya 24 cm. Jika tinggi prisma 40 cm, maka panjang kerangka prisma tersebut adalah .... Cm *a. 2</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>2. A.</p><p></p><p>4. B</p><p></p><p>5. C.</p><p></p><p>6. 264</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p>5 . Luas permulaan prisma segitiga</p><p>L = 2 luas segitiga + luas Selimut.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-mencari-keliling-alas-prisma-segitiga-sama-sisi%e2%80%8b">
+                            25. rumus mencari keliling alas prisma segitiga sama sisi​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Keliling = 3S</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Keliling alas prisma segitiga sama sisi</p><p>tinggal di jumlahkan ketiga sisi (s) nya </p><p>jika hanya diketahui 1 sisi,  maka kalikan 3 karena semua sisi sama panjang. </p><p><strong>Jawaban:</strong></p><p>Nih jawabannya. </p><p></p><p><strong>Maaf</strong><strong> </strong><strong>klo</strong><strong> </strong><strong>jawaban</strong><strong> </strong><strong>nya</strong><strong> </strong><strong>salah</strong><strong> </strong><strong>ya</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-sebuah-prisma-tegak-memiliki-volume-432-cm3-alas-prisma-tersebut-berbentuk-segitiga-siku-siku-yang-panjang-siku-siku-nya-6-cm-dan-8-cm-hitunglah-tinggi-prisma-tersebut-2-pak-budi-membuat-kolam">
+                            26. 1. Sebuah prisma tegak memiliki volume 432 cm^3. Alas prisma tersebut berbentuk segitiga siku-siku yang panjang siku-siku nya 6 cm dan 8 cm. hitunglah tinggi prisma tersebut! 2. Pak budi membuat kolam renang di halaman belakang rumahnya berbentuk persegi panjang dengan ukuran 15 m × 10 m. Di keliling kolam di buat jalan dengan lebar 1 m dan dipasang keramik. Luas keramik yang di perlukan untuk jalan tersebut adalah?!3. Sebuah atap museum berbentuk limas segiempat beraturan. Atap museum terbuat dari kaca. Jika panjang sisi alas 18 m dan tinggi pada sisi tegaknya 15 m, maka luas permukaan atap museum adalah...........m^2"Mohon disertakan dengan rumusnya" ^Terima Kasih^​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.) 18 cm</p><p>2.) 54 m²</p><p>3.) 864 m²</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1.) Volume prisma = Luas alas x t</p><p>t = vol prisma : luas alas</p><p>t = 432 cm³ : ½ x 6 cm x 8 cm</p><p>t = 432 cm³ : 24 cm²</p><p>t = 18 cm</p><p></p><p>2.) Luas keramik</p><p>= (17 m x 12 m) - (15 m x 10 m) </p><p>= 204 m² - 150 m²</p><p>= 54 m²</p><p></p><p>3.) Luas permukaan atap</p><p>= Luas alas + 4 Luas sisi tegak</p><p>= (s x s) + 4 (½ x a x t) </p><p>= (18 m x 18 m) + 4 (½ x 18 m x 15 m) </p><p>= 324 m² + 4 (135 m²) </p><p>= 324 m² + 540 m²</p><p>= 864 m²</p><p></p><p>Semoga bermanfaat ^_^</p><p>Selamat belajar!! </p><br />
+                                            <h2 class="ez-toc-section" id="1-keliling-sebuah-persegi-panjang-80-cm-jika-lebar-persegi-panjang-itu-15-cmmaka-luas-persegi-panjang-adalah-cma-325-b-350-c-375-d-4002-luas-lingkaran-dengan-jari-jari-105-cm-adalah-a-3465cm-b">
+                            27. 1.keliling sebuah persegi panjang 80 cm.jika lebar persegi panjang itu 15 cm,maka luas persegi panjang adalah.....cma.325 B.350 C.375 D.4002.Luas lingkaran dengan jari-jari 10,5 cm adalah A.346,5cm  B.350cm  C 365 cm  D.364,5 cm3.Luas lingkaran yang panjang diameternya 40 cm dengan rumus:3,14 adalah...cm2a.1.570b.1.256c.942d.6284.sebuah lingkaran luasnya 2.826 cm2.Diameter lingkaran itu adalah.......a.30 cmb.45 cmc.60 cmd.75 cm5.Volume tabung yang mempunyai tinggi 5 dm adalah 6.930 liter.jari-jari alas tabung tersebut adalah6.Volume sebuah prisma segitiga adalah 168 cm3.luas alas prisma tersebut adalah 24 cm2.Tinggi prisma adalah...a.12 cmb.9 cmc.7 cmd.5 cm7.Volume sebuah tabung 38.500 cm3.Tinggi tabung itu 40 cm.Luas alas tabung adalah....a.926,5 cm2b.946,5 cm2c.962,5 cm2d.982,5 cm2</h2><br />
+                        1. keliling = 2 (p+15) = 80<br />= 2p + 30 = 80<br />2p = 80-30= 50<br />p = 50/2 = 25<br />luas persegi panjang = p.l = 25 . 15 = 375<br /><br />7. volume tabung = 40 . luas alas = 38500.<br /><br />luas alas = 38500/40 = 962,5carilah sendiri sukanya cari di internet <br />
+                                            <h2 class="ez-toc-section" id="mercan-volume-dan-luasprisma-segi-tiga1-berapa-volume-prisma-segi-tiga-dif-sampingrumusv-luas-alas-x-tinggi-x-tinggi-prismav-cm2-berapa-luas-permukaan-prismasegitiga-di-samping-rumuslua">
+                            28. Mercan Volume dan LuasPrisma Segi Tiga1. Berapa volume prisma segi tiga diF. samping?RumusV = luas alas x tinggi x tinggi prismav=....cm2. Berapa luas permukaan prismasegitiga di samping ? ...RumusLuas permukaan= (alasx tinggi)+(keliling alasx t.prism)=....cm​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>vg bbnfrrff</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>hhjuajmmjkmmou</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-yang-digunakan-untuk-mencari-volume-tabung-yaitu-%c2%a012-pointsa-v-%cf%80-x-r-x-rb-v-%cf%80-x-r-x-r-x-tinggic-v-2-x-luas-alas-x-tinggid-v-2-x-luas-alas-luas-selimut-tabun">
+                            29. Rumus yang digunakan untuk mencari volume tabung yaitu .... *12 pointsA. V = π x r x rB. V = ( π x r x r ) x TinggiC. V = 2 x Luas alas x TinggiD. V = 2 x Luas alas + Luas selimut tabung2. Volume tabung pada gambar berikut ini adalah .... *13 pointsA. 154 cm³B. 540 cm³C. 1450 cm³D. 1.540 cm³3. Volume tabung pada gambar berikut ini adalah .... *13 pointsA. 10.220 cm³B. 11.320 cm³C. 12.320 cm³D. 13.220 cm³4. Sebuah tabung memiliki jari-jari 10 cm dan tinggi 5 cm. Volume tabung tersebut adalah .... (π = 3,14) *12 pointsA. 157 cm³B. 570 cm³C. 1.570 cm³D. 1.750 cm³5. Sebuah tabung memiliki diameter 14 cm dan tinggi 5 cm. Volume tabung tersebut adalah .... *12 pointsA. 154 cm³B. 770 cm³C. 1770 cm³D. 3080 cm³6. Rumus yang digunakan untuk mencari volume prisma segitiga yaitu .... *12 pointsA. V = 1/2 x a x tB. V = panjang x lebar x tinggiC. V = ( 1/2 x a x t ) x tinggi prismaD. V = 2 x Luas alas+Keliling alas x tinggi7. Sebuah prisma segitiga panjang alasnya 18 cm dan tingginya 15 cm. Jika tinggi prisma 26 cm, maka volumenya .... cm³ *13 pointsA. 3.410B. 3.480C. 3.500D. 3.5108.Sebuah prisma segitiga mempunyai panjang alas 25 cm, tinggi 14 cm. Jika tinggi prisma 22 cm, maka volumenya .... cm³ *13 pointsA. 3.650B. 3.700C. 3.830D. 3.850jawab ya kk​</h2><br />
+                        <p>Jawab:</p><p>1.B</p><p>2.D</p><p>3.C</p><p>4.C</p><p>5.B</p><p>6.C</p><p>7.D</p><p>8.D</p><p></p><p>Penjelasan dengan langkah-langkah:</p><p>Maaf kalo salah, tapi aku baru selesai juga ngerjain soal nya kya gini juga, dpt 100</p><p>Jangan lupa kasih bintang 5, makasih</p><p>btw ini soal buat kls 6 kn?</p><p>Ak jg kls 6</p><p><strong>Jawaban:</strong></p><p>1.B</p><p>2 D</p><p>3 C</p><p>4.C</p><p>5.B</p><p>6.C</p><p>7.D</p><p>8.D</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>kalau bnr minta no wa yah </p><p>klo ga gue bakal jari sendiri</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-mencari-luas-alas-prisma-segitiga-siku-siku-dan-rumus-mencari-keliling-alas-segitiga-siku-siku%e2%80%8b">
+                            30. rumus mencari luas alas prisma segitiga siku siku dan rumus mencari keliling alas segitiga siku siku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pada perhatiin ngga, kalau atap rumah sama tenda itu hampir-hampir mirip bentuknya? Kalau diliat lagi, bentuknya itu kayak terdiri dari 2 segitiga di tiap ujungnya, terus diselimuti dengan selimut yang berbentuk persegi panjang. Bentuk bangun ruang ini biasa juga disebut dengan bentuk prisma segitiga. Disebut begitu karena alas dan tutupnya tadi yang berbentuk segitiga. Dalam geometri, kita akan mempelajari pengertian beserta rumus prisma segitiga. Dalam kesempatan kali ini kita juga akan membahas berbagai contoh soalnya untuk bisa memahami materi ini secara lebih lanjut.</p><p></p><p>Prisma adalah bangun ruang yang memiliki tutup dan alas dengan bentuk segi-n yang kongruen, sementara sisi-sisi tegaknya berbentuk persegi panjang.</p><p></p><p></p><p>prisma segitiga</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>maaf jika salah</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/918qWRjICbs?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>matematika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fcg-adalah/">Fcg Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nama-tumbuhan-bentuk-struktur-batang-fungsi-modifikasi-batang/">Nama Tumbuhan Bentuk Struktur Batang Fungsi Modifikasi Batang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/strategi-dalam-permainan-bola-basket-biasanya-dipersiapkan-pada-saat/">Strategi Dalam Permainan Bola Basket Biasanya Dipersiapkan Pada Saat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-tujuan-eksportir/">Apa Tujuan Eksportir</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/23-4/">23 4</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/2-hari-berapa-menit/">2 Hari Berapa Menit</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagi-orang-tua-dan-masyarakat-sosialisasi-mempunyai-arti-penting-sebagai/">Bagi Orang Tua Dan Masyarakat Sosialisasi Mempunyai Arti Penting Sebagai</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-perbedaan-antara-drna-trna-dan-rrna/">Jelaskan Perbedaan Antara Drna Trna Dan Rrna</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kunci-jawaban-ipa-kelas-9/">Kunci Jawaban Ipa Kelas 9</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/demokrasi-dengan-sistem-referendum-masih-diterapkan-di-negara/">Demokrasi Dengan Sistem Referendum Masih Diterapkan Di Negara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-gerakan-kepala/">Contoh Gerakan Kepala</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/batik-modern/">Batik Modern</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/10-contoh-reduce/">10 Contoh Reduce</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-ini-merupakan-fungsi-pers-pada-era-reformasi-yaitu/">Berikut Ini Merupakan Fungsi Pers Pada Era Reformasi Yaitu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebutkan-dan-jelaskan-unsur-unsur-berita/">Sebutkan Dan Jelaskan Unsur Unsur Berita</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-rahasia-dagang/">Contoh Rahasia Dagang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-merupakan-negara-yang-mendapat-sebutan-macan-asia-kecuali/">Berikut Merupakan Negara Yang Mendapat Sebutan Macan Asia Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/garis-edar-planet-disebut/">Garis Edar Planet Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perkalian-9/">Perkalian 9</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/as-sami/">As Sami</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

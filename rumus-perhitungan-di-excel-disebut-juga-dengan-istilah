@@ -1,0 +1,1282 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Rumus Perhitungan Di Excel Disebut Juga Dengan Istilah - BELAJAR</title>
+    <meta name="description" content="Rumus Perhitungan Di Excel Disebut Juga Dengan Istilah, , , , , , , 0, Rumus Perhitungan Di Excel Disebut Juga Dengan Istilah - Excel dan, excelcorp.blogspot.com, 558 x 532, jpeg, , 20, rumus-perhitungan-di-excel-disebut-juga-dengan-istilah, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Rumus Perhitungan Di Excel Disebut Juga Dengan Istilah - BELAJAR" />
+    <meta property="og:description" content="Rumus Perhitungan Di Excel Disebut Juga Dengan Istilah, , , , , , , 0, Rumus Perhitungan Di Excel Disebut Juga Dengan Istilah - Excel dan, excelcorp.blogspot.com, 558 x 532, jpeg, , 20, rumus-perhitungan-di-excel-disebut-juga-dengan-istilah, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Rumus Perhitungan Di Excel Disebut Juga Dengan Istilah - BELAJAR" />
+    <meta name="twitter:description" content="Rumus Perhitungan Di Excel Disebut Juga Dengan Istilah, , , , , , , 0, Rumus Perhitungan Di Excel Disebut Juga Dengan Istilah - Excel dan, excelcorp.blogspot.com, 558 x 532, jpeg, , 20, rumus-perhitungan-di-excel-disebut-juga-dengan-istilah, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Rumus Perhitungan Di Excel Disebut Juga Dengan Istilah</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">apta28</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Rumus+Perhitungan+Di+Excel+Disebut+Juga+Dengan+Istilah" alt="Rumus Perhitungan Di Excel Disebut Juga Dengan Istilah">
+                    </div>
+                    <p></p>
+                    <p>Rumus perhitungan di excel disebut dengan istilah </p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-perhitungan-di-excel-disebut-dengan-istilah">1.
+                                            Rumus perhitungan di excel disebut dengan istilah </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-perhitungan-di-excel-disebut-juga-dengan-istilah">2.
+                                            rumus perhitungan di excel disebut juga dengan istilah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-microsoft-excel-rumus-matematika-yang-ada-disebut-juga-dengan-istilah%e2%80%a6%e2%80%a6">3.
+                                            dalam microsoft excel, rumus matematika yang ada disebut juga dengan istilah……</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-pada-excel-disebut">4.
+                                            Rumus pada excel disebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-rumus-rumus-yang-terdapat-pada-excel">5.
+                                            sebutkan rumus rumus yang terdapat pada excel</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-rumus-yang-siap-digunakan-dalam-microsoft-excel-untuk-perhitungan-secara-otomatis-adalah%e2%80%8b">6.
+                                            Sebutkan rumus yang siap digunakan dalam microsoft excel untuk perhitungan secara otomatis adalah?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-rumus-perhitungan-excel-dalam-penjumlahan-pengurangan-ranking-dan-rata-rata">7.
+                                            sebutkan rumus perhitungan excel dalam penjumlahan , pengurangan , ranking dan rata rata</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagian-dari-microsoft-excel-yang-harus-diisi-lengkap-pada-saat-membuat-rumusfunction-disebut-dengan-istilah-%c2%a0%e2%80%8b">8.
+                                            bagian dari Microsoft excel yang harus diisi lengkap pada saat membuat rumus/function disebut dengan istilah ... ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-rumus-pehitungan-dalam-microsoft-excel">9.
+                                            sebutkan rumus pehitungan dalam microsoft excel</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-pada-excel-disebut-juga-dengan%e2%80%8b">10.
+                                            rumus pada Excel disebut juga dengan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-istilah-istilah-ms-excel-berikuta-cellb-rangec-rumus-sumd-rumus-averagee-rumus-minf-rumus-maxg-rumus-ranktolong-dijawab-kak-thanks">11.
+                                            Jelaskan istilah istilah ms excel berikut:a. cellb. rangec. rumus sumd. rumus averagee. rumus minf. rumus maxg. rumus ranktolong dijawab kak thanks</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-yang-disebut-dengan-sheet-dalam-istilah-program-microsoft-excel">12.
+                                            Apakah yang disebut dengan sheet dalam istilah program microsoft excel</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-rumus-rumus-formula-dalam-excel">13.
+                                            sebutkan rumus rumus (formula) dalam excel</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-istilah-yang-ada-pada-microsoft-excel-2007">14.
+                                            Sebutkan istilah yang ada pada Microsoft Excel 2007?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-yang-sudah-disediakan-oleh-excel-yang-akan-membantu-dalam-perhitungan-disebut-%e2%80%8b">15.
+                                            rumus yang sudah disediakan oleh Excel yang akan membantu dalam perhitungan disebut ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perhitungan-di-ms-excel-dengan-rumus-matematika">16.
+                                            perhitungan di ms. excel dengan rumus matematika</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-rumus-rumus-dalam-ms-excel">17.
+                                            sebutkan rumus rumus dalam ms. excel</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-ms-excel-rumus-operasi-hitung-cepat-disebut-%e2%80%8b">18.
+                                            dalam ms excel, rumus operasi hitung cepat disebut ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-perhitungan-dalam-microsoft-excel-di-sebut-dengan">19.
+                                            rumus perhitungan dalam microsoft excel di sebut dengan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-menghitung-jumlah-pada-microsoft-excel">20.
+                                            Rumus menghitung jumlah pada Microsoft Excel</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-perhitungan-excel-disebut-juga">21.
+                                            
+rumus perhitungan excel disebut juga</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lembar-kerja-pada-ms-excel-sering-di-sebut-dengan-istilah">22.
+                                            lembar kerja pada ms. excel sering di sebut dengan istilah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-istilah-rumus-dalam-program-microsoft-excel">23.
+                                            Apa istilah rumus dalam program Microsoft Excel</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#daerah-tempat-penulisan-rumus-excel-disebut-dengan-istilah">24.
+                                            Daerah tempat penulisan rumus excel disebut dengan istilah .....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-rumus-excel">25.
+                                            sebutkan rumus excel</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-menghitung-jumlah-dalam-microsoft-excel">26.
+                                            rumus menghitung jumlah dalam microsoft  excel</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#macam-macam-rumus-menghitung-di-microsoft-excel">27.
+                                            macam-macam rumus menghitung di microsoft excel??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagian-pada-ms-excel-yang-berfungsi-untuk-memasukkan-rumus-perhitungan-secara-otomatis-disebut">28.
+                                            Bagian pada ms. excel yang berfungsi untuk memasukkan rumus / perhitungan secara otomatis disebut ..... </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-yang-sudah-tersedia-di-program-excel-dan-didefinisikan-untuk-suatu-perhitungan-secara-otomatis-di-sebut-juga-%e2%80%8b">29.
+                                            rumus yang sudah tersedia di program Excel dan didefinisikan untuk suatu perhitungan secara otomatis di sebut juga.......​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-menghitung-rata2-dalam-microsoft-excel-apa">30.
+                                            Rumus menghitung rata2 dalam microsoft excel apa?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-rumus-rumus-pada-microsoft-excel">31.
+                                            sebutkan rumus rumus pada microsoft excel</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-operasi-hitung-pada-excel-disebut">32.
+                                            Rumus operasi hitung pada Excel disebut...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-siap-pakai-dalam-microsoft-excel-untuk-menghitung-secara-otomatis-disebut">33.
+                                            rumus siap pakai dalam Microsoft Excel untuk menghitung secara otomatis disebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-menghitung-pajak-di-microsoft-excel">34.
+                                            Rumus menghitung pajak di microsoft excel</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-rumus-rumus-yang-ada-dalam-microsoft-excel%e2%80%8b">35.
+                                            sebutkan rumus-rumus yang ada dalam Microsoft excel​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagian-pada-ms-excel-yang-berfungsi-untuk-memasukkan-rumus-perhitungan-secara-otomatis-disebut">36.
+                                            bagian pada ms. excel yang berfungsi untuk memasukkan rumus / perhitungan secara otomatis disebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-yang-sudah-disediakan-oleh-microsoft-excel-yang-akan-membantu-dalam-proses-perhitungan-disebut-%e2%80%8b">37.
+                                            rumus yang sudah disediakan oleh Microsoft Excel yang akan membantu dalam proses perhitungan disebut......​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-yang-sudah-tersedia-diprogram-excel-dan-didefinisikan-untuk-suatu-perhitungan-secara-otomatis-disebut-juga">38.
+                                            Rumus yang sudah tersedia diprogram Excel dan didefinisikan untuk suatu perhitungan secara otomatis disebut juga.. .. </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-rumus-rumus-ms-excel">39.
+                                            sebutkan rumus rumus ms excel</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagian-pada-microsoft-excel-yang-berfungsi-untuk-memasukkan-rumusperhitungan-secara-otomatis-disebut">40.
+                                            Bagian pada microsoft excel yang berfungsi untuk memasukkan rumus/perhitungan secara otomatis disebut</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="rumus-perhitungan-di-excel-disebut-dengan-istilah">
+                            1. Rumus perhitungan di excel disebut dengan istilah </h2><br />
+                        rumus perhitungan di excel disebuf dengan istilah formuladi sebut dengan istilah formula/rumus formula<br /><br />maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="rumus-perhitungan-di-excel-disebut-juga-dengan-istilah">
+                            2. rumus perhitungan di excel disebut juga dengan istilah</h2><br />
+                        'Formula' <br />semoga membantu <br /><br /><br />
+                                            <h2 class="ez-toc-section" id="dalam-microsoft-excel-rumus-matematika-yang-ada-disebut-juga-dengan-istilah%e2%80%a6%e2%80%a6">
+                            3. dalam microsoft excel, rumus matematika yang ada disebut juga dengan istilah……</h2><br />
+                        fungsi matematis(?)<br />sorry kalo salahkalo gak salah formula maaf kalo salah ya...<br />
+                                            <h2 class="ez-toc-section" id="rumus-pada-excel-disebut">
+                            4. Rumus pada excel disebut</h2><br />
+                        <p>Jawaban:</p><p>Formula</p><p></p><p>Penjelasan:</p><p></p><p><strong>Penjelasan:</strong></p><p>formula</p><p></p><p>semoga benar. </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-rumus-rumus-yang-terdapat-pada-excel">
+                            5. sebutkan rumus rumus yang terdapat pada excel</h2><br />
+                        Rumus/fungsi yang ada di Excel digolongkan/terbagi lagi menjadi 4, yaitu:<br />* Fungsi Statistika. Seperti: =AVERAGE, =MAX, =MIN, =STDEV, =COUNT, =COUNTIF, =LARGE, =SMALL<br />* Fungsi Matematika dan Trigonometri. Seperti: =ABS, =COMBIN, =DEGRESS, =EXP, =FACT, =LOG, =ROUND, =SUM, =SQRT, =COS, =SIN, =TAN, =ACOS, =ASIN, =ATAN, dll (masih banyak lagi)<br />* Fungsi pembacaan tabel. Seperti: =HLOOKUP dan =VLOOKUP<br />* Fungsi Logika. Seperti: =AND, =OR, =LEFT, =MID, =RIGHT, dan =IF<br />Semoga membantu...1. Fungsi Matematika dan Trigonometri<br />2. Fungsi Logika<br />3. Fungsi Teks atau Data<br />4. Fungsi Statistik<br />5. Fungsi Database<br />6. dll.<br /><br />Semoga Membantu!<br /><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-rumus-yang-siap-digunakan-dalam-microsoft-excel-untuk-perhitungan-secara-otomatis-adalah%e2%80%8b">
+                            6. Sebutkan rumus yang siap digunakan dalam microsoft excel untuk perhitungan secara otomatis adalah?​</h2><br />
+                        <p>=SUM(cell:cell)</p><p>Menghitung jumlah</p><p></p><p>=MAX(cell:cell)</p><p>Angka terbesar/tertinggi</p><p></p><p>=MIN(cell:cell)</p><p>Angka terkecil/terendah</p><p></p><p>=AVERAGE(cell:cell)</p><p>Untuk menghitung rata-rata</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-rumus-perhitungan-excel-dalam-penjumlahan-pengurangan-ranking-dan-rata-rata">
+                            7. sebutkan rumus perhitungan excel dalam penjumlahan , pengurangan , ranking dan rata rata</h2><br />
+                        penjumblahan=SUM<br />pengurangan=MIN<br />rata-rata=AVERAGE<br />
+                                            <h2 class="ez-toc-section" id="bagian-dari-microsoft-excel-yang-harus-diisi-lengkap-pada-saat-membuat-rumusfunction-disebut-dengan-istilah-%c2%a0%e2%80%8b">
+                            8. bagian dari Microsoft excel yang harus diisi lengkap pada saat membuat rumus/function disebut dengan istilah ... ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Formula</p><p><strong>Penjelasan:</strong></p><p>istilah nya ini kalo di xls kak </p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-rumus-pehitungan-dalam-microsoft-excel">
+                            9. sebutkan rumus pehitungan dalam microsoft excel</h2><br />
+                        <p>total=sum</p><p>rata rata=average</p><p>total tertinggi=max</p><p>total terendah=min</p>Max = nilai tertinggi<br />Min = nilai terendah<br />Sum = jumlah<br />Average = rata - rata<br />
+                                            <h2 class="ez-toc-section" id="rumus-pada-excel-disebut-juga-dengan%e2%80%8b">
+                            10. rumus pada Excel disebut juga dengan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Formula</p><p><strong>Penjelasan:</strong></p><p>Formula atau rumus pada microsoft excel adalah persamaan matematika untuk menghitung angka-angka tertentu yang bertujuan untuk mendapatkan hasil yang diharapkan pada microsoft excel.</p><p><strong>Jawaban:</strong></p><p>Rumus perhitungan excel disebut juga formula. Formula pada microsoft excel dapat mempermudah dalam mengerjakan proses perhitungan dan pengolahan data di excel. Cara menggunakan rumus microsoft excel harus diawali dengan tanda sama dengan (=).</p><p> </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-istilah-istilah-ms-excel-berikuta-cellb-rangec-rumus-sumd-rumus-averagee-rumus-minf-rumus-maxg-rumus-ranktolong-dijawab-kak-thanks">
+                            11. Jelaskan istilah istilah ms excel berikut:a. cellb. rangec. rumus sumd. rumus averagee. rumus minf. rumus maxg. rumus ranktolong dijawab kak thanks</h2><br />
+                        <p><strong>Penjelasan:</strong></p>Cell adalah pertemuan baris dan kolom, misalnya Cell B5 artinya kotak pertemuan kolom B di baris ke 5.Range adalah sekumpulan cell yang dipilih untuk diberikan suatu operasi. Range diberi tanda titik dua (:). Contohnya bila kita akan menjumlah data dari Cell A1 hingga Cell A7, maka range adalah A1:A7Rumus Sum adalah rumus yang berfungsi untuk menjumlah data pada range yang ditentukan. Contoh: =SUM(B1:B5)Rumus Average adalah rumus yang berfungsi untuk menghitung rata-rata pada range. Contoh: =AVERAGE(B1:B5) Rumus Min adalah rumus yang berfungsi untuk melihat nilai minimal pada range tertentu. Contoh: =MIN(B1:B5)Rumus Max adalah kebalikan dari Min, yaitu rumus yang berfungsi untuk melihat nilai maksimal pada range tertentu. Contoh: =MAX(B1:B5)<br />
+                                            <h2 class="ez-toc-section" id="apakah-yang-disebut-dengan-sheet-dalam-istilah-program-microsoft-excel">
+                            12. Apakah yang disebut dengan sheet dalam istilah program microsoft excel</h2><br />
+                        Lembar kerja di Excel...<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-rumus-rumus-formula-dalam-excel">
+                            13. sebutkan rumus rumus (formula) dalam excel</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Rumus untuk  Penjumlahan =number1+number2.  (= SUM(number1:number2: dan selanjutnya ))</p><p>2. Rumus untuk Pengurangan =number1–number2.
+</p><p>3. Rumus untuk Pengkalianan =number1*number2.
+</p><p>4. Rumus untuk Pembagian =number1/number2.
+</p><p>5. Rumus untuk Presentase =number1/numberTOTAL.
+</p><p>6. Rumus untuk SUM =SUM(number1:number2)
+</p><p>7. Rumus untuk mencari rata-rata =AVERAGE(number1:number2)</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-istilah-yang-ada-pada-microsoft-excel-2007">
+                            14. Sebutkan istilah yang ada pada Microsoft Excel 2007?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Istilah dalam Microsoft Excel:</p><p></p><p>1. Tool Bar : tempat icon atau tombol</p><p></p><p>2. Title bar : yaitu untuk mengetahui nama sebuah file aktif yang telah kita buka</p><p></p><p>3. Menu bar : untuk kita pilih sehingga akan muncul fungsi-fungsi yang ada pada sub menunya</p><p></p><p>4. Sub menu bar :  berisi beberapa fungsi yang ada dalam menu bar tersebut yang siap untuk kita gunakan</p><p></p><p>5. Formula : cara cepat mengetahui hasil sebuah rumus</p><p></p><p>6. Border : digunakan untuk membuat garis</p><p></p><p>7. Number format : menentukan nilai pada cell</p><p></p><p>8.  Accounting number format : digunakan untuk memberi satuan mata uang</p><p></p><p>9. Percent style : digunakan untuk memebri satuan persen</p><p></p><p>10. Comma style : mengubah format tanpa symbol currecy</p><p></p><p>11. Increase decimal : menambahkan nilai decimal</p><p></p><p>12.. Decrease decimal : mengurangi nilai desimal</p><p></p><p>13 . Cell : bagian terkecil dari worksheet yang dapat diisi dengan jumlah karakter</p><p></p><p><strong>Penjelasan:</strong></p><p></p><p>Microsoft Excel atau Microsoft Office Excel adalah sebuah program aplikasi lembar kerja yang memiliki fitur kalkulasi dan pembuatan grafik.</p><p></p><p>semoga membantu :)</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-yang-sudah-disediakan-oleh-excel-yang-akan-membantu-dalam-perhitungan-disebut-%e2%80%8b">
+                            15. rumus yang sudah disediakan oleh Excel yang akan membantu dalam perhitungan disebut ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Rumus perhitungan excel disebut juga formula. Formula pada microsoft excel dapat mempermudah dalam mengerjakan proses perhitungan dan pengolahan data di excel. Cara menggunakan rumus microsoft excel harus diawali dengan tanda sama dengan (=). Cara membuat formula pada microsoft excel yaitu : Pilih sel.</p><br />
+                                            <h2 class="ez-toc-section" id="perhitungan-di-ms-excel-dengan-rumus-matematika">
+                            16. perhitungan di ms. excel dengan rumus matematika</h2><br />
+                        menghitung rata2=AVERAGE<br />menghitung jumlah=SUM<br />menghitung nilai terendah=MIN<br />menghitung nilai tertinggi=MAX<br />rata rata keseluruhan=AVERAGE<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-rumus-rumus-dalam-ms-excel">
+                            17. sebutkan rumus rumus dalam ms. excel</h2><br />
+                        <p>SUM( untuk menjumlahkan)</p><p>AVERAGE(untuk rata rata)</p><p>MAX(untuk melihat nilai maximal)</p><p>MIN(untuk melihat nilai minimum)</p><br /><p>hanya ini yang saya ketahui mohon maaf:)</p><br />
+                                            <h2 class="ez-toc-section" id="dalam-ms-excel-rumus-operasi-hitung-cepat-disebut-%e2%80%8b">
+                            18. dalam ms excel, rumus operasi hitung cepat disebut ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>function</p><p><strong>Penjelasan:</strong></p><p>klik insert </p><p>cari tulisan fuction</p><p>klik function </p><p>cari rumusnya</p><p>klik rumusnya</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-perhitungan-dalam-microsoft-excel-di-sebut-dengan">
+                            19. rumus perhitungan dalam microsoft excel di sebut dengan</h2><br />
+                        fungsi <br />maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="rumus-menghitung-jumlah-pada-microsoft-excel">
+                            20. Rumus menghitung jumlah pada Microsoft Excel</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Ketikkan = SUM dalam sel, diikuti dengan kurung (.
+</p><p>Untuk memasukkan rentang rumus pertama, yang disebut argumen (bagian data rumus perlu menjalankan), a2: A4 tipe (atau pilih sel A2 dan seret sampai sel A6).
+</p><p>Ketik koma (,) untuk memisahkan argumen pertama dari argumen berikutnya.
+</p><p>Ketikkan kedua argumen, C2: C3 (atau seret untuk memilih sel).
+</p><p>Ketik tanda kurung tutup ), dan lalu tekan Enter.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-perhitungan-excel-disebut-juga">
+                            21. 
+rumus perhitungan excel disebut juga</h2><br />
+                        <p>Rumus perhitungan excel disebut juga <strong>formula</strong>. Formula pada microsoft excel dapat mempermudah dalam mengerjakan proses perhitungan dan pengolahan data di excel. Cara menggunakan rumus microsoft excel harus diawali dengan tanda sama dengan (=). </p><p><strong>Penjelasan</strong></p><p>Cara membuat formula pada microsoft excel yaitu :</p>Pilih selKetik tanda sama denganPilih sel atau ketik alamat selMasukkan operator yang diinginkan, misalnya (-) untuk pengurangan, (+) untuk penambahanPilih sel  berikutnyaTekan enter<p>Pelajari lebih lanjut materi tentang rumus pada Microsoft Excel pada brainly.co.id/tugas/12808523</p><p>#BelajarBersamaBrainly</p><br />
+                                            <h2 class="ez-toc-section" id="lembar-kerja-pada-ms-excel-sering-di-sebut-dengan-istilah">
+                            22. lembar kerja pada ms. excel sering di sebut dengan istilah</h2><br />
+                        lembar kerja pada ms Excel biasa disebut dengan sheet <br />
+                                            <h2 class="ez-toc-section" id="apa-istilah-rumus-dalam-program-microsoft-excel">
+                            23. Apa istilah rumus dalam program Microsoft Excel</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pengertian Formula/Rumus Excel</p><p>Secara garis besar yang dimaksud formula atau rumus pada microsoft excel adalah persamaan matematika untuk menghitung nilai-nilai tertentu dengan tujuan untuk mendapatkan hasil yang diharapkan pada microsoft excel.</p><p><strong>Penjelasan:</strong></p><p>Mengenai jenis data pada excel ini bisa Anda pelajari lebih lanjut pada bagian berikut: Tipe Data Pada Microsoft Excel.</p><p></p><p>Yang perlu dicatat bahwa cara menggunakan rumus microsoft excel selalu diawali tanda sama dengan (=). Selain itu dalam sebuah rumus excel bisa melibatkan fungsi excel, referensi, konstanta dan umumnya juga melibatkan operator dasar pada microsoft excel.</p><p></p><p><strong>Semoga</strong><strong> </strong><strong>terban</strong><strong>tu</strong><strong>:</strong><strong>)</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="daerah-tempat-penulisan-rumus-excel-disebut-dengan-istilah">
+                            24. Daerah tempat penulisan rumus excel disebut dengan istilah .....</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Formula bar.... yang ada di insert / home</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-rumus-excel">
+                            25. sebutkan rumus excel</h2><br />
+                        Referensi=SUM(A16:A20)<br /><br />Konstanta=PRODUCT(A12,9.5%)<br /><br />Rumus=TEXT(VLOOKUP(MAX(A16,A20),A16:B20,2,FALSE),"d/mm/yyyy")<br /><br />TabelA22:B25<br />
+                                            <h2 class="ez-toc-section" id="rumus-menghitung-jumlah-dalam-microsoft-excel">
+                            26. rumus menghitung jumlah dalam microsoft  excel</h2><br />
+                        =sum(.. : ..)<br /><br />maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="macam-macam-rumus-menghitung-di-microsoft-excel">
+                            27. macam-macam rumus menghitung di microsoft excel??</h2><br />
+                        -average (rata)<br />- sumsum: menghitung jumlah data<br />count: menghitung banyak data<br />avg: menghitung rata-rata data<br />max: mencari nilai tertinggi <br />min: mencari nilai terendah<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="bagian-pada-ms-excel-yang-berfungsi-untuk-memasukkan-rumus-perhitungan-secara-otomatis-disebut">
+                            28. Bagian pada ms. excel yang berfungsi untuk memasukkan rumus / perhitungan secara otomatis disebut ..... </h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Formula bar</p><p><strong>Penjelasan:</strong></p><p>Bagian pada ms. excel yang berfungsi untuk memasukkan rumus / perhitungan secara otomatis disebut <strong>Formula bar.</strong></p><p>→ formula bar berfungsi untuk memasukkan, memperbaiki, dan juga dapat menampilkan data atau rumus pada sel yang sedang aktif. </p><p>untuk memperbaiki data atau rumus adalah dengan cara mengklik atau menekan tombol F2. </p><br />
+                                            <h2 class="ez-toc-section" id="rumus-yang-sudah-tersedia-di-program-excel-dan-didefinisikan-untuk-suatu-perhitungan-secara-otomatis-di-sebut-juga-%e2%80%8b">
+                            29. rumus yang sudah tersedia di program Excel dan didefinisikan untuk suatu perhitungan secara otomatis di sebut juga.......​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>function</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="rumus-menghitung-rata2-dalam-microsoft-excel-apa">
+                            30. Rumus menghitung rata2 dalam microsoft excel apa?</h2><br />
+                        rumus untuk menghitung rata rata adalah Average=averange (sel yg ingin di hitung rata² nya)<br /><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-rumus-rumus-pada-microsoft-excel">
+                            31. sebutkan rumus rumus pada microsoft excel</h2><br />
+                        Rumus Matematika seperti mean, jumlah, min, max. dan rumus logika seperti lulus dan tidak lulusnya<br />average , max, min, status lulus atau tidak lulus.<br /><br />
+                                            <h2 class="ez-toc-section" id="rumus-operasi-hitung-pada-excel-disebut">
+                            32. Rumus operasi hitung pada Excel disebut...</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Rumus perhitungan excel disebut juga formula. Formula pada microsoft excel dapat mempermudah dalam mengerjakan proses perhitungan dan pengolahan data di excel. Cara menggunakan rumus microsoft excel harus diawali dengan tanda sama dengan (=).</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-siap-pakai-dalam-microsoft-excel-untuk-menghitung-secara-otomatis-disebut">
+                            33. rumus siap pakai dalam Microsoft Excel untuk menghitung secara otomatis disebut</h2><br />
+                        namanya sama. Rumus Data Otomatis<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="rumus-menghitung-pajak-di-microsoft-excel">
+                            34. Rumus menghitung pajak di microsoft excel</h2><br />
+                        Untuk menghitung pajak gunakan fungsi HLOOKUP.<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-rumus-rumus-yang-ada-dalam-microsoft-excel%e2%80%8b">
+                            35. sebutkan rumus-rumus yang ada dalam Microsoft excel​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>=sum</p><p>=average</p><p>=max</p><p>=min</p><p>=vlookup</p><p>=hlookup</p><p>=stdev</p><p>=median</p><p>=mode</p><p>=sqrt</p><p>=fact</p><p>=if</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bagian-pada-ms-excel-yang-berfungsi-untuk-memasukkan-rumus-perhitungan-secara-otomatis-disebut">
+                            36. bagian pada ms. excel yang berfungsi untuk memasukkan rumus / perhitungan secara otomatis disebut</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Bagian pada ms. excel yang berfungsi untuk memasukkan rumus/perhitungan secara otomatis disebut <strong>f</strong><strong>o</strong><strong>r</strong><strong>m</strong><strong>u</strong><strong>l</strong><strong>a</strong><strong> </strong><strong>b</strong><strong>a</strong><strong>r</strong><strong>.</strong></p><p></p>Pembahasan<p>Ms. excel adalah singkatan dari microsoft excel. Microsoft excel merupakan salah satu program aplikasi yang memiliki fungsi penting dalam kehidupan sehari-hari, yakni untuk melakukan pengelolaan data berupa data. Atau bisa juga untuk menyediakan operasi perhitungan dalam bentuk spreadsheet. </p><p></p><p>Tampilan microsoft excel berbentuk kotak-kotak atau sekumpulan persegi yang dinamakan sebagai sell.</p><p></p><p><strong>B</strong><strong>a</strong><strong>g</strong><strong>i</strong><strong>a</strong><strong>n</strong><strong>-</strong><strong>b</strong><strong>a</strong><strong>g</strong><strong>i</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>m</strong><strong>i</strong><strong>c</strong><strong>r</strong><strong>o</strong><strong>s</strong><strong>o</strong><strong>f</strong><strong>t</strong><strong> </strong><strong>e</strong><strong>x</strong><strong>c</strong><strong>e</strong><strong>l</strong><strong> </strong><strong>:</strong></p>Status bar.Ribbon.Formula bar.Worksheet area.Tab menu.Size button.Quick Acces Toolbar.Name bar.Toolbar.Scrool bar.Tab sheet.<p></p>Pelajari lebih lanjutPengertian microsoft excel : https://brainly.co.id/tugas/10940116Bagian microsoft excel dan fungsinya : https://brainly.co.id/tugas/6404528Manfaat microsoft excel : https://brainly.co.id/tugas/6208960<p></p>Detail jawaban<p>Mapel : TI</p><p>Kelas : VIII SMP</p><p>Materi : Fungsi Menu dan Ikon pada Program Pengelolah Angka</p><p>Kode : 8.11.5</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-yang-sudah-disediakan-oleh-microsoft-excel-yang-akan-membantu-dalam-proses-perhitungan-disebut-%e2%80%8b">
+                            37. rumus yang sudah disediakan oleh Microsoft Excel yang akan membantu dalam proses perhitungan disebut......​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Rumus yang sudah disediakan oleh Microsoft Excel yang akan membantu dalam proses perhitungan disebut fungsi</p><p><strong>Penjelasan:</strong></p><p>Untuk menyisipkan fungsi di Ms. Excel, dapat dilakukan dengan mengklik sel yg ingin disisipkan fungsinya lalu klik tombol Insert Function.</p><p>Tombol Insert Function dapat ditemukan dan diklik di sebelah tampilan Formula bar.</p><p>Perhatikan gambar berikut ini (di bagian yg ditunjukkan tanda panah merah).</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-yang-sudah-tersedia-diprogram-excel-dan-didefinisikan-untuk-suatu-perhitungan-secara-otomatis-disebut-juga">
+                            38. Rumus yang sudah tersedia diprogram Excel dan didefinisikan untuk suatu perhitungan secara otomatis disebut juga.. .. </h2><br />
+                        disebut juga <strong>formula</strong><br /><br /># semoga membantu<br />Rumus yang sudah tersedia di program Excel dan didefinisikan untuk suatu perhitungan secara otomatis disebut juga Function (fungsi). <br /><br />Semoga membantu... <br />
+                                            <h2 class="ez-toc-section" id="sebutkan-rumus-rumus-ms-excel">
+                            39. sebutkan rumus rumus ms excel</h2><br />
+                        SUM. Rumus SUM difungsikan untuk menjumlahkan angka-angka.  IF. Rumus IF difungsikan untuk mengembalikan nilai, apabila ada pernyataan yang bernilai benar. LOOKUP. Fungsi LOOKUP adalah mencari nilai data pada suatu kolom atau row. VLOOKUP. MATCH.CHOOSE. DATE. DAYS.<p></p><p></p><p></p>semoga membantu ☺️<br />
+                                            <h2 class="ez-toc-section" id="bagian-pada-microsoft-excel-yang-berfungsi-untuk-memasukkan-rumusperhitungan-secara-otomatis-disebut">
+                            40. Bagian pada microsoft excel yang berfungsi untuk memasukkan rumus/perhitungan secara otomatis disebut</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Formula bar. </p><p><strong>Penjelasan:</strong></p><p>Formula bar adalah sebuah persegi panjang yang terletak dibagian atas dokumen Excel. Isi dari formula bar adalah input dari sel yang sedang kamu kerjakan. Input yang dimaksud adalah bisa berupa data ataupun formula.</p><p></p><p></p><p>Semoga membantu.</p><p><strong>SEMANGAT </strong><strong>BELAJAR </strong><strong>♡</strong></p><p><strong>Jawaban:</strong></p><p>formula bar</p><p><strong>Penjelasan:</strong></p><p>formula bar berfungsi untuk memasukkan rumus/perhitungan secara otomatis</p><p></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/kqgPD_BmDtA?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ti</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/firaun-hendak-mengurangi-jumlah-penduduk-ibrani-dengan-cara/">Firaun Hendak Mengurangi Jumlah Penduduk Ibrani Dengan Cara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebutkan-langkah-langkah-menulis-cerpen-berdasarkan-pengalaman/">Sebutkan Langkah Langkah Menulis Cerpen Berdasarkan Pengalaman</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/alat-yg-berfungsi-untuk-mengupas-kabel-adalah/">Alat Yg Berfungsi Untuk Mengupas Kabel Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kecepirit/">Kecepirit</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/27-c-berapa-k/">27 C Berapa K</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-manusia-harus-bertawakal/">Mengapa Manusia Harus Bertawakal</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jam-dibuat-jam-berapa/">Jam Dibuat Jam Berapa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gancaran/">Gancaran</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/komputer-dalam-keadaan-setengah-mati-disebut/">Komputer Dalam Keadaan Setengah Mati Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nilai-tan-15/">Nilai Tan 15</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/9-bulan-sama-dengan-berapa-minggu/">9 Bulan Sama Dengan Berapa Minggu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-pengertian-syaja-ah-menurut-bahasa-dan-istilah/">Jelaskan Pengertian Syaja Ah Menurut Bahasa Dan Istilah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hal-yang-tidak-boleh-dilakukan-saat-bermain-bola-basket-adalah/">Hal Yang Tidak Boleh Dilakukan Saat Bermain Bola Basket Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/arti-kunaon/">Arti Kunaon</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-saja-yang-harus-kamu-tuliskan-dalam-formulir/">Apa Saja Yang Harus Kamu Tuliskan Dalam Formulir</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kelebihan-bahan-plastik-sebagai-bahan-kerajinan-adalah/">Kelebihan Bahan Plastik Sebagai Bahan Kerajinan Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hidup-dan-dicintai-allah-swt-dan-rasul/">Hidup Dan Dicintai Allah Swt Dan Rasul</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perhatikan-gambar-berikut-daerah-yang-diarsir-disebut/">Perhatikan Gambar Berikut Daerah Yang Diarsir Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/partitur-adalah/">Partitur Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/molekul-senyawa/">Molekul Senyawa</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

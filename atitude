@@ -1,0 +1,1190 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Atitude - BELAJAR</title>
+    <meta name="description" content="Atitude, , , , , , , 0, Atitude - Conceito, e o que é, conceitos.com, 1538 x 1235, jpeg, , 20, atitude, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Atitude - BELAJAR" />
+    <meta property="og:description" content="Atitude, , , , , , , 0, Atitude - Conceito, e o que é, conceitos.com, 1538 x 1235, jpeg, , 20, atitude, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Atitude - BELAJAR" />
+    <meta name="twitter:description" content="Atitude, , , , , , , 0, Atitude - Conceito, e o que é, conceitos.com, 1538 x 1235, jpeg, , 20, atitude, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Atitude</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">aida39</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Atitude" alt="Atitude">
+                    </div>
+                    <p></p>
+                    <p>apa maksud dari atitude</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-maksud-dari-atitude">1.
+                                            apa maksud dari atitude</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-atitude-sangat-berpengaruh-dengan-seorang-pemimpin%e2%80%8b">2.
+                                            Apakah atitude sangat berpengaruh dengan seorang pemimpin?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-pengertian%c2%a0atitude">3.
+                                            apa itu pengertian atitude</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-masing-3-kalimat-skill-creation-talent-atitude-achievement-best-creativity-dan-perfomancepleasee-bantuu">4.
+                                            Buatlah masing" 3 kalimat Skill, creation, talent, atitude, achievement, Best, creativity, dan perfomancePleasee bantuu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-you-should-change-your-atitude-%e2%80%8b">5.
+                                            arti you should change your atitude? ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#make-good-dialogues-expressing-feeling-and-atitude-agung-meets-hermin-in-a-school-canteen-they-have-a-short-conversation-agung-tell-hermin-that-police-stopped-him-yesterday-at-first-he-was-very">6.
+                                            Make good dialogues expressing feeling and atitude 
+agung meets Hermin in a school canteen . They have a short conversation . Agung tell hermin that police stopped him yesterday. At first, he was very nervous because he doesn't have a driving license . In fact , the police distributed brosures</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#can-you-mention-some-atitude-problems%e2%80%8b">7.
+                                            can you mention some atitude problems?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nura-moves-into-junas-house-as-a-hired-servant-juna-is-a-rich-and-proud-young-man-who-inherits-his-fathers-business-however-he-is-lazy-and-ignorant%c2%a0%c2%a0%c2%a0%c2%a0-in-his-chaotic-life-ju">8.
+                                            Nura moves into Juna's house as a hired servant. Juna is a rich and proud young man who inherits his father's business. However, he is lazy and ignorant     In his chaotic life, Juna is betrayed by his owb cousin and uncle, leading to his downfall. Juna's life is in a real mess. Fortunately, Nura begins to teach Juna some manners through her down to earth scolding and no-nonsense atitude. Finally, after a long struggle anf hard work, he cab get the company back"Congratulations! You deserved it, man"."Thanks a lot, man. This id because you're always with me"."Juna responds cheerfully     "I'm very happy for you, Juna"," another friend says "That wonderful, Juna"." Good for you!" " Well done." "You're doing great!" " We are so proud of you"     Juna responds to them joyfully." Oh, thanks" " Thank you very much for saying so" " Oh, I have a lot to learn, yet" " I am glad you think so"     His staff also congratulate him" I'd like to congratulate you on your accomplishment,sir" " I mush congratulate you on your success, sir" Again, he replies contentedly." It's very nice of you to say so" "How nice of you" " Thank you very much for saying so"     Nura observes thus event from the backdoor. She cries happily for her master who has changed into a mature, stable young man1. What's Juna's bad characteristic?2. What leads Juna's life to his downfall?3. What does Nura do to help Juna?4. Who first congratulates Juna when he regains success? What does he say?5. How do Juna's emplayees congratulate Juna?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-atitude-anak-zaman-sekarang-kok-jelek-serius-nanya%e2%80%8b">9.
+                                            Mengapa Atitude Anak Zaman Sekarang Kok Jelek? *Serius Nanya!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-garis-atitude">10.
+                                            apa yang dimaksud dengan garis atitude?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#activityen-and-repeat-ctice-the-following-dialogs-with-your-friend-og-1a-hi-sofia-you-are-sitting-here-all-alone-why-dont-you-stay-with-those-girls1-hi-yan-in-my-opinion-it-doesnt-make-any">11.
+                                            Activityen and repeat.ctice the following dialogs with your friend.og 1a : Hi, Sofia. You are sitting here all alone. Why don't you stay with those girls?1: Hi, Yan. In my opinion, it doesn't make any sense if we sit together, but we are busy with our cellphones. So, I'm sitting here memorizing vocabulary than playing with my phone. It's muchbeneficial.1: You're right. Several people believe that a smartphone may keep people away.That's the reason I don't open my phone before the class starts, I prefer chatting with friends toplaying with my phones.: So do I. I'd like to point out that I'm here not only to study but also to develop my socialrelationship. I want to have lots of friends byjoining this course. By the way, why don't you Atitudeask them to stop playing with their phones?Sorry, that's none of my business. I shouldn't A coll phone is a means of communication. Don't let itmanipulate us!bother them.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-seorang-kasir-harus-memiliki-atitude-yang-baik%e2%80%8b">12.
+                                            mengapa seorang kasir harus memiliki atitude yang baik​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-mengapa-area-kasir-harus-selalu-bersih2-mengapa-seorang-kasih-harus-memiliki-atitude-yang-baik3-apa-yang-harus-dilakukan-seorang-kasir-setelah-menyelesaikan-tugasnya-melayani-pembayaran-konsumen4-m">13.
+                                            1.mengapa area kasir harus selalu bersih2.mengapa seorang kasih harus memiliki atitude yang baik3.apa yang harus dilakukan seorang kasir  setelah menyelesaikan tugasnya melayani pembayaran konsumen4.mengapa seorang kasir harus teliti​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-konsep-pelayanan-prima-atitudeability-dan-attention%e2%80%8b">14.
+                                            Tuliskan konsep pelayanan prima Atitude,Ability dan Attention?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-memberikan-pelayanan-kepada-calon-pembeli-kita-harus-melaksanakan-konsep-a3-atitude-attention-dan-action-jelaskan">15.
+                                            Dalam memberikan pelayanan kepada calon pembeli kita harus melaksanakan konsep a3 (atitude, attention dan action) jelaskan!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#wordc-clumod-well-behavedfor-question-no-16-20correct-answer-to-completi-have-a-16-its17-a-white-fur-and-manon-its-fur-it-has-long-earsit-has-cute-big-eyes-it-18vegetables-i-put-it-on">16.
+                                            word?c. Clumod. Well-behavedFor question no. 16-20correct answer to completI have a (16) .... Its(17) a white fur and manon its fur. It has long earsIt has cute big eyes. It (18vegetables. I put it on a caText for no. 11-15My best friend is Lusi. She lives nearto my house. Her father is a lecturer and hermother is a dentist.Lusi and I are in the same class. Sheis smart. She helps me to understand thelessons. She is hardworking person. Shealways does her homework well. She has agood atitude. She is polite and friendly. Manyteachers like her. Lusi is two centimetersshorter than me. She has pointed nose, along black hair and brown eyes. She has abeautiful smile. On Thursday, she goes topiano lesson at one to three o'clock. Sheplays piano well11. Who is Lusi?Winter's lectureb. Winter's teacherc. Writer's dentistd Writer's classmate12. Where does Lusis mother work?a Hospital c. Bankb. Officed. Lecturer13. How long does Lusi get a piano lesson?a 1 hour3 hoursb. 2 hoursd. 4 hoursmoming. Sometimes, I (2cage. It likes to jumo ereloveable. I am hapoy to hab. rabbit17. a. hadhaveb. plays19. a neverb. sometimes20. a. throwb. pull out   c take in  d knock​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#questions1-what-is-the-relation-betwe2-what-is-aurelia-going-to3-what-will-kirana-do-after4-what-is-aurelia-and-kiran5-where-will-aurelia-wait-fecompetence-attainmentatitude-knowledgeelsapinpanp">17.
+                                            Questions:1. What is the relation betwe2. What is Aurelia going to3. What will Kirana do after4. What is Aurelia and Kiran5. Where will Aurelia wait feCompetence AttainmentAtitude KnowledgeElsapinpanplumplantplanareascenarybeachwinterveathervonderfuleautifulblourfulelpfullopefultsd. greetidee. meeteatd. livingepe. helpingone is expression of intention?w about your hometown.going to do gardening with myer tomorrow morning.studying now.Sandrina.* that's all.it is your planning tomorrow?8. "Lintended to..." is the expression of ....a. asking for agreementb. stating intentionc. stating a truthd. asking for opinione. giving opinionDialogue for number 9 and 10!Filma : Hi Elsa!Elsa: Hi Filma!Filma : Do you already have any plan for thisholiday?: Not really. How about you?Filma : I am planning to spend my holidayat my hometown.Elsa: Your hometown? Where is it?Filma : Klaten. I missed my hometown somuch. It has been a year since the lasttime I visited my hometown.9. What is Filma planning for her holiday?a. She is planning to visit a bookstore inher city.b. She is planning to visit her friends.c. She is planning to stay at home.d. She is planning to spend her holiday ather hometowne. She is planning to spend her holiday atSira's hometown10. The bold utterance is the expression of ....a. asking for agreementb. stating intentionC. stating a truthd. asking for opinione giving opinionRemedialRead the dialogue beBrian : What are youTio Nothing. I amBrian : Have you heTio Yes, I have.Brian : Don't you vTio :1 intendedBrian : He really saTio Yes, he didBrian : Maybe heTio · Yes I knowQuestions:1. How many peWhat is Tindne is the appropriate answer forue?diction​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#activity-ann-1000-atitude-scan-the-or-code-listen-to-the-dialogs-complete-the-dialogis-based-on-what-you-have-heard-dialog-1-kinar-arya-please-1-i-have-good-news-for-us-arya-whats-that-kinar-o">18.
+                                            Activity ann 1000 Atitude Scan the OR code. Listen to the dialogs Complete the dialogis based on what you have heard Dialog 1 Kinar: Arya, please (1) I have good news for us Arya What's that? Kinar: Our band is invited to (2) band at a virtual charity concert. as an opening Arya : Wow, that's (3) When? Kinar: Next Sunday at 10 AM. Let me share the (49 in our group chat. Get one's attention et mention Arya : Yup! We should (5) for it well or when they are Kinar: Of course. Dialog 2 Security (1) I must check your temperature before entering the bookstore Tart Yes, please Security Youomr temperature is (2) degrees Celcius. Now, I will (3) with hand sanitizer. Tart I am sorry. My hands are (4) I prefer washing my hands with soap. Security Sure. It's over there (5) Security Don't mention it your hands Attention Post​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#11-mr-riski-because-of-my-atitude-a-happy-b-angry-c-hungry-d-thirsty-12-anis-how-do-you-feel-tikai-feel-i-need-a-glass-of-water-drink-a-thirsty-b-tired-c-hungry-d-surprise1">19.
+                                            11.Mr.Riski.......because of my atitude    A.happy b.angry c.hungry d.thirsty 12.Anis: How do you feel?     Tika:I feel             I need a glass of water drink a.thirsty b.tired c.hungry d.surprise13.He feels ...... she gets the best mark for math test      A.sad b.happy.c.worry d.tired14.Tiara did not study last night.     She feels ...... doing the test today A.happy b.worry c.surprise d.hungry15.Feels-dissapointed-father-my a. My father fels dissapointedb. felss disappointed my father c.my father disappointed feelsd.father feels my disappointed ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jawablah-pertanyaan-di-bawah-ini-1-mengapa-seorang-kasir-harus-memiliki-atitude-yang-baik2-mengapa-area-kasir-harus-selalu-bersih-%e2%80%8b">20.
+                                            jawablah pertanyaan di bawah ini 1.mengapa seorang kasir harus memiliki atitude yang baik2.mengapa area kasir harus selalu bersih ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#istilah-penegak-hukum-di-indonesia-sering-disebuta-law-atitudeb-law-quaintancec-law-enforcementd-equality-before-the-law">21.
+                                            Istilah penegak hukum di indonesia sering disebut
+a.law atitude
+b.law quaintance
+c.law enforcement
+d.equality before the law</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#what-is-atitude-expressions">22.
+                                            What is atitude expressions?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#make-a-short-dialog-expression-of-love-and-atitude">23.
+                                            make a short dialog expression of love and atitude</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#quiz-45%c2%b2-7%c2%b3-335%c2%b2-22%c2%b2note-sekolah-go-internasional-atitude-murid-ga-di-jaga-masa-iya-sih-tiap-guru-ultah-harus-kasih-hadiah-1-orang-1-hadiah-terus-guru-jajan-di-kanti">24.
+                                            Quiz #45² + 7³ 335² - 22²Note : Sekolah Go INTERNASIONAL atitude murid ga di jaga ,, Masa iya sih tiap guru ultah harus kasih hadiah,, 1 orang 1 hadiah ,, terus guru jajan di kantin murid yg bayarin , MURID BOLEH NGATAIN GURU ,, TAPI GURU GABOLEH MARAHIN MURID NYA ?? ,, Sekolah yg keren ya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-hubungan-antara-berkomunikasi-dan-atitude%e2%80%8b">25.
+                                            apa hubungan antara berkomunikasi dan atitude​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#l-can-fic-my-atitude%e2%80%8b">26.
+                                            l can fic my atitude​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1canyou-mention-some-atitude-problems2-what-kind-of-personality-is-difficult-to-handie-3-what-kind-of-caption-is-it-4-make-some-quotes-about-hatures-explain-your-quotes-to-your-friends6compare-you">27.
+                                            1can?you mention some atitude problems?2 what kind of personality is difficult to handie ?3 what kind of caption is it ?4 make some quotes about hatureS Explain your quotes to your friends6compare your Quotes and the cavote in the caption​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-yousinga-songwith-megive-permission2-i-sing-you-a-song-ask-permission3-andrea-changeher-atitudeto-be-more-respectedstrong-recommendation4-the-groupkeep-studyingto-win-the-school-t">28.
+                                            1. you/sing/a song/with me(give (permission)2.I /sing /you /a song (ask permission)3.andrea/ change/her atitude/to be more respected(strong recommendation)4.the group/keep studying/to win the school trip to England(strong recommendation)​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="apa-maksud-dari-atitude">
+                            1. apa maksud dari atitude</h2><br />
+                        Sikap sesorang.<br /><br />#SemogaMembantuAttitude adalah sikap atau tingkah laku seseorang dalam berinteraksi ataupun berkomunikasi dengan sesama manusia.<br />
+                                            <h2 class="ez-toc-section" id="apakah-atitude-sangat-berpengaruh-dengan-seorang-pemimpin%e2%80%8b">
+                            2. Apakah atitude sangat berpengaruh dengan seorang pemimpin?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>sikap yang di lakukan oleh pemimpin sangat berpengaruh dengan organisasi yang di ikuti. karena pemimpin adalah individu yang di tuntut untuk memberi penjelasan agenda untuk melaksanakan tujuan yang ingin di capai oleh sebuah organisasi</p><p><strong>Jawaban:</strong></p><p>Karena kualitas kepemimpinan seseorang sangat ditentukan oleh caranya bersikap atau memberikan respons terhadap apa yang berlangsung disekitarnya</p><p><strong>Penjelasan:</strong></p><p>Attitude atau sikap didefinisikan sebagai kecenderungan untuk berbuat atau mengantisipasi sesuatu</p><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-pengertian%c2%a0atitude">
+                            3. apa itu pengertian atitude</h2><br />
+                        mungkin maksud Anda adalah "attitude". attitude artinya : <strong>sikap, pendirian, letak</strong>. arti dari sebuah kata tergantung posisinya dalam kalimat.<br />contoh :<br />- She strucks  an attitude of utter disbelief = Ia mengambil sikap tidak percaya sama sekali.<br />- The attitude of the space ship was changed = Letak kapal ruang angkasa itu sudah berubah.<br /><strong>Terimakasih</strong>Atitude adalah sikap/tingkah laku dalam berinteraksi sesama manusia<br />
+                                            <h2 class="ez-toc-section" id="buatlah-masing-3-kalimat-skill-creation-talent-atitude-achievement-best-creativity-dan-perfomancepleasee-bantuu">
+                            4. Buatlah masing" 3 kalimat Skill, creation, talent, atitude, achievement, Best, creativity, dan perfomancePleasee bantuu</h2><br />
+                        I have a skill master in automotive engineering<br />Please make a creation for your talent !<br />Attitude is number one of my self<br />Yes, I have achievement<br />Your the best teacher Mrs.andien<br />Explore your creativity,good luck guys<br />thanks God,for succes perfomance tonight ,kurang lebih mohon maafThat was an impressive performance
+You have a very good skill
+As a student, you need to have a good attitude. She has a talent in singing.
+we have to do our best in our test.
+I want to make a good performance.
+Sekian, semoga bermanfaat.. wkwkw<br />
+                                            <h2 class="ez-toc-section" id="arti-you-should-change-your-atitude-%e2%80%8b">
+                            5. arti you should change your atitude? ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>kamu harus merubah atitude mu. </p><p><strong>Jawaban:</strong></p><p>anda harus mengubah sikap anda</p><p></p><p><strong>Penjelasan:</strong></p><p>semoga membantu tolong jawabanku jawaban tercedas nanti aku follow janji</p><br />
+                                            <h2 class="ez-toc-section" id="make-good-dialogues-expressing-feeling-and-atitude-agung-meets-hermin-in-a-school-canteen-they-have-a-short-conversation-agung-tell-hermin-that-police-stopped-him-yesterday-at-first-he-was-very">
+                            6. Make good dialogues expressing feeling and atitude 
+agung meets Hermin in a school canteen . They have a short conversation . Agung tell hermin that police stopped him yesterday. At first, he was very nervous because he doesn't have a driving license . In fact , the police distributed brosures</h2><br />
+                        H: hi, bro!<br />A: hi! Oh, I'd like to tell you something.<br />H: what?<br />A: I'm very nervous when I met someone last noon.<br />H: who? A pretty girl?<br />A: no, you are wrong! Haha<br />H: then?<br />A: a police.<br />H: what? <br />A: ssstt, its very funny. Haha. At the first, I think that police will check my drive lisence. As you know, I don't have that. So, I'm nervous. Haha<br />H: then what happen with you and the police?<br />A: actually, that police not check my lisence. But he just gave me brochures.<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="can-you-mention-some-atitude-problems%e2%80%8b">
+                            7. can you mention some atitude problems?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> -what kind of personality is difficult to handle?</p><p>- what kind of caption is it?</p><p></p><p></p><p>maaf klo salah,,smoga bermanfaat</p><br />
+                                            <h2 class="ez-toc-section" id="nura-moves-into-junas-house-as-a-hired-servant-juna-is-a-rich-and-proud-young-man-who-inherits-his-fathers-business-however-he-is-lazy-and-ignorant%c2%a0%c2%a0%c2%a0%c2%a0-in-his-chaotic-life-ju">
+                            8. Nura moves into Juna's house as a hired servant. Juna is a rich and proud young man who inherits his father's business. However, he is lazy and ignorant     In his chaotic life, Juna is betrayed by his owb cousin and uncle, leading to his downfall. Juna's life is in a real mess. Fortunately, Nura begins to teach Juna some manners through her down to earth scolding and no-nonsense atitude. Finally, after a long struggle anf hard work, he cab get the company back"Congratulations! You deserved it, man"."Thanks a lot, man. This id because you're always with me"."Juna responds cheerfully     "I'm very happy for you, Juna"," another friend says "That wonderful, Juna"." Good for you!" " Well done." "You're doing great!" " We are so proud of you"     Juna responds to them joyfully." Oh, thanks" " Thank you very much for saying so" " Oh, I have a lot to learn, yet" " I am glad you think so"     His staff also congratulate him" I'd like to congratulate you on your accomplishment,sir" " I mush congratulate you on your success, sir" Again, he replies contentedly." It's very nice of you to say so" "How nice of you" " Thank you very much for saying so"     Nura observes thus event from the backdoor. She cries happily for her master who has changed into a mature, stable young man1. What's Juna's bad characteristic?2. What leads Juna's life to his downfall?3. What does Nura do to help Juna?4. Who first congratulates Juna when he regains success? What does he say?5. How do Juna's emplayees congratulate Juna?</h2><br />
+                        1. He is lazy and ignorant<br />2. In his chaotic life,  juna is betrayed by his own cousin and uncle. <br />3. Nura begins to teach juna some manners through her down to earth scolding and no-nonsense atitude. <br />4. Nura.  "Congratulations!  You deserved it, man" "thanks a lot man,  this id because you're always with me. <br />5. "Iam very happy for you juna" "that wonderful juna" "you'rr doing great" "we are so proud of you". <br />Maaf kalo salah,  smoga membantu^^<br />
+                                            <h2 class="ez-toc-section" id="mengapa-atitude-anak-zaman-sekarang-kok-jelek-serius-nanya%e2%80%8b">
+                            9. Mengapa Atitude Anak Zaman Sekarang Kok Jelek? *Serius Nanya!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>mungkin akibat dari pergaulan dengan teman yang kurang baik atau anak itu memiliki masalah pribadi seperti broken home. </p><p><strong>Penjelasan:</strong></p><p>Mohon maaf jika jawabannya salah. </p><p><strong>Jawaban:</strong></p><p>di karena kurangnya orang tua mendidik anaknya untuk memiliki prilaku sopan santun</p><p><strong>Penjelasan:</strong></p><p>maap jika jawan saya kurang mengenakan hati sanpean(kalian)</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-garis-atitude">
+                            10. apa yang dimaksud dengan garis atitude?</h2><br />
+                        altitude :  merupakan letak tinggi rendahnya suatu daratan di ukur dari permukaan laut<br /><br />maaf kalo saya salah<br /><br />
+                                            <h2 class="ez-toc-section" id="activityen-and-repeat-ctice-the-following-dialogs-with-your-friend-og-1a-hi-sofia-you-are-sitting-here-all-alone-why-dont-you-stay-with-those-girls1-hi-yan-in-my-opinion-it-doesnt-make-any">
+                            11. Activityen and repeat.ctice the following dialogs with your friend.og 1a : Hi, Sofia. You are sitting here all alone. Why don't you stay with those girls?1: Hi, Yan. In my opinion, it doesn't make any sense if we sit together, but we are busy with our cellphones. So, I'm sitting here memorizing vocabulary than playing with my phone. It's muchbeneficial.1: You're right. Several people believe that a smartphone may keep people away.That's the reason I don't open my phone before the class starts, I prefer chatting with friends toplaying with my phones.: So do I. I'd like to point out that I'm here not only to study but also to develop my socialrelationship. I want to have lots of friends byjoining this course. By the way, why don't you Atitudeask them to stop playing with their phones?Sorry, that's none of my business. I shouldn't A coll phone is a means of communication. Don't let itmanipulate us!bother them.​</h2><br />
+                        <p>Jawaban:</p><p>Qué aique hacer ahí.</p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="mengapa-seorang-kasir-harus-memiliki-atitude-yang-baik%e2%80%8b">
+                            12. mengapa seorang kasir harus memiliki atitude yang baik​</h2><br />
+                        <p>Ada beberapa alasan mengapa seorang kasir harus memiliki sikap dan perilaku yang baik:</p>Menjaga kepercayaan pelanggan: Kasir yang memiliki atitude yang baik akan membuat pelanggan merasa nyaman dan mempercayai bisnis. Ini dapat membantu menjaga kelanggengan hubungan pelanggan dan memastikan mereka kembali lagi.Menjaga citra perusahaan: Sikap dan perilaku kasir yang buruk dapat mempengaruhi citra perusahaan dan membuat pelanggan merasa ragu untuk kembali.Meningkatkan produktivitas: Kasir yang memiliki sikap dan perilaku yang baik akan lebih produktif dan efisien dalam melakukan tugas mereka, sehingga dapat membantu mempercepat proses transaksi.Meningkatkan moral pekerja: Kasir yang memiliki sikap dan perilaku yang baik akan membuat lingkungan kerja lebih positif dan meningkatkan moral pekerja lainnya.Menjaga reputasi perusahaan: Reputasi perusahaan dapat sangat dipengaruhi oleh perilaku kasir. Kasir yang memiliki atitude yang baik akan memastikan bahwa perusahaan mempertahankan reputasi yang baik.<p>Dengan demikian, seorang kasir yang memiliki atitude yang baik sangat penting bagi keberlangsungan bisnis dan membantu membangun hubungan yang positif dengan pelanggan</p><br />
+                                            <h2 class="ez-toc-section" id="1-mengapa-area-kasir-harus-selalu-bersih2-mengapa-seorang-kasih-harus-memiliki-atitude-yang-baik3-apa-yang-harus-dilakukan-seorang-kasir-setelah-menyelesaikan-tugasnya-melayani-pembayaran-konsumen4-m">
+                            13. 1.mengapa area kasir harus selalu bersih2.mengapa seorang kasih harus memiliki atitude yang baik3.apa yang harus dilakukan seorang kasir  setelah menyelesaikan tugasnya melayani pembayaran konsumen4.mengapa seorang kasir harus teliti​</h2><br />
+                        <p>Jawaban: karena kasir merupakan garda trdepan juga dalam hal pelayanan, itu yang dinilai oleh konsumen, jika kasir sudah melayani konsumen maka menunggu konsumen lainnya.</p><p>﻿kasir dituntut untuk teliti karena agar tidak terjadi selisih harga dan uang,</p><p></p><p></p><p>Penjelasan:</p><p></p><p><strong>Jawaban:</strong></p><p>l. karena kalok tidak bersi bayank kuman nya </p><p>2.karena kalok tidak baik yah jahat</p><p>3.karena kalok ngega di layani yah di pecat</p><p>4.kalok ngega nati di pecat</p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-konsep-pelayanan-prima-atitudeability-dan-attention%e2%80%8b">
+                            14. Tuliskan konsep pelayanan prima Atitude,Ability dan Attention?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>KONSEP DASAR PELAYANAN PRIMA</p><p><strong>Penjelasan:</strong></p><p>KONSEP DASAR PELAYANAN PRIMA</p><p></p><p>Berikut adalah konsep dasar dari Pelayanan Prima atau prinsip-prinsip Pelayanan Prima, yaitu :</p><p></p><p># 1 : Attitude (Sikap)</p><p></p><p>Potret perusahaan, diawali dari kesan yang ditorehkan oleh karyawan perusahaan tersebut, terutama mereka yang berdiri di frontliner atau siapapun yang bersentuhan dengan pihak luar perusahaan, baik langsung maupun tidak langsung, (ini yang diluar bagian pemasaran).</p><p> </p><p>Bagaimana sikap dan pelayanan dari karyawan perusahaan, akan menggambarkan dan memberi citra perusahaan, baik itu langsung maupun tidak langsung.</p><p></p><p>Setiap karyawan suatu perusahaan seharusnya memiliki sikap yang ramah penuh simpatik dan menjunjung tinggi profesionalisme pekerjaannya serta memiliki rasa memiliki yang tinggi terhadap perusahaan.</p><p></p><p>Itulah prinsip pelayanan prima yang pertama, memiliki, menjaga dan meningkatkan sikap yang ramah, simpatik dan profesional.</p><p></p><p></p><p></p><p># 2 : Ability (Kemampuan)</p><p></p><p>Di sini karyawan harus memiliki kemampuan dasar untuk mampu melakukan program pelayanan prima, seperti :</p><p></p><p>Bagaimana melakukan komunikasi yang efektif?</p><p></p><p>..Memiliki pengetahuan di bidang kerja saat ini dengan baik.</p><p>..Memahami SOP dasar untuk menangani keluhan pelanggan.</p><p>..Memahami hal apa saja yang boleh di infokan keluar dan hal apa saja yang tidak boleh.</p><p>..Memiliki kemampuan untuk memotivasi dirinya agar senantiasa memberikan pelayanan prima, dengan tidak mencampur adukan dengan permasalahan pribadi.</p><p></p><p>Ability atau kemampuan merupakan prinsip kedua dalam pelayanan prima yang senantiasa harus selalu ditingkatkan.</p><p></p><p></p><p></p><p># 3 : Attention (Perhatian)</p><p></p><p>Attention atau atensi atau perhatian adalah prinsip pelayanan prima berikutnya yang wajib dimiliki semua karyawan, terutama mereka yang bersentuhan langsung dengan pelanggan.</p><p></p><p>Attention merupakan bentuk kepedulian kepada pelanggan / tamu, yang berkaitan dengan kebutuhan dan keinginan pelanggan, serta pemahaman atas saran dan kritik yang diberikan.</p><p></p><p>Dalam melakukan aktivitasnya, seorang karyawan haruslah senantiasa memperhatikan dan mendahulukan keinginan pelanggan, termasuk di dalamnya tamu perusahaan tersebut.</p><p></p><p>Apalagi jika pelanggan / tamu tersebut sudah menunjukan tanda membutuhkan bantuan atau pelayanan, maka seharusnya karyawan tersebut bergegas atau menunjukan atensi untuk segera melayani dengan cepat dan baik.</p><p></p><p>Dan akan lebih baik lagi jika begitu ada pelanggan atau tamu, karyawan tersebut melakukan hal-hal sebagai berikut :</p><p></p><p>..Menyapa dengan mengucapkan salam pembuka dengan sopan dan ramah, wajah harus tampak tersenyum, bukan bibir senyum tapi wajah tidak menunjukkan senyum keramahan.</p><p>..Menanyakan keperluan dan keinginan pelanggan / tamu dengan bahasa yang sopan.</p><p>..Mendengarkan dan memahami semua yang disampaikan pelanggan / tamu dengan penuh pengertian dan emphaty.</p><p>..Mempersilahkan pelanggan / tamu untuk menunggu ditempat yang disediakan dengan sopan.</p><p>..Dengan cepat melayani keperluan dan keinginan pelanggan / tamu tersebut, tetap dalam sikap yang ramah.</p><p>..Dahulukan apa yang menjadi keperluan atau keinginan pelanggan / tamu tersebut.</p><p>..Jika memang ada yang harus dikerjakan terlebih dahulu (bersifat urgent) atau sedang mengerjakan sesuatu, yang bisa di jeda (misal urusan internal), sampaikan dengan sopan sembari meminta maaf dan dan sampaikan akan segera melayani.</p><p>..Jika sedang ada urusan dengan pihak lain yang tidak memungkinkan untuk di jeda, persilahkan untuk menunggu yang diberikan dalam bentuk isyarat anggukan dan tangan yang mempersilahkan, sambil membuat kontak mata dan senyum sebagai tanda atensi kita.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dalam-memberikan-pelayanan-kepada-calon-pembeli-kita-harus-melaksanakan-konsep-a3-atitude-attention-dan-action-jelaskan">
+                            15. Dalam memberikan pelayanan kepada calon pembeli kita harus melaksanakan konsep a3 (atitude, attention dan action) jelaskan!</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>memakai masker   biyar  gk kenak  purus</p><br />
+                                            <h2 class="ez-toc-section" id="wordc-clumod-well-behavedfor-question-no-16-20correct-answer-to-completi-have-a-16-its17-a-white-fur-and-manon-its-fur-it-has-long-earsit-has-cute-big-eyes-it-18vegetables-i-put-it-on">
+                            16. word?c. Clumod. Well-behavedFor question no. 16-20correct answer to completI have a (16) .... Its(17) a white fur and manon its fur. It has long earsIt has cute big eyes. It (18vegetables. I put it on a caText for no. 11-15My best friend is Lusi. She lives nearto my house. Her father is a lecturer and hermother is a dentist.Lusi and I are in the same class. Sheis smart. She helps me to understand thelessons. She is hardworking person. Shealways does her homework well. She has agood atitude. She is polite and friendly. Manyteachers like her. Lusi is two centimetersshorter than me. She has pointed nose, along black hair and brown eyes. She has abeautiful smile. On Thursday, she goes topiano lesson at one to three o'clock. Sheplays piano well11. Who is Lusi?Winter's lectureb. Winter's teacherc. Writer's dentistd Writer's classmate12. Where does Lusis mother work?a Hospital c. Bankb. Officed. Lecturer13. How long does Lusi get a piano lesson?a 1 hour3 hoursb. 2 hoursd. 4 hoursmoming. Sometimes, I (2cage. It likes to jumo ereloveable. I am hapoy to hab. rabbit17. a. hadhaveb. plays19. a neverb. sometimes20. a. throwb. pull out   c take in  d knock​</h2><br />
+                        <p>16. pet</p><p>17.rabbit</p><p>18.eat</p><p></p><p>11. D . lusy classmate</p><p>12. A. hospital</p><p>13. B. two hours</p><p>14.</p><br />
+                                            <h2 class="ez-toc-section" id="questions1-what-is-the-relation-betwe2-what-is-aurelia-going-to3-what-will-kirana-do-after4-what-is-aurelia-and-kiran5-where-will-aurelia-wait-fecompetence-attainmentatitude-knowledgeelsapinpanp">
+                            17. Questions:1. What is the relation betwe2. What is Aurelia going to3. What will Kirana do after4. What is Aurelia and Kiran5. Where will Aurelia wait feCompetence AttainmentAtitude KnowledgeElsapinpanplumplantplanareascenarybeachwinterveathervonderfuleautifulblourfulelpfullopefultsd. greetidee. meeteatd. livingepe. helpingone is expression of intention?w about your hometown.going to do gardening with myer tomorrow morning.studying now.Sandrina.* that's all.it is your planning tomorrow?8. "Lintended to..." is the expression of ....a. asking for agreementb. stating intentionc. stating a truthd. asking for opinione. giving opinionDialogue for number 9 and 10!Filma : Hi Elsa!Elsa: Hi Filma!Filma : Do you already have any plan for thisholiday?: Not really. How about you?Filma : I am planning to spend my holidayat my hometown.Elsa: Your hometown? Where is it?Filma : Klaten. I missed my hometown somuch. It has been a year since the lasttime I visited my hometown.9. What is Filma planning for her holiday?a. She is planning to visit a bookstore inher city.b. She is planning to visit her friends.c. She is planning to stay at home.d. She is planning to spend her holiday ather hometowne. She is planning to spend her holiday atSira's hometown10. The bold utterance is the expression of ....a. asking for agreementb. stating intentionC. stating a truthd. asking for opinione giving opinionRemedialRead the dialogue beBrian : What are youTio Nothing. I amBrian : Have you heTio Yes, I have.Brian : Don't you vTio :1 intendedBrian : He really saTio Yes, he didBrian : Maybe heTio · Yes I knowQuestions:1. How many peWhat is Tindne is the appropriate answer forue?diction​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pertanyaan:</p><p>1. Apa hubungan antara</p><p>2. Apa tujuan Aurelia</p><p>3. Apa yang akan dilakukan Kirana setelahnya</p><p>4. Apakah Aurelia dan Kiran itu</p><p>5. Dimana Aurelia akan menunggu fe</p><p>Pencapaian Kompetensi</p><p>Pengetahuan Atitude</p><p>Elsa</p><p>pin</p><p>panci</p><p>prem</p><p>menanam</p><p>rencana</p><p>daerah</p><p>pemandangan</p><p>pantai</p><p>musim dingin</p><p>veather</p><p>penuh hormat</p><p>cantik</p><p>sedih</p><p>elpfull</p><p>opeful</p><p>ts</p><p>d. menyambut</p><p>ide</p><p>e. memenuhi</p><p>makan</p><p>d. hidup</p><p>ep</p><p>e. Tolong</p><p>ing</p><p>satu adalah ekspresi niat?</p><p>w tentang kampung halamanmu.</p><p>akan berkebun dengan saya</p><p>eh besok pagi.</p><p>belajar sekarang.</p><p>Sandrina.</p><p>* itu saja.</p><p>apakah itu rencanamu besok?</p><p>8. "Lintended to ..." adalah ekspresi dari ....</p><p>Sebuah. meminta persetujuan</p><p>b. menyatakan niat</p><p>c. menyatakan kebenaran</p><p>d. meminta pendapat</p><p>e. memberi pendapat</p><p>Dialog untuk nomor 9 dan 10!</p><p>Filma: Hai Elsa!</p><p>Elsa</p><p>: Hai Filma!</p><p>Filma: Apakah Anda sudah punya rencana untuk ini</p><p>liburan?</p><p>: Tidak juga. Bagaimana dengan kamu?</p><p>Filma: Saya berencana menghabiskan liburan saya</p><p>di kampung halaman saya.</p><p>Elsa</p><p>: Kampung halaman Anda? Dimana itu?</p><p>Filma: Klaten. Saya sangat merindukan kampung halaman saya</p><p>banyak. Sudah setahun sejak terakhir</p><p>kali saya mengunjungi kampung halaman saya.</p><p>9. Apa yang Filma rencanakan untuk liburannya?</p><p>Sebuah. Dia berencana mengunjungi toko buku di</p><p>kotanya.</p><p>b. Dia berencana mengunjungi teman-temannya.</p><p>c. Dia berencana untuk tinggal di rumah.</p><p>d. Dia berencana untuk menghabiskan liburannya di</p><p>kampung halamannya</p><p>e. Dia berencana untuk menghabiskan liburannya di</p><p>Kampung halaman Sira</p><p>10. Ucapan yang berani adalah ekspresi dari ....</p><p>Sebuah. meminta persetujuan</p><p>b. menyatakan niat</p><p>C. menyatakan kebenaran</p><p>d. meminta pendapat</p><p>e memberikan pendapat</p><p>Perbaikan</p><p>Baca dialognya</p><p>Brian: Apa yang kamu</p><p>Tio Tidak ada. saya</p><p>Brian: Apakah Anda dia</p><p>Tio Ya, saya punya.</p><p>Brian: Apakah Anda tidak v</p><p>Tio: 1 dimaksudkan</p><p>Brian: Dia benar-benar sa</p><p>Tio Ya, dia melakukannya</p><p>Brian: Mungkin dia</p><p>Tio · Ya saya tahu</p><p>Pertanyaan:</p><p>1. Berapa banyak pe</p><p>Apa itu Tind</p><p>ne adalah jawaban yang tepat untuk</p><p>ue?</p><p>diksi</p><br />
+                                            <h2 class="ez-toc-section" id="activity-ann-1000-atitude-scan-the-or-code-listen-to-the-dialogs-complete-the-dialogis-based-on-what-you-have-heard-dialog-1-kinar-arya-please-1-i-have-good-news-for-us-arya-whats-that-kinar-o">
+                            18. Activity ann 1000 Atitude Scan the OR code. Listen to the dialogs Complete the dialogis based on what you have heard Dialog 1 Kinar: Arya, please (1) I have good news for us Arya What's that? Kinar: Our band is invited to (2) band at a virtual charity concert. as an opening Arya : Wow, that's (3) When? Kinar: Next Sunday at 10 AM. Let me share the (49 in our group chat. Get one's attention et mention Arya : Yup! We should (5) for it well or when they are Kinar: Of course. Dialog 2 Security (1) I must check your temperature before entering the bookstore Tart Yes, please Security Youomr temperature is (2) degrees Celcius. Now, I will (3) with hand sanitizer. Tart I am sorry. My hands are (4) I prefer washing my hands with soap. Security Sure. It's over there (5) Security Don't mention it your hands Attention Post​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> </p><p>1. listen </p><p>2. perform</p><p>3. amazing </p><p>4. details </p><p>5. prepare </p><p></p><p>1. here </p><p>2. 35</p><p>3. wash </p><p>4. dry </p><p>5. next</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="11-mr-riski-because-of-my-atitude-a-happy-b-angry-c-hungry-d-thirsty-12-anis-how-do-you-feel-tikai-feel-i-need-a-glass-of-water-drink-a-thirsty-b-tired-c-hungry-d-surprise1">
+                            19. 11.Mr.Riski.......because of my atitude    A.happy b.angry c.hungry d.thirsty 12.Anis: How do you feel?     Tika:I feel             I need a glass of water drink a.thirsty b.tired c.hungry d.surprise13.He feels ...... she gets the best mark for math test      A.sad b.happy.c.worry d.tired14.Tiara did not study last night.     She feels ...... doing the test today A.happy b.worry c.surprise d.hungry15.Feels-dissapointed-father-my a. My father fels dissapointedb. felss disappointed my father c.my father disappointed feelsd.father feels my disappointed ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>11.b.angry</p><p>12.a.thirsty</p><p>13.b.happy</p><p>14.b.worry</p><p>15.a.My father feels dissapointed</p><p>Jawaban:11.b.angry</p><p></p><p>12.a.thirsty</p><p></p><p>13.b.happy</p><p></p><p>14.b.worry</p><p></p><p>15.a.My father feels dissapointed</p><p></p><p>Penjelasan: sorry kalo salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jawablah-pertanyaan-di-bawah-ini-1-mengapa-seorang-kasir-harus-memiliki-atitude-yang-baik2-mengapa-area-kasir-harus-selalu-bersih-%e2%80%8b">
+                            20. jawablah pertanyaan di bawah ini 1.mengapa seorang kasir harus memiliki atitude yang baik2.mengapa area kasir harus selalu bersih ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>karena kalok tidak bersi bayank kuman nya</p><p></p><p>2.karena kalok tidak baik yah jahat</p><p></p><p>3.karena kalok ngega di layani yah di pecat</p><p></p><p>4.kalok ngega nati di pecat</p><br />
+                                            <h2 class="ez-toc-section" id="istilah-penegak-hukum-di-indonesia-sering-disebuta-law-atitudeb-law-quaintancec-law-enforcementd-equality-before-the-law">
+                            21. Istilah penegak hukum di indonesia sering disebut
+a.law atitude
+b.law quaintance
+c.law enforcement
+d.equality before the law</h2><br />
+                        jawabannya C<br /><br /><strong> LAW ENFORCEMENT</strong><br />
+                                            <h2 class="ez-toc-section" id="what-is-atitude-expressions">
+                            22. What is atitude expressions?</h2><br />
+                        A predisposition or a tendency to respond positively or negatively towards a certain idea, object, person, or situation. Attitude influences an individual's choice of action, and responses to challenges, incentives, and rewards (together called stimuli).<br /><br />Four major components of attitude are (1) Affective: emotions or feelings. (2) Cognitive: belief or opinions heldconsciously. (3) Conative: inclination for action. (4) Evaluative: positive or negative response to stimuli.<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="make-a-short-dialog-expression-of-love-and-atitude">
+                            23. make a short dialog expression of love and atitude</h2><br />
+                        Ellie: Dad, do you remember Peter?<br />Dad: The jock? Yeah, why?<br />Ellie: We kind of.. fight last night, and we broke up.<br />Dad: Wait, really? I thought you love him?<br />Ellie: So do i. But he cheated on me with Gissele. I  should have listen to you. You were right, he's just a jerk that plays girls' heart.<br />Dad: It's okay baby girl. I got you. He's not worth of your time, moreover your love. You got your mum for it. You got ME for it..<br />Ellie: I should have just look for someone who loves me as you do, dad.<br />Dad: Cause no one beats their love to dad's for his daughter, right?<br />Ellie: Yeah.. I love you, dad~<br />Dad: Love you more!<br /><br />------<br /><br />Sorry for if you find any grammatical error(s)<br />=Keseringan baca ff, jadi agak baper=<br />
+                                            <h2 class="ez-toc-section" id="quiz-45%c2%b2-7%c2%b3-335%c2%b2-22%c2%b2note-sekolah-go-internasional-atitude-murid-ga-di-jaga-masa-iya-sih-tiap-guru-ultah-harus-kasih-hadiah-1-orang-1-hadiah-terus-guru-jajan-di-kanti">
+                            24. Quiz #45² + 7³ 335² - 22²Note : Sekolah Go INTERNASIONAL atitude murid ga di jaga ,, Masa iya sih tiap guru ultah harus kasih hadiah,, 1 orang 1 hadiah ,, terus guru jajan di kantin murid yg bayarin , MURID BOLEH NGATAIN GURU ,, TAPI GURU GABOLEH MARAHIN MURID NYA ?? ,, Sekolah yg keren ya​</h2><br />
+                        <p>No1. 5² + 7³</p><p>= 5² + 7³ </p><p>= ( 5 × 5 ) + ( 7 × 7 × 7 )</p><p>= 25 + 343</p><p>= 368</p><p></p><p>-------</p><p></p><p>No2. 335² - 22²</p><p>= 335² - 22²</p><p>= ( 335 × 335 ) - ( 22 × 22 )</p><p>= 112.225 - 484</p><p>= 117.741</p><p></p><p>[tex]{{\huge{\boxed{\tt @ \red U \pink n \orange l \green i \blue i \purple m \red i \blue t \red e \orange d }}}} [/tex]</p><p><strong>Jawaban:</strong></p><p>5² + 7³ = 368</p><p>335² - 22² = 111741</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p>5² + 7³ <p>= 5×5 = 25</p><p>= 7×7×7 = 343</p><p>= 25+343 = 368</p>335² - 22²<p>= 335×335 =112225</p><p>= 22×22 = 484</p><p>= 112225-484 = 111741</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-hubungan-antara-berkomunikasi-dan-atitude%e2%80%8b">
+                            25. apa hubungan antara berkomunikasi dan atitude​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>memiliki Sikap yang baik akan berpengaruh saat Anda berhubungan dengan banyak orang. orang orang akan merasa nyaman berbicara dengan anda jika anda memiliki sikap yang baik,dan juga sebaliknya, orang orang akan merasa tidak nyaman dan akan menghindari anda jika anda memiliki sikap yang tidak baik</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="l-can-fic-my-atitude%e2%80%8b">
+                            26. l can fic my atitude​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>yes,you can(tentu,kau pasti bisa)</p><br />
+                                            <h2 class="ez-toc-section" id="1canyou-mention-some-atitude-problems2-what-kind-of-personality-is-difficult-to-handie-3-what-kind-of-caption-is-it-4-make-some-quotes-about-hatures-explain-your-quotes-to-your-friends6compare-you">
+                            27. 1can?you mention some atitude problems?2 what kind of personality is difficult to handie ?3 what kind of caption is it ?4 make some quotes about hatureS Explain your quotes to your friends6compare your Quotes and the cavote in the caption​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>iya bro maaf ya aing cuma butuh poin dan juga ga bisa bang bahasa Inggris maaff</p><p><strong>Penjelasan:</strong></p><p>hehe</p><br />
+                                            <h2 class="ez-toc-section" id="1-yousinga-songwith-megive-permission2-i-sing-you-a-song-ask-permission3-andrea-changeher-atitudeto-be-more-respectedstrong-recommendation4-the-groupkeep-studyingto-win-the-school-t">
+                            28. 1. you/sing/a song/with me(give (permission)2.I /sing /you /a song (ask permission)3.andrea/ change/her atitude/to be more respected(strong recommendation)4.the group/keep studying/to win the school trip to England(strong recommendation)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>maksudnya diapain itu?</p>you can sing a song with me<br />can i sing you a song?<br />andrea need to change her attitude to be more respected<br />the group need to keep studying to win the school trip to england<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/W2aPgO4rMGo?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_inggris</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/according-to-rani/">According To Rani</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kode-yang-digunakan-untuk-membuat-sebuah-halaman-web-disebut/">Kode Yang Digunakan Untuk Membuat Sebuah Halaman Web Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-sperma-manusia-memiliki-bagian-kepala-meruncing-dibagian-ujungnya/">Mengapa Sperma Manusia Memiliki Bagian Kepala Meruncing Dibagian Ujungnya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/we-each-other-2-years-ago/">We Each Other 2 Years Ago</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/volume-gabungan-bangun-ruang-diatas-adalah/">Volume Gabungan Bangun Ruang Diatas Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mitra-tegese/">Mitra Tegese</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kebersihan-sekolah-menjadi-tanggung-jawab/">Kebersihan Sekolah Menjadi Tanggung Jawab</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/posisi-lengan-pada-saat-melakukan-passing-bawah-adalah/">Posisi Lengan Pada Saat Melakukan Passing Bawah Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/batok-kelapa-sangat-keras-karena-tersusun-dari-jaringan/">Batok Kelapa Sangat Keras Karena Tersusun Dari Jaringan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/goods-services-varieties-price-time-place/">Goods Services Varieties Price Time Place</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/0-5-jam-berapa-detik/">0 5 Jam Berapa Detik</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tangga-nada-g-mayor/">Tangga Nada G Mayor</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dalam-menghadapi-mea-maka-indonesia-perlu/">Dalam Menghadapi Mea Maka Indonesia Perlu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-gerakan-kepala/">Contoh Gerakan Kepala</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/project-adalah/">Project Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ragam-hias-atau-ornamen-banyak-kita-temukan-pada-kain/">Ragam Hias Atau Ornamen Banyak Kita Temukan Pada Kain</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tema-gambar-cerita-yg-akan-saya-buat/">Tema Gambar Cerita Yg Akan Saya Buat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bakteri-lactobacillus-digunakan-untuk-pengawetan/">Bakteri Lactobacillus Digunakan Untuk Pengawetan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/homogen/">Homogen</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-perbedaan-gambar-rancangan-dengan-gambar-kerja/">Apa Perbedaan Gambar Rancangan Dengan Gambar Kerja</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

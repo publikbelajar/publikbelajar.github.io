@@ -1,0 +1,1225 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mybe - BELAJAR</title>
+    <meta name="description" content="Mybe, , , , , , , 0, Music | Mybe, mybe.bandcamp.com, 800 x 1200, jpeg, , 20, mybe, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Mybe - BELAJAR" />
+    <meta property="og:description" content="Mybe, , , , , , , 0, Music | Mybe, mybe.bandcamp.com, 800 x 1200, jpeg, , 20, mybe, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Mybe - BELAJAR" />
+    <meta name="twitter:description" content="Mybe, , , , , , , 0, Music | Mybe, mybe.bandcamp.com, 800 x 1200, jpeg, , 20, mybe, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Mybe</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">ilham1316</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Mybe" alt="Mybe">
+                    </div>
+                    <p></p>
+                    <p>apa arti kata dari mybe</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-kata-dari-mybe">1.
+                                            apa arti kata dari mybe</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#susunan-kata-dari-mybekasih-caranya%e2%80%8b">2.
+                                            Susunan kata dari "Mybe"Kasih caranya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-artinya-mybe-i-feel-happy">3.
+                                            apa artinya mybe i feel happy</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#x-470-650-176-242-649-7-500makax-goodluck-hihihi-bikin-pusing-mybe%e2%80%8b">4.
+                                            x + 470 + 650 + 176 + 242 + 649 = 7.500Maka,x = ...goodluck.hihihi.bikin pusing mybe​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#spill-dong-buah-yang-murah-mybe-sedikit-muterin-otak-dulu%e2%80%8b">5.
+                                            spill dong buah yang murah, mybe sedikit muterin otak dulu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#richie-anna-what-should-we-do-tonightanna-hmmm-l-think-we-can-go-to-watch-a-new-movie-in-studio-xxl-or-mybe-we-can-go-to-gramedia-book-store-because-theres-a-book-sale-there-richie-welhow-a">6.
+                                            Richie: Anna ,what should we do tonight?
+Anna : hmmm, l think we can go to watch a new movie in studio XXl or mybe we can go to Gramedia book store because there's a book sale there.
+Richie: wel,how about going to Gramedia book store?
+Anna: sounds interesting.
+Richie: okay,l'll pick you up at 6 p.m see you,Anna.
+Anna: see you, Richie
+Questions: 
+1. Who asks a suggestion in the dialogue above?
+Answer:....
+2. Why does she give option to go to Gramedia book store?
+Answer:...
+3.What is the other option that is suggested?
+Aswer:...
+4.whwen Will they go to Gramedia book store?
+Answer:...
+5.mention the experessions of asking for suggestion in the dialogue above?
+Aswer:...
+Tolong kak di jawab besok di kumpulin")</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#x-407-650-7-006-425-2-649-21-500makax-goodluck-hihihi-bikin-pusing-mybe%e2%80%8b">7.
+                                            x + 407 + 650 + 7.006 + 425 + 2.649 = 21.500Maka,x = ...goodluck.hihihi.bikin pusing mybe​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mybe-you-could-show-me-around-sometime%e2%80%8b">8.
+                                            mybe you could show me around sometime​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#x-4-007-6-050-706-425-25-649-50-000makax-goodluck-hihihi-bikin-pusing-mybe-%e2%80%8b">9.
+                                            x + 4.007 + 6.050 + 706 + 425 + 25.649 = 50.000Maka,x = ...goodluck.hihihi.bikin pusing mybe. ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hey-mybe-you-can-also-borrow-teen-lit-or-chick-lit-there-tolong-artikan-please">10.
+                                            hey mybe you can also borrow teen lit or chick lit there. tolong artikan please</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-terry-eats-a-bowl-of-soup-a-every-day-b-tomorrow-c-now-d-yesterday2-joshua-drank-a-glass-of-milk-a-every-day-b-tomorrow-c-now-f-yesterday3-are-you-sad-because-i-lost-my-dolla-whereb-whoc-whend-w">11.
+                                            1.Terry Eats a bowl of soup...A.Every Day B.Tomorrow C.Now D.yesterday2.Joshua drank a glass of milk...A.Every Day B.Tomorrow C.Now F.Yesterday3.are you sad Because I Lost My DollA.WhereB.WhoC.WhenD.Why5.is your favorite teacher? My Favorite teacher is Mrs.DephneA.WhereB.WhoC.WhenD.Why6.Is Your Mom Well Be Back From Vacation Trip?Mybe Next WeekA.WhereB.WhoC.WhenB.WhyBantuin Ya Kak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#smilemusic-by-charles-chaplin-lyric-by-john-turner-anda-geoffreysmile-though-your-heart-is-actingsmile-even-though-its-breakingwhen-there-are-clouds-in-the-skyyoull-get-byif-you-smile-through">12.
+                                            smilemusic by charles Chaplin,  lyric by John Turner anda Geoffreysmile,  though your heart is actingsmile,  even though it's breakingwhen there are clouds in the skyyou'll get byif you smile through your fear anda sorrowsmile anda mybe tomorrowyou'll see the sun come shining through for youlight up your face with gladnesshide every trace of sadnessalthough a tear may be ever so nearthat's the time you must keep on tryingsmile what's the use of cryingyou'll find the life is still worthwhileif you'll justsmilekak tolong bantu "analyze the lyric smile"​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#change-into-indirect-speech-1-i-said-to-my-friend-i-am-going-yo-paint-my-room-2-he-said-to-him-mybe-it-wont-rain-tomorrow-3-he-said-to-rika-many-of-my-books-are-in-spanish-4-he-said-to-me">13.
+                                            Change into indirect speech !
+1.i said to my friend " i am going yo paint my room 
+2.he said to him " mybe it won't rain tomorrow 
+3.he said to rika " many of my books are in spanish 
+4.he said to me "it took me alot of time to finish my homework </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-artinya-mybe-i-feel-happy">14.
+                                            apa artinya mybe i feel happy</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#im-almost-ready-to-plant-my-garden-i-have-a-lot-of-seeds-mybe-i-have-more-than-i-need-if-i-have-had-more-seeds-than-i-need-i-give-would-give-some-to-nellie">15.
+                                            I'm almost ready to plant my garden, I have a lot of seeds, mybe I have more than I need, if I (have) had more seeds than I need , I (give) would give some to nellie.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#x-4-007-6-050-706-425-25-649-75-000makax-goodluck-hihihi-bikin-pusing-mybe-%e2%80%8b">16.
+                                            x + 4.007 + 6.050 + 706 + 425 + 25.649 = 75.000Maka,x = ...goodluck.hihihi.bikin pusing mybe. ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nodetemc-cahyo-what-time-is-itmrs-susi-its-few-minutes-before-six-oclok-mr-canyo-that-alarm-clock-is-too-fast-its-vive-forty-fivemrs-susi-mybe-your-watch-islate-mr-canyo-i-don">17.
+                                            NODeteMc Cahyo. "What time is it?"mrs. Susi &amp; it's few minutes before six o'clok."mr.canyo . "That Alarm clock is too Fast, its vive Forty Five"Mrs. Susi :mybe your watch islate..Mr. Canyo: I don't think so my watch is correct.Mrs. Susi Well, its time toget up now..MC-canyo en Yes, you're ringh. We.don't Waret to belate today!Thats truemr. Canyo We tate once time last week."Mrs susi Yes, we did. But We won't be late today."mr Canyo"Want taim does the restaurant open?Mrs susi it doesn't open until seven Forty Five"Mrs. Susi6​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#spesial-400-pertanyaan16-050-z-7-506-25-2-564-52-000makaz-goodluck-hihihi-bikin-pusing-mybe-%e2%80%8b">18.
+                                            Spesial 400 Pertanyaan16.050 + z + 7.506 + 25 + 2.564 = 52.000Maka,z = ...goodluck.hihihi.bikin pusing mybe. ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2daad-ae7-alfamy-peti-have-a-pet-it-is-a-dog-and-i-call-it-oolgy-daigy-is-achinese-breed-it-is-small-fluffy-and-cute-it-hasgot-thick-black-eur-when-i-cudlle-lt-the-fourfeels-soft-doigu-doesn">19.
+                                            2*DAAD-AE7 ALFAmy petI have a pet it is a dog and I call it oolgy. Daigy is aChinese breed, it is small, Fluffy ) and cute. It hasgot thick black Eur, when I cudlle lt, the fourFeels soft. DOIGU doesn't like bones every day ifeats SORE fod like Steamed rice, fishor breadWhen I am at school Dolgy plays whith my rabbitThey get along well and never fight mybe becauseCalgy doesn't bark alot It treats the other Animaisin our house gently, and it hever ears shoesDolgy it really sweet and friendy animal"How Dolgy look like?2. whom Daigy plays with when the writer goes tolsehoold school?3. What does Oolqy eat every morning ?a, they get along wella..The under lined word refersto.our house gently5. ..nother animals inWhat is the synonymor gently ?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mybe-ada-yg-ngerti-ksih-tau-jwbn-serta-penjelasan-ny-%e2%80%8b">20.
+                                            mybe ada yg ngerti ksih tau jwbn serta penjelasan ny ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#47-65-x-76-42-649-1-500makax-goodluck-hihihi-bikin-pusing-mybe%e2%80%8b">21.
+                                            47 + 65 + x + 76 + 42 + 649 = 1.500Maka,x = ...goodluck.hihihi.bikin pusing mybe​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diktq-1-234kak-%e2%88%9a5-929tenttq-%c3%97-kak-____________nt-arrggh-pencapaian-mybenambah-10%e2%80%8b">22.
+                                            diktq = 1.234kak = √5.929tenttq × kak = ? ____________nt : arrggh pencapaian mybe,nambah +10​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kuissjikaa-1-b-2-c-3-z-26makazakyganzz-ntspamlike-dri-kmrin-mybe-klw-diitung-udh-1k-like-nyavthanks-qq-%e2%80%8b">23.
+                                            kuissJika:A = 1, B = 2, C= 3, ....Z = 26maka:zakyganzz = . . .nt:spamlike dri kmrin, mybe klw diitung" udh 1k+ like nya:vthanks qq ^^​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#richie-anna-what-should-we-do-tonightanna-hmmm-l-think-we-can-go-to-watch-a-new-movie-in-studio-xxl-or-mybe-we-can-go-to-gramedia-book-store-because-theres-a-book-sale-there-richie-welhow-abo">24.
+                                            Richie: Anna ,what should we do tonight?Anna : hmmm, l think we can go to watch a new movie in studio XXl or mybe we can go to Gramedia book store because there's a book sale there.Richie: wel,how about going to Gramedia book store?Anna: sounds interesting.Richie: okay,l'll pick you up at 6 p.m see you,Anna.Anna: see you, RichieQuestions:1.mention the experessions of asking for suggestion in the dialogue above?Aswer:...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#help-mehmapel-biologi-kelas-9smp-materi-bab-3-pewaris-sifat-pada-mhkode-9-4-3-mybeno-1-3-jelaskan-secara-rinci-soal-tertera-%e2%9d%96penting-jan-asalspam-berkomentar-dijawaban-dan-copas">25.
+                                            Help meh:")Mapel : Biologi Kelas : 9SMP Materi : Bab 3-Pewaris sifat pada MHKode: 9.4.3 (mybe)no 1-3 jelaskan secara rinci soal tertera ❖Penting jan asal,spam, berkomentar dijawaban dan copas❖goodluck mks:") ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bantu-jawab-yaasubject-ipafisika-mybe-aku-gatau-juga%e2%80%8b">26.
+                                            bantu jawab yaasubject: ipa/fisika mybe? aku gatau juga​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-artinya-mybe-i-feel-happy">27.
+                                            apa artinya mybe i feel happy</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-they-have-there-sons-and-two-daughters-bety-is-of-their-children1-moust-young-2-the-younger-3-the-youngest4-younger2-i-cant-hear-you-please-speak-1-louder2-loudest3-more-loud4-the-most-loud3">28.
+                                            1.They have there sons and two daughters.bety is... of their children1.moust young 2.the younger 3.the youngest4.younger2.I can't hear you .please speak...1.louder2.loudest3.more loud4.the most loud3.As we didn't have much money, we stayed at...hotel that we could find.1.a less expensive 2.a more expensive3.the least expensive4.the most expensive4.they say that it's...strom in ten yeares1.by far worse2.most worst2.most worst the worse3.the worst5.that happened in 1990,mybe even....1.earlier2.more early3.the earliest 4.the most earlyTolong bantuin jawab yang ini dong.Pilih kata dibawa terus isi titik" yang diatas?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kuez-50-selesaikan-soal-di-bawah-tex-rmlimlimits_xto-2-frac3x-6-x-2-textex-texhm-mybe-smpe-disni-doang-gua-maen-brenly-awok-bosen-bet-dsni-dan-sa">29.
+                                            Kuez [50]- Selesaikan soal di bawah -[tex] \\ {\rm{\lim\limits_{x\to \: 2}} \:  \frac{3x - 6}{ x + 2}  }  [/tex][tex] \\ \\ [/tex]''Hm Mybe smpe disni doang gua maen brenly awok" Bosen bet dsni dan saia minta mngp kl ad slh wkwk wlau pun w g kenal siapa" dsni  ;V - Sekian pesan dri Jeffan gtg - wasalam  ;v​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="apa-arti-kata-dari-mybe">
+                            1. apa arti kata dari mybe</h2><br />
+                        <p>Penulisan kata yang tepat adalah <strong>maybe</strong>. <strong>Maybe</strong><strong> </strong>berarti 'mungkin'. Kata ini termasuk dalam golongan <strong>adverb of probability</strong>. </p><p></p>Pembahasan:<p><strong>Adverb </strong>adalah golongan kata yang berfungsi untuk menjelaskan atau memberi tambahan informasi tentang kata kerja, kata sifat,  bahkan <strong>adverb</strong> itu sendiri. Kebanyakan adverb menggunakan -ly di belakangnya, contoh: carefully, beautifully, early, recently, clearly, quickly, dan lain-lain. </p><p>Ada beberapa <strong>jenis </strong><strong>adverb</strong> yang umum digunakan dan harus kita ketahui:</p><strong>Adverb of time</strong><p><strong>Adverb of time</strong> adalah kata keterangan untuk menambahkan informasi tentang waktu. <strong>Adverb of time</strong> digunakan untuk menjawab pertanyaan yang berawalan <strong>‘</strong>when'. Contoh penggunaannya adalah sebagai berikut:</p>I go to the zoo with my friend recently. I need to go home early because I want to make dinner. <strong>Adverb of manner</strong><p><strong>Adverb of manner</strong> adalah kata keterangan untuk menambahkan informasi tentang cara melakukan sesuatu. <strong>Adverb of manner </strong>digunakan untuk menjawab pertanyaan berawalan ‘how’. Contoh penggunaannya adalah sebagai berikut:</p>I believe you can do it better!My mother drove the car very slowly. <strong>Adverb of place</strong><p><strong>Adverb of place</strong> adalah kata keterangan untuk menambahkan informasi tentang tempat. <strong>Adverb of place</strong> digunakan untuk menjawab pertanyaan berawalan ‘where’. Contoh penggunaannya adalah sebagai berikut:</p>Can you come here now? I need your help!I can’t go outside tonight because I need to finish my homework. <p></p>Pelajari lebih lanjut:Adverb dari kata 'watch' https://brainly.co.id/tugas/11569917Jenis-jenis adverb https://brainly.co.id/tugas/3151629Contoh adverb https://brainly.co.id/tugas/6698874<p></p>Detail Jawaban:<p>Kelas: 8</p><p>Mapel: Bahasa Inggris</p><p>Bab: Adverb</p><p>Kode: - </p><p>#AyoBelajar #SPJ2</p><br />
+                                            <h2 class="ez-toc-section" id="susunan-kata-dari-mybekasih-caranya%e2%80%8b">
+                            2. Susunan kata dari "Mybe"Kasih caranya​</h2><br />
+                        <p></p><p>[tex] \boxed{ \tt \red{mybe}}[/tex]</p><p>Jumlah Huruf = 4</p><p>Unsur Ganda = -</p><p></p><p>4!</p><p>= 4 × 3 × 2 × 1 / 2 × 1</p><p>[tex] \boxed{ \tt = 24 \: susunan \: kata}[/tex]</p><p></p><p>[tex] \huge{\purple{ \bold{ \star \: jawaban  \: \star}}}[/tex]</p><p></p><p>[tex] \huge{ \green{ \bold{nPr = 24}}}[/tex]</p><p></p><p>[tex] \huge{ \purple{ \bold{ \star \: pembahasan  \: \star}}}[/tex]</p><p>beberapa metode dalam kaidah pencacahan, antara lain: </p>Aturan Pengisian Tempat. Permutasi. Kombinasi.<p></p><p>Aturan Pengisian Tempat adalah aturan membilang untuk mengetahui banyaknya objek tertentu. Disebut pencacahan karena hasilnya berupa bilangan cacah.</p><p></p><p>Permutasi adalah suatu susunan dari unsur yang berbeda, yang dibentuk dari <strong>n</strong> unsur, diambil dari n unsur atau sebagian unsur. Permutasi dapat dikelompokkan menjadi beberapa macam:</p>permutasi n unsur berbeda. permutasi dari unsur dengan 0 ≤ r ≤ n. permutasi siklis. permutasi unsur sama. permutasi berulang.<p></p>Rumus permutasi[tex] \large{ \red{ \bold{nPn = n!}}}[/tex]<p>(rumus permutasi n unsur berbeda) </p><p></p>[tex] \large{ \red{ \bold{r {P}^{n} =  \frac{n ! }{(n - r) ! }   }}} \\ [/tex]<p>(rumus permutasi dari unsur dengan  0 ≤ r ≤ n) </p><p></p>[tex] \large{ \red{ \bold{nPr = (n - 1) !}}}[/tex]<p>(rumus permutasi siklis) </p><p></p>[tex] \large{ \red{ \bold{nPn =  \frac{n ! }{(a !  \: \times \:  b!) } }}} \\ [/tex]<p>(rumus permutasi unsur sama) </p><p></p>[tex] \large{ \red{ \bold{Pn =  {n}^{k} }}}[/tex]<p>(Rumus permutasi berulang) </p><p></p>[tex] \large{ \red{ \bold{ nKr =  \frac{n !}{ r !(n - r)!} }}} \\ [/tex]<p>(Rumus kombinasi) </p><p></p><p><strong>Pengertian</strong><strong> </strong><strong>Kombinasi</strong></p><p>kombinasi/kombinatorik adalah himpunan objek yang tidak mementingkan urutannya. Kombinasi berbeda dengan permutasi yang karena permutasi mementingkan urutan objek. </p><p></p><p></p><p>[tex] \huge{ \purple{ \bold{ \star \: penyelesaian \: soal  \: \star}}}[/tex]</p>MybeM = 1 hurufy = 1 hurufb = 1 hurufe = 1 huruf<p></p><p><strong>Jumlah</strong><strong> </strong><strong>Semua</strong><strong> </strong><strong>huruf</strong><strong> </strong><strong>:</strong><strong> </strong><strong>4</strong></p><p><strong>Jumlah</strong><strong> </strong><strong>Unsur</strong><strong> </strong><strong>ganda</strong><strong> </strong><strong>:</strong><strong> </strong><strong>-</strong></p><p></p><p>[tex] \large{ \blue{ \bold{  \: nPr \: = n! \: }}}[/tex]</p><p>[tex] \large{ \blue{ \bold{nPr = 4!}}}[/tex]</p><p>[tex] \large{ \blue{ \bold{nPr = 4 \times 3 \times 2 \times 1}}}[/tex]</p><p>[tex] \large{ \blue{ \bold{nPr = 24}}}[/tex]</p><p><strong>Jadi</strong><strong> </strong><strong>banyaknya</strong><strong> </strong><strong>susunan</strong><strong> </strong><strong>kata</strong><strong> </strong><strong>Mybe</strong><strong> </strong><strong>adalah</strong><strong> </strong><strong>2</strong><strong>4</strong></p><p> </p><p>[tex] \huge{ \purple{ \bold{ \star \: pelajari \: lebih \: lanjut\star}}}[/tex]</p>Jelaskan arti kata kombinasi <p>          https://brainly.co.id/tugas/38152681</p>Permutasi yang serupa <p>          https://brainly.co.id/tugas/44564741</p><p></p><p>[tex] \huge{ \purple{ \bold{ \star \: detail \: jawaban \star}}}[/tex]</p>mapel: matematikakelas: 11 (SMA) kode soal: 10kode kategori: 10.11.1kata kunci: <strong>permutasi</strong><p></p><p><strong>#</strong><strong>H</strong><strong>e</strong><strong>n</strong><strong>t</strong><strong>i</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>P</strong><strong>e</strong><strong>r</strong><strong>m</strong><strong>u</strong><strong>t</strong><strong>a</strong><strong>s</strong><strong>i</strong><strong> </strong></p><br />
+                                            <h2 class="ez-toc-section" id="apa-artinya-mybe-i-feel-happy">
+                            3. apa artinya mybe i feel happy</h2><br />
+                        mungkin aku merasa senangMungkin aku merasa senang<br />
+                                            <h2 class="ez-toc-section" id="x-470-650-176-242-649-7-500makax-goodluck-hihihi-bikin-pusing-mybe%e2%80%8b">
+                            4. x + 470 + 650 + 176 + 242 + 649 = 7.500Maka,x = ...goodluck.hihihi.bikin pusing mybe​</h2><br />
+                        <p>x + 470 + 650 + 176 + 242 + 649 = 7.500</p><p>x + 2.187 = 7.500</p><p>x = 7.500 - 2.187</p><p>x = 5.313 </p><p></p><p>CMIIW</p><p><strong>Jawaban:</strong></p><p>x + 470 + 650 + 176 + 242 + 649 = 7.500</p><p></p><p>Maka : </p><p>x = ....</p><p></p><p>x + 470 + 650 + 176 + 242 + 649 = 7.500</p><p>x + 2.187 = 7.500</p><p>x = 7.500 - 2.187</p><p>x = <strong>5.313</strong></p><p></p><p><strong>#makasihPakPosili</strong></p><br />
+                                            <h2 class="ez-toc-section" id="spill-dong-buah-yang-murah-mybe-sedikit-muterin-otak-dulu%e2%80%8b">
+                            5. spill dong buah yang murah, mybe sedikit muterin otak dulu​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>langsat? rambutan? pisang? di daerahku lagi murah sih</p><p>Mangga. </p><p></p><p>Nanas. </p><p></p><p>Buah Naga. </p><p></p><p>Pepaya. </p><p></p><p>Pisang. </p><p></p><p>Apel.</p><p></p><p>[tex]Answer By: d6895650[/tex]</p><p>semoga membantu </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="richie-anna-what-should-we-do-tonightanna-hmmm-l-think-we-can-go-to-watch-a-new-movie-in-studio-xxl-or-mybe-we-can-go-to-gramedia-book-store-because-theres-a-book-sale-there-richie-welhow-a">
+                            6. Richie: Anna ,what should we do tonight?
+Anna : hmmm, l think we can go to watch a new movie in studio XXl or mybe we can go to Gramedia book store because there's a book sale there.
+Richie: wel,how about going to Gramedia book store?
+Anna: sounds interesting.
+Richie: okay,l'll pick you up at 6 p.m see you,Anna.
+Anna: see you, Richie
+Questions: 
+1. Who asks a suggestion in the dialogue above?
+Answer:....
+2. Why does she give option to go to Gramedia book store?
+Answer:...
+3.What is the other option that is suggested?
+Aswer:...
+4.whwen Will they go to Gramedia book store?
+Answer:...
+5.mention the experessions of asking for suggestion in the dialogue above?
+Aswer:...
+Tolong kak di jawab besok di kumpulin")</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.Richie</p><p>2.because there's a book sale</p><p>3.watch new movies in the studio</p><p>4. hour6 pm</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="x-407-650-7-006-425-2-649-21-500makax-goodluck-hihihi-bikin-pusing-mybe%e2%80%8b">
+                            7. x + 407 + 650 + 7.006 + 425 + 2.649 = 21.500Maka,x = ...goodluck.hihihi.bikin pusing mybe​</h2><br />
+                        <p>x + 407 + 650 + 7.006 + 425 + 2.649 = 21.500</p><p>x + 11.137 = 21.500</p><p>x = 21.500 - 11.137</p><p>x = 10.363</p><p></p><p>CMIIW</p><p><strong>Jawaban:</strong></p><p>x + 407 + 650 + 7.006 + 425 + 2.649 = 21.500</p><p>x + 11.137 = 21.500</p><p>x = 21.500 - 11.137</p><p>x = 10.363</p><br />
+                                            <h2 class="ez-toc-section" id="mybe-you-could-show-me-around-sometime%e2%80%8b">
+                            8. mybe you could show me around sometime​</h2><br />
+                        <p>Maybe you could show me around sometime artinya <strong>mungkin kamu bisa menunjukkan kepadaku kapan-kapan</strong></p><p></p><p>semoga membantu^^</p><br />
+                                            <h2 class="ez-toc-section" id="x-4-007-6-050-706-425-25-649-50-000makax-goodluck-hihihi-bikin-pusing-mybe-%e2%80%8b">
+                            9. x + 4.007 + 6.050 + 706 + 425 + 25.649 = 50.000Maka,x = ...goodluck.hihihi.bikin pusing mybe. ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>x + 4.007 + 6.050 + 706 + 425 + 25.649 </p><p>= 50.000</p><p>x + 36837 = 50.000</p><p>x = 50.000 - 36.837</p><p>x = <strong>13.16</strong><strong>3</strong></p><p></p><p><strong>Jawaban:</strong></p><p></p><strong>x = 13.163</strong><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><p></p><p>x + 4.007 + 6.050 + 706 + 425 + 25.649 = 50.000</p><p></p><p><strong>=</strong><strong>&gt;</strong><strong> </strong>x + 10.057 + 706 + 425 + 25.649 = 50.000</p><p><strong>=</strong><strong>&gt;</strong><strong> </strong>x + 10.763 + 425 + 25.649 = 50.000</p><p><strong>=</strong><strong>&gt;</strong><strong> </strong>x + 11.188 + 25.649 = 50.000</p><p><strong>=</strong><strong>&gt;</strong><strong> </strong>x +  36.837 = 50.000</p><p><strong>=</strong><strong>&gt;</strong><strong> </strong>x = 50.000 - 36.837</p><p><strong>=</strong><strong>&gt;</strong><strong> </strong><strong>x</strong><strong> </strong><strong>=</strong><strong> </strong><strong>13</strong><strong>.</strong><strong>163</strong></p><br />
+                                            <h2 class="ez-toc-section" id="hey-mybe-you-can-also-borrow-teen-lit-or-chick-lit-there-tolong-artikan-please">
+                            10. hey mybe you can also borrow teen lit or chick lit there. tolong artikan please</h2><br />
+                        Hey mungkin kamu juga bisa meminjam TeenLit atau ChickLit disana.<br /><br />*TeenLit atau ChickLit itu adalah genre novel hai mungkin kau juga bisa meminjam teen lit atau chick lit disana<br /><br />
+                                            <h2 class="ez-toc-section" id="1-terry-eats-a-bowl-of-soup-a-every-day-b-tomorrow-c-now-d-yesterday2-joshua-drank-a-glass-of-milk-a-every-day-b-tomorrow-c-now-f-yesterday3-are-you-sad-because-i-lost-my-dolla-whereb-whoc-whend-w">
+                            11. 1.Terry Eats a bowl of soup...A.Every Day B.Tomorrow C.Now D.yesterday2.Joshua drank a glass of milk...A.Every Day B.Tomorrow C.Now F.Yesterday3.are you sad Because I Lost My DollA.WhereB.WhoC.WhenD.Why5.is your favorite teacher? My Favorite teacher is Mrs.DephneA.WhereB.WhoC.WhenD.Why6.Is Your Mom Well Be Back From Vacation Trip?Mybe Next WeekA.WhereB.WhoC.WhenB.WhyBantuin Ya Kak​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.a</p><p>2.f</p><p>3.d</p><p>4.</p><p>5.b</p><p>6.b</p><p><strong>Penjelasan:</strong></p><p>maap kalo salah</p><p><strong>Jawaban:</strong></p><p>1.a</p><p>2.d.</p><p>3.d</p><p>4.b</p><p>5.c</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="smilemusic-by-charles-chaplin-lyric-by-john-turner-anda-geoffreysmile-though-your-heart-is-actingsmile-even-though-its-breakingwhen-there-are-clouds-in-the-skyyoull-get-byif-you-smile-through">
+                            12. smilemusic by charles Chaplin,  lyric by John Turner anda Geoffreysmile,  though your heart is actingsmile,  even though it's breakingwhen there are clouds in the skyyou'll get byif you smile through your fear anda sorrowsmile anda mybe tomorrowyou'll see the sun come shining through for youlight up your face with gladnesshide every trace of sadnessalthough a tear may be ever so nearthat's the time you must keep on tryingsmile what's the use of cryingyou'll find the life is still worthwhileif you'll justsmilekak tolong bantu "analyze the lyric smile"​</h2><br />
+                        <p></p><p> Tersenyumlah sekalipun luka hatimu</p><p>Tersenyumlah sekalipun itu terlarang</p><p>Ketika langit mendung</p><p>Kau pasti bisa.</p><p></p><p>Jika kau tersenyum sekalipun kau ketakutan dan menderita</p><p>Tersenyumlah dan mungkin esok hari</p><p>Kau akan melihat matahari bersinar</p><p>Untuk mu.</p><p></p><p>Menyinari wajahmu dengan sukacita</p><p>Menyembunyikan setiap jejak kesedihan</p><p>Sekalipun air mata mungkin sangat dekat</p><p> Itulah saat dimana engkau harus terus berusaha</p><p> Tersenyumlah, apa gunanya menangis.</p><p> Kau akan tahu bahwa hidup masih berharga</p><p>Jika kau tersenyum.</p><p>Itulah saat dimana engkau harus terus </p><p>Tersenyum</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="change-into-indirect-speech-1-i-said-to-my-friend-i-am-going-yo-paint-my-room-2-he-said-to-him-mybe-it-wont-rain-tomorrow-3-he-said-to-rika-many-of-my-books-are-in-spanish-4-he-said-to-me">
+                            13. Change into indirect speech !
+1.i said to my friend " i am going yo paint my room 
+2.he said to him " mybe it won't rain tomorrow 
+3.he said to rika " many of my books are in spanish 
+4.he said to me "it took me alot of time to finish my homework </h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. i said to my friend that i was going to paint my room</p><p>2. he said to him that maybe it won't rain tomorrow</p><p>3. he said to rika that many of his books were in spanish</p><p>4. he said to me that it took him alot of time to finish his homework</p><br />
+                                            <h2 class="ez-toc-section" id="apa-artinya-mybe-i-feel-happy">
+                            14. apa artinya mybe i feel happy</h2><br />
+                        Mybe = mungkin<br />I = saya / aku<br />Feel = merasa <br />Happy = senang / bahagia<br /><br />*Mybe I feel happy = mungkin saya merasa bahagia. <br /><br />maaf jika salah. &gt;///&lt;.mungkin saya merasa bahagia<br />
+                                            <h2 class="ez-toc-section" id="im-almost-ready-to-plant-my-garden-i-have-a-lot-of-seeds-mybe-i-have-more-than-i-need-if-i-have-had-more-seeds-than-i-need-i-give-would-give-some-to-nellie">
+                            15. I'm almost ready to plant my garden, I have a lot of seeds, mybe I have more than I need, if I (have) had more seeds than I need , I (give) would give some to nellie.</h2><br />
+                        I'm almost ready to plant my garden, I have a lot of seeds, maybe I have more than I need, if I HAVE more seeds than I need , I would give some to nellie.Answer :<br /><br />I'm almost ready to plant my garden, I have a lot of seeds, may be I have more than I need, if I  had had more seeds than I need , I would have given some to nellie.<br />( here is conditional sentence,type 3 )<br /><br />Thanks<br />
+                                            <h2 class="ez-toc-section" id="x-4-007-6-050-706-425-25-649-75-000makax-goodluck-hihihi-bikin-pusing-mybe-%e2%80%8b">
+                            16. x + 4.007 + 6.050 + 706 + 425 + 25.649 = 75.000Maka,x = ...goodluck.hihihi.bikin pusing mybe. ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>x + 4.007 + 6.050 + 706 + 425 + 25.649 = 75.000</p><p>x + 36.837 = 75.000</p><p>x = 75.000 - 36.837</p><p>x = 38.163</p><p><strong>Jawaban:</strong></p><p>x + 4.007 + 6.050 + 706 + 425 + 25.649 = 75.000</p><p></p><p>Maka : </p><p>x = ....</p><p>x + 4.007 + 6.050 + 706 + 425 + 25.649 = 75.000</p><p>x + 36837 = 75.000</p><p>x = 75.000 - 36837</p><p>x = <strong>38.163</strong></p><br />
+                                            <h2 class="ez-toc-section" id="nodetemc-cahyo-what-time-is-itmrs-susi-its-few-minutes-before-six-oclok-mr-canyo-that-alarm-clock-is-too-fast-its-vive-forty-fivemrs-susi-mybe-your-watch-islate-mr-canyo-i-don">
+                            17. NODeteMc Cahyo. "What time is it?"mrs. Susi &amp; it's few minutes before six o'clok."mr.canyo . "That Alarm clock is too Fast, its vive Forty Five"Mrs. Susi :mybe your watch islate..Mr. Canyo: I don't think so my watch is correct.Mrs. Susi Well, its time toget up now..MC-canyo en Yes, you're ringh. We.don't Waret to belate today!Thats truemr. Canyo We tate once time last week."Mrs susi Yes, we did. But We won't be late today."mr Canyo"Want taim does the restaurant open?Mrs susi it doesn't open until seven Forty Five"Mrs. Susi6​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>TIDAK</p><p>Dete</p><p>Mc Cahyo. "Jam berapa?"</p><p>Nyonya. Susi &amp; ini beberapa menit sebelum jam enam. "</p><p>mr.canyo. "Jam Alarm itu terlalu Cepat, Empat Puluh Lima yang hidup"</p><p>Nyonya Susi: Saya melihat jam tangan anda terbuka ..</p><p>Tn. Canyo: Ya</p><br />
+                                            <h2 class="ez-toc-section" id="spesial-400-pertanyaan16-050-z-7-506-25-2-564-52-000makaz-goodluck-hihihi-bikin-pusing-mybe-%e2%80%8b">
+                            18. Spesial 400 Pertanyaan16.050 + z + 7.506 + 25 + 2.564 = 52.000Maka,z = ...goodluck.hihihi.bikin pusing mybe. ​</h2><br />
+                        <p>16.050 + z + 7.506 + 25 + 2.564 = 52.000</p><p>z + 26.145 = 52.000</p><p>z = 52.000 - 26.145</p><p>z = 25.855</p><p></p><p>CMIIW</p><p><strong>Jawaban:</strong></p><p>16.050 + z + 7.506 + 25 + 2.564 = 52.000</p><p>Maka : </p><p>z = ....</p><p>16.050 + z + 7.506 + 25 + 2.564 = 52.000</p><p>z + 26145 = 52.000</p><p>z = 52.000 - 26.145</p><p>z = <strong>25.855</strong></p><br />
+                                            <h2 class="ez-toc-section" id="2daad-ae7-alfamy-peti-have-a-pet-it-is-a-dog-and-i-call-it-oolgy-daigy-is-achinese-breed-it-is-small-fluffy-and-cute-it-hasgot-thick-black-eur-when-i-cudlle-lt-the-fourfeels-soft-doigu-doesn">
+                            19. 2*DAAD-AE7 ALFAmy petI have a pet it is a dog and I call it oolgy. Daigy is aChinese breed, it is small, Fluffy ) and cute. It hasgot thick black Eur, when I cudlle lt, the fourFeels soft. DOIGU doesn't like bones every day ifeats SORE fod like Steamed rice, fishor breadWhen I am at school Dolgy plays whith my rabbitThey get along well and never fight mybe becauseCalgy doesn't bark alot It treats the other Animaisin our house gently, and it hever ears shoesDolgy it really sweet and friendy animal"How Dolgy look like?2. whom Daigy plays with when the writer goes tolsehoold school?3. What does Oolqy eat every morning ?a, they get along wella..The under lined word refersto.our house gently5. ..nother animals inWhat is the synonymor gently ?​</h2><br />
+                        <p>Jawaban:</p><p>1.  it is small, Fluffy and cute. It has</p><p>got thick black fur</p><p>2. Rabbit</p><p>3. SORE fod like Steamed rice, fishor bread</p><p>4. Dolgy and rabbit</p><p>5. Soft</p><br />
+                                            <h2 class="ez-toc-section" id="mybe-ada-yg-ngerti-ksih-tau-jwbn-serta-penjelasan-ny-%e2%80%8b">
+                            20. mybe ada yg ngerti ksih tau jwbn serta penjelasan ny ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D.-x + 2y = 5</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Titik (3,4) dan (-1,2)</p><p></p><p>Persamaan : y - y1 / y2 - y1 = x - x1 /x2 - x1 </p><p>y - 4/2 - 4 = x - 3/-1 - 3</p><p>y - 4 / -2 = x - 3 / -4</p><p>(y-4)-4 = -2(x-3)</p><p>-4y + 16 = -2x + 6</p><p>-4y = -2x + 6 - 16</p><p>-4y = -2x - 10</p><p>-4y + 2x = 10</p><p>-4y + 2x - 10</p><p>-2y + x - 5</p><p>-2y + x = 5</p><p>-x + 2y = 5</p><br />
+                                            <h2 class="ez-toc-section" id="47-65-x-76-42-649-1-500makax-goodluck-hihihi-bikin-pusing-mybe%e2%80%8b">
+                            21. 47 + 65 + x + 76 + 42 + 649 = 1.500Maka,x = ...goodluck.hihihi.bikin pusing mybe​</h2><br />
+                        <p><strong>Jawaban:</strong></p>x = 621<p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>47 + 65 + x + 76 + 42 + 649 = 1.500</p><p>879 + x = 1.500</p><p>x = 1.500 - 879</p>x = 621<p></p><p></p><p>ea</p><p>47 + 65 + x + 76 + 42 + 649 = 1.500</p><p>x = ...?</p><p>x = 1.500 – 47+65+76+42+649</p><p>x = 1.500 – 879</p><p>x = <strong>621</strong></p>____________________<p></p><p>47 + 65 + 621 + 76 + 42 + 649 = </p><p>1.500</p><p></p><p><strong>Jadi</strong><strong>,</strong><strong> </strong><strong>x </strong><strong>adalah </strong><strong>6</strong><strong>2</strong><strong>1</strong></p><br />
+                                            <h2 class="ez-toc-section" id="diktq-1-234kak-%e2%88%9a5-929tenttq-%c3%97-kak-____________nt-arrggh-pencapaian-mybenambah-10%e2%80%8b">
+                            22. diktq = 1.234kak = √5.929tenttq × kak = ? ____________nt : arrggh pencapaian mybe,nambah +10​</h2><br />
+                        <p>tq = 1.234</p><p>kak = √5.929 = √77² = 77</p><p></p><p>tentukan</p><p>tq × kak</p><p>= 1234 × 77</p><p>= 95.018</p><p>diketahui </p><p>tq   = 1.234</p><p>kak = √5.929 = √77² = 77</p><p></p><p>tentukan</p><p>tq × kak = <strong>95.018</strong></p><p>= 1.234 × 77</p><p>= <strong>95.018</strong></p><p></p><p>#Brainlyind0nesia-</p><br />
+                                            <h2 class="ez-toc-section" id="kuissjikaa-1-b-2-c-3-z-26makazakyganzz-ntspamlike-dri-kmrin-mybe-klw-diitung-udh-1k-like-nyavthanks-qq-%e2%80%8b">
+                            23. kuissJika:A = 1, B = 2, C= 3, ....Z = 26maka:zakyganzz = . . .nt:spamlike dri kmrin, mybe klw diitung" udh 1k+ like nya:vthanks qq ^^​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>473.673.200</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Jika:</p><p>A = 1, B = 2, C= 3, ....Z = 26</p><p></p><p>maka:</p><p>zakyganzz = . . .</p><p>26×1×11×25×7×1×14×26×26</p><p>= <strong>473.673.200</strong></p><br />
+                                            <h2 class="ez-toc-section" id="richie-anna-what-should-we-do-tonightanna-hmmm-l-think-we-can-go-to-watch-a-new-movie-in-studio-xxl-or-mybe-we-can-go-to-gramedia-book-store-because-theres-a-book-sale-there-richie-welhow-abo">
+                            24. Richie: Anna ,what should we do tonight?Anna : hmmm, l think we can go to watch a new movie in studio XXl or mybe we can go to Gramedia book store because there's a book sale there.Richie: wel,how about going to Gramedia book store?Anna: sounds interesting.Richie: okay,l'll pick you up at 6 p.m see you,Anna.Anna: see you, RichieQuestions:1.mention the experessions of asking for suggestion in the dialogue above?Aswer:...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>Richie: Anna ,what should we do tonight?</strong></p><p><strong>Penjelasan:</strong></p><p>karena dialog tersebut kalau diartikan dalam bahasa Indonesia berarti kalau Richie meminta saran(suggestion) kepada Anna</p><br />
+                                            <h2 class="ez-toc-section" id="help-mehmapel-biologi-kelas-9smp-materi-bab-3-pewaris-sifat-pada-mhkode-9-4-3-mybeno-1-3-jelaskan-secara-rinci-soal-tertera-%e2%9d%96penting-jan-asalspam-berkomentar-dijawaban-dan-copas">
+                            25. Help meh:")Mapel : Biologi Kelas : 9SMP Materi : Bab 3-Pewaris sifat pada MHKode: 9.4.3 (mybe)no 1-3 jelaskan secara rinci soal tertera ❖Penting jan asal,spam, berkomentar dijawaban dan copas❖goodluck mks:") ​</h2><br />
+                        <p>1. Kemungkinan kelinci berbulu hitam adalah 12 ekor.</p><p>2. Genotipe keturunan keduanya adalah HHRR, HhRR, HHRr, HhRr, HHrr, Hhrr, hhRR, hhRr, dan hhrr.</p><p>    Fenotipe keturunan keduanya adalah bulu hitam kasar, hitam halus, putih kasar, dan putih halus berurutan.</p><p>    Perbandingan fenotipe keduanya adalah 9 : 3 : 3 : 1 berurutan.</p><p>3. Kemungkinan anaknya albino 0%.</p><p></p>Pembahasan:<p>Pada perkawinan generatif sifat yang muncul pada keturunannya merupakan campuran dari sifat kedua induknya. Penurunan sifat ini dibawa oleh materi genetik yang terkandung di sel gamet induk.</p><p>Istilah dalam pewarisan sifat yang akan dibahas:</p><strong>Dominan</strong>. Dominan maksudnya bersifat lebih kuat daripada sifat lainnya. Sifat yang dominan pada umumnya ditulis dengan huruf kapital.<strong>Resesif</strong>. Resesif adalah sifat yang "dikalahkan" oleh sifat dominan. Sifat yang resesif umumnya ditulis dengan huruf kecil.<strong>Fenotipe</strong>. Fenotipe adalah sifat yang tampak secara fisik.<strong>Genotipe</strong>. Genotipe adalah "kode sifat" yang tidak tampak secara fisik, diturunkan dari kedua induk.<strong>Persilangan monohibrid</strong>. Persilangan monohibrid adalah persilangan dengan satu sifat berbeda.<strong>Persilangan dihibrid</strong>. Persilangan dihibrid adalah persilangan dengan dua sifat berbeda.<p></p>Diketahui:Kelinci jantan berbulu hitam disilangkan dengan kelinci betina berbulu putih. Warna hitam dominan terhadap putih. Keturunan pertama semuanya berbulu hitam.Kelinci berbulu hitam kasar disilangkan dengan kelinci berbulu putih halus. Kasar dominan terhadap halus. Keturunan pertama semuanya berbulu hitam kasar.Pria normal homozigot (AA) menikah dengan wanita albino (aa).<p></p>Ditanya:Jika sesama F1 disilangkan dan menghasilkan 16 anak, kemungkinan jumlah kelinci berbulu hitam adalah ...Genotipe, fenotipe, dan perbandingan fenotipe pada keturunan kedua.Persentase anaknya menderita albino adalah ...<p></p>Penyelesaian:<p><strong>[</strong><strong>Nomor</strong><strong> </strong><strong>1</strong><strong>]</strong></p><p>Hitam = H, putih = h</p><p>Kelinci betina berbulu putih. Maka genotipe betina adalah hh.</p><p>Kelinci jantan berbulu hitam. Maka pada genotipe jantan terdapat minimal 1 sifat dominan (H).</p><p>Karena pada F1 semuanya berbulu hitam, maka dapat disimpulkan bahwa kelinci jantan genotipenya adalah HH.</p><p></p><p>P: HH &gt;&lt; hh</p><p>G: H . h</p><p>F1: Hh</p><p></p><p>P2: Hh</p><p>F2: Hh &gt;&lt; Hh</p><p>Genotipe F2: HH ; Hh ; Hh ; hh</p><p>Fenotipe F2: hitam ; hitam ; hitam ; putih</p><p></p><p>Pada keturunan kedua, kemungkinan bulu hitam adalah 3/4.</p><p></p><p>Kemungkinan bulu hitam dari 16 kelinci:</p><p>[tex]16 \times  \frac{3}{4}  [/tex]</p><p>[tex] \boxed{ \boxed{= 12 \: ekor}}[/tex]</p><p>~</p><p></p><p><strong>[</strong><strong>Nomor 2</strong><strong>]</strong></p><p>Hitam = H, putih = h</p><p>Kasar = R, halus = r</p><p>Kelinci betina berbulu putih halus. Maka genotipe betina adalah hhrr.</p><p>Kelinci jantan berbulu hitam kasar. Maka pada genotipe jantan terdapat minimal 1 sifat dominan (H, R).</p><p>Karena pada F1 semuanya berbulu hitam kasar, maka dapat disimpulkan bahwa kelinci jantan genotipenya adalah HHRR.</p><p></p><p>P: HHRR &gt;&lt; hhrr</p><p>G: HR . hr</p><p>F1: HhRr</p><p></p><p>P2: HhRr</p><p>F2: HhRr &gt;&lt; HhRr</p><p>G2: HR ; hR ; Hr ; hr &gt;&lt; HR ; hR ; Hr ; hr</p><p>Genotipe F2: <strong>HHRR ; HhRR ; HHRr ; HhRr ; HHrr ; Hhrr ; hhRR ; hhRr ; hhrr.</strong></p><p>Fenotipe F2: <strong>hitam kasar, hitam halus, putih kasar, putih halus</strong><strong>.</strong></p><p>Perbandingan fenotipe F2:</p><p>Hitam kasar : hitam halus : putih kasar : putih halus</p><p>= <strong>9 : 3 : 3 : 1.</strong></p><p></p><p>~</p><p></p><p><strong>[</strong><strong>Nomor</strong><strong> </strong><strong>3</strong><strong>]</strong></p><p>Pria normal homozigot (AA) menikah dengan wanita albino (aa).</p><p>P: AA &gt;&lt; aa</p><p>G: Aa</p><p>F1: Aa ; Aa ; Aa ; Aa</p><p></p><p>Karena (A) dominan terhadap (a), maka semua anaknya normal.</p><p></p><p>Jadi persentase anaknya menderita albino adalah <strong>0%.</strong></p><p></p><p>~</p><p></p><p><strong>*</strong><strong>kete</strong><strong>rangan</strong><strong>:</strong></p><p>P = parental (induk)</p><p>G = gamet</p><p>F = filial (keturunan yang dihasilkan)</p><p>Tabel persilangan terlampir.</p><p></p>Kesimpulan:Kemungkinan kelinci berbulu hitam adalah 12 ekor.Genotipe keturunan keduanya adalah HHRR, HhRR, HHRr, HhRr, HHrr, Hhrr, hhRR, hhRr, dan hhrr.    Fenotipe keturunan keduanya adalah bulu hitam kasar, hitam halus, putih kasar, dan putih halus berurutan.    Perbandingan fenotipe keduanya adalah 9 : 3 : 3 : 1 berurutan.Kemungkinan anaknya albino 0%.<p></p>Detail jawaban:<p>Kelas: 9</p><p>Mapel: biologi</p><p>Materi: Pewarisan Sifat</p><p>Kode kategorisasi: 9.4.6</p><p>Kata kunci: pewarisan sifat, persilangan, dominan, resesif, fenotipe, genotipe, perbandingan, albino.</p><p></p>Pelajari lebih lanjut di:<p>https://brainly.co.id/tugas/28051800 (soal sejenis nomor 2)</p><p>https://brainly.co.id/tugas/20549485 (soal sejenis nomor 3).</p><p>https://brainly.co.id/tugas/23874750 (persilangan monohibrid)</p><p>https://brainly.co.id/tugas/19044320 (persilangan monohibrid intermediet).</p><br />
+                                            <h2 class="ez-toc-section" id="bantu-jawab-yaasubject-ipafisika-mybe-aku-gatau-juga%e2%80%8b">
+                            26. bantu jawab yaasubject: ipa/fisika mybe? aku gatau juga​</h2><br />
+                        <p>Jawaban:</p><p>Kurasa si B </p><p>Penjelasan:</p><p>Semoga membantu</p><p>No copas</p><p>Maaf kalo salah</p><p>Jgn hapus jawabanku</p><p>Jadikanlah jawaban terbaik</p><br />
+                                            <h2 class="ez-toc-section" id="apa-artinya-mybe-i-feel-happy">
+                            27. apa artinya mybe i feel happy</h2><br />
+                        mungkin aku merasa bahagia<br /><br />semoga bermanfaatmaybe i feel happy = mungkin aku merasa bahagia<br />
+                                            <h2 class="ez-toc-section" id="1-they-have-there-sons-and-two-daughters-bety-is-of-their-children1-moust-young-2-the-younger-3-the-youngest4-younger2-i-cant-hear-you-please-speak-1-louder2-loudest3-more-loud4-the-most-loud3">
+                            28. 1.They have there sons and two daughters.bety is... of their children1.moust young 2.the younger 3.the youngest4.younger2.I can't hear you .please speak...1.louder2.loudest3.more loud4.the most loud3.As we didn't have much money, we stayed at...hotel that we could find.1.a less expensive 2.a more expensive3.the least expensive4.the most expensive4.they say that it's...strom in ten yeares1.by far worse2.most worst2.most worst the worse3.the worst5.that happened in 1990,mybe even....1.earlier2.more early3.the earliest 4.the most earlyTolong bantuin jawab yang ini dong.Pilih kata dibawa terus isi titik" yang diatas?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. the youngest</p><p>2. louder</p><p>3. the least expensive</p><p>4. the worst</p><p>5. earlier</p><p><strong>Penjelasan:</strong></p><p>-</p><br />
+                                            <h2 class="ez-toc-section" id="kuez-50-selesaikan-soal-di-bawah-tex-rmlimlimits_xto-2-frac3x-6-x-2-textex-texhm-mybe-smpe-disni-doang-gua-maen-brenly-awok-bosen-bet-dsni-dan-sa">
+                            29. Kuez [50]- Selesaikan soal di bawah -[tex] \\ {\rm{\lim\limits_{x\to \: 2}} \:  \frac{3x - 6}{ x + 2}  }  [/tex][tex] \\ \\ [/tex]''Hm Mybe smpe disni doang gua maen brenly awok" Bosen bet dsni dan saia minta mngp kl ad slh wkwk wlau pun w g kenal siapa" dsni  ;V - Sekian pesan dri Jeffan gtg - wasalam  ;v​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>[tex]{\rm{\lim\limits_{x\to \: 2}} \: \frac{3x - 6}{ x + 2} }[/tex]</p><p>[tex] =  \frac{3(2) - 6}{2 + 2} [/tex]</p><p>[tex] =  \frac{6 - 6}{4} [/tex]</p><p>[tex] =  \frac{ 0}{4} [/tex]</p><p>[tex] =  0[/tex]</p><p><strong>JAWABAN </strong><strong>SUDAH</strong><strong> TERLAMPIR</strong></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/aZ9WA1srMMw?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_inggris</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-yang-termasuk-kosakata-baku-yaitu/">Berikut Yang Termasuk Kosakata Baku Yaitu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-motivator-adalah/">Contoh Motivator Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-faktor-sugesti/">Contoh Faktor Sugesti</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/arti-its-oke/">Arti It&#039;s Oke</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/saiko/">Saiko</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pemes-adalah/">Pemes Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/buah-j/">Buah J</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/orientasi-utara/">Orientasi Utara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tangga-nada-g-mayor/">Tangga Nada G Mayor</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/keistimewaan-dari-faktor-produksi-kewirausahaan-terletak-pada/">Keistimewaan Dari Faktor Produksi Kewirausahaan Terletak Pada</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/setelah-bumi-hancur-total-maka-lahirlah-alam-baru-yang-disebut/">Setelah Bumi Hancur Total Maka Lahirlah Alam Baru Yang Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/suku-baduy-berasal-dari/">Suku Baduy Berasal Dari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ruas-garis-pada-bangun-datar/">Ruas Garis Pada Bangun Datar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/y-4y/">Y 4y</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/salah-satu-indikator-konsistensi-logis-pada-keterampilan-generik-sains-adalah/">Salah Satu Indikator Konsistensi Logis Pada Keterampilan Generik Sains Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebuah-koin-dilempar-sekali-peluang-muncul-angka-adalah/">Sebuah Koin Dilempar Sekali Peluang Muncul Angka Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/induk-organisasi-basket-internasional-ialah/">Induk Organisasi Basket Internasional Ialah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tangga-nada-diatonis-adalah/">Tangga Nada Diatonis Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gwenchana-artinya/">Gwenchana Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sistematika-surat-lamaran-pekerjaan/">Sistematika Surat Lamaran Pekerjaan</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

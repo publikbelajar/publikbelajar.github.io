@@ -1,0 +1,1282 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Alur Yaiku - BELAJAR</title>
+    <meta name="description" content="Alur Yaiku, , , , , , , 0, Alur Utawa Plot Ing Cerita Kidang Kencana Yaiku, mikajhhe.blogspot.com, 1163 x 630, jpeg, , 20, alur-yaiku, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Alur Yaiku - BELAJAR" />
+    <meta property="og:description" content="Alur Yaiku, , , , , , , 0, Alur Utawa Plot Ing Cerita Kidang Kencana Yaiku, mikajhhe.blogspot.com, 1163 x 630, jpeg, , 20, alur-yaiku, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Alur Yaiku - BELAJAR" />
+    <meta name="twitter:description" content="Alur Yaiku, , , , , , , 0, Alur Utawa Plot Ing Cerita Kidang Kencana Yaiku, mikajhhe.blogspot.com, 1163 x 630, jpeg, , 20, alur-yaiku, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Alur Yaiku</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">kencos99</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Alur+Yaiku" alt="Alur Yaiku">
+                    </div>
+                    <p></p>
+                    <p>alur swasana yaiku.........</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-swasana-yaiku">1.
+                                            alur swasana yaiku.........</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pangertene-alur-yaiku%e2%80%8b">2.
+                                            pangertene alur yaiku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pangertosan-alur-cerkak-yaiku">3.
+                                            pangertosan Alur cerkak yaiku...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jinise-alur-ana-loro-yaiku-lan-%e2%80%8b">4.
+                                            Jinise alur ana loro, yaiku...lan...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-narasi-yaiku-alur-paraga-lan-%e2%80%8b">5.
+                                            struktur teks narasi yaiku alur, paraga, lan..​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bageyan-alur-crita-sing-pungkasan-yaiku%e2%80%8b">6.
+                                            Bageyan alur crita sing pungkasan yaiku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#struktur-teks-narasi-yaiku-a-alur-latar-pragab-alur-paraga-latarc-alur-paraga-alurd-paraga-alur-latar-%e2%80%8b">7.
+                                            Struktur teks narasi yaiku.....A. alur-latar-pragaB. alur-paraga-latarC. alur-paraga-alurD. paraga-alur-latar ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-teks-narasi-yaiku-10-pointeks-wacanceritaurutan-kedadeanwektu%e2%80%8b">8.
+                                            Alur teks narasi yaiku .....(10 Poin)teks wacanceritaurutan kedadeanwektu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-sajroning-teks-narasi-yaiku-bahasa-jawa%e2%80%8b">9.
+                                            alur sajroning teks narasi yaiku bahasa jawa​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-kang-nyritkake-prastawa-kang-wis-dumadikepungkur-yaiku%e2%80%8b">10.
+                                            alur kang nyritkake prastawa kang wis dumadi/kepungkur yaiku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-sing-gambarake-kaanane-iki-diterusake-ngandharake-kaanan-sing-kepungkur-yaiku-%e2%80%8b">11.
+                                            alur sing gambarake kaanane iki, diterusake ngandharake kaanan sing kepungkur yaiku ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tembung-pitakon-sing-di-enggo-nuduhake-ngenani-alur-dumadine-sawijine-kedadeyan-yaiku-tembung%e2%80%8b">12.
+                                            Tembung pitakon sing di enggo nuduhake ngenani alur dumadine sawijine kedadeyan, yaiku tembung​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-dumading-ana-telung-warna-yaiku">13.
+                                            Alur dumading ana telung warna, yaiku </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-teks-narasi-ana-telu-yaikubantu-jawab-kakak%e2%80%8b">14.
+                                            alur teks narasi ana telu yaikubantu jawab kakak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kang-diarani-alur-ing-teks-narasi-yaiku-%c2%a02-poin%e2%80%8b">15.
+                                            Kang diarani alur ing teks narasi yaiku.... *2 poin​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-utawa-plot-ing-crita-kidang-kencana-yaiku">16.
+                                            alur utawa plot ing crita kidang kencana yaiku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ing-ngisor-iki-kang-kalebu-ing-macem-maceme-alur-yaiku-b-indo-berikut-ini-termasuk-dalam-berbagai-alur-tersebut">17.
+                                            Ing ngisor iki kang kalebu ing macem-maceme alur yaiku..
+B. indo : Berikut ini termasuk dalam berbagai alur tersebut..</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-sing-nyeritakake-kahanan-saiki-nganti-sakteruse-yaiku%e2%80%a6-a-alur-maju-b-alur-mundur-c-alur-campuran-d-alur-bebas-e-alur-winates">18.
+                                            Alur sing nyeritakake kahanan saiki nganti sakteruse, yaiku… a. alur maju b. alur mundur c. alur campuran d. alur bebas e. alur winates</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-yaiku-lumakune-crita-miturut-urutan%e2%80%8b">19.
+                                            Alur yaiku lumakune crita miturut urutan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-kang-kerep-kanggo-mergo-critane-ora-njelehi-yaiku%c2%a0%e2%80%8b">20.
+                                            Alur kang kerep kanggo mergo critane ora njelehi yaiku ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-cerita-saka-teks-ing-dhuwur-yaiku%e2%80%8b">21.
+                                            alur cerita Saka teks ing dhuwur yaiku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-alur-crita-ing-crita-rakyat-kuwi-ana-3-jinise-alur-kang-ora-kalebu-alur-crita-rakyat-yaiku-a-alur-maju-b-alur-awon-c-alur-mundur-d-alur-campuran">22.
+                                            1.Alur crita ing crita rakyat kuwi ana 3 jinise. Alur kang ora kalebu alur crita rakyat yaiku...
+ A.Alur maju
+ B.Alur awon
+ C.Alur mundur
+ D.Alur campuran</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kang-kalebu-struktur-teks-narasi-salah-sijine-yaiku-alur-alur-yaiku-tolong-bantuanya-kak-plis%e2%80%8b">23.
+                                            Kang kalebu struktur teks narasi salah sijine yaiku alur. Alur yaiku...Tolong bantuanya kak plis!!!!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alurplot-ana-3-yaiku%e2%80%8b">24.
+                                            alur/plot ana 3 yaiku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ikam-nutuk-alur-sekam-gaweh-yai-artinya%e2%80%8b">25.
+                                            ikam nutuk alur sekam gaweh yai artinya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-yaiku-reroncening-prastawa-ingkang-dipun-aturaken-dhumateng-pamaos-jenisipun-wonten-tiga-antawisipun-wonten-alur-kaliyan-alur">26.
+                                            alur yaiku reroncening prastawa ingkang dipun aturaken dhumateng pamaos, jenisipun wonten tiga, antawisipun wonten alur... kaliyan alur...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-saka-crita-ing-drama-bentusan-budaya-yaiku">27.
+                                            alur saka crita ing drama bentusan budaya yaiku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-iku-unsure-ana-3-yaiku">28.
+                                            alur iku unsure ana 3 yaiku</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ing-sajrone-cerkak-ana-unsur-intrinsik-kang-diarani-alur-ing-ngisor-iki-kang-kalebu-reruntutan-alur-maju-yaiku%c2%a0%e2%80%8b">29.
+                                            . Ing sajrone cerkak ana unsur intrinsik kang diarani alur. Ing ngisor iki kang kalebu reruntutan alur maju yaiku ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#9tahapan-alur-crita-yaiku-kajaba-%e2%80%8b">30.
+                                            9Tahapan alur crita yaiku, kajaba..​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#urutan-alur-bibar-mudhune-konflik-yaiku%e2%80%8b">31.
+                                            urutan alur bibar mudhune konflik yaiku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alurplot-yaiku-pola-pangembangan-crita-kang-kadhapuk-saka-%e2%80%a6-%c2%a0%e2%80%8b">32.
+                                            Alur/plot yaiku pola pangembangan crita kang kadhapuk saka …. *​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-crita-yaiku-jawab-ya-%e2%80%8b">33.
+                                            alur crita yaiku jawab ya ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-crita-wayang-gathutkaca-gugur-yaiku%e2%80%8b">34.
+                                            Alur crita wayang "gathutkaca gugur" yaiku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-kang-cinatita-dening-kakawih-gubahan-mpu-prapanca-yaiku-a-maju-b-mundur-c-maju-lan-mundur-d-tanpa-alur%e2%80%8b">35.
+                                            alur kang cinatita dening kakawih gubahan Mpu Prapanca yaiku...a. maju b. mundur c. maju lan mundur d. tanpa alur​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-yaiku-lakuning-crita-adhedhasar-urutan-wektu-ing-wacan%e2%80%8b">36.
+                                             Alur yaiku lakuning crita adhedhasar urutan wektu ing wacan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#b-ayo-rembugan-bab-unsur-instrinsik-critasayembara-kidang-kencana-kanthi-ngisiceceg-ceceg-ing-ngisor1-tema-ing-crita-kasebut-yaiku-2-alur-utawa-plot-ing-crita-kasebut-yaiku3-alur-ing-crita-kid">37.
+                                            B Ayo rembugan bab unsur instrinsik critasayembara Kidang Kencana kanthi ngisiceceg-ceceg ing ngisor!1. Tema ing crita kasebut yaiku ....2. Alur utawa plot ing crita kasebut yaiku3. Alur ing crita Kidang Kencana yaiku alur ....4. Setting utawa latar sing ana ing crita kasebut yaiku ...5. Tokoh lan penokohan. Paraga ing crita kasebut singprotagonis yaiku ... Lan sing antagonis yaiku .... Wewatakanepara paraga yaiku ....6. Amanat saka crita kasebut yaiku ....5s​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-cerita-ing-dhuwur-yaiku%e2%80%8b">38.
+                                            alur cerita ing dhuwur yaiku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-kang-nyritakake-utawa-gambarake-kahanan-saiki-kanthi-sateruse-yaiku-alur-a-campuranb-majuc-mundurd-plot%e2%80%8b">39.
+                                            alur kang nyritakake utawa gambarake kahanan saiki kanthi sateruse yaiku alur... A.campuranB.majuC.mundurD.plot​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alur-diperang-dadi-3yaiku%e2%80%8b">40.
+                                            alur diperang dadi 3,yaiku​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="alur-swasana-yaiku">
+                            1. alur swasana yaiku.........</h2><br />
+                        kalau alur itu,alur maju,mundur dan campuran. mungkin yang dimaksud latar suasana<br />Latar suasana merupakan latar yang menggambarkan suasana peristiwa yang terjadi, misalnya suasana gembira, sedih, atau romantis.<br />
+                                            <h2 class="ez-toc-section" id="pangertene-alur-yaiku%e2%80%8b">
+                            2. pangertene alur yaiku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>adalah rangkaian peristiwa yang direka dan dijalin sedemikian rupa sehingga menggerakkan jalan cerita, dari awal, tengah, hingga mencapai klimaks dan akhir cerita.</p><p><strong>Penjelasan:</strong></p><p></p>semoga membantu<p></p>maaf kalo salah<br />
+                                            <h2 class="ez-toc-section" id="pangertosan-alur-cerkak-yaiku">
+                            3. pangertosan Alur cerkak yaiku...</h2><br />
+                        Alur cerkak yaiku rantamane crita sing sinambungan mbentuk crita kanthi urutan kedadeyan saengga mbentuk alur maju, alur sorot balik, alur campuran.<br /><br />smg membantu<br /><br />
+                                            <h2 class="ez-toc-section" id="jinise-alur-ana-loro-yaiku-lan-%e2%80%8b">
+                            4. Jinise alur ana loro, yaiku...lan...​</h2><br />
+                        Jawaban :<p>Alur maju lan alur mundur</p><p></p>Pembahasan :<p>Jinise alur ana loro, yaiku :</p><p>a. Alur maju</p><p><strong>Y</strong><strong>a</strong><strong>i</strong><strong>k</strong><strong>u</strong><strong> </strong>rangkaian kedadeyan sing urutane cocog karo urutan kedadeyan sing terus maju.</p><p></p><p>b. Alur mundur</p><p><strong>Y</strong><strong>a</strong><strong>i</strong><strong>k</strong><strong>u</strong><strong> </strong><strong> </strong>seri acara sing urutane ora cocog karo urutan kedadeyan utawa mundur.</p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-narasi-yaiku-alur-paraga-lan-%e2%80%8b">
+                            5. struktur teks narasi yaiku alur, paraga, lan..​</h2><br />
+                        <p>Jawaban: </p><p>Struktur teks narasi yaiku alur, paraga, lan LATAR</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bageyan-alur-crita-sing-pungkasan-yaiku%e2%80%8b">
+                            6. Bageyan alur crita sing pungkasan yaiku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Tahapan alur cerkak Yaiku:</p><p>     1. Tahap perkenalan/Eksposisi</p><p></p><p>“Ajuning jaman prasasat datan bisa dibendung. Sing jenenge handphone prasasat pating tlecek ing saben papan. Sejene kuwi, internet, twitter, engga sing aran facebook wis anjrah tekan karang padesan.Ya merga ngenut ombyaking jaman iku aku njur reka-reka melu gawe akun facebook.”</p><p></p><p>“Sore iku aku nuhoni dhawuh seka redhaksi kudu ngirim warta lewat e-mail.”</p><p></p><p>Dari penggalan cerita tersebut kita dapat menyimpulkan bahwa tohoh aku/Wisnu adalah seorang wartawan yang mempunyai akun facebook.</p><p></p><p>            2. Tahap pertentangan/konflik</p><p></p><p>“Ora let suwe wis ana sing add ing inbox-ku “Assalamu’alaikum, sugeng sonten mas..” Tak lirik sing kirim pesen  asmane Jiwandari Dewi Wahid utawa Bu Lurah Purwodadi.”</p><p></p><p>“Merga asring FB-an lan sms-an, njalari aku kepengin dolan menyang Purwodadi”</p><p></p><p>Dari penggalan cerita tersebut kita tahu bahwa tokoh aku/Wisnu sering FB-an dengan Bu Lurah Purwodadi. Sehingga membuatnya ingin pergi bertamu ke Purwodadi.</p><p></p><p>           3. Tahap penanjakan konflik/komplikasi</p><p></p><p>“Gandheng acarane diwiwiti tanggal 31 Desember 2010, mulane aku diaturi pinarak ana daleme Bu Lurah.”</p><p></p><p>“Tepungna sik Mas, iki adhiku. Jenenge Untari, komplite Untari Puspitaningsih.”</p><p></p><p>Dari penggalan cerita di atas kita tahu bahwa tohoh aku/Wisnu menginap di tempat Bu Lurah dan berkenalan dengan Untari</p><p></p><p>           4. Tahap Klimaks</p><p></p><p>“Merga bu Ndari duwe ayahan liya, mula banjur utusan Untari ngancani aku mlaku-mlaku ana pesisir.”</p><p></p><p>“Sekawit lambeku kaya kinunci. Aku sing biyasane crewet yen pinuju wawancara dadi bungkem.”</p><p></p><p>Dari penggalan cerita diatas kita tahu bahwa Untari di utus untuk menemani Wisnu jalan-jalan sehingga membuat Wisnu merasakan perasaan yang tidak biasa pada dirinya.</p><p></p><p>         5. Tahap penyelesaian</p><p></p><p>“Pokoke acara malem taun anyar 2011 nilaske kenangan kang nabet atiku lan atine Untari.”</p><p></p><p>“Senadyan statusku dhudha anak siji, nanging nyatane Untari uga nglanggati panah asmara kang tak tamakake jroning atine.”</p><p></p><p>“Untari kanthi ati manteb dak lamar dadi sisihanku.”</p><p></p><p>Dari penggalan cerita di atas kita dapat menarik kesimpulan bahwa akhirnya Wisnu dan Untari dapat berpacaran dan bertunangan.</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="struktur-teks-narasi-yaiku-a-alur-latar-pragab-alur-paraga-latarc-alur-paraga-alurd-paraga-alur-latar-%e2%80%8b">
+                            7. Struktur teks narasi yaiku.....A. alur-latar-pragaB. alur-paraga-latarC. alur-paraga-alurD. paraga-alur-latar ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>B.alur-paraga-latar</strong></p><p><strong>Penjelasan:</strong></p><p><strong>alur:</strong><strong>urutane </strong><strong>kedadean</strong></p><p><strong>paraga:</strong><strong>kang </strong><strong>ngalami </strong><strong>kedadean</strong></p><p><strong>latar:</strong><strong>wektu,</strong><strong>papan,</strong><strong>lan</strong><strong> </strong><strong>swasanane </strong><strong>kedadean</strong></p><p></p><p><strong>semoga </strong><strong>membantu^_^</strong></p><p><strong>Jawaban:</strong></p><p>A.alur-latar-praga</p><p>semoga membantu </p><p>maaf jika salah </p><br />
+                                            <h2 class="ez-toc-section" id="alur-teks-narasi-yaiku-10-pointeks-wacanceritaurutan-kedadeanwektu%e2%80%8b">
+                            8. Alur teks narasi yaiku .....(10 Poin)teks wacanceritaurutan kedadeanwektu​</h2><br />
+                        <p>[tex]\huge\mathfrak\blue{Jawaban:}[/tex]</p><p><strong>B.</strong><strong> </strong>Cerita.</p>Pembahasan<p><strong>Pengertian</strong><strong> </strong><strong>Teks </strong><strong>Narasi</strong></p><p>Teks narasi adalah jenis teks yang berisi cerita yang disampaikan melalui alur peristiwa yang disusun secara kronologis atau kausalitas atau sebab-akibatnya. Maksudnya, cerita tersebut disampaikan secara berurutan mulai dari latar belakang hingga puncak kejadian.</p><p><strong>Pelajari</strong><strong> Lebih</strong><strong> Lanjut</strong></p><p>Materi teks narasi pada brainly.co.id/tugas/2497652</p><strong>Detail:</strong><p><strong>Mapel</strong><strong>:</strong><strong> </strong>B.Indonesia.</p><p><strong>Kelas:</strong><strong> </strong>IV SD.</p><p><strong>Bab:</strong><strong> </strong>2 - Teks Narasi.</p><p><strong>Materi:</strong><strong> </strong>Alur pada teks narasi, pengertian teks narasi.</p><p><strong>Kata </strong><strong>Kunci</strong><strong>:</strong><strong> </strong>Teks Narasi</p><p><strong>Kode </strong><strong>Kategorisasi</strong><strong>:</strong><strong> </strong>9.1.14</p><br />
+                                            <h2 class="ez-toc-section" id="alur-sajroning-teks-narasi-yaiku-bahasa-jawa%e2%80%8b">
+                            9. alur sajroning teks narasi yaiku bahasa jawa​</h2><br />
+                        <strong>Jawaban:</strong><p><strong>Alur ing narasi </strong>yoiku <strong>rentetan pola tindak tanduk e gawe mecahno masalah </strong>sing onok nang narasi.</p><p></p><strong>Penjelasan:</strong><p><strong>Narasi </strong>merupakan sebuah karangan yang bertujuan untuk <strong>menceritakan pengalaman hidup atau kejadian</strong> yang dialami tokoh didalam karangan. Untuk dapat menggambarkan kenyataan hidup, narasi biasanya menerangkan tempat, waktu, suasana, tingkah laku, urutan kejadian dan sebagainya. Bahasa Jawa juga mengenal adanya narasi yang biasanya untuk menceritakan suatu kejadian misalnya asal-usul nama suatu tempat atau kota. Unsur-unsur dalam narasi, antara lain:</p><strong>Tema</strong>, pokok pembicaraan yang menjadi dasar penceritaan penulis. <strong>Latar</strong>, merujuk pada pengertian tempat dan lingkungan sosial tempat terjadinya peristiwa yang diceritakan. <strong>Penokohan</strong>, merupakan penampilan tokoh-tokoh yang tercantum dalam karangan narasi. <strong>Alur</strong>, rangkaian pola-pola tindak-tanduk untuk memecahkan konflik yang terdapat dalam narasi tersebut.<p></p><p><strong>Pelajari lebih lanjut</strong>
+</p><p>Pelajari lebih lanjut tentang <strong>narasi </strong>pada</p><p>brainly.co.id/tugas/13400972</p><p><strong>#BelajarBersamaBrainly</strong></p><br />
+                                            <h2 class="ez-toc-section" id="alur-kang-nyritkake-prastawa-kang-wis-dumadikepungkur-yaiku%e2%80%8b">
+                            10. alur kang nyritkake prastawa kang wis dumadi/kepungkur yaiku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pekerti ngelingake isine dongeng</p><p><strong>Penjelasan:</strong></p><p>maaf klo jawabnnya salah soalnya aku gak terlalu ngerti bahasaya</p><br />
+                                            <h2 class="ez-toc-section" id="alur-sing-gambarake-kaanane-iki-diterusake-ngandharake-kaanan-sing-kepungkur-yaiku-%e2%80%8b">
+                            11. alur sing gambarake kaanane iki, diterusake ngandharake kaanan sing kepungkur yaiku ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Alur mundur (Regresif) yaiku alur sing nggambarake kahanan saiki, diterusake ngandharake kahanan sing kepungkur.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tembung-pitakon-sing-di-enggo-nuduhake-ngenani-alur-dumadine-sawijine-kedadeyan-yaiku-tembung%e2%80%8b">
+                            12. Tembung pitakon sing di enggo nuduhake ngenani alur dumadine sawijine kedadeyan, yaiku tembung​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Iyo kumahanggi pitakon</p><br />
+                                            <h2 class="ez-toc-section" id="alur-dumading-ana-telung-warna-yaiku">
+                            13. Alur dumading ana telung warna, yaiku </h2><br />
+                        <p><strong>Jawaban:</strong></p><p>maksudnya saya ngga tau maaf ya kk</p><strong>aku </strong><strong>sangat </strong><strong>minta </strong><strong>maaf </strong><strong>ya</strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><strong></strong><p></p><br />
+                                            <h2 class="ez-toc-section" id="alur-teks-narasi-ana-telu-yaikubantu-jawab-kakak%e2%80%8b">
+                            14. alur teks narasi ana telu yaikubantu jawab kakak​</h2><br />
+                        <p> </p><p>Struktur teks narasi iki ana alur, paraga/penokohan lan latar.</p><p></p><p></p><p>jangan lupa follow</p><p>terimakasih</p><p> </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="kang-diarani-alur-ing-teks-narasi-yaiku-%c2%a02-poin%e2%80%8b">
+                            15. Kang diarani alur ing teks narasi yaiku.... *2 poin​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>urutane kedadean</p><p></p><p></p><p></p><p>Semoga membantu</p><p></p><p><strong>Jawaban:</strong></p><p>yang dimaksud alur dalam teks narasi yaitu unsur unsur teks narasi</p><br />
+                                            <h2 class="ez-toc-section" id="alur-utawa-plot-ing-crita-kidang-kencana-yaiku">
+                            16. alur utawa plot ing crita kidang kencana yaiku</h2><br />
+                        alur utawa plot ing crita kidang kencana yaiku Alur Maju.<br />
+                                            <h2 class="ez-toc-section" id="ing-ngisor-iki-kang-kalebu-ing-macem-maceme-alur-yaiku-b-indo-berikut-ini-termasuk-dalam-berbagai-alur-tersebut">
+                            17. Ing ngisor iki kang kalebu ing macem-maceme alur yaiku..
+B. indo : Berikut ini termasuk dalam berbagai alur tersebut..</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>alur waktu dan alur suasana</p><br />
+                                            <h2 class="ez-toc-section" id="alur-sing-nyeritakake-kahanan-saiki-nganti-sakteruse-yaiku%e2%80%a6-a-alur-maju-b-alur-mundur-c-alur-campuran-d-alur-bebas-e-alur-winates">
+                            18. Alur sing nyeritakake kahanan saiki nganti sakteruse, yaiku… a. alur maju b. alur mundur c. alur campuran d. alur bebas e. alur winates</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a. alur maju</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="alur-yaiku-lumakune-crita-miturut-urutan%e2%80%8b">
+                            19. Alur yaiku lumakune crita miturut urutan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Kedadean</p><p><strong>Penjelasan:</strong></p><p>#Semoga membantu</p><p><strong>Jawaban:</strong></p>kedadean<p><strong>Penjelasan:</strong></p>semoga membantu☺☺☺<br />
+                                            <h2 class="ez-toc-section" id="alur-kang-kerep-kanggo-mergo-critane-ora-njelehi-yaiku%c2%a0%e2%80%8b">
+                            20. Alur kang kerep kanggo mergo critane ora njelehi yaiku ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>ya utgkytvoobihhi hopjho hari hhugfgkvug</p><br />
+                                            <h2 class="ez-toc-section" id="alur-cerita-saka-teks-ing-dhuwur-yaiku%e2%80%8b">
+                            21. alur cerita Saka teks ing dhuwur yaiku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>alur cerita yang mana kak?</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-alur-crita-ing-crita-rakyat-kuwi-ana-3-jinise-alur-kang-ora-kalebu-alur-crita-rakyat-yaiku-a-alur-maju-b-alur-awon-c-alur-mundur-d-alur-campuran">
+                            22. 1.Alur crita ing crita rakyat kuwi ana 3 jinise. Alur kang ora kalebu alur crita rakyat yaiku...
+ A.Alur maju
+ B.Alur awon
+ C.Alur mundur
+ D.Alur campuran</h2><br />
+                        <p>jadikan Jawaban yang terbaik ya!! </p><p>smoga membantu:)</p><p>ma'af Kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="kang-kalebu-struktur-teks-narasi-salah-sijine-yaiku-alur-alur-yaiku-tolong-bantuanya-kak-plis%e2%80%8b">
+                            23. Kang kalebu struktur teks narasi salah sijine yaiku alur. Alur yaiku...Tolong bantuanya kak plis!!!!​</h2><br />
+                        <p>Alur yaiku urutan kedadeyan ing sawijine teks narasi mula awal nganti akhir crita.</p><p></p><p></p><p>Semoga membantu ^-^</p><br />
+                                            <h2 class="ez-toc-section" id="alurplot-ana-3-yaiku%e2%80%8b">
+                            24. alur/plot ana 3 yaiku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Maju, mundur, maju mundur(campur) </p><br />
+                                            <h2 class="ez-toc-section" id="ikam-nutuk-alur-sekam-gaweh-yai-artinya%e2%80%8b">
+                            25. ikam nutuk alur sekam gaweh yai artinya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Ayam itu mengenai cerobong asap</p><p><strong>Penjelasan:</strong></p><p></p><p></p><p>Maaf bgt kalau salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="alur-yaiku-reroncening-prastawa-ingkang-dipun-aturaken-dhumateng-pamaos-jenisipun-wonten-tiga-antawisipun-wonten-alur-kaliyan-alur">
+                            26. alur yaiku reroncening prastawa ingkang dipun aturaken dhumateng pamaos, jenisipun wonten tiga, antawisipun wonten alur... kaliyan alur...</h2><br />
+                        alur waktu (bhs jawanya) kaliyan alur tempat (bhs jawanya) <br />
+                                            <h2 class="ez-toc-section" id="alur-saka-crita-ing-drama-bentusan-budaya-yaiku">
+                            27. alur saka crita ing drama bentusan budaya yaiku</h2><br />
+                        Alur Crita<br />Alure campuran sing tegese gabungan saka alur maju lan alur mundur. Penulis nang awale njalokake critane saanggon urut lan banjur nang mubarang wektu, penulis nyritakne meneh crita sing wis kedadean utawa flash back. Crita sing nggunakne alur iki rodo angel kanggo dinyurasani lan mbutuhake konsentrasi sing cukup dhuwur.<br />
+                                            <h2 class="ez-toc-section" id="alur-iku-unsure-ana-3-yaiku">
+                            28. alur iku unsure ana 3 yaiku</h2><br />
+                        <p>1.Tahap perkenalan</p><p>2.Tahap penanjakan</p><p>3.Tahap klimaks</p><p>3.Anti klimaks</p><p>4.Tahap penyelesaian</p><p><strong>Jawaban:</strong></p><p>alur maju, alur mundur, alur maju lan mundur </p><p>maaf klo slah</p><br />
+                                            <h2 class="ez-toc-section" id="ing-sajrone-cerkak-ana-unsur-intrinsik-kang-diarani-alur-ing-ngisor-iki-kang-kalebu-reruntutan-alur-maju-yaiku%c2%a0%e2%80%8b">
+                            29. . Ing sajrone cerkak ana unsur intrinsik kang diarani alur. Ing ngisor iki kang kalebu reruntutan alur maju yaiku ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Alur maju yaiku alur kang nyritakake kedadeyan/cerita saiki/jaman esok.</p><p></p><p>maaf meniko salah:)</p><br />
+                                            <h2 class="ez-toc-section" id="9tahapan-alur-crita-yaiku-kajaba-%e2%80%8b">
+                            30. 9Tahapan alur crita yaiku, kajaba..​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Pengenalan (Orientasi)</p><p>2. Kemunculan konflik (Rising Action)</p><p>3. Konflik memuncak (Klimaks)</p><p>4. Konflik menurun (Anti Klimaks)</p><p>5. Peselesaian (Resolution)</p><br />
+                                            <h2 class="ez-toc-section" id="urutan-alur-bibar-mudhune-konflik-yaiku%e2%80%8b">
+                            31. urutan alur bibar mudhune konflik yaiku​</h2><br />
+                        <p>Tahapan alur bibar tuwuhe konflik yaiku ....</p><p>1. patepangan kahanan crita</p><p>2. mudhune konfliks</p><p>3. rerampungan</p><p>4. dudutan crita</p><p>5. konfliks puncak</p><br />
+                                            <h2 class="ez-toc-section" id="alurplot-yaiku-pola-pangembangan-crita-kang-kadhapuk-saka-%e2%80%a6-%c2%a0%e2%80%8b">
+                            32. Alur/plot yaiku pola pangembangan crita kang kadhapuk saka …. *​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>peristiwa/peristiwo</p><p></p><p>maaf kalau salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="alur-crita-yaiku-jawab-ya-%e2%80%8b">
+                            33. alur crita yaiku jawab ya ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p>Alur adalah rangkaian peristiwa yang direka dan dijalin dengan saksama dan menggerakkan jalan cerita melalui kerumitan ke arah klimaks dan penyelesaian.<p></p><p></p><p></p><p>typo ya bang?</p><p></p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="alur-crita-wayang-gathutkaca-gugur-yaiku%e2%80%8b">
+                            34. Alur crita wayang "gathutkaca gugur" yaiku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>cerita nya panjang</p><p><strong>Penjelasan:</strong></p><p>cerita nya panjang aku mls ngetik thankk you</p><p><strong>Jawaban:</strong></p><p>panjang ceritanya</p><p></p><p><strong>Penjelasan:</strong></p><p>liat di YouTube aja</p><br />
+                                            <h2 class="ez-toc-section" id="alur-kang-cinatita-dening-kakawih-gubahan-mpu-prapanca-yaiku-a-maju-b-mundur-c-maju-lan-mundur-d-tanpa-alur%e2%80%8b">
+                            35. alur kang cinatita dening kakawih gubahan Mpu Prapanca yaiku...a. maju b. mundur c. maju lan mundur d. tanpa alur​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>semoga membantu</p><p>maaf kalo bukan jawaban asli dari saya ataupun jawabanya tidak jelas</p><br />
+                                            <h2 class="ez-toc-section" id="alur-yaiku-lakuning-crita-adhedhasar-urutan-wektu-ing-wacan%e2%80%8b">
+                            36.  Alur yaiku lakuning crita adhedhasar urutan wektu ing wacan​</h2><br />
+                        <p><strong>Alur </strong>yaiku<strong> lakuning crita</strong> adhedhasar urutan wektu ing <strong>wacan​ drama</strong>. Alur nduweni telung macem, yaiku:</p>Alur maju.Alur mundur.Alur maju lan mundur.<p></p><p></p><strong>Pembahasan</strong><p>Dalam suatu <strong>drama </strong>terdapat unsur yang membangun suatu cerita. Salah satunya adalah <strong>unsur intrinsik</strong> yang membangun suatu cerita dari dalam. Unsur intrinsik memiliki beberapa macam salah satunya adalah <strong>alur</strong>. Yaitu serangkaian atau jalan cerita dari sebuah drama. Berdasarkan <strong>jenisnya</strong>, alur terdiri dari:</p>alur majualur munduralur maju dan mundur<p></p><p></p>Pelajari lebih lanjut<p>Pelajari lebih lanjut tentang macam unsur intrinsik dalam drama pada https://brainly.co.id/tugas/2401348</p><p></p><p><strong>#BelajarBersamaBrainly #SPJ1 </strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="b-ayo-rembugan-bab-unsur-instrinsik-critasayembara-kidang-kencana-kanthi-ngisiceceg-ceceg-ing-ngisor1-tema-ing-crita-kasebut-yaiku-2-alur-utawa-plot-ing-crita-kasebut-yaiku3-alur-ing-crita-kid">
+                            37. B Ayo rembugan bab unsur instrinsik critasayembara Kidang Kencana kanthi ngisiceceg-ceceg ing ngisor!1. Tema ing crita kasebut yaiku ....2. Alur utawa plot ing crita kasebut yaiku3. Alur ing crita Kidang Kencana yaiku alur ....4. Setting utawa latar sing ana ing crita kasebut yaiku ...5. Tokoh lan penokohan. Paraga ing crita kasebut singprotagonis yaiku ... Lan sing antagonis yaiku .... Wewatakanepara paraga yaiku ....6. Amanat saka crita kasebut yaiku ....5s​</h2><br />
+                        <p>● Materi    : Bahasa Daerah</p><p>● Kelas      : V</p><p>● Kategori : Unsur Instrinsik Crita</p><p></p><p>Jawaban</p><p>➡Tema : Kejujuran,kasetiaan,kapercayaan.</p><p>➡Alur utawa Plot : Maju</p><p>➡Setting : Awan</p><p>➡Protagonis : Rama lan Sinta</p><p>     Antagonis  : Kalamarica</p><p>Watak : Rama : Setiya,Bijaksana</p><p>             Sinta   : Setiya,Seneng tetulung,Nuduh </p><p>             Kalamarica : Manut</p><p>➡Amanat : Ojo gampang kepranang karo gebraying donya engko mundak nemu cilaka</p><br />
+                                            <h2 class="ez-toc-section" id="alur-cerita-ing-dhuwur-yaiku%e2%80%8b">
+                            38. alur cerita ing dhuwur yaiku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Alur maju</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="alur-kang-nyritakake-utawa-gambarake-kahanan-saiki-kanthi-sateruse-yaiku-alur-a-campuranb-majuc-mundurd-plot%e2%80%8b">
+                            39. alur kang nyritakake utawa gambarake kahanan saiki kanthi sateruse yaiku alur... A.campuranB.majuC.mundurD.plot​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Yaiku alur maju </p><p>maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="alur-diperang-dadi-3yaiku%e2%80%8b">
+                            40. alur diperang dadi 3,yaiku​</h2><br />
+                        <p>Alur. Alur kaperang dadi 3. - Alur maju (Progresif) yaiku alur sing nyritakake utawa nggambarake kahanan saiki kanthi sateruse. - Alur mundur (Regresif) yaiku alur sing nggambarake kahanan saiki, diterusake ngandharake kahanan sing kepungkur.</p><p></p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><p><strong>Jawaban:</strong></p><p>Alur. ... Alur kaperang dadi 3. - Alur maju (Progresif) yaiku alur sing nyritakake utawa nggambarake kahanan saiki kanthi sateruse. - Alur mundur (Regresif) yaiku alur sing nggambarake kahanan saiki, diterusake ngandharake kahanan sing kepungkur.</p><p></p><p></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/QqIJYBSKqaA?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_daerah</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/arti-azamta/">Arti Azamta</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/penguraian-limbah-disebut-juga-dengan/">Penguraian Limbah Disebut Juga Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/penutupan-wawancara/">Penutupan Wawancara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-ini-tanaman-hias-buah-kecuali/">Berikut Ini Tanaman Hias Buah Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/2-3-7/">2 3 7</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dibawah-ini-yang-termasuk-dalam-unsur-kebugaran-jasmani-adalah-kecuali/">Dibawah Ini Yang Termasuk Dalam Unsur Kebugaran Jasmani Adalah Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kegiatan-berjudi-sering-disebut-juga-kegiatan/">Kegiatan Berjudi Sering Disebut Juga Kegiatan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/musafir-adalah/">Musafir Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/buatlah-kalimat-dengan-menggunakan-kata-teknologi-sandang/">Buatlah Kalimat Dengan Menggunakan Kata Teknologi Sandang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-itu-permeabel/">Apa Itu Permeabel</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ilahinas-artinya/">Ilahinas Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/diketahui-sin-a/">Diketahui Sin A</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ragam-hias-atau-ornamen-banyak-kita-temukan-pada-kain/">Ragam Hias Atau Ornamen Banyak Kita Temukan Pada Kain</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/rumus-jumlah-molekul/">Rumus Jumlah Molekul</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-saja-tujuan-program-pemerintah-dalam-bidang-transportasi/">Apa Saja Tujuan Program Pemerintah Dalam Bidang Transportasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nabi-ibrahim-sejak-masih-bayi-diasingkan-untuk-menghindari-kekejaman-raja/">Nabi Ibrahim Sejak Masih Bayi Diasingkan Untuk Menghindari Kekejaman Raja</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/rangkaian-paralel-disusun-secara/">Rangkaian Paralel Disusun Secara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kumpulan-kata-indah-yang-disusun-sesuai-tema-tertentu-disebut/">Kumpulan Kata Indah Yang Disusun Sesuai Tema Tertentu Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/induk-organisasi-basket-internasional-ialah/">Induk Organisasi Basket Internasional Ialah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/aspek-adalah/">Aspek Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

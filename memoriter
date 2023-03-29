@@ -1,0 +1,1323 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Memoriter - BELAJAR</title>
+    <meta name="description" content="Memoriter, , , , , , , 0, &quot;Memoriter&quot; | Short Film by Isaac Knopf - YouTube, www.youtube.com, 1280 x 720, jpeg, , 20, memoriter, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Memoriter - BELAJAR" />
+    <meta property="og:description" content="Memoriter, , , , , , , 0, &quot;Memoriter&quot; | Short Film by Isaac Knopf - YouTube, www.youtube.com, 1280 x 720, jpeg, , 20, memoriter, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Memoriter - BELAJAR" />
+    <meta name="twitter:description" content="Memoriter, , , , , , , 0, &quot;Memoriter&quot; | Short Film by Isaac Knopf - YouTube, www.youtube.com, 1280 x 720, jpeg, , 20, memoriter, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Memoriter</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">krisnaarya867</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Memoriter" alt="Memoriter">
+                    </div>
+                    <p></p>
+                    <p>apa yang di maksud dengan pidato memoriter?​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-di-maksud-dengan-pidato-memoriter%e2%80%8b">1.
+                                            apa yang di maksud dengan pidato memoriter?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskeun-hartina-memoriter">2.
+                                            Jelaskeun hartina memoriter</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yanhg-dimaksud-memoriter">3.
+                                            apa yanhg dimaksud memoriter</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-jelaskan-persiapan-sebelum-melakukan-pidato-dgn-metode-memoriter%e2%80%8b">4.
+                                            1. Jelaskan persiapan sebelum melakukan pidato dgn metode memoriter​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#komunikasi-dengan-pendengar-ketika-berpidato-dengan-metode-memoriter-adalah">5.
+                                            Komunikasi dengan pendengar Ketika berpidato dengan metode memoriter adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#alasan-metode-memoriter-cara-yang-bagus-dalam-penyampaian-pidato-adalah">6.
+                                            Alasan metode memoriter cara yang bagus dalam penyampaian pidato adalah?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kepiye-carane-sesorah-kanti-cara-memoriter%e2%80%8b">7.
+                                            kepiye carane sesorah kanti cara memoriter​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-pidato-memoriter-dapat-membuat-orang-cepat-bosan-plis-ka-besok-dikumpulin%e2%80%8b">8.
+                                            Mengapa pidato memoriter dapat membuat orang cepat bosan.plis ka.besok dikumpulin​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-pidato-dengan-teknik-memoriter">9.
+                                            apa yang dimaksud pidato dengan teknik memoriter</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-persiapan-yang-harus-dilakukan-pembicara-dengan-metode-memoriter%e2%80%8b">10.
+                                            Jelaskan persiapan yang harus dilakukan pembicara dengan metode memoriter​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#36-jelaskan-apa-yang-dimaksud-dengan-pidato-a-memoriter-b-ekstemporan-jawab-%e2%80%8b">11.
+                                            36. Jelaskan apa yang dimaksud dengan pidato: a. Memoriter b. Ekstemporan Jawab: ......​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#persiapan-apa-saja-yang-dilakukan-pembicara-sebelum-melakukan-pidato-dengan-metode-memoriter">12.
+                                            Persiapan apa saja yang dilakukan pembicara sebelum melakukan pidato dengan metode memoriter?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-persiapan-pembicara-sebelum-berpidato-dengan-metode-memoriter">13.
+                                            jelaskan persiapan pembicara sebelum berpidato dengan metode memoriter</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-perbedaan-jenis-pidato-dengan-menggunakan-methode-manuskrip-dan-memoriter">14.
+                                            Jelaskan perbedaan jenis pidato dengan menggunakan methode manuskrip dan memoriter?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kepriye-carane-sesorah-kanthi-cra-memoriter-%e2%80%8b">15.
+                                            kepriye carane sesorah kanthi cra memoriter?..​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-persiapan-yang-harus-d-lakukan-dengan-metode-memoriter%e2%80%8b">16.
+                                            jelaskan persiapan  yang harus d lakukan dengan metode memoriter​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#metode-pidato-memoriter-yaiku%e2%80%8b">17.
+                                            metode pidato memoriter yaiku​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-di-maksud-manuskrip-imprompum-memoriter-ekstemporan">18.
+                                            Apa yang di maksud manuskrip , imprompum , memoriter , ekstemporan????</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dina-jenis-biantara-aya-nu-disebut-memoriter-maksudna">19.
+                                            dina jenis biantara aya nu disebut memoriter? maksudna</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-keuntungan-dan-kerugian-menggunakan-pidato-memoriter%e2%80%8b">20.
+                                            apa keuntungan dan kerugian menggunakan pidato memoriter?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#memoriter-hafalan-artinya%e2%80%8b">21.
+                                            memoriter hafalan artinya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kelebihan-dan-kekurangan-berpidatomanuskripdanmemoriteradalah-mohon-di-jawab">22.
+                                            kelebihan dan kekurangan berpidato
+*MANUSKRIP*
+DAN
+*MEMORITER*
+adalah....................
+mohon di JAWAB!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-kekurangan-dalam-menggunakan-biantara-memoriter">23.
+                                            Sebutkan kekurangan dalam menggunakan biantara memoriter</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kepriye-carane-sesorah-kanthi-cara-memoriter%e2%80%8b">24.
+                                            kepriye carane sesorah kanthi cara memoriter​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#napi-punike-pidarte-memoriter-%e2%80%8b">25.
+                                            napi punike pidarte memoriter ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#metode-pidato-memoriter-adalah-metode-pidato-yg-di-lakukan-dgn-cara%e2%80%8b">26.
+                                            metode pidato memoriter adalah metode pidato yg di lakukan dgn cara​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-yang-kamu-ketahui-tentang-pidato-memoriter%e2%80%8b">27.
+                                            Jelaskan yang kamu ketahui tentang pidato memoriter​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#komunikasi-dengan-pendengar-ketika-berpidato-dengan-metode-memoriter-adalah">28.
+                                            Komunikasi dengan pendengar ketika berpidato dengan metode memoriter adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-perbedaadn-jenis-pidato-menggunakan-metode-menuskrip-dan-memoriter">29.
+                                            Jelaskan perbedaadn jenis pidato menggunakan metode menuskrip dan memoriter</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-apa-yang-dimaksud-dengan-metode-memoriter-dalam-pidato">30.
+                                            jelaskan apa yang dimaksud dengan metode memoriter dalam pidato</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perbedaan-ekstemporan-dengan-metode-memoriter">31.
+                                            Perbedaan ekstemporan dengan metode memoriter</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#komunikasi-dengan-pendengar-ketika-berpidato-dengan-metode-memoriter-adalahno-ngasal-ok%e2%80%8b">32.
+                                            komunikasi dengan pendengar ketika berpidato dengan metode memoriter adalahno ngasal ok​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-keuntungan-pidato-memoriter%e2%80%8b">33.
+                                            jelaskan keuntungan pidato memoriter​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-d-maksud-memoriter">34.
+                                            Apa yang d maksud memoriter</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#napi-sane-madan-memoriter-punika%e2%80%8b">35.
+                                            napi sane Madan memoriter punika​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-mana-yang-kamu-ketahui-tentang-pidato-memoriter-tolong-jawab-tapi-jangan-salah-%e2%80%8b">36.
+                                            jelaskan mana yang kamu ketahui tentang pidato memoriter! tolong jawab tapi jangan salah ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kepriye-carane-sesorah-kanthi-cara-memoriterpliss-kak%e2%80%8b">37.
+                                            kepriye carane sesorah kanthi cara memoriterpliss kak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#4-napi-punika-pirdarta-memoriter">38.
+                                            4). Napi punika pirdarta memoriter?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-persiapan-yang-harus-dilakukan-pembicara-dengan-metode-memoriter%e2%80%8b">39.
+                                            Jelaskan persiapan yang harus dilakukan pembicara dengan metode memoriter??​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berilah-dua-contoh-pidato-memoriter-yang-pernah-kalian-jumpai-atau-pernah-kalian-lihat">40.
+                                            Berilah dua contoh pidato memoriter yang pernah kalian jumpai atau pernah kalian lihat!</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="apa-yang-di-maksud-dengan-pidato-memoriter%e2%80%8b">
+                            1. apa yang di maksud dengan pidato memoriter?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>metode berpidato dengan cara menghafalkan naskah pidato terlebih dahulu</p><p><strong>Penjelasan:</strong></p><p>semoga bermanfaat:)</p><p><strong>Jawaban:</strong></p><p><strong>Pidato Memoriter</strong></p><p>Pidato memoriter merupakan pidato yang ditulis dalam bentuk naskah lalu setelahnya dihafalkan kata demi kata. Pada pidato jenis memoriter seperti ini, yang penting kamu memiliki kemampuan menghafalkan teks pidato dan mengingat kata-kata yang ada di naskah pidato dalamnya dengan baik. Keuntungannya (jika hafal), pidato kamu akan lancar, tetapi kerugiannya kamu akan berpidato secara monoton, sehingga kemungkinan besar kamu tidak mampu menarik perhatian hadirin.</p><p><strong>Penjelasan:</strong></p><p>Semoga bermanfaat:)</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskeun-hartina-memoriter">
+                            2. Jelaskeun hartina memoriter</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>hartina ieu jeung piken</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yanhg-dimaksud-memoriter">
+                            3. apa yanhg dimaksud memoriter</h2><br />
+                        metode berpidato dengan menghafalkan naskah pidato<br />Memoriter adalah cara penyampaian gagasan dengan menghapal naskah pidato. #Semogamembantu.<br />
+                                            <h2 class="ez-toc-section" id="1-jelaskan-persiapan-sebelum-melakukan-pidato-dgn-metode-memoriter%e2%80%8b">
+                            4. 1. Jelaskan persiapan sebelum melakukan pidato dgn metode memoriter​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pidato memoriter adalah pidato yang dilakukan dengan menulis naskah lalu dihapalkan kalimat demi kalimat. Maka sebelum melakukan pidato, pembicara terlebih dahulu menulis naskah di kertas kemudian menghapalkannya. Kelebihan dari metode ini yaitu penyampaian pidato akan terlihat tidak kaku dan dapat melatih daya ingat.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu semangat belajar</p><br />
+                                            <h2 class="ez-toc-section" id="komunikasi-dengan-pendengar-ketika-berpidato-dengan-metode-memoriter-adalah">
+                            5. Komunikasi dengan pendengar Ketika berpidato dengan metode memoriter adalah</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>menghafal kan isi pidato bait demi bait dan membacakannya tanpa membaca teks tapi dihafalkan</p><p></p><p>maaf kalo salah ಡ ͜ ʖ ಡ</p><br />
+                                            <h2 class="ez-toc-section" id="alasan-metode-memoriter-cara-yang-bagus-dalam-penyampaian-pidato-adalah">
+                            6. Alasan metode memoriter cara yang bagus dalam penyampaian pidato adalah?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Impromptu. Metode improptu merupakan suatu metode pidato yang dilakukan secara langsung atau spontanitas tanpa adanya persiapan terlebih dahulu.</p><p></p><p>Memoriter. Memoriter yaitu metode berpidato dengan cara menghapalkan naskah teks pidato terlebih dahulu.</p><p></p><p>3. Naskah. ...</p><p></p><p>4. Ekstemporan.</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="kepiye-carane-sesorah-kanti-cara-memoriter%e2%80%8b">
+                            7. kepiye carane sesorah kanti cara memoriter​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jlentrehna tegese pidhato laporan! wangsulan.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="mengapa-pidato-memoriter-dapat-membuat-orang-cepat-bosan-plis-ka-besok-dikumpulin%e2%80%8b">
+                            8. Mengapa pidato memoriter dapat membuat orang cepat bosan.plis ka.besok dikumpulin​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>karena pidato itu panjang bicaranya</p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-pidato-dengan-teknik-memoriter">
+                            9. apa yang dimaksud pidato dengan teknik memoriter</h2><br />
+                        Pidato memoriter adalah pidato yang disampaikan tanpa teks (hafalan) yang sebelumnya telah di persiapkan kemudian dihafalkan oleh pembicara atau orang yang akan berpidato.<br /><br />Semoga membantu :)<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-persiapan-yang-harus-dilakukan-pembicara-dengan-metode-memoriter%e2%80%8b">
+                            10. Jelaskan persiapan yang harus dilakukan pembicara dengan metode memoriter​</h2><br />
+                        <p>Jawaban:</p><p>Sebelum tampil pidato membuat catatan atau naskah yang nantinya akan di hafal dan ditampilkan saat pidato</p><p>Penjelasan:</p><p>Metode memoriter banyak digunakan orang saat akan berpidato</p><br />
+                                            <h2 class="ez-toc-section" id="36-jelaskan-apa-yang-dimaksud-dengan-pidato-a-memoriter-b-ekstemporan-jawab-%e2%80%8b">
+                            11. 36. Jelaskan apa yang dimaksud dengan pidato: a. Memoriter b. Ekstemporan Jawab: ......​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A. Pidato memoriter merupakan pidato yang mengandalkan ingatan dari pembicara terhadap teks naskah pidato yang telah disusun sebelumnya. Jadi, pembicara sudah memiliki teks pidato hanya saja menghafalkannya untuk kemudian disampaikan kepada publik sesuai yang terekam di ingatan.</p><p></p><p>B. Metode ekstemporan merupakan teknik berpidato dengan menjabarkan materi yang terpola. Maksud terpola yaitu materi yang akan disampaikan harus dipersiapkan garis besarnya dengan menuliskan hal-hal yang di anggap penting.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu </p><p><strong>Jawaban:</strong></p>A. MEMORITER<p></p><strong>Pidato memoriter merupakan pidato yang mengandalkan ingatan dari pembicara terhadap teks naskah pidato yang telah disusun sebelumnya. Jadi, pembicara sudah memiliki teks pidato hanya saja menghafalkannya untuk kemudian disampaika</strong><strong>n kepada publik sesuai yang terekam di ingatan.</strong><p></p><strong>B.</strong><strong> </strong><strong>EKSTEMPORAN</strong><p></p><p><strong>Metode ekstemporan merupakan teknik berpidato dengan menjabarkan materi yang terpola. Maksud terpola yaitu materi yang akan disampaikan harus dipersiapkan garis besarnya dengan menuliskan hal-hal yang di anggap penting.</strong></p><p></p><p><strong>Penjelasan:</strong></p><strong>SEMOGA </strong><strong>MEMBANTU</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="persiapan-apa-saja-yang-dilakukan-pembicara-sebelum-melakukan-pidato-dengan-metode-memoriter">
+                            12. Persiapan apa saja yang dilakukan pembicara sebelum melakukan pidato dengan metode memoriter?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1) Mempersiapkan mental dan menyesuaikan kondisi saat kita berpidato nanti. </p><p>2) Menentukan tujuan pidato. </p><p>3) Memilih dan menyampaikan pokok utama dalam berpidato. </p><p>4) Menganalisis pendengar dan suasana dalam melakukan pidato.</p><p>5) Mengumpulkan bahan yang akan menjadi kata kunci dalam berpidato. </p><p></p><p>Semoga membantu</p><p>Maaf bila salah </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-persiapan-pembicara-sebelum-berpidato-dengan-metode-memoriter">
+                            13. jelaskan persiapan pembicara sebelum berpidato dengan metode memoriter</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Persiapan nya adalah harus menghafalkan teks pidatonya, pembicara harus mengulang kembali apa saja teks yang sudah disiapkan</p><p></p><p></p><p>semoga bermanfaat dan membantu maaf kalo salah</p><p>jangan lupa follow yaa:)</p><p><strong>Pidato memoriter</strong> adalah pidato yang dilakukan dengan menulis naskah lalu dihapalkan kalimat demi kalimat.</p><p>Maka <strong>sebelum</strong><strong> melakukan pidato</strong>, pembicara terlebih dahulu menulis naskah di kertas kemudian menghapalkannya.</p><p></p><strong>Kelebihan</strong> dari metode ini yaitu penyampaian pidato akan terlihat tidak kaku dan dapat melatih daya ingat.<strong>kelemahan</strong> dari metode ini yaitu memerlukan banyak waktu persiapan dan komunikasi antar pendengar akan berkurang.<p></p><p>Semoga membantu, CMIIW</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-perbedaan-jenis-pidato-dengan-menggunakan-methode-manuskrip-dan-memoriter">
+                            14. Jelaskan perbedaan jenis pidato dengan menggunakan methode manuskrip dan memoriter?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>menggunakan manuskrip biasa nya dgn dibaca,kalau memoriter itu biasa nya sudah hapal</p><br />
+                                            <h2 class="ez-toc-section" id="kepriye-carane-sesorah-kanthi-cra-memoriter-%e2%80%8b">
+                            15. kepriye carane sesorah kanthi cra memoriter?..​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Bagaimana Anda melakukan semua hal keren ini? ..</p><p><strong>Penjelasan:</strong></p><p>semoga dapat membantu ya</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-persiapan-yang-harus-d-lakukan-dengan-metode-memoriter%e2%80%8b">
+                            16. jelaskan persiapan  yang harus d lakukan dengan metode memoriter​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Persiapan nya adalah dengan cara menghafal kan teks pidato yang telah disiapkan, karena arti metode memoriter adalah pembicara harus mengulang kembali apa saja teks yang sudah disiapkan</p><p></p><p></p><p>semoga bermanfaat dan membantu maaf kalo salah</p><p>jangan lupa follow yaa:)</p><br />
+                                            <h2 class="ez-toc-section" id="metode-pidato-memoriter-yaiku%e2%80%8b">
+                            17. metode pidato memoriter yaiku​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>metode memoriter/menghapal adalah metode berpidato dengan menghapal isi atau materi pidato lebih dahulu.</p><p><strong>Penjelasan:</strong></p><p>maaf klo salah hehe</p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-di-maksud-manuskrip-imprompum-memoriter-ekstemporan">
+                            18. Apa yang di maksud manuskrip , imprompum , memoriter , ekstemporan????</h2><br />
+                        ekstemporan dalam pidato berarti memakai kerangka kecil sebgai dasar pidato<br />
+                                            <h2 class="ez-toc-section" id="dina-jenis-biantara-aya-nu-disebut-memoriter-maksudna">
+                            19. dina jenis biantara aya nu disebut memoriter? maksudna</h2><br />
+                         Memoriter yaitu metode berpidato dengan menghapalkan naskah pidato terlebih dahulu.<br />
+                                            <h2 class="ez-toc-section" id="apa-keuntungan-dan-kerugian-menggunakan-pidato-memoriter%e2%80%8b">
+                            20. apa keuntungan dan kerugian menggunakan pidato memoriter?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Keuntungan dan kerugian menggunakan Pidato Memoriter, yaitu:</p><p>Keuntungannya (jika hafal), pidato kamu akan lancar, tetapi kerugiannya kamu akan berpidato secara monoton, sehingga kemungkinan besar kamu tidak mampu menarik perhatian hadirin.</p><p><strong>Pidato menggunakan teks
+</strong></p><p><strong>kekurangan :
+</strong></p><p><strong>1. tidak mendapat perhatian dari pendengar
+</strong></p><p><strong>2. tidak bebas mengekspresikan kata
+</strong></p><p><strong>3. menciptakan suasana yang kurang efektif dalam berpidato
+</strong></p><p><strong>4. membosankan
+</strong></p><p><strong>5. suara monoton dan terlihat kaku
+</strong></p><p><strong>
+</strong></p><p><strong>Kelebihan :
+</strong></p><p><strong>1. lancar dan mudah dalam menyampaikan inti/maksud pidato
+</strong></p><p><strong>2. dapat mempersiapkan pidato dengan sangat matang
+</strong></p><p><strong>3. lengkap, sistematis, tidak ada yang terkupakan.
+</strong></p><p><strong>4. dengan mudah menguasai topik pembicaraan
+</strong></p><p><strong>
+</strong></p><p><strong>Pidato dengan hafalan
+</strong></p><p><strong>Kekurangan :
+</strong></p><p><strong>1. apabila yang kita hafalkan melenceng dari permbicaraan dapat membingungkan
+</strong></p><p><strong>2. apabila tidak dapat mengingat dengan pasti isi pidato, akan terlihat kaku
+</strong></p><p><strong>kelebihan :
+</strong></p><p><strong>1. mendpat perhatian pendengar
+</strong></p><p><strong>2. dapat mempersiapkan topik pidato
+</strong></p><p><strong>3. melatih daya ingat
+</strong></p><p><strong>
+</strong></p><p><strong>Metode Impromtu
+</strong></p><p><strong>Kekurangan :
+</strong></p><p><strong>1. tidak dapat menyiapkan topik pidato dengan matang
+</strong></p><p><strong>2. persiapan mendadak untuk menyusun pidato dengan benar
+</strong></p><p><strong>3. menyebabkan isi pidato yang melenceng dari tema
+</strong></p><p><strong>4. canggung ketika berpidato
+</strong></p><p><strong>5. tidak bisa menguasai tempat dan para pendengar
+</strong></p><p><strong>Kelebihan :
+</strong></p><p><strong>1. dapat mengekspresikan kata dalam berpidato
+</strong></p><p><strong>2. bebas memilih topik bahasan
+</strong></p><p><strong>
+</strong></p><p><strong>Metode Ekstemporer
+</strong></p><p><strong>Kekurangan :
+</strong></p><p><strong>1. haruslah pintar2 dalam menyusun kata
+</strong></p><p><strong>Kelebihan :
+</strong></p><p><strong>1. materi yang diungkapkan secara sistematis dan lengkap
+</strong></p><p><strong>2. dapat mengekspresikan kata
+</strong></p><p><strong>3. mendapat perhatian dari pendengar
+</strong></p><p><strong>4. menciptakan suasana yang efektif
+</strong></p><p><strong>5. terlihat lancar dalam berpidato</strong></p><p></p><p>maaf yg ada cuma ini......maaf klo salah coment aja klo gk langsung report</p><br />
+                                            <h2 class="ez-toc-section" id="memoriter-hafalan-artinya%e2%80%8b">
+                            21. memoriter hafalan artinya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>metode memoriter/menghapal adalah metode  berpidato dengan menghapal isi atau materi pidato lebih dahulu.kemudian menyampaikan isi pidato tersebut tanpa sebuah naskah.</p><p></p><p><strong>Penjelasan:</strong></p><p>Semoga membantu </p><p></p><p><strong>Jawaban:</strong></p><p>metode berpidato dengan manghapal isi/materi pidato terlebih dahulu</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="kelebihan-dan-kekurangan-berpidatomanuskripdanmemoriteradalah-mohon-di-jawab">
+                            22. kelebihan dan kekurangan berpidato
+*MANUSKRIP*
+DAN
+*MEMORITER*
+adalah....................
+mohon di JAWAB!</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>semoga membantu ya kk abang ku</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-kekurangan-dalam-menggunakan-biantara-memoriter">
+                            23. Sebutkan kekurangan dalam menggunakan biantara memoriter</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1) Tidak mendapat perhatian dari pendengar</p><p>2) tidak bebas mengekspresikan kata</p><p>3) menciptakan suasana yg kurang efektif </p><p>4) membosankan</p><p>5) terlihat kaku</p><br />
+                                            <h2 class="ez-toc-section" id="kepriye-carane-sesorah-kanthi-cara-memoriter%e2%80%8b">
+                            24. kepriye carane sesorah kanthi cara memoriter​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> 1).jlentrehna tegese pidhato laporan!wangsulan</p><p>semoga membantu </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="napi-punike-pidarte-memoriter-%e2%80%8b">
+                            25. napi punike pidarte memoriter ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>maksudnya apa? </p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><p> </p><p></p><p> pidarta sane kabaktayang antuk ngwacen teks, santukan sang mapidarta sampoun nyiagayang teks sane jagi kawacen</p><p></p><p><strong>MAAF</strong><strong> </strong><strong>KALO</strong><strong> SALAH</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="metode-pidato-memoriter-adalah-metode-pidato-yg-di-lakukan-dgn-cara%e2%80%8b">
+                            26. metode pidato memoriter adalah metode pidato yg di lakukan dgn cara​</h2><br />
+                        <p>Pidato dapat dilakukan dengan beberapa metode, diantaranya :</p><p>Memoriter ialah merupakan metode berpidato yang dilakukan dengan menghafalkan naskah teks pidato terlebih dahulu. Naskah ialah merupakan suatu metode dalam berpidato yang dimana dilakukan dengan membaca teks pada saat berpidato</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-yang-kamu-ketahui-tentang-pidato-memoriter%e2%80%8b">
+                            27. Jelaskan yang kamu ketahui tentang pidato memoriter​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>metode memoriter/menghapal adalah metode berpidato dengan menghapal isi atau materi pidato lebih dahulu. kemudian menyampaikan isi pidato tersebut tanpa sebuah naskah.</p><p></p>pidato memoriter disebut juga metode menghafal. prosesnya cukup panjang:<br />1. melakukan riset<br />2. menulis naskah pidato<br />3. menghafal<br />4. penyampaian pidato<br />untuk menggunakan metode ini, diperlukan memori atau ingatan yang baik<br />
+                                            <h2 class="ez-toc-section" id="komunikasi-dengan-pendengar-ketika-berpidato-dengan-metode-memoriter-adalah">
+                            28. Komunikasi dengan pendengar ketika berpidato dengan metode memoriter adalah</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Komunikasi dengan pendengar ketika berpidato dengan metode memoriter adalah cara menyampaikan pesan secara verbal dengan menghafal isi pidato dan menyampaikannya tanpa membaca catatan atau naskah secara langsung.</p><p><strong></strong></p><p>jika sesuai tolong bantu jadikan jawaban tercerdas ya. terimakasih sehat selalu</p><p><strong>Penjelasan:</strong></p><p>memoriter adalah tehknik berpidato dengan cara membuat teks lalu di hapalkan.</p><p>ketika menampilkan pidato dengan cara memoriter biasanya tidak membawa teks karena sudah dihapal jadi sebagai orang yang berpidato bisa langsung mengawasi pendengar dan memberikan informasi secara langsung.</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-perbedaadn-jenis-pidato-menggunakan-metode-menuskrip-dan-memoriter">
+                            29. Jelaskan perbedaadn jenis pidato menggunakan metode menuskrip dan memoriter</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>metode menuskrip ialah pidato dengan membaca teks sedangkan metode memoriter ialah dengan cara menghafal teks</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-apa-yang-dimaksud-dengan-metode-memoriter-dalam-pidato">
+                            30. jelaskan apa yang dimaksud dengan metode memoriter dalam pidato</h2><br />
+                        <p>Dalam berpidato terdapat beberapa metode yang dapat digunakan. Salah satunya adalah <strong>metode memoriter</strong>. <strong>Metode memoriter</strong> adalah metode menghafalkan naskah terlebih dahulu sebelum berpidato. Jadi pembicara tidak perlu membaca atau membawa teks saat menyampaikan pidato. </p><p></p><strong>Pembahasan</strong><p>Pidato adalah kegiatan berorasi atau berbicara di depan banyak orang. Pidato dilakukan dengan tujuan menyampaikan gagasan atau informasi dari pembicara. Dalam berpidato ada beberapa metode yang dapat digunakan, yaitu:</p>Metode impromptu ialah metode berpidato yang dilakukan secara spontan atau langsung tanpa adanya persiapan terlebih dahulu, seperti menyiapkan teks dan lain sebagainya. Metode ini biasanya digunakan oleh orang yang ahli dalam berpidato.<strong>Metode memoriter</strong> ialah metode berpidato dengan menghafalkan naskah terlebih dahulu.Metode naskah ialah metode berpidato dengan cara membacakan teks atau naskah yang telah disiapkan pada saat berpidato. Metode ini biasanya digunakan dalam acara-acara formal, dengan tujuan meminimalisir adanya kesalahan.Metode ekstemporan ialah metode berpidato dengan membawa catatan garis besar dari apa yang akan disampaikan. Metode ini cukup efektif karena sekalipun kita membawa catatan, kita tidak akan terpaku pada teks karena kita hanya akan melihat garis besarnya, kemudian mengembangkan isi menggunakan kata-kata sendiri. <p></p><strong>Pelajari lebih lanjut</strong>Materi tentang cara membuat pidato https://brainly.co.id/tugas/28355Materi tentang pengertian pidato https://brainly.co.id/tugas/1576492Materi tentang struktur teks pidato https://brainly.co.id/tugas/5347963<p></p><strong>Detail jawaban</strong><p>Kelas: VII</p><p>Mapel: Bahasa indonesia</p><p>BAB: 10</p><p>Kode: 7.1.10</p><p></p><p><strong>#TingkatkanPrestasimu</strong></p><p><strong>#SPJ6</strong></p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="perbedaan-ekstemporan-dengan-metode-memoriter">
+                            31. Perbedaan ekstemporan dengan metode memoriter</h2><br />
+                        <p><strong>Ekstemporan</strong></p><p>Yaitu suatu teknik pidato, dimana pembicara (orang yang berpidato) hanya menyiapkan garis besar dari isi pidatonya saja.</p><p>Teknik pidato ini memungkinkan pembicara dapat secara langsung merespons hal yang terjadi di hadapannya sesuai dengan situasi dan kondisi yang dihadapinya.</p><br /><p><strong>Memoriter</strong></p><p>Teknik pidato jenis ini juga sering disebut sebagai pidato hafalan.  Pembicara (orang yang akan berpidato) menulis semua pesan yang akan disampaikan dalam sebuah naskah, kemudian dihafalkan dan disampaikan kepada audiens (pendengar pidato) kata-demi kata secara hafalan.</p><br />
+                                            <h2 class="ez-toc-section" id="komunikasi-dengan-pendengar-ketika-berpidato-dengan-metode-memoriter-adalahno-ngasal-ok%e2%80%8b">
+                            32. komunikasi dengan pendengar ketika berpidato dengan metode memoriter adalahno ngasal ok​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pidato yang dilajukan dengan menggunakan kata kata sendiri. sebagaimana sering disebut sebgai pidato serta merta</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-keuntungan-pidato-memoriter%e2%80%8b">
+                            33. jelaskan keuntungan pidato memoriter​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pidato Memoriter yaitu metode berpidato dengan menghapalkan naskah pidato terlebih dahulu.</p><p></p><p>adapun keuntungan pidato memoriter:</p><p>- Mendapat perhatian pendengar</p><p>- Dapat mempersiapkan topik pidato</p><p>- Melatih daya ingat</p><p>- Kata-kata dapat dipilih sebaik-baiknya gerak dengan isyarat yang di integrasikan dengan uraian.</p><p></p><p><strong>semoga</strong><strong> membantu</strong></p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-d-maksud-memoriter">
+                            34. Apa yang d maksud memoriter</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>memoriter adalah cara penyampaian</p><p>gagasan dengan menghapal naskah </p><p>pidato</p><br />
+                                            <h2 class="ez-toc-section" id="napi-sane-madan-memoriter-punika%e2%80%8b">
+                            35. napi sane Madan memoriter punika​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>memortir dalam pidato itu , membaca pidato menggunakan teks</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><p>jangan lupa like, ikuti, bintang lima</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-mana-yang-kamu-ketahui-tentang-pidato-memoriter-tolong-jawab-tapi-jangan-salah-%e2%80%8b">
+                            36. jelaskan mana yang kamu ketahui tentang pidato memoriter! tolong jawab tapi jangan salah ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pidato Memoriter, yaitu metode berpidato dengan cara menghapalkan naskah teks pidato terlebih dahulu</p><p></p><p><strong></strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="kepriye-carane-sesorah-kanthi-cara-memoriterpliss-kak%e2%80%8b">
+                            37. kepriye carane sesorah kanthi cara memoriterpliss kak​</h2><br />
+                        <p>jawaban</p><p>1).jlentrehna tegese pidhato laporan! wangsulan</p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="4-napi-punika-pirdarta-memoriter">
+                            38. 4). Napi punika pirdarta memoriter?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Manuskrip : pidarta sane kabaktayang antuk ngwacen teks, santukan sang mapidarta sampoun nyiagayang teks sane jagi kawacen.</p><p>Impromtu : pidarta sane kabaktayang antuk nenten nganggen teks, riantukan sang mapidarta nadak sara kasudi mapidarta.</p><p>Memoriter : pidarta sane kabaktayang nenten ngangge teks, riantukan sampun kaapalang sadurung mapidarta.</p><p>Ekstempore : Pidarta sane kabaktayang antuk ngangge ringkesan pidarta, utawi nyuratang unteng untengnyane kemanten.</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-persiapan-yang-harus-dilakukan-pembicara-dengan-metode-memoriter%e2%80%8b">
+                            39. Jelaskan persiapan yang harus dilakukan pembicara dengan metode memoriter??​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>Pidato adalah sebuah kegiatan berbicara di depan umum atau berorasi untuk menyatakan pendapatnya, atau memberikan gambaran tentang suatu hal.</p><p>Memoriter. Ini metode menghafal. Para peserta lomba pidato biasanya menggunakan metode memoriter atau menghafal ini. Prosesnya akan cukup panjang. Mulai dari melakukan riset, menulis naskah pidato, menghafalnya, dan menyampaikannya. Ingatan atau memori yang baik akan sangat menentukan keberhasilan penggunaan metode pidato ini.</p><p><strong>Jawaban:</strong></p><p>mengulang kembali apa saja yg harus diingat dan dihafal</p><br />
+                                            <h2 class="ez-toc-section" id="berilah-dua-contoh-pidato-memoriter-yang-pernah-kalian-jumpai-atau-pernah-kalian-lihat">
+                            40. Berilah dua contoh pidato memoriter yang pernah kalian jumpai atau pernah kalian lihat!</h2><br />
+                        <p> </p><p>1. Pidato Singkat tentang Narkoba</p><p>Assalamualaikum Wr. Wb.</p><p></p><p> </p><p></p><p>Para hadirin yang saya hormati</p><p></p><p>Pada kesempatan yang cukup teduh ini, marilah kita senantiasa memanjatkan puja dan puji syukur ke hadirat Allah SWT atas segala nikmat dan rahmat berupa kesehatan sehingga pada kesempatan ini kita bisa hadir di forum penerangan bahaya narkotika ini.</p><p></p><p> </p><p></p><p>Hadirin yang saya hormati</p><p></p><p>Menkonsumsi narkoba adalah satu di antara perbuatan yang menyebabkan timbulnya kejahatan,  perbuatan setan, dan sekaligus perbuatan keji yang harus dijauhi agar kita selamat di dunia dan akhirat, serta lingkungan masyarakat pun tenteram tidak ada satu kejahatan pun.</p><p></p><p> </p><p></p><p>Janganlah sekali-kali mencoba untuk menggunakan narkoba, karena jika kita mencobanya, maka akan rugi seumur hidup. Hidup terasa terbelenggu dan ketergantungan terhadap sesuatu yang justru merusak hidup kita.</p><p></p><p> </p><p></p><p>Maka dari itu, marilah para putra dan putri bangsa, mulai sekarang menjauhi narkotika dan mulailah berlomba-lomba meraih cita-cita yang tinggi agar kelak menjadi orang yang tidak merugi.</p><p></p><p> </p><p></p><p>Hadirin yang saya hormati</p><p></p><p> </p><p></p><p>Mungkin hanya ini pidato yang bisa saya sampaikan, bila ada salah kata atau ucapan mohon dimaafkan.</p><p></p><p> </p><p></p><p>Wassalamualaikum Wr. Wb.</p><p></p><p>2. Pidato Singkat tentang Pendidikan</p><p> </p><p>Assalamualaikum Wr. Wb.</p><p></p><p> </p><p></p><p>Hadirin yang saya hormati</p><p></p><p> </p><p></p><p>Dalam kesempatan yang berbahagia ini, marilah kita bersyukur kepada Allah SWT atas segala nikmat serta hidayahNya yang telah dicurahkan kepada kita semua sehingga pada kesempatan kali ini kita bisa hadir dalam acara peringatan hari pendidikan nasional.</p><p></p><p> </p><p></p><p>Hadirin yang berbahagia</p><p></p><p>Dalam mencari ilmu, Allah SWT pernah menguji para malaikat-malaikatNya bahwa ternyata tidak ada seseorang pun di dunia ini yang mempunyai ilmu pengetahuan, kecuali hanya Allah SWT. Sebagian ilmu yang kita miliki ini adalah titipanNya. Bahkan malaikat pun tidak akan memiliki ilmu pengetahuan, selain apa yang telah diajarkan kepadanya. Oleh karena itu, kita tidak boleh sombong dengan pengetahuan yang kita miliki. Bahkan dengan apa pun yang kita miliki, tidak boleh sombong.</p><p></p><p> </p><p></p><p>Hadirin yang saya hormati</p><p></p><p>Sebagian dari keutamaan orang mencari ilmu adalah dimudahkan serta dibimbing melalui jalan menuju kebenaran. Betapa pentingnya orang yang menuntut ilmu sehingga diberikan pengetahuan yang luar biasa. Peranan para tenaga pengajar juga sangat penting sehingga orang yang bersamanya dukuk untuk menimba ilmu pengetahuan darinya, walau hanya satu jam saja itu lebih disukai oleh Allah SWT dari pada pahalanya dalam beribadah seribu tahun.</p><p></p><p> </p><p></p><p>Hanya itu yang bisa saya sampaikan, mudah-mudahan ada manfaatnya serta diberikan ilmu yang bermanfaat dan diridai Allah SWT. Amin.</p><p></p><p> </p><p></p><p>Wassalamualaikum Wr. Wb.</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/Nah5lj6xzis?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_indonesia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sinonim-klasifikasi/">Sinonim Klasifikasi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jenis-tari-piring/">Jenis Tari Piring</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-maksud-dari-satu-bangsa/">Apa Maksud Dari Satu Bangsa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/lagu-daerah-dan-penciptanya/">Lagu Daerah Dan Penciptanya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pertanyaan-tentang-jaringan-ikat/">Pertanyaan Tentang Jaringan Ikat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/alat-yg-berfungsi-untuk-mengupas-kabel-adalah/">Alat Yg Berfungsi Untuk Mengupas Kabel Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gunakan-teorema-pythagoras/">Gunakan Teorema Pythagoras</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/artinya-nc/">Artinya Nc</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/salah-satu-informasi-penting-yang-disampaikan-dalam-teks-diatas-adalah/">Salah Satu Informasi Penting Yang Disampaikan Dalam Teks Diatas Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hal-yang-ingin-disampaikan-kepada-pembaca-pada-puisi-disebut/">Hal Yang Ingin Disampaikan Kepada Pembaca Pada Puisi Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ukuran-diameter-lingkaran-lapangan-tolak-peluru-adalah/">Ukuran Diameter Lingkaran Lapangan Tolak Peluru Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berdirinya-sebuah-negara-harus-memenuhi-syarat-sebagai-berikut-kecuali/">Berdirinya Sebuah Negara Harus Memenuhi Syarat Sebagai Berikut Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5-juta-usd/">5 Juta Usd</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nama-file-data-bisnis-harus-unik-artinya/">Nama File Data Bisnis Harus Unik Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-saja-yang-harus-kamu-tuliskan-dalam-formulir/">Apa Saja Yang Harus Kamu Tuliskan Dalam Formulir</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5-juta-berapa-nol/">5 Juta Berapa Nol</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kalimat-tentang-hujan/">Kalimat Tentang Hujan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/15-dolar-berapa-rupiah/">15 Dolar Berapa Rupiah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fungsi-laring/">Fungsi Laring</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/domestik-adalah/">Domestik Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

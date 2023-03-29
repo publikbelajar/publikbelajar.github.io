@@ -1,0 +1,1310 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Turunan Sin X - BELAJAR</title>
+    <meta name="description" content="Turunan Sin X, , , , , , , 0, Turunan fungsi-lengkap, www.slideshare.net, 728 x 546, jpeg, , 20, turunan-sin-x, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Turunan Sin X - BELAJAR" />
+    <meta property="og:description" content="Turunan Sin X, , , , , , , 0, Turunan fungsi-lengkap, www.slideshare.net, 728 x 546, jpeg, , 20, turunan-sin-x, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Turunan Sin X - BELAJAR" />
+    <meta name="twitter:description" content="Turunan Sin X, , , , , , , 0, Turunan fungsi-lengkap, www.slideshare.net, 728 x 546, jpeg, , 20, turunan-sin-x, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Turunan Sin X</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">RanggaWicaksono</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Turunan+Sin+X" alt="Turunan Sin X">
+                    </div>
+                    <p></p>
+                    <p>turunan dari sin(sin x) </p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-sinsin-x">1.
+                                            turunan dari sin(sin x) </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-sin-x-cos-xsin-x-adalah">2.
+                                            turunan dari (sin x - cos x)/sin x adalah ....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-sin-x-cos-x-sin-x%e2%80%8b">3.
+                                            turunan sin x - cos x / sin x​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-ysinsin-x%e2%80%8b">4.
+                                            turunan dari y=sin(sin x)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-fx-cos-x-sin-x-sin-x-cos-x%e2%80%8b">5.
+                                            turunan dari f(x) = (cos x - sin x) (sin x + cos x)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-tx-sin-x-1-sin-x-2-adalah">6.
+                                            Turunan dari T(x) = (sin x - 1) (sin x - 2) adalah....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-turunan-pertama-dari-x-sin-x-sin-x-cos-x%e2%80%8b">7.
+                                            tentukan turunan pertama dari (x) = sin x / sin x + cos x​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-y-1-sin-x-sin-x-3">8.
+                                            Turunan dari y = 1-sin x / sin x - 3</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-y%e2%88%9ax%c2%b2sin-x%e2%80%8b">9.
+                                            Turunan dari y=√x²+sin x​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-fx-sin-cossinx2">10.
+                                            turunan dari f(x) = sin (cos(sin(x^2)))</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-pertama-dari-fx-sin-x%c2%b2-sin%c2%b2x-adalah%e2%80%8b">11.
+                                            Turunan pertama dari f(x) = sin (x²) - sin²x adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-x-sin%c2%b2x-adalah-%e2%80%8b">12.
+                                            turunan x sin²x adalah ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan1-tulis-turunan-pertama-dari-fx-sin%c2%b22x%c2%b3-1-2-jika-fx-x%c2%b3-sin-x-maka-turunan-pertama-dari-fx-adalah-%e2%80%8b">13.
+                                            Turunan1. Tulis turunan pertama dari F(X) = Sin²(2x³-1) !2. Jika f(X) = X³ sin X , maka turunan pertama dari f(X) adalah...?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-fungsi-fx-sin-x-sin-x-cos-x-adalah">14.
+                                            Turunan fungsi f(x)= sin x / sin x - cos x adalah ..</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapakah-turunan-dari-cos-x-sin-x">15.
+                                            Berapakah turunan dari Cos X + Sin X ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-turunan-dari-f%c3%97-sin-x3-sin-%c3%972-sin-x">16.
+                                            Tentukan turunan dari f(×) = sin x^3 + sin ×^2 + sin x </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-turunan-fungsi-sin-x-per-sin-xcosx">17.
+                                            Tentukan turunan fungsi sin x per sin x+cosx</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-turunan-keriga-dari-cos-x-sin-x-cos-x-sin-x-sin-x-cos-x-2-turunan-keempat-dari-y-sin-x">18.
+                                            1. Turunan keriga dari 
+* cos x
+* sin x 
+* -cos x
+* -sin x 
+* sin x / cos x 
+2. Turunan keempat dari y = sin x </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-sin-x-kuadrat-sin-x2">19.
+                                            TURUNAN DARI SIN X KUADRAT ( SIN X^2 )</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kuis-disajikan-beberapa-informasi-1-turunan-dari-sin-x-adalah-cos-x-2-turunan-dari-cos-x-adalah-sin-x-tentukanlah-turunan-tan-x-%e2%80%8b">20.
+                                            Kuis Disajikan beberapa informasi: 1. Turunan dari sin x adalah cos x 2. Turunan dari cos x adalah - sin x Tentukanlah turunan tan x. ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-pertama-fxsin-x-cos-x-sin-x">21.
+                                            turunan pertama f(x)=sin x+ cos x/ sin x</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-pertama-dari-ysin-xsin-x-cos-x">22.
+                                            Turunan pertama dari y=sin x/sin x + cos x</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-y-sin-sin-x">23.
+                                            Turunan dari y = sin (sin x)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-y-x-sin-x">24.
+                                            Turunan y = (x + sin x)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-gx-cos-x-sin-x-sin-x-cos-x%e2%80%8b">25.
+                                            turunan dari g(x) = cos x - sin x / sin x + cos x​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-cotan-x-sin-x">26.
+                                            Turunan dari cotan x - sin x = .....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-pertama-dari-fx-sinsinsin-x2-adalah">27.
+                                            Turunan pertama dari 
+f(x) = sin(sin(sin x^2)) adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#deret-tak-hingga-turunan-dari-y-sinsinsin-sinsin-x-x0">28.
+                                            deret tak hingga turunan dari y= sin(sin(sin....sin(sin x))))) x=0</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-fungsi-trigonometriturunan-darigx-sin-x-cos-x-sin-x-cos-xdengan-cara">29.
+                                            Turunan fungsi Trigonometri
+Turunan dari
+g(x) = sin x - cos x / sin x + cos x
+(Dengan cara)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-turunan-dari-ysin%c2%b2sin%e2%81%b4x%e2%80%8b">30.
+                                            tentukan turunan dari y=sin²sin⁴x​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-fungsi-fx-sin-x-sin-x-cos-x-adalah">31.
+                                            Turunan fungsi f(x) = sin x / sin x - cos x adalah </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-ysin-xcos-x-cos-xsin-x">32.
+                                            Turunan dari Y=sin x/cos x + cos x/sin x</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#quiz-turunan-fungsi-trigonometriturunan-dari-f-x-sin-x-cos-x-cos-x-sin-x-adalah%e2%80%8b">33.
+                                            QUIZ : Turunan Fungsi TrigonometriTurunan dari f (x) = (sin x - cos x) / (cos x + sin x) adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-sin-x-adalah%e2%80%8b">34.
+                                            Turunan -sin x adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-y-sin-sin-x">35.
+                                            turunan dari y = sin (sin x)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-x%c2%b2-sin-x-adlh">36.
+                                            Turunan dari x² .sin x adlh</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-dari-y-sin-sin-x%e2%80%8b">37.
+                                            Turunan dari y = sin (sin x)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#turunan-pertama-dari-x-sin-x-sin-x-cos-x">38.
+                                            Turunan pertama dari x = sin x /sin x + cos x =</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-turunan-dari-sin-x">39.
+                                            apakah turunan dari sin x?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hasil-turunan-dari-fx-sin-x-sin-5x">40.
+                                            Hasil turunan dari 
+F(x) = sin x + sin 5x</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="turunan-dari-sinsin-x">
+                            1. turunan dari sin(sin x) </h2><br />
+                        y=sin(sinx)<br />y'=cos(sinx)<strong>.</strong>cosx<br /><br />maaf kl salah<br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-sin-x-cos-xsin-x-adalah">
+                            2. turunan dari (sin x - cos x)/sin x adalah ....</h2><br />
+                        [tex]\displaystyle y=\frac{\sin x-\cos x}{\sin x}=1-\frac{\cos x}{\sin x} \\ y'=0-\frac{(-\sin x)(\sin x)-(\cos x)(\cos x)}{\sin^2 x} \\ y'=-\frac{-\sin^2 x-\cos^2 x}{\sin^2 x}=-\frac{-(\sin^2 x+\cos^2 x)}{\sin^2 x} \\ y'=\frac{1}{\sin^2 x}=\csc^2 x[/tex]<br />
+                                            <h2 class="ez-toc-section" id="turunan-sin-x-cos-x-sin-x%e2%80%8b">
+                            3. turunan sin x - cos x / sin x​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>misal</p><p>u = sin x - cos x, u' = cos x + sin x</p><p>v = sin x, v' = cos x</p><p>y= u/v, y' = (u'v-uv'/)v²</p><p>y = sin x - cos x / sin x</p><p>y' = ((cos x + sin x) sin x - (sin x - cos x) cos x)) / (sin x)²</p><p>y' = (sin x cos x + sin² x - sin x cos x + cos² x) / sin² x</p><p>y’= sin²x + cos² x / sin² x</p><p>y’= 1 / sin² x</p><p>y' = csc² x</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-ysinsin-x%e2%80%8b">
+                            4. turunan dari y=sin(sin x)​</h2><br />
+                        <p>y=sin (sin x)</p><p>y'=cos (sin x) d(sin x)</p><p>cos (sin x).cos x</p><p></p><p>semoga membantu:)</p><p>[tex]y=\sin(\sin x)\\--------------\,\frac{d}{dx}[...]=\frac{d}{dx}[...]\\\frac{d}{dx}[y]=\frac{d}{dx}[\sin(\sin x)]\\--------------\,\frac{d}{dx}[\sin(f(x))]=\cos(f(x))\,.\,\frac{d}{dx}[f(x)]\\\frac{d}{dx}[y]=\cos(\sin x)\,.\,\frac{d}{dx}[\sin(x)]\\--------------\,\frac{d}{dx}[\sin(x)]=\cos x\\\frac{d}{dx}[y]=\cos(\sin x)\,.\,\cos(x)\\--------------\,\frac{d}{dx}[y]=y'\\y'=\cos(\sin x)\,.\,\cos(x)[/tex]</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-fx-cos-x-sin-x-sin-x-cos-x%e2%80%8b">
+                            5. turunan dari f(x) = (cos x - sin x) (sin x + cos x)​</h2><br />
+                        <p>f(x) = (cos x - sin x) (sin x + cos x)</p><p>misal (cos x - sin x) = u</p><p>          (sin x + cos x) = v</p><p>menggunakan aturan rantai untuk f'(x) * g'(x) = u'v + uv'</p><p>f'(x) = (-sin x - cos x) (sin x + cos x) + (cos x - sin x) (cos x - sin x)</p><p>       =  - sin²x - cos²x  - cosxsinx - cosxsinx + cos²x -cosxsinx -cosxsinx + sin²x</p><p>       = -4cosxsinx</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-tx-sin-x-1-sin-x-2-adalah">
+                            6. Turunan dari T(x) = (sin x - 1) (sin x - 2) adalah....</h2><br />
+                        t(x) = (sin x - 1)(sin x - 2)<br />t'(x) = (cos x)(sin x - 2) + (sin x - 1)(cos x)<br />       = cos x (2 sin x - 3)<br />
+                                            <h2 class="ez-toc-section" id="tentukan-turunan-pertama-dari-x-sin-x-sin-x-cos-x%e2%80%8b">
+                            7. tentukan turunan pertama dari (x) = sin x / sin x + cos x​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah: </strong></p><p><strong>x = u / v
+</strong></p><p><strong>x' = (u'v - uv') / v²
+</strong></p><p><strong>
+</strong></p><p><strong>x = sin x / (sin x + cos x)
+</strong></p><p><strong>
+</strong></p><p><strong>x' = [cos x (sin x + cos x) - sin x (cos x - sin x)] / (sin x + cos x)²
+</strong></p><p><strong>    = [cos x sin x + cos² x - cos x sin x + sin² x] / (sin x + cos x)²
+</strong></p><p><strong>    = (sin² x + cos² x) / (sin x + cos x)²
+</strong></p><p><strong>    = 1 / (sin x + cos x)²</strong></p><p><strong></strong></p><p><strong></strong></p><br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-y-1-sin-x-sin-x-3">
+                            8. Turunan dari y = 1-sin x / sin x - 3</h2><br />
+                        y = -Cos x / cos x = -1<br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-y%e2%88%9ax%c2%b2sin-x%e2%80%8b">
+                            9. Turunan dari y=√x²+sin x​</h2><br />
+                        <p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>turunan</p><p>i) y = axⁿ --&gt; y' = an xⁿ⁻¹</p><p>ii) y = sin x --&gt; y'=  cos x</p><p>__</p><p>soal</p><p>[tex]\sf y = \sqrt{x^2 + sin ~x}\sf\\\\\sf y = (x^2 + sin ~ x)^{\frac{1}{2}}\sf\\\\\sf y' = \frac{1}{2} (2x + cos ~ x)(x^2 + sin ~ x )^{-\frac{1}{2}}\sf\\\\\\\sf y' = \dfrac{2x+ cos x}{2(x^2 +sin~ x)^{\frac{1}{2}}}\sf\\\\\\\sf y' = \dfrac{2x+ cos x}{2(\sqrt{x^2 +sin~ x})}\sf\\\\[/tex]</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-fx-sin-cossinx2">
+                            10. turunan dari f(x) = sin (cos(sin(x^2)))</h2><br />
+                        <p><strong>Jawab:</strong></p><br /><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>f'(x) = cos (cos(sin(x^2))) . (-sin (sin(x^2)). cos x² . 2x</p><p>= -2x cos (cos(sin (x²))) sin (sin (x²)). cosx²</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-pertama-dari-fx-sin-x%c2%b2-sin%c2%b2x-adalah%e2%80%8b">
+                            11. Turunan pertama dari f(x) = sin (x²) - sin²x adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>(sinx)^2 --→ misal u d(u)^2 = 2u^2-1*d(u) = 2sinx*cosx = sin2x</p><p></p><p>maaf yaaa kalai salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="turunan-x-sin%c2%b2x-adalah-%e2%80%8b">
+                            12. turunan x sin²x adalah ​</h2><br />
+                        <p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>f(x) = sin²x</p><p>f '(x) = 2sin x.cos x</p><p>       = sin 2x</p><br />
+                                            <h2 class="ez-toc-section" id="turunan1-tulis-turunan-pertama-dari-fx-sin%c2%b22x%c2%b3-1-2-jika-fx-x%c2%b3-sin-x-maka-turunan-pertama-dari-fx-adalah-%e2%80%8b">
+                            13. Turunan1. Tulis turunan pertama dari F(X) = Sin²(2x³-1) !2. Jika f(X) = X³ sin X , maka turunan pertama dari f(X) adalah...?​</h2><br />
+                        <p>TURUnan</p><p></p><p>1.</p><p>f(x) = sin g(x)  →  f'(x) = g'(x) cos g(x)</p><p></p><p>__</p><p>f(x) = sin² (2x³ - 1)</p><p>f'(x)</p><p>= 2 sin (2x³ - 1) . cos (2x³ - 1) . (6x² - 0)</p><p>= 6x² sin 2(2x³ - 1)</p><p>= <strong>6</strong><strong>x</strong><strong>²</strong><strong> </strong><strong>s</strong><strong>i</strong><strong>n</strong><strong> </strong><strong>(</strong><strong>4</strong><strong>x</strong><strong>³</strong><strong> </strong><strong>-</strong><strong> </strong><strong>2</strong><strong>)</strong></p><p></p><p>2.</p><p>y = uv  →  y' = u'v + uv'</p><p></p><p>__</p><p>f(x) = x³ sin x</p><p>f'(x)</p><p>= 3x² sin x + x³ cos x</p><p>= <strong>x² (3 sin x + x cos x</strong><strong>)</strong></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="turunan-fungsi-fx-sin-x-sin-x-cos-x-adalah">
+                            14. Turunan fungsi f(x)= sin x / sin x - cos x adalah ..</h2><br />
+                        [tex]f(x)=\frac{\sin x}{\sin x-\cos x}\\\\u=\sin x\\u'=\cos x\\v=\sin x-\cos x\\v'=cos x+\sin x\\\\f'(x)=\frac{u'v-uv'}{v^2}\\f'(x)=\frac{(\cos x)(\sin x-\cos x)-(\sin x)(\cos x+\sin x)}{(\sin x-\cos x)^2}\\f'(x)=\frac{(\cos x\sin x-\cos^2x)-(\sin x\cos x+\sin^2x)}{\sin^2x-2\sin x\cos x+\cos^2x}\\f'(x)=\frac{\cos x\sin x-\cos^2x-\sin x\cos x-\sin^2x}{1-2\sin x\cos x}\\f'(x)=\frac{-\cos^2x-\sin^2x}{1-2\sin x\cos x}\\f'(x)=\frac{-(\cos^2x+\sin^2x)}{1-\sin2x}\\\boxed{f'(x)=\frac{-1}{1-\sin2x}}[/tex]<br />
+                                            <h2 class="ez-toc-section" id="berapakah-turunan-dari-cos-x-sin-x">
+                            15. Berapakah turunan dari Cos X + Sin X ?</h2><br />
+                        <p><strong>Jawab:</strong></p><p>[tex]y'=-\sqrt{1-\sin 2x}[/tex]</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>[tex]y=\cos x+\sin x\\y'=-\sin x+\cos x\\y'=-(\sin x-\cos x)\\y'=-\sqrt{(\sin x-\cos x)^2}\\y'=-\sqrt{\sin ^2x+\cos ^2x-2\sin x\cos x}\\y'=-\sqrt{1-\sin 2x}[/tex]</p><p><strong>Semoga bermanfaat!!!</strong></p><p>Penjelasan dengan langkah-langkah:</p><p>Ingat !</p><p>y = cos x =&gt; y' = - sin x</p><p>y = sin x =&gt; y' = cos x</p><p></p><p>turunan dari cos x + sin x adalah</p><p>- sin x + cos x</p><p></p><p></p><p>Semoga Bermanfaat</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-turunan-dari-f%c3%97-sin-x3-sin-%c3%972-sin-x">
+                            16. Tentukan turunan dari f(×) = sin x^3 + sin ×^2 + sin x </h2><br />
+                        <p><strong>Jawab:</strong></p><p>turunan fungsi trigonometri</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>f(x)= sin (x³) + sin (x²)  + sin (x)</p><p>f'(x) = 3x² cos (x³) + 2x cos (x²) + cos x</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-turunan-fungsi-sin-x-per-sin-xcosx">
+                            17. Tentukan turunan fungsi sin x per sin x+cosx</h2><br />
+                        Jawaban ada di foto.<br />tolong dikoreksi jikalau ada salah<br /><br />terimakasih :)<br />
+                                            <h2 class="ez-toc-section" id="1-turunan-keriga-dari-cos-x-sin-x-cos-x-sin-x-sin-x-cos-x-2-turunan-keempat-dari-y-sin-x">
+                            18. 1. Turunan keriga dari 
+* cos x
+* sin x 
+* -cos x
+* -sin x 
+* sin x / cos x 
+2. Turunan keempat dari y = sin x </h2><br />
+                        a. f(x) = cos x<br />   f ' (x) = -sin x<br />  f " (x) = - cos x<br />  f '"(x) = sin x<br /><br />b. f(x) = sin x<br /> f ' (x) = cos x<br />f " (x) = -sin x<br />f "' (x) = - cosx<br /><br />c. f (x) = - cos x<br />f ' (x) = sin x<br />f " (x0 = cos x<br />f "'( x) = -sin x<br /><br />d. f(x) = - sin x<br />f ' (x) = - cos x<br />f " (x) = sin x<br />f "' (x) = cos x<br /><br />2. y = sin x<br />y ' = cos x<br />y " = - sin x<br />y "' = -cos x<br />y "" = sin x<br />a. f(x) = cos x<br />   f ' (x) = -sin x<br />  f " (x) = - cos x<br />  f '"(x) = sin x<br /><br />b. f(x) = sin x<br /> f ' (x) = cos x<br />f " (x) = -sin x<br />f "' (x) = - cosx<br /><br />c. f (x) = - cos x<br />f ' (x) = sin x<br />f " (x0 = cos x<br />f "'( x) = -sin x<br /><br />d. f(x) = - sin x<br />f ' (x) = - cos x<br />f " (x) = sin x<br />f "' (x) = cos x<br /><br />2. y = sin x<br />y ' = cos x<br />y " = - sin x<br />y "' = -cos x<br />y "" = sin x<br /><br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-sin-x-kuadrat-sin-x2">
+                            19. TURUNAN DARI SIN X KUADRAT ( SIN X^2 )</h2><br />
+                        2xCosx². semoga membantu. jadikan yg terbaik ya<br />
+                                            <h2 class="ez-toc-section" id="kuis-disajikan-beberapa-informasi-1-turunan-dari-sin-x-adalah-cos-x-2-turunan-dari-cos-x-adalah-sin-x-tentukanlah-turunan-tan-x-%e2%80%8b">
+                            20. Kuis Disajikan beberapa informasi: 1. Turunan dari sin x adalah cos x 2. Turunan dari cos x adalah - sin x Tentukanlah turunan tan x. ​</h2><br />
+                        <p></p><p>[tex]f(x) = { \rm{tan}} \: x \\   \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \: =  \frac{ {\rm{sin}} \: x}{ {\rm{cos}} \: x} [/tex]</p><p>[tex]u =   {\rm{sin}} \: x→u' =  {{\rm{cos}} \: x}[/tex]</p><p>[tex]v =  { {\rm{cos}} \: x}→v' =   -  {{\rm{sin}} \: x}[/tex]</p><p>[tex]f'(x) =  \frac{vu' - uv'}{ {v}^{2} }  \\   \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \: =  \frac{{ (\rm{cos}} \: x){(\rm{cos}} \: x) - { (\rm{sin}} \: x){(\rm{ - sin}} \: x)}{{ (\rm{cos}} \: x)}  \\   \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \: =  \frac{ { \rm{cos}}^{2}x +  {\rm{ {{sin}^{2} }}}x}{ ({\rm{cos}} \: x)^{2} }  \\   \:  \:  \:  \:  \:  \:  \:  \: =  \frac{1}{({\rm{cos}} \: x)^{2}}  \\   \:  \:  \: = { \rm{ {sec}^{2} }} \: x[/tex]</p><p>Jadi, turunan tan x adalah <strong>sec²</strong><strong> </strong><strong>x</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>Diketahui.</strong></p><p>[tex]f(x) =  \sin(x)   \to f'(x) =  \cos(x) [/tex]</p><p>[tex]f(x) =  \cos(x)  \to f'(x) =  -  \sin(x) [/tex]</p><p>[tex] \: [/tex]</p><p><strong>Ditanya.</strong></p><p>[tex]f(x) =  \tan(x)  \to f'(x) =  \:  ?[/tex]</p><p>[tex] \: [/tex]</p><p><strong>Jawab.</strong></p><p>Karena fungsi tan(x) dapat diubah menjadi sin(x)/cos(x) serta bentuknya u/v, maka gunakanlah 2 permisalan.</p><p></p><p>• Misal.</p><p>[tex]u =  \sin(x) [/tex]</p><p>[tex]u' =  \cos(x) [/tex]</p><p>[tex]v =  \cos(x) [/tex]</p><p>[tex]v' =  -  \sin(x) [/tex]</p><p>[tex] \: [/tex]</p><p>• Maka.</p><p>[tex] \begin{aligned}f(x)&amp; =  \tan(x)   \\ \\  &amp; =  \frac{ \sin(x) }{ \cos(x) }  \\  \\ &amp; =  \frac{u}{v}  \\  \\  \\ f'(x)&amp; =  \frac{u'v - uv'}{ {v}^{2} }  \\  \\  &amp;= \frac{ \cos(x). \cos(x) -  \sin(x) .( -  \sin(x) )  }{ {( \cos(x) )}^{2} } \\  \\  &amp; =  \frac{ \cos {}^{2} (x) +  \sin {}^{2} (x)  }{ \cos {}^{2} (x) }  \\  \\ &amp; =  \frac{ \sin {}^{2} (x)  +  \cos {}^{2} (x) }{ \cos {}^{2} (x) }  \\  \\ &amp; =  \frac{1}{ \cos {}^{2} (x) }  \\  \\ &amp; =  \sec {}^{2} (x) \to \text{jawabannya}  \end{aligned}[/tex]</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="turunan-pertama-fxsin-x-cos-x-sin-x">
+                            21. turunan pertama f(x)=sin x+ cos x/ sin x</h2><br />
+                        <br />[tex]y =  \frac{ \sin(x) +  \cos(x)  }{  \sin(x) }  \\ y = 1 +  \cot(x)  \\  \frac{dy}{dx}  =   -  { \csc(x) }^{2} [/tex]<br />kalau mungkin maksudnya<br />[tex]y =   \sin(x)  +  \frac{ \cos(x) }{ \sin(x) }  \\ y =  \sin(x)  +   \cot(x)  \\  \frac{dy}{dx}  =  \cos(x)  -  { \csc(x) }^{2} [/tex]<br /><br />
+                                            <h2 class="ez-toc-section" id="turunan-pertama-dari-ysin-xsin-x-cos-x">
+                            22. Turunan pertama dari y=sin x/sin x + cos x</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p>maaf kalau salah, semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-y-sin-sin-x">
+                            23. Turunan dari y = sin (sin x)</h2><br />
+                        semoga bisa dipahami dan membantu<br />
+                                            <h2 class="ez-toc-section" id="turunan-y-x-sin-x">
+                            24. Turunan y = (x + sin x)</h2><br />
+                        y = x + sin x<br /><br />y' = 1 + cos x<br /><br />NOTE :<br />• y = a. x^n → y' = n. a. x^(n-1)<br />• y = sin x → y' = cos x<p>.<br />y = x + sin x<br /><br />dy/dx<br />= dx/dx + dsin x /dx<br />= 1 + cos x  ✔</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-gx-cos-x-sin-x-sin-x-cos-x%e2%80%8b">
+                            25. turunan dari g(x) = cos x - sin x / sin x + cos x​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>u = sin x - cosx</p><p>u cosX + sin X</p><p>V sin x+ cos X</p><p>V= cos X sin x</p><p>gx)=u/v</p><p>turunan gx)</p><p>(u' v- u v)/v&lt;</p><p>= (cos x +sin x) (sin x t cos x- (sin X cos</p><p>x) (cos x - sin x)/ (sin x + cos x)</p><p>= (cos x + 2 sin x cos x + sin x) - (sin x</p><p>cOS X Sinx - cosźx +coS x sin x)/ (sin x</p><p>+cos x)</p><p>(1+2sinx cos x - 2sin x cos x +1)/ (sinx</p><p>+CoS x)</p><p>2/ (sin x + cos x</p><p></p><p>semoga membantu ya</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-cotan-x-sin-x">
+                            26. Turunan dari cotan x - sin x = .....</h2><br />
+                        f(x) = cotan x - sin x<br />     = (1/tan x) - sin x<br />     = (1/sin x/cos x) - sin x<br />     = (cos x/sin x) - sin x<br />f'(x) = [((-sinx (sin x)) - (cos x (cosx))) / cos^2 x] - cos x <br />      = [(-sin^2 x - cos^2x) / cos^2 x] - cos x<br />      = - 1/cos^2x - cos x<br />
+                                            <h2 class="ez-toc-section" id="turunan-pertama-dari-fx-sinsinsin-x2-adalah">
+                            27. Turunan pertama dari 
+f(x) = sin(sin(sin x^2)) adalah</h2><br />
+                        <p>Gunakan aturan rantai</p><p></p><p>Misal,</p><p>a = x^2</p><p>da/dx = 2x</p><p></p><p>b = sin(a)</p><p>db/da = cos(a)</p><p></p><p>c = sin(b)</p><p>dc/db = cos(b)</p><p></p><p>y = sin(c)</p><p>dy/dc = cos(c)</p><p></p><p>maka,</p><p></p><p>dy/dx = dy/dc . dc/db . db/da . da/dx</p><p>= cos(c)*cos(b)*cos(a)*(2x)</p><p>= (2x)*cos(sin(b))*cos(b)*cos(a)</p><p>= (2x)*cos(sin(sin(a)))*cos(sin(a))*cos(a)</p><p>= (2x)*cos(sin(sin(x^2)))*cos(sin(x^2))*cos(x^2)</p><br />
+                                            <h2 class="ez-toc-section" id="deret-tak-hingga-turunan-dari-y-sinsinsin-sinsin-x-x0">
+                            28. deret tak hingga turunan dari y= sin(sin(sin....sin(sin x))))) x=0</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>1)rusuk kubus = 12 buah</p><p>1 rusuk = 1 m</p><p>v = rusuk^3</p><p>v= 1 x 1 x 1 = 1m^3</p><p></p><p>2) volume kubus = 1m^3</p><p>v = rusuk^3</p><p>maka 1 rusuk = 1 / 1 / 1 = 1m</p><p>1m = 10dm = 100cm = 1000mm</p><p><strong>Jawaban:</strong></p><p></p><p>* Rusuk Kubus = 12 buah</p><p>1 rusuk = 1 m</p><p>V = rusuk³</p><p>V = 1 x 1 x 1 = 1³ </p><p></p><p>* Volume Kubus = 1³</p><p>V = 1³</p><p>maka 1 rusuk = 1 / 1 / 1 = 1m</p><p></p><p>1m = 10dm = 100cm = 1000mm</p><p></p><p>SEMOGA MEMBANTU TERIMAKASIH </p><br />
+                                            <h2 class="ez-toc-section" id="turunan-fungsi-trigonometriturunan-darigx-sin-x-cos-x-sin-x-cos-xdengan-cara">
+                            29. Turunan fungsi Trigonometri
+Turunan dari
+g(x) = sin x - cos x / sin x + cos x
+(Dengan cara)</h2><br />
+                        <strong>Kelas : XI IPA</strong><br /><strong>Kategori : Turunan Trigonometri</strong><br /><br />Diketahui<br /><br />g(x) = [sin x - cos x] / [sin x + cos x]<br />ini adalah bentuk u/v<br /><br />Ditanya<br /><br />g'(x)<br /><br />Penyelesaian<br /><br />u = sin x - cos x<br />v = sin x + cos x<br /><br />siapkan<br /><br />u' = cos x - (- sin x) ⇒ u' = cos x + sin x<br />v' = cos x + (- sin x) ⇒ v' = cos x - sin x<br /><br />⇔ g'(x) = [u'.v - u.v'] / v²<br /><br />⇔ g'(x) = [(cos x + sin x)(sin x + cos x) - (sin x - cos x)(cos x - sin x)] / [sin x + cos x]²<br /><br />⇔ g'(x) = [(sin x.cos x + cos²x + sin²x + sin x.cos x) - (sin x.cos x - sin²x - cos²x + sin x.cos x)] / [sin²x + cos²x + 2.sin x.cos x]<br /><br />⇔ g'(x) = [2.sin x.cos x + 1 - 2.sin x.cos x + 1] / [1 + 2.sin x.cos x]<br /><br /><strong>⇔ g'(x) = 2 / [1 + sin 2x]<br /></strong><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="tentukan-turunan-dari-ysin%c2%b2sin%e2%81%b4x%e2%80%8b">
+                            30. tentukan turunan dari y=sin²sin⁴x​</h2><br />
+                        <p><strong>Jawab:</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>y= (2 -9x)^ 15
+</p><p>turunannya
+</p><p>y' = 15(2-9x)^(15-1). (0-9)
+</p><p>y' = 15(2-9x)^14.(-9)
+</p><p>y' = -135(2-9x)^14</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-fungsi-fx-sin-x-sin-x-cos-x-adalah">
+                            31. Turunan fungsi f(x) = sin x / sin x - cos x adalah </h2><br />
+                        u'= cos x 
+v'= cosx + sinx
+ F'(x) = (cosx . (sinx - cosx) - sinx (cosx+sinx) ) / (sinx - cosx)^2 
+= ( sinxcosx -cos^2x - sinxcosx -sin^2x) / sin^2x -2sinxcosx + cos^2x 
+= -(sin^2x + cos^2x) / 1- sin2x 
+= -1 / 1-sin2x[tex]f(x)=\frac{\sin x}{\sin x-\cos x}\\\\u=\sin x\\u'=\cos x\\v=\sin x-\cos x\\v'=cos x+\sin x\\\\f'(x)=\frac{u'v-uv'}{v^2}\\f'(x)=\frac{(\cos x)(\sin x-\cos x)-(\sin x)(\cos x+\sin x)}{(\sin x-\cos x)^2}\\f'(x)=\frac{(\cos x\sin x-\cos^2x)-(\sin x\cos x+\sin^2x)}{\sin^2x-2\sin x\cos x+\cos^2x}\\f'(x)=\frac{\cos x\sin x-\cos^2x-\sin x\cos x-\sin^2x}{1-2\sin x\cos x}\\f'(x)=\frac{-\cos^2x-\sin^2x}{1-2\sin x\cos x}\\f'(x)=\frac{-(\cos^2x+\sin^2x)}{1-\sin2x}\\\boxed{f'(x)=\frac{-1}{1-\sin2x}}[/tex]<br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-ysin-xcos-x-cos-xsin-x">
+                            32. Turunan dari Y=sin x/cos x + cos x/sin x</h2><br />
+                        Y=sinx/cosx+cosx/sinx<br />   =cosx/-sinx+-sinx/cosx.<br />maaf kalau ada yang kurang sempurna. <br />
+                                            <h2 class="ez-toc-section" id="quiz-turunan-fungsi-trigonometriturunan-dari-f-x-sin-x-cos-x-cos-x-sin-x-adalah%e2%80%8b">
+                            33. QUIZ : Turunan Fungsi TrigonometriTurunan dari f (x) = (sin x - cos x) / (cos x + sin x) adalah​</h2><br />
+                        <p>[tex]\rm{f(x)= \dfrac{sin \:x - cos \:x}{cos \:x +sin \:x} } \\ \\ \rm{u = sin \:x - cos \:x \implies u' = cos \:x + sin \:x} \\ \rm{v = sin \:x +cos \:x \implies v' = cos \:x -sin \:x} \\ \\\begin{array}{lll}\rm{f'(x)}&amp;=&amp;\rm{\dfrac{u'v -uv'}{ {v}^{2}}}\\\\&amp;=&amp;\rm{\dfrac{(cos \:x +sin \:x)(sin \:x +cos \:x)-(sin \:x -cos \:x)(cos \:x -sin \:x)}{ {(sin \:x +cos \:x)}^{2} }} \\ \\&amp;=&amp;\rm{\dfrac{(sin \:x +cos \:x)(sin \:x +cos \:x) +(sin \:x -cos \:x)(sin \:x -cos \:x)}{ {(sin \:x +cos \:x)}^{2}}} \\ \\&amp;=&amp;\rm{\dfrac{ {(sin \:x +cos \:x)}^{2} + {(sin \:x -cos \:x)}^{2} }{ {(sin \:x +cos \:x)}^{2}}} \\ \\&amp;=&amp;\rm{1+\dfrac{ {(sin \:x -cos \:x)}^{2} }{ {(sin \:x + cos \:x)}^{2} }} \\ \\&amp;=&amp;\rm{1 + {f}^{2}(x)}\end{array}[/tex]</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>.</p><p><strong>TURUNAN</strong><strong> </strong><strong>FUNGSI</strong><strong> </strong><strong>TRIGONOMETRI</strong></p><p>.</p><p>[tex]f(x) =  \frac{( \sin \: x -  \cos \: x)}{( \cos \: x  \: +   \: \sin \: x) } [/tex]</p><p>.</p><p>u = sin x - cos x</p><p>u' = cos x - (- sin x)</p><p>u' = cos x + sin x</p><p></p><p>.</p><p>v = cos x + sin x</p><p>v' = (-sin x) + cos x</p><p>v' = cos x - sin x</p><p></p><p>.</p><p>[tex]f(x) =  \frac{u}{v} [/tex]</p><p>[tex]f'(x) =  \frac{u'v - uv'}{ {v}^{2} } [/tex]</p><p>[tex] =  \frac{( \cos \: x +  \sin \: x)( \cos \: x  +  \sin \: x )  -( \sin \: x -  \cos \: x)( \cos \: x -  \sin \: x)}{ ( \cos \: x +  \sin \: x) {}^{2}   } [/tex]</p><p>[tex] =  \frac{ {( \cos}^{2}x  + 2 \sin \: x. \cos \: x +  { \sin }^{2}x) - ( -  { \sin }^{2} x -  { \cos }^{2}x + 2 \sin \: x. \cos \: x)}{ { \cos}^{2} x + 2 \sin \: x. \cos \: x +  { \sin }^{2}  x } [/tex]</p><p>[tex] =  \frac{ { \cos }^{2}x + 2 \sin \: x. \cos \: x +  { \sin}^{2} x +  { \sin }^{2}  x +  { \cos }^{2} x2 \sin \: x. \cos \: x  }{1 + 2 \sin \: x. \cos \: x } [/tex]</p><p>[tex] =  \frac{ { \cos }^{2}x +  { \sin}^{2} x +  { \sin}^{2}x +   { \cos }^{2} x   }{1 +  \sin \: 2x } [/tex]</p><p>[tex] =  \frac{1 + 1}{1 +  \sin \: 2x } [/tex]</p><p>[tex] =  \frac{2}{1 +  \sin \: 2x } [/tex]</p><p></p><p>.</p><p>Terima kasih ^_^</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-sin-x-adalah%e2%80%8b">
+                            34. Turunan -sin x adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>-cos(x)</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>turunan sin(x) = cos(×)</p><p>jadi</p><p>-(sin(x)) = -(cos(x)) = -cos(x)</p><p></p><p>semangat belajarnya</p><p>kalau masih bingung lanjut dikolom komentar ya</p><p>kalau ada pertanyaan bisa ajukan saja</p><p></p><p>bye :)</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-y-sin-sin-x">
+                            35. turunan dari y = sin (sin x)</h2><br />
+                        <p>pakai definisi turunan berantai</p><p>y = sin (sin x)</p><p>y' = cos (sin x) d(sin x)</p><p>= cos (sin x) . cos x</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-x%c2%b2-sin-x-adlh">
+                            36. Turunan dari x² .sin x adlh</h2><br />
+                        (X^2 sin x)' = (x^2)' sin x + x^2 (sin x)'<br />= 2 xsinx + x^2 cosx<br />= x (2 sin x + x cos x) <br /><br />Maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="turunan-dari-y-sin-sin-x%e2%80%8b">
+                            37. Turunan dari y = sin (sin x)​</h2><br />
+                        <p>=&gt;&gt; KETERANGAN : PAKAI TURUNAN BERANTAI YA</p><p></p><p>• y = sin (sin x)</p><p>• y' = cos (sin x) d (sin x)</p><p>• = cos (sin x). cos x</p><br />
+                                            <h2 class="ez-toc-section" id="turunan-pertama-dari-x-sin-x-sin-x-cos-x">
+                            38. Turunan pertama dari x = sin x /sin x + cos x =</h2><br />
+                        sin cos tan beksn<br /><br /><br /><br />betul gk? <br />
+                                            <h2 class="ez-toc-section" id="apakah-turunan-dari-sin-x">
+                            39. apakah turunan dari sin x?</h2><br />
+                        <p>Sin x mempunyai turunan ...</p><p>Jawaban: Turunan sin x adalah cos x.</p><p>Untuk dapat menjawab soal di atas, teman-teman dapat membuka kembali materi <strong>Turunan. </strong>Penjelasan dan perhitungan selengkapnya dapat teman-teman baca pada pembahasan berikut.</p>PembahasanTurunan<p>[tex]f^{'}x =  \lim_{h \to 0[/tex] [tex]\frac{f(x + h) - f(x)}{h}[/tex]</p><p>Jika nilai limitnya ada, fungsi f dikatakan diferensiabel di x dan [tex]f^{'}[/tex] disebut turunan dari f. Turunan dari y = f(x) seringkali ditulis dengan [tex]y^{'} = f^{'}(x)[/tex]. </p>Turunan Fungsi Trigonometriy = sin x, ⇒ y' = cos xy = cos x,  ⇒ y' = –sin xy = tan x, ⇒ y' = sec  xy = cot x, ⇒ y' = –cosec  xy = sin U, ⇒ y' = U' cos Uy = [tex]sin^{n} U[/tex]  ⇒ y' = n[tex]sin^{n - 1}[/tex] U cos U'y = sec x, ⇒ y' = sec x tan xy = cosec x, ⇒ y' = cosec x cot x<p>Ditanyakan:</p><p>Sin x mempunyai turunan...</p><p>Jawaban:</p><p>Jika y = sinx, maka [tex]y^{'}[/tex] = cos x.</p><p>Sehingga dapat disimpulkan, turunan dari sin x adalah cos x.</p>PELAJARI LEBIH LANJUT:<p>Teman-teman dapat menemukan soal-soal yang sejenis dengan soal di atas, dengan tetap mengakses Brainly.co.id. Banyak sekali soal-soal yang ditanyakan, dan telah mendapatkan jawaban yang detail dan jelas dari kakak-kakak yang telah ahli di bidangnya masing-masing.</p><p>Beberapa contoh soal dapat dilihat pada link di bawah ini:</p>Turunan fungsi trigonometri: brainly.co.id/tugas/9700697Turunan fungsi trigonometri: brainly.co.id/tugas/19638783Turunan fungsi trigonometri: brainly.co.id/tugas/14782612DETAIL JAWABAN:<p>Kelas: XI</p><p>Pelajaran: Matematika</p><p>Bab: 8 - Turunan</p><p>Kode: 11.2.8</p><p>#AyoBelajar  </p><br />
+                                            <h2 class="ez-toc-section" id="hasil-turunan-dari-fx-sin-x-sin-5x">
+                            40. Hasil turunan dari 
+F(x) = sin x + sin 5x</h2><br />
+                        f(x)= sin x + sin 5x<br />f'(x)= cos x+ 5 cos 5x<p>Turunan dari sin x = cos x</p><p>f(x) = sin x + sin 5x</p><p>Rumus :</p><p>f(x) = u + v , maka f'(x) = u' + v'</p><p>u = sin x , u' = cos x</p><p>v = sin 5x , v' = 5 cos 5x</p><p>f'(x) = cos x + 5 cos 5x</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/UOyV3uqaasM?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>matematika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/when-did-habibie-s-father-die/">When Did Habibie s Father Die</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/400-60/">400 60</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/complete-the-sentences-using-much-many-or-a-lot-of/">Complete The Sentences Using Much Many Or A Lot Of</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengoper-bola-kepada-teman-dengan-teknik-tertentu-disebut/">Mengoper Bola Kepada Teman Dengan Teknik Tertentu Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fatimah-disuruh-membeli-minyak-goreng-di-sebuah-warung/">Fatimah Disuruh Membeli Minyak Goreng Di Sebuah Warung</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/56-8/">56 8</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jenis-pena-yang-dapat-menggantikan-fungsi-dari-maru-pen-adalah/">Jenis Pena Yang Dapat Menggantikan Fungsi Dari Maru Pen Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ke-arah/">Ke Arah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bahasa-arab-penghapus-papan-tulis/">Bahasa Arab Penghapus Papan Tulis</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/motil-adalah/">Motil Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5-juta-usd/">5 Juta Usd</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/benua-australia-dan-amerika-dihubungkan-oleh-samudra/">Benua Australia Dan Amerika Dihubungkan Oleh Samudra</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-itu-apotema/">Apa Itu Apotema</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/project-adalah/">Project Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/juru-alok/">Juru Alok</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-vektor-dalam-kehidupan-sehari-hari/">Contoh Vektor Dalam Kehidupan Sehari Hari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/panenggak-pandawa-yaiku/">Panenggak Pandawa Yaiku</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bakteri-lactobacillus-digunakan-untuk-pengawetan/">Bakteri Lactobacillus Digunakan Untuk Pengawetan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/diantara-nilai-p-berikut-yang-memenuhi-proporsi/">Diantara Nilai P Berikut Yang Memenuhi Proporsi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-janji-kepada-sesama-manusia/">Contoh Janji Kepada Sesama Manusia</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

@@ -1,0 +1,1981 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lambang Fisika - BELAJAR</title>
+    <meta name="description" content="Lambang Fisika, , , , , , , 0, Besaran Fisika, Simbol, Awalan SI, Satuan Internasional - Materi Kuliah, ikbalbisakuliah.blogspot.com, 1600 x 1405, png, , 20, lambang-fisika, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Lambang Fisika - BELAJAR" />
+    <meta property="og:description" content="Lambang Fisika, , , , , , , 0, Besaran Fisika, Simbol, Awalan SI, Satuan Internasional - Materi Kuliah, ikbalbisakuliah.blogspot.com, 1600 x 1405, png, , 20, lambang-fisika, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Lambang Fisika - BELAJAR" />
+    <meta name="twitter:description" content="Lambang Fisika, , , , , , , 0, Besaran Fisika, Simbol, Awalan SI, Satuan Internasional - Materi Kuliah, ikbalbisakuliah.blogspot.com, 1600 x 1405, png, , 20, lambang-fisika, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Lambang Fisika</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">vivia0shiwanticc</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Lambang+Fisika" alt="Lambang Fisika">
+                    </div>
+                    <p></p>
+                    <p>Lambang-lambang fisika?</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lambang-lambang-fisika">1.
+                                            Lambang-lambang fisika?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lambang-lambang-unsur-fisika">2.
+                                            lambang lambang unsur fisika</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lambang-lambang-ilmu-fisika">3.
+                                            lambang-lambang ilmu fisika</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#q-dalam-fisika-di-lambangkan-dengan">4.
+                                            Q dalam fisika di lambangkan dengan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#5-gambar-lambang-lambang-bahaya-di-fisika%e2%80%8b">5.
+                                            5 gambar lambang lambang bahaya di fisika​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-lambang-v-dalam-ilmu-fisika%e2%80%8b">6.
+                                            apakah lambang v dalam ilmu fisika​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#besaran-fisika-satuan-lambang%e2%80%8b">7.
+                                            besaran fisika satuan lambang​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lambang-lambang-dalam-fisika-tidak-ada-di-keyboard-android-seperti-akar-bagaimana-menuliskan-tanda-akar-dalam-keyboar-android">8.
+                                            lambang lambang dalam fisika tidak ada di keyboard android seperti (akar) bagaimana menuliskan tanda (akar) dalam keyboar android?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-lambang-lim-pada-fisika">9.
+                                            apa arti lambang lim?  pada fisika</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kenapa-jarakntempuhbpada-fisika-di-lambangkan-dengan-s">10.
+                                            kenapa jarakntempuhbpada fisika di lambangkan dengan S</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lambang-lambang-fisika-beserta-satuannya-minimal-100">11.
+                                            lambang lambang fisika beserta satuannya minimal 100</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#200-simbol-dan-lambang-fisika">12.
+                                            200 simbol dan lambang fisika?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lambang-percepatan-dalam-fisika">13.
+                                            lambang percepatan dalam fisika</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-lambang-lim-dalam-fisika-apa">14.
+                                            Arti lambang lim dalam fisika apa? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-15-lambang-lambang-besaran-fisika-%e2%80%8b">15.
+                                            Tuliskan 15 Lambang - Lambang besaran fisika.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lambang-lambang-fisika-beserta-satuannya-minimal-50">16.
+                                            lambang lambang fisika beserta satuannya minimal 50</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#200-simbol-simbol-fisika-dan-lambangnya">17.
+                                            200 simbol-simbol fisika dan lambangnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-lambang-fisika-dari-a-sampai-z">18.
+                                            tuliskan lambang fisika dari A sampai Z!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lambang-hambatan-dalama-s-a-p-fisika-smp">19.
+                                            lambang hambatan dalamA.S.A.P Fisika Smp </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tabel-lambang-fisika-bagian-mekanika-pliss-buat-remed-bantu">20.
+                                            Tabel lambang fisika bagian mekanika ?pliss buat remed bantu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-yang-dimaksud-dimensi-besaran-fisikasebutkan-lambangnya">21.
+                                            Apakah yang dimaksud dimensi besaran fisika,sebutkan lambangnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-lambang-lambang-dalam-fisika-beserta-satuannya">22.
+                                            apa saja lambang-lambang dalam fisika beserta satuannya???</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-lambang-kelistrikan-fisika%e2%80%8b">23.
+                                            Sebutkan Lambang Kelistrikan Fisika?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kalor-di-dalam-fisika-diberi-lambang%e2%80%8b">24.
+                                            Kalor di dalam fisika diberi lambang​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#semua-satuan-dan-lambang-satuan-dalam-fisika">25.
+                                            semua satuan dan lambang satuan dalam fisika</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-lambang-a-dalam-fisika-ipa">26.
+                                            apa itu lambang a dalam fisika ipa</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-lambangbesarandandanannya-fisika-50">27.
+                                            sebutkan lambang,besaran,dandanannya fisika 50</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-lambang-dari-kelajuan-dalam-fisika">28.
+                                            apa lambang dari kelajuan dalam fisika</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-10-lambang-pada-fisika">29.
+                                            sebutkan 10 lambang pada fisika</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#10-lambang-pada-fisika">30.
+                                            10 lambang pada fisika?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-perbedaan-antar-lambang-fisika-lambang-satuan-dan-lambang-dimensijawab-ya-ka-secepatnya">31.
+                                            apakah perbedaan antar lambang fisika, lambang satuan dan lambang dimensi?jawab ya ka secepatnya:)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-fisika-ini-nama-lambang-nya-apa%e2%80%8b">32.
+                                            dalam fisika ini nama lambang nya apa?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cari-lambang-lambang-fisika-dan-artinya">33.
+                                            cari lambang lambang fisika dan artinya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-fisika-lambang%c2%a0%c2%a0y%c2%a0-itu-apa-dan-satuannya-apa">34.
+                                            dalam fisika lambang ( y ) itu apa dan satuannya apa?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-lambang-kecepatan-fisika">35.
+                                            Apa Lambang kecepatan fisika</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lambang-teta-dalam-fisika%e2%80%8b">36.
+                                            lambang teta dalam fisika​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-lambang-besaranlambang-satuan-dan-lambang-dimensi-dari-suatu-besaran-fisikaberi-contohnya">37.
+                                            apakah lambang besaran,lambang satuan, dan lambang dimensi dari suatu besaran fisika,beri contohnya?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-fisika-lambang-r-dari-kalimat">38.
+                                            Dalam Fisika lambang "R" dari kalimat ...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-lambang-f-di-ipa-fisika">39.
+                                            apa arti lambang f di ipa fisika</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lambang-usaha-dalam-fisika-adalah-%e2%80%8b">40.
+                                            lambang usaha dalam fisika adalah ​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="lambang-lambang-fisika">
+                            1. Lambang-lambang fisika?</h2><br />
+                        <p>A: Ampere, satuan arus listrik; a untuk akselerasi atau percepatan.<br />B: Medan induksi magnet. Mungkin berasal dari Biot-Savart.<br />C: Coulomb, satuan muatan listrik; c untuk kecepatan cahaya.<br />D: Medan listrik pergeseran (displacement); d sering dipakai untuk jarak (distance)<br />E: Energi; medan listrik (electric field). e untuk muatan listrik elektron.<br />F: Gaya (force); f untuk frekuensi.<br />G: konstanta gravitasi Newton; g dipakai untuk percepatan gravitasi.<br />H: Medan magnet akibat arus listrik. Juga H untuk Henry, satuan induktansi. h untuk konstanta Planck.<br />I: Arus listrik.<br />J: Joule, satuan energi. Juga untuk rapat arus listrik.<br />K: Biasa dipakai sebagai konstanta (misal: F = k q1 q2 / r2 ). k untuk konstanta Boltzmann.<br />L: Liter; momentum sudut; bilangan kuantum orbital. Juga biasa dipakai untuk panjang (length).<br />M: Massa, magnetisasi, meter.<br />N: Newton, satuan gaya. Juga bilangan kuantum utama dan jumlah partikel (number) dalam mol.<br />O: Baiklah, huruf ini tidak dipakai karena bentuknya mirip angka nol. Kalau saja bentuknya lain, mungkin akan dipakai sebagai satuan resistansi, Ohm.<br />P: Daya (power); tekanan (pressure); polarisasi listrik; p untuk momen dipol listrik dan momentum linear.<br />Q: Sering dipakai dalam termodinamika untuk usaha. q untuk muatan listrik.<br />R: biasa dipakai untuk jari-jari lingkaran (radius) dan jarak (range).<br />S: Entropi. s untuk detik (second) dan spin dalam fisika kuantum.<br />T: Waktu; periode; temperatur. Juga T untuk Tesla, satuan untuk medan induksi magnet.<br />U: Energi dalam. Kadang-kadang dipakai untuk menyatakan kecepatan, jika huruf v sudah dipakai.<br />V: Kecepatan, dari velocity. Juga besaran dan satuan tegangan listrik (Voltase dan Volt) dan potensial pada umumnya.<br />W: Usaha (Work). Watt adalah satuan daya.<br />X,Y,Z dipakai sebagai koordinat. Y untuk modulus Young; dalam fisika nuklir, Z menyatakan jumlah proton dalam inti.<br /><br /></p><p>Bahkan setelah menghabiskan (hampir) semua huruf dalam alfabet Latin, para fisikawan masih merasa belum cukup. Mereka mengeluarkan persediaan huruf Yunani:<br /><br />α (alfa): Percepatan sudut.<br />β (beta), γ (gamma): Jenis radiasi nuklir, bersama-sama dengan α. Dalam relativitas khusus, γ berarti faktor Lorentz.<br />δ (delta): Fungsi delta Dirac.<br />ε (epsilon): konstanta permitivitas listrik.<br />η (eta): Dalam beberapa kesempatan, berarti efisiensi.<br />θ (theta): Sudut.<br />κ (kappa): Modulus Bulk.<br />λ (lambda): Panjang gelombang; rapat muatan listrik per satuan panjang.<br />μ (mu): Momen magnetik. Juga dipakai untuk menyatakan permeabilitas magnetik.<br />ν (nu): Frekuensi.<br />ξ (xi): Satu jenis baryon dinamai dengan huruf besarnya (Ξ)<br />π (pi): Selain untuk bilangan 3,1415926535… juga untuk parity yang berhubungan dengan simetri.<br />ρ (rho): Rapat massa atau muatan listrik per satuan volum, juga resistivitas listrik (hambat jenis).<br />σ (sigma): Konduktivitas listrik; rapat muatan listrik per satuan luas. Juga untuk konstanta Stevan-Boltzmann.<br />τ (tau): Torsi.<br />φ (phi): Dalam huruf besarnya (Φ) berarti fluks magnet.<br />χ (chi): Suseptibilitas. χm untuk magnet dan χe untuk listrik.<br />ψ (psi): Dalam fisika kuantum, digunakan untuk menyatakan fungsi gelombang, yang menyatakan keadaan.<br />ω (omega): Kecepatan sudut. Huruf besarnya, Ω, untuk Ohm.<br /><br /></p><p>Peranan beberapa angka dalam fisika:<br /><br /></p><p>1 teori tentang segalanya yang dicari-cari para fisikawan.<br />2 sifat yaitu partikel dan gelombang, yang sepertinya dimiliki oleh segala benda.<br />3 dimensi ruang tempat kita hidup.<br />4 macam gaya dasar yaitu nuklir kuat, nuklir lemah, elektromagnet, dan gravitasi.<br />5 buah titik Lagrangian pada sebuah planet yang mengorbit matahari.<br />6 macam quark yaitu up, down, strange, charm, top, bottom.<br />7 besaran pokok yaitu panjang, waktu, massa, temperatur, arus listrik, intensitas cahaya, dan jumlah partikel.<br />8 partikel dalam kelompok meson dan baryon ringan.<br />9 planet dalam tata surya sebelum Pluto dicoret.<br />10 juta kronor Swedia, hadiah untuk pemenang Nobel, diberikan tanggal 10 Desember.<br /></p><br />
+                                            <h2 class="ez-toc-section" id="lambang-lambang-unsur-fisika">
+                            2. lambang lambang unsur fisika</h2><br />
+                        N <br />NaCI<br />AI<br />Li<br />Ba<br />K<br />Ca<br />Sr<br />Cu<br />Au<br />Mn<br />Fe<br />Pb<br />Mg<br />Hg<br />Ag<br />Na<br />Bi<br />Ra<br />Co<br />Ni<br />Cd<br />Pt<br />
+                                            <h2 class="ez-toc-section" id="lambang-lambang-ilmu-fisika">
+                            3. lambang-lambang ilmu fisika</h2><br />
+                        1.      Alpha (a)               Lambang         A  α<br /><br />2.      Beta (b)                 Lambang         B  β<br /><br />3.      Gamma (g)            Lambang         Γ  γ<br /><br />4.      Delta (d)                Lambang         Δ  δ atau ∂<br /><br />5.      Epsilon (e)             Lambang         Ε  ε<br /><br />6.      Zeta (z)                  Lambang         Z  ζ<br /><br />7.      Eta (h)                   Lambang         H  η<br /><br />8.      Theta (th)              Lambang         Θ  θ<br /><br />9.      Iota (i)                   Lambang         I    ι<br /><br />10.  Kappa (k)              Lambang         K  κ<br /><br />11.  Lambda (l)            Lambang         Λ  ￼  <br /><br />12.  Nu (n)                    Lambang         N  v<br /><br />13.  Xi (x)                     Lambang         Ξ   ξ<br /><br />14.  Omicron (o)           Lambang         O   o<br /><br />15.  Pi (p)                     Lambang         Π   π<br /><br />16.  Rho (r)                   Lambang         P   ρ    <br /><br />17.  Sigma (s)              Lambang         Σ  σ atau ς<br /><br />18.  Tau (t)                   Lambang         T  τ<br /><br />19.  Upsilon (u)            Lambang              υ<br /><br />20.  Phi (ph)                 Lambang         Ф  φ atau  ￼<br /><br />21.  Chi (ch)                 Lambang         X   χ<br /><br />22.  Psi (ps)                  Lambang         Ψ   ψ<br /><br />23.  Omega (o)             Lambang         Ω  ω<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="q-dalam-fisika-di-lambangkan-dengan">
+                            4. Q dalam fisika di lambangkan dengan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>siapa nama mu salam kenal hahaha</p><strong>Penjelasan:</strong><p></p>Q: Sering dipakai dalam termodinamika untuk usaha. q untuk muatan listrik. R: Biasa dipakai untuk jari-jari lingkaran (radius) dan jarak (range). S: Entropi; s untuk detik (second) dan spin dalam    fisika kuantum.#jadi ranking satu#jadi kan jawaban terbaik<p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="5-gambar-lambang-lambang-bahaya-di-fisika%e2%80%8b">
+                            5. 5 gambar lambang lambang bahaya di fisika​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p>semoga bermanfaat</p><p></p><p><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong>#</strong><strong> </strong><strong>back</strong><strong> </strong><strong>to</strong><strong> </strong><strong>sch</strong><strong>ool</strong><strong> </strong><strong>#</strong></p><br />
+                                            <h2 class="ez-toc-section" id="apakah-lambang-v-dalam-ilmu-fisika%e2%80%8b">
+                            6. apakah lambang v dalam ilmu fisika​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> Dalam huruf besar digunakan untuk simbol besaran dan satuan tegangan listrik (Voltase dan Volt) dan potensial pada umumnya, sedangkan dalam huruf kecil digunakan untuk simbol kecepatan.</p><p>Jawaban:</p><p></p><p></p><p>Terdapat tiga arti dari huruf "v" dalam fisika:</p><p>V (huruf besar) = Volume = m³</p><p>V (huruf besar) = Tegangan listrik atau beda potensial = volt (V)</p><p>v (huruf kecil) = Kecepatan = m/s</p><p></p><p></p><p>Semoga bermanfaat-,</p><br />
+                                            <h2 class="ez-toc-section" id="besaran-fisika-satuan-lambang%e2%80%8b">
+                            7. besaran fisika satuan lambang​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>besaran</strong><strong> </strong><strong>pokok</strong></p><p>panjang </p><p>lambang: l (huruf L kecil)</p><p>satuan: meter (m)</p><p></p><p>masa</p><p>lambang: m</p><p>satuan: kilogram (kg)</p><p></p><p>waktu </p><p>lambang: t</p><p>satuan: sekon (s)</p><p></p><p>suhu</p><p>lambang: T</p><p>satuan: Kelvin(K)</p><p></p><p>kuat arus listrik</p><p>lambang: I ( huruf i kapital)</p><p>satuan: ampere(A)</p><p></p><p>intensitas cahaya </p><p>lambang: J</p><p>satuan: kandela</p><p></p><p>jumlah zat</p><p>lambang:N</p><p>satuan: mole (mol)</p><p></p><p><strong>Penjelasan:</strong></p><p>Besaran dalam fisika diartikan sebagai sesuatu yang dapat diukur, serta memiliki nilai besaran (besar) dan satuan</p><p></p><p>SEMOGA MEMBANTU</p><br />
+                                            <h2 class="ez-toc-section" id="lambang-lambang-dalam-fisika-tidak-ada-di-keyboard-android-seperti-akar-bagaimana-menuliskan-tanda-akar-dalam-keyboar-android">
+                            8. lambang lambang dalam fisika tidak ada di keyboard android seperti (akar) bagaimana menuliskan tanda (akar) dalam keyboar android?</h2><br />
+                        kita dapat mendowload keyboard khusus untuk lambang lambang di play store. <br />
+                                            <h2 class="ez-toc-section" id="apa-arti-lambang-lim-pada-fisika">
+                            9. apa arti lambang lim?  pada fisika</h2><br />
+                        lim = pendekatan <br />maaf kalo salah<br />
+                                            <h2 class="ez-toc-section" id="kenapa-jarakntempuhbpada-fisika-di-lambangkan-dengan-s">
+                            10. kenapa jarakntempuhbpada fisika di lambangkan dengan S</h2><br />
+                        karena menggunakan satuan internasional yang artinya s itu adalah space atau dalam bahasa indonesia jarak<br />
+                                            <h2 class="ez-toc-section" id="lambang-lambang-fisika-beserta-satuannya-minimal-100">
+                            11. lambang lambang fisika beserta satuannya minimal 100</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A: luas penampang, luas permukaan (m²) </p><p>a : percepatan (m/s²) </p><p>B : medan induksi magnet (Tesla) </p><p>C : muatan listrik (Coulomb) </p><p>Cp : kapasitas kalor (J/kg.K) atau (kal/g.⁰C) </p><p>c : kalor jenis (J/K) atau (kal/⁰C) </p><p>c : kecepatan cahaya (m/s) </p><p>D: medan listrik pergeseran (displacement) </p><p>d : jarak atau perpindahan (distance) </p><p>E: Energi (Joule) </p><p>E : medan listrik </p><p>E : GGL/ gaya gerak listrik </p><p>e : muatan listrik elektron (Coulomb) </p><p>F: gaya (Joule) </p><p>f : frekuensi (Hz) </p><p>f : jarak titik fokus lensa (cm) </p><p>fob : jarak titik fokus lensa objektif (cm) </p><p>fok : jarak titik fokus lensa okuler (cm) </p><p>G: konstanta gravitasi Newton (kg²/N.m²) </p><p>g : percepatan gravitasi (m/s²) atau (N/kg) </p><p>H: medan magnet akibat arus listrik (Henry) </p><p>H : induktansi (ohm) </p><p>h : konstanta Planck (Js) </p><p>h : ketinggian atau kedalaman (m) </p><p>h : tinggi benda pada cermin dan lensa (cm) </p><p>h’ : tinggi bayangan pada cermin dan lensa (cm) </p><p>I : arus listrik (Ampere) </p><p>I : inersia </p><p>i : sudut datang pada pembiasan cahaya </p><p>J : intensitas cahaya (Cd) </p><p>J : rapat arus listrik (Ampere/m²) </p><p>k : biasa dipakai sebagai konstanta </p><p>misal: </p><p>F = k Q₁ Q₂ / r² </p><p>F = k.∆x </p><p>k : konstanta Boltzmann watt/cm².⁰K⁴ </p><p>L : kalor Laten </p><p>l : momentum sudut </p><p>l : bilangan kuantum orbital </p><p>l : secara umum menyatakan panjang (m), bisa panjang kawat penghantar, panjang tali pada ayunan bandul, dll </p><p>M : perbesaran lensa </p><p>m : massa (kg) </p><p>Np : jumlah lilitan primer pada trafo </p><p>Ns : jumlah lilitan sekunder pada trafo </p><p>n : bilangan kuantum utama </p><p>n : jumlah partikel dalam mol </p><p>n : jumlah getaran atau gelombang </p><p>P : daya (Watt) atau (J/s) </p><p>P : tekanan (atm) atau (N/m²) atau psi, dll </p><p>P : polarisasi listrik </p><p>p : momen dipol listrik </p><p>p : momentum linear </p><p>Q : usaha dalam termodinamika (kalori) atau (Joule) </p><p>q : muatan listrik (Coulomb) </p><p>R : jari-jari lingkaran/radius (m) </p><p>R : jari-jari lensa (cm) </p><p>R : hambatan listrik (Ohm) </p><p>r : jarak/range (m) </p><p>S : Entropi </p><p>Sob : jarak benda dengan cermin dan lensa objektif </p><p>Sok : jarak benda dengan cermin dan lensa okuler </p><p>S’ob : jarak bayanga dengan cermin dan lensa objektif </p><p>S’ok : jarak bayanga dengan cermin dan lensa okuler </p><p>s : bilangan kuantum spin </p><p>T : periode (s) </p><p>T : temperature (⁰C) atau (K) </p><p>t : waktu (s) </p><p>U : Energi dalam (Joule) </p><p>u : kadang-kadang dipakai untuk menyatakan kecepatan, jika huruf v sudah dipakai. </p><p>V : tegangan listrik atau beda potensial (Volt) </p><p>v : kecepatan atau kelajuan (m/s) </p><p>W : Usaha (Joule) </p><p>W : gaya berat (N) </p><p>u, v, w sering digunakan untuk menyatakan vector. </p><p>x, y, z sering dipakai sebagai koordinat. </p><p>Y : modulus Young; </p><p>z : menyatakan jumlah proton dalam inti. </p><p></p><p>α (alfa) : percepatan sudut </p><p>α (alfa) : jenis radiasi nuklir </p><p>α (alfa) : pemuaian panjang </p><p>β (beta) : jenis radiasi nuklir </p><p>β (beta) : pemuaian luas </p><p>γ (gamma) : jenis radiasi nuklir </p><p>γ (gamma) : pemuaian volume </p><p>γ (gamma) : faktor Lorentz (dalam relativitas khusus) </p><p>δ (delta) : fungsi delta Dirac. </p><p>ε (epsilon) : konstanta permitivitas listrik. </p><p>η (eta) : dalam beberapa kesempatan, berarti efisiensi. </p><p>θ (theta) : sudut. </p><p>κ (kappa) : modulus Bulk. </p><p>λ (lambda) : Panjang gelombang; rapat muatan listrik per satuan panjang. </p><p>μ (mu) : momen magnetik. Juga dipakai untuk menyatakan permeabilitas magnetik. </p><p>μ (mu) : koefisien gesek </p><p>ν (nu) : frekuensi. </p><p>ξ (xi) : satu jenis baryon dinamai dengan huruf besarnya (Ξ) </p><p>π (pi) : selain untuk bilangan 3,1415926535… juga untuk parity yang berhubungan dengan simetri. </p><p>ρ (rho) : rapat massa atau muatan listrik per satuan volum, </p><p>ρ (rho) : resistivitas listrik (hambat jenis). </p><p>σ (sigma) : Konduktivitas listrik; rapat muatan listrik per satuan luas. </p><p>σ (sigma) : konstanta Stevan-Boltzmann. </p><p>τ (tau) : Torsi. </p><p>φ (phi) : Dalam huruf besarnya (Φ) berarti fluks magnet. </p><p>χ (chi) : Suseptibilitas. χm untuk magnet dan χe untuk listrik. </p><p>ψ (psi) : Dalam fisika kuantum, digunakan untuk menyatakan fungsi gelombang, yang menyatakan keadaan. </p><p>ω (omega) : Kecepatan sudut</p><p></p><p>#SEMOGA MEMBANTU</p><br />
+                                            <h2 class="ez-toc-section" id="200-simbol-dan-lambang-fisika">
+                            12. 200 simbol dan lambang fisika?</h2><br />
+                        Nama
+Lambang
+Nomor Atom
+Massa Atom
+
+
+Aktinium
+Ac
+89
+[227]1
+
+
+Aluminium
+Al
+13
+26,9815386(8)
+
+
+Amerisium
+Am
+95
+[243]1
+
+
+Argentum (Perak)
+Ag
+47
+107,8682(2)2
+
+
+Argon
+Ar
+18
+39,948(1)2 4
+
+
+Arsenik
+As
+33
+74,92160(2)
+
+
+Astatin
+At
+85
+[210]1
+
+
+Aurum
+Au
+79
+196,966569(4)
+
+
+Barium
+Ba
+56
+137,327(7)
+
+
+Berkelium
+Bk
+97
+[247]1
+
+
+Berilium
+Be
+4
+9,012182(3)
+
+
+Bismut
+Bi
+83
+208,98040(1)
+
+
+Bohrium
+Bh
+107
+[264]1
+
+
+Boron
+B
+5
+10,811(7)2 3 4
+
+
+Brom
+Br
+35
+79,904(1)
+
+
+Cuprum (Tembaga)
+Cu
+29
+63,546(3)4
+
+
+Darmstadtium
+Ds
+110
+[271]1
+
+
+Dubnium
+Db
+105
+[262]1
+
+
+Disprosium
+Dy
+66
+162,500(1)2
+
+
+Einsteinium
+Es
+99
+[252]1
+
+
+Erbium
+Er
+68
+167,259(3)2
+
+
+Europium
+Eu
+63
+151,964(1)2
+
+
+Fermium
+Fm
+100
+[257]1
+
+
+Ferrum (Besi)
+Fe
+26
+55,845(2)
+
+
+Fluor
+F
+9
+18,9984032(5)
+
+
+Fosfor
+P
+15
+30,973762(2)
+
+
+Fransium
+Fr
+87
+[223]1
+
+
+Gadolinium
+Gd
+64
+157,25(3)2
+
+
+Galium
+Ga
+31
+69,723(1)
+
+
+Germanium
+Ge
+32
+72,64(1)
+
+
+Hafnium
+Hf
+72
+178,49(2)
+
+
+Hassium
+Hs
+108
+[277]1
+
+
+Helium
+He
+2
+4,002602(2)2 4
+
+
+Hidrogen
+H
+1
+1,00794(7)2 3 4
+
+
+Holmium
+Ho
+67
+164,930 32(2)
+
+
+Hydrargyrum (Raksa)
+Hg
+80
+200,59(2)
+
+
+Indium
+In
+49
+114,818(3)
+
+
+Iodine (Yodium)
+I
+53
+126,904 47(3)
+
+
+Iridium
+Ir
+77
+192,217(3)
+
+
+Iterbium
+Yb
+70
+173,04(3)2
+
+
+Itrium
+Y
+39
+88,90585(2)
+
+
+Kadmium
+Cd
+48
+112,411(8)2
+
+
+Kalium
+K
+19
+39,0983(1)
+
+
+Kalsium
+Ca
+20
+40,078(4)2
+
+
+Kalifornium
+Cf
+98
+[251]1
+
+
+Karbon
+C
+6
+12,0107(8)2 4
+
+
+Klor
+Cl
+17
+35,453(2)2 3 4
+
+
+Krom
+Cr
+24
+51,9961(6)
+
+
+Kobalt
+Co
+27
+58,933195(5)
+
+
+Kopernisium
+Cn
+112
+[285]1
+
+
+Kurium
+Cm
+96
+[247]1
+
+
+Kripton
+Kr
+36
+83,798(2)2 3
+
+
+Lantanum
+La
+57
+138,90547(7)2
+
+
+Lawresium
+Lr
+103
+[262]1
+
+
+Litium
+Li
+3
+6,941(2)2 3 4 5
+
+
+Lutetium
+Lu
+71
+174,967(1)2
+
+
+Magnesium
+Mg
+12
+24,3050(6)
+
+
+Mangan
+Mn
+25
+54,938045(5)
+
+
+Meitnerium
+Mt
+109
+[268]1
+
+
+Mendelevium
+Md
+101
+[258]1
+
+
+Molibden
+Mo
+42
+95,94(2)2
+
+
+Natrium
+Na
+11
+22,98976928(2)
+
+
+Neodimium
+Nd
+60
+144,242(3)2
+
+
+Neon
+Ne
+10
+20,1797(6)2 3
+
+
+Neptunium
+Np
+93
+[237]1
+
+
+Nikel
+Ni
+28
+58,6934(2)
+
+
+Niobium
+Nb
+41
+92,906 38(2)
+
+
+Nitrogen
+N
+7
+14,0067(2)2 4
+
+
+Nobelium
+No
+102
+[259]1
+
+
+Osmium
+Os
+76
+190,23(3)2
+
+
+Oksigen
+O
+8
+15,9994(3)2 4
+
+
+Paladium
+Pd
+46
+106,42(1)2
+
+
+Plumbum (Timbal)
+Pb
+82
+207,2(1)2 4
+
+
+Platina
+Pt
+78
+195,084(9)
+
+
+Plutonium
+Pu
+94
+[244]1
+
+
+Polonium
+Po
+84
+[210]1
+
+
+Praseodimium
+Pr
+59
+140,90765(2)
+
+
+Prometium
+Pm
+61
+[145]1
+
+
+Protaktinium
+Pa
+91
+231,03588(2)1
+
+
+Radium
+Ra
+88
+[226]1
+
+
+Radon
+Rn
+86
+[220]1
+
+
+Renium
+Re
+75
+186,207(1)
+
+
+Rodium
+Rh
+45
+102,905 50(2)
+
+
+Roentgenium
+Rg
+111
+[272]1
+
+
+Rubidium
+Rb
+37
+85,4678(3)2
+
+
+Rutenium
+Ru
+44
+101,07(2)2
+
+
+Rutherfordium
+Rf
+104
+2611
+
+
+Samarium
+Sm
+62
+150,36(2)2
+
+
+Skandium
+Sc
+21
+44,955912(6)
+
+
+Seaborgium
+Sg
+106
+[266]1
+
+
+Selenium
+Se
+34
+78,96(3)4
+
+
+Serium
+Ce
+58
+140,116(1)2
+
+
+Sesium
+Cs
+55
+132,9054519(2)
+
+
+Silikon
+Si
+14
+28,0855(3)4
+
+
+Stannum (Timah)
+Sn
+50
+118,710(7)2
+
+
+Stibium (Antimon)
+Sb
+51
+121,760(1)2
+
+
+Strontium
+Sr
+38
+87,62(1)2 4
+
+
+Sulfur (Belerang)
+S
+16
+32,065(5)2 4
+
+
+Tantalum
+Ta
+37
+180,94788(2)
+
+
+Teknetium
+Tc
+43
+[98]1
+
+
+Telurium
+Te
+52
+127,60(3)2
+
+
+Terbium
+Tb
+65
+158,92535(2)
+
+
+Talium
+Tl
+81
+204,3833(2)
+
+
+Torium
+Th
+90
+232,03806(2)1 2
+
+
+Tulium
+Tm
+69
+168,93421(2)
+
+
+Titanium
+Ti
+22
+47,867(1)
+
+
+Ununhexium
+Uuh
+116
+[292]1
+
+
+Ununoktium
+Uuo
+118
+[294]1
+
+
+Ununpentium
+Uup
+115
+[288]1
+
+
+Ununquadium
+Uuq
+114
+[289]1
+
+
+Ununtrium
+Uut
+113
+[284]1
+
+
+Uranium
+U
+92
+238,02891(3)1 2 3
+
+
+Vanadium
+V
+23
+50,9415(1)
+
+
+Wolfram
+w
+74
+183,84(1)
+
+
+Xenon
+Xe
+54
+131,293(6)2 3
+
+
+Zinc
+Zn
+30
+65,409(4)
+
+
+Zirkonium
+Zr
+40
+91,224(2)2<br />A: luas penampang, luas permukaan (m²) <br />a : percepatan (m/s²) <br />B : medan induksi magnet (Tesla) <br />C : muatan listrik (Coulomb) <br />Cp : kapasitas kalor (J/kg.K) atau (kal/g.⁰C) <br />c : kalor jenis (J/K) atau (kal/⁰C) <br />c : kecepatan cahaya (m/s) <br />D: medan listrik pergeseran (displacement) <br />d : jarak atau perpindahan (distance) <br />E: Energi (Joule) <br />E : medan listrik <br />E : GGL/ gaya gerak listrik <br />e : muatan listrik elektron (Coulomb) <br />F: gaya (Joule) <br />f : frekuensi (Hz) <br />f : jarak titik fokus lensa (cm) <br />fob : jarak titik fokus lensa objektif (cm) <br />fok : jarak titik fokus lensa okuler (cm) <br />G: konstanta gravitasi Newton (kg²/N.m²) <br />g : percepatan gravitasi (m/s²) atau (N/kg) <br />H: medan magnet akibat arus listrik (Henry) <br />H : induktansi (ohm) <br />h : konstanta Planck (Js) <br />h : ketinggian atau kedalaman (m) <br />h : tinggi benda pada cermin dan lensa (cm) <br />h’ : tinggi bayangan pada cermin dan lensa (cm) <br />I : arus listrik (Ampere) <br />I : inersia <br />i : sudut datang pada pembiasan cahaya <br />J : intensitas cahaya (Cd) <br />J : rapat arus listrik (Ampere/m²) <br />k : biasa dipakai sebagai konstanta <br />misal: <br />F = k Q₁ Q₂ / r² <br />F = k.∆x <br />k : konstanta Boltzmann watt/cm².⁰K⁴ <br />L : kalor Laten <br />l : momentum sudut <br />l : bilangan kuantum orbital <br />l : secara umum menyatakan panjang (m), bisa panjang kawat penghantar, panjang tali pada ayunan bandul, dll <br />M : perbesaran lensa <br />m : massa (kg) <br />Np : jumlah lilitan primer pada trafo <br />Ns : jumlah lilitan sekunder pada trafo <br />n : bilangan kuantum utama <br />n : jumlah partikel dalam mol <br />n : jumlah getaran atau gelombang <br />P : daya (Watt) atau (J/s) <br />P : tekanan (atm) atau (N/m²) atau psi, dll <br />P : polarisasi listrik <br />p : momen dipol listrik <br />p : momentum linear <br />Q : usaha dalam termodinamika (kalori) atau (Joule) <br />q : muatan listrik (Coulomb) <br />R : jari-jari lingkaran/radius (m) <br />R : jari-jari lensa (cm) <br />R : hambatan listrik (Ohm) <br />r : jarak/range (m) <br />S : Entropi <br />Sob : jarak benda dengan cermin dan lensa objektif <br />Sok : jarak benda dengan cermin dan lensa okuler <br />S’ob : jarak bayanga dengan cermin dan lensa objektif <br />S’ok : jarak bayanga dengan cermin dan lensa okuler <br />s : bilangan kuantum spin <br />T : periode (s) <br />T : temperature (⁰C) atau (K) <br />t : waktu (s) <br />U : Energi dalam (Joule) <br />u : kadang-kadang dipakai untuk menyatakan kecepatan, jika huruf v sudah dipakai. <br />V : tegangan listrik atau beda potensial (Volt) <br />v : kecepatan atau kelajuan (m/s) <br />W : Usaha (Joule) <br />W : gaya berat (N) <br />u, v, w sering digunakan untuk menyatakan vector. <br />x, y, z sering dipakai sebagai koordinat. <br />Y : modulus Young; <br />z : menyatakan jumlah proton dalam inti. <br /><br />α (alfa) : percepatan sudut <br />α (alfa) : jenis radiasi nuklir <br />α (alfa) : pemuaian panjang <br />β (beta) : jenis radiasi nuklir <br />β (beta) : pemuaian luas <br />γ (gamma) : jenis radiasi nuklir <br />γ (gamma) : pemuaian volume <br />γ (gamma) : faktor Lorentz (dalam relativitas khusus) <br />δ (delta) : fungsi delta Dirac. <br />ε (epsilon) : konstanta permitivitas listrik. <br />η (eta) : dalam beberapa kesempatan, berarti efisiensi. <br />θ (theta) : sudut. <br />κ (kappa) : modulus Bulk. <br />λ (lambda) : Panjang gelombang; rapat muatan listrik per satuan panjang. <br />μ (mu) : momen magnetik. Juga dipakai untuk menyatakan permeabilitas magnetik. <br />μ (mu) : koefisien gesek <br />ν (nu) : frekuensi. <br />ξ (xi) : satu jenis baryon dinamai dengan huruf besarnya (Ξ) <br />π (pi) : selain untuk bilangan 3,1415926535… juga untuk parity yang berhubungan dengan simetri. <br />ρ (rho) : rapat massa atau muatan listrik per satuan volum, <br />ρ (rho) : resistivitas listrik (hambat jenis). <br />σ (sigma) : Konduktivitas listrik; rapat muatan listrik per satuan luas. <br />σ (sigma) : konstanta Stevan-Boltzmann. <br />τ (tau) : Torsi. <br />φ (phi) : Dalam huruf besarnya (Φ) berarti fluks magnet. <br />χ (chi) : Suseptibilitas. χm untuk magnet dan χe untuk listrik. <br />ψ (psi) : Dalam fisika kuantum, digunakan untuk menyatakan fungsi gelombang, yang menyatakan keadaan. <br />ω (omega) : Kecepatan sudut<br />
+                                            <h2 class="ez-toc-section" id="lambang-percepatan-dalam-fisika">
+                            13. lambang percepatan dalam fisika</h2><br />
+                        (dilambangkan dengan a)Lambang percepatan dalam Fisika adalah (V)<br />
+                                            <h2 class="ez-toc-section" id="arti-lambang-lim-dalam-fisika-apa">
+                            14. Arti lambang lim dalam fisika apa? </h2><br />
+                        Laju alir massa didefinisikan oleh limit:[2][3]<br /><br />{\displaystyle {\dot {m}}=\lim \limits _{\Delta t\rightarrow 0}{\frac {\Delta m}{\Delta t}}={\frac {{\rm {d}}m}{{\rm {d}}t}}}￼<br /><br />atau aliran massa m melalui permukaan per satuan waktu t.<br /><br />Overdot pada m menunjukkan notasi Newtonuntuk turunan waktu. Karena massa merupakan besaran skalar, laju alir massa juga besaran skalar. <br /><br /><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-15-lambang-lambang-besaran-fisika-%e2%80%8b">
+                            15. Tuliskan 15 Lambang - Lambang besaran fisika.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. λ : panjang gelombang satuannya meter (m)</p><p>2. I : kuat arus listrik Satuannya Ampere (A)</p><p>3. T : suhu satuannya kelvin (K)</p><p>4. ρ : Massa jenis satuannya kg/m³</p><p>5. m : massa satuannya kg</p><p>6. t : waktu satuannya sekon (s)</p><p>7. v : kecepatan sataunnya m/s</p><p>8. a:  percepatan satuannya m/s²</p><p>9. P: Tekanan satuannya Pa</p><p>10.P : Daya satuannya kg.m²/s³</p><p>11. F : gaya satuannya newton (N)</p><p>12. f: frekuensi dengan satuan Hertz (Hz)</p><p>13. V : Beda potensial dengan satuan Volt (V)</p><p>14. E : Energi dengan satuan joule (J)</p><p>15. R : hambatan  dengan satuan Ohm (Ω)</p><p><strong>Penjelasan:</strong></p><p>[tex] \textbf{besaran  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \: lambang\:  \:   \: satuan} [/tex]</p><p><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong><strong>_</strong></p><p>[tex] \text{suhu\:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  T  \:  \:  \:  \:  \:  \:  \:  \:  \: K} \\  \text{massa \: jenis} \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:   \rho \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \: \:  \:  \text{ kg/} \text{{m}}^{3}  \\  \text{massa \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:   m \:  \:  \:  \:  \:  \:  \:  \:  \:  kg} \\  \text{waktu \:  \:   \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:   \:  \:  \:  \:  \:  \: t \: \:  \: \:  \:  \:  \:   \:  \:   \: s} \\  \text{kecepatan \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:   \:  \: v \:  \:  \:  \:  \:  \:  \:  \: m/} { \text{s}}^{}  \\   \text{percepatan \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:   \: a \:  \:  \:  \:  \:  \:  \:  \:  m/} { \text{s}}^{2}  \\  \text{gaya \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \: F  \:  \:  \:  \:  \:  \:  \:  \:  \:  \: N } \\  \text{frekuensi \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:   \: f \:   \:  \:  \:  \:  \:  \:  \:  \:  \: Hz} \\   \text{beda \: potensial \:  \:  \:  \:  \:  \:  \:  \:  \:  \:   \:  \:  \: V  \: \:  \:  \:  \:  \:  \:  \:    \: V } \\  \text{kuat \: arus \: listrik \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:   I  \:  \:  \:  \:  \:  \:   \:  \:  \:  \: A} \\  \text{hambatan \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \: R}   \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \: \Omega \\  \text{energi \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \: E \:  \:  \:  \: \:  \:  \:  \:    \:  J} \\  \text{kecepatan \: sudut \:  \:  \:  \: } \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \omega \:  \: \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:   \:  \:  \:  \:  \: \text{rad/s} \\  \text{perpindahan \: sudut} \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \theta \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \text{rad} \\  \text{gaya \: gravitasi \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \:  \: g \:  \:  \:  \:  \: \:  \:  \:  \: m/} { \text{s}}^{2} [/tex]</p><br />
+                                            <h2 class="ez-toc-section" id="lambang-lambang-fisika-beserta-satuannya-minimal-50">
+                            16. lambang lambang fisika beserta satuannya minimal 50</h2><br />
+                        Lambang fisika beserta satuannya:<br />1. λ : panjang gelombang satuannya meter (m)<br />2. I : kuat arus listrik Satuannya Ampere (A)<br />3. T : suhu satuannya kelvin (K)<br />4. ρ : Massa jenis satuannya kg/m³<br />5. m : massa satuannya kg<br />6. t : waktu satuannya sekon (s)<br />7. v : kecepatan sataunnya m/s<br />8. a:  percepatan satuannya m/s²<br />9. P: Tekanan satuannya Pa<br />10.P : Daya satuannya kg.m²/s³<br />11. F : gaya satuannya newton (N)<br />12. f: frekuensi dengan satuan Hertz (Hz)<br />13. V : Beda potensial dengan satuan Volt (V)<br />14. E : Energi dengan satuan joule (J)<br />15. R : hambatan  dengan satuan Ohm (Ω)<br />16. ω : kecepatan sudut dengan satuan rad/sekon<br />17. θ : perpindahan sudut dgn satuan rad<br />18. T : Periode dengan satuan sekon<br />19. g : gaya gravitasi dgn satuan m/s²<br />20. k : konstanta pegas dengan satuan N/m<br />21. Ep : energi potensial dgn satuan joule (J)<br />22. Ek : energi kinetik dgn satuan joule (J)<br />23.  I : Impuls dgn satuan kg m/s<br />24. p : momentum dgn satuan kg.m/s<br />25. W : berat benda dgn satuan Newton (N)   <br />26. η : koefesien viskositas dgn satuan kg.m⁻¹.s⁻¹<br />27. Q : debit dgn satuan m³/s<br />28. A : luas penampang dgn satuan m²<br />29. Q : muatan dgn satuan Coulomb ( C)<br />30. B: Induksi magnetik dgn satuan (Wb/m²)<br />31. L : Induktansi diri satuannya Henry (H)<br />32. Φ : Fluks magne satuannya weber (Wb)<br />33. C : Kecepatan cahaya 3.10⁸ m/s<br />34. V : vOLUME DGN SATUAN m³<br />35. s : jarak dgn satuan meter (m)<br />36. L : kalor laten dgn satuan J/kg<br />37. U : kalor uap dgn satuan J/kg<br />38. β : koefesien muai luas dgn satuan °C⁻¹<br />39. σ : Tetapan Stefan - Boltzmann 5,67.10⁻⁸ W/m²K⁴<br />40 Mr : massa molekul relatif gas dgn satuan kg<br />41. C : kapasitas kalor gas dgn satuan J/K<br />42. Q : kalor dgn satuan Joule (J)<br />43. c : cepat rambat cahaya di udara dgn satuan m/s<br />44. f : jarak fokus lensa dgn satuan meter <br />45. P : kekuatan lensa dgn satuan dioptri<br />46. A : Amplitudo dgn satuan meter<br />47. I ; Intensitas gelombang Dgn satuan (Watt/m²)<br />48. TI : Taraf intensitas bunyi dgn satuan (dB : Decibel)<br />49. E : Kuat medan listrik dgn satuan N/C<br />50. C : kapasitas kapasitor dgn satuan farad<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="200-simbol-simbol-fisika-dan-lambangnya">
+                            17. 200 simbol-simbol fisika dan lambangnya</h2><br />
+                        m= massa, M= momentum, f= frekuensi, F= gaya, s= jarak, v=  kecepatan, V= volume, Q=kalor, dst<br />
+                                            <h2 class="ez-toc-section" id="tuliskan-lambang-fisika-dari-a-sampai-z">
+                            18. tuliskan lambang fisika dari A sampai Z!</h2><br />
+                        <p>ini.......................................</p><br />
+                                            <h2 class="ez-toc-section" id="lambang-hambatan-dalama-s-a-p-fisika-smp">
+                            19. lambang hambatan dalamA.S.A.P Fisika Smp </h2><br />
+                        lambang hambatan = R (tapal kuda)<br />satuan = ohm <br />
+                                            <h2 class="ez-toc-section" id="tabel-lambang-fisika-bagian-mekanika-pliss-buat-remed-bantu">
+                            20. Tabel lambang fisika bagian mekanika ?pliss buat remed bantu</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>ini jawaban nya maaf salah </p><br />
+                                            <h2 class="ez-toc-section" id="apakah-yang-dimaksud-dimensi-besaran-fisikasebutkan-lambangnya">
+                            21. Apakah yang dimaksud dimensi besaran fisika,sebutkan lambangnya</h2><br />
+                        <br /><p>Besaran adalah segala sesuatu yang dapat diukur dan dinyatakan dalam angka. Satuan adalah pembanding suatu besaran.  </p><br /><p>Dimensi besaran fisika adalah cara penulisan besaran fisika menggunakan lambang huruf yang diturunkan dari besaran pokok.
+</p><br /><p>Agar mudah menurunkan rumus besaran turunan, hafalkan satuan besaran pokok dahulu. Besaran pokok lengkap dengan satuan dan dimensi sebagai berikut:  </p><p>Panjang – meter- L  </p><p>Massa – kilogram - M  </p><p>Waktu – sekon - T  </p><p>Kuat arus listrik – ampere - I  </p><p>Suhu – kelvin - θ
+</p><p>Jumlah zat - mol - N
+</p><p>Intensitas cahaya – candela – J
+</p><br /><br /><p><strong>PENJELASAN LEBIH LANJUT: </strong> </p><br /><br /><p>Besaran dibedakan menjadi besaran pokok dan besaran turunan. Besaran turunan jumlahnya ada banyak. Sedangkan besaran pokok ada tujuh. Untuk memudahkan menghafal dapat disingkat berikut:  </p><p>PaMan waktu Kurus Suka Juz Ica.  </p><br /><p>Untuk memantapkan kalian memahami soal ini, coba simak soal seperti di bawah ini:  </p><p>Ubahlah 1 g/ cm³ menjadi kg/ m³!  </p><p>1 g/ cm³ = 0,001 kg/ 0,000001 m³ = 1000  kg/ m³  </p><br /><p>Semoga penjelasan di atas memudahkan kalian mempelajari materi ini.</p><br /><p>Untuk contoh soal lain tentang besaran dan pengukuran dapat dilihat pada link berikut:  </p><p>Dimensi : https://brainly.co.id/tugas/17161428
+</p><p>Besaran : brainly.co.id/tugas/272995  </p><p>Pengukuran : brainly.co.id/tugas/331190  </p><br /><p><strong>Mata pelajaran : Fisika  </strong></p><p><strong>Kelas : 7 SMP  </strong></p><p><strong>Kategori: besaran dan pengukuran  </strong></p><p><strong>Kata kunci : besaran pokok, alat ukur, satuan internasional  </strong></p><p><strong>Kode kategori berdasarkan kurikulum K13: 7.6.1  </strong></p><br />
+                                            <h2 class="ez-toc-section" id="apa-saja-lambang-lambang-dalam-fisika-beserta-satuannya">
+                            22. apa saja lambang-lambang dalam fisika beserta satuannya???</h2><br />
+                        BesaranSimbolSatuan SIMassaPanjangWaktuKecepatanPercepatanArus listrikTemperaturMltU, vaIKKilogram (kg)Meter (m)Sekon (s)m/sm/s2Ampere (A)Kelvin<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-lambang-kelistrikan-fisika%e2%80%8b">
+                            23. Sebutkan Lambang Kelistrikan Fisika?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>W adalah energi listrik</p><p>Q adalah muatan listrik</p><p>R adalah hambatan listrik</p><p>V adalah beda votensial</p><p>I adalah kuat arus listrik</p><br />
+                                            <h2 class="ez-toc-section" id="kalor-di-dalam-fisika-diberi-lambang%e2%80%8b">
+                            24. Kalor di dalam fisika diberi lambang​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Huruf</p><p></p><p>semoga bermanfaat dan semangat belajar</p><br />
+                                            <h2 class="ez-toc-section" id="semua-satuan-dan-lambang-satuan-dalam-fisika">
+                            25. semua satuan dan lambang satuan dalam fisika</h2><br />
+                        Besaran Pokok<br />a. panjang,satuan meter(m)<br />b. suhu,satuan kelvin(K)<br />c. intensitas cahaya,satuan candela(cd)<br />d. massa, satuan kilogram(kg)<br />e. waktu, satuan sekon (s)<br />f. kuat atus listrik,satuan ampere(A)<br />g. jumlah zat, satuan mol(mol)<br />
+                                            <h2 class="ez-toc-section" id="apa-itu-lambang-a-dalam-fisika-ipa">
+                            26. apa itu lambang a dalam fisika ipa</h2><br />
+                        a = acceleration / percepatan (m/s^2)A = acceleration/percepatan (M/S^2)<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-lambangbesarandandanannya-fisika-50">
+                            27. sebutkan lambang,besaran,dandanannya fisika 50</h2><br />
+                        waktu : t<br />kuat arus listrik : I<br />Massa : m<br />Gaya : F<br />Tekanan : P<br />Hambatan listrik:R<br /> Beda potensial : V<br />Muatan listrik:q<br />energi listrik :W<br />Daya listrik : P<br />kecepatan : V<br />Berat :W<br />Percepatan :a<br />Jarak : S<br />Usaha :W<br />Perpindahan :S<br />Panjang :p<br />Suhu : T<br />Jumlah zat :n<br />Luas bidang tekan :A<br />Percepatan gravitasi : g<br /> volume:V<br />Km : keuntungan mekanis<br />Lengan beban :lb<br />Lengan kuasa :lk<br />sorry hanya bisa 25<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="apa-lambang-dari-kelajuan-dalam-fisika">
+                            28. apa lambang dari kelajuan dalam fisika</h2><br />
+                        V : m/s<br />semoga bermanfaat yah <br />kelajuan lambangnya adalah v<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-10-lambang-pada-fisika">
+                            29. sebutkan 10 lambang pada fisika</h2><br />
+                        lambang dimensi...<br />hanya itu yang ku tau<br />L<br />T<br />M<br />N<br />α = alpha<br />β = beta<br />Δ = delta<br />π = pi <br />Ф = tetha<br /> = fungsi<br />Ω = omega ato bisa juga untuk lambang hambatan pada rangkaian arus listrik<br />∑ = sigma<br /><br />
+                                            <h2 class="ez-toc-section" id="10-lambang-pada-fisika">
+                            30. 10 lambang pada fisika?</h2><br />
+                        <p>Sepuluh lambang pada fisika adalah:</p><strong>ρ menyatakan massa jenis benda.</strong><strong>μ menyatakan koefisien gesekan benda.</strong><strong>ω menyatakan kecepatan sudut.</strong><strong>θ menyatakan besar sudut.</strong><strong>τ menyatakan momen gaya.</strong><strong>a menyatakan percepatan.</strong><strong>p menyatakan tekanan.</strong><strong>g menyatakan percepatan gravitasi.</strong><strong>h menyatakan ketinggian.</strong><strong>f menyatakan frekuensi.</strong><p></p><strong>Pembahasan</strong><p></p><p><strong>LAMBANG FISIKA</strong></p><p></p><p>Lambang fisika atau simbol fisika adalah huruf atau tanda yang menunjukkan arti atau makna tertentu.</p><p>Di dalam ilmu fisika banyak dipergunakan lambang fisika untuk mempermudah perhitungan dan menyingkat penulisan supaya lebih sederhana dan praktis.</p><p>Lambang fisika yang menggunakan huruf alfabet contohnya:</p>F = gaya (berasal dari bahasa Inggris Force).W = usaha (berasal dari bahasa Inggris Work).a = percepatan (berasal dari bahasa Inggris acceleration).<p>Lambang fisika yang menggunakan huruf Yunani contohnya:</p>ρ (rho) = menyatakan massa jenis benda.ω (omega) = menyatakan kecepatan sudut.θ (theta) = menyatakan besar sudut.λ (lambda) = menyatakan panjang gelombangΣ (sigma) = menyatakan jumlah Ω (omega) = menyatakan satuan hambatan ohmμ (mu) = koefisien gesekτ (tau) = momen gaya<p>Lambang fisika ada yang dipergunakan sebagai besaran dan ada yang menyatakan satuan besaran.</p><p></p><p><strong>Pelajari lebih lanjut</strong></p><p>Lambang Fisika https://brainly.co.id/tugas/2930941</p><p>Dimensi Fisika https://brainly.co.id/tugas/1098219</p><p>Besaran https://brainly.co.id/tugas/15895232</p><p></p><p><strong>Detail Jawaban</strong></p><p><strong>Kelas : </strong>X</p><p><strong>Mapel : </strong>Fisika</p><p><strong>Bab : </strong>Besaran dan Satuan</p><p><strong>Kode : </strong>10.6.1.</p><p></p><p><strong>#TingkatkanPrestasimu</strong></p><br />
+                                            <h2 class="ez-toc-section" id="apakah-perbedaan-antar-lambang-fisika-lambang-satuan-dan-lambang-dimensijawab-ya-ka-secepatnya">
+                            31. apakah perbedaan antar lambang fisika, lambang satuan dan lambang dimensi?jawab ya ka secepatnya:)</h2><br />
+                        <p>Perbedaanya dari cara menulis, lambang dlfisika ad yg huruf kecil ada yg huruf besar, sedangkan satuan kebanyakan huruf kecil, sementara dimensi semua huruf besar dan ada tanda kurung khusus</p><br />
+                                            <h2 class="ez-toc-section" id="dalam-fisika-ini-nama-lambang-nya-apa%e2%80%8b">
+                            32. dalam fisika ini nama lambang nya apa?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>alpha</p><p><strong>Penjelasan:</strong></p><p>Keterangan : percepatan sudut</p><br />
+                                            <h2 class="ez-toc-section" id="cari-lambang-lambang-fisika-dan-artinya">
+                            33. cari lambang lambang fisika dan artinya</h2><br />
+                        semoga membantu,trims.<br />
+                                            <h2 class="ez-toc-section" id="dalam-fisika-lambang%c2%a0%c2%a0y%c2%a0-itu-apa-dan-satuannya-apa">
+                            34. dalam fisika lambang ( y ) itu apa dan satuannya apa?</h2><br />
+                        y=gamma <br />satuanya = (y)<br />
+                                            <h2 class="ez-toc-section" id="apa-lambang-kecepatan-fisika">
+                            35. Apa Lambang kecepatan fisika</h2><br />
+                        lambang kecepatan pada fisika<br />kecepatan = V<br />
+                                            <h2 class="ez-toc-section" id="lambang-teta-dalam-fisika%e2%80%8b">
+                            36. lambang teta dalam fisika​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>seperti 0 tapi ada garis tengah dilebarnya </p><br />
+                                            <h2 class="ez-toc-section" id="apakah-lambang-besaranlambang-satuan-dan-lambang-dimensi-dari-suatu-besaran-fisikaberi-contohnya">
+                            37. apakah lambang besaran,lambang satuan, dan lambang dimensi dari suatu besaran fisika,beri contohnya?</h2><br />
+                        <p>Lambang besaran melambangkan karakteristik sebuah besaran, misalnya percepatan di lambang kan dengan a yg di ambil dari awalan kata acceleration, satuan adalah untuk menyamakan atau memudahkan sesuai dengan sekalian internasional, artinya sebagai patokan bersama di seluruh dunia contoh satuan percepatan meter per sekon kuadrat, sedangkan dimensi untuk membuktikan apakah sebuah rumus benar atau tidak</p><br />
+                                            <h2 class="ez-toc-section" id="dalam-fisika-lambang-r-dari-kalimat">
+                            38. Dalam Fisika lambang "R" dari kalimat ...</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Konstanta gas (disebut juga konstanta gas ideal, molar, semesta, atau universal, biasanya dilambangkan dengan huruf R) adalah sebuah konstanta fisika yang sering muncul dalam banyak persamaan fundamental fisika, seperti hukum gas ideal dan persamaan Nernst.</p><p></p><p>semoga membantu maaf kalo salah:)</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-lambang-f-di-ipa-fisika">
+                            39. apa arti lambang f di ipa fisika</h2><br />
+                        pada fisika f adalah frekuensi<br />
+                                            <h2 class="ez-toc-section" id="lambang-usaha-dalam-fisika-adalah-%e2%80%8b">
+                            40. lambang usaha dalam fisika adalah ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Usaha (fisika)</p><p>Kerja</p><p>Simbol umum	W</p><p>Satuan SI	joule (J)</p><p>Dalam satuan pokok SI	1 kg⋅m2/s2</p><p>Dimensi SI	</p><p><strong>Penjelasan:</strong></p><p>semoga membantu </p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/W4O-3ccpl9Y?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>fisika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sudut-pandang-kemelut-di-majapahit/">Sudut Pandang Kemelut Di Majapahit</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/struktur-teks-ulasan-film-beth/">Struktur Teks Ulasan Film Beth</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-maksud-dari-satu-bangsa/">Apa Maksud Dari Satu Bangsa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/rekap-barang-artinya/">Rekap Barang Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengoper-bola-kepada-teman-dengan-teknik-tertentu-disebut/">Mengoper Bola Kepada Teman Dengan Teknik Tertentu Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/etto-artinya/">Etto Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/where-will-the-party-be-held/">Where Will The Party Be Held</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/notif/">Notif</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/para-tokoh-masyarakat-yang-berjiwa-pancasila-akan/">Para Tokoh Masyarakat Yang Berjiwa Pancasila Akan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ungkapan-tanggapan-dapat-berupa/">Ungkapan Tanggapan Dapat Berupa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-yang-dimaksud-dengan-persatuan/">Apa Yang Dimaksud Dengan Persatuan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/akibat-membuang-sampah-sembarangan-brainly/">Akibat Membuang Sampah Sembarangan Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/2-adalah/">2 Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/cara-memainkan-calung-yaitu-dengan/">Cara Memainkan Calung Yaitu Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fungsi-usus-besar-brainly/">Fungsi Usus Besar Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jilbob/">Jilbob</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dampak-barang-tambang-terutama-yang-sifatnya-tidak-dapat-diperbarui/">Dampak Barang Tambang Terutama Yang Sifatnya Tidak Dapat Diperbarui</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/juru-alok/">Juru Alok</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/align-left/">Align Left</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/nh4cl/">Nh4cl</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

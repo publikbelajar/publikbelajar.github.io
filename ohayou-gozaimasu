@@ -1,0 +1,1318 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ohayou Gozaimasu - BELAJAR</title>
+    <meta name="description" content="Ohayou Gozaimasu, , , , , , , 0, Ohayou gozaimasu? by DetectiveConanFan on DeviantArt, detectiveconanfan.deviantart.com, 750 x 600, jpeg, , 20, ohayou-gozaimasu, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Ohayou Gozaimasu - BELAJAR" />
+    <meta property="og:description" content="Ohayou Gozaimasu, , , , , , , 0, Ohayou gozaimasu? by DetectiveConanFan on DeviantArt, detectiveconanfan.deviantart.com, 750 x 600, jpeg, , 20, ohayou-gozaimasu, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Ohayou Gozaimasu - BELAJAR" />
+    <meta name="twitter:description" content="Ohayou Gozaimasu, , , , , , , 0, Ohayou gozaimasu? by DetectiveConanFan on DeviantArt, detectiveconanfan.deviantart.com, 750 x 600, jpeg, , 20, ohayou-gozaimasu, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Ohayou Gozaimasu</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">mutiasari72</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Ohayou+Gozaimasu" alt="Ohayou Gozaimasu">
+                    </div>
+                    <p></p>
+                    <p>apa perbedaan dari Ohayou, Ohayou gozaimasu, Ohayou minna gozaimasu, Ohayou minasan​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-perbedaan-dari-ohayou-ohayou-gozaimasu-ohayou-minna-gozaimasu-ohayou-minasan%e2%80%8b">1.
+                                            apa perbedaan dari Ohayou, Ohayou gozaimasu, Ohayou minna gozaimasu, Ohayou minasan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-gozaimasu-apa-perbedaan-pola-kalimat-berikut%e2%80%a2-arigatou-arigatou-gozaimasu%e2%80%a2-ohayou-ohayou-gozaimasu%e2%80%8b">2.
+                                            fungsi gozaimasu ?apa perbedaan pola kalimat berikut?• arigatou / arigatou gozaimasu• ohayou / ohayou gozaimasu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ohayou-gozaimasu-artinya">3.
+                                            ohayou gozaimasu artinya?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ohayou-gozaimasu10-2-%c3%9710-2-%c3%97-13%e2%80%8b">4.
+                                            Ohayou gozaimasu10 : 2 ×10 : 2 × 13​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-ohayou-gozaimasu-apa-sih">5.
+                                            Arti ohayou gozaimasu apa sih?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ohayou-gozaimasu-artinya">6.
+                                            ohayou gozaimasu artinya?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#selamat-bekerja-1-berilah-tanda-silang-x-pada-huruf-a-b-c-atau-d-pada-jawaban-yang-paling-ben1-ketika-berpisah-dalam-bahasa-jepang-kita-mengucapkan-a-sayounarac-itadakimasub-ohayou-gozaim">7.
+                                            SELAMAT BEKERJA-1. Berilah tanda silang ( X ) pada huruf a, b, c, atau d pada jawaban yang paling ben1. Ketika berpisah dalam Bahasa Jepang kita mengucapkan..a. Sayounarac. Itadakimasub. Ohayou gozaimasud. Konnichiwa2. Otanjoubi omedetou gozaimasu artinya....a. Selamat Tahun baruc. Selamat tidurb. Selamat ulang tahund. Selamat makan3. Ketika bertemu guru di siang hari dalam Bahasa Jepang kita mengucapkan...a. Konbanwac. Konnichiwab. Ohayou gozaimasud. Mata aimashou4. Terimakasih dalam Bahasa Jepang adalah...a. Ohayou gozaimasuc. lie,douitashimashiteb. Arigatou gozaimasud Genki desu5. おやすみなさい bacaan daro hiragana tersebut adalah...a. Oyasuminasaic. Sayounarab. Ohayou gozaimasud. Arigatou6. Kata ohayou dalam hiragana adalah...C. おはようb. 13R35d. あほよおtolong bantu adek kkk2​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-dari-ohayou-gozaimasu">8.
+                                            apa arti dari Ohayou Gozaimasu ???</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ohayou-gozaimasu-sore-wa-soko-ni-aru">9.
+                                            Ohayou gozaimasu sore wa soko ni aru</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ohayou-guys-tolong-jawab-pertanyaannya-ya-arigatou-gozaimasu">10.
+                                            Ohayou....
+Guys tolong jawab pertanyaannya ya....
+Arigatou Gozaimasu.....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-jawaban-ohayou-gozaimasu">11.
+                                            apa jawaban ohayou gozaimasu? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#artikan-ohayou-gozaimasu-konnichiwa-oyasuminasai">12.
+                                            artikan ohayou gozaimasu, konnichiwa, oyasuminasai??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#fungsi-salam-ohayouohayou-gozaimasukonnichiwakonbanwa">13.
+                                            Fungsi salam: "ohayou","ohayou gozaimasu","konnichiwa","konbanwa"</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ohayou-gozaimasu-meaning">14.
+                                            ohayou gozaimasu meaning?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-kata-%e2%80%9cohayou-gozaimasu">15.
+                                            Apa yang dimaksud dengan kata “ohayou gozaimasu"</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#4-good-sleep-nihongo-wa-ohayou-gozaimasua-b-ovasi%e2%80%8b">16.
+                                            4. Good Sleep nihongo wa...Ohayou Gozaimasua.b. Ovası​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-menggunakan-hiraganaa-watashib-hajimemashitec-ohayou-gozaimasu">17.
+                                            tuliskan menggunakan hiragana:
+a. watashi
+b. hajimemashite
+c. ohayou gozaimasu </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-artinya-dari-ohayou-gozaimasu">18.
+                                            Apa artinya dari ohayou gozaimasu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#%e2%9c%b0quis-b-jepang%e2%9c%b0jawablah-pertanyaan-tentang-salam-ini-dlm-b-jepangdan-artikan-ke-b-indonesia1-ohayou-gozaimasu2-sumimasen3-douzo-ohairi-kudasai4-otanjoubi-omedetou-gozaimasu5">19.
+                                            ✰Quis B.Jepang✰Jawablah pertanyaan tentang salam ini dlm B.Jepang,dan artikan ke B.Indonesia!1. Ohayou Gozaimasu=2. Sumimasen=3. Douzo ohairi kudasai=4. Otanjoubi omedetou gozaimasu=5. Sayounara=✰Selamat mengerjakan!✰​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-ohayou-gozaimasu2-konnichiwa3-watashi-wa-anata-no-koto-ga-tsuki-desujika-ada-yang-berkata-seperti-itu-maka-kita-harus-menjawab%e2%80%8b">20.
+                                            1. Ohayou Gozaimasu2. Konnichiwa3. watashi wa Anata no Koto ga Tsuki desujika ada yang berkata seperti itu maka kita harus menjawab?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ucapan-yang-digunakan-untuk-mengucapkan-selamat-pagi-adalah%e2%80%a6%c2%a0a-ohayou-gozaimasub-konnichiwac-sayoonarad-konbanwae-sankyuu%e2%80%8b">21.
+                                            Ucapan yang digunakan untuk mengucapkan Selamat pagi adalah… *a. Ohayou gozaimasub. Konnichiwac. Sayoonarad. Konbanwae. Sankyuu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-ohayou-gozaimasu">22.
+                                            Apa arti ohayou gozaimasu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sensei-minnasan-ohayougakusei-a-sayounarabohayouc-konnchiwad-mata-aimashoue-ohayou-gozaimasubantuinn-dong">23.
+                                            Sensei : minnasan ohayou
+Gakusei : ....
+A sayounara
+Bohayou
+C konnchiwa
+D mata aimashou
+E ohayou gozaimasu
+Bantuinn dong</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-arti-dari-ohayou-gozaimasu">24.
+                                            tuliskan arti dari ohayou  gozaimasu </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-dari-ohayou-gozaimasu">25.
+                                            apa arti dari ohayou gozaimasu?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-perbedaan-pola-kalimat-ohayou-dgn-ohayou-gozaimasu%e2%80%8b">26.
+                                            Apa perbedaan pola kalimat ohayou dgn ohayou gozaimasu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kalau-temen-chat-kirim-gini-ohayou-gozaimasujawabnya-apa-ya">27.
+                                            kalau temen chat kirim gini "ohayou gozaimasu"
+jawabnya apa ya ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-dari-otanjoubi-omedatou-ohayou-gozaimasu-oyasuminasai-watashi-konnichiwaayok-yang-weabo-pasti-tau-v%e2%80%8b">28.
+                                            apa arti dari otanjoubi omedatou, ohayou gozaimasu, oyasuminasai, watashi, konnichiwaayok yang weabo pasti tau :v​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-terjemahkanohayou-gozaimasu-oishi">29.
+                                            Tolong terjemahkan
+Ohayou gozaimasu.
+Oishi.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#q-ohayou-gozaimasu-artinya">30.
+                                            Q : Ohayou Gozaimasu artinya?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jawan-dari-salam-ohayou-gozaimasu-adalah-konnichiwaabohayou-gozaimasukonbanwa%d1%81oyasumimata-ashitae%e2%80%8b">31.
+                                            Jawan dari salam "OHAYOU GOZAIMASU" adalah....Konnichiwaabohayou gozaimasukonbanwaсoyasumimata ashitae​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mitsuko-berpisah-dengan-haruka-pada-malam-hari-ucapan-salam-yang-diucapkan-mitsuko-adalah-a-konbanwab-ohayou-gozaimasuc-arigato-gozaimasud-oyasumi-nasie-konnichiwa">32.
+                                            Mitsuko berpisah dengan haruka pada malam hari. ucapan salam yang diucapkan Mitsuko adalah.... 
+a. Konbanwa
+b. Ohayou gozaimasu
+c. Arigato gozaimasu
+d. Oyasumi nasi
+e. Konnichiwa </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buat-hiragana-dan-katakana-dari-ohayou-gozaimasu-dan-indonesia">33.
+                                            buat hiragana dan katakana dari ohayou gozaimasu dan indonesia</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-kawasaki-suzuki-san-ohayou-gozaimasu-suzuki-ohayou-gozaimasu-kawasaki-suzuki-hai-genki-desu-a-konbanwad-mata-raisub-ogenki-desukae-konnichiwac-sayounara%e2%80%8b">34.
+                                            2. Kawasaki : Suzuki san, ohayou gozaimasu.Suzuki : Ohayou gozaimasu.Kawasaki :..?Suzuki : Hai, genki desu.a. Konbanwad. Mata Raisub. Ogenki desukae. Konnichiwac. Sayounara​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ohayou-gozaimasu-oyasuminasai">35.
+                                            ohayou gozaimasu ... oyasuminasai ??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-artikan-ke-bahasa-indonesia-ohayou-gozaimasu-hajimemashite-watashi-wa-budi-san-desu-douzo-yoroshiku">36.
+                                            tolong artikan ke bahasa indonesia !
+
+ohayou gozaimasu, hajimemashite watashi wa budi san desu, douzo yoroshiku 
+</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ubah-ke-huruf-hiraganaohayou-gozaimasuhajime-mashite-watashi-no-name-was-doniwatashino-kazoku-wa-go-nin-imasu-imouto-ga-hitori-otouto-hitori-imasuarigatou-gozaimasu">37.
+                                            ubah ke huruf hiraganaOhayou gozaimasuhajime mashite watashi no name was doniwatashino kazoku wa go nin imasu imouto ga hitori otouto hitori imasuarigatou gozaimasu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bahasa-jepang-nya-terimakasih-sopan-adalah-a-ohayou-gozaimasub-arigatouc-konnichiwad-arigatou-gozaimasu%e2%80%8b">38.
+                                            bahasa jepang nya terimakasih (sopan) adalah.. a) ohayou gozaimasub) arigatouc) konnichiwad) arigatou gozaimasu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-ohayou-gozaimasu%e2%80%8b">39.
+                                            arti ohayou gozaimasu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-artinya-ohayou-gozaimasu">40.
+                                            apa artinya ohayou gozaimasu </a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="apa-perbedaan-dari-ohayou-ohayou-gozaimasu-ohayou-minna-gozaimasu-ohayou-minasan%e2%80%8b">
+                            1. apa perbedaan dari Ohayou, Ohayou gozaimasu, Ohayou minna gozaimasu, Ohayou minasan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Baik orang tua pada anak atau sebaliknya. Ucapan “ohayou” ini adalah ucapan informal atau ucapan untuk orang yang sudah akrab atau diucapkan oleh atasan kepada bawahannya di tempat kerja. Sedangkan bentuk formal atau sopan dari “ohayou” adalah “Ohayou Gozaimasu“. </p><p></p><p>itu saja yang saya tau kak ,maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="fungsi-gozaimasu-apa-perbedaan-pola-kalimat-berikut%e2%80%a2-arigatou-arigatou-gozaimasu%e2%80%a2-ohayou-ohayou-gozaimasu%e2%80%8b">
+                            2. fungsi gozaimasu ?apa perbedaan pola kalimat berikut?• arigatou / arigatou gozaimasu• ohayou / ohayou gozaimasu​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>gozaimasu adalah ungkapan yang sopan yh untuk mengucapkan terimakasih atau menyapa </p><p></p><p>cth : arigatou gozaimasu</p><p>      : ohayou gozaimasu</p><p></p><p>saya belajar dari les ya </p><p></p><p>semoga membantu</p><p>Jawaban:</p><p>Kalau pakai "Gozaimasu ". itu kesannya lebih sopan/lebih formal....</p><p>Penjelasan:</p><p>kalau menurut ku...</p><p>Biasanya diucapkan kepada orang yang lebih tua/derajat nya lebih tinggi seperti bos,orang tua dll.</p><p></p><p>•ohayo guzaimasu : Di waktu pagi, kita menyimpang sedikit dengan “Ohayou” atau “Ohayou gozaimasu” tergantung dari hormat kita terhadap lawan bicara kita. </p><p>~</p><br />
+                                            <h2 class="ez-toc-section" id="ohayou-gozaimasu-artinya">
+                            3. ohayou gozaimasu artinya?</h2><br />
+                        selamat pagi<br /><br />semoga membantu|| N5 Level A ||<br />Bab: 1<br /><br />•Pembahasan:<br />- 挨拶 (Aisatsu): Salam <br /><br />↪おはようございます(Ohayougozaimasu): selamat pagi (formal) ✔<br />↪おはよう(Ohayou): selamat pagi (balasan dari Ohayou gozaimasu) ✔<br />↪おはー(Oha): met pagi (informal) ✔<br /><br />Semoga membantu✔<br />Maaf bila kurang memuaskan.<br />
+                                            <h2 class="ez-toc-section" id="ohayou-gozaimasu10-2-%c3%9710-2-%c3%97-13%e2%80%8b">
+                            4. Ohayou gozaimasu10 : 2 ×10 : 2 × 13​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>10 ÷ 2 × 10 ÷ 2 × 13</p><p>= (10 ÷ 2) × (10 ÷ 2) × 13</p><p>= 5 × (10 ÷ 2) × 13</p><p>= 5 × 5 × 13</p><p>= 25 × 13</p><p>= <strong>3</strong><strong>2</strong><strong>5</strong></p><p></p>⏩ Penyelesaian soal:<p></p><p>= 10 ÷ 2 × 10 ÷ 2 × 13</p><p>= 5 × 10 ÷ 2 × 13</p><p>= 50 ÷ 2 × 13</p><p>= 25 × 13</p><p>= <strong>3</strong><strong>2</strong><strong>5</strong></p><p></p><p>Mohon dikoreksi</p><br />
+                                            <h2 class="ez-toc-section" id="arti-ohayou-gozaimasu-apa-sih">
+                            5. Arti ohayou gozaimasu apa sih?</h2><br />
+                        <p>Ohayou gozaimasu adalah kata yang diucapkan di pagi hari, dan artinya sama dengan “selamat pagi.”
+</p><p>Ketika anda ingin mengungkapkan “selamat pagi semua” dalama bahasa Jepang, anda tinggal menambahkan “minna-san” di belakang kata tersebut. Jadi “Ohayou gozaimasu, minna-san!!!”</p><p>Maaf Kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="ohayou-gozaimasu-artinya">
+                            6. ohayou gozaimasu artinya?</h2><br />
+                        Artinya selamat pagi.ketika anda ingin mengungkapkan "selamat pagi semua" dalam bahasa jepang anda tinggal menambahkan "minnasan" di belakang kata tersebut.Jadi  ohayou "gozaimasu,minna-san!!!"" <br />
+                                            <h2 class="ez-toc-section" id="selamat-bekerja-1-berilah-tanda-silang-x-pada-huruf-a-b-c-atau-d-pada-jawaban-yang-paling-ben1-ketika-berpisah-dalam-bahasa-jepang-kita-mengucapkan-a-sayounarac-itadakimasub-ohayou-gozaim">
+                            7. SELAMAT BEKERJA-1. Berilah tanda silang ( X ) pada huruf a, b, c, atau d pada jawaban yang paling ben1. Ketika berpisah dalam Bahasa Jepang kita mengucapkan..a. Sayounarac. Itadakimasub. Ohayou gozaimasud. Konnichiwa2. Otanjoubi omedetou gozaimasu artinya....a. Selamat Tahun baruc. Selamat tidurb. Selamat ulang tahund. Selamat makan3. Ketika bertemu guru di siang hari dalam Bahasa Jepang kita mengucapkan...a. Konbanwac. Konnichiwab. Ohayou gozaimasud. Mata aimashou4. Terimakasih dalam Bahasa Jepang adalah...a. Ohayou gozaimasuc. lie,douitashimashiteb. Arigatou gozaimasud Genki desu5. おやすみなさい bacaan daro hiragana tersebut adalah...a. Oyasuminasaic. Sayounarab. Ohayou gozaimasud. Arigatou6. Kata ohayou dalam hiragana adalah...C. おはようb. 13R35d. あほよおtolong bantu adek kkk2​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. A</p><p>2. A</p><p>3. C</p><p>4. B</p><p>5. A</p><p>6. D </p><p></p><p></p><p>moga membantu jangan lupa di follow ya:) </p><br />1.  A<br />2. D<br />3. B<br />4. B<br />5. A<br /><br />MAAF KALAU SALAH YANGPENTING AKU BANTU !!!!!<br />見つかるまで  = Sayonara❤️<br />
+                                            <h2 class="ez-toc-section" id="apa-arti-dari-ohayou-gozaimasu">
+                            8. apa arti dari Ohayou Gozaimasu ???</h2><br />
+                        artinya selamat pagiselamat pagi artinya<br />
+                                            <h2 class="ez-toc-section" id="ohayou-gozaimasu-sore-wa-soko-ni-aru">
+                            9. Ohayou gozaimasu sore wa soko ni aru</h2><br />
+                        selamat pagi yang ada disana<br /><br /><br />cieee=== Jawaban ===<br /><br />Soalnya saya perbaiki yaa:<br /><br />↪おはようございますそこにあるへ (ohayou gozaimasu soko ni aru e ): selamat pagi untuk seseorang yang ada di sana ✔<br /><br />❇Penjelasan:<br />↪おはようございます (ohayou gozaimasu): selamat pagi<br />↪そこ (soko): di sana (jauh)<br />↪に (ni): partikel menyatakan keberadaan<br />↪ある (aru): ada, berada, tersedia (ditujukan untuk mahluk hidup)<br />↪へ (e): partikel menyatakan tujuan / "untuk"<br /><br />Semoga membantu✔<br />Maaf bila tidak memuaskan.<br />
+                                            <h2 class="ez-toc-section" id="ohayou-guys-tolong-jawab-pertanyaannya-ya-arigatou-gozaimasu">
+                            10. Ohayou....
+Guys tolong jawab pertanyaannya ya....
+Arigatou Gozaimasu.....</h2><br />
+                        <p><strong>Jawab:</strong></p><p><strong></strong></p><p><strong>1.  11.215</strong></p><p><strong>2.  611</strong></p><p><strong>3.  2.600</strong></p><p><strong>4.  1.047.000</strong></p><p><strong>5.  28,625</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p><strong>Saya Mengerjakan dengan cara ...</strong></p><p><strong>KABAG TAKUR (kali,bagi tambah,kurang)</strong></p><p><strong></strong></p><p><strong>1. 21.715 + 15.755 : 37.470 </strong></p><p><strong>   48.685 - 37.470 : 11.215</strong></p><p><strong></strong></p><p><strong>2. (16 : 2) : 8</strong></p><p><strong>    17 x 8 : 136</strong></p><p><strong>    136 + 475 : 611</strong></p><p><strong></strong></p><p><strong>3. (500 : 2) :  250</strong></p><p><strong>    250 + 350 : 600</strong></p><p><strong>    3.200 - 600 : 2.600</strong></p><p><strong></strong></p><p><strong>4. (50 x 60) : 3.000</strong></p><p><strong>    (4.000.000 : 80) : 50.000</strong></p><p><strong>    1.000.000 + 50.000 : 1.050.000</strong></p><p><strong>     1.050.000 - 3.000 : 1.047.000</strong></p><p><strong></strong></p><p><strong>5. 5.000 x 25 : 125.000</strong></p><p><strong>    (3.000.000 : 125.000 ) : 24</strong></p><p><strong>    500 + 24 : 524</strong></p><p><strong>    (15.000 : 524) :  28,625</strong></p><p><strong></strong></p><p><strong>    Penjelasan : </strong></p><p><strong>    Semoga membantu^^</strong></p><p><strong>   </strong></p><p><strong>   Maaf banget kalau salah, soalnya aku depresot kalau ama              </strong></p><p><strong>   pelajaran MTK :')</strong></p><br />
+                                            <h2 class="ez-toc-section" id="apa-jawaban-ohayou-gozaimasu">
+                            11. apa jawaban ohayou gozaimasu? </h2><br />
+                        <p>Jawaban atau respon dari ohayou gozaimasu bisa direspon dengan frasa <strong>ohayou </strong>maupun <strong>ohayou</strong><strong> gozaimasu</strong><strong>.</strong></p><p></p>Pembahasan<p></p><p>Perlu kita pahami bahwa, konteks menjawab dari aisatsu ohayou dan ohayou gozaimasu dilihat dari situasinya. </p><p></p><p>Untuk pengertian dan contohnya sebagai berikut : </p><p></p>おはよう ございます (ohayou gozaimasu)<p>Merupakan arti dari selamat pagi dalam bentuk kalimat salam yang formal.</p><p></p><p>Jika ada seseorang yang menyapa kita dengan sebutan ohayou gozaimasu kita bisa jawab ohayou atau ohayou gozaimasu juga. </p><p></p><p>Jika yang menyapa mengucapkan ohayou gozaimasu, namun orang yang mengucapkan tersebut lebih muda daripada sang yang akan diajak bicara. Maka sang yang diajak bicara bisa mengucapkan ohayou. Namun jika yang menyapa dengan frasa ohayou gozaimasu pada orang yang lebih tua, maka kita sebagai sang yang diajak bicara mengucapkan ohayou gozaimasu.</p><p></p>おはよう (ohayou)<p>Artinya juga sama dengan ohayou gozaimasu, umumnya jenis ucapan aisatsu ini digunakan dalam kategori kata yang informal. </p><p></p><p>Jika ada salah seorang yang menyapa kita dengan ucapan ohayou, dan orang tersebut memiliki umur yang sama dengan kita atau akrab dengan kita maka kita bisa ucapkan ohayou juga. </p><p></p><p>Namun jika salah seorang menyapa kita dengan kata ohayou, namun orang tersebut lebih tua dari kita maka kita bisa ucapkan ohayou gozaimasu.</p><p></p>Pelajari Lebih LanjutApa perbedaan pola kalimat ohayou dgn ohayou gozaimasu : https://brainly.co.id/tugas/33292052Apa arti kata " Sayonara." Apa arti kata " どうぞお召し上がりください ." dalam bahasa Indonesia : https://brainly.co.id/tugas/42893932<p></p>Detail Jawaban<p>Kelas : 10 SMA</p><p>Mapel : Bahasa Jepang</p><p>Materi : Bab 7 - Aisatsu</p><p>Kode Kategorisasi : 10.15.7</p><p>Kode Soal : 15</p><p>Kata Kunci : Respon dari kata ohayou gozaimasu dan ohayou</p><br />
+                                            <h2 class="ez-toc-section" id="artikan-ohayou-gozaimasu-konnichiwa-oyasuminasai">
+                            12. artikan ohayou gozaimasu, konnichiwa, oyasuminasai??</h2><br />
+                        === Jawaban ===<br /><br />Walaupun yang orang umum ketahui yakni "konnichiwa" sebagai "hai/halo", nyatanya di Jepang, pengucapan "salam" ini disesuaikan dengan jam waktunya. <br /><br />Selamat pagi / siang / sore / malam masuk kedalam sapaan "Hai" yang lazim. <br /><br />dan ada pula "halo" khusus di telepon. <br /><br />Dibawah ini saya akan menjelaskan mengenai "halo " dan ucapan salam lainnya. <br /><br />-------------------------------------<br />▷P E M B A H A S A N ◁<br />-------------------------------------<br /><br />Jawaban: <br /><br />→ おはよう (ohayou) : Hai / Selamat Pagi. <br /><br />--&gt; kalimat ini diucpkan ketika pagi hari, yakni pada saat pukul 00.00 ~ 11.00 ✔<br />• Selagi matahari belum tepat 35° mendekati posisi atas kepala masih bisa mengucapkan kalimat sapaan ini <br /><br />--&gt; beberapa juga ada yang menyingkatnua menjadi おはー (ohaa) dan masuk dalam sapaan non formal. <br /><br />--&gt; ada pula bahasa gaul dari "hai" untuk pengganti "ohayou" adalah ボン (bon). <br />• Melihat kondisi Jepang, anak-anak muda di sana lebih menyukai Perancis karena bagi mereka itu merupakan negara dengan segudang cita2 mereka. <br />• Maka dari itu, "bon" diambil dari kata "bonjour" yang diadopsi dari bahasa Perancis. ✔<br />_________________<br /><br />→ こんにちは (konnichiwa) : Hai / Selamat Siang dan Malam <br /><br />--&gt; seperti yang dibilang sebelumnya, ini merupakan "hai" yang umum. <br />• Kalimat ini diucapkan dari pukul 11.00 hingga 17.00 <br /><br />--&gt; patokannya ialah saat matahari sudah berada di atas kepala hingga matahari akan terbenam.<br /><br />--&gt; ALASAN mengapa konnichiwa diucapkan ketika setiap waktu, ini hanya berlaku untuk yang saat kerja shift pagi / malam / sore dan juga di video. <br />• mengapa demikian? karena kalau di video kita ga tau kapan mereka menonton video nya, maka dari itu akan memakai "konnichiwa"<br />_____________<br /><br />→ こんばんは (konbanwa) : Selamat malam. <br /><br />--&gt; diucapkan dari pukul 17.00 / dari matahari terbenam hingga pukul 00.00 / pergi tidur. <br />_____________<br /><br />→ お休みなさい (oyasuminasai) : selamat tidur.<br /><br />--&gt; diucapkan ketika ingin pergi tidur. <br /><br />--&gt; dan biasanya di singkat menjadi お休み (oyasumi) <br /><br />Simak soal lebih lanjut mengenai oyasuminasai di sini; brainly.co.id/tugas/20680477<br />__________<br /><br />→ もしもし (moshi moshi) : Halo. <br /><br />--&gt; dan ini HANYA untuk ditelepon. Ini hanya digunakan di telepon / sosial media ketika chat. <br />• Tidak diperkenankan digunakan saat bersua / bertemu.<br />_____________________________<br /><br />Simak soal serupa di; <br />• brainly.co.id/tugas/18187992<br />• brainly.co.id/tugas/3816875<br />_____________________________<br /><br />Semoga membantu ✔<br />maaf bila kurang memuaskan. <br />_____________________________<br /><br />♔ Kategori umum: <br />||N5 Level A ||<br />Bab: 1<br /><br />♕ Kategori sekolah: <br />Kelas: 10 SMA<br />Semester: 1<br />Bab: 7<br />Sub Bab: 挨拶 (aisatsu) / salam.<br />Kunci soal: selamat pagi / siang / sore / malam <br />Kode soal: 15<br />Kode kategorisasi : 10.15.7<br />____________________________<br /><br />Pembahasan:<br />• 挨拶 (aisatsu) : salam.<br />____________________________<br />
+                                            <h2 class="ez-toc-section" id="fungsi-salam-ohayouohayou-gozaimasukonnichiwakonbanwa">
+                            13. Fungsi salam: "ohayou","ohayou gozaimasu","konnichiwa","konbanwa"</h2><br />
+                        === Jawaban ===<br /><br />Walaupun yang orang umum ketahui yakni "konnichiwa" sebagai "hai/halo", nyatanya di Jepang, pengucapan "salam" ini disesuaikan dengan jam waktunya. <br /><br />Selamat pagi / siang / sore / malam masuk kedalam sapaan "Hai" yang lazim. <br /><br />dan ada pula "halo" khusus di telepon. <br /><br />Dibawah ini saya akan menjelaskan mengenai "halo" dan ucapan salam lainnya. <br /><br />-------------------------------------<br />▷P E M B A H A S A N ◁<br />-------------------------------------<br /><br />Jawaban: <br /><br />→ おはよう (ohayou) : Hai / Selamat Pagi. <br /><br />--&gt; kalimat ini diucpkan ketika pagi hari, yakni pada saat pukul 00.00 ~ 11.00 ✔<br />• Selagi matahari belum tepat 35° mendekati posisi atas kepala masih bisa mengucapkan kalimat sapaan ini <br /><br />--&gt; beberapa juga ada yang menyingkatnua menjadi おはー (ohaa) dan masuk dalam sapaan non formal. <br /><br />--&gt; ada pula bahasa gaul dari "hai" untuk pengganti "ohayou" adalah ボン (bon). <br />• Melihat kondisi Jepang, anak-anak muda di sana lebih menyukai Perancis karena bagi mereka itu merupakan negara dengan segudang cita2 mereka. <br />• Maka dari itu, "bon" diambil dari kata "bonjour" yang diadopsi dari bahasa Perancis. ✔<br />_________________<br /><br />→ こんにちは (konnichiwa) : Hai / Selamat Siang dan Malam <br /><br />--&gt; seperti yang dibilang sebelumnya, ini merupakan "hai" yang umum. <br />• Kalimat ini diucapkan dari pukul 11.00 hingga 17.00 <br /><br />--&gt; patokannya ialah saat matahari sudah berada di atas kepala hingga matahari akan terbenam.<br /><br />--&gt; ALASAN mengapa konnichiwa diucapkan ketika setiap waktu, ini hanya berlaku untuk yang saat kerja shift pagi / malam / sore dan juga di video. <br />• mengapa demikian? karena kalau di video kita ga tau kapan mereka menonton video nya, maka dari itu akan memakai "konnichiwa"<br />_____________<br /><br />→ こんばんは (konbanwa) : Selamat malam. <br /><br />--&gt; diucapkan dari pukul 17.00 / dari matahari terbenam hingga pukul 00.00 / pergi tidur. <br />--&gt; konbnwa diambildari kata " 晩 / ban" Yang artinya malam. <br />Sama halnya seperti よる (yoru) yang artinya malam. <br />--&gt; "kon' di sini sebagai bentuk formal dari "omedetou / selamat"<br />Karena di ucapan selamat pagi itu "o-hayou" , maka untuk siang dan malam menjadi "kon-nichiwa / bahwa"<br />_____________<br /><br />→ お休みなさい (oyasuminasai) : selamat tidur.<br /><br />--&gt; diucapkan ketika ingin pergi tidur. <br /><br />--&gt; dan biasanya di singkat menjadi お休み (oyasumi) <br /><br />Simak soal lebih lanjut mengenai oyasuminasai di sini; brainly.co.id/tugas/20680477<br /><br />Simak pembahasn mengenai perbedaan Oyasumi dan konbanwa di sini; https://brainly.co.id/tugas/5931503<br />_________<br /><br />→ もしもし (moshi moshi) : Halo. <br /><br />--&gt; dan ini HANYA untuk ditelepon. Ini hanya digunakan di telepon / sosial media ketika chat. <br />• Tidak diperkenankan digunakan saat bersua / bertemu.<br />_____________________________<br /><br />Simak soal serupa di; <br />• brainly.co.id/tugas/18187992<br />• brainly.co.id/tugas/3816875<br />_____________________________<br /><br />Semoga membantu ✔<br />maaf bila kurang memuaskan. <br />_____________________________<br /><br />♔ Kategori umum: <br />||N5 Level A ||<br />Bab: 1<br /><br />♕ Kategori sekolah: <br />Kelas: 10 SMA<br />Semester: 1<br />Bab: 7<br />Sub Bab: 挨拶 (aisatsu) / salam.<br />Kunci soal: selamat pagi / siang / sore / malam <br />Kode soal: 15<br />Kode kategorisasi : 10.15.7<br />____________________________<br /><br />Pembahasan:<br />• 挨拶 (aisatsu) : salam.<br />____________________________<br />
+                                            <h2 class="ez-toc-section" id="ohayou-gozaimasu-meaning">
+                            14. ohayou gozaimasu meaning?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>おはようございます (ohayou gozaimasu) artinya selamat pagi atau "hai".</p><p></p><p><strong>Penjelasan:</strong></p><p>おはようございます (ohayou gozaimasu) versi sapaan formal atau sopan. Sapaan ini dipakai pada matahari terbit sampai dengan jam 11 siang. Disini, ございます (gozaimasu) adalah akhiran kalimat yang memberikan kesan keformalan. </p><p></p><p>Ada pula versi lainnya:</p>おはよう (ohayou).おはー (ohaa).おっす (ossu).<p></p><p><strong>Catatan*</strong><strong>:</strong></p>Sebenarnya, ございます (gozaimasu) adalah bentuk konjugasi -masu dari kata kerja bentuk kamus yaitu ございる (gozairu).<p></p><p><strong>Pelajari</strong><strong> lebih</strong><strong> </strong><strong>lanjut:</strong></p><p><strong>https://brainly.co.id/tugas/5141714</strong><strong>2</strong></p><p></p><p><strong>Detail:</strong></p><p><strong>Kelas </strong><strong>:</strong><strong> </strong><strong>-</strong></p><p><strong>Mapel </strong><strong>:</strong><strong> </strong><strong>B.</strong><strong> </strong><strong>Jepang</strong></p><p><strong>Materi </strong><strong>:</strong><strong> </strong><strong>sapaan</strong></p><p><strong>Kata </strong><strong>kunci </strong><strong>:</strong><strong> </strong><strong>ohayou </strong><strong>gozaimasu</strong></p><p><strong>Kode </strong><strong>:</strong><strong> </strong><strong>1</strong><strong>5</strong></p><p></p><p></p><p><strong>Jawaban:</strong></p><p>おはようございます (ohayou gozaimasu) artinya selamat pagi atau "hai".</p><p></p><p><strong>Penjelasan:</strong></p><p>おはようございます (ohayou gozaimasu) versi sapaan formal atau sopan. Sapaan ini dipakai pada matahari terbit sampai dengan jam 11 siang. Disini, ございます (gozaimasu) adalah akhiran kalimat yang memberikan kesan keformalan. </p><p></p><p>Ada pula versi lainnya:</p>おはよう (ohayou).おはー (ohaa).おっす (ossu).<p></p><p><strong>Catatan*</strong><strong>:</strong></p>Sebenarnya, ございます (gozaimasu) adalah bentuk konjugasi -masu dari kata kerja bentuk kamus yaitu ございる (gozairu).<p></p><p><strong>Pelajari</strong><strong> lebih</strong><strong> </strong><strong>lanjut:</strong></p><p><strong>https://brainly.co.id/tugas/5141714</strong><strong>2</strong></p><p></p><p><strong>Detail:</strong></p><p><strong>Kelas </strong><strong>:</strong><strong> </strong><strong>-</strong></p><p><strong>Mapel </strong><strong>:</strong><strong> </strong><strong>B.</strong><strong> </strong><strong>Jepang</strong></p><p><strong>Materi </strong><strong>:</strong><strong> </strong><strong>sapaan</strong></p><p><strong>Kata </strong><strong>kunci </strong><strong>:</strong><strong> </strong><strong>ohayou </strong><strong>gozaimasu</strong></p><p><strong>Kode </strong><strong>:</strong><strong> </strong><strong>1</strong><strong>5</strong></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-kata-%e2%80%9cohayou-gozaimasu">
+                            15. Apa yang dimaksud dengan kata “ohayou gozaimasu"</h2><br />
+                        Ohayou Gozaimasu berasal dari bahasa Jepang yang artinya bisa HAI atau SELAMAT PAGI<br /><br />Semoga bermanfaat<br />Jadikan jawaban terbaik?dalam bahasa jepang "ohayou gozaimasu".berarti halo, hai, atau selamat pagi dalam penggunaan formal.<br />
+                                            <h2 class="ez-toc-section" id="4-good-sleep-nihongo-wa-ohayou-gozaimasua-b-ovasi%e2%80%8b">
+                            16. 4. Good Sleep nihongo wa...Ohayou Gozaimasua.b. Ovası​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>b. ovasi maaf kalo salah</p><p><strong>Jawaban:</strong></p><p>Oyasuminasai </p><p><strong>Penjelasan:</strong></p><p>Oyasumi juga bisa. </p><p>おやすみなさい</p><p>おやすみ</p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-menggunakan-hiraganaa-watashib-hajimemashitec-ohayou-gozaimasu">
+                            17. tuliskan menggunakan hiragana:
+a. watashi
+b. hajimemashite
+c. ohayou gozaimasu </h2><br />
+                        <p>Ubah ke huruf hiragana : </p><p>a. Watashi「わたし」</p><p>b. Hajimemashlte「はじめまして」</p><p>c. Ohayou gozaimasu「おはようございます」</p><p></p>Pembahasan<p></p><p><strong>Watashi</strong><strong>「</strong><strong>私</strong><strong>・</strong><strong>わたし」</strong></p><p>Berarti yaitu 'saya/aku', penggunaannya ini dapat diucapkan ketika terdapat dalam situasi yang formal. Akan tetapi, penggunaan kata ganti pertama tunggal juga bisa digunakan dalam situasi yang kasual maupun informal.</p><p></p><p><strong>Hajimemash</strong><strong>l</strong><strong>t</strong><strong>e</strong><strong>「</strong><strong>はじめまして」</strong></p><p>Kata ini kerap digunakan ketika ingin menyapa untuk pertama kalinya dalam perkenalan, artinya tersebut yaitu 'senang bertemu denganmu'. Pemakaiannya tergolong formal.</p><p></p><p><strong>Ohayou </strong><strong>gozaimasu</strong><strong>「</strong><strong>おはようございます</strong><strong>」</strong></p><p>Merupakan salam bentuk formal yang kerap digunakan sebagai salam pembuka di waktu pagi hari, artinya yaitu 'selamat pagi'. Pemakaiannya ini adalah formal karena terdapat akhiran 〜ございます (-gozaimasu) yang berperan agak memberikan kesan yang terdengar sopan dan lembut.</p><p></p><p>__________________</p><p></p><p><strong>HIRAGANA</strong><strong>「</strong><strong>平仮名</strong><strong>・</strong><strong>ひらがな」</strong></p><p>Hiragana adalah salah satu huruf dari huruf Jepang selain katakana dan kanji, pada setiap huruf-hurufnya hanya mewakili cukup 1 bunyi saja. Kemudian untuk fungsi dari hiragana ini diantaranya adalah sebagai penulisan partikel, memudahkan seseorang untuk menulis suatu kata yang kanjinya susah untuk ditulis, dapat untuk menulis furiguna serta okurigana.</p><p></p><p>Berikut mari belajar mengenai jenis-jenis huruf hiragana sebagai berikut ini : </p><p></p><p>1. <strong>4</strong><strong>6</strong><strong> </strong><strong>huruf </strong><strong>dengan </strong><strong>jenis </strong><strong>清音</strong><strong> </strong><strong>(</strong><strong>seion)</strong><strong> </strong><strong>-</strong><strong> </strong><strong>huruf </strong><strong>dasar</strong></p>あ い う え お (a - i - u - e - o)か き く け こ (ka - ki - ku - ke - ko)さ し す せ そ (sa - shi - su - se - so)た ち つ て と (ta - chi - tsu -te - to)な に ぬ ね の (na - ni - nu - ne - no)は ひ ふ へ ほ (ha - hi - fu - he - ho)ま み む め も (ma - mi - mu - me - mo)や ゆ よ (ya - yu - yo)ら り る れ ろ (ra - ri - ru - re - ro)わ を (wa - wo)ん (n)<p></p><p>2. <strong>2</strong><strong>0</strong><strong> </strong><strong>huruf </strong><strong>dengan </strong><strong>jenis </strong><strong>濁音</strong><strong> </strong><strong>(</strong><strong>dakuon)</strong><strong> </strong><strong>-</strong><strong> </strong><strong>huruf </strong><strong>dengan </strong><strong>tanda </strong><strong>tenten</strong></p>が ぎ ぐ げ ご (ga - gi - gu - ge - go)ざ じ ず ぜ ぞ (za - ji - zu - ze - zo)だ ぢ づ で ど (da - ji - dzu - de - do)ば び ぶ べ ぼ (ba - bi - bu - be - bo)<p></p><p>3. <strong>5</strong><strong> </strong><strong>huruf </strong><strong>dengan </strong><strong>jenis </strong><strong>半濁音</strong><strong> </strong><strong>(</strong><strong>handakuon)</strong><strong> </strong><strong>-</strong><strong> </strong><strong>huruf </strong><strong>dengan </strong><strong>tanda </strong><strong>maru</strong></p>ぱ ぴ ぷ ぺ ぽ (pa - pi - pu - pe - po)<p></p><p>4. <strong>3</strong><strong>6</strong><strong> </strong><strong>huruf </strong><strong>dengan </strong><strong>jenis </strong><strong>拗音</strong><strong> </strong><strong>(</strong><strong>youon)</strong><strong> </strong><strong>-</strong><strong> </strong><strong>huruf </strong><strong>campuran</strong></p>きゃ きゅ きょ (kya - kyu - kyo)ぎゃ ぎゅ ぎょ (gya - gyu - gyo)しゃ しゅ しょ (sha - shu - sho)じゃ じゅ じょ (ja - ju - jo)ちゃ ちゅ ちょ (cha - chu - cho)ぢゃ ぢゅ ぢょ (ja - ju - jo)にゃ にゅ にょ (nya - nyu - nyo)ひゃ ひゅ ひょ (hya - hyu - hyo)びゃ びゅ びょ (bya - byu - byo)ぴゃ ぴゅ ぴょ (pya - pyu - pyo)みゃ みゅ みょ (mya - myu - myo)りゃ りゅ りょ (rya - ryu - ryo)<p></p><p>_______________________</p><p></p>Pelajari Lebih Lanjut<p>Mengenal lebih lanjut mengenai huruf-huruf Jepang : </p>https://brainly.co.id/tugas/51554836https://brainly.co.id/tugas/25356028https://brainly.co.id/tugas/13441317https://brainly.co.id/tugas/32185217https://brainly.co.id/tugas/45472876<p></p>Detail Jawaban<p>Mapel : Bahasa Jepang</p><p>Kelas : 10 SMA</p><p>Bab : 2 - Hiragana</p><p>Kode : 10.15.2</p><br />
+                                            <h2 class="ez-toc-section" id="apa-artinya-dari-ohayou-gozaimasu">
+                            18. Apa artinya dari ohayou gozaimasu</h2><br />
+                        artinya selamat pagi.......................artinya selamat pagi <br />
+                                            <h2 class="ez-toc-section" id="%e2%9c%b0quis-b-jepang%e2%9c%b0jawablah-pertanyaan-tentang-salam-ini-dlm-b-jepangdan-artikan-ke-b-indonesia1-ohayou-gozaimasu2-sumimasen3-douzo-ohairi-kudasai4-otanjoubi-omedetou-gozaimasu5">
+                            19. ✰Quis B.Jepang✰Jawablah pertanyaan tentang salam ini dlm B.Jepang,dan artikan ke B.Indonesia!1. Ohayou Gozaimasu=2. Sumimasen=3. Douzo ohairi kudasai=4. Otanjoubi omedetou gozaimasu=5. Sayounara=✰Selamat mengerjakan!✰​</h2><br />
+                        <p><strong>No</strong><strong> </strong><strong>1</strong><strong> </strong><strong>)</strong></p><p></p>おはようございますOhayōgozaimasu   (Selamat pagi)<p></p><p><strong>No</strong><strong> </strong><strong>2</strong><strong> </strong><strong>)</strong></p><p></p>すむませんSumumasen(Maafkan Saya)<p></p><p><strong>No</strong><strong> </strong><strong>3</strong><strong> </strong><strong>)</strong></p><p></p>どうぞ おはいり くださいDouzo ohairi kudasai   (Silakan Masuk)<p></p><p><strong>No</strong><strong> </strong><strong>4</strong><strong> </strong><strong>)</strong></p><p></p>誕生日おめでとうOtanjoubi omedetou gozaimasu  (Selamat ulang tahun)<p></p><p><strong>No</strong><strong> </strong><strong>5</strong><strong> </strong><strong>)</strong></p><p></p>さよならSayounara(Selamat Tinggal)<br />
+                                            <h2 class="ez-toc-section" id="1-ohayou-gozaimasu2-konnichiwa3-watashi-wa-anata-no-koto-ga-tsuki-desujika-ada-yang-berkata-seperti-itu-maka-kita-harus-menjawab%e2%80%8b">
+                            20. 1. Ohayou Gozaimasu2. Konnichiwa3. watashi wa Anata no Koto ga Tsuki desujika ada yang berkata seperti itu maka kita harus menjawab?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.Ohayou Gozaimasu=selamat pagi</p><p>Kita= おはようございます</p><p>Ohayōgozaimasu= selamat pagi juga</p><p> </p><p>2.Konnichiwa= Hallo</p><p>Kita= やあ</p><p>Yā= Hai</p><p></p><p>3.watashi wa Anata no Koto ga Tsuki desu= Aku bersamamu</p><p>Kita=ありがとうございます</p><p>Arigatōgozaimasu= Terimakasih</p><p></p><p><strong>Penjelasan:</strong></p><p> Maaf salah kak menjawabnya</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="ucapan-yang-digunakan-untuk-mengucapkan-selamat-pagi-adalah%e2%80%a6%c2%a0a-ohayou-gozaimasub-konnichiwac-sayoonarad-konbanwae-sankyuu%e2%80%8b">
+                            21. Ucapan yang digunakan untuk mengucapkan Selamat pagi adalah… *a. Ohayou gozaimasub. Konnichiwac. Sayoonarad. Konbanwae. Sankyuu​</h2><br />
+                        <p>Jawaban:</p><p>A.ohayou gozaimashu</p><p>Semoga membantu</p><p>Ja-matane</p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-ohayou-gozaimasu">
+                            22. Apa arti ohayou gozaimasu</h2><br />
+                        selamat pagi :) ----------------------<br />Selamat Pagi :).......<br />
+                                            <h2 class="ez-toc-section" id="sensei-minnasan-ohayougakusei-a-sayounarabohayouc-konnchiwad-mata-aimashoue-ohayou-gozaimasubantuinn-dong">
+                            23. Sensei : minnasan ohayou
+Gakusei : ....
+A sayounara
+Bohayou
+C konnchiwa
+D mata aimashou
+E ohayou gozaimasu
+Bantuinn dong</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>B. Ohayō  (おはよう) : Selamat pagi</p><p><strong>Penjelasan:</strong></p><p>Sensei : minnasan ohayou</p><p>Gakusei : ....</p><p>(guru : semuanya selamat pagi</p><p>gakusei : ....)</p><p>A. Sayōnara  (さようなら) : Selamat tinggal</p><p>B. Ohayō  (おはよう) : Selamat pagi</p><p>C.kon'nichiwa   (こんにちわ) : Halo</p><p>D. Mata aimashou  (また あいましょう) : Mari bertemu kembali</p><p>E.Ohayōgozaimasu  (おはよう ございます) : Selamat pagi</p><p></p><p>Kalimat Ohayaou merupakan salam yang berarti Selamat pagi, </p><p>Jadi balasanya ya mengucapkan kata yang sama.</p><p></p><p>semoga membantu</p><p>maaf kalu salah</p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-arti-dari-ohayou-gozaimasu">
+                            24. tuliskan arti dari ohayou  gozaimasu </h2><br />
+                        Selamat Pagi<br />#cmiiw^^JAPAN :Ohayou gozaimasu<br />ARTINYA :“selamat pagi”<br /><br />Arigatou gozaimasu;-) <br />
+                                            <h2 class="ez-toc-section" id="apa-arti-dari-ohayou-gozaimasu">
+                            25. apa arti dari ohayou gozaimasu?</h2><br />
+                        <p>Arti aisatsu おはようございます (ohayou gozaimasu) adalah "selamat pagi."</p><p></p>Pembahasan<p></p><p><strong>Ohayou gozaimasu</strong></p><p><strong>「おはようございます」</strong></p><p>= selamat pagi.</p><p></p><p>Aisatsu berarti "sapaan/salam," おはようございます (ohayou gozaimasu) itu adalah kategori aisatsu karena penggunaannya untuk menyapa dengan bentuk sapaan umum pada waktu pagi dan ini termasuk formal. </p><p></p><p>Sapaan selamat pagi tersebut tentunya diucapkan pada waktu pagi hari yang dimulai dari pukul 00.00 pagi hingga pukul 11.00 yang mulai menjelang siang.</p><p></p><p>_ _ _ _ _ _ _</p><p></p><p>Berikut berbagai macam alternatif menggunakan ungkapan "selamat pagi" dalam bahasa Jepang selain おはようございます ohayou gozaimasu.</p><p></p><p><strong>Ohayou「おはよう」</strong></p><p>╰➝ lni jika tidak ada akhiran ございます (gozaimasu) menjadi おはよう (ohayou) yang membuat sapaan tersebut menjadi informal. Sehingga sapaan ini adalah termasuk sapaan dengan nuansa yang kasual dan merupakan singkatan dari bentuk formalnya おはようございます (ohayou gozaimasu). </p><p></p><p><strong>Ohaa!「おはー!」</strong></p><p>╰➝ Singkatan dari おはよう (ohayou) yang sama-sama termasuk jenis sapaan yang bernuansa kasual/informal, bahkan おはー (ohaa) ini lebih informal dari おはよう (ohayou).</p><p></p><p><strong>Bon「ボン」</strong></p><p>╰➝ Sapaan ini memiliki nuansa yang gaul nan kasual, penulisannya dengan menggunakan huruf katakana karena merupakan serapan dari bahasa Perancis yaitu "bonjour." </p><p></p><p>________________</p><p></p>Pelajari Lebih Lanjut<p>Materi mengenai aisatsu : </p>https://brainly.co.id/tugas/35280487https://brainly.co.id/tugas/31810660https://brainly.co.id/tugas/42283223https://brainly.co.id/tugas/49917340<p></p>Detail Jawaban<p>Mapel : Bahasa Jepang</p><p>Kelas : X SMA</p><p>Bab : 7 - Aisatsu</p><p>Kode : 10.15.7</p><br />
+                                            <h2 class="ez-toc-section" id="apa-perbedaan-pola-kalimat-ohayou-dgn-ohayou-gozaimasu%e2%80%8b">
+                            26. Apa perbedaan pola kalimat ohayou dgn ohayou gozaimasu​</h2><br />
+                        Pembahasan<p></p><p>Ohayou dan ohayou gozaimasu artinya sama yaitu selamat pagi. </p><p></p><p>Namun, diantara kedua frasa diatas. Perbedaan antaranya yakni : </p><p></p><p><strong>=</strong><strong>&gt;</strong><strong> </strong><strong>おはよう</strong><strong> </strong><strong>(</strong><strong>ohayou)</strong><strong> </strong></p><p>Merupakan ungkapan salam pembuka, yakni selamat pagi yang umumnya digunakan dalam situasi yang informal. Dikarenakan kata ohayou ini merupakan jenis singkatan yang berasal dari おはようございます (ohayou gozaimasu).</p><p></p><p><strong>=</strong><strong>&gt;</strong><strong> </strong><strong>おはようございます</strong><strong> </strong><strong>(</strong><strong>ohayou </strong><strong>gozaimasu</strong><strong>)</strong></p><p>Merupakan salah satu jenis ungkapan selamat pagi dalam bentuk formal atau disebut sebagai jenis ungkapan yang bisa kita gunakan dalam situasi yang resmi.</p><p></p>____________________________<p></p><p>Ungkapan おはよう (ohayou) dan おはようございます (ohayou gozaimasu) ini merupakan jenis ungkapan salam pembuka ketika akan bertemu atau akan menyapa seseorang yang berada di dekat kita.</p><p></p><p></p>Pelajari Lebih LanjutApa arti dari こんにちは atau kon'nichiwa : https://brainly.co.id/tugas/46244787Arti dari selamat pagi, selamat malam, selamat siang, selamat sore : https://brainly.co.id/tugas/46931921Bahasa Jepangnya terimakasih dan responnya : https://brainly.co.id/tugas/35184525Materi mengenai Aisatsu : https://brainly.co.id/tugas/48672982<p></p>Detail Jawaban<p>Kelas : 10 SMA</p><p>Mapel : Bahasa Jepang</p><p>Materi : Bab 7 - Aisatsu</p><p>Kode Kategorisasi : 10.15.7</p><p>Kode Soal : 15</p><p>Kata Kunci : Perbedaan antara ohayou dan ohayou gozaimasu</p><br />
+                                            <h2 class="ez-toc-section" id="kalau-temen-chat-kirim-gini-ohayou-gozaimasujawabnya-apa-ya">
+                            27. kalau temen chat kirim gini "ohayou gozaimasu"
+jawabnya apa ya ?</h2><br />
+                        itu artinya Selamat Pagi...<br />semoga membanttu:)ohayou gozaimasu balesannya<br />
+                                            <h2 class="ez-toc-section" id="apa-arti-dari-otanjoubi-omedatou-ohayou-gozaimasu-oyasuminasai-watashi-konnichiwaayok-yang-weabo-pasti-tau-v%e2%80%8b">
+                            28. apa arti dari otanjoubi omedatou, ohayou gozaimasu, oyasuminasai, watashi, konnichiwaayok yang weabo pasti tau :v​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Otanjoubi omedatou artinya selamat ulang tahun</p><p></p><p>Ohayou gazaimasu artinya selamat pagi</p><p></p><p>Oyasuminasai artinya selamat tidur</p><p></p><p>Watashi artinya saya</p><p></p><p>Konnichiwa halo</p>Otanjoubi omedatou : selamat ulang tahun<br /><br />Ohayou gozaimasu : selamat pagi<br /><br />Oyasuminasai : selamat tidur<br /><br />Watashi : saya<br /><br />Konnichiwa : selamat siang/ halo<br /><br /><br />Semoga bermanfaat<br />
+                                            <h2 class="ez-toc-section" id="tolong-terjemahkanohayou-gozaimasu-oishi">
+                            29. Tolong terjemahkan
+Ohayou gozaimasu.
+Oishi.</h2><br />
+                        selamat pagi, lezat .↪おはようございます (ohayougozaimasu): selamat pagi (bentuk formal)<br />↪美味しい (oishii): Enak, sedap.<br /><br />Semoga membantu✔<br />Maaf bila kurang memuaskan.<br />
+                                            <h2 class="ez-toc-section" id="q-ohayou-gozaimasu-artinya">
+                            30. Q : Ohayou Gozaimasu artinya?</h2><br />
+                        <p><strong>Jawaban:</strong></p>artinya adalah selamat pagi.dalam bahasa jepang<p> </p><p><strong>JAWABAN :</strong></p><p>Ohayou Gozaimasu artinya adalah <strong>Selamat </strong><strong>pagi </strong>.</p><p> </p><p></p><p><strong>"Ohayou Gozaimasu"</strong> adalah kata yang di gunakan untuk menyapa orang ketika pagi hari .</p><p></p><p></p><p>________________________________</p>PENJELASAN :<p>Bahasa Indonesia = " Selamat pagi " </p><p></p><p>Bahasa latin        = " Ohayou Gozaimasu "</p><p></p><p>Bahasa Jepang  = " おはようございます " </p><p></p><p></p><p></p><p>________________________________</p>PENJELASAN :<p>=&gt; Maaf kalau salah</p><p>=&gt; Semoga membantu</p><p>=&gt; Semoga bermanfaat</p><p></p>DETAIL JAWABAN :<p>=&gt; Mapel : B. Jepang </p><p>=&gt; Kelas  : XI ( SMA ) </p><p>=&gt; Materi : Arti kosa kata " Ohayou</p><p>                   Gozaimasu "</p><p>________________________________</p><br />
+                                            <h2 class="ez-toc-section" id="jawan-dari-salam-ohayou-gozaimasu-adalah-konnichiwaabohayou-gozaimasukonbanwa%d1%81oyasumimata-ashitae%e2%80%8b">
+                            31. Jawan dari salam "OHAYOU GOZAIMASU" adalah....Konnichiwaabohayou gozaimasukonbanwaсoyasumimata ashitae​</h2><br />
+                        <p>Jawaban dari salam "ohayou gozaimasu" adalah <strong>ohayou </strong><strong>gozaimasu </strong><strong>(</strong><strong>B)</strong><strong>.</strong></p><p></p>Pembahasan<p></p><p>Untuk respon dari おはようございます (ohayou gozaimasu) itu bisa おはよう (ohayou) saja atau bisa mengucapkan sapaan yang sama seperti yang sebelumnya lawan bicara katakan.</p><p></p><p><strong>Ohayou </strong><strong>gozaimasu</strong></p><p><strong>「</strong><strong>おはよう</strong><strong>ございます</strong><strong>」</strong></p><p>Maknanya yakni "selamat pagi" pukul untuk mengucapkan salam tersebut itu dimulai pada saat awal masuknya pagi (tengah malam) pada pukul 00.00 hingga saat menjelangnya siang pada pukul 11.00.</p><p></p><p>Kategori nuansa dari frasa おはようございます (ohayou gozaimasu) termasuk formal, berbeda dengan frasa おはよう (ohayou) yang masuk bentuk informal.</p><p></p><p>_ _ _ _ _ _ _ _ _</p><p></p><p>Berikut dibawah ini mengenai arti dari masing-masing opsi jawaban A, C, D, dan E. </p><p></p>A. こんにちは (kon'nichiwa) = "halo, selamat siang/sore" frasa salam formal.C. こんばんは (konbanwa) = "selamat sore/malam" bentuk salam formal juga.D. おやすみ (oyasumi) = "selamat tidur/istirahat" salam nuansa kasual.E. また明日 (mata ashlta) = "sampai jumpa besok" kata 明日 (ashlta) diartikan "besok." Merupakan sapaan penutup yang digunakan dimana kedua pihak tersebut akan kembali dalam keesokan harinya.<p></p><p>__________________</p><p></p>Pelajari Lebih Lanjut<p>Materi mengenai aisatsu : </p>https://brainly.co.id/tugas/3151100https://brainly.co.id/tugas/20020560https://brainly.co.id/tugas/42283223https://brainly.co.id/tugas/49917340<p></p>Detail Jawaban<p>Mapel : Bahasa Jepang</p><p>Kelas : X SMA</p><p>Bab : 7 - Aisatsu</p><p>Kode : 10.15.7</p><br />
+                                            <h2 class="ez-toc-section" id="mitsuko-berpisah-dengan-haruka-pada-malam-hari-ucapan-salam-yang-diucapkan-mitsuko-adalah-a-konbanwab-ohayou-gozaimasuc-arigato-gozaimasud-oyasumi-nasie-konnichiwa">
+                            32. Mitsuko berpisah dengan haruka pada malam hari. ucapan salam yang diucapkan Mitsuko adalah.... 
+a. Konbanwa
+b. Ohayou gozaimasu
+c. Arigato gozaimasu
+d. Oyasumi nasi
+e. Konnichiwa </h2><br />
+                        konbanwa artinya selamat malam<br />ohayou gozaimasu artinya selamat pagi<br />oyasumi nasai artinya selamat tidur/istirahat<br />konnichiwa artinya selamat siang<br />a. konbanwa. (selamat malam)<br />karena, jika:<br />b. ohayou: selamat pagi<br />c. arigatou: terimakasih<br />d. oyasumi: sama-sama selamat malam, tapi oyasumi lebih ke 'selamat tidur'<br />e. konnichiwa: selamat siang.<br />
+                                            <h2 class="ez-toc-section" id="buat-hiragana-dan-katakana-dari-ohayou-gozaimasu-dan-indonesia">
+                            33. buat hiragana dan katakana dari ohayou gozaimasu dan indonesia</h2><br />
+                        <p><strong>Ohayou gozaimasu</strong></p>Hiragana = おはようございますKatakana = オハヨウゴザイマスArti = Selamat pagi<p></p><p><strong>Indoneshia</strong></p>Hiragana = いんどねしあKatakana = インドネシアArti = Indonesia<p></p><p>| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |</p><p></p>Pendahuluan :<p></p><p><strong>Sistem Penulisan Bahasa Jepang</strong></p><p>Huruf yang digunakan di Jepang ada 3 jenis yaitu <strong>Hiragana</strong>, <strong>Katakana</strong>, dan <strong>Kanji</strong>. Saat menulis kalimat dalam Bahasa Jepang, huruf yang digunakan biasanya campuran dari huruf Kanji dan Hiragana. Bila ada kata-kata serapan, ditulis dalam huruf Katakana. Kalau <strong>Romaji</strong> itu hanya digunakan orang luar Jepang yang lebih terbiasa membaca huruf abjad (abcd), agar mudah membaca huruf Jepang.</p><p></p><p>| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |</p><p></p>Pembahasan :<p></p><p>Huruf yang saya bahas kali ini hanya huruf Kana saja, yang meliputi huruf Hiragana dan huruf Katakana.</p><p></p><p><strong>HIRAGANA「平仮名・ひらがな」</strong></p><p>Hiragana merupakan salah satu huruf Jepang yang memiliki beberapa kegunaan antara lain seperti untuk menulis kata-kata asli Jepang yang Kanjinya terlalu sulit atau tidak ada, untuk menulis partikel, untuk menulis Furigana (huruf untuk memudahkan cara baca Kanji), untuk menulis Okurigana (huruf yang mengakari Kanji), dan lain sebagainya. Huruf ini memiliki ciri yaitu garis-garis hurufnya yang kebanyakan melengkung dan lebih elegan.</p><p></p><p><strong>KATAKANA「片仮名・カタカナ」</strong></p><p>Katakana merupakan salah satu huruf Jepang yang memiliki beberapa kegunaan antara lain seperti untuk menulis kata-kata dari luar Jepang, untuk menulis kata-kata ilmiah, untuk memberi penekanan pada kata, untuk menulis onomatope, dan lain sebagainya. Huruf ini memiliki ciri yaitu garis-garis hurufnya yang kebanyakan lurus dan lebih kaku.</p><p></p><p>- - - - - - - </p><p></p><p>Hiragana dan Katakana memiliki banyak kesamaan, contohnya seperti masing-masing huruf nya hanya memiliki satu bunyi saja dan tidak memiliki arti, berbeda dengan Kanji yang berkebalikannya. Lalu jenis hurufnya juga sama-sama dibagi menjadi beberapa jenis yaitu Seion, Dakuon, Handakuon, dan Youon. Daftar hurufnya sebagai berikut.</p><p></p><p><strong>1. SEION「清音・せいおん」</strong></p><p>Jenis huruf ini biasa disebut juga sebagai huruf dasar, karena memang merupakan kumpulan huruf-huruf yang menjadi dasarnya. Hurufnya terdiri dari 48 huruf, antara lain sebagai berikut.</p><p></p><p><strong>Hiragana :</strong></p>あ い う え お (a - i - u - e - o)か き く け こ (ka - ki - ku - ke - ko)さ し す せ そ (sa - shi - su - se - so)た ち つ て と (ta - chi - tsu -te - to)な に ぬ ね の (na - ni - nu - ne - no)は ひ ふ へ ほ (ha - hi - fu - he - ho)ま み む め も (ma - mi - mu - me - mo)や ゆ よ (ya - yu - yo)ら り る れ ろ (ra - ri - ru - re - ro)わ ゐ ゑ を (wa - wi - we - wo)ん (n)<p></p><p><strong>Katakana :</strong></p>ア イ ウ エ オ (a - i - u - e - o)カ キ ク ケ コ (ka - ki - ku - ke - ko)サ シ ス セ ソ (sa - shi - su - se - so)タ チ ツ テ ト (ta - chi - tsu -te - to)ナ ニ ヌ ネ ノ (na - ni - nu - ne - no)ハ ヒ フ ヘ ホ (ha - hi - fu - he - ho)マ ミ ム メ モ (ma - mi - mu - me - mo)ヤ ユ ヨ (ya - yu - yo)ラ リ ル レ ロ (ra - ri - ru - re - ro)ワ ヰ ヱ ヲ (wa - wi - we - wo)ン (n)<p></p><p><strong>2. DAKUON「濁音・だくおん」</strong></p><p>Jenis huruf ini merupakan kumpulan huruf dasar deret [K-S-T-H] yang diberikan tanda Tenten (seperti tanda kutip), agar bunyi konsonannya berubah menjadi [G-Z-D-B]. Hurufnya terdiri dari 20 huruf, antara lain sebagai berikut.</p><p></p><p><strong>Hiragana :</strong></p>が ぎ ぐ げ ご (ga - gi - gu - ge - go)ざ じ ず ぜ ぞ (za - ji - zu - ze - zo)だ ぢ づ で ど (da - ji - dzu - de - do)ば び ぶ べ ぼ (ba - bi - bu - be - bo)<p></p><p><strong>Katakana :</strong></p>ガ ギ グ ゲ ゴ (ga - gi - gu - ge - go)ザ ジ ズ ゼ ゾ (za - ji - zu - ze - zo)ダ ヂ ヅ デ ド (da - ji - dzu - de - do)バ ビ ブ ベ ボ (ba - bi - bu - be - bo)<p></p><p><strong>3. HANDAKUON「半濁音・はんだくおん」</strong></p><p>Jenis huruf ini merupakan kumpulan huruf dasar deret [H] yang diberikan tanda Maru (lingkaran kecil), agar bunyi konsonannya berubah menjadi [P]. Hurufnya terdiri dari 5 huruf, antara lain sebagai berikut.</p><p></p><p><strong>Hiragana :</strong></p>ぱ ぴ ぷ ぺ ぽ (pa - pi - pu - pe - po)<p></p><p><strong>Katakana :</strong></p>パ ピ プ ペ ポ (pa - pi - pu - pe - po)<p></p><p><strong>4. YOUON「拗音・ようおん」</strong></p><p>Jenis huruf ini biasa disebut juga sebagai huruf campuran, karena huruf-hurufnya merupakan hasil campuran dari huruf dasar berbunyi i dengan huruf [Ya-Yu-Yo] berukuran kecil. Hurufnya terdiri dari 36 huruf, antara lain sebagai berikut.</p><p></p><p><strong>Hiragana :</strong></p>きゃ きゅ きょ (kya - kyu - kyo)ぎゃ ぎゅ ぎょ (gya - gyu - gyo)しゃ しゅ しょ (sha - shu - sho)じゃ じゅ じょ (ja - ju - jo)ちゃ ちゅ ちょ (cha - chu - cho)ぢゃ ぢゅ ぢょ (ja - ju - jo)にゃ にゅ にょ (nya - nyu - nyo)ひゃ ひゅ ひょ (hya - hyu - hyo)びゃ びゅ びょ (bya - byu - byo)ぴゃ ぴゅ ぴょ (pya - pyu - pyo)みゃ みゅ みょ (mya - myu - myo)りゃ りゅ りょ (rya - ryu - ryo)<p></p><p><strong>Katakana :</strong></p>キャ キュ キョ (kya - kyu - kyo)ギャ ギュ ギョ (gya - gyu - gyo)シャ シュ ショ (sha - shu - sho)ジャ ジュ ジョ (ja - ju - jo)チャ チュ チョ (cha - chu - cho)ヂャ ヂュ ヂョ (ja - ju - jo)ニャ ニュ ニョ (nya - nyu - nyo)ヒャ ヒュ ヒョ (hya - hyu - hyo)ビャ ビュ ビョ (bya - byu - byo)ピャ ピュ ピョ (pya - pyu - pyo)ミャ ミュ ミョ (mya - myu - myo)リャ リュ リョ (rya - ryu - ryo)<p></p><p>______________________________</p><p></p>Pelajari Lebih Lanjut :<p><strong>Soal-soal tentang huruf-huruf Jepang :</strong></p>brainly.co.id/tugas/5148765brainly.co.id/tugas/48924483brainly.co.id/tugas/48787190brainly.co.id/tugas/45608962<p></p><p>______________________________</p><p></p>Detail Jawaban :<p><strong>Mapel </strong>: Bahasa Jepang</p><p><strong>Kelas </strong>: 10 SMA</p><p><strong>Bab </strong>: 2 - Huruf</p><p><strong>Kode Soal</strong> : 15</p><p><strong>Kode Kategorisasi</strong> : 10.15.2</p><p><strong>Kata Kunci </strong>: Hiragana, Katakana, Ohayou gozaimasu, Indoneshia</p><p></p><p>______________________________</p><br />
+                                            <h2 class="ez-toc-section" id="2-kawasaki-suzuki-san-ohayou-gozaimasu-suzuki-ohayou-gozaimasu-kawasaki-suzuki-hai-genki-desu-a-konbanwad-mata-raisub-ogenki-desukae-konnichiwac-sayounara%e2%80%8b">
+                            34. 2. Kawasaki : Suzuki san, ohayou gozaimasu.Suzuki : Ohayou gozaimasu.Kawasaki :..?Suzuki : Hai, genki desu.a. Konbanwad. Mata Raisub. Ogenki desukae. Konnichiwac. Sayounara​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Jawabannya adalah A. Konbanwa</p><p><strong>Penjelasan:</strong></p><p>Kawasaki: Konbanwa</p><p>Suzuki: Hai, genki desu.</p><p></p><p>Correct me if i wrong..</p><p>Jawaban:</p><p>Jawaban yang sesuai dengan percakapan diatas adalah </p><p>b. Ogenki desuka</p><p></p><p>Penjelasan:</p><p></p><p>Kawasaki : Suzuki san, ohayou gozaimasu.</p><p>.................. =&gt; Selamat pagi, Suzuki </p><p>Suzuki : Ohayou gozaimasu.</p><p>................. =&gt; Selamat pagi</p><p>Kawasaki : Ogenki desuka. </p><p>................. =&gt; Apakah kamu baik-baik saja? </p><p>Suzuki : Hai, genki desu.</p><p>................ =&gt; Ya, saya baik-baik saja. </p><p></p><p>Genki =&gt; Sehat, baik (keadaan) </p><p></p><p>Maaf kalau ada kesalahan. </p><p>Semoga membantu. </p><br />
+                                            <h2 class="ez-toc-section" id="ohayou-gozaimasu-oyasuminasai">
+                            35. ohayou gozaimasu ... oyasuminasai ??</h2><br />
+                        === Jawaban ===<br /><br />Walaupun yang orang umum ketahui yakni "konnichiwa" sebagai "hai/halo", nyatanya di Jepang, pengucapan "salam" ini disesuaikan dengan jam waktunya. <br /><br />Selamat pagi / siang / sore / malam masuk kedalam sapaan "Hai" yang lazim. <br /><br />dan ada pula "halo" khusus di telepon. <br /><br />Dibawah ini saya akan menjelaskan mengenai "selamat pagi dan tidur " dan ucapan salam lainnya. <br /><br />-------------------------------------<br />▷P E M B A H A S A N ◁<br />-------------------------------------<br /><br />Jawaban: <br /><br />→ おはよう (ohayou) : Hai / Selamat Pagi. <br /><br />--&gt; kalimat ini diucpkan ketika pagi hari, yakni pada saat pukul 00.00 ~ 11.00 ✔<br />• Selagi matahari belum tepat 35° mendekati posisi atas kepala masih bisa mengucapkan kalimat sapaan ini <br /><br />--&gt; beberapa juga ada yang menyingkatnua menjadi おはー (ohaa) dan masuk dalam sapaan non formal. <br /><br />--&gt; ada pula bahasa gaul dari "hai" untuk pengganti "ohayou" adalah ボン (bon). <br />• Melihat kondisi Jepang, anak-anak muda di sana lebih menyukai Perancis karena bagi mereka itu merupakan negara dengan segudang cita2 mereka. <br />• Maka dari itu, "bon" diambil dari kata "bonjour" yang diadopsi dari bahasa Perancis. ✔<br />_________________<br /><br />→ こんにちは (konnichiwa) : Hai / Selamat Siang dan Malam <br /><br />--&gt; seperti yang dibilang sebelumnya, ini merupakan "hai" yang umum. <br />• Kalimat ini diucapkan dari pukul 11.00 hingga 17.00 <br /><br />--&gt; patokannya ialah saat matahari sudah berada di atas kepala hingga matahari akan terbenam.<br /><br />--&gt; ALASAN mengapa konnichiwa diucapkan ketika setiap waktu, ini hanya berlaku untuk yang saat kerja shift pagi / malam / sore dan juga di video. <br />• mengapa demikian? karena kalau di video kita ga tau kapan mereka menonton video nya, maka dari itu akan memakai "konnichiwa"<br />_____________<br /><br />→ こんばんは (konbanwa) : Selamat malam. <br /><br />--&gt; diucapkan dari pukul 17.00 / dari matahari terbenam hingga pukul 00.00 / pergi tidur. <br />_____________<br /><br />→ お休みなさい (oyasuminasai) : selamat tidur.<br /><br />--&gt; diucapkan ketika ingin pergi tidur. <br /><br />--&gt; dan biasanya di singkat menjadi お休み (oyasumi) <br /><br />Simak soal lebih lanjut mengenai oyasuminasai di sini; brainly.co.id/tugas/20680477<br />__________<br /><br />→ もしもし (moshi moshi) : Halo. <br /><br />--&gt; dan ini HANYA untuk ditelepon. Ini hanya digunakan di telepon / sosial media ketika chat. <br />• Tidak diperkenankan digunakan saat bersua / bertemu.<br />_____________________________<br /><br />Simak soal serupa di; <br />• brainly.co.id/tugas/18187992<br />• brainly.co.id/tugas/3816875<br />_____________________________<br /><br />Semoga membantu ✔<br />maaf bila kurang memuaskan. <br />_____________________________<br /><br />♔ Kategori umum: <br />||N5 Level A ||<br />Bab: 1<br /><br />♕ Kategori sekolah: <br />Kelas: 10 SMA<br />Semester: 1<br />Bab: 7<br />Sub Bab: 挨拶 (aisatsu) / salam.<br />Kunci soal: selamat pagi / siang / sore / malam <br />Kode soal: 15<br />Kode kategorisasi : 10.15.7<br />____________________________<br /><br />Pembahasan:<br />• 挨拶 (aisatsu) : salam.<br />____________________________<br />
+                                            <h2 class="ez-toc-section" id="tolong-artikan-ke-bahasa-indonesia-ohayou-gozaimasu-hajimemashite-watashi-wa-budi-san-desu-douzo-yoroshiku">
+                            36. tolong artikan ke bahasa indonesia !
+
+ohayou gozaimasu, hajimemashite watashi wa budi san desu, douzo yoroshiku 
+</h2><br />
+                        selamat paagi, perkenalkan nama saya budi.senang berkenalan denganmu.Selamat Pagi! Pertama-tama , Perkenalkan nama saya adalah Budi. Senang bertemu dengan anda. <br />
+                                            <h2 class="ez-toc-section" id="ubah-ke-huruf-hiraganaohayou-gozaimasuhajime-mashite-watashi-no-name-was-doniwatashino-kazoku-wa-go-nin-imasu-imouto-ga-hitori-otouto-hitori-imasuarigatou-gozaimasu">
+                            37. ubah ke huruf hiraganaOhayou gozaimasuhajime mashite watashi no name was doniwatashino kazoku wa go nin imasu imouto ga hitori otouto hitori imasuarigatou gozaimasu</h2><br />
+                        1. おはよ ございます<br />2. はじめまして わたし の なまえ わ どに です<br />3. わたし の かずこ わ ご にん います<br />4. いもうと が ひとり おとうと ひとり います<br />5. ありがとう ございます<br />
+                                            <h2 class="ez-toc-section" id="bahasa-jepang-nya-terimakasih-sopan-adalah-a-ohayou-gozaimasub-arigatouc-konnichiwad-arigatou-gozaimasu%e2%80%8b">
+                            38. bahasa jepang nya terimakasih (sopan) adalah.. a) ohayou gozaimasub) arigatouc) konnichiwad) arigatou gozaimasu​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>d. arigatou gozaimasu</p><p><strong>Penjelasan:</strong></p><p>artinya terima kasih</p><p></p><p>semoga membantu</p><p>jangan lupa jadikan jawaban tercerdas ya    </p><p> ^_^</p><p><strong>Jawaban:</strong></p><p>D. Arigatou gozaimasu..</p><p><strong>Penjelasan:</strong></p><p>Smoga membantuu^_^</p><br />
+                                            <h2 class="ez-toc-section" id="arti-ohayou-gozaimasu%e2%80%8b">
+                            39. arti ohayou gozaimasu​</h2><br />
+                        ╭┈─────── ೄྀ࿐ ˊˎ╰┈─➤ Jawaban<p>Selamat pagi</p>╭┈─────── ೄྀ࿐ ˊˎ╰┈─➤ Penjelasan<p>- おはようございます [Ohayougozaimasu] : Selamat pagi. おはようございます [Ohayougozaimasu] adalah ucapan salam yang diucapkan pada pagi hari. <strong>Ohayoug</strong><strong>o</strong><strong>z</strong><strong>aimasu</strong><strong> </strong><strong>diucapkan</strong><strong> </strong><strong>jam</strong><strong> </strong><strong>1</strong><strong>2</strong><strong> </strong><strong>malam</strong><strong> </strong><strong>lewat</strong><strong> </strong><strong>sampai</strong><strong> </strong><strong>jam</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>.</strong><strong>0</strong><strong>0</strong></p><p>おはようございます 「Ohayou Gozaimasu」<strong>S</strong><strong>e</strong><strong>l</strong><strong>a</strong><strong>m</strong><strong>a</strong><strong>t</strong><strong> </strong><strong>Pagi</strong><strong> </strong></p><p></p>Pembahasan<p>挨拶 「あいさつ」Aisatsu Memiliki arti Sapaan atau Salam</p><p></p><p></p><p>Untuk Bertanya Tentang Kabar:</p><p></p>お元気ですか? ( O Genki desu ka ? ) Apa Kabar ?お元気か? ( O Genki ka ? )元気か? ( Genki ka )<p>• Arti :Apakah Sehat ?</p><p></p><p>Ucapan Selamat :</p><p></p>お誕生日おめでとうございます! ( O tanjoubi omedetou Gozaimasu ) ! Selamat Ulang Tahunお誕生日! ( O tanjoubi )誕生日! ( Tanjoubi )お誕生日おめでとう! ( O tanjoubi omedetou ! )おめでとうございます! ( Omedetou Gozaimasu ) Selamat!新年あけましておめでとうございます ( Shinen akemashlte omedetou Gozaimasu ) Selamat Tahun baru!Informal: あけましておめでとう/+ございます ( Akemashlte omedetou /+ Gozaimasu ) Selamat Tahun baru!<p></p><p>Selengkapnya di: <strong>htt</strong><strong>ps</strong><strong>:</strong><strong>/</strong><strong>/</strong><strong>b</strong><strong>rainly.co.id/tugas/37284494</strong></p><p>________________________________</p><p></p>Penjelasan<p>________________________________</p><p></p>Beberapa Aisatsuおはようございます ( Ohayou Gozaimasu ) Selamat Pagiおはよう ( Ohayou ) Pagi *Informalおはー ( Ohaa ) Pagiiこんにちは ( Konnichiwa ) Halo , Selamat Siang, Selamat Soreこんばんは ( Konbanwa ) Selamat Malamお休みなさい ( Oyasuminasai ) Selamat Tidurもしもし ( Moshi-Moshi ) Halo *Hanya diucapkan di Telepon<p></p><p>Beberapa Ucapan Perpisahan</p><p></p>さようなら ( Sayounara ) Sampai Jumpa *Untuk jangka waktu yang lamaまた明日 ( Mata Ashlta ) Sampai Jumpa Besokじゃまたね ( Ja mata ne ) Sampai jumpaありがとう ( Arigatou ) Terima kasih *Informalどうも ( Doumo ) Halo , Makasihごめん ( Gomen ) Maaf * Informal , Bentuk Formal dari kata ini adalah "Gomennasai"Selamat Pagiおはようございます「Ohayou Gozaimasu 」 Arti Selamat Pagi<p></p>Ohayou Gozaimasu bisa disingkat menjadi "Ohayou" atau "Ohaa"<p></p>おはー ( Ohaa )<p>Biasanya digunakan oleh anak-anak muda , termasuk dalam kategori Non Formal , Pelesetan dari kata "Ohayou Gozaimasu''</p><p></p><p>｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜｜</p><p></p>Selamat Malam<p>こんばんは 「Konbanwa」Arti Selamat Malam</p><p></p><p>"Konban" (今晩)memiliki arti "Malam ini pada kata "Ban ( 晩 )" Memiliki arti malam sedangkan, "wa" merupakan partikel</p><p></p>時間 「じかん」Jikan Waktu午前 「ごぜん」Gozen Pagi , A.m午後 「ごご」Gogo Sore , P.M今 「いま」Ima Sekarang朝 「あさ」Asa Pagi昼 「ひる」Hiru Siang夕方 Yuugata Sore hari , Senja夜 「よる」Yoru , 晩「ばん」Ban Malam<p></p>Selamat Tidur<p>お休みなさい 「Oyasuminasai」Arti Selamat Tidur</p><p></p><p>     Selamat Tidur: Oyasumi atau Oyasumi-Nasai Lengkapnya , Keduanya Memiliki arti yaitu Selamat Tidur , ( Yasumi ) Memiliki arti Istirahat Dalam bahasa Indonesia , ( Nasai ) Memiliki makna Perintah</p><p></p><p>========================</p><p></p>Mengucapkan Halo ketika di Telepon<p>もしもし ( Moshi-Moshi ) Arti Halo</p><p></p>Hanya diucapkan di TeleponMoshi-Moshi harus diucapkan Dua Kali , Tidak boleh hanya diucapkan Satu kali<p>。。。。。。。。。。。。。。。。。</p><p></p>Catatan<p>Pada Penulisan kata "Konnichiwa" "Konbanwa'' Kita Menuliskan kata-kata tersebut Menjadi "Konnichiha" dan "Konbanha"</p><p></p><p>Huruf Wa Menjadi Ha</p><p></p><p>わ &lt;=&gt; は</p><p></p>Jadi, Penulisan こんにちわ ( Konnichiwa ) yang Menggunakan wa Itu Salah Sedangkan,Penulisan こんにちは ( Konnichiwa ) yang Menggunakan Ha Dianggap Benar<p></p>Sistem Penulisan: <strong>brainly.co.id/tugas/40836924</strong><p>____________________________________</p><p></p>Pelajari Lebih Lanjut<p></p><p>挨拶 「あいさつ」Aisatsu - Selamat Pagi - Selamat Tidur</p><p></p>brainly.co.id/tugas/40469137brainly.co.id/tugas/35664294brainly.co.id/tugas/36459013<p>_____________________________</p><p></p>Detail Jawaban<p>Kategori Umum :</p><p></p><p>N5 Level A Bab 1 ‖ Sub Bab : Ungkapan</p><p></p><p>＿＿＿＿＿＿＿＿＿</p><p></p><p>Kategori sekolah:</p><p></p><p>Mapel: Bahasa Jepang</p><p>Kelas: 10</p><p>Materi: Aisatsu</p><p>Bab: 7</p><p>Semester: 1</p><p>Kata kunci: Aisatsu</p><p>Kode soal: 15</p><p></p><p>Kode kategori: 10.15.7</p><p></p><p>≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡</p><p></p><p>Pembahasan</p><p></p>Aisatsu<p>_____________________________</p><br />
+                                            <h2 class="ez-toc-section" id="apa-artinya-ohayou-gozaimasu">
+                            40. apa artinya ohayou gozaimasu </h2><br />
+                        <strong>ohayou gozaimasu = selamat pagi</strong><br /><br />#maafkalosalah<br />selamat pagi, ggod morning<br /><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/q_3Tg-Wmkfk?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_jepang</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sikologis/">Sikologis</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/arti-azamta/">Arti Azamta</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagian-dari-suatu-piramida-makanan-yang-mempunyai-massa-terbanyak-adalah/">Bagian Dari Suatu Piramida Makanan Yang Mempunyai Massa Terbanyak Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fcg-adalah/">Fcg Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hubungan-gaya-dan-gerak-pada-peristiwa-menimba-adalah/">Hubungan Gaya Dan Gerak Pada Peristiwa Menimba Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/awanna-be-with-you-artinya/">Awanna Be With You Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fleksibel-adalah-brainly/">Fleksibel Adalah Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/-/"></a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/aqidah-islam-membimbing-umatnya-agar/">Aqidah Islam Membimbing Umatnya Agar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ciri-batu-uranium/">Ciri Batu Uranium</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/danau-singapura/">Danau Singapura</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/meet-n-greet/">Meet N Greet</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/psas/">Psas</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-biosolar-b30-dibuat/">Bagaimana Biosolar B30 Dibuat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5-juta-berapa-nol/">5 Juta Berapa Nol</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/rangkaian-tertutup/">Rangkaian Tertutup</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kunci-jawaban-mtk-kls-7-semester-1/">Kunci Jawaban Mtk Kls 7 Semester 1</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-tujuan-negara-republik-indonesia-brainly/">Apa Tujuan Negara Republik Indonesia Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pengertian-seni-grafis/">Pengertian Seni Grafis</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/promosi-secara-langsung-dapat-dilakukan-di/">Promosi Secara Langsung Dapat Dilakukan Di</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

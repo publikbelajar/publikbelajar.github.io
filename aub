@@ -1,0 +1,1514 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Aub - BELAJAR</title>
+    <meta name="description" content="Aub, , , , , , , 0, Pin on AUB, www.pinterest.com, 1280 x 720, jpeg, , 20, aub, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Aub - BELAJAR" />
+    <meta property="og:description" content="Aub, , , , , , , 0, Pin on AUB, www.pinterest.com, 1280 x 720, jpeg, , 20, aub, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Aub - BELAJAR" />
+    <meta name="twitter:description" content="Aub, , , , , , , 0, Pin on AUB, www.pinterest.com, 1280 x 720, jpeg, , 20, aub, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Aub</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">melrosadhea</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Aub" alt="Aub">
+                    </div>
+                    <p></p>
+                    <p>buktikan hukum identitas AU(AUB) AUB​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buktikan-hukum-identitas-auaub-aub%e2%80%8b">1.
+                                            buktikan hukum identitas AU(AUB) AUB​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#anb-aub-anc-anc-aub-anbnc-aubuc%e2%80%8b">2.
+                                            Anb= AuB= ANC= (ANC)'= (AuB)'= (AnBnC)'= (AuBuc)'=​ </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-sbilangan-cacah-kurang-dari-11-axxepx10p-bilangan-prima-b579-tentukan-a-a%e2%80%98-b-b%e2%80%98-c-anb%e2%80%98-d-aub%e2%80%98-e-anaub-f-b%e2%80%98naub-g-aubnaub">3.
+                                            diketahui s={bilangan cacah kurang dari 11 } a={x\x€p,x&lt;10,p bilangan prima} b={579} tentukan a.A‘ b.B‘ c.(AnB)‘ d.(AuB)‘ e.An(AUB)' f.B‘n(AuB) g.(AuB)'n(AuB)‘ h.(A'nB)'u(AuB')'</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-dari-anb-dan-aub">4.
+                                            Apa arti dari (AnB)' dan (AuB)'?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-maksudnya-aub-jelaskan">5.
+                                            apa maksudnya (AUB) ?jelaskan!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#20-perhatikan-diagram-venn-berikut-bagian-yang-diwarnai-pada-diagramvenn-tersebut-adalah-a-aub-n-a-bb-aub-an-bc-aub-n-b-ad-anb-aub%e2%80%8b">6.
+                                            20. Perhatikan diagram Venn berikut.Bagian yang diwarnai pada diagramVenn tersebut adalah ...A. (AUB) n (A - B)B. (AUB) - (An B)C. (AUB) n (B - A)D. (ANB) - (AUB)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#maka-aubbantuin-dong">7.
+                                            Maka AuB=
+Bantuin dong</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#20-perhatikan-diagram-venn-berikuts%d0%b0-abbagian-yang-diwarnai-pada-diagramvenn-tersebut-adalah-a-aub-n-a-bb-aub-an-bc-aub-n-b-ad-anb-aub%e2%80%8b">8.
+                                            20. Perhatikan diagram Venn berikutSА ABBagian yang diwarnai pada diagramVenn tersebut adalah ...A. (AUB) n (A - B)B. (AUB) - (An B)C. (AUB) n (B-A)D. (ANB) - (AUB)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-aub-maka-aubna-adalah">9.
+                                            Jika AUB, maka AU(BnA) adalah.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#aubhartinakalimahna%e2%80%8b">10.
+                                            aub:Hartina:kalimahna​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#daerah-yang-diarsir-pada-gambar-dibawah-menunjukkan-himpunana-aubc-aubb-abd-aubmohon-dijawab-ya-%e2%80%8b">11.
+                                            Daerah yang diarsir pada gambar dibawah menunjukkan himpunanA. AUBC. AUBB. ABD. (AUB)mohon dijawab ya ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-aubi-societas">12.
+                                            apa arti aubi societas</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nilai-naub-adalah-%e2%80%8b">13.
+                                            Nilai n(AUB) adalah...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-anb-aub-%e2%80%8b">14.
+                                            Tentukan AnB =AuB =​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#yang-merupakan-anggota-dari-au-b-pada-diagram-venn-di-bawah-ini-adalaha-aub-23567b-aub123567c-aub-11-2-3-4-5-7-1d-aub-1-2-3-4-5-6-7-8-9%e2%80%8b">15.
+                                            Yang merupakan anggota dari AU B pada diagram venn di bawah ini adalahA. AUB= 2,3,5,6,7)B. AUB=(1,2,3,5,6,7)C. AUB 11.2, 3, 4, 5, 7, 1D. AUB = [1, 2, 3, 4, 5, 6, 7, 8, 9)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-a-aub-tex-b-aubc-tex%e2%80%8b">16.
+                                             Tentukan a AUB [tex] b \:  {aub}^{c} [/tex]​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-aub-maka-a-dan-b-%e2%80%8b">17.
+                                            Jika AUB = {}, maka A= {} dan B = {}​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#latihan-misalkan-a-b-dan-c-adalah-himpunan-gunakan-hukum-hukum-aljabar-himpunan-dan-prinsip-dualitas-untuk-menentukan-hasil-dari-operasi-himpunan-a-anbuanbuanbuanb-b-aubnaubauba">18.
+                                            Latihan. Misalkan A, B, dan C adalah himpunan. Gunakan hukum-hukum aljabar himpunan dan prinsip dualitas untuk menentukan hasil dari operasi himpunan (a) (AnB)u(ANB)u(ANB)u(ANB) (b) (AUB)n(AUB)(AUB)(AUB) ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-penjelasan-aubb">19.
+                                            apa penjelasan AUB=B</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-bantu-saya-diketahui-s-123456789101112a-12345b-256789tentukan-bulat-diagram-venna-b-aub-komplemen-aub-anb%c2%a9-aub%c2%a9">20.
+                                            Tolong bantu saya :"))
+Diketahui :
+S = 1,2,3,4,5,6,7,8,9,10,11,12
+A = 1,2,3,4,5
+B = 2,5,6,7,8,9
+Tentukan Bulat Diagram Venn
+A =
+B =
+aUb =
+Komplemen :
+aub =
+(anb)© =
+(aub)© =</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#a-123456-b-237911bentukan-a-aubb-anbc-aub-n-anb">21.
+                                            a= {1,2,3,4,5,6} 
+b= { 2,3,7,9,11}
+Bentukan a. aUb
+b. aNb
+c. ( aUb) n ( aNb) </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tentukan-bilanganaub">22.
+                                            Tentukan bilangan(AuB)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#himpunan-cacah-aub-adalah">23.
+                                            Himpunan Cacah aub adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-maksud-dari-aub">24.
+                                            apa maksud dari (AuB) </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-diketahuis-bilangan-cacah-kurang-dari-11a-xx-e-p-x-10-p-bilangan-primab-579tentukana-ab-bc-an-bd-aube-an-aubf-bon-aubg-aub-n-aubh-aon-b-u-aub%e2%80%8b">25.
+                                            2. DiketahuiS = {bilangan cacah kurang dari 11}A = {x|x € P, x&lt; 10, P bilangan prima}B = {5,7,9)Tentukana. Ab. Bc. (An B)d. (AUB)e. An (AUB)f. Bºn (AUB)g. (AUB) n (AUB)h. (Aºn B) U (AUB)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-dari-aub-dan-anb">26.
+                                            apa arti dari AuB dan AnB?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-naub">27.
+                                            Apa yang dimaksud dengan    n(AUB)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-matematika-aub%e2%80%8b">28.
+                                            apa arti matematika aub​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kalau-aub-itu-maksudnya-apa">29.
+                                            Kalau AUB ITU MAKSUDNYA APA</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#maka-nilai-aub-yaitu">30.
+                                            Maka Nilai AUB Yaitu?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berdasarkan-diagram-venn-di-atas-tentukana-a%cf%80b-b-aub-c-a%cf%80b%c2%a9-d-aub%c2%a9-%e2%80%8b">31.
+                                            Berdasarkan diagram venn di atas tentukana. AΠB={   }b. AUB={   }c. (AΠB)©={   }d. (AUB)©={   }​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-aubi-societas">32.
+                                            apa arti aubi societas</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-diketahuis-bilangan-cacah-kurang-dari-11a-xxe-p-x-10-p-bilangan-primab-5-79tentukana-acb-bcanbcd-aubce-an-aubcf-bcn-aubg-aubcnaubch-anbcu-aubc%e2%80%8b">33.
+                                            2. DiketahuiS = {bilangan cacah kurang dari 11}A = {x|x€ P, x &lt; 10, P bilangan primaB = {5, 7,9}Tentukana. Acb. Bc(AnB)cd. (AuB)ce. An (AuB)cf. Bcn (AuB)g. (AUB)cn(AUB)ch. (AnB)cU (AUB)c​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#naub45n-a27naub10nb">34.
+                                            n(aub)=45,n( a)=27,n(aub)=10,n(b)=...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-s-12345678910-a-2357-b-12345-tentukan-aub-dan-naub-%e2%80%8b">35.
+                                            Diketahui : S = {1,2,3,4,5,6,7,8,9,10} A = {2,3,5,7) B = {1,2,3,4,5) Tentukan (AUB) dan n(AUB)...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#himpunan-dari-komponen-aub-adalah">36.
+                                            Himpunan dari komponen  ( AUB ) adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-himpunan-a1234-10-b-2468maka-a-aub-adalah-baub-adalah-%e2%80%8b">37.
+                                            Diketahui Himpunan A=[1,2,3,4.....10] B= [2,4,6,8]maka :a [AuB] adalah....             b[AuB] adalah.... ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kenapa-aub-jawabanya-a">38.
+                                            kenapa AUB jawabanya A?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#a23-b8-anb7-aub-n-irisan-u-union-berapa-aub">39.
+                                            A=23 B=8 AnB=7 AUB=...n= irisan U= union berapa aub? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#a456-b01234tentukan-a-aub-b-apakah-aubanb-c-apakah-anb">40.
+                                            A={4,5,6} B={0,1,2,3,4}
+tentukan a. AUB
+                 b.apakah AUB=AnB
+                c. apakah AnB </a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="buktikan-hukum-identitas-auaub-aub%e2%80%8b">
+                            1. buktikan hukum identitas AU(AUB) AUB​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>(A U B) adalah pergabungan dari bilangan yang diinginkan(Contoh A dan B) Pangkat c adalah bagian luar yang tidak di masukan dalam bilangan. Pangkat c tidak dapat ditemukan karena tidak adanya penjelasan semesta (bilangan yang ada selain bilangan yang dipilih).</p><p></p><p>maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="anb-aub-anc-anc-aub-anbnc-aubuc%e2%80%8b">
+                            2. Anb= AuB= ANC= (ANC)'= (AuB)'= (AnBnC)'= (AuBuc)'=​ </h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p><strong>Penjelasan:</strong></p><p>A ∩ B = {10, 15}</p><p>A ∪ B = {9, 10, 11, 12, 13, 14, 15, 16}</p><p>A ∩ C = {15, 16}</p><p>(A ∩ C)' = {9, 10, 11, 12, 13, 14, 17, 18, 19, 20}</p><p>(A ∪ B)' = {17, 18, 19, 20}</p><p>(A ∩ B ∩ C)' = {9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20}</p><p>(A ∪ B ∪ C)' = {20}</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-sbilangan-cacah-kurang-dari-11-axxepx10p-bilangan-prima-b579-tentukan-a-a%e2%80%98-b-b%e2%80%98-c-anb%e2%80%98-d-aub%e2%80%98-e-anaub-f-b%e2%80%98naub-g-aubnaub">
+                            3. diketahui s={bilangan cacah kurang dari 11 } a={x\x€p,x&lt;10,p bilangan prima} b={579} tentukan a.A‘ b.B‘ c.(AnB)‘ d.(AuB)‘ e.An(AUB)' f.B‘n(AuB) g.(AuB)'n(AuB)‘ h.(A'nB)'u(AuB')'</h2><br />
+                        <p>Kelas : VII (1 SMP)</p>
+
+<p>Materi : Himpunan</p>
+
+<p>Kata Kunci :
+himpunan, anggota</p>
+
+<p><br />
+Pembahasan :<br />
+Himpunan adalah kumpulan obyek yang
+didefinisikan dengan jelas.</p>
+
+<p><br />
+Obyek yang termasuk dalam suatu himpunan
+dinamakan anggota dari himpunan tersebut.</p>
+
+<p><br />
+Suatu himpunan di tulis dengan menggunakan pasangan kurung
+kurawal dan anggota himpunan di tulis di antara pasangan kurung kurawal tersebut.</p>
+
+<p><br />
+Anggota suatu himpunan dinyatakan dengan
+lambang ∈, sedangkan bukan anggota suatu himpunan dinyatakan dengan lambang ∉. Anggota yang sama dalam suatu himpunan hanya ditulis satu kali.</p>
+
+<p><br />
+Himpunan diberi nama dengan menggunakan huruf
+kapital. Misalnya A, B, dan lainnya.</p>
+
+<p> </p>
+
+<p>Suatu himpunan dapat dinyatakan dengan 3 cara, yaitu :</p>
+
+<p>a.   Dengan kata-kata. Dengan cara menyebutkan syarat atau sifat keanggotaannya.</p>
+
+<p>b.   Dengan notasi pembentuk himpunan. Dengan cara menyebutkan
+syarat atau sifat keanggotaannya, namun anggota himpunan dinyatakan dengan
+suatu variabel.</p>
+
+<p>c.   Dengan mendaftar anggota-anggotanya. Dengan cara menyebutkan
+anggota-anggotanya, menuliskannya dengan menggunakan kurung kurawal, dan
+anggota-anggotanya dipisah dengan tanda koma.<br /><br /></p>
+
+<p>Banyaknya anggota himpunan A dinamakan kardinalitas dari himpunan A yang dinyatakan dengan
+notasi n(A) atau |A|.</p>
+
+<p><br />
+Himpunan kosong adalah himpunan yang tidak
+memiliki anggota yang notasinya { } atau ∅.</p>
+
+<p><br />
+Himpunan semesta adalah himpunan yang memuat
+semua anggota himpunan yang sedang dibicarakan yang notasinya S.</p>
+
+<p><br />
+Irisan himpunan A dan B adalah himpunan yang
+anggotanya berasal dari A yang juga menjadi anggota B yang notasinya A ∩ B = {x|x ∈ A dan x ∈ B}.</p>
+
+<p><br />
+Gabungan himpunan A dan B adalah himpunan yang
+anggotanya berasal dari A atau B atau keduanya yang notasinya A ∪ B = {x|x ∈ A atau x ∈ B}.</p>
+
+<p><br />
+Himpunan A dikatakan himpunan bagian dari
+himpunan B bila setiap anggota himpunan A adalah anggota himpunan B yang
+notasinya A ⊂ B.</p>
+
+<p> </p>
+
+<p>Himpunan kuasa dari himpunan A adalah himpunan yang
+memuat semua himpunan bagian dari A yang notasinya P(A).</p>
+
+<p><br />
+Komplemen dari himpunan A yang dimuat himpunan
+semesta S adalah himpunan anggota S yang tidak dimuat di A yang notasinya A'.</p>
+
+<p><br /></p><p>Mari kita lihat soal tersebut.</p>Diketahui S = {bilangan cacah kurang dari 11}, A = {x| x &lt; 10, x ∈ bilangan prima}, dan B = {5, 7, 9}. Tentukan:<br />a. A' <br />b. B' <br />c. (A ∩ B)' <br />d. (A ∪ B)'<br />e. A ∩ (A U B)' <br />f. B‘ ∩ (A ∪ B) <br />g. (A ∪ B)' ∩ (A ∪ B)'<br />h. (A' ∩ B)' ∪ (A ∪ B')'<br /><br />Jawab :<br />S = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}<br />A = {2, 3, 5, 7}<br />B = {5, 7, 9}<br /><br />a. A' = {0, 1, 4, 6, 8, 9, 10}.<br /><br />b. B' = {0, 1, 2, 3, 4, 6, 8, 10}.<br /><br />A ∩ B = {2, 3, 5, 7} ∩ {5, 7, 9} = {5, 7}.<br /><br />c. (A ∩ B)' = {0, 1, 2, 3, 4, 6, 8, 9, 10}.<br /><br />A ∪ B = {2, 3, 5, 7} ∪ {5, 7, 9} = {2, 3, 5, 7, 9}.<br /><br />d. (A ∪ B)' = {0, 1, 4, 6, 8, 10}.<br /><br />e. A ∩ (A U B)' = {2, 3, 5, 7} ∩ {0, 1, 4, 6, 8, 10} = ∅.<br /><br />f. B' ∩ (A ∪ B) = {0, 1, 2, 3, 4, 6, 8, 10} ∩ {2, 3, 5, 7, 9} = {2, 3}.<br /><br />g. (A ∪ B)' ∩ (A ∪ B)' = {0, 1, 4, 6, 8, 10} ∩ {0, 1, 4, 6, 8, 10} = {0, 1, 4, 6, 8, 10}.<br /><br />A' ∩ B = {0, 1, 4, 6, 8, 9, 10} ∩ {5, 7, 9} = {9}.<br /><br />(A' ∩ B)' = {0, 1, 2, 3, 4, 5, 6, 7, 8, 10}.<br /><br />h. (A' ∩ B)' ∪ (A ∪ B')' = {0, 1, 2, 3, 4, 5, 6, 7, 8, 10} ∪ {0, 1, 4, 6, 8, 10} = {0, 1, 4, 6, 8, 10}.<br /><br />Semangat!<br />
+                                            <h2 class="ez-toc-section" id="apa-arti-dari-anb-dan-aub">
+                            4. Apa arti dari (AnB)' dan (AuB)'?</h2><br />
+                        <p><strong>KUMMIS</strong><strong> </strong><strong>"</strong><strong>Kupas</strong><strong> </strong><strong>Misteri</strong><strong> </strong><strong>Bersama</strong><strong> </strong><strong>Miss</strong><strong>"</strong></p><p>Miss, apa ya artinya AnB dan Aub? Miss akan jelaskan ya.. lihat penjelasan dibawah ini! </p><p></p><p><strong>Himpunan</strong> adalah kumpulan benda atau obyek yang memiliki definisi yang jelas atau dengan kata lain <strong>memiliki batasan-batasan yang jelas.</strong></p><p></p><p><strong>Himpunan semesta adalah himpunan yang memuat semua anggota himpunan</strong> yang sedang dibicarakan yang notasinya S.</p><p></p><p><strong>Irisan himpunan A dan B adalah himpunan yang anggotanya berasal dari A </strong>yang juga menjadi anggota B yang notasinya A ∩ B</p><p></p><p><strong>Gabungan himpunan A dan B adalah himpunan yang anggotanya berasal dari A atau B </strong>atau keduanya yang notasinya A ∪ B</p><p></p><p>Dalam Himpunan berlaku rumus</p><p></p><p>n(S) = n(A) + n(B) - n(A∩B) + n(A∪B)'</p><p></p><p></p>Ditanya:<p>apa arti dari A∪B dan A∩B?</p><p></p>Jawab:<p></p><p>Arti A∪B  ↓</p><p></p><p>Gabungan himpunan A dan B adalah himpunan yang anggotanya berasal dari A atau B atau keduanya</p><p></p><p>Contoh:</p><p></p><p>anggota A = {1, 2, 3, 4, 5}</p><p></p><p>anggota B = {4, 5, 6, 7, 8, 9, 10}</p><p></p><p>A∪B  = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}</p><p></p><p></p><p>Arti A∩B ↓</p><p></p><p>Irisan himpunan A dan B adalah himpunan yang anggotanya berasal dari A yang juga menjadi anggota B</p><p></p><p>Contoh:</p><p></p><p>anggota A = {1, 2, 3, 4, 5}</p><p></p><p>anggota B = {4, 5, 6, 7, 8, 9, 10}</p><p></p><p>A∩B = {4, 5}</p><br />
+                                            <h2 class="ez-toc-section" id="apa-maksudnya-aub-jelaskan">
+                            5. apa maksudnya (AUB) ?jelaskan!</h2><br />
+                        <strong>Ini materi himpunan kah ?</strong><br /><br /><br /><strong>A U B = Himpunan A digabungkan dengan himpunan B.</strong><br /><strong>Contoh :</strong><br /><br /><strong>A = { 1 , 3 , 5 , 7 }</strong><br /><strong>B = { 2 , 4 , 6 , 8 }</strong><br /><strong>A U B = { 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 }</strong>mungkin yang dimaksud A U B = A gabungan B<br />jadi, itu ada di diagram venn<br />saya beri contoh gambarnya = <br />yang diwarnai hijau adalah gabungannya, jadi gabungan adalah kumpulan / total semua anggota yang berada di dalam lingkaran tersebut<br /><br />
+                                            <h2 class="ez-toc-section" id="20-perhatikan-diagram-venn-berikut-bagian-yang-diwarnai-pada-diagramvenn-tersebut-adalah-a-aub-n-a-bb-aub-an-bc-aub-n-b-ad-anb-aub%e2%80%8b">
+                            6. 20. Perhatikan diagram Venn berikut.Bagian yang diwarnai pada diagramVenn tersebut adalah ...A. (AUB) n (A - B)B. (AUB) - (An B)C. (AUB) n (B - A)D. (ANB) - (AUB)​</h2><br />
+                        <p>Jawab:</p><p>A</p><p>Penjelasan dengan langkah-langkah:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="maka-aubbantuin-dong">
+                            7. Maka AuB=
+Bantuin dong</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A u B = {2,3,5,6,7,8,9}</p><p>jawabannya adalah <strong> </strong><strong>C</strong></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>A = { 2,3,5,7 }</p><p>B = { 6,7,8,9 }</p><p>u merupakan himpunan gabungan, yaitu himpunan yang anggotanya terdiri dari anggota A atau anggota B.</p><p>maka A u B = {2,3,5,6,7,8,9}</p><p>apabila ada angka yang sama Misal. 7 maka cukup ditulis sekali ya.</p><p></p><p>jika kamu paham dengan jawabannya jangan lupa jadikan yang terbaik yah&gt;\&lt;</p><br />
+                                            <h2 class="ez-toc-section" id="20-perhatikan-diagram-venn-berikuts%d0%b0-abbagian-yang-diwarnai-pada-diagramvenn-tersebut-adalah-a-aub-n-a-bb-aub-an-bc-aub-n-b-ad-anb-aub%e2%80%8b">
+                            8. 20. Perhatikan diagram Venn berikutSА ABBagian yang diwarnai pada diagramVenn tersebut adalah ...A. (AUB) n (A - B)B. (AUB) - (An B)C. (AUB) n (B-A)D. (ANB) - (AUB)​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>ari kita lihat soal tersebut.
+</p><p>
+</p><p>Perhatikan gambar terlampir.
+</p><p>
+</p><p>S = {2, 3, 5, 7, 18, 20, 25}.
+</p><p>
+</p><p>Banyaknya anggota S adalah n(S) = 7.
+</p><p>
+</p><p>
+</p><p>
+</p><p>A = {2, 5, 7, 20}.
+</p><p>
+</p><p>Banyaknya anggota A adalah n(A) = 4.
+</p><p>
+</p><p>
+</p><p>
+</p><p>B = {2, 3, 7, 25}.
+</p><p>
+</p><p>Banyaknya anggota B adalah n(B) = 4.
+</p><p>
+</p><p>
+</p><p>
+</p><p>C = {2, 3, 5, 18}.
+</p><p>
+</p><p>Banyaknya anggota C adalah n(C) = 4.
+</p><p>
+</p><p>
+</p><p>
+</p><p>A' = {3, 18, 25}.
+</p><p>
+</p><p>Banyaknya anggota A' adalah n(A') = 3.
+</p><p>
+</p><p>
+</p><p>
+</p><p>B' = {5, 18, 20}.
+</p><p>
+</p><p>Banyaknya anggota B' adalah n(B') = 3.
+</p><p>
+</p><p>
+</p><p>
+</p><p>C' = {7, 20, 25}.
+</p><p>
+</p><p>Banyaknya anggota C' adalah n(C') = 3.
+</p><p>
+</p><p>
+</p><p>
+</p><p>A ∩ B = {2, 7}.
+</p><p>
+</p><p>Banyaknya anggota A ∩ B adalah n(A ∩ B) = 2.
+</p><p>
+</p><p>
+</p><p>
+</p><p>A ∩ C = {2, 5}.
+</p><p>
+</p><p>Banyaknya anggota A ∩ C adalah n(A ∩ C) = 2.
+</p><p>
+</p><p>
+</p><p>
+</p><p>B ∩ C = {2, 3}.
+</p><p>
+</p><p>Banyaknya anggota B ∩ C adalah n(B ∩ C) = 2.
+</p><p>
+</p><p>
+</p><p>
+</p><p>A U B = {2, 3, 5, 7, 20, 25}.
+</p><p>
+</p><p>Banyaknya anggota A ∪ B adalah n(A ∪ B) = 6.
+</p><p>
+</p><p>
+</p><p>
+</p><p>A ∪ C = {2, 3, 5, 7, 18, 20}.
+</p><p>
+</p><p>Banyaknya anggota A ∪ C adalah n(A ∪ C) = 6.
+</p><p>
+</p><p>
+</p><p>
+</p><p>B ∪ C = {2, 3, 5, 7, 18, 25}.
+</p><p>
+</p><p>Banyaknya anggota B ∪ C adalah n(B ∪ C) = 6.
+</p><p>
+</p><p>
+</p><p>
+</p><p>(A ∩ B)' = {3, 5, 18, 20, 25}
+</p><p>
+</p><p>Banyaknya anggota (A ∩ B)' adalah n(A ∩ B)' = 5.
+</p><p>
+</p><p>
+</p><p>
+</p><p>(A ∩ C)' = {3, 7, 18, 20, 25}.
+</p><p>
+</p><p>Banyaknya anggota (A ∩ C)' adalah n(A ∩ C)' = 5.
+</p><p>
+</p><p>
+</p><p>
+</p><p>(B ∩ C)' = {5, 7, 18, 20, 25}.
+</p><p>
+</p><p>Banyaknya anggota (B ∩ C)' adalah n(B ∩ C)' = 5.
+</p><p>
+</p><p>
+</p><p>
+</p><p>(A U B)' = {18}.
+</p><p>
+</p><p>Banyaknya anggota (A ∪ B)' adalah n(A ∪ B)' = 1.
+</p><p>
+</p><p>
+</p><p>
+</p><p>(A U C)' = {25}.
+</p><p>
+</p><p>Banyaknya anggota (A ∪ C)' adalah n(A ∪ C)' = 1.
+</p><p>
+</p><p>
+</p><p>
+</p><p>(B U C)' = {20}.
+</p><p>
+</p><p>Banyaknya anggota (B ∪ C)' adalah n(B ∪ C)' = 1.
+</p><p>
+</p><p>
+</p><p>
+</p><p>A' ∩ (B U C) = {3, 18, 25}.
+</p><p>
+</p><p>Banyaknya anggota A' ∩ (B U C) adalah n(A' ∩ (B U C)) = 3.
+</p><p>
+</p><p>
+</p><p>
+</p><p>(A ∩ B)' ∩ (A ∩ C)' = {3, 18, 20, 25}
+</p><p>
+</p><p>Banyaknya anggota (A ∩ B)' ∩ (A ∩ C)' adalah n((A ∩ B)' ∩ (A ∩ C)') = 4.
+</p><p>
+</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jika-aub-maka-aubna-adalah">
+                            9. Jika AUB, maka AU(BnA) adalah.</h2><br />
+                        Jawabannya:<br />Cari irisan B dan A, kemudian cari gabungannya.<br />
+                                            <h2 class="ez-toc-section" id="aubhartinakalimahna%e2%80%8b">
+                            10. aub:Hartina:kalimahna​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>aub Hartina: terlibat </p><p>kalau kalimah nya belum tau </p><br />
+                                            <h2 class="ez-toc-section" id="daerah-yang-diarsir-pada-gambar-dibawah-menunjukkan-himpunana-aubc-aubb-abd-aubmohon-dijawab-ya-%e2%80%8b">
+                            11. Daerah yang diarsir pada gambar dibawah menunjukkan himpunanA. AUBC. AUBB. ABD. (AUB)mohon dijawab ya ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>D. (A U B)'</p><p></p><p>semoga membantu kak^_^</p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-aubi-societas">
+                            12. apa arti aubi societas</h2><br />
+                        Ubi societas adalah perkataan dari Marcus Tullius Cicero seorang filsuf,ahli hukum, dan ahli politik kelahiran Roma. <br />
+                                            <h2 class="ez-toc-section" id="nilai-naub-adalah-%e2%80%8b">
+                            13. Nilai n(AUB) adalah...​</h2><br />
+                        <p>U = Irisan</p><p>N = Gabungan</p><p></p><p>U = Angka yang sama pada himpunan</p><p>N = Angka digabung pada kedua himpunan</p><p></p><p>A = 1,2,<strong>3</strong><strong>,</strong><strong>4</strong></p><p>B = <strong>3</strong><strong>,</strong><strong>4</strong><strong>,</strong>5,6</p><p></p><p>Karena kedua nya sama sama terdapat <strong>3</strong><strong>,</strong><strong>4</strong><strong> </strong>dan pilihan yang tepat adalh <strong>B.</strong><strong> </strong><strong>4</strong></p><p>[tex]Mizhu[/tex]</p><p></p><p>A = 1,2,3,4</p><p>B = 3,4,5,6</p><p>S = 1,2,3,4,5,6,7,8,9,10</p><p></p><p>A u B = <strong>3</strong><strong>&amp;</strong><strong>4</strong><strong> </strong></p><p></p><p><strong>B.</strong><strong> </strong><strong>4</strong></p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-anb-aub-%e2%80%8b">
+                            14. Tentukan AnB =AuB =​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jadikan Jawaban terbaik ya</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>ada di gambar :)</p><p><strong>diketahui </strong></p><p>S = { 1,2,3,4,5,6,7,8,9 }</p><p>A = { 1,2,3,4 }</p><p>B = { 1,2,3,4 }</p><p></p><p><strong>ditanya</strong></p><p></p><p>AnB = </p><p>AUB =</p><p></p><p><strong>T</strong><strong>e</strong><strong>r</strong><strong>j</strong><strong>a</strong><strong>w</strong><strong>a</strong><strong>b</strong><strong> </strong><strong> </strong><strong>✔️</strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong></p><p></p><p><strong>S </strong>= { 1,2,3,4,5,6,7,8,9 }</p><p><strong>A </strong>= { 1,2,3,4 }</p><p><strong>B </strong>= { 1,2,3,4 }</p><p></p><p><strong>AuB </strong>= { 1,2,3,4 }</p>ini adalah gabungan cara mencarinya dalah mencari semua yang berada dalam lingkaran yang berada dalam lingkaran hanyalah { 1,2,3,4 } maka itulah jawabannya <p></p><p><strong>AnB </strong>= { 1,2,3,4 }<strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong></p>ini adalah irisan cara menghitungnya adalah mencari bilanganbagian A yang juga menjadi bilangan bagian B maka yang sama adalah { 1,2,3,4 } maka itulah jawaban dari soal <p></p><p><strong>Kelas </strong><strong>7</strong><strong> </strong><strong>SMP</strong></p><p><strong>Materi </strong><strong>Himpunan</strong></p><p><strong>Mapel </strong><strong>Matematika</strong></p><p></p><p></p><p>[tex] \huge{ \pink{ \boxed{ \purple{ \boxed{ \mathfrak{ \underline{ x1l40}}}}}}}[/tex]</p><br />
+                                            <h2 class="ez-toc-section" id="yang-merupakan-anggota-dari-au-b-pada-diagram-venn-di-bawah-ini-adalaha-aub-23567b-aub123567c-aub-11-2-3-4-5-7-1d-aub-1-2-3-4-5-6-7-8-9%e2%80%8b">
+                            15. Yang merupakan anggota dari AU B pada diagram venn di bawah ini adalahA. AUB= 2,3,5,6,7)B. AUB=(1,2,3,5,6,7)C. AUB 11.2, 3, 4, 5, 7, 1D. AUB = [1, 2, 3, 4, 5, 6, 7, 8, 9)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p> C.AUB11.2.3.4.5.7.1</p><br />
+                                            <h2 class="ez-toc-section" id="tentukan-a-aub-tex-b-aubc-tex%e2%80%8b">
+                            16.  Tentukan a AUB [tex] b \:  {aub}^{c} [/tex]​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Semoga Membantu Kawan</p><p>#Like</p><p>#Bintang</p><p>#Jadikan Jawaban Tercerdas</p><p>#Follow</p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Byee Kawann</p><br />
+                                            <h2 class="ez-toc-section" id="jika-aub-maka-a-dan-b-%e2%80%8b">
+                            17. Jika AUB = {}, maka A= {} dan B = {}​</h2><br />
+                        <p><strong>Jika</strong><strong>:</strong></p><p>AUB = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }</p><p></p><p><strong>Maka</strong><strong>:</strong></p><p>B = { Bilangan Ganjil 1 Sampai 10 }</p><p>A = { Bilangan Genap 1 Sampai 10 }</p><p>U = { 1, 10 }</p><br />
+                                            <h2 class="ez-toc-section" id="latihan-misalkan-a-b-dan-c-adalah-himpunan-gunakan-hukum-hukum-aljabar-himpunan-dan-prinsip-dualitas-untuk-menentukan-hasil-dari-operasi-himpunan-a-anbuanbuanbuanb-b-aubnaubauba">
+                            18. Latihan. Misalkan A, B, dan C adalah himpunan. Gunakan hukum-hukum aljabar himpunan dan prinsip dualitas untuk menentukan hasil dari operasi himpunan (a) (AnB)u(ANB)u(ANB)u(ANB) (b) (AUB)n(AUB)(AUB)(AUB) ​</h2><br />
+                        <p>Ada dua cara pembuktian kebenaran dengan  menggunakan <strong>himpunan</strong>, yaitu dengan diagram venn dan dengan aljabar himpunan. Berikut ini adalah <strong>hasil dari operasi himpunan</strong> dengan menggunakan <strong>hukum-hukum aljabar himpunan</strong> dan <strong>prinsip dualitas</strong>.</p><p>a. (A ∩ B) ∪ (A^ ∩ B) ∪ (A ∩ B^) ∪ (A^ ∩ B^)</p><p>= ((A ∩ B) ∪ (A^ ∩ B)) ∪ ((A ∩ B^) ∪ (A^ ∩ B^)) ⇒ Hukum asosiatif</p><p>= ((B ∩ (A ∪ A^)) ∪  (B^ (A ∪ A^)) ⇒ Hukum distributif</p><p>= (B ∩ U) ∪ (B^ ∩ U) ⇒ Hukum komplemen</p><p>= U ∩ (B ∪ B^) ⇒ Hukum distributif</p><p>= U ∩ U ⇒ Hukum komplemen</p><p>= U ⇒ Hukum idempoten</p><p>b. (A ∪ B) ∩ (A^ ∪ B) ∩ (A ∪ B^) ∩ (A^ ∪ B^)</p><p>= ∅  ⇒ Hukum dualitas dari jawaban a</p>Pembahasan<p><strong>Himpunan</strong> merupakan kumpulan benda-benda atau objek-objek yang didefinisikan dengan jelas. <strong>Prinsip dualitas</strong>: dua konsep yang berbeda dapat dipertukarkan namun tetap memberikan jawaban yang benar. Jika kita menukar ∪ dengan ∩ dan S dengan ø dalam setiap pernyataan tentang himpunan, maka pernyataan baru tersebut disebut dual dari pernyataan aslinya.</p>Pelajari Lebih Lanjut<p>Materi tentang prinsip dualitas pada https://brainly.co.id/tugas/1396868</p><p></p><p><strong>#BelajarBersamaBrainly</strong></p><p><strong>#SPJ9</strong></p><br />
+                                            <h2 class="ez-toc-section" id="apa-penjelasan-aubb">
+                            19. apa penjelasan AUB=B</h2><br />
+                        bagian himpunan A yang juga himpunan bagian B<br />berarti himpunan B bilangannya lebih banyak digabung dibandingan himpunan A<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="tolong-bantu-saya-diketahui-s-123456789101112a-12345b-256789tentukan-bulat-diagram-venna-b-aub-komplemen-aub-anb%c2%a9-aub%c2%a9">
+                            20. Tolong bantu saya :"))
+Diketahui :
+S = 1,2,3,4,5,6,7,8,9,10,11,12
+A = 1,2,3,4,5
+B = 2,5,6,7,8,9
+Tentukan Bulat Diagram Venn
+A =
+B =
+aUb =
+Komplemen :
+aub =
+(anb)© =
+(aub)© =</h2><br />
+                        A=12345<br />B=256789<br />AUB=123456789<br />
+                                            <h2 class="ez-toc-section" id="a-123456-b-237911bentukan-a-aubb-anbc-aub-n-anb">
+                            21. a= {1,2,3,4,5,6} 
+b= { 2,3,7,9,11}
+Bentukan a. aUb
+b. aNb
+c. ( aUb) n ( aNb) </h2><br />
+                        B={2,3}<br />C={1,2,3 ,4,5,6,7,9,11}  {2,3}<br />
+                                            <h2 class="ez-toc-section" id="tentukan-bilanganaub">
+                            22. Tentukan bilangan(AuB)</h2><br />
+                        AUB = {2,3,5,7,20,25}AUB= 2,3,5,7,20,25<br />kecuali 18<br />
+                                            <h2 class="ez-toc-section" id="himpunan-cacah-aub-adalah">
+                            23. Himpunan Cacah aub adalah</h2><br />
+                        0,1,2,3,4,5,6,......<br />maaf kalau salah itu cuma kata akoh himpunan bilangan bulat yang tidak negatif, yaitu(0,1,2,3,.....) drngan kata lain himpunan bilangan asli ditambah 0 .Bilangan caca selalu tidak bertanda negatif. <br />semoga benar ya jawabannya<br />
+                                            <h2 class="ez-toc-section" id="apa-maksud-dari-aub">
+                            24. apa maksud dari (AuB) </h2><br />
+                        A adalah himpunan B<br />*maaf kalau slah<br />
+                                            <h2 class="ez-toc-section" id="2-diketahuis-bilangan-cacah-kurang-dari-11a-xx-e-p-x-10-p-bilangan-primab-579tentukana-ab-bc-an-bd-aube-an-aubf-bon-aubg-aub-n-aubh-aon-b-u-aub%e2%80%8b">
+                            25. 2. DiketahuiS = {bilangan cacah kurang dari 11}A = {x|x € P, x&lt; 10, P bilangan prima}B = {5,7,9)Tentukana. Ab. Bc. (An B)d. (AUB)e. An (AUB)f. Bºn (AUB)g. (AUB) n (AUB)h. (Aºn B) U (AUB)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>s={1,2,3,4,5,6,7,8,9,10}</p><p>A={2,3,5,7}</p><p>B={5,7,9}</p><p>a.A={2,3,5,7}</p><p>b.B={5,7,9}</p><p>c.{AnB}={5}</p><p>d.{AUB}={2,3,5,7,9}</p><p></p><p>aku cuma bisa sampai d ,maaf kalau salah</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-dari-aub-dan-anb">
+                            26. apa arti dari AuB dan AnB?</h2><br />
+                        <p><strong>Himpunan </strong>adalah kumpulan benda atau obyek yang memiliki definisi yang jelas atau dengan kata lain memiliki batasan-batasan yang jelas.</p><p><strong>Himpunan semesta</strong> adalah himpunan yang memuat semua anggota himpunan yang sedang dibicarakan yang notasinya S.</p><p><strong>Irisan himpunan A dan B</strong> adalah himpunan yang anggotanya berasal dari A yang juga menjadi anggota B yang notasinya A ∩ B </p><p><strong>Gabungan himpunan A dan B </strong>adalah himpunan yang anggotanya berasal dari A atau B atau keduanya yang notasinya A ∪ B </p><p>Dalam Himpunan berlaku rumus</p><p>n(S) = n(A) + n(B) - n(A∩B) + n(A∪B)'</p>Pembahasan<p><strong>Ditanya:</strong></p><p>apa arti dari A∪B dan A∩B?</p><p><strong>Jawab:</strong></p><p><strong>Arti A∪B  ↓</strong></p><p><strong>Gabungan himpunan A dan B </strong>adalah himpunan yang anggotanya berasal dari A atau B atau keduanya</p><p>Contoh:</p><p>anggota A = {1, 2, 3, 4, 5}</p><p>anggota B = {4, 5, 6, 7, 8, 9, 10}</p><p>A∪B  = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}</p><br /><p><strong>Arti A∩B ↓</strong></p><p><strong>Irisan himpunan A dan B</strong> adalah himpunan yang anggotanya berasal dari A yang juga menjadi anggota B</p><p>Contoh:</p><p>anggota A = {1, 2, 3, 4, 5}</p><p>anggota B = {4, 5, 6, 7, 8, 9, 10}</p><p>A∩B = {4, 5}</p>Pelajari Lebih Lanjut<p>tentang himpunan dapat juga disimak di</p>https://brainly.co.id/tugas/111320brainly.co.id/tugas/693631brainly.co.id/tugas/937572brainly.co.id/tugas/697707brainly.co.id/tugas/11791002==============================Detail Jawaban<p><strong>Kelas </strong>: 7</p><p><strong>Mapel </strong>: Matematika</p><p><strong>Kategori </strong>: Himpunan</p><p><strong>Kode </strong>: 7.2.1</p><br /><p><strong>Kata Kunci </strong>: himpunan, irisan himpunan, gabungan himpunan, himpunan bilangan asli, mendaftar anggotanya, himpunan semesta</p><br /><br /><br /><br /><br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-naub">
+                            27. Apa yang dimaksud dengan    n(AUB)</h2><br />
+                        banyaknya anggota himpunan A gabungan B<br />Cara mengerjakan<br />carilah hasil dari himpunan A gabung B. dan hitung berapa anggota dari jawaban tersebut<br />Contoh:<br />A:{1,2,3,4,5}<br />B:{4,5,6,7,8}<br />n(AUB)= n{1,2,3,4,5,6,7,8}<br />           n(AUB)=8<br />
+                                            <h2 class="ez-toc-section" id="apa-arti-matematika-aub%e2%80%8b">
+                            28. apa arti matematika aub​</h2><br />
+                        <p><strong>Jawaban:</strong></p>A U B<p></p><p>Simbol matematika di atas ada pada <strong>mata</strong><strong> </strong><strong>pelajaran</strong><strong> </strong><strong>Mat</strong><strong>ematika</strong><strong> </strong><strong>kelas</strong><strong> </strong><strong>7</strong><strong> </strong><strong>bab</strong><strong> </strong><strong>2</strong><strong> </strong><strong>Semester</strong><strong> </strong><strong>1</strong><strong>.</strong></p><p></p><p><strong>Simbol</strong><strong> </strong><strong>itu</strong><strong> </strong><strong>termasuk</strong><strong> </strong><strong>ke</strong><strong> </strong><strong>dalam</strong><strong> </strong><strong>sifat </strong><strong>operasi</strong><strong> </strong><strong>himpunan</strong><strong>,</strong><strong>,</strong><strong>,</strong><strong> </strong><strong>yaitu</strong><strong> </strong><strong>(</strong><strong>U</strong><strong>)</strong><strong> </strong><strong>yang</strong><strong> </strong><strong>berarti</strong><strong> </strong><strong>Gabungan</strong><strong>.</strong><strong> </strong><strong>Ada</strong><strong> </strong><strong>3</strong><strong> </strong><strong>sifat</strong><strong> </strong><strong>operasi </strong><strong>himpunan</strong><strong>,</strong><strong>,</strong></p><strong>IRISAN</strong><strong> </strong><strong>(</strong><strong>n</strong><strong>)</strong><strong> </strong><strong>mirip</strong><strong> </strong><strong>sepe</strong><strong>rti</strong><strong> </strong><strong>huruf</strong><strong> </strong><strong>"</strong><strong>n</strong><strong>"</strong><strong>GABUNGAN</strong><strong> </strong><strong>(</strong><strong>U</strong><strong>)</strong><strong> </strong><strong>mirip</strong><strong> </strong><strong>se</strong><strong>perti</strong><strong> </strong><strong>huruf</strong><strong> </strong><strong>"</strong><strong>U</strong><strong>"</strong><strong>SELISIH</strong><strong> </strong><strong>(</strong><strong>-</strong><strong>)</strong><strong> </strong><strong>Mengurangkan</strong><strong> </strong><strong>angka</strong><strong> </strong><strong>himpunan </strong><strong>yang</strong><strong> </strong><strong>lebih</strong><strong> </strong><strong>besar</strong><strong> </strong><strong>ke</strong><strong> </strong><strong>yang</strong><strong> </strong><strong>lebih </strong><strong>kecil</strong><p><strong>Jawaban:</strong></p><p>himpunan gabungan</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Aub =&gt; sebuah lambang yang menyatakan himpunan gabungan antara himpunan A dan b</p><p>Anb =&gt; sebuah lambang yang menyatakan himpunan irisan dari himpunan A dan B</p><p>A-b =&gt; sebuah lambang yang menyatakan selisih dari himpunan A dan b</p><p><strong>DETAIL</strong><strong>:</strong></p><p>Pelajaran: Matematika</p><p>Materi.    : Himpunan</p><p>Semoga bermanfaat dan membantu#</p><p> ●▬▬๑۩۩๑▬▬●</p><p>░Prusmantex34░</p><p> ●▬▬๑۩۩๑▬▬●</p><br />
+                                            <h2 class="ez-toc-section" id="kalau-aub-itu-maksudnya-apa">
+                            29. Kalau AUB ITU MAKSUDNYA APA</h2><br />
+                        itu artinya himpunan gabungan. himpunan gabungan adalah himpunan yang anggotanya merupakan dua himpunan yang bergabung menjadi satu<br /><br />maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="maka-nilai-aub-yaitu">
+                            30. Maka Nilai AUB Yaitu?</h2><br />
+                        <p><strong>Jawab: A ∪ B = { 1, 3, 5, 6, 7, 9, 12}</strong></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>A ∪ B memiliki arti gabungan anggota dari lingkaran A dan juga anggota dari lingkaran B, contohnya : 1, 3, 5, 6, 7, 9, 12</p><p></p><p>A ∩ B memiliki arti anggota yang sama sama (irisan) dimiliki oleh lingkaran A maupun lingkaran B : 3, 5, 7</p><p></p><p>^_^</p><p></p><p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>Diket. :</p><p>Telah dijelaskan bahwa masing-masing himpunan memiliki anggota masing-masing, maka :</p><p>A = {1,3,5,6,7,9}</p><p>B = {3,4,5,7,8,10,12}</p><p>Dit. :</p><p>A U B = ...?</p><p>Jawab :</p><p>A U B</p><p>A = {1,3,5,6,7,9}</p><p>B = {3,4,5,7,8,10,12}</p><p>A U B = {1,3,4,5,6,7,8,9,10,12}</p><p></p><p>Jadi, hasil dari A U B = {1,3,4,5,6,7,8,9,10,12}</p><p></p><p><strong>Pelajari </strong><strong>Juga </strong><strong>:</strong></p><p><strong>Operasi </strong><strong>Himpunan </strong></p><p><strong>1.</strong><strong> </strong><strong>Irisan </strong><strong>(</strong><strong>intersection</strong><strong>) </strong></p><p>Lambang = ⌒</p><p>A ⌒ B adalah himpunan yang anggotanya merupakan anggota himpunan A dan himpunan B. </p><p><strong>2.</strong><strong> </strong><strong>Gabungan </strong><strong>(</strong><strong>union</strong><strong>) </strong></p><p>Lambang = U</p><p>A U B adalah himpunan yang anggotanya gabungan antara himpunan A dan himpunan B. </p><p><strong>3.</strong><strong> </strong><strong>Selisih </strong></p><p>A - B adalah himpunan yang anggotanya semua himpunan A tetapi tidak anggota himpunan B. </p><p></p><p></p><p>Kata kunci : Math</p><p>Mapel : Matematika</p><p>kelas : 7 semester 1</p><p>penerbit :-</p><p>korektor : Refan Avandy</p><br />
+                                            <h2 class="ez-toc-section" id="berdasarkan-diagram-venn-di-atas-tentukana-a%cf%80b-b-aub-c-a%cf%80b%c2%a9-d-aub%c2%a9-%e2%80%8b">
+                            31. Berdasarkan diagram venn di atas tentukana. AΠB={   }b. AUB={   }c. (AΠB)©={   }d. (AUB)©={   }​</h2><br />
+                        <p></p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>MAAF KALAU SALAH DALAM LANGKAH LANGKAH PENGERJAAN</p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-aubi-societas">
+                            32. apa arti aubi societas</h2><br />
+                        Ubi societas ibi ius” atau yang diterjemahkan dalam bahasa Indonesia “Dimana ada masyarakat disitu ada hukum” adalah perkataan dari Marcus Tullius Cicero seorang filsuf,ahli hukum, dan ahli politik kelahiran Roma.<br /><br />
+                                            <h2 class="ez-toc-section" id="2-diketahuis-bilangan-cacah-kurang-dari-11a-xxe-p-x-10-p-bilangan-primab-5-79tentukana-acb-bcanbcd-aubce-an-aubcf-bcn-aubg-aubcnaubch-anbcu-aubc%e2%80%8b">
+                            33. 2. DiketahuiS = {bilangan cacah kurang dari 11}A = {x|x€ P, x &lt; 10, P bilangan primaB = {5, 7,9}Tentukana. Acb. Bc(AnB)cd. (AuB)ce. An (AuB)cf. Bcn (AuB)g. (AUB)cn(AUB)ch. (AnB)cU (AUB)c​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Kelas : VII (1 SMP)</p><p></p><p>Materi : Himpunan</p><p></p><p>Kata Kunci : himpunan, anggota</p><p></p><p></p><p>Pembahasan :</p><p>Himpunan adalah kumpulan obyek yang didefinisikan dengan jelas.</p><p></p><p></p><p>Obyek yang termasuk dalam suatu himpunan dinamakan anggota dari himpunan tersebut.</p><p></p><p></p><p>Suatu himpunan di tulis dengan menggunakan pasangan kurung kurawal dan anggota himpunan di tulis di antara pasangan kurung kurawal tersebut.</p><p></p><p></p><p>Anggota suatu himpunan dinyatakan dengan lambang ∈, sedangkan bukan anggota suatu himpunan dinyatakan dengan lambang ∉. Anggota yang sama dalam suatu himpunan hanya ditulis satu kali.</p><p></p><p></p><p>Himpunan diberi nama dengan menggunakan huruf kapital. Misalnya A, B, dan lainnya.</p><p></p><p> </p><p></p><p>Suatu himpunan dapat dinyatakan dengan 3 cara, yaitu :</p><p></p><p>a.   Dengan kata-kata. Dengan cara menyebutkan syarat atau sifat keanggotaannya.</p><p></p><p>b.   Dengan notasi pembentuk himpunan. Dengan cara menyebutkan syarat atau sifat keanggotaannya, namun anggota himpunan dinyatakan dengan suatu variabel.</p><p></p><p>c.   Dengan mendaftar anggota-anggotanya. Dengan cara menyebutkan anggota-anggotanya, menuliskannya dengan menggunakan kurung kurawal, dan anggota-anggotanya dipisah dengan tanda koma.</p><p></p><p></p><p>Banyaknya anggota himpunan A dinamakan kardinalitas dari himpunan A yang dinyatakan dengan notasi n(A) atau |A|.</p><p></p><p></p><p>Himpunan kosong adalah himpunan yang tidak memiliki anggota yang notasinya { } atau ∅.</p><p></p><p></p><p>Himpunan semesta adalah himpunan yang memuat semua anggota himpunan yang sedang dibicarakan yang notasinya S.</p><p></p><p></p><p>Irisan himpunan A dan B adalah himpunan yang anggotanya berasal dari A yang juga menjadi anggota B yang notasinya A ∩ B = {x|x ∈ A dan x ∈ B}.</p><p></p><p></p><p>Gabungan himpunan A dan B adalah himpunan yang anggotanya berasal dari A atau B atau keduanya yang notasinya A ∪ B = {x|x ∈ A atau x ∈ B}.</p><p></p><p></p><p>Himpunan A dikatakan himpunan bagian dari himpunan B bila setiap anggota himpunan A adalah anggota himpunan B yang notasinya A ⊂ B.</p><p></p><p> </p><p></p><p>Himpunan kuasa dari himpunan A adalah himpunan yang memuat semua himpunan bagian dari A yang notasinya P(A).</p><p></p><p></p><p>Komplemen dari himpunan A yang dimuat himpunan semesta S adalah himpunan anggota S yang tidak dimuat di A yang notasinya A'.</p><p></p><p></p><p></p><p>Mari kita lihat soal tersebut.</p><p></p><p>Diketahui S = {bilangan cacah kurang dari 11}, A = {x| x &lt; 10, x ∈ bilangan prima}, dan B = {5, 7, 9}. Tentukan:</p><p>a. A' </p><p>b. B' </p><p>c. (A ∩ B)' </p><p>d. (A ∪ B)'</p><p>e. A ∩ (A U B)' </p><p>f. B‘ ∩ (A ∪ B) </p><p>g. (A ∪ B)' ∩ (A ∪ B)'</p><p>h. (A' ∩ B)' ∪ (A ∪ B')'</p><p></p><p>Jawab :</p><p>S = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}</p><p>A = {2, 3, 5, 7}</p><p>B = {5, 7, 9}</p><p></p><p>a. A' = {0, 1, 4, 6, 8, 9, 10}.</p><p></p><p>b. B' = {0, 1, 2, 3, 4, 6, 8, 10}.</p><p></p><p>A ∩ B = {2, 3, 5, 7} ∩ {5, 7, 9} = {5, 7}.</p><p></p><p>c. (A ∩ B)' = {0, 1, 2, 3, 4, 6, 8, 9, 10}.</p><p></p><p>A ∪ B = {2, 3, 5, 7} ∪ {5, 7, 9} = {2, 3, 5, 7, 9}.</p><p></p><p>d. (A ∪ B)' = {0, 1, 4, 6, 8, 10}.</p><p></p><p>e. A ∩ (A U B)' = {2, 3, 5, 7} ∩ {0, 1, 4, 6, 8, 10} = ∅.</p><p></p><p>f. B' ∩ (A ∪ B) = {0, 1, 2, 3, 4, 6, 8, 10} ∩ {2, 3, 5, 7, 9} = {2, 3}.</p><p></p><p>g. (A ∪ B)' ∩ (A ∪ B)' = {0, 1, 4, 6, 8, 10} ∩ {0, 1, 4, 6, 8, 10} = {0, 1, 4, 6, 8, 10}.</p><p></p><p>A' ∩ B = {0, 1, 4, 6, 8, 9, 10} ∩ {5, 7, 9} = {9}.</p><p></p><p>(A' ∩ B)' = {0, 1, 2, 3, 4, 5, 6, 7, 8, 10}.</p><p></p><p>h. (A' ∩ B)' ∪ (A ∪ B')' = {0, 1, 2, 3, 4, 5, 6, 7, 8, 10} ∪ {0, 1, 4, 6, 8, 10} = {0, 1, 4, 6, 8, 10}.</p><p></p><p>Semangat!</p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="naub45n-a27naub10nb">
+                            34. n(aub)=45,n( a)=27,n(aub)=10,n(b)=...</h2><br />
+                        Himpunan<br />Matematika VII<br /><br />n(A U B) = 45<br />n(A) = 27<br />n(A /\ B) = 10<br />n(B) = ?<br /><br />n(A U B) = n(A) + n(B) - n(A /\ B)<br />45 = 27 + n(B) - 10<br />n(B) = 45 - 27 + 10<br /><br />Jadi n(B) = 28<br />
+                                            <h2 class="ez-toc-section" id="diketahui-s-12345678910-a-2357-b-12345-tentukan-aub-dan-naub-%e2%80%8b">
+                            35. Diketahui : S = {1,2,3,4,5,6,7,8,9,10} A = {2,3,5,7) B = {1,2,3,4,5) Tentukan (AUB) dan n(AUB)...​</h2><br />
+                        <p><strong>Jawab:</strong></p><p>(AUB) = {1,2,3,4,5,7}</p><p>n(AUB) = 6</p><p>Jawab:</p><p></p><p>Penjelasan dengan langkah-langkah:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="himpunan-dari-komponen-aub-adalah">
+                            36. Himpunan dari komponen  ( AUB ) adalah</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>S={1,2,3,4,5,6,7,8,9}</p><p>A={1,3,5,7,9}</p><p>B={2,3,5,7,}</p><p></p><p>(AUB)={1,2,3,5,7,9}</p><p></p><p>maaf kalo salah..</p><p></p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-himpunan-a1234-10-b-2468maka-a-aub-adalah-baub-adalah-%e2%80%8b">
+                            37. Diketahui Himpunan A=[1,2,3,4.....10] B= [2,4,6,8]maka :a [AuB] adalah....             b[AuB] adalah.... ​</h2><br />
+                        <p>Diketahui :</p><p>A = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}</p><p>B = {2, 4, 6, 8}</p><p></p><p>Ditanya : </p><p>AUB</p><p></p><p>Jawab :</p><p>AUB = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}</p><p></p><p>semoga bermanfaat, jadikan sebagai jawaban terbaik :)</p><br />
+                                            <h2 class="ez-toc-section" id="kenapa-aub-jawabanya-a">
+                            38. kenapa AUB jawabanya A?</h2><br />
+                        karena A adalah yg paling tepat diantara jawaban lainnya\<br /><br /><br />jadikan solusi terbaik.!<br />kokk tidak ada gambarnya? ya mungkin, krn anggota b semua ada di a<br />
+                                            <h2 class="ez-toc-section" id="a23-b8-anb7-aub-n-irisan-u-union-berapa-aub">
+                            39. A=23 B=8 AnB=7 AUB=...n= irisan U= union berapa aub? </h2><br />
+                        AuB = (23-7)+(8-7)+7 = 16+1+7 = 24<br />
+                                            <h2 class="ez-toc-section" id="a456-b01234tentukan-a-aub-b-apakah-aubanb-c-apakah-anb">
+                            40. A={4,5,6} B={0,1,2,3,4}
+tentukan a. AUB
+                 b.apakah AUB=AnB
+                c. apakah AnB </h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a. {0,1,2,3,4,5,6}</p><p>b. Salah karena anggotanya beda</p><p>c. {4}</p><p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>b. Jika A=B, maka AuB=AnB</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>matematika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/10-benda-yang-menghasilkan-bunyi/">10 Benda Yang Menghasilkan Bunyi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sikap-badan/">Sikap Badan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-malaikat-selalu-taat-allah-swt/">Mengapa Malaikat Selalu Taat Allah Swt</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ke-arah/">Ke Arah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perhatikan-gambar-berikut-pernyataan-yang-benar-adalah/">Perhatikan Gambar Berikut Pernyataan Yang Benar Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ringkasan-malin-kundang/">Ringkasan Malin Kundang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kepanjangan-asean/">Kepanjangan Asean</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dampak-barang-tambang-terutama-yang-sifatnya-tidak-dapat-diperbarui/">Dampak Barang Tambang Terutama Yang Sifatnya Tidak Dapat Diperbarui</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebutan-untuk-arsitektur-yang-digunakan-sebagai-investasi-modal-adalah/">Sebutan Untuk Arsitektur Yang Digunakan Sebagai Investasi Modal Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ketimpangan-persebaran-ekonomi-yang-tidak-merata-disebut/">Ketimpangan Persebaran Ekonomi Yang Tidak Merata Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/keberadaan-wawasan-nusantara-secara-militer-diapit-oleh-dua-kekuatan-yaitu/">Keberadaan Wawasan Nusantara Secara Militer Diapit Oleh Dua Kekuatan Yaitu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dalam-reklame-dibutuhkan-perencanaan-gambar-atau/">Dalam Reklame Dibutuhkan Perencanaan Gambar Atau</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kesenian-daerah-dan-upacara-adat-merupakan-objek-wisata/">Kesenian Daerah Dan Upacara Adat Merupakan Objek Wisata</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tabel-berikut-menunjukkan-kecepatan-empat-merek-printer/">Tabel Berikut Menunjukkan Kecepatan Empat Merek Printer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-bertambah-atau-berkurangnya-penduduk-dapat-menyebabkan-perubahan-sosial/">Mengapa Bertambah Atau Berkurangnya Penduduk Dapat Menyebabkan Perubahan Sosial</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/loopsprong-dalam-senam-irama-disebut-juga/">Loopsprong Dalam Senam Irama Disebut Juga</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/aktivitas-perencanaan-produksi-berkaitan-dengan/">Aktivitas Perencanaan Produksi Berkaitan Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pukulan-pertama-untuk-memulai-permainan-bola-voli-disebut/">Pukulan Pertama Untuk Memulai Permainan Bola Voli Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/panjang-tongkat-yang-digunakan-untuk-lari-estafet-adalah/">Panjang Tongkat Yang Digunakan Untuk Lari Estafet Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/molekul-senyawa/">Molekul Senyawa</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

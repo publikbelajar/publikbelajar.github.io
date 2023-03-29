@@ -1,0 +1,1321 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Metodologis Adalah - BELAJAR</title>
+    <meta name="description" content="Metodologis Adalah, , , , , , , 0, O que é e como aplicar a metodologia 5S?, blog.delogic.com.br, 1732 x 1732, jpeg, , 20, metodologis-adalah, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Metodologis Adalah - BELAJAR" />
+    <meta property="og:description" content="Metodologis Adalah, , , , , , , 0, O que é e como aplicar a metodologia 5S?, blog.delogic.com.br, 1732 x 1732, jpeg, , 20, metodologis-adalah, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Metodologis Adalah - BELAJAR" />
+    <meta name="twitter:description" content="Metodologis Adalah, , , , , , , 0, O que é e como aplicar a metodologia 5S?, blog.delogic.com.br, 1732 x 1732, jpeg, , 20, metodologis-adalah, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Metodologis Adalah</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">seusyaraguP5ucan</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Metodologis+Adalah" alt="Metodologis Adalah">
+                    </div>
+                    <p></p>
+                    <p>Kelemahan metodologis</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kelemahan-metodologis">1.
+                                            Kelemahan metodologis</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat">2.
+                                            Secara metodologis bagaimana kita dapat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-proses-metodologis">3.
+                                            apa itu proses metodologis?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-secara-metodologis-kita-dapat-mengetahui-zaman-praaksara">4.
+                                            bagaimana secara metodologis kita dapat mengetahui zaman praaksara</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#salah-satu-kelemahan-pendapatan-perkapita-digunakan-sebagai-indikator-kemajuan-sebuah-negara-adalah-kelemahan-metodologis-pendapatan-perkapita-di-bawah-ini-yang-bukan-termasuk-kelemahan-metodologis-p">5.
+                                            Salah satu kelemahan pendapatan perkapita digunakan sebagai indikator kemajuan sebuah negara adalah kelemahan metodologis pendapatan perkapita. Di bawah ini yang bukan termasuk kelemahan metodologis pendapatan perkapita adalah …</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-pembahasan-metodologis-dan-pembahasan-empiris">6.
+                                            Apa yang dimaksud pembahasan metodologis dan pembahasan empiris? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-bisa-mengetahui-kehidupan-sebelum-mengenal-tulisan%e2%80%8b">7.
+                                            secara metodologis bagaimana kita bisa mengetahui kehidupan sebelum mengenal tulisan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat-kehidupan-manusia-sebelum-mengenal-tulisan">8.
+                                            Secara metodologis bagaimana kita dapat kehidupan manusia sebelum mengenal tulisan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-metodologis-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">9.
+                                            Bagaimana metodologis kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sanksi-untuk-pelanggaran-standar-metodologis-adalah%e2%80%8b">10.
+                                            sanksi untuk pelanggaran standar metodologis adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-mengapa-historiografi-modern-bersifat-metodologis">11.
+                                            Jelaskan mengapa historiografi modern bersifat metodologis</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-sebelum-mengenal-tulisan">12.
+                                            Secara metodologis  bagaimana kita dapat mengetahui kehidupan sebelum mengenal tulisan??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-tulisan">13.
+                                            Secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum tulisan?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-secara-metodologis-kita-dapat-mengetahui-kehidupan-sebelum-mengenal-tulisan">14.
+                                            bagaimana secara metodologis kita dapat mengetahui kehidupan sebelum mengenal tulisan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-kata-metodologis">15.
+                                            arti kata metodologis</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pendekatan-metodologis-adalah-%e2%80%8b">16.
+                                            pendekatan metodologis adalah...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#metodologis-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">17.
+                                            Metodologis mengetahui kehidupan manusia sebelum mengenal tulisan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">18.
+                                            secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mempelajari-zaman-praaksara-secara-metodologis">19.
+                                            mempelajari zaman praaksara secara metodologis</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagai-mana-kita-dapat-kehidupan-manusia-sebelum-mengenal-rulisan">20.
+                                            Secara metodologis bagai mana kita dapat kehidupan manusia sebelum mengenal rulisan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">21.
+                                            metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">22.
+                                            Secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-secara-metodologis-kita-dapat-mengetahui-kehidupan-sebelum-mengenal-tulisan">23.
+                                            bagaimana secara metodologis kita dapat mengetahui kehidupan sebelum mengenal tulisan?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pengertian-metodologis%e2%80%8b">24.
+                                            pengertian metodologis​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">25.
+                                            secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-secara-metodologis-kita-dapat-mengetahui-kehidupanmanusia-sebelum-mengenal-tulisan">26.
+                                            bagaimana secara metodologis kita dapat mengetahui kehidupanmanusia sebelum mengenal tulisan?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ara-metodologis-bagaimana-kita-dapat-mengetahui-manusia-sebelum-mengenal-tulisan">27.
+                                            ara metodologis bagaimana kita dapat mengetahui manusia sebelum mengenal tulisan ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-metodologis-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">28.
+                                            bagaimana metodologis kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-sejarah-metodologis-kita-dapat-mengerti-kehidupan-manusia-sebelum-mengenal-tulisan">29.
+                                            Bagaimana sejarah metodologis kita dapat   mengerti kehidupan manusia sebelum mengenal tulisan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal">30.
+                                            Secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-mengetahui-kehidupan-sebelum-adanya-tulisan">31.
+                                            secara metodologis, bagaimana kita mengetahui kehidupan sebelum adanya tulisan?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-tau-tentang-manusia-pra-aksar">32.
+                                            secara metodologis bagaimana kita tau tentang manusia pra aksar..?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-sebelum-mengenal-tulisan%c2%a0">33.
+                                            secara metodologis bagaimana kita dapat mengetahui kehidupan sebelum mengenal tulisan </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">34.
+                                            Secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">35.
+                                            secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat-mengetahui-manusia-sebelum-mengenal-tulisan">36.
+                                            secara metodologis bagaimana kita dapat mengetahui manusia sebelum mengenal tulisan ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-manusia-sebelum-mengenal-tulisan">37.
+                                            secara metodologis bagaimana manusia sebelum mengenal tulisan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebelum-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">38.
+                                            Sebelum metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia">39.
+                                            Secara metodologis bagaimana kita dapat mengetahui kehidupan manusia</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-metodologis-bagaimana-kita-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">40.
+                                            secara metodologis bagaimana kita mengetahui kehidupan manusia sebelum mengenal tulisan?</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="kelemahan-metodologis">
+                            1. Kelemahan metodologis</h2><br />
+                        Secara lebih khusus, nilai pendapatan perkapita sebagai indeks untuk menunjukkan perbandingan tingkat kesejahteraan dan jurang (gap) tingkat kesejahteraan antar masyarakat mempunyai kelemahan. Kelemahan itu timbul karena perbandingan dengan cara demikian mengabaikan adanya perbedaan-perbedaan antara negara dalam hal-hal sebagai berikut. Struktur umur, distribusi pendapatan masyarakat nasional, metode perhitungan pendapatan dan perbedaan nilai mata uang (kurs) dengan mata uang dollar Amerika Serikat.<br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat">
+                            2. Secara metodologis bagaimana kita dapat</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Tetap dengan metode empiris. Walaupun menusia belum mengenal tulisan, bukti-bukti kehidupan mereka bisa diketahui dari peradaban, misalnya membuat kapak, membuat pinggan, membuat lukisan di dinding gua. dan Juga kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan secara metodologis dengan cara menggunakan metode arkeologi dan ilmu alam seperti geologi dan biologi. </p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-proses-metodologis">
+                            3. apa itu proses metodologis?</h2><br />
+                        metodologi: ilmu yg digunakan untuk mmperoleh kebenaran mggunakan penelusuran dgn tata cara tertentu dlm menemukan kebenaran, trgantungdari realitas yg sedang dikaji.metodologis yaitu seperti cara kita utuk membuktikan suatu hal /hipotesis dengan cara yg tepat.<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-secara-metodologis-kita-dapat-mengetahui-zaman-praaksara">
+                            4. bagaimana secara metodologis kita dapat mengetahui zaman praaksara</h2><br />
+                        Tetap dengan metode empiris. Walaupun menusia belum mengenal tulisan, bukti-bukti kehidupan mereka bisa diketahui dari peradaban, misalnya membuat kapak, membuat pinggan, membuat lukisan di dinding gua. dan Juga kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan secara metodologis dengan cara menggunakan metode arkeologi dan ilmu alam seperti geologi dan biologi. <br /><br />SMA NEG 4 PAREPARE ^_^ <br />
+                                            <h2 class="ez-toc-section" id="salah-satu-kelemahan-pendapatan-perkapita-digunakan-sebagai-indikator-kemajuan-sebuah-negara-adalah-kelemahan-metodologis-pendapatan-perkapita-di-bawah-ini-yang-bukan-termasuk-kelemahan-metodologis-p">
+                            5. Salah satu kelemahan pendapatan perkapita digunakan sebagai indikator kemajuan sebuah negara adalah kelemahan metodologis pendapatan perkapita. Di bawah ini yang bukan termasuk kelemahan metodologis pendapatan perkapita adalah …</h2><br />
+                        <p>Jawaban:jawabannya inflasi</p><p></p><p></p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-pembahasan-metodologis-dan-pembahasan-empiris">
+                            6. Apa yang dimaksud pembahasan metodologis dan pembahasan empiris? </h2><br />
+                        empiris -&gt; Suatu Cara atau metode yang dilakukan yang bisa diamati oleh indera manusia, sehingga cara atau metode yang digunakan tsb bisa diketahui oleh orng lain<br /><br /><br />Metodologis -&gt; ilmu-ilmu/cara yang digunakan untuk memperoleh kebenaran menggunakan penelusuran dengan tata cara tertentu dalam menemukan kebenaran, tergantung dari realitas yang sedang dikaji<br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-bisa-mengetahui-kehidupan-sebelum-mengenal-tulisan%e2%80%8b">
+                            7. secara metodologis bagaimana kita bisa mengetahui kehidupan sebelum mengenal tulisan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Jawaban:
+</p><p>
+</p><p>Cara mengetahui kehidupan manusia sebelum mengenal tulisan​ adalah dengan mempelajari fosil dan artefak yang ditinggalkan manusia praaksara. Hal ini karena manusia praaksara belum mengenal sistem tulis menulis dan tidak menginggalkan peninggalan berupa tulisan.
+</p><p>Pembahasan:
+</p><p>Zaman praaksara atau prasejarah adalah bagian terawal dalam sejarah manusia. Masa ini diawali dengan munculnya manusia, yang ditandai dengan peninggalan-peninggalan seperti fosil dan peralatan batu.
+</p><p>Zaman ini berlangsung sangat lama dan berakhir ketika manusia menciptakan sistem tulis menulis. Waktu berakhirnya masa ini berbeda-beda antara satu wilayah dengan wilayah lain. Ini karena setiap peradaban memiliki waktu yang berbeda dalam penciptaan atau adopsi sistem tulis menulis.
+</p><p>Masa ini lebih sulit dipelajari dari masa sejarah setelah penemuan tulis menulis, karena pada masa ini belum ada sistem aksara tersebut sehingga tidak ada peninggalan tulisan seperti prasasti atau kitab kuno. Ini membuat penyelidikan tentang masa ini lebih sulit.  
+</p><p>Karena itu para sejarawan mempelajari masa praaksara dengan menggunakan peninggalan lain berupa artefak (obyek buatan manusia berupa peralatan batu, peningalan bangunan, dan alat tulang belulang) dan fosil.
+</p><p>Contohnya adalah fosil dan artefak manusia purba yang ditemukan di Sangiran, Trinil dan Mojokerto, yang memberikan informasi tentang manusia purba di masanya.  
+</p><p>mohon dijadikan yang terbaik
+</p><p>kalau salah silahkan hapus jawaban ini ^^</p><p><strong></strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            8. Secara metodologis bagaimana kita dapat kehidupan manusia sebelum mengenal tulisan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Tetap dengan metode empiris. Walaupun menusia belum mengenal tulisan, bukti-bukti kehidupan mereka bisa diketahui dari peradaban, misalnya membuat kapak, membuat pinggan, membuat lukisan di dinding gua. dan Juga kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan secara metodologis dengan cara menggunakan metode arkeologi dan ilmu alam seperti geologi dan biologi. </p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-metodologis-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            9. Bagaimana metodologis kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan?</h2><br />
+                        karena tidak ditemukannya tanda2 berupa tulisan yg ada hanya batu2 berukuran besar,besi,dll<br />
+                                            <h2 class="ez-toc-section" id="sanksi-untuk-pelanggaran-standar-metodologis-adalah%e2%80%8b">
+                            10. sanksi untuk pelanggaran standar metodologis adalah​</h2><br />
+                        <p><strong>kategori:ips</strong></p><p><strong>kata kunci:kode etik</strong></p><p><strong>-</strong></p><p><strong>Jawaban:</strong></p><p>dapat peringatan dan dihukum pidana</p><p><strong>penjelasan:</strong></p><p>yah kode metodologis itu menurut saya adalah kode etik </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-mengapa-historiografi-modern-bersifat-metodologis">
+                            11. Jelaskan mengapa historiografi modern bersifat metodologis</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>karena Metodologi adalah ilmu-ilmu/cara yang digunakan untuk memperoleh kebenaran menggunakan penelusuran dengan tata cara tertentu dalam menemukan kebenaran, tergantung dari realitas yang sedang dikaji. Metodologi tersusun dari cara-cara yang terstruktur untuk memperoleh ilmu.</p><br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-sebelum-mengenal-tulisan">
+                            12. Secara metodologis  bagaimana kita dapat mengetahui kehidupan sebelum mengenal tulisan??</h2><br />
+                        mungkin dengan cara arkeologi dan melihat bukti bukti peninggalan masa prasejarah <br />*itu yg saya tahu<br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-tulisan">
+                            13. Secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum tulisan?</h2><br />
+                        dengan adanya peninggalan prasejarah yang berupa candi, arca , reliefmelalui peninggalan-peninggalan manusia purba saat itu, yang berupa gambar, barang (kapak, punden berundak), artefak, dll. <br />Semoga membantu<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-secara-metodologis-kita-dapat-mengetahui-kehidupan-sebelum-mengenal-tulisan">
+                            14. bagaimana secara metodologis kita dapat mengetahui kehidupan sebelum mengenal tulisan</h2><br />
+                        melalui fosil-fosil......<br /><br />iya mungkin melali fosil<br />
+                                            <h2 class="ez-toc-section" id="arti-kata-metodologis">
+                            15. arti kata metodologis</h2><br />
+                        Metodologi berasal dari bhsa Yunani “metodos” dan "logos", kata
+ ini terdiri dari dua suku kata yaitu “metha" berarti melalui atau 
+melewati dan “hodos” berarti jalan atau cara. Metodologi berarti suatu 
+jalan yang dilalui untuk mencapai tujuan.<br /><br />berasal dari Yunani "metodos artinya melalui" dan "logos artinya cara"<br />ilmu yang digunakan untuk memperoleh kebenaran<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="pendekatan-metodologis-adalah-%e2%80%8b">
+                            16. pendekatan metodologis adalah...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Metodologi adalah ilmu-ilmu/cara yang digunakan untuk memperoleh kebenaran menggunakan penelusuran dengan tata cara tertentu dalam menemukan kebenaran, tergantung dari realitas yang sedang dikaji.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><p><strong>Jawaban:</strong></p><p>Jawaban:</p><p>Metodologi adalah ilmu-ilmu/cara yang digunakan untuk memperoleh kebenaran menggunakan penelusuran dengan tata cara tertentu dalam menemukan kebenaran, tergantung dari realitas yang sedang dikaji.</p><p><strong>Penjelasan:</strong></p><p>Semoga bermanfaat</p><br />
+                                            <h2 class="ez-toc-section" id="metodologis-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            17. Metodologis mengetahui kehidupan manusia sebelum mengenal tulisan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>cari dibuku ips disitu pasti ad kok</p><br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            18. secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan?</h2><br />
+                        Katena di situ Terdapat Zaman Mesozoikum,PaleoZoikum<br />
+                                            <h2 class="ez-toc-section" id="mempelajari-zaman-praaksara-secara-metodologis">
+                            19. mempelajari zaman praaksara secara metodologis</h2><br />
+                        Kita dapat mengetahui kehidupan manusia sebelum mengenal
+tulisan secara metodologis dengan cara menggunakan metode arkeologi dan ilmu
+alam seperti geologi dan Biologi..<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagai-mana-kita-dapat-kehidupan-manusia-sebelum-mengenal-rulisan">
+                            20. Secara metodologis bagai mana kita dapat kehidupan manusia sebelum mengenal rulisan</h2><br />
+                        pada saat jaman prasejarah manusia berbicara dengan isyarat,dan manusia purba mengantungkan hidupnya pada sumber daya alam sekitarnya<br />
+                                            <h2 class="ez-toc-section" id="metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            21. metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan</h2><br />
+                        <p>Cara mengetahui kehidupan manusia sebelum mengenal tulisan adalah dengan mempelajari fosil dan artefak yang ditinggalkan manusia praaksara. Hal ini karena manusia praaksara belum mengenal sistem tulis menulis dan tidak menginggalkan peninggalan berupa tulisan.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            22. Secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan</h2><br />
+                        karena sebelum kita mengenal tulisan kita menggunakan batu kalau tdk salah<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-secara-metodologis-kita-dapat-mengetahui-kehidupan-sebelum-mengenal-tulisan">
+                            23. bagaimana secara metodologis kita dapat mengetahui kehidupan sebelum mengenal tulisan?</h2><br />
+                        Tetap dengan metode empiris. Walaupun menusia belum mengenal tulisan, bukti-bukti kehidupan mereka bisa diketahui dari peradaban, misalnya membuat kapak, membuat pinggan, membuat lukisan di dinding gua. dan Juga kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan secara metodologis dengan cara menggunakan metode arkeologi dan ilmu alam seperti geologi dan biologi. <br /><br />SMA NEG 4 PAREPARE ^_^ <br />
+                                            <h2 class="ez-toc-section" id="pengertian-metodologis%e2%80%8b">
+                            24. pengertian metodologis​</h2><br />
+                        <p>segala sesuatu yang berkaitan dengan metode, atau bisa juga disebut uraian tentang metode</p><p>metodologis adalah cara atau ilmu ilmu yang dipakai untuk menemukan kebenaran menggunakan penelusuran dengan tata cara tertentu dalam menemukan kebenaran tergantung dari realitas apa yang disampaikan</p><br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            25. secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan?</h2><br />
+                        kita dapat melakukan penelitian sejarah dengan bantuan ilmu arkeologi.<br /><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-secara-metodologis-kita-dapat-mengetahui-kehidupanmanusia-sebelum-mengenal-tulisan">
+                            26. bagaimana secara metodologis kita dapat mengetahui kehidupanmanusia sebelum mengenal tulisan?</h2><br />
+                        dengan metode arkeolog dan ditemukanya peninggalan peninggalan dimasa lalu<br />contohnya gambar dan lukisan didindi<br /><br />
+                                            <h2 class="ez-toc-section" id="ara-metodologis-bagaimana-kita-dapat-mengetahui-manusia-sebelum-mengenal-tulisan">
+                            27. ara metodologis bagaimana kita dapat mengetahui manusia sebelum mengenal tulisan ?</h2><br />
+                        masa sebelum mengenal tulisan adalah masa praaksara atau nirleka, pada zaman praaksara sudah terdapat manusia purba, hanya mereka tak dapat mengenal tulisan, dan biasanya mereka berkomunikasi dengan menggunakan bahasa isyarat, masa sebelum mengenal tulisan sendiri awalnya adalah dari saat manusia ada, diciptakan dan dilahirkan, hal itu belum dapat dipastikan waktunya. dan berakhir dengan ditandai mulai adanya tulisan.<br />
+                                            <h2 class="ez-toc-section" id="bagaimana-metodologis-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            28. bagaimana metodologis kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan!</h2><br />
+                        Kalau Gak Salahsih hanya Lihat Prasasti Yang Bersifat Simboldengan melihat beberapa sisa sisa peninggalan yang dapat kita temukan, sedangkan para sejarawan menggunakan metode peneliti ilmu arkeoogi dan sedikit banyak pada ilmu alam, biologi, dan geologi <br />
+                                            <h2 class="ez-toc-section" id="bagaimana-sejarah-metodologis-kita-dapat-mengerti-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            29. Bagaimana sejarah metodologis kita dapat   mengerti kehidupan manusia sebelum mengenal tulisan</h2><br />
+                        Sebelum mengenal tulisan, manusia jaman tersebut hidup secara nomaden atau berpindah pindah, selain itu, pekerjaan mereka yaitu bercocok tanam dengan menggnakan alat yang kasar.<br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal">
+                            30. Secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal</h2><br />
+                        <p>Cara mengetahui kehidupan manusia sebelum mengenal tulisan​ adalah dengan mempelajari fosil dan artefak yang ditinggalkan manusia praaksara.
+</p><p>
+</p><p>Hal ini karena manusia praaksara belum mengenal sistem tulis menulis dan tidak menginggalkan peninggalan berupa tulisan.
+</p><p>
+</p><p>Pembahasan:
+</p><p>
+</p><p>Zaman praaksara atau prasejarah adalah bagian terawal dalam sejarah manusia. Masa ini diawali dengan munculnya manusia, yang ditandai dengan peninggalan-peninggalan seperti fosil dan peralatan batu.
+</p><p>
+</p><p>Zaman ini berlangsung sangat lama dan berakhir ketika manusia menciptakan sistem tulis menulis. Waktu berakhirnya masa ini berbeda-beda antara satu wilayah dengan wilayah lain. Ini karena setiap peradaban memiliki waktu yang berbeda dalam penciptaan atau adopsi sistem tulis menulis.
+</p><p>
+</p><p>Masa ini lebih sulit dipelajari dari masa sejarah setelah penemuan tulis menulis, karena pada masa ini belum ada sistem aksara tersebut sehingga tidak ada peninggalan tulisan seperti prasasti atau kitab kuno. Ini membuat penyelidikan tentang masa ini lebih sulit.  
+</p><p>
+</p><p>Karena itu para sejarawan mempelajari masa praaksara dengan menggunakan peninggalan lain berupa artefak (obyek buatan manusia berupa peralatan batu, peningalan bangunan, dan alat tulang belulang) dan fosil.
+</p><p>
+</p><p>Contohnya adalah fosil dan artefak manusia purba yang ditemukan di Sangiran, Trinil dan Mojokerto, yang memberikan informasi tentang manusia purba di masanya.  
+</p><p>
+</p><p>Pelajari lebih lanjut mengapa akhir zaman praaksara di tiap-tiap wilayah berbeda di: brainly.co.id/tugas/3862114
+</p><p>
+</p><p>Pelajari lebih lanjut pengertian zaman praaksara di: brainly.co.id/tugas/2922755
+</p><p>
+</p><p>Pelajari lebih lanjut mengapa kehidupan masa pra aksara penting dipelajari pada masa sekarang di: brainly.co.id/tugas/6614780
+</p><p>
+</p><p>--------------------------------------------------------------------------
+</p><p>
+</p><p>Detail jawaban:
+</p><p>
+</p><p>Mata Pelajaran: Sejarah
+</p><p>
+</p><p>Kode: 10.3.3
+</p><p>
+</p><p>Kelas: X
+</p><p>
+</p><p>Materi: Bab 3 - Indonesia Zaman Praaksara: Awal Kehidupan Mausia Indonesia
+</p><p>
+</p><p>#AyoBelajar
+</p><p><strong></strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-mengetahui-kehidupan-sebelum-adanya-tulisan">
+                            31. secara metodologis, bagaimana kita mengetahui kehidupan sebelum adanya tulisan?</h2><br />
+                        kita dapat mengetahui kehidupan sebelum adanya tulisan dengan gambaran-gambaran atau pahatan-pahatan yang di buat oleh orang-orang jaman dulu<br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-tau-tentang-manusia-pra-aksar">
+                            32. secara metodologis bagaimana kita tau tentang manusia pra aksar..?</h2><br />
+                        melalui peninggalan2 yg ada seperti pada gua, batu, fosil, dll.Tetap dengan metode empiris. Walaupun menusia belum mengenal tulisan, bukti-bukti kehidupan mereka bisa diketahui<br />dari peradaban, misalnya membuat kapak, membuat pinggan, membuat<br />lukisan di dinding gua.<br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-sebelum-mengenal-tulisan%c2%a0">
+                            33. secara metodologis bagaimana kita dapat mengetahui kehidupan sebelum mengenal tulisan </h2><br />
+                        dengan cara para sejarwan menggunakan metode penelitian ilmu arkeologi dan ilmu geologi,dan juga biologi. dan mengkaji bukti-bukti atau jejak peninggalan fisik,seperti lempeng artefak,monumen candi dan sebagainya.<br /><br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            34. Secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan?</h2><br />
+                        membaca kitab kitab terdahulu<br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            35. secara metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan?</h2><br />
+                        Tetap dengan metode empiris. Walaupun menusia belum mengenal tulisan, bukti-bukti kehidupan mereka bisa diketahui dari peradaban, misalnya membuat kapak, membuat pinggan, membuat lukisan di dinding gua.<br /><br /><br />semoga bermanfaat <br />maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat-mengetahui-manusia-sebelum-mengenal-tulisan">
+                            36. secara metodologis bagaimana kita dapat mengetahui manusia sebelum mengenal tulisan ?</h2><br />
+                        karena pada masa dahulu tidak ada tulisan2, ukiran2 pada candi, arca, dll<br />maaf jika salahdengan melihat beberapa sisa-sisa peninggalan yang dapat ditemukan.<br />harus menggunakan metode ilmu arkeologi &amp; juga ilmu alam spt geologi &amp; biologi<br /><br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-manusia-sebelum-mengenal-tulisan">
+                            37. secara metodologis bagaimana manusia sebelum mengenal tulisan</h2><br />
+                        dari cap tangan yang ada di dinding gua<br /><br />
+                                            <h2 class="ez-toc-section" id="sebelum-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            38. Sebelum metodologis bagaimana kita dapat mengetahui kehidupan manusia sebelum mengenal tulisan? </h2><br />
+                        bukti adanya peninggalan* pada zaman purba adalah fosil dan artefak<br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-dapat-mengetahui-kehidupan-manusia">
+                            39. Secara metodologis bagaimana kita dapat mengetahui kehidupan manusia</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>kehidupan manusia Y baik baik</p><br />
+                                            <h2 class="ez-toc-section" id="secara-metodologis-bagaimana-kita-mengetahui-kehidupan-manusia-sebelum-mengenal-tulisan">
+                            40. secara metodologis bagaimana kita mengetahui kehidupan manusia sebelum mengenal tulisan?</h2><br />
+                        dengan adanya gambar pada dinding dinding gua <br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/cgg2GuSglLE?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ekonomi</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/does-saidah-want-to-be-alia-s-friend/">Does Saidah Want To Be Alia s Friend</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/when-did-habibie-s-father-die/">When Did Habibie s Father Die</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/wangsulan-artinya/">Wangsulan Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-motivator-adalah/">Contoh Motivator Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dua-fungsi-kerajinan-tangan-yaitu-fungsi-dan/">Dua Fungsi Kerajinan Tangan Yaitu Fungsi Dan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kalimat-ajakan-atau-persuasif-pada-reklame-bertujuan-untuk/">Kalimat Ajakan Atau Persuasif Pada Reklame Bertujuan Untuk</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pertanyaan-tentang-media-sosial/">Pertanyaan Tentang Media Sosial</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/akibat-membuang-sampah-sembarangan-brainly/">Akibat Membuang Sampah Sembarangan Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/setiap-manusia-ada-malaikat-yang-mengawasi-hal-ini-terdapat-dalam/">Setiap Manusia Ada Malaikat Yang Mengawasi Hal Ini Terdapat Dalam</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/artikan-potongan-hadis-berikut/">Artikan Potongan Hadis Berikut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pathokan-tembang-kinanthi/">Pathokan Tembang Kinanthi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hewan-tak-berkaki/">Hewan Tak Berkaki</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tulisan-4-juta/">Tulisan 4 Juta</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dokumen-untuk-mencatat-persetujuan-yang-bersifat-sementara-adalah/">Dokumen Untuk Mencatat Persetujuan Yang Bersifat Sementara Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dosen-yang-mencetak-akuntan-termasuk-dalam-kategori-akuntansi/">Dosen Yang Mencetak Akuntan Termasuk Dalam Kategori Akuntansi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-arti-member/">Apa Arti Member</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-merupakan-negara-yang-mendapat-sebutan-macan-asia-kecuali/">Berikut Merupakan Negara Yang Mendapat Sebutan Macan Asia Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebuah-koin-dilempar-sekali-peluang-muncul-angka-adalah/">Sebuah Koin Dilempar Sekali Peluang Muncul Angka Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/geometris-adalah/">Geometris Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/properti-yang-digunakan-pada-tari-remong-dari-jawa-timur-adalah/">Properti Yang Digunakan Pada Tari Remong Dari Jawa Timur Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

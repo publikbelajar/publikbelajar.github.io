@@ -1,0 +1,1332 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Contoh Display - BELAJAR</title>
+    <meta name="description" content="Contoh Display, , , , , , , 0, Contoh Window Display, Interior Display dan Eksterior Display Toko Pakaian, caradisplaybusana.blogspot.com, 1600 x 900, jpeg, , 20, contoh-display, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Contoh Display - BELAJAR" />
+    <meta property="og:description" content="Contoh Display, , , , , , , 0, Contoh Window Display, Interior Display dan Eksterior Display Toko Pakaian, caradisplaybusana.blogspot.com, 1600 x 900, jpeg, , 20, contoh-display, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Contoh Display - BELAJAR" />
+    <meta name="twitter:description" content="Contoh Display, , , , , , , 0, Contoh Window Display, Interior Display dan Eksterior Display Toko Pakaian, caradisplaybusana.blogspot.com, 1600 x 900, jpeg, , 20, contoh-display, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Contoh Display</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">swcahyani0806</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Contoh+Display" alt="Contoh Display">
+                    </div>
+                    <p></p>
+                    <p>Berikan contoh contoh display (window display,interior display,dan exterior display)</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikan-contoh-contoh-display-window-displayinterior-displaydan-exterior-display">1.
+                                            Berikan contoh contoh display (window display,interior display,dan exterior display)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-contoh-dari-interior-display">2.
+                                            apakah contoh dari interior display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-display-question">3.
+                                            contoh display question</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-contoh-iklan-display-yang-menarik-tentang-kain-batik-indonesia">4.
+                                            buatlah contoh iklan display yang menarik tentang kain batik indonesia</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-perbedaan-windows-display-dengan-ekterior-display">5.
+                                            apa perbedaan Windows display dengan ekterior display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-contoh-media-display">6.
+                                            sebutkan contoh media display??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-iklan-baris-iklan-kolom-iklan-display-dan-iklan-advertorial-contoh-jawabn-pliss-di-indonesia-%e2%80%8b">7.
+                                            contoh iklan baris, iklan kolom, iklan display, dan iklan advertorial ?contoh jawabn pliss di Indonesia ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-pengertian-perbedaan-dan-contohnya-dari-iklan-baris-iklan-kolom-dan-iklan-display">8.
+                                            Jelaskan pengertian perbedaan dan contohnya dari iklan baris iklan kolom dan iklan display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-pengertian-gambar-darishowcase-displaytheme-displayfloor-displaymohon-bantuan-nya">9.
+                                            tuliskan pengertian + gambar dari:showcase displaytheme displayfloor displaymohon bantuan nya ;)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nama-lain-display%e2%80%8b">10.
+                                            nama lain display????​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-pengertian-perbedaan-dan-contohnya-dari-iklan-baris-iklan-kolom-dan-iklan-display">11.
+                                            Jelaskan pengertian perbedaan dan contohnya dari iklan baris iklan kolom dan iklan display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mau-tanya-nih-bedanya-display-dengan-processor-apa-ya-display-ane-microsoft-basic-display-adapter-tapi-processornya-intel-core-i3">12.
+                                            Mau Tanya nih bedanya display dengan processor apa ya ? display ane "Microsoft Basic Display Adapter" tapi processornya "Intel core I3"</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-pengertian-perbedaan-dan-contohnya-dari-iklan-baris-iklan-kolom-dan-iklan-display">13.
+                                            Jelaskan pengertian perbedaan dan contohnya dari iklan baris iklan kolom dan iklan display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#floor-display2-vertical-display3-wall-display4-impulse-buying-display5-merchandise-mix-display6-cut-cases-display7-jumble-display8-sampling-display9-showcase-display10-theme-display%e2%80%8b">14.
+                                            Floor display2. Vertical display3. Wall display4. Impulse buying display5. Merchandise mix display6. Cut cases display7. Jumble display8. Sampling display9. Showcase display10. Theme display​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-iklan-baris-iklan-kolom-dan-iklan-displayjawab-kak-plis%e2%80%8b">15.
+                                            contoh iklan baris iklan kolom dan iklan displayjawab kak plis:(​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-contoh-iklan-display-yg-bener-y%e2%80%8b">16.
+                                            tuliskan contoh iklan display-!! yg bener y​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#display-campur-aduk-disebut-juga-a-cut-cases-displayb-vertikal-displayc-merchandise-mix-displayd-impulse-buying-produce-displaye-wall-display">17.
+                                            Display campur aduk disebut juga..  
+a. Cut Cases display
+b. Vertikal display
+c. Merchandise mix display
+d. Impulse buying produce display
+e. Wall display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#display-on-museum-or-display-in-museum">18.
+                                            display "on" museum or display "in" museum?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#iklan-baris-kolom-dan-display-merupakan-contoh-dari-iklan%e2%80%8b">19.
+                                            iklan baris kolom dan display merupakan contoh dari iklan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#iklan-di-rak-dan-di-depan-produk-di-sebut-a-syarat-dalam-mewujudkan-displayb-pemajangan-barang-daganganc-aspek-apspek-penting-displayd-pengaturan-display-yang-logise-aktivitas-display%e2%80%8b">20.
+                                            iklan di rak dan di depan produk di sebut... a. syarat dalam mewujudkan displayb. pemajangan barang daganganc. aspek-apspek penting displayd. pengaturan display yang logise. aktivitas display​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perangkat-display-yaitu%e2%80%8b">21.
+                                            Perangkat display yaitu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-contoh-dari-1-facefacing-display-2-special-display-3-center-point-display-bantu-yaa-kak">22.
+                                            Sebutkan contoh dari: 1.Face/facing display 2.Special display 3.Center point display Bantu yaa kak:)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-iklan-display%e2%80%8b">23.
+                                            contoh iklan display​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-pendisplayandg-cara-open-display-dan-close-display">24.
+                                            Bagaimana pendisplayandg cara open display dan close display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-komplain-resmi-harga-barang-dikasir-bedah-dengan-harga-display">25.
+                                            contoh komplain resmi harga barang dikasir bedah dengan harga display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-pola-pola-penyajian-iklan-baris-iklan-kolom-dan-iklan-display">26.
+                                            Contoh pola pola penyajian iklan baris, iklan kolom dan iklan display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-yang-dimaksud-display">27.
+                                            apakah yang dimaksud display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#barang-apa-saja-yang-biasanya-di-display-menggunakan-jumble-display%e2%80%8b">28.
+                                            barang apa saja yang biasanya di display menggunakan jumble display​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-iklan-bariscontoh-iklan-kolomcontok-iklan-displaycontoh-iklan-advertorialcontoh-iklan-pemberitahuancontoh-iklan-penawaran">29.
+                                            Contoh iklan baris
+contoh iklan kolom
+contok iklan display
+contoh iklan advertorial
+contoh iklan pemberitahuan
+contoh iklan penawaran</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-display-mudah-di-cari">30.
+                                            Contoh display mudah di cari</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-perbedan-antara-open-display-dan-close-display%e2%80%8b">31.
+                                            jelaskan perbedan antara open display dan close display​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-iklan-display">32.
+                                            apa itu iklan display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#barang-apa-saja-yang-biasanya-didisplay-menggunakan-sampling-display">33.
+                                            barang apa saja yang biasanya. didisplay menggunakan sampling display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ansomoguji-kompetensiseriah-tanda-silang-x-pada-huruf-a-b-c-d-atau-e-di-depan-jawaban-yang-paling-tepata-interior-display-d-architectural-displayaosso-penasaran-disebut-juga-b-open-display">34.
+                                            anSOMogUji KompetensiSeriah tanda silang (x) pada huruf a, b, c, d, atau e di depan jawaban yang paling tepat!a interior display d. architectural displayAosso penasaran disebut juga...b. open display e exterior displaya martedi conser à displaySaes concept e stock displaya dosed displayG es promotorBarang-barang dipajangkan pada suatun tem-2 Satu cara penataan produk terutama produk pat terbuka sehingga dapat dihampiri dan di-barang yang diterapkan oleh perusahaan pegang disebut .....Stentu dengan tujuan untuk menarik minata interior display d. architectural displaykonsumen disebut ....b open display e exterior displaya marketing consent d displayc closed displaysales concept e Stock displayas promotionBarang-barang dipajangkan dalam suasana&amp; Mecarik pematan para pembeli dengan caratertutup disebut...menggunakan wama - Wama, lampu - lampu,a interior display d. architectural displaydan sebaginya disebut....e exterior displayceste dan action customerc closed displaysantan dan interest customer10. Memperlihatkan barang-barang dalam penggu-widow displeynaannya disebut ....a interior display d. architectural displayMenimcukan keinginan memiliki barang-barangb. open display e exterior displayyang dicamerican di toko merupakan tujuana dosed displayusia yata11. Pasar malam merupakan contoh dan display ...DOheror display121 dste dan action customerattention den interest customerwidow displaymeror displaycrendsaley5 Manzang barang-barang gambar-gambarkattu harga simbol-simbol dan sebagainya ditegian depan toko disebuta tesre tan action customeraterion dan interest customerc window displaymeror displaye en display&amp; Otavah ini yang merupakan tujuan dari win-un disclay adalaha attention and interest customerdesite and action customermembantu mengkoordinasikan advertisingdan merchandisingi me perkenalan suatu produk secara cepatden eanonisa interior displayb. open displaya closed displayd architectural displaye exterior displayBerikut ini yang merupakan fungsi dari exteriordisplay adalah ....a attention and interest customerb. desire and action customera membantu mengkoordinasikan advertisingdan merchandisingd open displaye untuk menarik perhatian konsumen yanglewat13.untuk menarik perhatian konsumen yangMamajangan barang-barang gambar-gambar,kamar harga dan poster poster di dalamDko seout -Gambar di atas termasuk.a store design and decorationb. dealer displayopen displayd dosed displaye exterior displayPenataan Produk Kelas XII​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-floor-display">35.
+                                            contoh floor display?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#carilah-contoh-iklan-display-di-lingkungan-sekitar-mu">36.
+                                            Carilah contoh iklan display di lingkungan sekitar mu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-iklan-kolom-dan-iklan-display">37.
+                                            contoh iklan kolom dan iklan display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-kelebihan-dan-kekurangan-tipe-special-display-dan-gambar-display-nyaa-%e2%80%8b">38.
+                                            jelaskan kelebihan dan kekurangan tipe special display dan gambar display nyaa ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#untuk-barang-baranng-yang-sudah-dikenal-luas-sebaiknya-pemajangan-mengguanakan-a-exterior-display-b-interior-display-c-exponent-display-d-window-display-c-open-display">39.
+                                            Untuk barang-baranng yang sudah dikenal luas sebaiknya pemajangan mengguanakan A.Exterior display B.Interior display C.Exponent display D.Window display C.Open display</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-pengertian-display">40.
+                                            apa itu pengertian display</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="berikan-contoh-contoh-display-window-displayinterior-displaydan-exterior-display">
+                            1. Berikan contoh contoh display (window display,interior display,dan exterior display)</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Window display adalah memajangkan barang- barang atau gambar-gambar Kartu harga simbol-simbol dan sebagainya di bagian depan toko yang di sebut etalase .</p><p>interior display adalah memajangkan suatu barang-barang atau gambar-gambar di dalam toko ,</p><p>exterior display adalah memajangkan barang-barang di luar toko pada waktu di obral atau pasar malam</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apakah-contoh-dari-interior-display">
+                            2. apakah contoh dari interior display</h2><br />
+                        interior rumah . mungkin<br />
+                                            <h2 class="ez-toc-section" id="contoh-display-question">
+                            3. contoh display question</h2><br />
+                        Contoh display question adalah
+‘What is the past simple form of leave?' <br />
+                                            <h2 class="ez-toc-section" id="buatlah-contoh-iklan-display-yang-menarik-tentang-kain-batik-indonesia">
+                            4. buatlah contoh iklan display yang menarik tentang kain batik indonesia</h2><br />
+                        <p>Contoh <strong>iklan </strong>display yang menarik tentang kain batik indonesia sebagai berikut :</p><p>Ayo kita budayakan budaya Indonesia!!! Dengan membeli Kain BATIK INDONESIA!!! Harga terjangkau! Motifnya bagus! Cocok untuk dipakai!!! Ayo buruan beli sebelum kehabisan! Rugi kalau tidak beli!!!.</p><p>Anda kenal Indonesia ,kalau ya anda pasti tahu batik batik kamimenjual ribuan motif yang ada harga terjangkau no mahal.. Untuk itu datang aja ke toko kami anda akan tertarik dengan ribuan jenis batik yang ada , Ayo....!! Jangan sampai kehabisan.</p><p></p>Pembahasan<p><strong>Iklan </strong>adalah informasi yang isinya membujuk chalayak banyak atau orang banyak supaya tertarik kepada barang atau jasa yang ditawarkan. Kata Iklan berasal dari kata Yunani yang artinya menggiring orang-orang kepada gagasan.</p><p></p><p>Pengertian iklan secara lengkap yaitu semua wujud aktivitas untuk mendatangkan dan menawarkan penemu/ide, barang dan/atau jasa secara bukan personal yang dibayarkan oleh sponsor tertentu. Iklan berwujud penyajian informasi nonpersonal tentang suatu produk, merek, perusahaan, atau toko yang dijalankan dengan kompensasi biaya tertentu.  </p><p></p><p>Fungsi iklan , sebagai :  </p>Memberikan pengetahuan kepada konsumen agar mereka sadar akan produk perusahaan tersebut.Memberikan bujukan-bujukan kepada masyarakat umum untuk mencoba produk yang diiklankan perusahaan.Memberikan stimulus-stimulus kepada masyarakat agar senantiasa ingat terhadap produk yang diiklankan tersebut.Memberikan nilai tambah produk dan mempengaruhi persepsi konsumen (positif).  Salah satu fungsi utama dari iklan adalah mendampingi atau manfasilitasi upaya-upaya perusahaan lainnya.    <p></p><p></p><p>Unsur-unsur iklan:</p>Kalimat deskriptif : kalimat yang berfungsi untuk menguraikan spesifikasi produk atau layanan yang akan diiklankan.Kalimat persuasif : kalimat yang berfungsi untuk mengajak atau membujuk orang untuk memakai suatu produk atau layanan yang sedang diiklankan.Attention ( perhatian ). Iklan yang baik harus dapat menarik perhatian masyarakat umum.Interest ( minat ). Setelah mendapat perhatian, maka harus ditingkatkan menjadi minat sehingga timbul rasa ingin tahu secara rinci dalam diri konsumen.Desire ( keinginan ). Suatu cara utuk menggerakkan keinginan suatu konsumen.Conviction ( rasa percaya ). Untuk mendapatkan rasa percaya dalam diri konsumen, maka sebuah iklan harus ditunjang berbagai kegiatan peragaan seperti pembuktian atau sebuah kata-kata.Action ( tindakan ). Tindakan merupakan tujuan akhir dari produsen untuk menarik konsumen agar membeli atau menggunakan produk dan jasanya.Memiliki sasaran yang jelas tentang produk dan jasa yang ditawarkan. Sasaran dapat ditujukan pada anak", remaja, dewasa, maupun tua.<p></p>Pelajari Lebih LanjutMateri tentang fungsi iklan dapat disimak pada link brainly.co.id/tugas/11696650Materi tentang Apa yang dimaksud iklan dan jelaskan dapat disimak pada link brainly.co.id/tugas/1075012Contoh iklan elektronik dapat disimak pada link https://brainly.co.id/tugas/29121402<p></p>Detail Jawaban<p>Kelas: 9</p><p>Mapel: Bhs Indonesia</p><p>Kategori: Iklan</p><p>Kode: 9.1.6</p><p></p><p>#AyoBelajar</p><p>#SPJ2</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-perbedaan-windows-display-dengan-ekterior-display">
+                            5. apa perbedaan Windows display dengan ekterior display</h2><br />
+                        window display; memajang produk di jendela toko. contoh: Produk unggulan di matahari <br />eksterior display; pemajangan produk yang disusun menyerupai suatu desain ruangan berdasarkan fungsi produk tersebut. contoh: ACE<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-contoh-media-display">
+                            6. sebutkan contoh media display??</h2><br />
+                        <p>Berikut merupakan<strong> contoh </strong>dari<strong> media display:</strong></p>Papan rekat atau colth board.Papan lembar balik atau flip chart.Papan tulis atau whiteboard.Papan magnetic atau magnetic board.Papan bulletin atau bulletin board.<strong>
+</strong><strong>Pembahasan
+</strong><p>Dalam sebuah dunia pendidikan ini, media telah disajikan dengan menggunakan bentuk gambar ataupun benda yang aslinya dapat dipamerkan ataupun dipajang yang dimana hal tersebut dapat disebut sebagai sebuah<strong> media display.</strong></p><p><strong>Media display </strong>ini telah termasuk kedalam sebuah kelompok media yang tidak dapat untuk diproyeksikan seperti nonprojected media. <strong>Media pajangan atau display</strong> ini telah berupa sebuah media yang telah digunakan untuk dapat memajang poster, gambar, benda kecil tiga dimensi, kartu, ataupun materi-materi pendidikan yang lain-lain. </p><p>Hal tersebut diperuntukan bagi para siswa untuk dapat menunjang visualisasi agar dapat untuk dilihat secara langsung oleh para siswa.<strong>
+</strong></p><strong>Pelajari lebih lanjut
+</strong><p><strong>1. Materi tentang media display https://brainly.co.id/tugas/5021854
+</strong></p><p><strong>2. Materi tentang media display https://brainly.co.id/tugas/23326718
+</strong></p><p><strong>3. Materi tentang media display https://brainly.co.id/tugas/1767000
+</strong></p><p><strong>-----------------------------
+</strong></p><strong>Detil jawaban
+</strong><p><strong>Kelas: 7
+</strong></p><p><strong>Mapel: B. Indonesia
+</strong></p><p><strong>Bab: Bab 8 - Mendeskripsikan Sesuatu
+</strong></p><p><strong>Kode: 7.1.8
+</strong></p><p><strong>
+</strong></p><p><strong>#JadiRankingSatu
+</strong></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-iklan-baris-iklan-kolom-iklan-display-dan-iklan-advertorial-contoh-jawabn-pliss-di-indonesia-%e2%80%8b">
+                            7. contoh iklan baris, iklan kolom, iklan display, dan iklan advertorial ?contoh jawabn pliss di Indonesia ​</h2><br />
+                        <p>Jawaban:pikir sorangan</p><p></p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-pengertian-perbedaan-dan-contohnya-dari-iklan-baris-iklan-kolom-dan-iklan-display">
+                            8. Jelaskan pengertian perbedaan dan contohnya dari iklan baris iklan kolom dan iklan display</h2><br />
+                        <p></p><p><strong>Penjelasan:</strong></p><p>iklam baris adalah yg pemasangannya berupa garis garis</p><p>iklam kolom adalah pemasangan dlm media berupa kolom kolom. iklan                         </p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-pengertian-gambar-darishowcase-displaytheme-displayfloor-displaymohon-bantuan-nya">
+                            9. tuliskan pengertian + gambar dari:showcase displaytheme displayfloor displaymohon bantuan nya ;)</h2><br />
+                        showcase display adalah letak benda yang pas untuk ditawarkan konsumen <br />theme display adalah penataan barang dagangan di tempat tertentu dengan tujuan menarik minat konsumen<br />floor display adalah pemajangan produk dagangan di atas lantai dengan tujuan memudahkan konsumen melihat produk tersebut<br />
+                                            <h2 class="ez-toc-section" id="nama-lain-display%e2%80%8b">
+                            10. nama lain display????​</h2><br />
+                        <p><strong>Jawaban:</strong></p>display:memunculkanmenayangkanmenampilkandisplay:pertunjukanpertontonan<p>__________________________________</p><p></p><p></p><p></p>semoga membantu<p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-pengertian-perbedaan-dan-contohnya-dari-iklan-baris-iklan-kolom-dan-iklan-display">
+                            11. Jelaskan pengertian perbedaan dan contohnya dari iklan baris iklan kolom dan iklan display</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>iklan baris kalimat nya singkat </p><p>iklan kolom kalimatnya panjang /tidak disingkat singkat</p><br />
+                                            <h2 class="ez-toc-section" id="mau-tanya-nih-bedanya-display-dengan-processor-apa-ya-display-ane-microsoft-basic-display-adapter-tapi-processornya-intel-core-i3">
+                            12. Mau Tanya nih bedanya display dengan processor apa ya ? display ane "Microsoft Basic Display Adapter" tapi processornya "Intel core I3"</h2><br />
+                        Beda lah gan, kalo untuk display itu disebut VGA, ya kalo processor beda dengan display, kecuali intel dengan bawaan Intel HD Graphics gan.<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-pengertian-perbedaan-dan-contohnya-dari-iklan-baris-iklan-kolom-dan-iklan-display">
+                            13. Jelaskan pengertian perbedaan dan contohnya dari iklan baris iklan kolom dan iklan display</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>iklan baris adalah iklan yang pemasangannya berupa baris-baris. </p><p>iklan kolom adalah iklan yang pemasangannya dalam media berupa kolom-Kolom. </p><p>Perbedaan Iklan baris dan iklan kolom yaitu Iklan Baris berupa baris-baris sedangkan Iklan Kolom Berupa Kolom-Kolom. </p><br />
+                                            <h2 class="ez-toc-section" id="floor-display2-vertical-display3-wall-display4-impulse-buying-display5-merchandise-mix-display6-cut-cases-display7-jumble-display8-sampling-display9-showcase-display10-theme-display%e2%80%8b">
+                            14. Floor display2. Vertical display3. Wall display4. Impulse buying display5. Merchandise mix display6. Cut cases display7. Jumble display8. Sampling display9. Showcase display10. Theme display​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Apa itu floor display – (Ekonomi / Bisnis)? yang dimaksud dengan floor display – (Ekonomi / Bisnis) adalah kata yang memiliki artinya, silahkan ke tabel. floor display – (Ekonomi / Bisnis) biasanya ada dalam kamus atau glossary berikut ini untuk penjelasan apa arti makna dan maksudnya.</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-iklan-baris-iklan-kolom-dan-iklan-displayjawab-kak-plis%e2%80%8b">
+                            15. contoh iklan baris iklan kolom dan iklan displayjawab kak plis:(​</h2><br />
+                        <p>Iklan baris adalah salah satu cara beriklan barang dan jasa yang dibuat lebih singkat dari iklan lainnya,Biasanya pihak percetakanmenetapkan persyaratan minimal 2 dan maksimal 3 baris, dan telah mencakup nomor telepon, alamat, dan sebagainya.</p><p> contoh iklan baris iklan kolom adalah </p><p>iklan angsuran mobil,iklan lowongan pekerjaan,Iklan Jasa Penanganan Umroh dan Haji,Iklan Jasa Kursus dan Pelatihan  dan Iklan Pendidikan atau Layanan Pemerintah
+. </p><p> </p><p>contoh iklan display adalah </p><p>produk makanan,E-commercial Produk Promosi[situs online],produk kendaraan,property,seminar,dan promo retail </p><p>maaf kalau salah;v</p><p></p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-contoh-iklan-display-yg-bener-y%e2%80%8b">
+                            16. tuliskan contoh iklan display-!! yg bener y​</h2><br />
+                        ☁ JAWABAN : <p>(Terlampir)</p><p></p><strong>♡</strong><strong>Penjelasan</strong><strong>:</strong><p>Iklan Display adalah salah satu media promosi yang di gunakan pada media digital.Jenis iklan ini dianggap paling tepat dengan tren saat ini karena sesuai dengan percepatan data dan informasi.</p><p></p>/\___/\Jenis iklan:<p></p><strong>Iklan</strong><strong> </strong><strong>media</strong><strong> </strong><strong>Elektronik</strong><strong>Iklan</strong><strong> </strong><strong>media</strong><strong> </strong><strong>Cetak</strong><strong>Iklan</strong><strong> </strong><strong>Non</strong><strong> </strong><strong>komersial</strong><strong>Iklan</strong><strong> </strong><strong>komersial</strong><p></p><p><strong>~</strong>Semoga membantu<strong>~</strong></p><p>Answer By : ZTE ♡ </p><br />
+                                            <h2 class="ez-toc-section" id="display-campur-aduk-disebut-juga-a-cut-cases-displayb-vertikal-displayc-merchandise-mix-displayd-impulse-buying-produce-displaye-wall-display">
+                            17. Display campur aduk disebut juga..  
+a. Cut Cases display
+b. Vertikal display
+c. Merchandise mix display
+d. Impulse buying produce display
+e. Wall display</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>vertikel display</p><p><strong>Penjelasan:</strong></p><p>karena waktu dulu aku ingat jawabnya itu maaf kalo salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="display-on-museum-or-display-in-museum">
+                            18. display "on" museum or display "in" museum?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>display in museum </p><p><strong>Penjelasan:</strong></p><p>bisa juga pakai at</p><p></p><p><strong>Jawaban:</strong></p><p>in</p><p><strong>Penjelasan:</strong></p><p>display "on" museum or display "in" museum</p><p>answer : in</p><br />
+                                            <h2 class="ez-toc-section" id="iklan-baris-kolom-dan-display-merupakan-contoh-dari-iklan%e2%80%8b">
+                            19. iklan baris kolom dan display merupakan contoh dari iklan​</h2><br />
+                        <p>contoh dari iklan media elektronik</p><p><strong>Jawaban:</strong></p><p>iklan media elektronik</p><p><strong>Penjelasan:</strong></p><p>maaf klo salah</p><p></p><p>jadikan jawaban terbaik dan subscribe channel aku bakal aku follow</p><br />
+                                            <h2 class="ez-toc-section" id="iklan-di-rak-dan-di-depan-produk-di-sebut-a-syarat-dalam-mewujudkan-displayb-pemajangan-barang-daganganc-aspek-apspek-penting-displayd-pengaturan-display-yang-logise-aktivitas-display%e2%80%8b">
+                            20. iklan di rak dan di depan produk di sebut... a. syarat dalam mewujudkan displayb. pemajangan barang daganganc. aspek-apspek penting displayd. pengaturan display yang logise. aktivitas display​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>c.aspek aspek penting display</p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="perangkat-display-yaitu%e2%80%8b">
+                            21. Perangkat display yaitu​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Display Device adalah sebuah perangkat output untuk penyajian informasi dalam bentuk visual. Menurut bentuknya, display device dibagi menjadi 2 yaitu soft display device dan hard display device. Merupakan suatu perangkat output yang menyajikan informasi secara visual dalam bentuk digital.</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><p><strong>Jawaban:</strong></p><p>display device adalah sebuah perangkat output untuk penyajian informas</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-contoh-dari-1-facefacing-display-2-special-display-3-center-point-display-bantu-yaa-kak">
+                            22. Sebutkan contoh dari: 1.Face/facing display 2.Special display 3.Center point display Bantu yaa kak:)</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1).Face/ Facing Display</p><p></p><p>Facing display adalah pemajangan produk tampak muka, artinya pamajangan produk menghadap kearah kedepan.</p><p>2).Special Display</p><p></p><p>Special display adalah cara display barang secara khusus yang biasanya digunakan untuk barang musiman atau untuk barang-barang yang dijual secara obral.</p><p>3).Center Point Display</p><p></p><p>Center Point  ialah media pemajangan barang yang mewakili sebagian besar merchandise</p><p>yang  ada didalam suatu counter</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-iklan-display%e2%80%8b">
+                            23. contoh iklan display​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p></p><p><strong>Pengertian iklan display adalah jenis iklan</strong><strong> </strong><strong>yang menonjolkan kesan visual dengan gambar dan desain yang menarik. Biasanya,iklan display ditempatkan pada media cetak atau media elektronik yang memiliki space tempat lebih besar.</strong></p><p></p><p><strong>t</strong><strong>r</strong><strong>i</strong><strong>m</strong><strong>a</strong><strong>k</strong><strong>a</strong><strong>s</strong><strong>i</strong><strong>h</strong><strong>h</strong><strong> </strong><strong>m</strong><strong>a</strong><strong>a</strong><strong>f</strong><strong> </strong><strong>a</strong><strong>k</strong><strong>u</strong><strong> </strong><strong>g</strong><strong>k</strong><strong> </strong><strong>a</strong><strong>d</strong><strong>a</strong><strong> </strong><strong>f</strong><strong>o</strong><strong>t</strong><strong>o</strong><strong>n</strong><strong>y</strong><strong>a</strong><strong> </strong><strong>a</strong><strong>k</strong><strong>u</strong><strong> </strong><strong>c</strong><strong>a</strong><strong>r</strong><strong>i</strong><strong> </strong><strong>d</strong><strong>a</strong><strong>r</strong><strong>i</strong><strong> </strong><strong>g</strong><strong>o</strong><strong>o</strong><strong>g</strong><strong>l</strong><strong>e</strong></p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-pendisplayandg-cara-open-display-dan-close-display">
+                            24. Bagaimana pendisplayandg cara open display dan close display</h2><br />
+                        Salah satu lingkup pekerjaan penjualan yang memerlukan kekhususan/spesialisasi dan memerlukan kemampuan analisis yang mendalam dan terstruktur adalah kompetensi dalam Menata Produk yaitu tentang pengetahuan penataan barang (display produk) yang sesuai dengan standar dan spesifikasi perusahaan, pemajangan barang merupakan salah satu aktivitas terpenting dalam keseharian operasional pengelolaan sebuah toko output yang dihasilkan dari aktivitas yang satu ini berpengaruh langsung pada tingkat keberhasilan penjualan di dalamtoko, terlebih bagi toko-toko ritel modern yang memiliki format layanan mandiri (swalayan) seperti minimarket, supermarket maupun hypermarket.<br />
+                                            <h2 class="ez-toc-section" id="contoh-komplain-resmi-harga-barang-dikasir-bedah-dengan-harga-display">
+                            25. contoh komplain resmi harga barang dikasir bedah dengan harga display</h2><br />
+                        <p>Beberapa hari lalu saya berbelanja 
+di hypermarket terkenal di Indonesia bahkan salah satu yang terkenal di 
+dunia. Niatnya sih cuma membeli beberapa item yang diperlukan istri 
+sesuai dengan isi SMS-nya agar pulang dari kantor mampir membeli 
+beberapa keperluan.</p> <p>Saat berjalan melewati 
+koridor yang memajang mainan anak-anak, naluri kebapakan saya pun 
+tergelitik untuk melihat-lihat, kira-kira apa ada yang bisa saya belikan
+ untuk anak-anak. Akhirnya saya tertarik dengan display harga boneka 
+barbie dengan kostum kupu-kupu yang cukup murah yaitu Rp71.900,-. 
+Beberapa waktu sebelumnya saat mengajak anak berbelanja, anak saya 
+sangat ingin membeli boneka barbie dengan kostum kupu-kupu tersebut, 
+namun karena harganya yang masih mahal nyaris Rp300ribu saya pun berkata
+ pada anak, “Nanti saja ya, tunggu ada diskonnya.” Kini saat melihat 
+display boneka barbie yang sama relatif murah, saya pun tergerak 
+mengambil boneka tersebut sekaligus dua buah untuk dua orang putri saya 
+yang gemar bermain boneka.</p> Tiba giliran di 
+kasir, saya serahkan barang-barang di meja kasir. Kebetulan yang pertama
+ kali di-scan oleh kasir adalah boneka barbie tersebut. “tit” bunyi 
+scanner saat men-scan boneka pertama, kemudian muncul harga di monitor 
+sesuai dengan harga display di lemarinya Rp71.900. Saat boneka barbie 
+kedua di-scan ternyata muncul harga yang berbeda yang jauh lebih mahal 
+dari harga pertama. Saya langsung menginterupsi sang kasir. “Maaf Mbak, 
+kok harga boneka yang kedua ini harganya berbeda dari yang pertama ya? 
+Padahal barang dan merEknya sama persis, hanya berbeda warna. Apa 
+harganya gak salah? Soalnya saya lihat di display<br /><br />
+                                            <h2 class="ez-toc-section" id="contoh-pola-pola-penyajian-iklan-baris-iklan-kolom-dan-iklan-display">
+                            26. Contoh pola pola penyajian iklan baris, iklan kolom dan iklan display</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pola penyajian adalah pola-pola yang digunakan dalam menyajikan suatu iklan, baik tertulis, lisan, maupun gerak. Pola penyajian utamanya adalah penggunaan bahasa tertulis dalam menyampaikan pesan-pesannya, serta adanya penggunaan desain grafs, seperti warna dan bentuk huruf, tata letak, serta gambar-gambar.</p><p><strong>Penjelasan:</strong></p><p>jadikan yang terbaik</p><p><strong>Jawaban:</strong></p><p>pola penyajian adalah pola-pola yang digunakan dalam menyajikan suatu iklan, baik tertulis, lisan, maupun gerak. pola penyajian utamanya adalah penggunaan bahasa tertulis dalam menyampaikan pesan-pesan nya,serta adanya penggunaan desain grafis, seperti warna dan bentuk huruf,tata letak,serta gambar-gambar.</p><p><strong>Penjelasan:</strong></p><p>jadikan yang terbaik plisss</p><br />
+                                            <h2 class="ez-toc-section" id="apakah-yang-dimaksud-display">
+                            27. apakah yang dimaksud display</h2><br />
+                        Display artinya tampilan   .vidio yang merekam suara dan gambar<br />
+                                            <h2 class="ez-toc-section" id="barang-apa-saja-yang-biasanya-di-display-menggunakan-jumble-display%e2%80%8b">
+                            28. barang apa saja yang biasanya di display menggunakan jumble display​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jumble display adalah teknik display dengan mencampur jenis atau produk barang. contohnya barang2 diskon/ promo. bisa apa saja seperti sembako, snack, sayur, dan buah buahan, barang plastik. asal jangan dicampur barangnya yg saling merusak misal sayur buah dicampur sama ditergen</p><br />
+                                            <h2 class="ez-toc-section" id="contoh-iklan-bariscontoh-iklan-kolomcontok-iklan-displaycontoh-iklan-advertorialcontoh-iklan-pemberitahuancontoh-iklan-penawaran">
+                            29. Contoh iklan baris
+contoh iklan kolom
+contok iklan display
+contoh iklan advertorial
+contoh iklan pemberitahuan
+contoh iklan penawaran</h2><br />
+                        <p>PERTANYAAN:</p><p></p><p></p><p>Contoh iklan baris</p><p>contoh iklan kolom</p><p>contok iklan display</p><p>contoh iklan advertorial</p><p>contoh iklan pemberitahuan</p><p>contoh iklan penawaran</p><p></p><p></p><p></p><p>1. Iklan Tokopedia</p><p>Iklan Tokopedia</p><p></p><p>Salah satu platform belanja online Tokopedia mengeluarkan iklan yang sangat menarik seperti contoh di atas. Dalam iklan ini Tokopedia menggandeng artis kenamaan BTS dari Korea Selatan yang sedang naik daun akhir-akhir ini.</p><p></p><p>Dengar jargon-jargon andalan Tokopedia, iklan menjadi semakin menarik dan mampu diingat masyarakat, seperti salah satunya jargon “Tokopedia, selalu ada selalu bisa”.</p><p></p><p>2. Iklan Wardah</p><p>Iklan Wardah</p><p></p><p>Wardah merupakan salah satu brand kosmetik ternama Indonesia yang terkenal dengan keanggunan dan kecantikan alami wanita. Wardah memiliki jargon atau kata kunci andalannya yaitu “Cantik dari hati” yang mewakili wanita-wanita muslimah.</p><p></p><p></p><p> </p><p>Dalam iklan-iklannya, Wardah selalu menampilkan konsistensinya dalam melayani masyarakat, seperti menyajikan produk kosmetik yang halal dan dapat mendukung penampilan muslimah meski berhijab.</p><p></p><p>3. Iklan Ruangguru</p><p>Iklan Ruangguru</p><p></p><p>Dari iklan jasa, Ruangguru menjadi salah satu bimbingan belajar online yang sangat populer di Indonesia. Kepopulerannya telah dibuktikan dengan bersliwerannya iklan Ruangguru di TV maupun di media yang lainnya.</p><p></p><p>Di atas adalah contoh pariwara komersial Ruangguru dengan jargon andalannya, “Bimbel? Ingat Ruangguru!” dengan brand ambassador-nya Iqbaal Ramadhan.</p><p></p><p>Contoh Ragam Iklan Baris</p><p>Iklan baris merupakan salah satu jenis iklan yang ada di media cetak, biasanya ada di koran. Dinamakan iklan baris karena iklan ini bentuknya hanya berupa tulisan dalam baris. Jumlah kata yang terbatas menjadikan iklan-iklan baris sengaja disingkat.</p><p></p><p></p><p> </p><p>Keterbatasan itu ada kaitannya dengan banyaknya biaya yang harus dikeluarkan untuk setiap tempat yang diisi. Semakin singkat maka akan semakin hemat tempat dan biayanya menjadi lebih murah. Namun, meskipun singkat kalimat iklan baris harus bisa dipahami.</p><p></p><p>Dalam iklan baris selalu menyertakan nomor telepon yang bisa dihubungi jika pembaca berniat dengan penawaran maupun merespons iklan tersebut.</p><p></p><p>Berikut beberapa iklan baris yang biasanya berupa penjualan barang bekas, penjualan rumah, dan bisa juga berupa berita kehilangan dan pengumuman.</p><p></p><p>1. Iklan Penjualan Barang</p><p>Iklan Penjualan Barang</p><p></p><p>Penjualan barang dalam iklan baris biasanya adalah barang bekas pakai atau barang baru yang dijual secara cepat karena membutuhkan uang. Detail barang atau jasa yang ditawarkan dijelaskan dengan kata-kata singkat dan terbatas.</p><p></p><p>Bagian yang dijelaskan di antaranya:</p><p></p><p>Nama barang atau jasa yang ditawarkan.</p><p>Tipe barang dan warnanya.</p><p>Kondisi barang.</p><p>Harga barang, biasanya ditambah dengan keterangan nego jika barang bisa ditawar.</p><p>Nomor yang bisa dihubungi untuk memperoleh informasi penawaran lebih lanjut.</p><p>Contoh kalimat dalam iklan baris penjualan di antaranya:</p><p></p><p>Djl mtr Ymh kndsi bks mls &amp; grnsi, 10 jt nego. Hub 081234900989.</p><p></p><p>2. Iklan Lowongan Pekerjaan</p><p>Iklan Lowongan Pekerjaan</p><p></p><p>Selain penawaran atau penjualan barang maupun jasa, iklan baris juga bisa digunakan sebagai media untuk menawarkan lowongan pekerjaan. Biasanya kalimatnya lebih panjang jika dibandingkan dengan iklan penawaran barang atau jasa karena membutuhkan beberapa persyaratan yang dijelaskan.</p><p></p><p>3. Berita Kehilangan</p><p>Berita Kehilangan</p><p></p><p>Iklan baris seakan memiliki kesan keterburu-buruan karena kalimat yang pendek-pendek dan disingkat. Oleh sebab itu, iklan baris juga bisa digunakan sebagai media pengumuman berita kehilangan dalam kondisi genting.</p><p></p><p>Berita kehilangan yang dipublikasikan melalui iklan baris akan menjangkau lebih banyak orang karena pembaca korang berasal dari banyak daerah.</p><p></p><p>Contoh Iklan Kolom</p><p>Selain iklan baris, di dalam koran juga terdapat iklan kolom untuk mengisi halaman-halaman koran yang kosong. Iklan kolom merupakan iklan koran yang lebih panjang dibandingkan dengan iklan baris.</p><p></p><p>Iklan kolom biasanya juga tidak disingkat, karena space-nya lebih lebar dan bisa memuat gambar kecil berwarna hitam putih. Harga iklan kolom tentu lebih mahal jika dibandingkan dengan iklan baris. Iklan kolom juga tidak terkesan buru-buru karena biasanya barang yang ditawarkan masih baru.</p><p></p><p>Di bawah ini adalah beberapa contoh iklan berbentuk kolom yang ada di koran.</p><p></p><p>1. Iklan Kolom Mobil</p><p>Iklan Kolom Mobil</p><p></p><p>Dari contoh untuk iklan kolom penjualan di atas bisa dilihat bahwa mobil yang ditawarkan sepertinya masih baru karena ada promo. Dengan begitu, iklan mobil seperti itu memang lebih tepat menggunakan iklan kolom dibandingkan iklan baris.</p><p></p><p>2. Iklan Kolom Rumah</p><p>Iklan Kolom Rumah</p><p></p><p>Dibandingkan dengan iklan baris mengenai penyewaan atau penjualan rumah, iklan kolom yang memuat penjualan rumah biasanya tidak terlalu urgent dan bisa ditambahkan detail gambar rumah agar pembaca lebih yakin.</p><p></p><p></p><p>#SEMOGA MEMBANTU# :(</p><p> 1. Mari daftarkan anak Anda ke sekolah kami, karena di sekolah ini memiliki berbagai fasilitas yang lengkap. Fasilitas yang dimiliki sekolah kami sebagai berikut:</p><p>1.ruang kelas ber -ac</p><p>2.perpustakaan</p><p>3.laboratorium komputer</p><p>4.laboratorium fisika</p><p>5.laboratorium biologi</p><p>6.lapangan olah raga</p><p>7.ruang music</p><p>8.tempat/ruang  ibadah</p><p>9. WC </p><p>Ayo segera daftarkan anak Anda, jangan sampai salah pilih hanya disini anak Anda mendapat fasilitas yang lengkap.</p><p></p><p>2.Iklan kolom memuat informasi mengenai penawaran produk serta layanan jasa dan iklan pribadi, seperti ucapan terima kasih, berita duka, dan pernikahan. Persamaan antara iklan baris dengan iklan kolom adalah biasanya iklan dimuat dalam media cetak seperti koran atau majalah.</p><p></p><p>3.Iklan display adalah tipe iklan yang hampir sama juga dengan iklan bikin tetapi dibikin dengan ukuran yang semakin besar. Iklan display bukan hanya berupa tulisan tetapi bisa berupa gambar atau video . Bersamaan dengan perkembangan tehnologi, iklan-iklan yang ada dijalan raya dapat berisi iklan berupa video.</p><p></p><p>4.Iklan advertorial adalah sebuah strategi pemasaran baik itu berupa produk atau jasa yang diiklankan dengan lebih halus dibanding dengan iklan biasanya dan biasa di surat kabar atau majalah</p><p></p><p>5.Iklan pengumuman (pemberitahuan) adalah jenis iklan yang mempunyai tujuan untuk menarik perhatian masyarakat umum mengenai suatu hal-hal yang sifatnya pemberitahuan atau pengumuman. Contoh iklan pengumuman (pemberitahuan) adalah seperti iklan reuni alumni sekolah.</p><p></p><p>6.Iklan penawaran itu sendiri berarti iklan yang isinya merupakan ajakan untuk melakukan sebuah kerjasama kepada pembaca. ... Contohnya ialah iklan penawaran kerjasama, maupun penawaran barang dan jasa.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>semoga membantu</p><p> </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-display-mudah-di-cari">
+                            30. Contoh display mudah di cari</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>televisi,laptop&amp;hp</p><p><strong>Penjelasan:karena barang ini semua dapat dibeli di pasaran elktronik</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-perbedan-antara-open-display-dan-close-display%e2%80%8b">
+                            31. jelaskan perbedan antara open display dan close display​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Open Display:Dimana Barang Diletakkan Secara Terbuka,Sehingga Dapat Melihat Dan Mengamati Tanpa Bantuan Petugas.</p><p></p><p>Close Display:Dimana Barang Diletakkan Didalam Tempat Tertentu,Sehingga Sehingga Konsumen Hanya Dapat Mengamati Saja.</p><p><strong>Penjelasan:</strong></p><p>Maaf Kalau Salah,Semoga Membantu</p><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-iklan-display">
+                            32. apa itu iklan display</h2><br />
+                        iklan display adalah iklan menampilkan produk yg menggunakan gambar yg dapat menarik perhatian para yg membacany,,, semoga membantu <br />
+                                            <h2 class="ez-toc-section" id="barang-apa-saja-yang-biasanya-didisplay-menggunakan-sampling-display">
+                            33. barang apa saja yang biasanya. didisplay menggunakan sampling display</h2><br />
+                        <p>Sampling display adalah pemajangan untuk produk produk baru yang umumnya berupa makanan atau minuman yang dapat langsung dicicipi oleh calon pembeli. Contohnya: buah-buahan, kue, minuman seduh</p><br />
+                                            <h2 class="ez-toc-section" id="ansomoguji-kompetensiseriah-tanda-silang-x-pada-huruf-a-b-c-d-atau-e-di-depan-jawaban-yang-paling-tepata-interior-display-d-architectural-displayaosso-penasaran-disebut-juga-b-open-display">
+                            34. anSOMogUji KompetensiSeriah tanda silang (x) pada huruf a, b, c, d, atau e di depan jawaban yang paling tepat!a interior display d. architectural displayAosso penasaran disebut juga...b. open display e exterior displaya martedi conser à displaySaes concept e stock displaya dosed displayG es promotorBarang-barang dipajangkan pada suatun tem-2 Satu cara penataan produk terutama produk pat terbuka sehingga dapat dihampiri dan di-barang yang diterapkan oleh perusahaan pegang disebut .....Stentu dengan tujuan untuk menarik minata interior display d. architectural displaykonsumen disebut ....b open display e exterior displaya marketing consent d displayc closed displaysales concept e Stock displayas promotionBarang-barang dipajangkan dalam suasana&amp; Mecarik pematan para pembeli dengan caratertutup disebut...menggunakan wama - Wama, lampu - lampu,a interior display d. architectural displaydan sebaginya disebut....e exterior displayceste dan action customerc closed displaysantan dan interest customer10. Memperlihatkan barang-barang dalam penggu-widow displeynaannya disebut ....a interior display d. architectural displayMenimcukan keinginan memiliki barang-barangb. open display e exterior displayyang dicamerican di toko merupakan tujuana dosed displayusia yata11. Pasar malam merupakan contoh dan display ...DOheror display121 dste dan action customerattention den interest customerwidow displaymeror displaycrendsaley5 Manzang barang-barang gambar-gambarkattu harga simbol-simbol dan sebagainya ditegian depan toko disebuta tesre tan action customeraterion dan interest customerc window displaymeror displaye en display&amp; Otavah ini yang merupakan tujuan dari win-un disclay adalaha attention and interest customerdesite and action customermembantu mengkoordinasikan advertisingdan merchandisingi me perkenalan suatu produk secara cepatden eanonisa interior displayb. open displaya closed displayd architectural displaye exterior displayBerikut ini yang merupakan fungsi dari exteriordisplay adalah ....a attention and interest customerb. desire and action customera membantu mengkoordinasikan advertisingdan merchandisingd open displaye untuk menarik perhatian konsumen yanglewat13.untuk menarik perhatian konsumen yangMamajangan barang-barang gambar-gambar,kamar harga dan poster poster di dalamDko seout -Gambar di atas termasuk.a store design and decorationb. dealer displayopen displayd dosed displaye exterior displayPenataan Produk Kelas XII​</h2><br />
+                        <p>1.a</p><p>2.c</p><p>3.b</p><p>4.a</p><p>5.d</p><p>6.d</p><p>7.c</p><p>8.a</p><p>9.b</p><p>10.d</p><p>11.c</p><p>12.a</p><p>13.d</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-floor-display">
+                            35. contoh floor display?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>contoh floor display?</p><br />
+                                            <h2 class="ez-toc-section" id="carilah-contoh-iklan-display-di-lingkungan-sekitar-mu">
+                            36. Carilah contoh iklan display di lingkungan sekitar mu</h2><br />
+                        <p>Jawaban: rumahku di desa</p><p></p><p>Penjelasan: jadi tidak ada iklan display;) </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="contoh-iklan-kolom-dan-iklan-display">
+                            37. contoh iklan kolom dan iklan display</h2><br />
+                        Iklan kolom : Motor Dijual : Ymh F1zr ’99. Knds mls, msn ok, plat BE Lmpg sltn, pjk hdp, 6 jt nego. Hub. 08282 8288 882 Motor Dijual : Hnd Supra X ’08. Knds mls, blm prnh trn msn, plat B, pjk hdp, 8 jt nego. Hub. 0838 8383 827 Motor Dijual : Szk Smsh ’02. Ban bru, body mls, msn ok, plat Bndg (D), pjk mt, 3 jt nego. Hub. 08282 8288 <br />Iklan display :( sama saja dengan iklan kolom tetapi menggunakan warna dan gambar yang menarik)<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-kelebihan-dan-kekurangan-tipe-special-display-dan-gambar-display-nyaa-%e2%80%8b">
+                            38. jelaskan kelebihan dan kekurangan tipe special display dan gambar display nyaa ​</h2><br />
+                        <p><strong>K</strong><strong>e</strong><strong>l</strong><strong>e</strong><strong>b</strong><strong>i</strong><strong>h</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>s</strong><strong>o</strong><strong>l</strong><strong>a</strong><strong>r</strong><strong>y</strong><strong> </strong><strong>d</strong><strong>i</strong><strong>s</strong><strong>p</strong><strong>l</strong><strong>a</strong><strong>y</strong><strong> </strong><strong>y</strong><strong>a</strong><strong>i</strong><strong>t</strong><strong>u</strong><strong> </strong><strong>:</strong><strong> </strong>Membuat pembeli tertarik untuk membeli suatu barang</p><p></p><p><strong>K</strong><strong>e</strong><strong>k</strong><strong>u</strong><strong>r</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>s</strong><strong>o</strong><strong>l</strong><strong>a</strong><strong>r</strong><strong>y</strong><strong> </strong><strong>d</strong><strong>i</strong><strong>s</strong><strong>p</strong><strong>l</strong><strong>a</strong><strong>y</strong><strong> </strong><strong>y</strong><strong>a</strong><strong>i</strong><strong>t</strong><strong>u</strong><strong> </strong><strong>:</strong><strong> </strong>Barang yang di pajang kurang terjaga keamanan nya   </p><p><strong>Penjelasan:</strong></p><p><strong>D</strong><strong>i</strong><strong>s</strong><strong>p</strong><strong>l</strong><strong>a</strong><strong>y</strong><strong> </strong><strong>a</strong><strong>d</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>h</strong><strong> </strong>pemajangan barang dagangan di suatu tempat tertentu untuk menarik minat konsumen untuk melihat dan membeli barang yang di tawarkan tersebut</p><p></p><p>Maaf Kalo Salah Soal Ya Saya Masih Pemula...</p><br />
+                                            <h2 class="ez-toc-section" id="untuk-barang-baranng-yang-sudah-dikenal-luas-sebaiknya-pemajangan-mengguanakan-a-exterior-display-b-interior-display-c-exponent-display-d-window-display-c-open-display">
+                            39. Untuk barang-baranng yang sudah dikenal luas sebaiknya pemajangan mengguanakan A.Exterior display B.Interior display C.Exponent display D.Window display C.Open display</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C.Open display</p><p><strong>Penjelasan:</strong></p><p>karna Open display adalah barang-baranng yang sudah dikenal luas sebaiknya pemajangan </p><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-pengertian-display">
+                            40. apa itu pengertian display</h2><br />
+                        display adalah penataan produk barang yang diterapkan perusahaan tertentu <br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/fkfNTsvQO88?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>wirausaha</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perlengkapan-pameran-yang-digunakan-untuk-memasang-karya-2-dimensi-adalah/">Perlengkapan Pameran Yang Digunakan Untuk Memasang Karya 2 Dimensi Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebutkan-dan-jelaskan-yang-termasuk-dalam-keterampilan-geografi/">Sebutkan Dan Jelaskan Yang Termasuk Dalam Keterampilan Geografi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perhatikan-negara-negara-berikut/">Perhatikan Negara Negara Berikut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dayu-loves-her-mom-because/">Dayu Loves Her Mom Because</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/250-cm-berapa-meter/">250 Cm Berapa Meter</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-bahasa-itu-bermakna/">Contoh Bahasa Itu Bermakna</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/isomer-c7h14/">Isomer C7h14</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ibu-kota-yunani-adalah/">Ibu Kota Yunani Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jarak-daerah-lemparan-bebas-free-throw-yaitu/">Jarak Daerah Lemparan Bebas Free Throw Yaitu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/masmuka/">Masmuka</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/matahari-sebagai-pusat-sistem-tata-surya-memiliki-karakteristik/">Matahari Sebagai Pusat Sistem Tata Surya Memiliki Karakteristik</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/konflik-antara-pengusaha-dengan-buruh-merupakan-contoh-dari-konflik/">Konflik Antara Pengusaha Dengan Buruh Merupakan Contoh Dari Konflik</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-asimetris/">Contoh Asimetris</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/16-3-4/">16 3 4</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fungsi-batang-singkong/">Fungsi Batang Singkong</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/beragam-hasil-produksi/">Beragam Hasil Produksi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/dapatkah-kamu-hidup-sendiri-tanpa-bantuan-teman/">Dapatkah Kamu Hidup Sendiri Tanpa Bantuan Teman</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perkalian-1-sampai-15/">Perkalian 1 Sampai 15</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kontravensi-adalah/">Kontravensi Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tempo-tarian-dengan-iringan-musik-yang-cepat-adalah/">Tempo Tarian Dengan Iringan Musik Yang Cepat Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

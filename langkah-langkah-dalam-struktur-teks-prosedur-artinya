@@ -1,0 +1,1387 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Langkah Langkah Dalam Struktur Teks Prosedur Artinya - BELAJAR</title>
+    <meta name="description" content="Langkah Langkah Dalam Struktur Teks Prosedur Artinya, , , , , , , 0, Deklaratif Dalam Teks Prosedur - Safekey, mp3base.net, 1027 x 737, jpeg, , 20, langkah-langkah-dalam-struktur-teks-prosedur-artinya, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Langkah Langkah Dalam Struktur Teks Prosedur Artinya - BELAJAR" />
+    <meta property="og:description" content="Langkah Langkah Dalam Struktur Teks Prosedur Artinya, , , , , , , 0, Deklaratif Dalam Teks Prosedur - Safekey, mp3base.net, 1027 x 737, jpeg, , 20, langkah-langkah-dalam-struktur-teks-prosedur-artinya, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Langkah Langkah Dalam Struktur Teks Prosedur Artinya - BELAJAR" />
+    <meta name="twitter:description" content="Langkah Langkah Dalam Struktur Teks Prosedur Artinya, , , , , , , 0, Deklaratif Dalam Teks Prosedur - Safekey, mp3base.net, 1027 x 737, jpeg, , 20, langkah-langkah-dalam-struktur-teks-prosedur-artinya, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Langkah Langkah Dalam Struktur Teks Prosedur Artinya</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">Erna23gjigxseyi</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Langkah+Langkah+Dalam+Struktur+Teks+Prosedur+Artinya" alt="Langkah Langkah Dalam Struktur Teks Prosedur Artinya">
+                    </div>
+                    <p></p>
+                    <p>Langkah langkah dalam struktur teks prosedur artinya?</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya">1.
+                                            Langkah langkah dalam struktur teks prosedur artinya?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya-%e2%80%a6">2.
+                                            Langkah-langkah dalam struktur teks prosedur artinya …. </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya">3.
+                                            Langkah-langkah dalam struktur teks prosedur artinya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-dalam-struktur-teks-prosedur-artinya">4.
+                                            Langkah" dalam struktur teks prosedur artinya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya">5.
+                                            Langkah-langkah dalam struktur teks prosedur artinya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#24-perhatikan-kutipan-teks-prosedur-berikut1-setelah-kamu-sampai-pada-halaman2-kunungi-www-blogger-com3-dataran-email-kamy-gmail4-usai-berhasil-login-maka-kamu-akanmenuju-halaman-dashboard-bio">6.
+                                            24. Perhatikan kutipan teks prosedur berikut1) Setelah kamu sampai pada halaman2) kunungi www.blogger.com3) Dataran email kamy (gmail)4) Usai berhasil login, maka kamu akanmenuju halaman dashboard biog, dan kamubisa memulai membuat blog baruSimpulan teks prosedur tersebut adalaha. kamu bisa membuat blog di googleb. untuk membuat blog kamu harusmempunyai emailc. langkah pertama membuat blog adalahmenuju halaman dashboard blogd. tidak setiap orang bisa membuat blogsendiri25. Bacalah teks berikut dengan saksamalBatik merupakan kekayaan khas IndonesiaBatik sudah diakui oleh dunia sebagai warisanbudaya dari Indonesia. Mengenakan batikberarti kita melestarikan kekayaan budayaIndonesia. Oleh karena itu, kali ini kita akanmembahas cara membuat kain batik sendiriBerikut ini bahan dan alat yang harusdisiapkanKutipan teks prosedur tersebut merupakanbagian struktura. tujuanb. bahan dan alatc. langkah-langkahd. penutup​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cara-scan-qr-code-dari-aplikasi-peduli-lindungi-sertifikat-vaksinasi-covid-19-kini-telah-tersedia-di-aplikasi-peduli-lindungi-sertifikat-tersebut-juga-menjadi-syarat-untuk-beberapa-kegiatan-selama-pa">7.
+                                            Cara scan QR Code dari aplikasi Peduli Lindungi Sertifikat vaksinasi Covid-19 kini telah tersedia di aplikasi Peduli Lindungi. Sertifikat tersebut juga menjadi syarat untuk beberapa kegiatan selama pandemi, seperti masuk mall. Masyarakat pun perlu mengetahui caranya Berikut cara scan QR Code dari aplikasi Peduli Lindungi. 1. Buka aplikasi Peduli Lindungi dan login. 2. Dari menu utama, pilih scan QR di lokasi tujuan Anda 3 Scan QR Code tersedia di lokasi pintu masuk mall. 4. Tunjukkan hasil QR Code kepada petugas atau Satpam mall. 5. Jika muncul warna hijau berarti Anda boleh masuk mall. Jika warna kuning, petugas akan melakukan verifikasi ulang. Jika warna merah, Anda tidak boleh masuk mall. Bagaimana, tidak sulit bukan? Selamat mencoba! Struktur teks prosedur tersebut yang tepat adalah .... tujuan - langkah-langkah - alat dan bahan O tujuan - alat dan bahan - langkah- langkah O tujuan - alat dan bahan - penutup O tujuan - langkah-langkah - penutup​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya">8.
+                                            Langkah-langkah dalam struktur teks prosedur artinya....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedurartinya-%e2%80%8b">9.
+                                            Langkah-langkah dalam struktur teks prosedurartinya...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya">10.
+                                            Langkah-langkah dalam struktur teks prosedur artinya.......</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-teks-prosedur-merupakan-teks-yang-berisi-a-tujuan-dan-langkah-langkahb-langkah-langkahc-tujuand-laporan2-contoh-teks-prosedur-sederhana-adalah-a-jika-terkena-tilangb-cara-membuat-atmc-me">11.
+                                            1. teks prosedur merupakan teks yang berisi..a. tujuan dan langkah-langkahb. langkah-langkahc. tujuand. laporan2. contoh teks prosedur sederhana adalah...a. jika terkena tilangb. cara membuat ATMc. mengoperasikan setrikad. membuat KTP3. struktur teks prosedur melakukan pekerjaan yang tepat adalah...a. tujuan dan manfaatb. tujuan dan langkah-langkahc. orientasi, komplikasi, dan resolusid. orientasi, resolusi, dan koda4. ciri kebahasaan yang terdapat pada teks prosedur kompleks antara lain...a. sopan dan santunb. bakuc. singkat, padat, dan jelasd. komunikatif dan baku5. hutan murni, memiliki pepohonan yang sebagian besar berasal dari satu jenis, walaupun begitu tidak berarti hanya ada satu jenis pohon saja di hutan murni.konjungsi pada kalimat diatas menyatakan hubungan...a. tujuanb. syaratc. konsesifd. pengakibatan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya-a-hasil-akhir-yang-akan-dicapai-b-cara-caranya-c-pengertian-d-penjelas-e-penafsiran">12.
+                                            langkah langkah dalam struktur teks prosedur artinya A.hasil akhir yang akan dicapai B.cara caranya C.pengertian D.penjelas E.penafsiran</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya-hi%e2%80%8b">13.
+                                            Langkah-langkah dalam struktur teks prosedur artinya hi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-teks-prosedur-merupakan-teks-yang-berisi-a-tujuan-dan-langkah-langkahb-langkah-langkahc-tujuand-laporan2-contoh-teks-prosedur-sederhana-adalah-a-jika-terkena-tilangb-cara-membuat-atmc-me">14.
+                                            1. teks prosedur merupakan teks yang berisi..a. tujuan dan langkah-langkahb. langkah-langkahc. tujuand. laporan2. contoh teks prosedur sederhana adalah...a. jika terkena tilangb. cara membuat ATMc. mengoperasikan setrikad. membuat KTP3. struktur teks prosedur melakukan pekerjaan yang tepat adalah...a. tujuan dan manfaatb. tujuan dan langkah-langkahc. orientasi, komplikasi, dan resolusid. orientasi, resolusi, dan koda4. ciri kebahasaan yang terdapat pada teks prosedur kompleks antara lain...a. sopan dan santunb. bakuc. singkat, padat, dan jelasd. komunikatif dan baku5. hutan murni, memiliki pepohonan yang sebagian besar berasal dari satu jenis, walaupun begitu tidak berarti hanya ada satu jenis pohon saja di hutan murni.konjungsi pada kalimat diatas menyatakan hubungan...a. tujuanb. syaratc. konsesifd. pengakibatan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#teks-yang-berisi-isumasalah-yang-diperdebatkan-oleh-beberapa-orang-disebut-%c2%a0a-teks-cerita-moralb-teks-prosedurc-teks-biografid-teks-diskusi3-berikut-ini-fungsi-dari-struktur-isu-adala">15.
+                                            . Teks yang berisi isu/masalah yang diperdebatkan oleh beberapa orang disebut.... *A. Teks cerita moralB. Teks prosedurC. Teks biografiD. Teks diskusi3. Berikut ini fungsi dari struktur isu adalah.... *A Memberikan pernyataan dukunganB Memberikan pernyataan penolakanC Mengantarkan pembaca kepada persoalan yang akan dibahasD. Merupakan kesimpulan4. Memberikan keputusan akhir yang bersifat menengahi permasalahanStruktur teks diskusi yang berisi pendapat-pendapat pro dan kontra adalah.... *A.JudulB.IsuC.ArgumenD.Simpulan5.Perhatikan langkah-langkah menyusun teks diskusi di bawah ini....1. Mengumpulkan data2. Menentukan topik3. Mencari solusi4. Memulai menulisUrutan yang tepat agar menjadi langkah menyusun teks diskusi yang baik adalah.... A.1,2,3,dan 4B.4,3,2,dan 1C..2,1,3,dan 4D.2, 3, 1 dan 46.Tujuan dari pengidentifikasian dalam teks diskusi adalah.... *A.Membuat teks menjadi lebih pendekB.Memperbaiki teks yang disajikanC.Menentukan kekurangan dan kelebihan teksD.Menentukan kelebihan saja7.Perhatikan kutipan teks di bawah ini....Masyarakat internasional memiliki perhatian yang besar tentang hal ini. Dari dulu hingga sekarang pembangunan stasiun tenaga nuklir masih tetap problematik dan ramai dibicarakan. Melalui pemaparan tersebut, apa yang dapat Anda kemukakan?Kutipan teks di atas meripakan kesimpulan yang bersifat.... *A.Memberikan jalan keluarB.Memberikan solusiC.Merumuskan dua pendapatD.Membuka lebar pembaca untuk urun usul atau komentar8.Dalam berdebat dibutuhkan salah satu kompetensi sebagai berikut.... A.Kompetensi atau kemampuan menganalisisB.Berbicara panjang lebar dalam menyampaikan gagasanC.Kecakapan dalam membantah pendapat lawan bicaraD.Meremehkan argumen lawan bicara9.Salah satu fungsi meringkas teks diskusi adalah.... *A.Memanjakan pembaca karena tidak perlu membacakan teks secara utuhB.Menumbuhkan sikap malas bagi pembacaC.Untuk dapat memahami isi teks tanpa harus membaca secara keseluruhanD.Membuat pembaca tidak perlu berfikir keras dalam mengartikan sebuah teks diskusi10.Berkut ini yang termasuk dalam kategori sikap demokratis dalam berdebat adalah.... A.Tidak memberi kesempatan bicara kepada lawan bicaraB.Memotong pembicaraan lawanC.Memberi kesempatan kepada lawan bicara untuk memberikan argumenD.Sikap acuh tak acuh saat teman sedang menyampaikan pendapat dan argumennya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#16-pernyataan-di-atas-adalah-tahap-kegiatan-yang-disebut-%e2%80%a6-%c2%a0cermatilah-teks-berikuttanaman-selada-sebenarnya-tahan-dalam-keadaan-segar-selama-beberapa-waktu-dengan-catatanpada-saat-men">16.
+                                            16.Pernyataan di atas adalah tahap kegiatan yang disebut …. *Cermatilah teks berikut!Tanaman selada sebenarnya tahan dalam keadaan segar selama beberapa waktu.Dengan catatan,pada saat menyimpan sebaiknya di tempat yang dingin.Caranya tempat itu ditaburi butiran atau remukan esA. pembersihanB. pengelompokkanC. pengemasanD. penyimpanan17.Tujuan adalah ... *A. Cara-cara yang ditempuh agar tujuan itu tercapaiB. Hasil akhir yang akan dicapaiC. Pendapat yang disertai dataD. Gagasan utama penulis yang dinyatakan dalam bentuk pernyataan pendapat18.Berikut adalah contoh kalimat imperatif, kecuali ... *A. Kenali si petugas.B. Terima atau tolak tuduhan.C. Pastikan tuduhan pelanggaran.D. Pengendara memahami kesalahannya.19.Tujuan dari teks prosedur kompleks adalah ... *A. Mengelompokkan berbagai hal ke dalam jenis-jenis sesuai dengan ciri-ciri setiap jenis pada umumnya.B. Memberi petunjuk tentang cara-cara melakukan sesuatu.C. Mengungkap kebenaran yang lebih umum.D. Mengurangi perbedaan posisi setiap pihak.20.Berikut ini bukan merupakan ciri-ciri kebahasaan yang terdapat dalam teks prosedur kompleks ... *A. Menggunakan partisipan manusiaB. Menggunakan kalimat alternatif.C. Menggunakan kalimat imperatif.D. Menggunakan konjungsi syarat.21.Jika pengendara melakukan pelanggaran, tentu pihak yang berwajib menilangnya. Kalimat tersebut mengandung ... *A. Partisipan manusia.B. Partisipan bukan manusia.C. Partisipan pronomina.D. Partisipan alat.22.Cara-cara yang ditempuh agar tujuan tercapai merupakan bagian dari struktur prosedur yang disebut ... *A. Langkah-langkahB. TujuanC. ReaksiD. Orientasi23.Teks yang berisi langkah-langkah/tahap-tahap yang harus ditempuh untuk mencapai suatu tujuan disebut... *A. EksposisiB. LaporanC. Prosedur kompleksD. Negosiasi24.Struktur teks prosedur kompleks yaitu... *A. Tujuan – langkah-langkahB. Abstraksi – orientasi – krisis – reaksi – kodaC. Pernyataan pendapat – argumentasi – penegasan ulang pendapatD. Pembukaan – isi – penutup25.Menurut artinya, kalimat imperatif adalah... *A. Kalimat yang berisi pernyataanB. Kalimat yang mengandung perintahC. Kalimat yang berisi pertanyaanD. Kalimat untuk meminta/melarang seseorangù7​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya-%e2%80%a6-a-hasil-akhir-yang-akan-dicapai-b-cara-caranmya-c-pengertian-d-tahap-awal-saja-e-penjelasan%e2%80%8b">17.
+                                            Langkah-langkah dalam struktur teks prosedur artinya ….* a. hasil akhir yang akan dicapai b. cara-caranmya c. Pengertian d. Tahap awal saja e. Penjelasan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#12-langkah-langkah-dalam-struktur-teks-prosedur-artinyaa-hasil-akhir-tercapaib-cara-caranyac-pahamd-sebuah-penjelasane-interpretasi%e2%80%8b">18.
+                                            12. Langkah-langkah dalam struktur teks prosedur artinyaa. hasil akhir tercapaib. cara-caranyac. pahamd. sebuah penjelasane. interpretasi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya%e2%80%a6-a-hasil-akhie-tercapaib-cara-caranyac-pahamd-sebuah-penjelasne-interpretasi%e2%80%8b">19.
+                                            Langkah-langkah dalam struktur teks prosedur artinya… *A. hasil akhie tercapaiB. cara-caranyaC. pahamD. sebuah penjelasnE. interpretasi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya">20.
+                                            Langkah-langkah dalam struktur teks prosedur artinya....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya-%e2%80%8b">21.
+                                            langkah langkah dalam struktur teks prosedur artinya..​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#25-objek-teks-penjelasan-di-atas-adalah-a-asal-mula-bahasa-melayub-asal-usul-lingua-prancisc-asal-usul-orang-indonesiad-asal-mula-bahasa-prasasti-kuno26-paragraf-ketiga-dalam-teks-prosedural">22.
+                                            25. Objek teks penjelasan di atas adalah ...a. Asal mula bahasa Melayub. Asal usul Lingua Prancisc. Asal usul orang Indonesiad. Asal mula bahasa prasasti kuno26. Paragraf ketiga dalam teks prosedural berisia. tujuanb. interpretasinoc. langkah-langkahnyad. tesis27. Langkah-langkah dalam struktur teks prosedur berarti ...a. hasil akhir tercapaic. pahamb. carad. sebuah penjelasan28. Persyaratan dan pemilihan kata yang benar dalam teks prosedural adalah ...a. siapa, dimana, kapanc. dan denganb.jika, jika dan kapane. kapan, dimana29. Contoh konjungsi target nyata adalah ...a. tapib. jadi ituc. ketikad. jadi itu30. Ceramah ini komprehensif dan tidak ada batasan untuk pemirsa muda dan tua. Ini disebutceramaha. khususnyac. ilegalb. umumnyad. eksterior​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nondankuranbestugas-mengungkapkan-kembali-struktur-dankebahasaan-teks-prosedurnilaibacalah-teks-prosedur-berikut-dengan-saksamarahasia-mengatasi-rasa-malas-belajarrasa-malas-belajar-bukanlah-satu-ma">23.
+                                            NONDANKURANBESTugas: Mengungkapkan Kembali Struktur danKebahasaan Teks ProsedurNilaiBacalah teks prosedur berikut dengan saksama!Rahasia Mengatasi Rasa Malas BelajarRasa malas belajar bukanlah satu masalah baru bagi para pelajar. Bukan rahasia umumlagi, kalau ingin menjadi orang sukses haruslah memiliki sikap disiplin yang tinggi. Tidak ada sedikitpun sifat malas dalam diri kita. Apakah itu malas belajar, malas membaca, malas berolahraga, danmalas-malas lainnya. Ketika rasa malas sudah kita beri ruang di dalam diri kita, maka tamatlahsudah. Kita akan diperdaya oleh rasa malas itu sendiri. Untuk itulah Anda harus melawan rasa malasbelajar yang sering menghinggapi agar dapat tercapai tujuan atau cita-cita yang Anda harapkan.Berikut beberapa tips rahasia cara mengatasi rasa malas dalam belajar.1. Menentukan tujuan tertulis dari apa yang ingin Anda capai. Tujuan memberi pengaruh yangsangat besar kepada diri kita saat ingin mencapai sesuatu. Apakah itu nilai, aplikasi dari belajar,atau ikut olimpiade misalnya. Ketika Anda memiliki satu tujuan yang jelas dan spesifik, makasecara tidak sadar pikiran Anda akan memfokuskan energinya untuk mencapai tujuan tersebut.2. Merumuskan strategi belajar. Strategi belajar yang tepat merupakan salah satu solusi untukmengatasi kebiasaan malas belajar. Ini sangat bermanfaat karena akan memudahkan Andadalam belajar di sekolah.3. Membuat prioritas dalam belajar. Dengan membuat dan memberikan prioritas pada pelajaranyang Anda kurang kuasai, Anda akan semakin mudah mengerti materi yang sedang Andaprioritaskan untuk kuasai. Bertanya kepada teman atau guru akan lebih membantu Anda.4. Memperhatikan posisi belajar. Bila Anda belajar sambil tidur-tiduran lambat laun Anda pastiakan tertidur. Akan sangat sulit untuk menahan diri untuk tidak tidur. Bila Anda belajar sambiltiduran, secara psikologis, tubuh akan mengartikan bahwa Anda tidak siap dan serius untukbelajar. Belajarlah di atas meja belajar dengan pencahayaan yang cukup supaya Anda dapatmenjaga konsentrasi dan mood dalam belajar.5. Ambil tindakan kecil mengubah kebiasaan malas belajar. Cara untuk mengatasi rasa malasadalah dengan melakukan langkah kecil. Bila Anda melakukan tindakan, meskipun itu tindakanyang sangat kecil. Bila terus dilakukan secara terus-menerus, perlahan tapi pasti Anda akanmemiliki kebiasaan untuk belajar dan disiplin yang baik. Dengan begitu, Anda bisa mengatasikebiasaan malas belajar dalam diri Anda.Dari uraian di atas Anda diharapkan bisa mengatasi atau melawan rasa malas belajar. Diawalidengan tujuan, merumuskan strategi belajar, hingga yang terpenting tindakan nyata.1.Identifikasikan struktur pembentuk teks tersebut secara jelas, kemudian simpulkan teks tersebutberdasarkan kelengkapan strukturnya! Buatlah laporan kegiatan dalam format tabel berikut!Struktur Teks ProsedurPembahasana.Tujuanb.Langkah-langkahC.Penegasan ulangSimpulan:​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-perhatikan-kutipan-teks-prosedur-berikut1-panaskan-mentega-lalu-masukkanbumbu-halus-dan-cabai-merah-masaklahhingga-harum2-masukkan-nasi-ayam-udang-kemudianaduk-lagi-hingga-tercampur-rata">24.
+                                            2 Perhatikan kutipan teks prosedur berikut!(1) Panaskan mentega, lalu masukkanbumbu halus dan cabai merah, masaklahhingga harum!(2) Masukkan nasi, ayam, udang, kemudianaduk lagi hingga tercampur rata!(3) Tambahkan saus tomat dan kecapmanis, lalu aduk hingga benar-benar ratadan tercampur sempurna!(4) Sajikan selagi hangat dengan bahanpelengkapnya!Kutipan tersebut merupakan bagian struktura. pembukaan c. langkah-langkahb. tujuand. penutup3. Produk nata de coco yang dikemas secarasederhana dan berukuran relatif kecil dapatdipasarkan dengan sistem konsinyasi diwarung- warung, toko tetangga, warung disekolah, atau di kampus.Arti kata konsinyasi dalam kutipan tersebutadalah....a. titip jual c. sistem bonusb. bagi hasil d. bayar di depan4. Bacalah teks prosedur berikut!(1) Tutup kembali bagian yang sudah dibuka.(2) Buka tutup bagian belakang.(3) Tekan tombol dengan baik.(4) Masukkan baterai dengan kepala ke arahdepan semuanya.Urutan penggunaan lampu senter secaratepat adalah ....a. (1)-(2) - (3) - (4) c. (3) - (2) - (4)-(1)b. (2) - (4)-(1)-(3) d. (4)-(3) -(1)-(2).  ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-teks-prosedur-disusun-berdasarkan-urutan-dari-mudah-ke-sulitb-urutan-penting-menuju-tidak-pentingc-urutan-sederhana-menjadi-kompleksd-urutan-khusus-menjadi-umum2-struktur-teks-prosedur-adal">25.
+                                            1. Teks prosedur disusun berdasarkan ....urutan dari mudah ke sulitb. urutan penting menuju tidak pentingC. urutan sederhana menjadi kompleksd. urutan khusus menjadi umum2. Struktur teks prosedur adalah ....a. tujuan - langkah-langkahb. abstraksi - orientasi - krisis - reaksiC. klasifikasi - aspek yang dilaporkand. judul - pendahuluan alat/bahantujuan - langkah-langkah3. Berikut yang termasuk arti dan langkah-langkah dari teks prosedur adalah ....a. sesuatu yang dikerjakanb. suatu rencanaC. hasil akhir yang dicapaid.cara untuk mencapai tujuan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dalam-struktur-teks-prosedur-artinya%e2%80%a6">26.
+                                            Langkah-langkah dalam struktur teks prosedur artinya…</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sekolah-paket-charitanggal-22-september-2020mapel-bahasa-indonesiaberilah-tanda-silang-x-pada-huruf-abc-atau-d-pada-jawaban-yang-benar-1-kalimat-dalam-teks-prosedur-tidak-membingungka">27.
+                                            Sekolah : Paket C
+Hari/Tanggal : 22 September 2020
+Mapel : Bahasa Indonesia
+Berilah tanda silang (x) pada huruf a,b,c atau d pada jawaban yang benar !
+1. Kalimat dalam teks prosedur tidak membingungkan dan mudah diikuti berarti kalimat tersebut...
+A. Logis
+B. Jelas
+C. Baku
+D. Singkat
+2. Berikut yang bukan merupakan contoh dari konjungsi temporal adalah...
+A. Mengapa
+B. Selanjutnya
+C. Kemudian
+D. Apabila
+3. " Jangan serahkan kendaraan atau STNK begitu saja" merupakan kalimat ...
+A. Interogatif
+B. Imperatif
+C. Deklaratif
+D. Primitif
+4. Jika, seandainya, apabila, merupakan bagian dari ...
+A. Konjungsi temporal
+B. Verba tingkah laku
+C. Pembukaan
+D. Konjungsi syarat
+5. "Pastikan tuduhan pelanggaran" merupakan contoh dari...
+A. Deklaratif
+B. Interogatif
+C. Imperatif
+D. Persuasive
+Bacalah teks berikut untuk menjawab soal nomor 6-7 !
+Teks tersebut terdiri dari pendahuluan dan rincian-rincian tentang sebab terjadinya gempa bumi. Bagian pendahuluan terdiri dari tiga paragraf yang berisi pengertian gempa bumi dan jenis-jenisnya. Bagian perincian terdiri atas lima paragraf. Paragraf pertama membahas...
+6. Teks diatas adalah penilaian hasil analisis teks eksplanasi bagian ...
+A. Kaidah
+B. Bahasa
+C. Struktur
+D. Kesimpulan
+7. Hal yang tidak diungkap dalam penilaian laporan hasil analisis teks eksplanasi diatas adalah...
+A. Rincian sebab terjadinya gempa bumi
+B. Jumlah paragraf
+C. Pengertian gempa bumi
+D. Proses terjadinya gempa bumi
+8. Objek teks eksplanasi di atas adalah...
+A. Asal usul bahasa Melayu
+B. Asal usul bahasa Lingua France
+C. Asal usul bahasa Indonesia
+D. Asal usul suka Melayu
+9. Paragraf ketiga dalam teks prosedur berisi...
+A. Tujuan
+B. Interpretas
+C. Langkah-langkah
+D. Tesis
+10. Langkah-langkah dalam struktur teks prosedur artinya. ..
+A. Hasil akhir yang akan dicapai
+B. Cara-caranya
+C. Pengertian
+D. Penjelasan.
+Berikan jawabannya ya Kaka"</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#42-bacalah-paragraf-berikut-inilbatik-merupakan-kekayaan-khas-indonesia-batik-sudah-diakui-oleh-dunia-sebagai-warisan-budayadari-indonesia-mengenakan-batik-berarti-kita-melestarikan-kekayaan-budaya">28.
+                                            42. Bacalah paragraf berikut inilBatik merupakan kekayaan khas Indonesia. Batik sudah diakui oleh dunia sebagai warisan budayadari Indonesia. Mengenakan batik berarti kita melestarikan kekayaan budaya Indonesia. Oleh karenaitu, kali ini kita akan membahas cara membuat kain batik sendiri. Berikut ini bahan dan alat yang harusdisiapkan.Kutipan teks prosedur tersebut merupakan bagian struktur ....a. Tujuanc. Langkah-langkahb. Bahan dan alatd. Penutup​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cara-membuat-nasi-goreng-dadakanberikut-adalah-cara-membuat-nasi-goreng-dadakan-karenanamanya-nasi-goreng-dadakan-berarti-nasi-goreng-yang-dibuatsecara-mendadak-dan-dengan-bahan-seadanya-buat-kalia">29.
+                                            Cara Membuat Nasi Goreng DadakanBerikut adalah cara membuat nasi goreng dadakan. Karenanamanya Nasi Goreng Dadakan, berarti nasi goreng yang dibuatsecara mendadak dan dengan bahan seadanya. Buat kalian yangmau mencoba membuat nasi goreng ini, bisa kalian siapkanbahari-bahannya serta ikuti langkah-langkahnya. Mari kita mulailBahan-bahan:Satu piring nasi putih, 2 siung bawang merah, 1 siung bawangputih, daun bawang secukupnya, 1 buah tomat, 2 buah caberawit, bawang goreng secukupnya, 1 butir telur ayam, kecapmanis, 1 sendok teh garam, kaldu bubuk secukupnya.Cara membuat:1. Iris tomat, cabe rawit, bawang merah, bawang putih, dandaun bawang2. Tumis bawang merah dan bawang putih hingga harum lalumasukan irisan daun bawang.3. Kemudian masukan nasi serta irisan tomat4. Setelah itu masukan telur, kecap manis, kaldu bubuk, danjuga garam secukupnya. Kemudian, setelah tercampuraduk sampai merata.5. Setelah merata dan kecap kering, nasi goreng dadakansiap disajikan.....identifikasi teks di atas berdasarkan struktur teks prosedur?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#puwu-luno-dalam-bahasa-melayu25-objek-teks-penjelasan-di-atas-adalah-a-asal-mula-bahasa-melayub-asal-usul-lingua-prancisc-asal-usul-orang-indonesiad-asal-mula-bahasa-prasasti-kuno26-paragraf">30.
+                                            puwu Luno dalam bahasa Melayu25. Objek teks penjelasan di atas adalah ...a. Asal mula bahasa Melayub. Asal usul Lingua Prancisc. Asal usul orang Indonesiad. Asal mula bahasa prasasti kuno26. Paragraf ketiga dalam teks prosedural berisi ...a. tujuanb. interpretasic. langkah-langkahnyad. tesis27. Langkah-langkah dalam struktur teks prosedur berarti ...a. hasil akhir tercapaic. pahamb. carad. sebuah penjelasan28. Persyaratan dan pemilihan kata yang benar dalam teks prosedural adalah ...a. siapa, dimana, kapanc. dan denganb. jika, jika dan kapane. kapan, dimana29. Contoh konjungsi target nyata adalah ...a. tapib. jadi ituc. ketikad. jadi itu2. Ceramah ini komprehensif dan tidak ada batasan untuk pemirsa muda dan tua. Ini disebutceramah ...a. khususnyac. ilegalb. umumnyad. eksterior​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-langkah-langkah-dalam-struktur-teks-prosedur">31.
+                                            arti langkah-langkah dalam struktur teks prosedur?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-kalimat-dalam-petunjuk-yang-dapat-menuntun-calon-pemakai-suatu-barang-atau-produk-untuk-bisa-mengikuti-langkah-langkah-dalam-petunjuk-tersebut-dinamakan2-struktur-teks-berisi-tujuan-dari-pembuatan-t">32.
+                                            1.kalimat dalam petunjuk yang dapat menuntun calon pemakai suatu barang atau produk untuk bisa mengikuti langkah langkah dalam petunjuk tersebut dinamakan2.struktur teks berisi tujuan dari pembuatan teks prosedur yang akan dicapai disebut struktur 3.unsur dalam laporan hasil observasi yang terdiri atas definisi umum yang menjadi4.melakukan kegiatan observasi berarti melakukan 5.teks yang menggambarkan atau melukiskan sesuatu disebut </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-perhatikan-petikan-teks-prosedur-berikut-petunjuk-membuat-jus-sehat-kacang-hijau-1-sediakan-kacang-hijau-secukupnya-dan-cuci-sampai-bersih-2-rebus-kacang-hijau-bersama-daun-pandan-hingga-lunak">33.
+                                            1. Perhatikan petikan teks prosedur berikut! Petunjuk Membuat Jus Sehat Kacang Hijau 1. Sediakan kacang hijau secukupnya dan cuci sampai bersih. 2. Rebus kacang hijau bersama daun pandan hingga lunak 3. Angkat kacang hijau yang sudah lunak dan dinginkan. 4. Setelah dingin, blender kacang hijau hingga halus 5. Sementara itu, rebus gula jawa sampai kental 6. Tuangkan larutan gula kental ke dalam kacang hijau halus 7. Supaya lebih nikmat, tambahkan santan masak yang telah diberi sedikit garam 8. Jus sehat kacang hijau siap disajikan panas atau dingin. Pernyataan yang merupakan saran agar pembuatan jus tersebut maksimal adalah.... A. Sebaiknya pada langkah kedelapan tidak perlu menggunakan kata "dingin".  B. Akan lebih jelas jika pada langkah pertama disertakan ukuran satuannya. C. Kata "hingga lunak" pada langkah kedua hendaknya dihilangkan. D. Pada langkah ketujuh tidak perlu ada frasa "supaya lebih nikmat" 2. Perhatikan kutipan teks prosedur berikut! Batik sebagai warisan budaya adiluhung perlu kita lestarikan. Proses pembuatan batik tulis memerlukan teknik, ketelitian, dan kesabaran yang tinggi. Hal itu bukan berarti kita tidak bisa membuat kain batik tulis Dengan berani mencoba dan tekun berlatih untuk melestarikan budaya, kita dapat membuat batik tulis dengan motif yang kita sukal. Kutipan tersebut merupakan struktur teks prosedur bagian A. tujuan B. penutup C. alat dan bahan D. langkah-langkah  Bantu jawab hari ini​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-rotasi-adalah-hal-yang-berhubungan-dengan-khayalan-dengan-sesuatu-yang-tidak-benar-benar-ada-dan-hanya-ada-dalam-bedak-pikiran-saja-kata-selain-untuk-fantasi-adalaha-mimpi-c-perlakuan-b">34.
+                                            1.rotasi adalah hal yang berhubungan dengan khayalan dengan sesuatu yang tidak benar-benar ada dan hanya ada dalam bedak pikiran saja kata selain untuk fantasi adalahA. mimpi          C. perlakuan B. pengalaman   D. imajinasi 2. yang bukan termasuk ciri-ciri fantasi adalah A. ide cerita yang terbuka B. terdapat keanehan kemisteriusanC.religius dan sosialD.Fiksi dan khayalan 3. langkah-langkah struktur penyusunan teks prosedur adalah A. tujuan-langkah-bahan-dan alat-penutup B. tujuan bahan dan alat langkah penutupC. tujuan penutup langkah bahan dan alatD. tujuan bahan dan alat penutup langkah4. Berikut ini merupakan puisi rakyat empat baris sebait bersajak a-b-a-b dua baris pertama merupakan sampiran dan dua baris lainnya merupakan isi penjelasan tersebut merujuk pada pengertianA. pantun B. gurindam C. selokaD. talibur 5. penulisan tanggal surat yang benar adalah A. Tanjung 24 Desember 08B. Tanjung 24 Desember 2008 C. Tanjung 24-12-2008 D. Tanjung 24 dec 20086. buku nonfiksi lebih populer di kalangan pembaca yang tidak terlalu membaca karena mereka membeli buku-buku tersebut terdesak oleh A.  minat bacaB. keutuhan dan pengetahuanC. keinginanD. buat untuk bacaessay.1. Tuliskan struktur teks tanggapan deskriptif2. puisi lama yang berasal dari negeri India yang berarti mula-mula atau perumpamaan disebut3. cerita fiksi berupa dongeng yang menggambarkan budi pekerti manusia yang diibaratkan pada beberapa binatang disebut4. Tuliskan dua jenis surat yang kamu ketahui5. Tuliskan pengertian fiksi dan nonfiksiTolong jawab ya Kakak baik aku doakan semoga kalian lulus dan kelas dan dapat juara kelas amin...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-kalimat-prosedur-berfungsi-untuk-a-memberikan-informasi-atau-berita-tentang-sesuatub-memberikan-penegasan-terhadap-berita-tentang-sesuatuc-memberikan-pertanyaan-terhadap-berita-sesuatud-memberikan">35.
+                                            1.Kalimat prosedur berfungsi untuk...A.memberikan informasi atau berita tentang sesuatuB.memberikan penegasan terhadap berita tentang sesuatuC.memberikan pertanyaan terhadap berita sesuatuD.memberikan tanggapan terhadap berita sesuatu2.Kalimat berikut merupakan bagian dari teks prosedur kompleks yang termasuk kalimat perintah biasa,kecuali...A.masukan bahan A ke dalam campuran bahan B dalam wadah biruB.biarkan mendidih selama tiga menit baru matikan apiC.lakukan pemeriksaan setiap dua jam sekaliD.jangan gunakan tangan telanjang untuk mengambil akar pohon ini3.Struktur teks prosedur kompleks yang pertama,yaitu...A.langkah langkahB.tujuanC.aturanD.tahap tahap4.Berikut yang merupakan kalimat imperatif,yaitu...A.petugas harus menolak pemberian andaB.apakah lingkungan aman?C.siapakah yang menolak tuduhan?D.tekan tombol power pada remote televisi!5.Verba yang mengacu pada tindakan fisik,merupakan arti dari...A.verba tingkah lakuB.verba deverbal C.verba aksiD.verba materialTolong di jawab y soalnya buat besok...mksh.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#14-berdasarkan-teks-prosedur-tersebut-fungsi-sosteks-tersebut-adalah-a-menginformasikan-berbagai-alat-mustradisional-yang-ada-di-pulau-jawa-b-menunjukkan-cara-memainkan-alat-musikbonang-melalui">36.
+                                            14. Berdasarkan teks prosedur tersebut, fungsi sosteks tersebut adalah ..a. Menginformasikan berbagai alat mustradisional yang ada di Pulau Jawa.b. Menunjukkan cara memainkan alat musikbonang melalui serangkaian langkah.Menyampaikan maksud pembuatan teksprosedur secara jelas dan tepat.d. Menjelaskan berbagai teknik cara bermainalat musik bonang secara tepat.15. Salah satu ciri teks prosedur adalah menggunakankalimat imperatit Kalimat imperatif pada strukturlangkah-langkah ditunjukkan oleh urutan ...a. ke-1 dan ke-2b. ke-2 dan ke-3c. ke-3 dan ke-4d. ke-4 dan ke-510. Simpulan yang tepat berdasarkan teks prosedurtersebut adalah ...a. Bonang merupakan alat musik pukul yangberfungsi mengiringi melodi pokok. Alatmusik ini masih dilestarikan hingga saatini.Bonang merupakan alat musik tradisionalyang dimainkan dengan dipukul. Saatmemainkan bonang, kita harus mengikutipetunjuk memainkan yang runtut.Bonang merupakan alat musik yang berasaldari Pulau Jawa. Penyebaran alat musik inimeliputi Jawa Tengah dan Jawa Timur.d. Bonar merupakan alat musik yang harusdikenalkan kepada generasi muda. Turutmemainkan alat musik bonang berarti turutmelestarikan kesenian Indonesia.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-kata-deskripsi-berasal-dari-verba-to-describe-yang-artinya-2-berikut-merupakan-ciri-umum-teks-atau-paragraf-deskripsi-adalah-teks-deskripsi-bacalah-teks-berikut-dengan-cermat-untuk-menjawab-s">37.
+                                            1. Kata deskripsi berasal dari verba to describe yang artinya... 2. Berikut merupakan ciri umum teks atau paragraf deskripsi adalah teks deskripsi.. Bacalah teks berikut dengan cermat untuk menjawab soal nomor 3 dan 4! (1) Sasando (bahasa Rote atau bahasa Kupang) adalah alat musik berdawai yang dimainkan dengan cara dipetik dengan jari jemari tangan. (2) Alat ini bentuknya sederhana, bagian utamanya berbentuk tabung panjang dari bambu, bagian tengahnya melingkar dari atas ke bawah diberi penyangga tempat dawai-dawai atau senar direntangkan di tabung bambu dari atas bertumpu kebawah. 3. Teks tersebut termasuk kedalam jenis teks deskripsi... 4. Objek yang dideskripsikan pada teks tersebut adalah... Bacalah paragraf berikut untuk menjawab soal nomor 5 dan 6! Hari ini aku bertemu dengan teman yang sudah lama kami tidak bertemu. Aku sedang berjalan di taman ketika aku melihat seorang wanita yang mengenakan kacamata. Ia sedang duduk di bangku taman tepat di bawah sebuah pohon. Rambutnya panjang dan hitam yang terurai melambai-lambai tertiup embusan angin. Saat aku melewatinya, wajahnya terasa tidak asing bagiku. Tak lama kemudian, wanita itu memanggil namaku, lalu ia mengatakan bahwa ia adalah Nita, temanku sewaktu SMA dulu. 5. Kalimat berikut yang menggunakan kata depan yang menyatakan tempat adalah... 6. Teks tersebut merupakan jenis paragraf deskripsi... 7. Berdasarkan objeknya, teks deskripsi dibagi menjadi tiga jenis, yaitu deskripsi... 8. Perhatikan kalimat berikut! Dia memiliki bulu coklat keabu-abuan di seluruh tubuh dan ekornya. Rujukan kata dia pada kalimat tersebut mengacu pada... 9. Berikut merupaka struktur teks deskripsi, kecuali... 10. Karya yang disusun dalam alur penceritaan yang normal, tetapi bersifat imajinatif dan khyalan disebut cerita... 11. Cerita fantasi merupakan salah satu genre yang sangat penting karena dapat... 12. Cerita fantasi yang tidak dikendalikan sehingga seolah-olah orang ya b berfantasi hanya pasif sebagai wadah tanggapan disebut cerita fantasi... 13. Mempublikasikan merupakan tahap terkahir dalam... 14. Sarana penting dalam menggali pengetahuan ialah... 15. Berikut termasuk langkah-langkah menulis cerita, kecuali... 16. Salah satu ciri cerita fantasi adalah tokohnya memiliki keunikan, kecuali... Bacalah cerita berikut untuk menjawab soal nomor 17 dan 18! Disebuah desa terpencil, hiduplah sepasang suami istri yang bekerja sebagai petani. Keduanya hidup tentram dan bahagia. Suatu hari mereka menemukan seorang bayi di sawah kemudian di asuhnya dengan penuh kasih sayang. Bayi tersebut sekarang sudah besar. Dia diberi nama si Jebul. 17. Latar cerita dongeng tersebut adalah... 18. Sudut pandang yang digunakan dalam cerita fantasi tersebut adalah... 19. Bentuk teks yang berisi langkah-langkah atau tahapan-tahapan yang harus dipenuhi dalam melakukan suatu kegiatan disebut teks... 20. Berikut merupakan ciri umum teks prosedur, kecuali menggunakan... 21. Bacalah teks prosedur berikut! 1) Tutup kembali bagian yang sudah dibuka 2) Buka tutup bagian belakang. 3) Tekan tombol dengan baik. 4) Masukkan baterai dengan kepala ke arah depan semuanya. Urutan penggunaan lamlu senter secara tepat adalah.. Perhatikan teks berikut untuk menjawab soal nomor 22-24! Cara Mudah Membuat Silme Slime adalah salah satu mainan favorit untuk anak-anak yang dapat kita beli di toko mainan. Namun, sebenarnya kita juga bisa membuat slime sendiri di rumah. Berikut caranya. Alat dan bahan 1. 1 botol slime aktivator yang bisa diperoleh di toko terdekat. 2. 1 botol cusson baby oil. 3. Pewarna makanan (warna sesuai dengan yang kalian inginkan). 4. 1 botol lem povinal. 5. Sendok dan piring. Cara membuat 1. Campur lem povinal dengan pewarna makanan dalam sebuah wadah sampai warnnya merata. 2. Setelah tercampur, selanjutnua tambahkan slime activator ke dalam wadah tersebut dengan menuangkan sedikit demi sedikit sambil di aduk sampai campuran membentuk gel dan tidak lengket di wadah. 3. Selanjutnya tambahkan casson bany oil agar slime tidak lengket pada waktu kita sentuh. 4. Slime siap untuk digunakan. 22. Teks tersebut merupakan jenis teks prosedur untuk memandu cara... 23. Hal yang akan terjadi apabila kita tidak menambahkan cusson baby oil ke dalam adonan slime, yaitu slime akan... 24. Pernyataan berikut yang sesuai dengan teks tersebut adalah.. 25. Teks prosedur terdiri dari beberapa bagian, kecuali... 26. Berikut hal-hal yang diperhatikan dalam menulis teks prosedur, kecuali... 27. Langkah pertama yang harus dilakukan untuk menulis teks prosedur adalah.. 28. Istilah lain untuk menyebut ragam teks obsetvasi adalah teks... 29. Perhatikan tahapan menulis laporan observasi berikut! 1) membuat kerangka laporan		2) menulis laporan lengkap 3) mengamati objek dengan seksama	4) membuat catatan hal-hal pokok yang diamati Urutan tahapan menulis laporan observasi yang tepat adalah... 30. Guna memperoleh data untuk menyusun teks hasil observasi dapat dilakukan dengan metode berikut, kecuali... ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#soal-ulangan-harian-teks-prosedur1-teks-yang-berisi-langkah-langkah-yang-harus-ditempuh-untuk-mencapai-tujuan-yang%c2%a0diinginkan-pernyataan-di-atas-merupakan-a-tujuan-penulisan-teks-prosedurb-j">38.
+                                            Soal Ulangan harian Teks Prosedur1. Teks yang berisi langkah-langkah yang harus ditempuh untuk mencapai tujuan yang diinginkan.Pernyataan di atas merupakan...a. Tujuan penulisan teks prosedurb. Jenis teks prosedur.c. Ciri teks prosedurd. Pengertian teks prosedur2. Tujuan penulisan teks prosedur adalah...a. Melukiskan objek.b. Melaporkan.c. Menuntund. Menceriterakan3. Jika kamu ingin menuntut temanmu menyalakan lampu listri di rumahmu, jenis teks prosedur yang tepat kamu sampaikan adalah...a. Kompleksb. Sederhanac. Protokold. Sangat kompleks4. Berikut ini merupakan contoh penggunaan kata yang menunjukkan ukuran, kecuali...a. Pegang dengan genggaman tangan dan telapak tangan menghadap ke atas atau pun ke bawah.b. Mainkan angklung sambil berdiri agar hasil permainan lebih baik.c. Tambahkan 600 cc air ke dalam hasil tumbukan.d. Minum selagi hangat.5. 1. Tambahkan 600 cc air ke dalam hasil tumbukan.2. Minum selagi panas.3. Ambil 5 potong akar kelapa hijau masing-masing 4 cm.4. Rebus semuanya dengan anco yang telah dibuang bijinya sehingga air tersisa 300 cc.5. Tumbuk kasar bersama 10 butir biji teratai.Urutan cara membuat obat tradisional imsomnia yang benar  adalah...a. 1. 2. 3. 4. 5b. 3, 5 ,1, 4, 2c. 2, 1, 3, 5, 4d. 3, 4, 5, 1, 26. Anda sebaiknya menekan tombol keyboard dengan lembut.Bentuk kalimat pasif yang benar dari kalimat aktif di atas adalah...a. Sebaiknya Anda menekan tombol keyboard dengan lembut.b. Anda sebaiknya dengan lembut menekan tombol keyboard.c. Tombol keyboard sebaiknya ditekan dengan lembutd. Sebaiknya tombol keyboard emnenkan Anda dengan lembut.7. Manakah kalimat di bawah ini yang merupakan kalimat pernyataan?a. Posisikan tubuh sejajar dengan monitor.b. Tutup semua aplikasi yang Anda gunakan.c. Anda perlu merebus semua bahan sampai mendidih.d. Minum selagi hangat.2 / 38. 1. Angkat kaki kanan.2. Langkahkan kaki kanan dua kali.3. Putar badanmu 4 kali.4. Angkat kaki kanan setinggi lutut.Kaliamt yang memiliki batasan adalah...a. 1,2,3b. 1,3,4c. 1,2,4d. 2,3,49. 1. Malam jangan terlalu panas agar tidak menusak kain.2. Untuk menyedapkan rasa, masukkan sesendok gula merah.3. Gunakan handuk atau tisu untuk menutup kran.4. Usahakan tangan tetap bersih.Kalimat yang mempunyai keterangan tujuan adalah...a. 1,2,3b. 2,3,4c. 1,3,4d. 1,2,410. Struktur teks prosedur yang benar adalah...a. bahan, tujuan, langkah, penutupb. langkah, bahan, tujuan, penutupc. tujuan, langkah, bahan, pentupd. tujuan, bahan, langkah, penutup11. Teks prosedur kompleks adalah...a. Teks prosedur yang mengandung struktur tujuan dan langkah-langkah.b. Teks prosedur yang mengandung struktur alat dan bahan serta langkah-langkah.c. Teks prosedur yang mengandung langkah-langkah yang panjang dan rumit.d. Teks prosedur yang mengandung langkah-langkah yang tidak runtut.12. Bagian teks prosedur yang selalu ada adalah...a. Tujuanb. Alat dan bahanc. Penutupd. Langkah-langkah13. Berikut ini yang merupakan contoh teks prosedur membuat sesuatu adalah...a. Memainkan serulingb. Membersihkan alat musik dari kuninganc. Memasak sambal oncomd. Menari tari Poco-Poco14. (1) tepung beras(2) santan(3) gula(4) cetakanDari yang disebutkan di atas, yang termasuk jenis “bahan” adalah...a. (1), (2), (3)b. (1) dan (4)c. (2) dan (4)d. (4)3 / 315. (1) Pecahkan telur pada bumbu yang ditumis, lalu aduk rata,(2) Masukkan nasi putih, kemudian aduk lagi sampai bumbu tercampu.(3) Haluskan bumbu-bumbu(4) Tumis bumbu halus dengan sedikit minyakUrutan langkah-langkah membuat nasi goreng adalah...a. (4), (2), (1), (3)b. (3), (4), (1), (2)c. (3), (1), (4), (2)d. (4), (1), (2), (3)16. Ikat potongan ban karet di sisi kanan dan kiri menggunakan tali karet!Dilihat dari strukturnya, kalimat di atas termasuk jenis kalimat...a. deklaratifb. imperatifc. interogatif  d. retoris17. Rebus malam hingga mencair.Verba mencair termasuk jenis verba intransitif karena...a. menyatakan perbuatan aktifb. menyatakan perbuatan pasifc. menunjukkan perilakud. tidak menuntut kehadiran objek18. Ambil beberapa butir mote, ... masukkan senar elastis pada lubang mote tersebut.Kata sambung yang tepat untuk melengkapi bagian rumpang terks prosedur tersebut adalah...a. kemudianb. setelahc. sebelumd. dan19. Jika air sudah mendidih, masukkan telur satu persatu ke dalam panci.Arti kalimat tersebut adalah...a. telur boleh dimasukkan ke dalam panci meskipun belum mendidih.b. telur baru boleh dimasukkan ke dalam panci setelah air mendidih.c. telur tidak boleh dimasukkan ke dalam panci dalam keadaan air mendidih.d. telur tidak boleh dimasukkan ke dalam panci setelah air mendidih.20. Lumur... loyang dengan mentega.Imbuhan yang tepat untuk melengkapi kalimat di atas atas adalah...a. -kanb. -ic. -and. -lah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#langkah-langkah-dala-struktur-teks-prosedur-artinya">39.
+                                            Langkah langkah dala struktur teks prosedur artinya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#26-perhatikan-kutipan-teks-prosedur-berikutbatik-sebagai-warisan-budaya-adiluhung-perlu-kita-lestarikan-proses-pembuatan-batik-tulismemerlukan-teknik-ketelitian-dan-kesabaran-yang-tinggi-hal-itu">40.
+                                            26. Perhatikan kutipan teks prosedur berikut!Batik sebagai warisan budaya adiluhung perlu kita lestarikan. Proses pembuatan batik tulismemerlukan teknik, ketelitian, dan kesabaran yang tinggi. Hal itu bukan berarti kita tidak bisamembuat kain batik tulis. Dengan berani mencoba dan tekun berlatih untuk melestarikanbudaya, kita dapat membuat batik tulis dengan motif yang kita sukai.Kutipan tersebut merupakan struktur teks prosedur bagian .....A.TujuanB.PenutupC.Alat dan bahanD.Langkah langkah​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya">
+                            1. Langkah langkah dalam struktur teks prosedur artinya?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>urutan cara/kerja yang berurutan dalam pengerjaan suatu hal</p><p><strong>Penjelasan:</strong></p><p>aku dapet dri buku kira2 begitu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya-%e2%80%a6">
+                            2. Langkah-langkah dalam struktur teks prosedur artinya …. </h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Langkah-langkah dalam teks prosedur adalah struktur yang memuat langkah-langkah yang disusun secara urut yang harus dilakukan oleh pembaca untuk mencapai tujuan teks prosedur.</p><p></p><p><strong>Penjelasan:</strong></p><p>Langkah-langkah dalam teks prosedur adalah struktur yang memuat langkah-langkah yang disusun secara urut yang harus dilakukan oleh pembaca untuk mencapai tujuan teks prosedur</p><br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya">
+                            3. Langkah-langkah dalam struktur teks prosedur artinya</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Langkah-langkah dalam teks prosedur adalah struktur yang memuat langkah-langkah yang disusun secara urut yang harus dilakukan oleh pembaca untuk mencapai tujuan teks prosedur.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="langkah-dalam-struktur-teks-prosedur-artinya">
+                            4. Langkah" dalam struktur teks prosedur artinya</h2><br />
+                        <p><strong>Jawaban:</strong></p>menentukan objekmengamati objekmencari bahan/informasikan tentang objekmenentukan judulmenjabarkan dekripsi objek<br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya">
+                            5. Langkah-langkah dalam struktur teks prosedur artinya</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Langkah-langkah dalam teks prosedur yaitu struktur yang memuat langkah-langkah atau cara-cara yang disusun secara urut yang harus dilakukan oleh pembaca untuk mencapai tujuan teks prosedur.</p><br />
+                                            <h2 class="ez-toc-section" id="24-perhatikan-kutipan-teks-prosedur-berikut1-setelah-kamu-sampai-pada-halaman2-kunungi-www-blogger-com3-dataran-email-kamy-gmail4-usai-berhasil-login-maka-kamu-akanmenuju-halaman-dashboard-bio">
+                            6. 24. Perhatikan kutipan teks prosedur berikut1) Setelah kamu sampai pada halaman2) kunungi www.blogger.com3) Dataran email kamy (gmail)4) Usai berhasil login, maka kamu akanmenuju halaman dashboard biog, dan kamubisa memulai membuat blog baruSimpulan teks prosedur tersebut adalaha. kamu bisa membuat blog di googleb. untuk membuat blog kamu harusmempunyai emailc. langkah pertama membuat blog adalahmenuju halaman dashboard blogd. tidak setiap orang bisa membuat blogsendiri25. Bacalah teks berikut dengan saksamalBatik merupakan kekayaan khas IndonesiaBatik sudah diakui oleh dunia sebagai warisanbudaya dari Indonesia. Mengenakan batikberarti kita melestarikan kekayaan budayaIndonesia. Oleh karena itu, kali ini kita akanmembahas cara membuat kain batik sendiriBerikut ini bahan dan alat yang harusdisiapkanKutipan teks prosedur tersebut merupakanbagian struktura. tujuanb. bahan dan alatc. langkah-langkahd. penutup​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>24. b</p><p>25. c</p><p><strong>Penjelasan:</strong></p><p>maaf kalo slh:)</p><br />
+                                            <h2 class="ez-toc-section" id="cara-scan-qr-code-dari-aplikasi-peduli-lindungi-sertifikat-vaksinasi-covid-19-kini-telah-tersedia-di-aplikasi-peduli-lindungi-sertifikat-tersebut-juga-menjadi-syarat-untuk-beberapa-kegiatan-selama-pa">
+                            7. Cara scan QR Code dari aplikasi Peduli Lindungi Sertifikat vaksinasi Covid-19 kini telah tersedia di aplikasi Peduli Lindungi. Sertifikat tersebut juga menjadi syarat untuk beberapa kegiatan selama pandemi, seperti masuk mall. Masyarakat pun perlu mengetahui caranya Berikut cara scan QR Code dari aplikasi Peduli Lindungi. 1. Buka aplikasi Peduli Lindungi dan login. 2. Dari menu utama, pilih scan QR di lokasi tujuan Anda 3 Scan QR Code tersedia di lokasi pintu masuk mall. 4. Tunjukkan hasil QR Code kepada petugas atau Satpam mall. 5. Jika muncul warna hijau berarti Anda boleh masuk mall. Jika warna kuning, petugas akan melakukan verifikasi ulang. Jika warna merah, Anda tidak boleh masuk mall. Bagaimana, tidak sulit bukan? Selamat mencoba! Struktur teks prosedur tersebut yang tepat adalah .... tujuan - langkah-langkah - alat dan bahan O tujuan - alat dan bahan - langkah- langkah O tujuan - alat dan bahan - penutup O tujuan - langkah-langkah - penutup​</h2><br />
+                        <p>Struktur teks prosedur tersebut yang tepat adalah <strong>D. Tujuan - Langkah langkah - Penutup</strong></p><p></p>Pendahuluan <p><strong>Teks Prosedur</strong> adalah sebuah teks yang berisi tentang penjabaran langkah langkah untuk melakukan suatu hal tertentu. Didalam teks prosedur, terdapat 3 struktur utama yaitu :</p>Pernyataan umum, pada bagian ini terdapat tujuan, pengantar, ataupun pembukaan teks.Langkah-langkah, ini adalah bagian terpenting dalam teks prosedur. Karena, langkah-langkah pada teks prosedur bertujuan mempermudah kita dalam melakukan sebuah kegiatan yang teratur.Penegasan ulang, pada bagian ini terdapat kesimpulan, proses akhir, ataupun penutup.<p></p><p><strong>Pembahasan Soal</strong></p><p>Perhatikan, pada paragraf pertama. Dijelaskan bahwa terdapat penjelasan mengenai tujuan dilakukannya Scan QR Code. Maka, dapat disimpulkan bahwa paragraf pertama merupakan "<strong>Pernyataan Umum</strong>" teks prosedur berupa <strong>tujuan</strong>.</p><p></p><p>Lalu, pada paragraf kedua. Dijabarkan langkah demi langkah dalam melakukan Scan QR Code, bagian ini dapat mempermudah kita dalam melakukan scan kode QR. Maka, dapat disimpulkan bahwa paragraf kedua merupakan "<strong>Langkah-langkah</strong>" teks prosedur berupa <strong>langkah-langkah</strong>.</p><p></p><p>Dan yang terakhir, pada paragraf ketiga. Disajikan kalimat berupa penegasan mengenai hasil kegiatan yang kita lakukan pada teks tersebut, pada bagian ini juga diakhiri dengan kalimat "Selamat mencoba!" yang dimana kalimat ini merupakan kalimat penutup. Maka, dapat disimpulkan bahwa paragraf ketiga merupakan "<strong>Penutup</strong>" teks prosedur.</p><p></p><p></p><p><strong>Pelajari Selengkapnya Mengenai Teks Prosedur di Link berikut :</strong></p><p>https://brainly.co.id/tugas/30169470</p><p>#BelajarBersamaBrainly</p><br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya">
+                            8. Langkah-langkah dalam struktur teks prosedur artinya....</h2><br />
+                        <p>Langkah-langkah dalam struktur teks prosedur artinya <strong>suatu cara cara yang disusun sesuai urutan.</strong></p>Pembahasan:<p>Teks prosedur ialah suatu teks yang berisikan suatu langkah langkah atau pun urutan dari suatu kegiatan yang tujuannya ialah agar pembaca dapat  mencapai dan menyelesaikan suatu kegiatan sesuai dengan urutan yang benar dan tepat agar mendapatkan hasil yang bagus, yang diinginkan atau pun sempurna. Langkah langkah dalam teks prosedur dapat dibilang dengan kata lain yaitu cara cara yang disusun sesuai urutan dan tidak asal asal. Dalam teks prosedur biasanya menggunakan kalimat yang mengandung suatu perintah atau yang kata lainnya ialah kalimat imperatif. Biasanya kalimat perintah diakhiri dengan tanda "!" atau yang disebut dengan tanda seru.</p>Pelajari lebih lanjut:Contoh kalimat perintah: https://brainly.co.id/tugas/1240557Struktur teks prosedur: https://brainly.co.id/tugas/1460579Macam macam teks prosedur: https://brainly.co.id/tugas/4456067Detail jawaban:Kelas: 11 SMAMapel: Bahasa indonesiaBab: Bab 1 - Teks Prosedur KompleksKode kategorisasi: 11.1.1Kata kunci: Arti langkah langkah dalam teks prosedur<br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedurartinya-%e2%80%8b">
+                            9. Langkah-langkah dalam struktur teks prosedurartinya...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Urutan yang harus dilakukan pembaca agar mencapai tujuan teks prosedur </p><p><strong>Penjelasan:</strong></p><p>Langkah-langkah dalam teks prosedur adalah struktur yang memuat langkah-langkah yang disusun secara urut yang harus dilakukan oleh pembaca untuk mencapai tujuan teks prosedur.</p><p></p><p>Semoga Membantu</p><p>Jadiin sebagai jawaban terbaik ya kak</p><br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya">
+                            10. Langkah-langkah dalam struktur teks prosedur artinya.......</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pilihan kata dalam teks prosedur harus bersifat menujukan sesuatu dan melakukan sesuatu pemilihan kata juga harus sesuai dengan situasi kondisi dan tempat penggunaan kata kata itu umum nya </p><p><strong>Penjelasan:</strong></p><p>semoga membantu maaf kalo salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-teks-prosedur-merupakan-teks-yang-berisi-a-tujuan-dan-langkah-langkahb-langkah-langkahc-tujuand-laporan2-contoh-teks-prosedur-sederhana-adalah-a-jika-terkena-tilangb-cara-membuat-atmc-me">
+                            11. 1. teks prosedur merupakan teks yang berisi..a. tujuan dan langkah-langkahb. langkah-langkahc. tujuand. laporan2. contoh teks prosedur sederhana adalah...a. jika terkena tilangb. cara membuat ATMc. mengoperasikan setrikad. membuat KTP3. struktur teks prosedur melakukan pekerjaan yang tepat adalah...a. tujuan dan manfaatb. tujuan dan langkah-langkahc. orientasi, komplikasi, dan resolusid. orientasi, resolusi, dan koda4. ciri kebahasaan yang terdapat pada teks prosedur kompleks antara lain...a. sopan dan santunb. bakuc. singkat, padat, dan jelasd. komunikatif dan baku5. hutan murni, memiliki pepohonan yang sebagian besar berasal dari satu jenis, walaupun begitu tidak berarti hanya ada satu jenis pohon saja di hutan murni.konjungsi pada kalimat diatas menyatakan hubungan...a. tujuanb. syaratc. konsesifd. pengakibatan</h2><br />
+                        1. A) tujuan dan langkah-langkah<br />2.C) mengoperasikan setrika<br />3.B) tujuan dan langkah-langkah<br />4.D) komunikatif dan baku<br />5.C) konsesif<br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya-a-hasil-akhir-yang-akan-dicapai-b-cara-caranya-c-pengertian-d-penjelas-e-penafsiran">
+                            12. langkah langkah dalam struktur teks prosedur artinya A.hasil akhir yang akan dicapai B.cara caranya C.pengertian D.penjelas E.penafsiran</h2><br />
+                        <p>B. Cara-caranya </p><p></p><p>.............</p>jawaban:<br /><br /><br />B.cara caranya<br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya-hi%e2%80%8b">
+                            13. Langkah-langkah dalam struktur teks prosedur artinya hi​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Langkah-langkah dalam teks prosedur yaitu struktur yang memuat langkah-langkah atau cara-cara yang disusun secara urut yang harus dilakukan oleh pembaca untuk mencapai tujuan teks prosedur.</p><br />
+                                            <h2 class="ez-toc-section" id="1-teks-prosedur-merupakan-teks-yang-berisi-a-tujuan-dan-langkah-langkahb-langkah-langkahc-tujuand-laporan2-contoh-teks-prosedur-sederhana-adalah-a-jika-terkena-tilangb-cara-membuat-atmc-me">
+                            14. 1. teks prosedur merupakan teks yang berisi..a. tujuan dan langkah-langkahb. langkah-langkahc. tujuand. laporan2. contoh teks prosedur sederhana adalah...a. jika terkena tilangb. cara membuat ATMc. mengoperasikan setrikad. membuat KTP3. struktur teks prosedur melakukan pekerjaan yang tepat adalah...a. tujuan dan manfaatb. tujuan dan langkah-langkahc. orientasi, komplikasi, dan resolusid. orientasi, resolusi, dan koda4. ciri kebahasaan yang terdapat pada teks prosedur kompleks antara lain...a. sopan dan santunb. bakuc. singkat, padat, dan jelasd. komunikatif dan baku5. hutan murni, memiliki pepohonan yang sebagian besar berasal dari satu jenis, walaupun begitu tidak berarti hanya ada satu jenis pohon saja di hutan murni.konjungsi pada kalimat diatas menyatakan hubungan...a. tujuanb. syaratc. konsesifd. pengakibatan</h2><br />
+                        1.A<br />2.C<br />3.B<br />4.C<br />5.D<br />,<br />,<br />,<br />semoga membantu sobat1.a tujuan dan langkah"<br />2 c cara mengoperasikan setrika<br />3.b tujuan dan langkah"<br />4 d komunikatif dan baku<br />5 c konsesif<br />
+                                            <h2 class="ez-toc-section" id="teks-yang-berisi-isumasalah-yang-diperdebatkan-oleh-beberapa-orang-disebut-%c2%a0a-teks-cerita-moralb-teks-prosedurc-teks-biografid-teks-diskusi3-berikut-ini-fungsi-dari-struktur-isu-adala">
+                            15. . Teks yang berisi isu/masalah yang diperdebatkan oleh beberapa orang disebut.... *A. Teks cerita moralB. Teks prosedurC. Teks biografiD. Teks diskusi3. Berikut ini fungsi dari struktur isu adalah.... *A Memberikan pernyataan dukunganB Memberikan pernyataan penolakanC Mengantarkan pembaca kepada persoalan yang akan dibahasD. Merupakan kesimpulan4. Memberikan keputusan akhir yang bersifat menengahi permasalahanStruktur teks diskusi yang berisi pendapat-pendapat pro dan kontra adalah.... *A.JudulB.IsuC.ArgumenD.Simpulan5.Perhatikan langkah-langkah menyusun teks diskusi di bawah ini....1. Mengumpulkan data2. Menentukan topik3. Mencari solusi4. Memulai menulisUrutan yang tepat agar menjadi langkah menyusun teks diskusi yang baik adalah.... A.1,2,3,dan 4B.4,3,2,dan 1C..2,1,3,dan 4D.2, 3, 1 dan 46.Tujuan dari pengidentifikasian dalam teks diskusi adalah.... *A.Membuat teks menjadi lebih pendekB.Memperbaiki teks yang disajikanC.Menentukan kekurangan dan kelebihan teksD.Menentukan kelebihan saja7.Perhatikan kutipan teks di bawah ini....Masyarakat internasional memiliki perhatian yang besar tentang hal ini. Dari dulu hingga sekarang pembangunan stasiun tenaga nuklir masih tetap problematik dan ramai dibicarakan. Melalui pemaparan tersebut, apa yang dapat Anda kemukakan?Kutipan teks di atas meripakan kesimpulan yang bersifat.... *A.Memberikan jalan keluarB.Memberikan solusiC.Merumuskan dua pendapatD.Membuka lebar pembaca untuk urun usul atau komentar8.Dalam berdebat dibutuhkan salah satu kompetensi sebagai berikut.... A.Kompetensi atau kemampuan menganalisisB.Berbicara panjang lebar dalam menyampaikan gagasanC.Kecakapan dalam membantah pendapat lawan bicaraD.Meremehkan argumen lawan bicara9.Salah satu fungsi meringkas teks diskusi adalah.... *A.Memanjakan pembaca karena tidak perlu membacakan teks secara utuhB.Menumbuhkan sikap malas bagi pembacaC.Untuk dapat memahami isi teks tanpa harus membaca secara keseluruhanD.Membuat pembaca tidak perlu berfikir keras dalam mengartikan sebuah teks diskusi10.Berkut ini yang termasuk dalam kategori sikap demokratis dalam berdebat adalah.... A.Tidak memberi kesempatan bicara kepada lawan bicaraB.Memotong pembicaraan lawanC.Memberi kesempatan kepada lawan bicara untuk memberikan argumenD.Sikap acuh tak acuh saat teman sedang menyampaikan pendapat dan argumennya​</h2><br />
+                        <p><strong>Teks diskusi </strong>adalah teks yang memuat pendapat pendapat terhadap suatu topik dan pendapat tersebut bertolakbelakang artinya berlawanan. Teks diskusi biasanya disusun untuk mendiskusikan suatu topik dan digunakan juga dalam mencatat hasil diskusi.</p><p><strong>Debat</strong> adalah komunikasi secara lisan untuk menyampaikan argumen dan pendapat terhadap suatu topik atau permasalahan. Sama seperti tek diskusi, debat juga memiliki pihak yang berlawanan. Dalam debat terdapat pihak yang menolak mosi dan pihak yang mendukung mosi.</p>Pembahasan    <p>2. Teks yang berisi isu/masalah yang diperdebatkan oleh beberapa orang disebut....  </p><p>A. Teks cerita moral.  </p><p>B. Teks prosedur.  </p><p>C. Teks biografi.  </p><p><strong>D. Teks diskusi.</strong></p><p></p><p>3. Berikut ini fungsi dari struktur isu adalah....  </p><p>A. Memberikan pernyataan dukungan.</p><p>B. Memberikan pernyataan penolakan.</p><p><strong>C. Mengantarkan pembaca kepada persoalan yang akan dibahas.</strong>  </p><p>D. Merupakan kesimpulan.</p><p></p><p>4. Memberikan keputusan akhir yang bersifat menengahi permasalahan. Struktur teks diskusi yang berisi pendapat-pendapat pro dan kontra adalah....  </p><p>A. Judul.</p><p>B. Isu.</p><p><strong>C. Argumen.</strong></p><p>D. Simpulan.</p><p></p><p>5. Perhatikan langkah-langkah menyusun teks diskusi di bawah ini!</p><p>1. Mengumpulkan data.</p><p>2. Menentukan topik.</p><p>3. Mencari solusi.</p><p>4. Memulai menulis.</p><p>Urutan yang tepat agar menjadi langkah menyusun teks diskusi yang baik adalah....  </p><p>A. 1, 2, 3, dan 4.  </p><p>B. 4, 3, 2, dan 1.  </p><p><strong>C. 2, 1, 3. dan 4.</strong>  </p><p>D. 2, 3, 1, dan 4.</p><p></p><p>6. Tujuan dari pengidentifikasian dalam teks diskusi adalah....  </p><p>A. Membuat teks menjadi lebih pendek.  </p><p>B. Memperbaiki teks yang disajikan.  </p><p><strong>C. Menentukan kekurangan dan kelebihan teks.</strong>  </p><p>D. Menentukan kelebihan saja.</p><p></p><p>7. Perhatikan kutipan teks di bawah ini!</p><p>Masyarakat internasional memiliki perhatian yang besar tentang hal ini. Dari dulu hingga sekarang pembangunan stasiun tenaga nuklir masih tetap problematik dan ramai dibicarakan. Melalui pemaparan tersebut, apa yang dapat Anda kemukakan?</p><p>Kutipan teks di atas meripakan kesimpulan yang bersifat....  </p><p>A. Memberikan jalan keluar.</p><p>B. Memberikan solusi.</p><p>C. Merumuskan dua pendapat.</p><p><strong>D. Membuka lebar pembaca untuk usul usul atau komentar.</strong></p><p></p><p>8. Dalam berdebat dibutuhkan salah satu kompetensi sebagai berikut....  </p><p><strong>A. Kompetensi atau kemampuan menganalisis.</strong>  </p><p>B. Berbicara panjang lebar dalam menyampaikan gagasan.  </p><p>C. Kecakapan dalam membantah pendapat lawan bicara.  </p><p>D. Meremehkan argumen lawan bicara.</p><p></p><p>9. Salah satu fungsi meringkas teks diskusi adalah....  </p><p>A. Memanjakan pembaca karena tidak perlu membacakan teks secara utuh.</p><p>B. Menumbuhkan sikap malas bagi pembaca.</p><p><strong>C. Untuk dapat memahami isi teks tanpa harus membaca secara keseluruhan.</strong></p><p>D. Membuat pembaca tidak perlu berfikir keras dalam mengartikan sebuah teks diskusi.</p><p></p><p>10. Berkut ini yang termasuk dalam kategori sikap demokratis dalam berdebat adalah....  </p><p>A. Tidak memberi kesempatan bicara kepada lawan bicara.  </p><p>B. Memotong pembicaraan lawan.  </p><p><strong>C. Memberi kesempatan kepada lawan bicara untuk memberikan argumen.</strong></p><p>D. Sikap acuh tak acuh saat teman sedang menyampaikan pendapat dan argumennya.</p><p></p>Pelajari lebih lanjut  Materi tentang kebahasaan <strong>teks diskusi </strong>brainly.co.id/tugas/24610185Materi tentang struktur <strong>teks diskusi</strong> brainly.co.id/tugas/2017766Materi tentang pengertian <strong>teks diskusi </strong>brainly.co.id/tugas/2776017<p>----------------------------------------------------------</p><p></p>Detail jawaban  <p><strong>Kelas: IX  </strong></p><p><strong>Mapel: Bahasa Indonesia  </strong></p><p><strong>Bab: Teks Diskusi  </strong></p><p><strong>Kode: -</strong></p><p></p><p><strong>#TingkatkanPrestasimu</strong></p><br />
+                                            <h2 class="ez-toc-section" id="16-pernyataan-di-atas-adalah-tahap-kegiatan-yang-disebut-%e2%80%a6-%c2%a0cermatilah-teks-berikuttanaman-selada-sebenarnya-tahan-dalam-keadaan-segar-selama-beberapa-waktu-dengan-catatanpada-saat-men">
+                            16. 16.Pernyataan di atas adalah tahap kegiatan yang disebut …. *Cermatilah teks berikut!Tanaman selada sebenarnya tahan dalam keadaan segar selama beberapa waktu.Dengan catatan,pada saat menyimpan sebaiknya di tempat yang dingin.Caranya tempat itu ditaburi butiran atau remukan esA. pembersihanB. pengelompokkanC. pengemasanD. penyimpanan17.Tujuan adalah ... *A. Cara-cara yang ditempuh agar tujuan itu tercapaiB. Hasil akhir yang akan dicapaiC. Pendapat yang disertai dataD. Gagasan utama penulis yang dinyatakan dalam bentuk pernyataan pendapat18.Berikut adalah contoh kalimat imperatif, kecuali ... *A. Kenali si petugas.B. Terima atau tolak tuduhan.C. Pastikan tuduhan pelanggaran.D. Pengendara memahami kesalahannya.19.Tujuan dari teks prosedur kompleks adalah ... *A. Mengelompokkan berbagai hal ke dalam jenis-jenis sesuai dengan ciri-ciri setiap jenis pada umumnya.B. Memberi petunjuk tentang cara-cara melakukan sesuatu.C. Mengungkap kebenaran yang lebih umum.D. Mengurangi perbedaan posisi setiap pihak.20.Berikut ini bukan merupakan ciri-ciri kebahasaan yang terdapat dalam teks prosedur kompleks ... *A. Menggunakan partisipan manusiaB. Menggunakan kalimat alternatif.C. Menggunakan kalimat imperatif.D. Menggunakan konjungsi syarat.21.Jika pengendara melakukan pelanggaran, tentu pihak yang berwajib menilangnya. Kalimat tersebut mengandung ... *A. Partisipan manusia.B. Partisipan bukan manusia.C. Partisipan pronomina.D. Partisipan alat.22.Cara-cara yang ditempuh agar tujuan tercapai merupakan bagian dari struktur prosedur yang disebut ... *A. Langkah-langkahB. TujuanC. ReaksiD. Orientasi23.Teks yang berisi langkah-langkah/tahap-tahap yang harus ditempuh untuk mencapai suatu tujuan disebut... *A. EksposisiB. LaporanC. Prosedur kompleksD. Negosiasi24.Struktur teks prosedur kompleks yaitu... *A. Tujuan – langkah-langkahB. Abstraksi – orientasi – krisis – reaksi – kodaC. Pernyataan pendapat – argumentasi – penegasan ulang pendapatD. Pembukaan – isi – penutup25.Menurut artinya, kalimat imperatif adalah... *A. Kalimat yang berisi pernyataanB. Kalimat yang mengandung perintahC. Kalimat yang berisi pertanyaanD. Kalimat untuk meminta/melarang seseorangù7​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>16.d</p><p>17.b</p><p>18.d</p><p>19.b</p><p>20.c</p><p>21.a</p><p>22.a</p><p>23.d</p><p>24.a</p><p>25.b</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya-%e2%80%a6-a-hasil-akhir-yang-akan-dicapai-b-cara-caranmya-c-pengertian-d-tahap-awal-saja-e-penjelasan%e2%80%8b">
+                            17. Langkah-langkah dalam struktur teks prosedur artinya ….* a. hasil akhir yang akan dicapai b. cara-caranmya c. Pengertian d. Tahap awal saja e. Penjelasan​</h2><br />
+                        <p>Langkah-langkah dalam struktur teks prosedur artinya ….* </p><p>a. hasil akhir yang akan dicapai </p><p><strong>b</strong><strong>.</strong><strong> </strong><strong>c</strong><strong>a</strong><strong>r</strong><strong>a</strong><strong>-</strong><strong>c</strong><strong>a</strong><strong>r</strong><strong>a</strong><strong> </strong><strong>n</strong><strong>y</strong><strong>a</strong><strong> </strong><strong>✓</strong></p><p>c. Pengertian </p><p>d. Tahap awal saja </p><p>e. Penjelasan</p><p></p><p>Teks prosedur adalah teks yang memberikan petunjuk agar seseorang dapat melakukan suatu pekerjaan secara tepat dan maksimal.</p><p></p><p>Langkah-langkah dalam teks prosedur yaitu struktur yang memuat langkah langkah atau cara-cara yang disusun secara urut yang harus dilakukan pembaca untuk mencapai tujuan teks prosedur tersebut.</p><p></p><p>Struktur <strong>T</strong><strong>e</strong><strong>k</strong><strong>s</strong><strong> </strong><strong>P</strong><strong>r</strong><strong>o</strong><strong>s</strong><strong>e</strong><strong>d</strong><strong>u</strong><strong>r</strong> yaitu:</p>Tujuan.Bahan dan alat.Langkah-langkah.Penutup.<p></p><br />
+                                            <h2 class="ez-toc-section" id="12-langkah-langkah-dalam-struktur-teks-prosedur-artinyaa-hasil-akhir-tercapaib-cara-caranyac-pahamd-sebuah-penjelasane-interpretasi%e2%80%8b">
+                            18. 12. Langkah-langkah dalam struktur teks prosedur artinyaa. hasil akhir tercapaib. cara-caranyac. pahamd. sebuah penjelasane. interpretasi​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>B. cara-caranya</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya%e2%80%a6-a-hasil-akhie-tercapaib-cara-caranyac-pahamd-sebuah-penjelasne-interpretasi%e2%80%8b">
+                            19. Langkah-langkah dalam struktur teks prosedur artinya… *A. hasil akhie tercapaiB. cara-caranyaC. pahamD. sebuah penjelasnE. interpretasi​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a hasil akhie  tercapai maaf ya kalo salah </p><br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya">
+                            20. Langkah-langkah dalam struktur teks prosedur artinya....</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Langkah-langkah dalam teks prosedur adalah struktur yang memuat langkah-langkah yang disusun secara urut yang harus dilakukan oleh pembaca untuk mencapai tujuan teks prosedur.</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya-%e2%80%8b">
+                            21. langkah langkah dalam struktur teks prosedur artinya..​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Menentukan topik apa yang akan dibuat.
+</p><p>Mengumpulkan sumber informasi dan menulis kerangka karangan.
+</p><p>Mengembangkan informasi yang telah didapat dan memikirkan langkah-langkahnya.
+</p><p>Menentukan judul.
+</p><p>Menyusun teks prosedur kompleks secara utuh.</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="25-objek-teks-penjelasan-di-atas-adalah-a-asal-mula-bahasa-melayub-asal-usul-lingua-prancisc-asal-usul-orang-indonesiad-asal-mula-bahasa-prasasti-kuno26-paragraf-ketiga-dalam-teks-prosedural">
+                            22. 25. Objek teks penjelasan di atas adalah ...a. Asal mula bahasa Melayub. Asal usul Lingua Prancisc. Asal usul orang Indonesiad. Asal mula bahasa prasasti kuno26. Paragraf ketiga dalam teks prosedural berisia. tujuanb. interpretasinoc. langkah-langkahnyad. tesis27. Langkah-langkah dalam struktur teks prosedur berarti ...a. hasil akhir tercapaic. pahamb. carad. sebuah penjelasan28. Persyaratan dan pemilihan kata yang benar dalam teks prosedural adalah ...a. siapa, dimana, kapanc. dan denganb.jika, jika dan kapane. kapan, dimana29. Contoh konjungsi target nyata adalah ...a. tapib. jadi ituc. ketikad. jadi itu30. Ceramah ini komprehensif dan tidak ada batasan untuk pemirsa muda dan tua. Ini disebutceramaha. khususnyac. ilegalb. umumnyad. eksterior​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Gimana mau ngasih jawaban klau teksnya gaa diksi:v</p><br />
+                                            <h2 class="ez-toc-section" id="nondankuranbestugas-mengungkapkan-kembali-struktur-dankebahasaan-teks-prosedurnilaibacalah-teks-prosedur-berikut-dengan-saksamarahasia-mengatasi-rasa-malas-belajarrasa-malas-belajar-bukanlah-satu-ma">
+                            23. NONDANKURANBESTugas: Mengungkapkan Kembali Struktur danKebahasaan Teks ProsedurNilaiBacalah teks prosedur berikut dengan saksama!Rahasia Mengatasi Rasa Malas BelajarRasa malas belajar bukanlah satu masalah baru bagi para pelajar. Bukan rahasia umumlagi, kalau ingin menjadi orang sukses haruslah memiliki sikap disiplin yang tinggi. Tidak ada sedikitpun sifat malas dalam diri kita. Apakah itu malas belajar, malas membaca, malas berolahraga, danmalas-malas lainnya. Ketika rasa malas sudah kita beri ruang di dalam diri kita, maka tamatlahsudah. Kita akan diperdaya oleh rasa malas itu sendiri. Untuk itulah Anda harus melawan rasa malasbelajar yang sering menghinggapi agar dapat tercapai tujuan atau cita-cita yang Anda harapkan.Berikut beberapa tips rahasia cara mengatasi rasa malas dalam belajar.1. Menentukan tujuan tertulis dari apa yang ingin Anda capai. Tujuan memberi pengaruh yangsangat besar kepada diri kita saat ingin mencapai sesuatu. Apakah itu nilai, aplikasi dari belajar,atau ikut olimpiade misalnya. Ketika Anda memiliki satu tujuan yang jelas dan spesifik, makasecara tidak sadar pikiran Anda akan memfokuskan energinya untuk mencapai tujuan tersebut.2. Merumuskan strategi belajar. Strategi belajar yang tepat merupakan salah satu solusi untukmengatasi kebiasaan malas belajar. Ini sangat bermanfaat karena akan memudahkan Andadalam belajar di sekolah.3. Membuat prioritas dalam belajar. Dengan membuat dan memberikan prioritas pada pelajaranyang Anda kurang kuasai, Anda akan semakin mudah mengerti materi yang sedang Andaprioritaskan untuk kuasai. Bertanya kepada teman atau guru akan lebih membantu Anda.4. Memperhatikan posisi belajar. Bila Anda belajar sambil tidur-tiduran lambat laun Anda pastiakan tertidur. Akan sangat sulit untuk menahan diri untuk tidak tidur. Bila Anda belajar sambiltiduran, secara psikologis, tubuh akan mengartikan bahwa Anda tidak siap dan serius untukbelajar. Belajarlah di atas meja belajar dengan pencahayaan yang cukup supaya Anda dapatmenjaga konsentrasi dan mood dalam belajar.5. Ambil tindakan kecil mengubah kebiasaan malas belajar. Cara untuk mengatasi rasa malasadalah dengan melakukan langkah kecil. Bila Anda melakukan tindakan, meskipun itu tindakanyang sangat kecil. Bila terus dilakukan secara terus-menerus, perlahan tapi pasti Anda akanmemiliki kebiasaan untuk belajar dan disiplin yang baik. Dengan begitu, Anda bisa mengatasikebiasaan malas belajar dalam diri Anda.Dari uraian di atas Anda diharapkan bisa mengatasi atau melawan rasa malas belajar. Diawalidengan tujuan, merumuskan strategi belajar, hingga yang terpenting tindakan nyata.1.Identifikasikan struktur pembentuk teks tersebut secara jelas, kemudian simpulkan teks tersebutberdasarkan kelengkapan strukturnya! Buatlah laporan kegiatan dalam format tabel berikut!Struktur Teks ProsedurPembahasana.Tujuanb.Langkah-langkahC.Penegasan ulangSimpulan:​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Struktur teks Rahasia Mengatasi Rasa Malas Belajar adalah</p><p><strong>Tujuan</strong></p><p>Rasa malas belajar bukanlah satu masalah baru bagi para pelajar. Bukan rahasia umum lagi, kalau ingin menjadi orang sukses haruslah memiliki sikap disiplin yang tinggi. Tidak ada sedikit pun sifat malas dalam diri kita. Apakah itu malas belajar, malas membaca, malas berolahraga, dan malas-malas lainnya. Ketika rasa malas sudah kita beri ruang di dalam diri kita, maka tamatlah sudah. Kita akan diperdaya oleh rasa malas itu sendiri. Untuk itulah Anda harus melawan rasa malas belajar yang sering menghinggapi agar dapat tercapai tujuan atau cita-cita yang Anda harapkan. Berikut beberapa tips rahasia cara mengatasi rasa malas dalam belajar.</p><p><strong>Langkah-langkah</strong></p><p>1. Menentukan tujuan tertulis dari apa yang ingin Anda capai. Tujuan memberi pengaruh yang sangat besar kepada diri kita saat ingin mencapai sesuatu. Apakah itu nilai, aplikasi dari belajar, atau ikut olimpiade misalnya. Ketika Anda memiliki satu tujuan yang jelas dan spesifik, maka secara tidak sadar pikiran Anda akan memfokuskan energinya untuk mencapai tujuan tersebut.</p><p>2. Merumuskan strategi belajar. Strategi belajar yang tepat merupakan salah satu solusi untuk mengatasi kebiasaan malas belajar. Ini sangat bermanfaat karena akan memudahkan Anda dalam belajar di sekolah.</p><p>3. Membuat prioritas dalam belajar. Dengan membuat dan memberikan prioritas pada pelajaran yang Anda kurang kuasai, Anda akan semakin mudah mengerti materi yang sedang Anda prioritaskan untuk kuasai. Bertanya kepada teman atau guru akan lebih membantu Anda.</p><p>4. Memperhatikan posisi belajar. Bila Anda belajar sambil tidur-tiduran lambat laun Anda pasti akan tertidur. Akan sangat sulit untuk menahan diri untuk tidak tidur. Bila Anda belajar sambil tiduran, secara psikologis, tubuh akan mengartikan bahwa Anda tidak siap dan serius untuk belajar. Belajarlah di atas meja belajar dengan pencahayaan yang cukup supaya Anda dapat menjaga konsentrasi dan mood dalam belajar</p><p>5. Ambil tindakan kecil mengubah kebiasaan malas belajar. Cara untuk mengatasi rasa malas adalah dengan melakukan langkah kecil. Bila Anda melakukan tindakan, meskipun itu tindakan yang sangat kecil. Bila terus dilakukan secara terus-menerus, perlahan tapi pasti Anda akan memiliki kebiasaan untuk belajar dan disiplin yang baik. Dengan begitu, Anda bisa mengatasi kebiasaan malas belajar dalam diri Anda.</p><p><strong>Penegasan ulang</strong></p><p>Dari uraian di atas Anda diharapkan bisa mengatasi atau melawan rasa malas belajar. Diawali dengan tujuan, merumuskan strategi belajar, hingga yang terpenting tindakan nyata.</p><p><strong>Penjelasan:</strong></p><p>Simpulan:</p><p>Rasa malas belajar sebagian besar berasal dari dalam diri kita. Ada beberapa tips rahasia cara mengatasi rasa malas dalam belajar. Pertama, menentukan tujuan tertulis dari apa yang ingin Anda capai. Kedua, merumuskan strategi belajar. Ketiga, membuat prioritas dalam belajar. Keempat, memperhatikan posisi belajar. Dan yang terakhir, mmbil tindakan kecil mengubah kebiasaan malas belajar. Dari tips-tips di atas, kita dapat mengatasi rasa malas belajar.</p><p></p><p>Pelajari lebih lanjut struktur teks prosedur pada https://brainly.co.id/tugas/4413099</p><p></p><p>#BelajarBersamaBrainly</p><br />
+                                            <h2 class="ez-toc-section" id="2-perhatikan-kutipan-teks-prosedur-berikut1-panaskan-mentega-lalu-masukkanbumbu-halus-dan-cabai-merah-masaklahhingga-harum2-masukkan-nasi-ayam-udang-kemudianaduk-lagi-hingga-tercampur-rata">
+                            24. 2 Perhatikan kutipan teks prosedur berikut!(1) Panaskan mentega, lalu masukkanbumbu halus dan cabai merah, masaklahhingga harum!(2) Masukkan nasi, ayam, udang, kemudianaduk lagi hingga tercampur rata!(3) Tambahkan saus tomat dan kecapmanis, lalu aduk hingga benar-benar ratadan tercampur sempurna!(4) Sajikan selagi hangat dengan bahanpelengkapnya!Kutipan tersebut merupakan bagian struktura. pembukaan c. langkah-langkahb. tujuand. penutup3. Produk nata de coco yang dikemas secarasederhana dan berukuran relatif kecil dapatdipasarkan dengan sistem konsinyasi diwarung- warung, toko tetangga, warung disekolah, atau di kampus.Arti kata konsinyasi dalam kutipan tersebutadalah....a. titip jual c. sistem bonusb. bagi hasil d. bayar di depan4. Bacalah teks prosedur berikut!(1) Tutup kembali bagian yang sudah dibuka.(2) Buka tutup bagian belakang.(3) Tekan tombol dengan baik.(4) Masukkan baterai dengan kepala ke arahdepan semuanya.Urutan penggunaan lampu senter secaratepat adalah ....a. (1)-(2) - (3) - (4) c. (3) - (2) - (4)-(1)b. (2) - (4)-(1)-(3) d. (4)-(3) -(1)-(2).  ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>2.C langkah-langkah</p><p>3.A Titip jual</p><p>4.B (2) - (4) - (1) - (3)</p><br />
+                                            <h2 class="ez-toc-section" id="1-teks-prosedur-disusun-berdasarkan-urutan-dari-mudah-ke-sulitb-urutan-penting-menuju-tidak-pentingc-urutan-sederhana-menjadi-kompleksd-urutan-khusus-menjadi-umum2-struktur-teks-prosedur-adal">
+                            25. 1. Teks prosedur disusun berdasarkan ....urutan dari mudah ke sulitb. urutan penting menuju tidak pentingC. urutan sederhana menjadi kompleksd. urutan khusus menjadi umum2. Struktur teks prosedur adalah ....a. tujuan - langkah-langkahb. abstraksi - orientasi - krisis - reaksiC. klasifikasi - aspek yang dilaporkand. judul - pendahuluan alat/bahantujuan - langkah-langkah3. Berikut yang termasuk arti dan langkah-langkah dari teks prosedur adalah ....a. sesuatu yang dikerjakanb. suatu rencanaC. hasil akhir yang dicapaid.cara untuk mencapai tujuan​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. C urutan sederhana menjadi kompleks</p><p>2. D judul pendahuluan alat/bahan langkah-langkah</p><p>3. D cara untuk mencapai tujuan </p><br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dalam-struktur-teks-prosedur-artinya%e2%80%a6">
+                            26. Langkah-langkah dalam struktur teks prosedur artinya…</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tahap tahap kegiatan atau urutan kronologis (perlu diperhatikan:jika berisi panduan untuk permainan, berikan aturan permainan nya). langkah-langkah merupakan inti dari teks prosedur</p><p><strong>Penjelasan:</strong></p><p>semoga bermanfaat</p><br />
+                                            <h2 class="ez-toc-section" id="sekolah-paket-charitanggal-22-september-2020mapel-bahasa-indonesiaberilah-tanda-silang-x-pada-huruf-abc-atau-d-pada-jawaban-yang-benar-1-kalimat-dalam-teks-prosedur-tidak-membingungka">
+                            27. Sekolah : Paket C
+Hari/Tanggal : 22 September 2020
+Mapel : Bahasa Indonesia
+Berilah tanda silang (x) pada huruf a,b,c atau d pada jawaban yang benar !
+1. Kalimat dalam teks prosedur tidak membingungkan dan mudah diikuti berarti kalimat tersebut...
+A. Logis
+B. Jelas
+C. Baku
+D. Singkat
+2. Berikut yang bukan merupakan contoh dari konjungsi temporal adalah...
+A. Mengapa
+B. Selanjutnya
+C. Kemudian
+D. Apabila
+3. " Jangan serahkan kendaraan atau STNK begitu saja" merupakan kalimat ...
+A. Interogatif
+B. Imperatif
+C. Deklaratif
+D. Primitif
+4. Jika, seandainya, apabila, merupakan bagian dari ...
+A. Konjungsi temporal
+B. Verba tingkah laku
+C. Pembukaan
+D. Konjungsi syarat
+5. "Pastikan tuduhan pelanggaran" merupakan contoh dari...
+A. Deklaratif
+B. Interogatif
+C. Imperatif
+D. Persuasive
+Bacalah teks berikut untuk menjawab soal nomor 6-7 !
+Teks tersebut terdiri dari pendahuluan dan rincian-rincian tentang sebab terjadinya gempa bumi. Bagian pendahuluan terdiri dari tiga paragraf yang berisi pengertian gempa bumi dan jenis-jenisnya. Bagian perincian terdiri atas lima paragraf. Paragraf pertama membahas...
+6. Teks diatas adalah penilaian hasil analisis teks eksplanasi bagian ...
+A. Kaidah
+B. Bahasa
+C. Struktur
+D. Kesimpulan
+7. Hal yang tidak diungkap dalam penilaian laporan hasil analisis teks eksplanasi diatas adalah...
+A. Rincian sebab terjadinya gempa bumi
+B. Jumlah paragraf
+C. Pengertian gempa bumi
+D. Proses terjadinya gempa bumi
+8. Objek teks eksplanasi di atas adalah...
+A. Asal usul bahasa Melayu
+B. Asal usul bahasa Lingua France
+C. Asal usul bahasa Indonesia
+D. Asal usul suka Melayu
+9. Paragraf ketiga dalam teks prosedur berisi...
+A. Tujuan
+B. Interpretas
+C. Langkah-langkah
+D. Tesis
+10. Langkah-langkah dalam struktur teks prosedur artinya. ..
+A. Hasil akhir yang akan dicapai
+B. Cara-caranya
+C. Pengertian
+D. Penjelasan.
+Berikan jawabannya ya Kaka"</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.c</p><p>2.d</p><p>3.b</p><p>4.d</p><p>5.a</p><p>6.d</p><p>7.d</p><p>8.c</p><p>9.c</p><p>10.b</p><p></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="42-bacalah-paragraf-berikut-inilbatik-merupakan-kekayaan-khas-indonesia-batik-sudah-diakui-oleh-dunia-sebagai-warisan-budayadari-indonesia-mengenakan-batik-berarti-kita-melestarikan-kekayaan-budaya">
+                            28. 42. Bacalah paragraf berikut inilBatik merupakan kekayaan khas Indonesia. Batik sudah diakui oleh dunia sebagai warisan budayadari Indonesia. Mengenakan batik berarti kita melestarikan kekayaan budaya Indonesia. Oleh karenaitu, kali ini kita akan membahas cara membuat kain batik sendiri. Berikut ini bahan dan alat yang harusdisiapkan.Kutipan teks prosedur tersebut merupakan bagian struktur ....a. Tujuanc. Langkah-langkahb. Bahan dan alatd. Penutup​</h2><br />
+                        <p><strong>Kutipan teks prosedur tersebut merupakan bagian struktur ....</strong></p><p>a.tujuan</p><p><strong></strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="cara-membuat-nasi-goreng-dadakanberikut-adalah-cara-membuat-nasi-goreng-dadakan-karenanamanya-nasi-goreng-dadakan-berarti-nasi-goreng-yang-dibuatsecara-mendadak-dan-dengan-bahan-seadanya-buat-kalia">
+                            29. Cara Membuat Nasi Goreng DadakanBerikut adalah cara membuat nasi goreng dadakan. Karenanamanya Nasi Goreng Dadakan, berarti nasi goreng yang dibuatsecara mendadak dan dengan bahan seadanya. Buat kalian yangmau mencoba membuat nasi goreng ini, bisa kalian siapkanbahari-bahannya serta ikuti langkah-langkahnya. Mari kita mulailBahan-bahan:Satu piring nasi putih, 2 siung bawang merah, 1 siung bawangputih, daun bawang secukupnya, 1 buah tomat, 2 buah caberawit, bawang goreng secukupnya, 1 butir telur ayam, kecapmanis, 1 sendok teh garam, kaldu bubuk secukupnya.Cara membuat:1. Iris tomat, cabe rawit, bawang merah, bawang putih, dandaun bawang2. Tumis bawang merah dan bawang putih hingga harum lalumasukan irisan daun bawang.3. Kemudian masukan nasi serta irisan tomat4. Setelah itu masukan telur, kecap manis, kaldu bubuk, danjuga garam secukupnya. Kemudian, setelah tercampuraduk sampai merata.5. Setelah merata dan kecap kering, nasi goreng dadakansiap disajikan.....identifikasi teks di atas berdasarkan struktur teks prosedur?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.judul</p><p>2.manfaat</p><p>3.bahan-bahan</p><p>4.langkah-langkah</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah :)</p><br />
+                                            <h2 class="ez-toc-section" id="puwu-luno-dalam-bahasa-melayu25-objek-teks-penjelasan-di-atas-adalah-a-asal-mula-bahasa-melayub-asal-usul-lingua-prancisc-asal-usul-orang-indonesiad-asal-mula-bahasa-prasasti-kuno26-paragraf">
+                            30. puwu Luno dalam bahasa Melayu25. Objek teks penjelasan di atas adalah ...a. Asal mula bahasa Melayub. Asal usul Lingua Prancisc. Asal usul orang Indonesiad. Asal mula bahasa prasasti kuno26. Paragraf ketiga dalam teks prosedural berisi ...a. tujuanb. interpretasic. langkah-langkahnyad. tesis27. Langkah-langkah dalam struktur teks prosedur berarti ...a. hasil akhir tercapaic. pahamb. carad. sebuah penjelasan28. Persyaratan dan pemilihan kata yang benar dalam teks prosedural adalah ...a. siapa, dimana, kapanc. dan denganb. jika, jika dan kapane. kapan, dimana29. Contoh konjungsi target nyata adalah ...a. tapib. jadi ituc. ketikad. jadi itu2. Ceramah ini komprehensif dan tidak ada batasan untuk pemirsa muda dan tua. Ini disebutceramah ...a. khususnyac. ilegalb. umumnyad. eksterior​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>25.a. Asal mula bahasa melayu</p><p>26. c.langkah²</p><p>27 b. cara</p><p>28.</p><p>29. d. jadi itu</p><p>. b umumnya</p><br />
+                                            <h2 class="ez-toc-section" id="arti-langkah-langkah-dalam-struktur-teks-prosedur">
+                            31. arti langkah-langkah dalam struktur teks prosedur?</h2><br />
+                        <strong>Ans:</strong><br />Langkah-langkah dalam teks prosedur adalah struktur yang memuat langkah-langkah yang disusun secara urut yang harus dilakukan oleh pembaca untuk mencapai tujuan teks prosedur.<br />
+                                            <h2 class="ez-toc-section" id="1-kalimat-dalam-petunjuk-yang-dapat-menuntun-calon-pemakai-suatu-barang-atau-produk-untuk-bisa-mengikuti-langkah-langkah-dalam-petunjuk-tersebut-dinamakan2-struktur-teks-berisi-tujuan-dari-pembuatan-t">
+                            32. 1.kalimat dalam petunjuk yang dapat menuntun calon pemakai suatu barang atau produk untuk bisa mengikuti langkah langkah dalam petunjuk tersebut dinamakan2.struktur teks berisi tujuan dari pembuatan teks prosedur yang akan dicapai disebut struktur 3.unsur dalam laporan hasil observasi yang terdiri atas definisi umum yang menjadi4.melakukan kegiatan observasi berarti melakukan 5.teks yang menggambarkan atau melukiskan sesuatu disebut </h2><br />
+                        <p>teks laporan</p><p><strong>Penjelasan:</strong></p><p>karna teks laporan mendeskripsikan bentu,ciri,atau sifay umum(general),seperti benda,hewan,tumbuhan atau peristiwa yg ada dalam langkah kerja</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-perhatikan-petikan-teks-prosedur-berikut-petunjuk-membuat-jus-sehat-kacang-hijau-1-sediakan-kacang-hijau-secukupnya-dan-cuci-sampai-bersih-2-rebus-kacang-hijau-bersama-daun-pandan-hingga-lunak">
+                            33. 1. Perhatikan petikan teks prosedur berikut! Petunjuk Membuat Jus Sehat Kacang Hijau 1. Sediakan kacang hijau secukupnya dan cuci sampai bersih. 2. Rebus kacang hijau bersama daun pandan hingga lunak 3. Angkat kacang hijau yang sudah lunak dan dinginkan. 4. Setelah dingin, blender kacang hijau hingga halus 5. Sementara itu, rebus gula jawa sampai kental 6. Tuangkan larutan gula kental ke dalam kacang hijau halus 7. Supaya lebih nikmat, tambahkan santan masak yang telah diberi sedikit garam 8. Jus sehat kacang hijau siap disajikan panas atau dingin. Pernyataan yang merupakan saran agar pembuatan jus tersebut maksimal adalah.... A. Sebaiknya pada langkah kedelapan tidak perlu menggunakan kata "dingin".  B. Akan lebih jelas jika pada langkah pertama disertakan ukuran satuannya. C. Kata "hingga lunak" pada langkah kedua hendaknya dihilangkan. D. Pada langkah ketujuh tidak perlu ada frasa "supaya lebih nikmat" 2. Perhatikan kutipan teks prosedur berikut! Batik sebagai warisan budaya adiluhung perlu kita lestarikan. Proses pembuatan batik tulis memerlukan teknik, ketelitian, dan kesabaran yang tinggi. Hal itu bukan berarti kita tidak bisa membuat kain batik tulis Dengan berani mencoba dan tekun berlatih untuk melestarikan budaya, kita dapat membuat batik tulis dengan motif yang kita sukal. Kutipan tersebut merupakan struktur teks prosedur bagian A. tujuan B. penutup C. alat dan bahan D. langkah-langkah  Bantu jawab hari ini​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. A</p><p>2. B</p><p><strong>Penjelasan:</strong></p><p></p><p>A merupakan pernyataan karena pilihan A mengandung kata "sebaiknya" </p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-rotasi-adalah-hal-yang-berhubungan-dengan-khayalan-dengan-sesuatu-yang-tidak-benar-benar-ada-dan-hanya-ada-dalam-bedak-pikiran-saja-kata-selain-untuk-fantasi-adalaha-mimpi-c-perlakuan-b">
+                            34. 1.rotasi adalah hal yang berhubungan dengan khayalan dengan sesuatu yang tidak benar-benar ada dan hanya ada dalam bedak pikiran saja kata selain untuk fantasi adalahA. mimpi          C. perlakuan B. pengalaman   D. imajinasi 2. yang bukan termasuk ciri-ciri fantasi adalah A. ide cerita yang terbuka B. terdapat keanehan kemisteriusanC.religius dan sosialD.Fiksi dan khayalan 3. langkah-langkah struktur penyusunan teks prosedur adalah A. tujuan-langkah-bahan-dan alat-penutup B. tujuan bahan dan alat langkah penutupC. tujuan penutup langkah bahan dan alatD. tujuan bahan dan alat penutup langkah4. Berikut ini merupakan puisi rakyat empat baris sebait bersajak a-b-a-b dua baris pertama merupakan sampiran dan dua baris lainnya merupakan isi penjelasan tersebut merujuk pada pengertianA. pantun B. gurindam C. selokaD. talibur 5. penulisan tanggal surat yang benar adalah A. Tanjung 24 Desember 08B. Tanjung 24 Desember 2008 C. Tanjung 24-12-2008 D. Tanjung 24 dec 20086. buku nonfiksi lebih populer di kalangan pembaca yang tidak terlalu membaca karena mereka membeli buku-buku tersebut terdesak oleh A.  minat bacaB. keutuhan dan pengetahuanC. keinginanD. buat untuk bacaessay.1. Tuliskan struktur teks tanggapan deskriptif2. puisi lama yang berasal dari negeri India yang berarti mula-mula atau perumpamaan disebut3. cerita fiksi berupa dongeng yang menggambarkan budi pekerti manusia yang diibaratkan pada beberapa binatang disebut4. Tuliskan dua jenis surat yang kamu ketahui5. Tuliskan pengertian fiksi dan nonfiksiTolong jawab ya Kakak baik aku doakan semoga kalian lulus dan kelas dan dapat juara kelas amin...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pilihan ganda</p><p>1. D</p><p>2. C</p><p>3. B</p><p>4. A</p><p>5. B</p><p>6. C</p><p>essay:</p><p></p><p>1. struktur teks tanggapan terdiri atas tiga bagian, yaitu evaluasi, deskripsi teks, dan penegasan ulang.</p><p>2. Gurindam berasal dari bahasa Tamil (India), yaitu 'kirindam', yang berarti mula-mula amsal, perumpamaan</p><p>3. Fabel adalah cerita fiksi berupa dongeng yang menggambarkan budi pekerti manusia yang diibaratkan pada binatang.</p><p>4. surat permohonan dan surat pengantar/pos</p><p>5. Buku fiksi ditulis berdasarkan imajinasi sehingga isi dari jenis buku ini lebih banyak berupa cerita yang menghibur dan membangkitkan emosi. Sementara, buku nonfiksi adalah buku yang ditulis berdasarkan kenyataan.</p><p><strong>Penjelasan:</strong></p><p>semoga bermanfaat</p><p>maaf klo salah</p><br />
+                                            <h2 class="ez-toc-section" id="1-kalimat-prosedur-berfungsi-untuk-a-memberikan-informasi-atau-berita-tentang-sesuatub-memberikan-penegasan-terhadap-berita-tentang-sesuatuc-memberikan-pertanyaan-terhadap-berita-sesuatud-memberikan">
+                            35. 1.Kalimat prosedur berfungsi untuk...A.memberikan informasi atau berita tentang sesuatuB.memberikan penegasan terhadap berita tentang sesuatuC.memberikan pertanyaan terhadap berita sesuatuD.memberikan tanggapan terhadap berita sesuatu2.Kalimat berikut merupakan bagian dari teks prosedur kompleks yang termasuk kalimat perintah biasa,kecuali...A.masukan bahan A ke dalam campuran bahan B dalam wadah biruB.biarkan mendidih selama tiga menit baru matikan apiC.lakukan pemeriksaan setiap dua jam sekaliD.jangan gunakan tangan telanjang untuk mengambil akar pohon ini3.Struktur teks prosedur kompleks yang pertama,yaitu...A.langkah langkahB.tujuanC.aturanD.tahap tahap4.Berikut yang merupakan kalimat imperatif,yaitu...A.petugas harus menolak pemberian andaB.apakah lingkungan aman?C.siapakah yang menolak tuduhan?D.tekan tombol power pada remote televisi!5.Verba yang mengacu pada tindakan fisik,merupakan arti dari...A.verba tingkah lakuB.verba deverbal C.verba aksiD.verba materialTolong di jawab y soalnya buat besok...mksh.</h2><br />
+                        1.A<br />2.D<br />3.A<br />itu saja maaf kalau salah<br />
+                                            <h2 class="ez-toc-section" id="14-berdasarkan-teks-prosedur-tersebut-fungsi-sosteks-tersebut-adalah-a-menginformasikan-berbagai-alat-mustradisional-yang-ada-di-pulau-jawa-b-menunjukkan-cara-memainkan-alat-musikbonang-melalui">
+                            36. 14. Berdasarkan teks prosedur tersebut, fungsi sosteks tersebut adalah ..a. Menginformasikan berbagai alat mustradisional yang ada di Pulau Jawa.b. Menunjukkan cara memainkan alat musikbonang melalui serangkaian langkah.Menyampaikan maksud pembuatan teksprosedur secara jelas dan tepat.d. Menjelaskan berbagai teknik cara bermainalat musik bonang secara tepat.15. Salah satu ciri teks prosedur adalah menggunakankalimat imperatit Kalimat imperatif pada strukturlangkah-langkah ditunjukkan oleh urutan ...a. ke-1 dan ke-2b. ke-2 dan ke-3c. ke-3 dan ke-4d. ke-4 dan ke-510. Simpulan yang tepat berdasarkan teks prosedurtersebut adalah ...a. Bonang merupakan alat musik pukul yangberfungsi mengiringi melodi pokok. Alatmusik ini masih dilestarikan hingga saatini.Bonang merupakan alat musik tradisionalyang dimainkan dengan dipukul. Saatmemainkan bonang, kita harus mengikutipetunjuk memainkan yang runtut.Bonang merupakan alat musik yang berasaldari Pulau Jawa. Penyebaran alat musik inimeliputi Jawa Tengah dan Jawa Timur.d. Bonar merupakan alat musik yang harusdikenalkan kepada generasi muda. Turutmemainkan alat musik bonang berarti turutmelestarikan kesenian Indonesia.​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>14.b</p><p>15.c</p><p>10.d</p><p></p><p>semoga bermanfaat</p><br />
+                                            <h2 class="ez-toc-section" id="1-kata-deskripsi-berasal-dari-verba-to-describe-yang-artinya-2-berikut-merupakan-ciri-umum-teks-atau-paragraf-deskripsi-adalah-teks-deskripsi-bacalah-teks-berikut-dengan-cermat-untuk-menjawab-s">
+                            37. 1. Kata deskripsi berasal dari verba to describe yang artinya... 2. Berikut merupakan ciri umum teks atau paragraf deskripsi adalah teks deskripsi.. Bacalah teks berikut dengan cermat untuk menjawab soal nomor 3 dan 4! (1) Sasando (bahasa Rote atau bahasa Kupang) adalah alat musik berdawai yang dimainkan dengan cara dipetik dengan jari jemari tangan. (2) Alat ini bentuknya sederhana, bagian utamanya berbentuk tabung panjang dari bambu, bagian tengahnya melingkar dari atas ke bawah diberi penyangga tempat dawai-dawai atau senar direntangkan di tabung bambu dari atas bertumpu kebawah. 3. Teks tersebut termasuk kedalam jenis teks deskripsi... 4. Objek yang dideskripsikan pada teks tersebut adalah... Bacalah paragraf berikut untuk menjawab soal nomor 5 dan 6! Hari ini aku bertemu dengan teman yang sudah lama kami tidak bertemu. Aku sedang berjalan di taman ketika aku melihat seorang wanita yang mengenakan kacamata. Ia sedang duduk di bangku taman tepat di bawah sebuah pohon. Rambutnya panjang dan hitam yang terurai melambai-lambai tertiup embusan angin. Saat aku melewatinya, wajahnya terasa tidak asing bagiku. Tak lama kemudian, wanita itu memanggil namaku, lalu ia mengatakan bahwa ia adalah Nita, temanku sewaktu SMA dulu. 5. Kalimat berikut yang menggunakan kata depan yang menyatakan tempat adalah... 6. Teks tersebut merupakan jenis paragraf deskripsi... 7. Berdasarkan objeknya, teks deskripsi dibagi menjadi tiga jenis, yaitu deskripsi... 8. Perhatikan kalimat berikut! Dia memiliki bulu coklat keabu-abuan di seluruh tubuh dan ekornya. Rujukan kata dia pada kalimat tersebut mengacu pada... 9. Berikut merupaka struktur teks deskripsi, kecuali... 10. Karya yang disusun dalam alur penceritaan yang normal, tetapi bersifat imajinatif dan khyalan disebut cerita... 11. Cerita fantasi merupakan salah satu genre yang sangat penting karena dapat... 12. Cerita fantasi yang tidak dikendalikan sehingga seolah-olah orang ya b berfantasi hanya pasif sebagai wadah tanggapan disebut cerita fantasi... 13. Mempublikasikan merupakan tahap terkahir dalam... 14. Sarana penting dalam menggali pengetahuan ialah... 15. Berikut termasuk langkah-langkah menulis cerita, kecuali... 16. Salah satu ciri cerita fantasi adalah tokohnya memiliki keunikan, kecuali... Bacalah cerita berikut untuk menjawab soal nomor 17 dan 18! Disebuah desa terpencil, hiduplah sepasang suami istri yang bekerja sebagai petani. Keduanya hidup tentram dan bahagia. Suatu hari mereka menemukan seorang bayi di sawah kemudian di asuhnya dengan penuh kasih sayang. Bayi tersebut sekarang sudah besar. Dia diberi nama si Jebul. 17. Latar cerita dongeng tersebut adalah... 18. Sudut pandang yang digunakan dalam cerita fantasi tersebut adalah... 19. Bentuk teks yang berisi langkah-langkah atau tahapan-tahapan yang harus dipenuhi dalam melakukan suatu kegiatan disebut teks... 20. Berikut merupakan ciri umum teks prosedur, kecuali menggunakan... 21. Bacalah teks prosedur berikut! 1) Tutup kembali bagian yang sudah dibuka 2) Buka tutup bagian belakang. 3) Tekan tombol dengan baik. 4) Masukkan baterai dengan kepala ke arah depan semuanya. Urutan penggunaan lamlu senter secara tepat adalah.. Perhatikan teks berikut untuk menjawab soal nomor 22-24! Cara Mudah Membuat Silme Slime adalah salah satu mainan favorit untuk anak-anak yang dapat kita beli di toko mainan. Namun, sebenarnya kita juga bisa membuat slime sendiri di rumah. Berikut caranya. Alat dan bahan 1. 1 botol slime aktivator yang bisa diperoleh di toko terdekat. 2. 1 botol cusson baby oil. 3. Pewarna makanan (warna sesuai dengan yang kalian inginkan). 4. 1 botol lem povinal. 5. Sendok dan piring. Cara membuat 1. Campur lem povinal dengan pewarna makanan dalam sebuah wadah sampai warnnya merata. 2. Setelah tercampur, selanjutnua tambahkan slime activator ke dalam wadah tersebut dengan menuangkan sedikit demi sedikit sambil di aduk sampai campuran membentuk gel dan tidak lengket di wadah. 3. Selanjutnya tambahkan casson bany oil agar slime tidak lengket pada waktu kita sentuh. 4. Slime siap untuk digunakan. 22. Teks tersebut merupakan jenis teks prosedur untuk memandu cara... 23. Hal yang akan terjadi apabila kita tidak menambahkan cusson baby oil ke dalam adonan slime, yaitu slime akan... 24. Pernyataan berikut yang sesuai dengan teks tersebut adalah.. 25. Teks prosedur terdiri dari beberapa bagian, kecuali... 26. Berikut hal-hal yang diperhatikan dalam menulis teks prosedur, kecuali... 27. Langkah pertama yang harus dilakukan untuk menulis teks prosedur adalah.. 28. Istilah lain untuk menyebut ragam teks obsetvasi adalah teks... 29. Perhatikan tahapan menulis laporan observasi berikut! 1) membuat kerangka laporan		2) menulis laporan lengkap 3) mengamati objek dengan seksama	4) membuat catatan hal-hal pokok yang diamati Urutan tahapan menulis laporan observasi yang tepat adalah... 30. Guna memperoleh data untuk menyusun teks hasil observasi dapat dilakukan dengan metode berikut, kecuali... ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.memaparkan, menguraikan atau melukiskan.</p><p>2.Menggambarkan atau menjelaskan sesuatu. Penjelasan secara mendetail dan melibatkan panca indera. Berusaha membuat pembaca dan pendengar merasakan adegan atau peristiwa di dalam teks.</p><p></p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="soal-ulangan-harian-teks-prosedur1-teks-yang-berisi-langkah-langkah-yang-harus-ditempuh-untuk-mencapai-tujuan-yang%c2%a0diinginkan-pernyataan-di-atas-merupakan-a-tujuan-penulisan-teks-prosedurb-j">
+                            38. Soal Ulangan harian Teks Prosedur1. Teks yang berisi langkah-langkah yang harus ditempuh untuk mencapai tujuan yang diinginkan.Pernyataan di atas merupakan...a. Tujuan penulisan teks prosedurb. Jenis teks prosedur.c. Ciri teks prosedurd. Pengertian teks prosedur2. Tujuan penulisan teks prosedur adalah...a. Melukiskan objek.b. Melaporkan.c. Menuntund. Menceriterakan3. Jika kamu ingin menuntut temanmu menyalakan lampu listri di rumahmu, jenis teks prosedur yang tepat kamu sampaikan adalah...a. Kompleksb. Sederhanac. Protokold. Sangat kompleks4. Berikut ini merupakan contoh penggunaan kata yang menunjukkan ukuran, kecuali...a. Pegang dengan genggaman tangan dan telapak tangan menghadap ke atas atau pun ke bawah.b. Mainkan angklung sambil berdiri agar hasil permainan lebih baik.c. Tambahkan 600 cc air ke dalam hasil tumbukan.d. Minum selagi hangat.5. 1. Tambahkan 600 cc air ke dalam hasil tumbukan.2. Minum selagi panas.3. Ambil 5 potong akar kelapa hijau masing-masing 4 cm.4. Rebus semuanya dengan anco yang telah dibuang bijinya sehingga air tersisa 300 cc.5. Tumbuk kasar bersama 10 butir biji teratai.Urutan cara membuat obat tradisional imsomnia yang benar  adalah...a. 1. 2. 3. 4. 5b. 3, 5 ,1, 4, 2c. 2, 1, 3, 5, 4d. 3, 4, 5, 1, 26. Anda sebaiknya menekan tombol keyboard dengan lembut.Bentuk kalimat pasif yang benar dari kalimat aktif di atas adalah...a. Sebaiknya Anda menekan tombol keyboard dengan lembut.b. Anda sebaiknya dengan lembut menekan tombol keyboard.c. Tombol keyboard sebaiknya ditekan dengan lembutd. Sebaiknya tombol keyboard emnenkan Anda dengan lembut.7. Manakah kalimat di bawah ini yang merupakan kalimat pernyataan?a. Posisikan tubuh sejajar dengan monitor.b. Tutup semua aplikasi yang Anda gunakan.c. Anda perlu merebus semua bahan sampai mendidih.d. Minum selagi hangat.2 / 38. 1. Angkat kaki kanan.2. Langkahkan kaki kanan dua kali.3. Putar badanmu 4 kali.4. Angkat kaki kanan setinggi lutut.Kaliamt yang memiliki batasan adalah...a. 1,2,3b. 1,3,4c. 1,2,4d. 2,3,49. 1. Malam jangan terlalu panas agar tidak menusak kain.2. Untuk menyedapkan rasa, masukkan sesendok gula merah.3. Gunakan handuk atau tisu untuk menutup kran.4. Usahakan tangan tetap bersih.Kalimat yang mempunyai keterangan tujuan adalah...a. 1,2,3b. 2,3,4c. 1,3,4d. 1,2,410. Struktur teks prosedur yang benar adalah...a. bahan, tujuan, langkah, penutupb. langkah, bahan, tujuan, penutupc. tujuan, langkah, bahan, pentupd. tujuan, bahan, langkah, penutup11. Teks prosedur kompleks adalah...a. Teks prosedur yang mengandung struktur tujuan dan langkah-langkah.b. Teks prosedur yang mengandung struktur alat dan bahan serta langkah-langkah.c. Teks prosedur yang mengandung langkah-langkah yang panjang dan rumit.d. Teks prosedur yang mengandung langkah-langkah yang tidak runtut.12. Bagian teks prosedur yang selalu ada adalah...a. Tujuanb. Alat dan bahanc. Penutupd. Langkah-langkah13. Berikut ini yang merupakan contoh teks prosedur membuat sesuatu adalah...a. Memainkan serulingb. Membersihkan alat musik dari kuninganc. Memasak sambal oncomd. Menari tari Poco-Poco14. (1) tepung beras(2) santan(3) gula(4) cetakanDari yang disebutkan di atas, yang termasuk jenis “bahan” adalah...a. (1), (2), (3)b. (1) dan (4)c. (2) dan (4)d. (4)3 / 315. (1) Pecahkan telur pada bumbu yang ditumis, lalu aduk rata,(2) Masukkan nasi putih, kemudian aduk lagi sampai bumbu tercampu.(3) Haluskan bumbu-bumbu(4) Tumis bumbu halus dengan sedikit minyakUrutan langkah-langkah membuat nasi goreng adalah...a. (4), (2), (1), (3)b. (3), (4), (1), (2)c. (3), (1), (4), (2)d. (4), (1), (2), (3)16. Ikat potongan ban karet di sisi kanan dan kiri menggunakan tali karet!Dilihat dari strukturnya, kalimat di atas termasuk jenis kalimat...a. deklaratifb. imperatifc. interogatif  d. retoris17. Rebus malam hingga mencair.Verba mencair termasuk jenis verba intransitif karena...a. menyatakan perbuatan aktifb. menyatakan perbuatan pasifc. menunjukkan perilakud. tidak menuntut kehadiran objek18. Ambil beberapa butir mote, ... masukkan senar elastis pada lubang mote tersebut.Kata sambung yang tepat untuk melengkapi bagian rumpang terks prosedur tersebut adalah...a. kemudianb. setelahc. sebelumd. dan19. Jika air sudah mendidih, masukkan telur satu persatu ke dalam panci.Arti kalimat tersebut adalah...a. telur boleh dimasukkan ke dalam panci meskipun belum mendidih.b. telur baru boleh dimasukkan ke dalam panci setelah air mendidih.c. telur tidak boleh dimasukkan ke dalam panci dalam keadaan air mendidih.d. telur tidak boleh dimasukkan ke dalam panci setelah air mendidih.20. Lumur... loyang dengan mentega.Imbuhan yang tepat untuk melengkapi kalimat di atas atas adalah...a. -kanb. -ic. -and. -lah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. c</p><p>2.b</p><p>3.b</p><p>4.a</p><p>5.c</p><p>6.b</p><p>7.d</p><p>8.c</p><p>9.b</p><p>10.a</p><p>11.a</p><p>12.b</p><p>13.c</p><p>14.a</p><p>15.d</p><p>16.a</p><p>17.a</p><p>18.a</p><p>19.b</p><p>20.d</p><p><strong>Penjelasan:</strong></p>senangnya bisa berbantu andajadikan jawaban tercerdas nya<br />
+                                            <h2 class="ez-toc-section" id="langkah-langkah-dala-struktur-teks-prosedur-artinya">
+                            39. Langkah langkah dala struktur teks prosedur artinya</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p></p><p>Langkah-langkah dalam teks prosedur yaitu struktur yang memuat langkah-langkah atau cara-cara yang disusun secara urut yang harus dilakukan oleh pembaca untuk mencapai tujuan teks prosedur.</p><br />
+                                            <h2 class="ez-toc-section" id="26-perhatikan-kutipan-teks-prosedur-berikutbatik-sebagai-warisan-budaya-adiluhung-perlu-kita-lestarikan-proses-pembuatan-batik-tulismemerlukan-teknik-ketelitian-dan-kesabaran-yang-tinggi-hal-itu">
+                            40. 26. Perhatikan kutipan teks prosedur berikut!Batik sebagai warisan budaya adiluhung perlu kita lestarikan. Proses pembuatan batik tulismemerlukan teknik, ketelitian, dan kesabaran yang tinggi. Hal itu bukan berarti kita tidak bisamembuat kain batik tulis. Dengan berani mencoba dan tekun berlatih untuk melestarikanbudaya, kita dapat membuat batik tulis dengan motif yang kita sukai.Kutipan tersebut merupakan struktur teks prosedur bagian .....A.TujuanB.PenutupC.Alat dan bahanD.Langkah langkah​</h2><br />
+                        <p>Jawaban:</p><p>B. Penutup</p><p></p><p>Maaf kalo salah</p><p>Semoga membantu</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/07tW8JcEg9w?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_indonesia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/arti-it-s-oke/">Arti It s Oke</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebutkan-3-kerjasama-asean-di-bidang-sosial/">Sebutkan 3 Kerjasama Asean Di Bidang Sosial</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/etto-artinya/">Etto Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5ton-berapa-kg/">5ton Berapa Kg</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/penampang-melintang-akar-monokotil/">Penampang Melintang Akar Monokotil</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/logam-logam-berat-yang-biasa-terdapat-dalam-limbah-industri-kecuali/">Logam Logam Berat Yang Biasa Terdapat Dalam Limbah Industri Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/30-12/">30 12</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1-3-pangkat-3/">1 3 Pangkat 3</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/75-dollar-berapa-rupiah/">75 Dollar Berapa Rupiah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1-000-000-dolar-berapa-rupiah/">1 000 000 Dolar Berapa Rupiah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/verba-penghubung/">Verba Penghubung</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/singkatan-your/">Singkatan Your</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ciri-pernapasan-dada-pada-waktu-inspirasi-adalah/">Ciri Pernapasan Dada Pada Waktu Inspirasi Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/segitiga/">Segitiga</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/341228/">3/4+1/2+2/8</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-kita-harus-membela-kebenaran-dan-kejujuran/">Mengapa Kita Harus Membela Kebenaran Dan Kejujuran</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-mata-pencaharian-penduduk-berbeda-sesuai-lingkungan-tempat-hidupnya/">Mengapa Mata Pencaharian Penduduk Berbeda Sesuai Lingkungan Tempat Hidupnya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/prepare-adalah/">Prepare Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/puisi-perpisahan/">Puisi Perpisahan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/faktor-pendorong-kerjasama-antar-negara-asean-yaitu/">Faktor Pendorong Kerjasama Antar Negara Asean Yaitu</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

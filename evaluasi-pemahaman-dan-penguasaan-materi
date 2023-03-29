@@ -1,0 +1,1342 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Evaluasi Pemahaman Dan Penguasaan Materi - BELAJAR</title>
+    <meta name="description" content="Evaluasi Pemahaman Dan Penguasaan Materi, , , , , , , 0, (PDF) ANALISIS PEMAHAMAN DAN PENGUASAAN MATERI MATEMATIKA TERHADAP, www.researchgate.net, 850 x 1100, png, , 20, evaluasi-pemahaman-dan-penguasaan-materi, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Evaluasi Pemahaman Dan Penguasaan Materi - BELAJAR" />
+    <meta property="og:description" content="Evaluasi Pemahaman Dan Penguasaan Materi, , , , , , , 0, (PDF) ANALISIS PEMAHAMAN DAN PENGUASAAN MATERI MATEMATIKA TERHADAP, www.researchgate.net, 850 x 1100, png, , 20, evaluasi-pemahaman-dan-penguasaan-materi, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Evaluasi Pemahaman Dan Penguasaan Materi - BELAJAR" />
+    <meta name="twitter:description" content="Evaluasi Pemahaman Dan Penguasaan Materi, , , , , , , 0, (PDF) ANALISIS PEMAHAMAN DAN PENGUASAAN MATERI MATEMATIKA TERHADAP, www.researchgate.net, 850 x 1100, png, , 20, evaluasi-pemahaman-dan-penguasaan-materi, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Evaluasi Pemahaman Dan Penguasaan Materi</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">NURULAINY123</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Evaluasi+Pemahaman+Dan+Penguasaan+Materi" alt="Evaluasi Pemahaman Dan Penguasaan Materi">
+                    </div>
+                    <p></p>
+                    <p>setelah melakukan evaluasi diri , buatlah resume pada materi ! Apa pelajaran yang dapat dipetik setelah memahami materi tersebut ?             materi pencemaran lingkungan</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#setelah-melakukan-evaluasi-diri-buatlah-resume-pada-materi-apa-pelajaran-yang-dapat-dipetik-setelah-memahami-materi-tersebut-materi-pencemaran-lingkungan">1.
+                                            setelah melakukan evaluasi diri , buatlah resume pada materi ! Apa pelajaran yang dapat dipetik setelah memahami materi tersebut ?             materi pencemaran lingkungan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-pada-saat-kita-menjadi-penguasa-harus-ada-yang-mengevaluasi">2.
+                                            Mengapa pada saat kita menjadi penguasa harus ada yang mengevaluasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hal-hal-di-bawah-ini-adalah-fungsi-dari-general-repetisi-kecuali-a-melatih-penguasaan-pentas-b-mengukur-waktu-pergelaran-c-menguasai-peralatan-yang-akan-digunakan-d-mengevaluasi-kekurangan-e">3.
+                                            hal hal di bawah ini adalah fungsi dari general repetisi, kecuali... a. melatih penguasaan  pentas b. mengukur waktu pergelaran c. menguasai peralatan yang akan digunakan d. mengevaluasi kekurangan e. melatih materi yang akan dibawakan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-bantu-materi-tentang-pengembanham-sistem-evaluasi%e2%80%8b">4.
+                                            tolong bantu materi tentang pengembanham sistem evaluasi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#soal-mtk-evaluasi-7-materi-smp-kelas-1-tolong-isinya-please">5.
+                                            soal  MTK evaluasi 7 materi smp kelas 1 tolong isinya 
+PLEASE</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-yang-dapat-kamu-simpulkan-dari-materi-evaluasi-prestasi-belajar">6.
+                                            Apakah yang dapat kamu simpulkan dari materi Evaluasi Prestasi Belajar?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dapat-kamu-simpulkan-dari-materi-evaluasi-prestasi-belajar%e2%80%8b">7.
+                                            apa yang dapat kamu simpulkan dari materi evaluasi prestasi belajar?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bu-erlin-telah-selesai-mengajar-materi-%e2%80%9dpeninggalan-sejarah-kerajaan-budha-di-indonesia-%e2%80%9d-kegiatanbu-erlin-sebagai-guru-adalah-mengevaluasi-ketercapaian-hasil-belajar-para-siswanya-da">8.
+                                            Bu Erlin telah selesai mengajar materi ”Peninggalan Sejarah Kerajaan Budha di Indonesia.” Kegiatan
+Bu Erlin sebagai guru adalah mengevaluasi ketercapaian hasil belajar para siswanya dari aspek
+kognitif. Bantulah Bu Erlin menyiapkan instrumen untuk menilai penguasaan materi siswa pada level
+kognitif C3!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#melakukan-pengamatan-pemahamanpenilaianataumengevaluasi-serta-mengkrritik-disebut">9.
+                                            Melakukan pengamatan pemahaman,penilaian,atau,mengevaluasi serta mengkrritik disebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-memahami-karakter-sangat-penting-sebelum-mengevaluasi-pementasan-drama">10.
+                                            Mengapa memahami karakter sangat penting sebelum mengevaluasi pementasan drama ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-pemahaman-dan-evaluasi-pengendalian-intern-bentuk-naratif-audit">11.
+                                            Contoh pemahaman dan evaluasi pengendalian intern bentuk naratif (audit)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#menurut-pemahamanmu-apa-perbedaan%c2%a0antara-lkpd-dan%c2%a0alat-evaluasi-jelaskan%e2%80%8b">12.
+                                            Menurut pemahamanmu, apa perbedaan antara LKPD dan alat evaluasi? Jelaskan!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#salah-satu-ciri-evaluasi-yang-terbaik-adalah-alat-evaluasinya-harus-sesuai-dengan-materi-yang-telah-diajarkan-dan-sesuai-dengan-rumusan-tujuan-pembelajaran-hal-tersebut-sesuai-dengan-prinsip">13.
+                                            salah satu ciri evaluasi yang terbaik adalah alat evaluasinya harus sesuai dengan materi yang telah diajarkan dan sesuai dengan rumusan tujuan pembelajaran. hal tersebut sesuai dengan prinsip ....? ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buatlah-materi-bk-tentang-evaluasi-prestasi-belajar%e2%80%8b">14.
+                                            buatlah materi bk tentang evaluasi prestasi belajar​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kesimpulan-materi-mengevaluasi-perubahan-demokrasi-indonesia-dari-tahun-1950-sampai-dengan-era-reformasi">15.
+                                            kesimpulan materi mengevaluasi perubahan demokrasi Indonesia dari tahun 1950 sampai dengan era reformasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pertanyaan1-evaluasi-pokok-materi-yang-dibahas2-deskripsi-inti-materi-yang-di-bahas3-penegasan-ulang-materi-yang-dibahas4-kesimpulan-teks-tanggapan-kritis%e2%80%8b">16.
+                                            pertanyaan:1.evaluasi pokok materi yang dibahas?2.deskripsi inti materi yang di bahas?3.penegasan ulang materi yang dibahas?4.kesimpulan teks tanggapan kritis?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-jawab-evaluasi-bab-1-tentang-memahami-memahami-sejarah-dan-penelitian-sejarah">17.
+                                            tolong jawab evaluasi bab 1 tentang memahami memahami sejarah dan penelitian sejarah.. </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pertanyaan-susah-untuk-materi-mengevaluasi-penjajahan-pemerintah-hindia-belanda">18.
+                                            pertanyaan susah untuk materi "mengevaluasi penjajahan pemerintah hindia belanda"...?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#36-dalam-merancang-pembelajaran-ips-langkahlangkah-yang-harus-ditempuh-adalah-a-tujuan-materi-%e2%80%93-metode-media-evaluasib-materi-%e2%80%93-tujuan-media-metode-evaluasic-materi">19.
+                                            36. Dalam merancang pembelajaran IPS langkahlangkah yang harus ditempuh adalah ....A. tujuan - materi – metode - media - evaluasiB. materi – tujuan - Media - metode - evaluasiC. materi – tujuan – metode - media - evaluasiD. tujuan - metode - media - materi - evaluasi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#abstraksi-yang-dilakukan-guru-dalam-pembelajaran-berfungsi-untuk-a-memahami-karakteristik-masing-masing-siswab-memberikan-gambaran-tentang-materi-yg-akan-disampaikan-c-menjelaskan-materi-pe">20.
+                                            Abstraksi yang dilakukan guru dalam pembelajaran berfungsi untuk.... 
+A.  Memahami karakteristik masing masing siswa
+B. Memberikan gambaran tentang materi yg akan disampaikan 
+C. Menjelaskan materi pelajaran dengan metode tertentu
+D. Mengevaluasi pembelajaran yang sedang berlangsung</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#evaluasi-materi-bangun-ruang-sisi-datar-yg-dah-di-lingkarin-bantuu">21.
+                                            EVALUASI MATERI BANGUN RUANG SISI DATAR yg dah di lingkarin..bantuu</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#buat-rangkuman-materi-mengevaluasi-makna-tersirat-dalam-teks-anekdot%e2%80%8b">22.
+                                            buat rangkuman materi mengevaluasi makna tersirat dalam teks anekdot​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#memiliki-kemampuan-memahami-dengan-mengevaluasi-hadis-hadis-pilihan-tentang-menghindari-akhlak-tercela-1-memahami-perilaku-yang-akan-memecah-persaudaraan-dalam-hadits%e2%80%8b">23.
+                                            memiliki kemampuan memahami dengan mengevaluasi hadis-hadis pilihan tentang menghindari akhlak tercela 1 memahami perilaku yang akan memecah persaudaraan /dalam hadits​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bagaimana-cara-mengevaluasi-kegiatan-pengembangan-memahami-bahasa">24.
+                                            Bagaimana cara Mengevaluasi kegiatan pengembangan memahami bahasa </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-hasil-kegiatan-evaluasi-perlu-dibuat-dalam-bentuk-laporan-jelaskan-pemahaman-anda">25.
+                                            Mengapa hasil kegiatan evaluasi perlu dibuat dalam bentuk laporan? Jelaskan pemahaman Anda!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#contoh-soal-menjodohkan-materi-evaluasi-pembelajajatan">26.
+                                            Contoh soal menjodohkan materi evaluasi pembelajajatan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#terangkan-pengertian-evaluasi-untuk-menggambarkan-sejauh-mana-seseorang-petugas-administrasi-telah-menguasai-kompetensi">27.
+                                            terangkan pengertian evaluasi untuk menggambarkan sejauh mana seseorang petugas administrasi telah menguasai kompetensi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#materi-evaluasi-kegiatan-administrasi-kantor">28.
+                                            Materi evaluasi kegiatan administrasi kantor </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-evaluasi-usaha-terdapat-2-tahapan-evaluasi-usaha-sebutkan-dan-jelaskan-masing-masing-menurut-pemahaman-anda%e2%80%8b">29.
+                                            Dalam Evaluasi usaha, terdapat 2 tahapan evaluasi usaha. Sebutkan dan jelaskan masing-masing menurut pemahaman anda​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-seorang-pendidik-biologi-perlu-menguasai-bebagai-teori-belajar-dalam-melaksanakanmerancangmelaksanakandan-mengevaluasi-kegiatan-pembelajaran">30.
+                                            Mengapa seorang pendidik biologi perlu menguasai bebagai teori belajar dalam melaksanakan,merancang,melaksanakan,dan mengevaluasi kegiatan pembelajaran?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#materi-evaluasi-pada-teks-ulasan-film-atau-drama">31.
+                                            Materi evaluasi pada teks ulasan film atau drama</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#evaluasi-tentang-materi-bep-dan-simpulkan-hasilnya">32.
+                                            Evaluasi  tentang materi BEP dan simpulkan hasilnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#menurut-pemahamanmu-apa-perbedaan-antara-lkpd-dan-alat-evaluasi-jelaskan%e2%80%8b">33.
+                                            Menurut pemahamanmu, apa perbedaan antara LKPD dan alat evaluasi? Jelaskan!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mengapa-seorang-pendidik-biologi-perlu-menguasai-bebagai-teori-belajar-dalam-melaksanakanmerancangmelaksanakandan-mengevaluasi-kegiatan-pembelajaran">34.
+                                            Mengapa seorang pendidik biologi perlu menguasai bebagai teori belajar dalam melaksanakan,merancang,melaksanakan,dan mengevaluasi kegiatan pembelajaran?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-dampaknya-bila-seorang-pendidik-tidak-memahami-prinsif-prinsif-penilaian-evaluasi">35.
+                                            Apa dampaknya bila seorang pendidik tidak memahami prinsif-prinsif penilaian evaluasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ika-sudah-menguasai-materi-materi-tersebut-anda-bolelevaluasi-bab-1pilihlah-salah-satu-jawaban-yang-paling-benar1-kondisi-terpenuhinya-pangan-bagi-negarasampai-dengan-perseorangan-disebut-a-pa">36.
+                                            ika sudah menguasai materi-materi tersebut, Anda bolelEvaluasi Bab 1Pilihlah salah satu jawaban yang paling benar!1. Kondisi terpenuhinya pangan bagi negarasampai dengan perseorangan disebut ....a. panganb. bahan bakuC. ketahanan pangand. kedaulatan pangane. kesejahteraan pangan​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-proses-memahami-menafsirkan-mengevaluasi-dan-mengapresiasi-pesan-terulis-disebut">37.
+                                            suatu proses memahami, menafsirkan, mengevaluasi, dan mengapresiasi pesan terulis disebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#evaluasi-terhadap-suatu-hal-atau-pemahaman-yang-bertujuan-untuk-memperbaiki-diri-maupun-keadaan-disebut%e2%80%8b">38.
+                                            evaluasi terhadap suatu hal atau pemahaman yang bertujuan untuk memperbaiki diri maupun keadaan disebut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bu-erlin-telah-selesai-mengajar-materi-%e2%80%9dpeninggalan-sejarah-kerajaan-budha-di-indonesia-%e2%80%9d-kegiatan-bu-erlin-sebagai-guru-adalah-mengevaluasi-ketercapaian-hasil-belajar-para-siswanya-d">39.
+                                            Bu Erlin telah selesai mengajar materi ”Peninggalan Sejarah Kerajaan Budha di Indonesia.” Kegiatan 
+Bu Erlin sebagai guru adalah mengevaluasi ketercapaian hasil belajar para siswanya dari aspek 
+kognitif. Bantulah Bu Erlin menyiapkan instrumen untuk menilai penguasaan materi siswa pada level 
+kognitif C3!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#7-tujuan-pembelajaran-geografi-meliputi-a-sintesis-evaluasi-dan-pengetahuanb-pengetahuan-keterampilan-dan-sikapc-pengetahuan-pemahaman-dan-evaluasi%e2%80%8b">40.
+                                            7. Tujuan pembelajaran geografi meliputi....A. sintesis, evaluasi dan pengetahuanB. pengetahuan, keterampilan dan sikapC. pengetahuan, pemahaman dan evaluasi​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="setelah-melakukan-evaluasi-diri-buatlah-resume-pada-materi-apa-pelajaran-yang-dapat-dipetik-setelah-memahami-materi-tersebut-materi-pencemaran-lingkungan">
+                            1. setelah melakukan evaluasi diri , buatlah resume pada materi ! Apa pelajaran yang dapat dipetik setelah memahami materi tersebut ?             materi pencemaran lingkungan</h2><br />
+                        pelajarann yg kitaa bisaa ambil dlm materii pencemarann lingkungann yaituu tetapp menjagaa lingkungann/kelestariann lingkungann, Dan jangan sekali Kali kitaa mencemarii lingkungann contohh kecilnyaa adalahh membuangg sampahh sembarangann sepertii disungaii Dan sebagainyaa<br />marilahh kitaa jagaa lingkungann kitaa dengan baik sertaa Mari kita berkerjaa Sama dlm menciptaakann lingkungann yg bersihh dan sehat<br />semogaa membantu<br />
+                                            <h2 class="ez-toc-section" id="mengapa-pada-saat-kita-menjadi-penguasa-harus-ada-yang-mengevaluasi">
+                            2. Mengapa pada saat kita menjadi penguasa harus ada yang mengevaluasi</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>agar tidak keterlaluan dalam menjadi penguasa harus ada yang mengevaluasi agar kita tahu kesalahan apa yang diperbuat oleh nya</p><p><strong>Jawaban:</strong></p><p>Agar Kita Bisa Jadi penguasa Yang Baik,yang bisa mengerti orang di sekeliling kita,dan mengevaluasi diri kita Juga sangat penting.</p><br />
+                                            <h2 class="ez-toc-section" id="hal-hal-di-bawah-ini-adalah-fungsi-dari-general-repetisi-kecuali-a-melatih-penguasaan-pentas-b-mengukur-waktu-pergelaran-c-menguasai-peralatan-yang-akan-digunakan-d-mengevaluasi-kekurangan-e">
+                            3. hal hal di bawah ini adalah fungsi dari general repetisi, kecuali... a. melatih penguasaan  pentas b. mengukur waktu pergelaran c. menguasai peralatan yang akan digunakan d. mengevaluasi kekurangan e. melatih materi yang akan dibawakan</h2><br />
+                        jwbanya C. menguasai peralatan Yang akn digunakan<br />
+                                            <h2 class="ez-toc-section" id="tolong-bantu-materi-tentang-pengembanham-sistem-evaluasi%e2%80%8b">
+                            4. tolong bantu materi tentang pengembanham sistem evaluasi​</h2><br />
+                        <p><strong>Jawaban:</strong></p>Fiksi<p></p>evesika<p></p>beologi<p></p>bahasa inggris<br />
+                                            <h2 class="ez-toc-section" id="soal-mtk-evaluasi-7-materi-smp-kelas-1-tolong-isinya-please">
+                            5. soal  MTK evaluasi 7 materi smp kelas 1 tolong isinya 
+PLEASE</h2><br />
+                        soalnya yang mana dek ?<br />
+                                            <h2 class="ez-toc-section" id="apakah-yang-dapat-kamu-simpulkan-dari-materi-evaluasi-prestasi-belajar">
+                            6. Apakah yang dapat kamu simpulkan dari materi Evaluasi Prestasi Belajar?</h2><br />
+                        <p></p><p>1.1 Latar Belakang</p><p></p><p>Suatu bangsa akan dikenal karena kemajuan ilmu pengetahuannya, suatu bangsa akan dianggap maju kalau kalau mencapai kemajuan dengan ilmu pengetahuan. Dan ilmu pengetahuan itu tidak lepas dari yang namanya pendidikan, baik itu formal atau non formal.</p><p></p><p>Pendidikan memang memiliki peran penting bagi tercapainya kemajuan. Selain itu proses pendidikan bukan hanya berhubungan dengan proses pencapaian ilmu pengetahuan, tetapi juga kematangan masyarakatnya secara psikis. Dan itu semua tidak terlepas dari faktor-faktor yang mendudukung dari pendidikan tersebut. Baik itu dari faktor pendidik, yang dididik ataupun administrasi dari pendidikan tersebut, dan masih banyak lagi faktor-faktor yang mendudung bagi terselengaranya sebuah pendidikan.</p><p></p><p>Ada satu kesalahan dalam pendidikan kita, selama ini masih banyak pendidikan yang hanya mengutamakan pendidikan brain based education. Artinya masih banyak pendidikan di negara ini yang hanya melihat berhasil-tidaknya suatu pendidikan dari nilai hasil belajar saja, tanpa melihat bagaimana emosional si anak, psikis si anak, dan ahlak si anak.</p><p></p><p>Sudah kita ketahui secara definisi, evaluasi merupakan salah satu dari factor pendukung bagi lancarnya sebuah pendidikan, yang bertujuan untuk mengetahui sejauh mana tingkat keberhasilan siswa dalam mencapai tujuan yang telah di tetapkan dalam sebuah program. Karena kesalahan dalam melakukan evaluasi, evaluasi yang dilakukan akhirnya tidak memiliki arti. Untuk itu dalam sebuah sekolah perlu adanya seorang psikolog sekolah atau konselor yang bertujuan untuk mengevaluasi anak didik dari segi psikis, emosional, kepribadian, dan pergaulan sosialnya. Selain itu juga berfungsi untuk mengevaluasi dari segi program kurikulum dan keguruan. Maka kemudian dalam dunia psikologi pendidikan dikenal dengan yang namanya evaluasi psikologi pendidikan. Yang mana salah satu tujuannya hal tersebut. Yang akan kita bahas lebih mendalam dalam makalah ini.</p><p></p><p>1.2 Rumusan Masalah</p><p></p><p>Berdasarkan latar belakang di atas, Kami merumuskan beberapa masalah yaitu sebagai berikut:</p><p></p><p>1. Bagaimana definisi dari prestasi belajar?</p><p></p><p>2. Apakah pengertian Evaluasi Prestasi Belajar?</p><p></p><p>3. Apa tujuan dan fungsi Evaluasi Prestasi Belajar?</p><p></p><p>4. Apa macam-macam Evaluasi Prestasi Belajar?</p><p></p><p>5. Bagaimana indikator ketercapaian Prestasi Belajar?</p><p></p><p>6. Bagaimana ranah Evaluasi Prestasi Belajar?</p><p></p><p>1.3 Tujuan Penulisan</p><p></p><p>Mengacu pada rumusan masalah, maka ada beberapa tujuan penulisan makalah ini, yaitu untuk:</p><p></p><p>1. Mengetahui definisi dari prestasi belajar</p><p></p><p>2. Mengetahui dan memahami Evaluasi Prestasi Belajar</p><p></p><p>3. Memahami tujuan dan fungsi Evaluasi Prestasi Belajar</p><p></p><p>4. Mengetahui macam-macam Evaluasi Prestasi Belajar</p><p></p><p>5. Mengetahui indikator ketercapaian Prestasi Belajar</p><p></p><p>6. Memahami ranah Evaluasi Prestasi Belajar</p><p></p><p></p><p><strong>Penjelasan:</strong></p><p><strong>Semoga</strong><strong> </strong><strong>Membantu</strong><strong> </strong><strong>Ya</strong><strong> </strong></p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-dapat-kamu-simpulkan-dari-materi-evaluasi-prestasi-belajar%e2%80%8b">
+                            7. apa yang dapat kamu simpulkan dari materi evaluasi prestasi belajar?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>prestasi belajar merupakan hasil kerja keras keras dari belajar </p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p><p> Psikologi Pendidikan - EVALUASI PRESTASI BELAJAR</p><p></p><p></p><p>BAB I</p><p>PENDAHULUAN</p><p></p><p></p><p>1.1   Latar Belakang</p><p>Suatu bangsa akan dikenal karena kemajuan ilmu pengetahuannya, suatu bangsa akan dianggap maju kalau kalau mencapai kemajuan dengan ilmu pengetahuan. Dan ilmu pengetahuan itu tidak lepas dari yang namanya pendidikan, baik itu formal atau non formal.</p><p>Pendidikan memang memiliki peran penting bagi tercapainya kemajuan. Selain itu proses pendidikan bukan hanya berhubungan dengan proses pencapaian ilmu pengetahuan, tetapi juga kematangan masyarakatnya secara psikis. Dan itu semua tidak terlepas dari faktor-faktor yang mendudukung dari pendidikan tersebut. Baik itu dari faktor pendidik, yang dididik ataupun administrasi dari pendidikan tersebut, dan masih banyak lagi faktor-faktor yang mendudung bagi terselengaranya sebuah pendidikan.</p><p>Ada satu kesalahan dalam pendidikan kita, selama ini masih banyak pendidikan yang hanya mengutamakan pendidikan brain based education. Artinya masih banyak pendidikan di negara ini yang hanya melihat berhasil-tidaknya suatu pendidikan dari nilai hasil belajar saja, tanpa melihat bagaimana emosional si anak, psikis si anak, dan ahlak si anak.</p><p>Sudah kita ketahui secara definisi, evaluasi merupakan salah satu dari factor pendukung bagi lancarnya sebuah pendidikan, yang bertujuan untuk mengetahui sejauh mana tingkat keberhasilan siswa dalam mencapai tujuan yang telah di tetapkan dalam sebuah program. Karena kesalahan dalam melakukan evaluasi, evaluasi yang dilakukan akhirnya tidak memiliki arti. Untuk itu dalam sebuah sekolah perlu adanya seorang psikolog sekolah atau konselor yang bertujuan untuk mengevaluasi anak didik dari segi psikis, emosional, kepribadian, dan pergaulan sosialnya. Selain itu juga berfungsi untuk mengevaluasi dari segi program kurikulum dan keguruan. Maka kemudian dalam dunia psikologi pendidikan dikenal dengan yang namanya evaluasi psikologi pendidikan. Yang mana salah satu tujuannya hal tersebut. Yang akan kita bahas lebih mendalam dalam makalah ini.</p><p></p><p>1.2   Rumusan Masalah</p><p>Berdasarkan latar belakang di atas, Kami merumuskan beberapa masalah yaitu sebagai berikut:</p><p>1.      Bagaimana definisi dari prestasi belajar?</p><p>2.      Apakah pengertian Evaluasi Prestasi Belajar?</p><p>3.      Apa tujuan dan fungsi Evaluasi Prestasi Belajar?</p><p>4.      Apa macam-macam Evaluasi Prestasi Belajar?</p><p>5.      Bagaimana indikator ketercapaian Prestasi Belajar?</p><p>6.      Bagaimana ranah Evaluasi Prestasi Belajar?</p><p></p><p>1.3   Tujuan Penulisan</p><p>Mengacu pada rumusan masalah, maka ada beberapa tujuan penulisan makalah ini, yaitu untuk:</p><p>1.      Mengetahui definisi dari prestasi belajar</p><p>2.      Mengetahui dan memahami Evaluasi Prestasi Belajar</p><p>3.      Memahami tujuan dan fungsi Evaluasi Prestasi Belajar</p><p>4.      Mengetahui macam-macam Evaluasi Prestasi Belajar</p><p>5.      Mengetahui indikator ketercapaian Prestasi Belajar</p><p>6.      Memahami ranah Evaluasi Prestasi Belajar</p><p></p><p></p><p>semoga membantu :)</p><p>jngan lupa follow yahh.... </p><p></p><p> </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bu-erlin-telah-selesai-mengajar-materi-%e2%80%9dpeninggalan-sejarah-kerajaan-budha-di-indonesia-%e2%80%9d-kegiatanbu-erlin-sebagai-guru-adalah-mengevaluasi-ketercapaian-hasil-belajar-para-siswanya-da">
+                            8. Bu Erlin telah selesai mengajar materi ”Peninggalan Sejarah Kerajaan Budha di Indonesia.” Kegiatan
+Bu Erlin sebagai guru adalah mengevaluasi ketercapaian hasil belajar para siswanya dari aspek
+kognitif. Bantulah Bu Erlin menyiapkan instrumen untuk menilai penguasaan materi siswa pada level
+kognitif C3!</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Instrumen yang cocok untuk level kogniif C3 adalah menyusun soal latihan dengan tujuan agar para siswa mampu mengimplementasikan, menggunakan, menentukan, memproseskan, menghitung, memperagakan, menghubungkan, membuktikan, menemukan, menyesuaikan dan lain-lain.</p><p><strong>Penjelasan:</strong></p><p>Contoh bentuk soal yang menggambarkan level kognitif C3 sebagai berikut:
+</p><p>
+Indikator Soal: Siswa mampu menentukan volume gas yang dihasilkan pada proses elektrolis larutan.
+</p><p>
+Bentuk Soal: Elektrolisis larutan AgNO3 0,1 M dengan elektroda C dilakukan selama 5 menit dengan kuat arus listrik yang dialirkan sebesar 0,5 Ampere. Tentukan volume gas yang terbentuk di Anoda! (Ar Ag=108, N= 14, O= 16)
+</p><p>
+Untuk menjawabnya, siswa perlu mengetahui dan memahami konsep reaksi elektrolisis dan cara perhitungannya, yang selanjutnya akan diterapkan pada penentuan volume gas di anoda. </p><p></p><p>Materi pembahasan tentang level kognitif dapat disimak pada link berikut: https://brainly.co.id/tugas/22648751</p><p>#BelajarBersamaBrainly</p><br />
+                                            <h2 class="ez-toc-section" id="melakukan-pengamatan-pemahamanpenilaianataumengevaluasi-serta-mengkrritik-disebut">
+                            9. Melakukan pengamatan pemahaman,penilaian,atau,mengevaluasi serta mengkrritik disebut</h2><br />
+                        <p>mengapresiasi karya seni</p><br />
+                                            <h2 class="ez-toc-section" id="mengapa-memahami-karakter-sangat-penting-sebelum-mengevaluasi-pementasan-drama">
+                            10. Mengapa memahami karakter sangat penting sebelum mengevaluasi pementasan drama ?</h2><br />
+                        karena dengan memahami karakter seseorang kita bisa tahu kalau seseorang itu memiliki karakter yang sebenarnya.contoh:<br />si A dalam kehidupannya selalu ramah,baik hati dan tidak sombong,tetapi ketika si A dipentaskan dalam sebuah drama menjadi seorang yg pemarah,usil dll maka si A belum terbiasa dengan perannya.<br /><br /><br />terimakasih semoga membantu:)<br /><br />
+                                            <h2 class="ez-toc-section" id="contoh-pemahaman-dan-evaluasi-pengendalian-intern-bentuk-naratif-audit">
+                            11. Contoh pemahaman dan evaluasi pengendalian intern bentuk naratif (audit)</h2><br />
+                        <p><strong>Pengendalian intern </strong>merupakan salah satu sistem dan prosedur yang dilakukan oleh perusahaan untuk melindungi aset-aset yang ada di dalam perusahaan. <strong>Contoh pemahaman dan evaluasi pengendalian intern bentuk naratif (audit) </strong>yaitu prosedur pengeluaran kas dalam bentuk memo yang dicatat oleh auditor.</p><p></p><p><strong>Pembahasan:</strong></p><p>Setiap perusahaan memiliki tujuan yang hendak dicapai. Agar tujuan tersebut dapat dicapai diperlukan kerja sama antara berbagai pihak. Dengan kerja sama yang baik, maka tujuan perusahaan akan lebih mudah tercapai. Dalam menjalankan bisnisnya, diperlukan adanya pengendalian intern. <strong>Pengendalian intern </strong>merupakan salah satu sistem dan prosedur yang dilakukan oleh perusahaan untuk melindungi aset-aset yang ada di dalam perusahaan. <strong>Contoh pemahaman dan evaluasi pengendalian intern bentuk naratif (audit) </strong>yaitu prosedur pengeluaran kas dalam bentuk memo yang dicatat oleh auditor. Memo merupakan catatan kecil yang digunakan untuk mencatat hal-hal yang penting. Cara tersebut biasanya dipakai pada pembukuan yang kecil dan sederhana.</p><p><strong>Pelajari lebih lanjut</strong></p><p>Materi tentang pentingnya SDM dalam pengendalian intern https://brainly.co.id/tugas/50911342</p><p></p><p><strong>#BelajarBersamaBrainly</strong></p><p><strong>#SPJ1</strong></p><br />
+                                            <h2 class="ez-toc-section" id="menurut-pemahamanmu-apa-perbedaan%c2%a0antara-lkpd-dan%c2%a0alat-evaluasi-jelaskan%e2%80%8b">
+                            12. Menurut pemahamanmu, apa perbedaan antara LKPD dan alat evaluasi? Jelaskan!​</h2><br />
+                        <p>Perbedaannya terletak pada peran guru atau pendidik, bahwa media pembelajaran dirancang untuk bisa digunakan oleh si belajar langsung tanpa dibantu oleh guru atau pendidik. Sedangkan alat peraga membutuhkan guru atau pendidik untuk penggunaannya karena bersifat alat bantu mengajar.</p><p></p><p>maaf kalau salah :)</p><br />
+                                            <h2 class="ez-toc-section" id="salah-satu-ciri-evaluasi-yang-terbaik-adalah-alat-evaluasinya-harus-sesuai-dengan-materi-yang-telah-diajarkan-dan-sesuai-dengan-rumusan-tujuan-pembelajaran-hal-tersebut-sesuai-dengan-prinsip">
+                            13. salah satu ciri evaluasi yang terbaik adalah alat evaluasinya harus sesuai dengan materi yang telah diajarkan dan sesuai dengan rumusan tujuan pembelajaran. hal tersebut sesuai dengan prinsip ....? ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Sesuai dengan prinsip belajar yang menyatakan bahwa belajar merupakan proses terjadinya perubahan pada perserta didik</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><p>jawaban tercerdas ya</p><br />
+                                            <h2 class="ez-toc-section" id="buatlah-materi-bk-tentang-evaluasi-prestasi-belajar%e2%80%8b">
+                            14. buatlah materi bk tentang evaluasi prestasi belajar​</h2><br />
+                        <p>Tujuan Evaluasi Pembelajaran : </p><p> Menentukan angka kemajuan atau hasil belajar pada siswa. Untuk mengetahui kadar pemahaman peserta didik terhadap materi pelajaran.</p><p> Sebagai umpan balik untuk guru yang dapat digunakan untuk memperbaiki proses belajar mengajar dan program remedial untuk siswa.</p><p></p><p></p><p></p><p>semoga membantu!!! </p><p>#maaf kalau salah :)</p><br />
+                                            <h2 class="ez-toc-section" id="kesimpulan-materi-mengevaluasi-perubahan-demokrasi-indonesia-dari-tahun-1950-sampai-dengan-era-reformasi">
+                            15. kesimpulan materi mengevaluasi perubahan demokrasi Indonesia dari tahun 1950 sampai dengan era reformasi</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pelaksanaan demokrasi di Indonesia dapat dibagi menjadi beberapa periodesasi antara lain :</p><p>1.Pelaksanaan demokrasi pada masa revolusi ( 1945 - 1950 ).</p><p>  Tahun 1945 – 1950, Indonesia masih berjuang menghadapi Belanda yang ingin kembali ke Indonesia. Pada saat itu pelaksanaan demokrasi belum berjalan dengan baik. Hal itu disebabkan oleh masih adanya revolusi fisik. Pada awal kemerdekaan masih terdapat sentralisasi kekuasaan hal itu terlihat Pasal 4 Aturan Peralihan UUD 1945 yang berbnyi sebelum MPR, DPR dan DPA dibentuk menurut UUD ini segala kekuasaan dijalankan oleh Presiden denan dibantu oleh KNIP. Untuk menghindari kesan bahwa negara Indonesia adalah negara yang absolut pemerintah mengeluarkan :</p><p>a.Maklumat Wakil Presiden No. X tanggal 16 Oktober 1945, KNIP berubah menjadi lembaga legislatif.</p><p>b.Maklumat Pemerintah tanggal 3 Nopember 1945 tentang Pembentukan Partai Politik.</p><p>c.Maklumat Pemerintah tanggal 14 Nopember 1945 tentang perubahan sistem pemerintahn presidensil menjadi parlementer</p><p></p><p>2.Pelaksanaan demokrasi pada masa Orde Lama ( 1950 - 1966 ).</p><p>a.Masa Demokrasi Liberal 1950 – 1959;</p><p>Masa demokrasi liberal yang parlementer presiden sebagai lambang atau berkedudukan sebagai Kepala Negara bukan sebagai kepala eksekutif. Masa demokrasi ini peranan parlemen, akuntabilitas politik sangat tinggi dan berkembangnya partai-partai politik.</p><p>Namun demikian praktik demokrasi pada masa ini dinilai gagal disebabkan:</p><p>Dominannya partai politik,</p><p>Landasan sosial ekonomi yang masih lemah,</p><p>Tidak mampunya konstituante bersidang untuk mengganti UUDS 1950.</p><p>Atas dasar kegagalan itu maka Presiden mengeluarkan Dekrit Presiden 5 Juli 1959 :</p><p>Bubarkan Badan Konstituante,</p><p>Kembali ke UUD 1945 dan tidak berlakunya UUD S 1950,</p><p>Segera dibentuk MPRS dan DPAS.</p><p></p><p>b.Masa Demokrasi Terpimpin 1959 – 1966</p><p>Pengertian demokrasi terpimpin menurut Tap MPRS No. VII/MPRS/1965 adalah kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan yang berintikan musyawarah untuk mufakat secara gotong royong diantara semua kekuatan nasional yang progresif revolusioner dengan berporoskan nasakom dengan ciri:</p><p>Dominasi Presiden</p><p>Terbatasnya peran partai politik</p><p>Berkembangnya pengaruh PKI</p><p>Penyimpangan masa demokrasi terpimpin antara lain:</p><p>Mengaburnya sistem kepartaian, pemimpin partai banyak yang dipenjarakan,</p><p>Peranan Parlemen lembah bahkan akhirnya dibubarkan oleh presiden dan presiden membentuk DPRGR,</p><p>Jaminan HAM lemah,</p><p>Terjadi sentralisasi kekuasaan,</p><p>Terbatasnya peranan pers,</p><p>Kebijakan politik luar negeri sudah memihak ke RRC (Blok Timur).</p><p>Akhirnya terjadi peristiwa pemberontakan G 30 September 1965 oleh PKI yang menjadi tanda akhir dari pemerintahan Orde Lama.</p><p></p><p>3.Pelaksanaan demokrasi pada masa Orde baru ( 1966 - 1998 )</p><p>Dinamakan juga demokrasi pancasila. Pelaksanaan demokrasi orde baru ditandai dengan keluarnya Surat Perintah 11 Maret 1966, Orde Baru bertekad akan melaksanakan Pancasila dan UUD 1945 secara murni dan konsekwen. Awal Orde baru memberi harapan baru pada rakyat pembangunan disegala bidang melalui Pelita I, II, III, IV, V dan pada masa orde baru berhasil menyelenggarakan Pemilihan Umum tahun 1971, 1977, 1982, 1987, 1992, dan 1997.</p><p></p><p>Namun demikian perjalanan demokrasi pada masa orde baru ini dianggap gagal. Hal ini disebabkan oleh:</p><p>a. Rotasi kekuasaan eksekutif hampir dikatakan tidak ada,</p><p>b. Rekrutmen politik yang tertutup,</p><p>c.  Pemilu yang jauh dari semangat demokratis,</p><p>d. Pengakuan HAM yang terbatas,</p><p>e. Tumbuhnya KKN yang merajalela.</p><p></p><p>Sebab jatuhnya Orde Baru:</p><p>a. Hancurnya ekonomi nasional ( krisis ekonomi ),</p><p>b. Terjadinya krisis politik,</p><p>c. TNI juga tidak bersedia menjadi alat kekuasaan orba,</p><p>d. Gelombang demonstrasi yang menghebat menuntut Presiden Soeharto untuk turun jadi Presiden.</p><p></p><p>4.Pelaksanaan Demokrasi Reformasi ( 1998 – sekarang )</p><p>Berakhirnya masa orde baru ditandai dengan penyerahan kekuasaan dari Presiden Soeharto ke Wakil Presiden BJ Habibie pada tanggal 21 Mei 1998.</p><p>Masa reformasi berusaha membangun kembali kehidupan bangsa Indonesia yang demokratis antara lain:</p><p>a.  Keluarnya Ketetapan MPR RI No. X/MPR/1998 tentang pokok-pokok reformasi,</p><p>b.  Ketetapan No. VII/MPR/1998 tentang pencabutan tap MPR tentang Referandum,</p><p>c.  Tap MPR RI No. XI/MPR/1998 tentang penyelenggaraan Negara yang bebas dari KKN,</p><p>d.  Tap MPR RI No. XIII/MPR/1998 tentang pembatasan Masa Jabatan Presiden dan Wakil Presiden RI,</p><p>e.  Amandemen UUD 1945 sudah sampai amandemen I, II, III, IV.</p><p>Pada Masa Reformasi berhasil menyelenggarakan pemiluhan umum sudah dua kali yaitu tahun 1999 dan tahun 2004.</p><br />
+                                            <h2 class="ez-toc-section" id="pertanyaan1-evaluasi-pokok-materi-yang-dibahas2-deskripsi-inti-materi-yang-di-bahas3-penegasan-ulang-materi-yang-dibahas4-kesimpulan-teks-tanggapan-kritis%e2%80%8b">
+                            16. pertanyaan:1.evaluasi pokok materi yang dibahas?2.deskripsi inti materi yang di bahas?3.penegasan ulang materi yang dibahas?4.kesimpulan teks tanggapan kritis?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Pokok materi di atas menceritakan tentang Bencana alam dan di Indonesia yang terbilang tinggi. Bencana alam seperti Gempa bumi, Tanah Longsor, Banjir, kenaikan air laut, Erosi dan lain lain. Selain itu, teks itu juga Membahas tentang Kerusakan alam akibat bencana alam di Indonesia, contoh nya tanah longsor yang mengakibatkan Kerusakan tanah hingga memakan korban</p><p></p><p>2. Inti materi yang dibahas adalah Bencana alam di Indonesia yang tinggi dan kerusakan Akibat bencana alam di Indonesia</p><p></p><p>3. Penegasan ulang materi yang dibahas adalah bencana alam sudah sering terjadi Di Indonesia baik itu berskala besar dan kecil. Bencana alam yang sering terjadi dapat mengakibatkan Kerusakan alam. Contohnya Penebangan Pohon berskala besar mengakibatkan Tanah Tanah menjadi tidak kuat menahan beban di atas tanah sehingga mengakibatkan tanah longsor. Longsor yang dapat mengakibatkan Tanah Longsor yang mengakibatkan kerusakan tanah hingga memakan korban</p><p></p><p>4. Kesimpulan dari teks tanggapan kritis tersebut adalah Kita harus selalu siap sedia menghadapi bencana alam, Kita harus mencegah terjadinya kerusakan alam dengan cara: Membuang sampah pada tempatnya dapat Menahan Banjir yang berujung mengakibatkan Rumah dan harta benda rusak, Menanam pohon kembali atau Reboisasi untuk mencegah terjadinya tanah longsor jika hujan berskala lebat suatu saat terjadi, dan lain sebagainya</p><p></p><p></p><p><strong>Se</strong><strong>moga</strong><strong> bermanfaat</strong><strong> dan</strong><strong> membantu</strong><strong> ya</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong> </strong></p><p></p><p><strong>Jika</strong><strong> </strong><strong>salah</strong><strong> </strong><strong>mohon</strong><strong> </strong><strong>diko</strong><strong>reksi</strong><strong>,</strong><strong> </strong><strong>jangan</strong><strong> </strong><strong>dilaporkan</strong><strong> </strong><strong>sebelum</strong><strong> </strong><strong>di</strong><strong> </strong><strong>Koreksi</strong><strong> </strong><strong>oke</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong> </strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="tolong-jawab-evaluasi-bab-1-tentang-memahami-memahami-sejarah-dan-penelitian-sejarah">
+                            17. tolong jawab evaluasi bab 1 tentang memahami memahami sejarah dan penelitian sejarah.. </h2><br />
+                        Yang mana soalnya yg di jawab ?<br />
+                                            <h2 class="ez-toc-section" id="pertanyaan-susah-untuk-materi-mengevaluasi-penjajahan-pemerintah-hindia-belanda">
+                            18. pertanyaan susah untuk materi "mengevaluasi penjajahan pemerintah hindia belanda"...?</h2><br />
+                        Nih moga-moga pertanyaannya susah<br /><br />1. Mengapa pemerintah Belanda mencantum Sistem Tanam Paksa dan alasannya Sistem Tanam Paksa dilakukan?<br />2. Pasti Sistem Tanam Paksa sangat merugikan bangsa Indonesia, coba sebutkan dampak positif Sistem Tanam Paksa bagi Indonesia! <br />3. Bagaimana cara Belanda menormalisasikan keadaan lama (Penjajahan Inggris) ke keadaan baru (Belanda)?<br />
+                                            <h2 class="ez-toc-section" id="36-dalam-merancang-pembelajaran-ips-langkahlangkah-yang-harus-ditempuh-adalah-a-tujuan-materi-%e2%80%93-metode-media-evaluasib-materi-%e2%80%93-tujuan-media-metode-evaluasic-materi">
+                            19. 36. Dalam merancang pembelajaran IPS langkahlangkah yang harus ditempuh adalah ....A. tujuan - materi – metode - media - evaluasiB. materi – tujuan - Media - metode - evaluasiC. materi – tujuan – metode - media - evaluasiD. tujuan - metode - media - materi - evaluasi​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tujuan-materi-metode-media-evaluasi</p><br />
+                                            <h2 class="ez-toc-section" id="abstraksi-yang-dilakukan-guru-dalam-pembelajaran-berfungsi-untuk-a-memahami-karakteristik-masing-masing-siswab-memberikan-gambaran-tentang-materi-yg-akan-disampaikan-c-menjelaskan-materi-pe">
+                            20. Abstraksi yang dilakukan guru dalam pembelajaran berfungsi untuk.... 
+A.  Memahami karakteristik masing masing siswa
+B. Memberikan gambaran tentang materi yg akan disampaikan 
+C. Menjelaskan materi pelajaran dengan metode tertentu
+D. Mengevaluasi pembelajaran yang sedang berlangsung</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>c. menjelaskan materi pelajaran dengan metode tertentu</p><p><strong>Penjelasan:</strong></p><p>Proses pembelajaran dalam pendidikan memegang peranan penting untuk menambah
+</p><p>ilmu pengetahuan, keterampilan dan peranan konsep diri. Dalam proses pembelajaran
+</p><p>Pendidikan Kewarganegaraan diperlukan adanya aktifitas, supaya siswa mampu
+</p><p>mengembangkan pola pemikirannya sehingga dapat berfikir kritis dan rasional sehingga hasil
+</p><p>belajarnya pun akan berkembang kea rah yang lebih baik. Dan proses belajar mengajar guru
+</p><p>diharapkan mampu memanfaatkan potensi yang dimiliki oleh siswa untuk dapat digunakan
+</p><p>dalam belajar. Fungsi fasilitator akan berhasil jika dalam merancang proses belajar mengajar
+</p><p>dilakukan berdasarkan langkah-langkah yang sistematis dan baik yang memungkinkan terjadi
+</p><p>penyempurnaan terhadap tujuan, bahan, ataupun strategi belajar mengajar melalui proses
+</p><p>umpan balik yang diperoleh dari proses evaluasi. Pengertian metode mengajar adalah cara
+</p><p>kerja yang bersistem untuk memudahkan pelaksanaan suatu kegiatan untuk mencapai tujuan
+</p><p>yang ditentukan. Untuk mencapai tujuan yang ditentukan, hendaknya digunakan variasi
+</p><p>dalam menggunakan metode pembelajaran. Metode penelitian yang digunakan adalah metode
+</p><p>kualitatif. Metode kualitatif merupakan penelitian tindakan. Dalam metode kualitatif ini
+</p><p>menggunakan penelitian tindakan kelas atau disingkat (PTK) yang bertujuan untuk
+</p><p>memperbaiki atau meningkatkan mutu proses atau praktik pembelajaran. Objek penelitian ini
+</p><p>adalah siswa kelas XI.IPS-4 SMA Negeri 1 Katapang Kabupaten Bandung dengan jumlah
+</p><p>total 35 siswa yang terdiri dari jumlah laki-laki 16 siswa dan perempuan 19 siswa. Bertempat
+</p><p>di SMAN Negeri 1 Katapang Kabupaten Bandung jalan Kiaraeunyeuh Kabupaten Bandung
+</p><p>40971. Setelah dilakukan penelitian melalui dua siklus, melalui Hasil Kriteria Ketuntasan
+</p><p>Minimal (KKM) Pada Tindakan Awal adalah 20% dengan kategori ‘kurang’. Kemudian
+</p><p>dilaksanakan melalui Hasil Kriteria Ketuntasan Minimal (KKM) siklus I adalah 54,2%
+</p><p>dengan kategori ‘cukup’. Nilai rata-rata tersebut mengalami peningkatan pada siklus II
+</p><p>sebesar 82,8% dengan kategori ‘sangat baik’. Pengalaman pada siklus I menjadi pendorong
+</p><p>bagi siswa untuk lebih memperhatikan penjelasan guru, lebih aktif bertanya, dan lebih tertarik
+</p><p>pada pembelajaran. Dengan metode pembelajaran Ceramah Bervariasi dapat
+</p><p>meningkatkan aktifitas belajar siswa pada pokok bahasan hak asasi manusia, siswa menjadi
+</p><p>lebih mudah dalam memahami materi ajar, aktif dalam proses pembelajaran.</p><br />
+                                            <h2 class="ez-toc-section" id="evaluasi-materi-bangun-ruang-sisi-datar-yg-dah-di-lingkarin-bantuu">
+                            21. EVALUASI MATERI BANGUN RUANG SISI DATAR yg dah di lingkarin..bantuu</h2><br />
+                        <p>3.</p><p>[tex]4(p + l + t) = 156 \\ 4(3x + 2 + x + 5 + 2x - 4) = 156 \\ 4(6x + 3) = 156 \\ 24x + 12 = 156 \\ 24x = 156 - 12 \\ 24x = 144 \\ x = 144 \div 24 \\ x = 6[/tex]</p><p>4. <strong>B</strong></p><p>5.</p><p>[tex]12 \times s = 96 \\ s =  \frac{96}{12}  \\ s = 8 \\  \\ luas = 6 \times s {}^{2}  \\  = 6 \times 8 {}^{2}  \\ =  6 \times 64 \\  = 384cm {}^{2} [/tex]</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="buat-rangkuman-materi-mengevaluasi-makna-tersirat-dalam-teks-anekdot%e2%80%8b">
+                            22. buat rangkuman materi mengevaluasi makna tersirat dalam teks anekdot​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>if so the material is 5+ (6) the same as</p><p><strong>Jawaban:</strong></p><p>if so the material is 5+(6) the same as</p><p></p><p></p><p></p><p><strong>Penjelasan:</strong></p><p>semoga membantu maaf kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="memiliki-kemampuan-memahami-dengan-mengevaluasi-hadis-hadis-pilihan-tentang-menghindari-akhlak-tercela-1-memahami-perilaku-yang-akan-memecah-persaudaraan-dalam-hadits%e2%80%8b">
+                            23. memiliki kemampuan memahami dengan mengevaluasi hadis-hadis pilihan tentang menghindari akhlak tercela 1 memahami perilaku yang akan memecah persaudaraan /dalam hadits​</h2><br />
+                        <p>Jawaban:Ini kayak nya Uji ketrampilan dibuku mu ya?</p><p>﻿tapi aku akan jawab perilaku yg memecah persaudaraan atau dalam hadits antara lain#</p><p>Tamak dan rakus terhadap dunia, akan apa-apa yang dimiliki orang lain.</p><p>Rasulullah saw. Bersabda, “Zuhudlah terhadap dunia, Allah akan mencintai kamu. Zuhudlah terhadap apa yang dimiliki oleh manusia, mereka akan mencintai kamu.”(HR Ibnu Majah).</p><p></p><p>Jika kamu tertimpa musibah, mintalah musyawarah kepada saudaramu dan jangan meminta apa yang engkau butuhkan. Sebab jika saudara atau temanmu itu memahami keadaanmu, ia akan terketuk hatinya untuk menolongmu, tanpa harus meminta atau meneteskan air mata.</p><p></p><p>#Maksiyat dan meremehkan ketaatan</p><p>Jika di dalam pergaulan tidak ada nuansa dzikir dan ibadah, saling menasehati, mengingatkan dan memberi pelajaran, berarti pergaulan atau ikatan persahabatan itu telah gersang disebabkan oleh kerasnya hati dan hal itu bisa mengakibatkan terbukannya pintu-pintu kejahatan sehingga masing-masing akan saling menyibukkan diri dengan urusan yang lain. Padahal Rasulullah saw. Bersabda, “Seorang muslim adalah saudara bagi muslim yang lain, tidak mendzoliminya dan tidak menghinakannya. Demi Dzat yang jiwa Muhammad ada di tangan-Nya, Tidaklah dua orang yang saling mengasihi, kemudian dipisahkan antara keduanya kecuali hanya karena satu dosa yang dilakukan oleh salah seorang dari keduanya.”(HR Ahmad).</p><p></p><p>Ibnu Qayim, dalam kitab “Al-Jawabul Kafi” mengatakan, “Di antara akibat dari perbuatan maksiyat adalah rasa gelisah (takut dan sedih) yang dirasakan oleh orang yang bermaksiyat itu untuk bertemu dengan saudara-saudaranya.”</p><p></p><p>Orang-orang ahli maksiyat dan kemungkaran, pergaulan dan persahabatan mereka tidak dibangun atas dasar ketakwaan melainkan atas dasar materi sehingga akan dengan mudah berubah menjadi permusuhan. Bahkan hal itu nanti akan menjadi beban di hari kiamat. Allah swt. Berfirman, “Teman-teman akrab pada hari itu sebagiannya menjadi musuh bagi sebagian yang lain kecuali orang-orang yang bertakwa.”(Az-Zukhruf: 67). Sedangkan persahabatan karena Allah, akan terus berlanjut sampai di surga, “…sedang mereka merasa bersaudara duduk berhadap-hadapan di atas dipan-dipan.”(Al-Hijr: 47).</p><p></p><p>#Tidak menggunakan adab (tata karma)yang baik (syar’i) ketika berbicara.</p><p>Ketika berbicara dengan saudara atau kawan, hendaknya seseorang memilih perkataan yang paling baik.</p><p></p><p></p><p>Penjelasan:SEMOGA MEMBANTU DAN BERMANFAAT. </p><p>﻿KURANG ATAU LEBIHNYA MOHON MAAF </p><p></p><p></p><p>﻿        SELAMAT BELAJAR NYA.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="bagaimana-cara-mengevaluasi-kegiatan-pengembangan-memahami-bahasa">
+                            24. Bagaimana cara Mengevaluasi kegiatan pengembangan memahami bahasa </h2><br />
+                        Pengamatan atau observasi merupakan teknik penilaian yang dilakukan selama kegiatan pembelajaran baik secara langsung maupun tidak langsung dengan menggunakan lembar observasi, catatan menyeluruh atau jurnal, dan rubrik.<br />Percakapan merupakan teknik penilaian yang dapat digunakan baik pada saat kegiatan terpimpin maupun bebas.<br />Penugasan merupakan teknik penilaian berupa pemberian tugas yang akan dikerjakan anak dalam waktu tertentu baik secara individu maupun kelompok baik secara mandiri maupun didampingi.<br />Unjuk kerja adalah teknik penilaian yang melibatkan anak dalam bentuk pelaksanaan suatu aktivitas yang dapat diamati.<br />Penilaian hasil karya merupakan teknik penilaian dengan melihat produk yang dihasilkan oleh anak setelah melakukan suatu kegiatan.<br />Pencatatan anekdot adalah teknik penilaian yang dilakukan dengan mencatat sikap dan perilaku khusus pada anak ketika suatu peristiwa terjadi secara tiba-tiba/insidental baik positif maupun negatif.<br />Portofolio merupakan kumpulan atau rekam jejak berbagai hasil kegiatan anak secara berkesinambungan atau catatan pendidik tentang berbagai aspek perkembangan sebagai salah satu bahan untuk menilai kompetensi sikap, pengetahuan, dan keterampilan.<br />
+                                            <h2 class="ez-toc-section" id="mengapa-hasil-kegiatan-evaluasi-perlu-dibuat-dalam-bentuk-laporan-jelaskan-pemahaman-anda">
+                            25. Mengapa hasil kegiatan evaluasi perlu dibuat dalam bentuk laporan? Jelaskan pemahaman Anda!</h2><br />
+                        Karana evaluasi sangat perlu bagi.......... <br />
+                                            <h2 class="ez-toc-section" id="contoh-soal-menjodohkan-materi-evaluasi-pembelajajatan">
+                            26. Contoh soal menjodohkan materi evaluasi pembelajajatan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jelaskan mengapa evaluasi harus dilakukan secara berkesinambungan?</p><br />
+                                            <h2 class="ez-toc-section" id="terangkan-pengertian-evaluasi-untuk-menggambarkan-sejauh-mana-seseorang-petugas-administrasi-telah-menguasai-kompetensi">
+                            27. terangkan pengertian evaluasi untuk menggambarkan sejauh mana seseorang petugas administrasi telah menguasai kompetensi</h2><br />
+                        <p>Seseorang bisa dikatakan menguasai kompetensi bisa kita lihat dari cara dia mempertanggungjawabkan dalam tugasnya dan ia bisa mengelola dengan baik dan benar. </p><br />
+                                            <h2 class="ez-toc-section" id="materi-evaluasi-kegiatan-administrasi-kantor">
+                            28. Materi evaluasi kegiatan administrasi kantor </h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pengertian Evaluasi Program Administrasi</p><p>Istilah evaluasi berasal dari bahasa Inggris yaitu “Evaluation”. Menurut Edwin Wand dan Gerald W. Brown, Evaluasi adalah suatu tindakan atau suatu proses untuk menentukan nilai daripada sesuatu. Sesuai dengan pendapat tersebut maka evaluasi pendidikan dapat diartikan sebagai suatu tindakan atau suatu proses untuk menentukan segala sesuatu dalam dunia pendidikan atau segala sesuatu yang ada hubungannya dengan dunia pendidikan.[2]</p><p>Menurut Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional, Evaluasi Pendidikan adalah kegiatan pengendalian, penjaminan, dan penetapan mutu pendidikan terhadap berbagai komponen pendidikan pada setiap jalur, jenjang, dan jenis pendidikan sebagai bentuk pertanggungjawaban penyelenggaraan pendidikan. Dalam pasal 57 ayat (1) disebutkan bahwa evaluasi dilakukan dalam rangka pengendalian mutu  pendidikan secara nasional sebagai bentuk akuntabilitas penyelenggara pendidikan kepada pihak-pihak yang berkepentingan, di antaranya terhadap peserta didik, lembaga, dan program pendidikan.</p><p>Evaluasi merupakan suatu tindakan yang dilakukan oleh seorang evaluator terhadap suatu peristiwa atau kejadian. Tindakan ini mengandung maksud untuk memberikan arti atau makna dari kejadian itu sehingga dapat diproses lebih lanjut. Tindakan tersebut dilakukan atas dasar objektivitas dan integritas. Hal ini dimaksudkan agar hasil yang diperoleh dapat memberikan kepuasan bagi semua pihak.</p><p>Evaluasi dimaksudkan untuk menentukan  nilai sesuatu. Dari hasil evaluasi kita dapat menentukan apakah sesuatu itu mempunyai nilai atau tidak. Dengan kata lain, evaluasi dapat menunjukkan kualitas sesuatu.[3]</p><p>Evaluasi administrasi adalah suatu rangkaian kegiatan yang dilakukan dengan sengaja untuk melihat tingkat keberhasilan program Administrasi. Ada beberapa pengertian tentang “program” itu sendiri. </p><p><strong>Penjelasan:</strong></p><p></p><p>( Semoga membantu ^_^ )</p><br />
+                                            <h2 class="ez-toc-section" id="dalam-evaluasi-usaha-terdapat-2-tahapan-evaluasi-usaha-sebutkan-dan-jelaskan-masing-masing-menurut-pemahaman-anda%e2%80%8b">
+                            29. Dalam Evaluasi usaha, terdapat 2 tahapan evaluasi usaha. Sebutkan dan jelaskan masing-masing menurut pemahaman anda​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Analisa aspek pasar. harus bisa mengetahui potensi pasar tersebut bagus atau tidak untuk usaha kita</p><p>2. Analisa aspek teknis dan finansial. harus bisa mengetahui segala hal teknis dari usaha kita, dan juga potensi finansial ekonomi sekitar </p><br />
+                                            <h2 class="ez-toc-section" id="mengapa-seorang-pendidik-biologi-perlu-menguasai-bebagai-teori-belajar-dalam-melaksanakanmerancangmelaksanakandan-mengevaluasi-kegiatan-pembelajaran">
+                            30. Mengapa seorang pendidik biologi perlu menguasai bebagai teori belajar dalam melaksanakan,merancang,melaksanakan,dan mengevaluasi kegiatan pembelajaran?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>karena biologi butuh pengetahuan yang luas tentang alam</p><br />
+                                            <h2 class="ez-toc-section" id="materi-evaluasi-pada-teks-ulasan-film-atau-drama">
+                            31. Materi evaluasi pada teks ulasan film atau drama</h2><br />
+                        isinya mendeskripsikan bagian2 film/drama secara lebih detail,, beberapa aspek, seperti alur dan penokohan, dalam film/drama tersebut di paparkan secara ojektif. dengan deskripsi tersebut diketahui kekuatan dan kelemahan dari film/drama yg diulas.<br /><br />
+                                            <h2 class="ez-toc-section" id="evaluasi-tentang-materi-bep-dan-simpulkan-hasilnya">
+                            32. Evaluasi  tentang materi BEP dan simpulkan hasilnya</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>??Ga ngerti maaf</p><p><strong>Penjelasan:</strong></p><p>........,7/8:$)</p><br />
+                                            <h2 class="ez-toc-section" id="menurut-pemahamanmu-apa-perbedaan-antara-lkpd-dan-alat-evaluasi-jelaskan%e2%80%8b">
+                            33. Menurut pemahamanmu, apa perbedaan antara LKPD dan alat evaluasi? Jelaskan!​</h2><br />
+                        <p>Perbedaan <strong>LKPD </strong>dengan <strong>alat evaluasi</strong> terletak pada tujuannya. <strong>LKPD </strong>bertujuan untuk membantu proses belajar peserta didik, sedangkan a<strong>lat evaluasi</strong> bertujuan untuk menilai hasil belajar peserta didik. <strong>LKPD </strong>digunakan dalam proses pembelajaran sedangkan <strong>alat evaluasi </strong>digunakan setelah selesai proses pembelajaran. </p><p></p>Penjelasan:<p><strong>LKPD </strong>merupakan singkatan dari “<strong>Lembar Kerja Peserta Didik</strong>” atau dalam Bahasa Inggris disebut “Student Worksheet.” <strong>LKPD </strong>adalah bahan ajar dalam bentuk lembaran-lembaran yang berisi materi, ringkasan, langkah-langkah, dan petunjuk pelaksanaan pembelajaran dengan mengacu kepada KD atau Kompetensi Dasar yang harus dicapai oleh peserta didik. Sedangkan <strong>alat evaluasi</strong> adalah seperangkat alat tes yang digunakan untuk mengetahui ketercapaian suatu tujuan pembelajaran.</p><p></p><p><strong>LKPD </strong>berbeda dengan <strong>alat evaluasi</strong>. <strong>LKPD </strong>digunakan dalam proses pembelajaran untuk membantu peserta didik mencapai tujuan pembelajaran. Sedangkan <strong>alat evaluasi</strong> digunakan setelah proses pembelajaran selesai untuk megukur sejauh mana keberhasilan pembelajaran peserta didik dan ketercapaian tujuan pembelajaran.</p><p></p><p><strong>LKPD </strong>yang digunakan dalam pembelajaran hendaknya memperhatikan pengembangan aspek kognitif, afektif, dan psikomotor peserta didik. <strong>LKPD </strong>seharusnya tidak disajikan dalam bentuk soal-soal semata, tetapi lebih kepada petunjuk atau arahan bagi peserta didik untuk menyelesaikan suatu materi pembelajaran. Hal inilah yang membedakan <strong>LKPD </strong>dengan <strong>alat evaluasi.</strong> </p><p></p><p><strong>Alat evaluasi </strong>secara umum terbagi dua, yakni berupa <strong>tes </strong>dan <strong>non tes</strong>. Bentuk alat evaluasi yang berupa <strong>tes </strong>antara lain: pilihan ganda, soal dengan jawaban singkat, soal uraian, esai, daln lain sebagainya. Sedangkan bentuk alat evaluasi <strong>non tes</strong> antara lain: kuesioner, wawancara, observasi atau pengamatan, dan sebagainya.</p><p></p>Pelajari Lebih Lanjut:Materi tentang alat <strong>evaluasi </strong>https://brainly.co.id/tugas/46690151Materi tentang manfaat <strong>evaluasi </strong>https://brainly.co.id/tugas/2078075Materi tentang <strong>LKPD </strong>https://brainly.co.id/tugas/46351031<p></p>Detail Jawaban:<p>Kelas: S1</p><p>Mapel: Ilmu Pendidikan</p><p>Bab: Lembar Kerja Peserta Didik</p><p>Kode: -</p><p></p><p>#TingkatkanPrestasimu</p><br />
+                                            <h2 class="ez-toc-section" id="mengapa-seorang-pendidik-biologi-perlu-menguasai-bebagai-teori-belajar-dalam-melaksanakanmerancangmelaksanakandan-mengevaluasi-kegiatan-pembelajaran">
+                            34. Mengapa seorang pendidik biologi perlu menguasai bebagai teori belajar dalam melaksanakan,merancang,melaksanakan,dan mengevaluasi kegiatan pembelajaran?</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>karena ilmu biologi itu sendiri adalah ilmu dimana kita banyak menjumpai istilah istilah tentang ilmu pengetahuan alam seperti  mengetahui apa saja kingdom yang ada di dunia ilmu kedokteran dan masih banyak lagi dan ilmu biologi juga bukan hanya belajar mengenai teori tapi diwujudkan dalam suatu penelitian atau pengkajian karena nantinya itu yang akan menjadi acuan orang dalam melakukan sesuatu contoh nya obat</p><p>sebelum menjadi obat berarti dibutuhkan penelitian terlebih dahulu dan nanti nya obat itu yang akan dicari seseorang utk mengobati dirinya </p><p>menurut saya jika seseorang pendidikan biologi harus paham betul cara menguasai materinya karena apa yang diajarkan nya itu juga yang akan diterapkan oleh anak didiknya</p><p></p><p></p><p></p><p></p><p></p><p>thank you</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-dampaknya-bila-seorang-pendidik-tidak-memahami-prinsif-prinsif-penilaian-evaluasi">
+                            35. Apa dampaknya bila seorang pendidik tidak memahami prinsif-prinsif penilaian evaluasi</h2><br />
+                        <p>jika pendidik tidak memahami prinsip-prinsip penilaian evaluasi maka tidak ada nya kemajuan dalam proses pengajaran  karna pendidik tidak akan tau hasil dari pendidikan tersebut.</p><p></p><p><strong>Penjelasan:</strong></p><p>karena penilaian evaluasi di perlukan untuk me-review apa yang terjadi sebelumnya, kendala, problema yang di hadapi, seberapa jauh pemahaman materi yangdi berikan. Dan juga menyimpulkan apakah kegiatan yang tadi dilakukan sukses atau gagal, dan banyak lagi sepertinya. Tanpa evaluasi kita tidak akan tau hasil dari pendidikan tersebut. Dengan evaluasi dapat di ketahi dimana kekurangannya agar dapat diperbaik.</p><p></p><p>SEMANGAT BELAJARNYA!!JANGAN LUPA DIJADIKAN JAWABAN TERBAIK YA!!^^</p><p></p><p></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="ika-sudah-menguasai-materi-materi-tersebut-anda-bolelevaluasi-bab-1pilihlah-salah-satu-jawaban-yang-paling-benar1-kondisi-terpenuhinya-pangan-bagi-negarasampai-dengan-perseorangan-disebut-a-pa">
+                            36. ika sudah menguasai materi-materi tersebut, Anda bolelEvaluasi Bab 1Pilihlah salah satu jawaban yang paling benar!1. Kondisi terpenuhinya pangan bagi negarasampai dengan perseorangan disebut ....a. panganb. bahan bakuC. ketahanan pangand. kedaulatan pangane. kesejahteraan pangan​</h2><br />
+                        C. Ketahanan Pangan<br />Ketahanan pangan adalah ketika suatu negara dapat memenuhi kebutuhan pangan suatu masyatakat dalam negara dengam pangan yang aman, berkualitas, terjangkau, dan stabil.<br />
+                                            <h2 class="ez-toc-section" id="suatu-proses-memahami-menafsirkan-mengevaluasi-dan-mengapresiasi-pesan-terulis-disebut">
+                            37. suatu proses memahami, menafsirkan, mengevaluasi, dan mengapresiasi pesan terulis disebut</h2><br />
+                        Membaca atau menyimak<br />
+                                            <h2 class="ez-toc-section" id="evaluasi-terhadap-suatu-hal-atau-pemahaman-yang-bertujuan-untuk-memperbaiki-diri-maupun-keadaan-disebut%e2%80%8b">
+                            38. evaluasi terhadap suatu hal atau pemahaman yang bertujuan untuk memperbaiki diri maupun keadaan disebut​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Muhasabah</p><p></p><p><strong>Penjelasan:</strong></p><p>Muhasabah adalah meneliti perbuatan kita pada masa lalu dan masa kini, apakah ia merupakan perbuatan baik atau perbuatan buruk. Dengan muhasabah diri, perbuatan baik pada masa lalu bisa ditingkatkan pada masa depan, baik kualitasnya maupun kuantitasnya.</p><br />
+                                            <h2 class="ez-toc-section" id="bu-erlin-telah-selesai-mengajar-materi-%e2%80%9dpeninggalan-sejarah-kerajaan-budha-di-indonesia-%e2%80%9d-kegiatan-bu-erlin-sebagai-guru-adalah-mengevaluasi-ketercapaian-hasil-belajar-para-siswanya-d">
+                            39. Bu Erlin telah selesai mengajar materi ”Peninggalan Sejarah Kerajaan Budha di Indonesia.” Kegiatan 
+Bu Erlin sebagai guru adalah mengevaluasi ketercapaian hasil belajar para siswanya dari aspek 
+kognitif. Bantulah Bu Erlin menyiapkan instrumen untuk menilai penguasaan materi siswa pada level 
+kognitif C3!</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>3.	- Mendemonstrasikan Yaitu
+</p><p>Siswa menjelaskan Apa saja peninggalan sejarah kerajaan Budha di Indonesia
+</p><p>-Tunjukkanlah yaitu siswa dapat menunjukkan benda-benda peninggalan sejarah
+</p><p>kerajaan Budha dengan gambar
+</p><p>- Indonesia Siswa menulis dengan rinci benda apa saja peninggalan sejarah kerajaan
+</p><p>Budha di Indonesia
+</p><p>- Gambarkan siswa dapat menggambarkan benda apa saja sebagai peninggalan
+</p><p>sejarah kerajaan Budha di Indonesia sebagai bentuk dokumen sejarah Indonesia
+</p><p></p><p><strong>Penjelasan:</strong></p><p>3.	- Mendemonstrasikan Yaitu
+</p><p>Siswa menjelaskan Apa saja peninggalan sejarah kerajaan Budha di Indonesia
+</p><p>-Tunjukkanlah yaitu siswa dapat menunjukkan benda-benda peninggalan sejarah
+</p><p>kerajaan Budha dengan gambar
+</p><p>- Indonesia Siswa menulis dengan rinci benda apa saja peninggalan sejarah kerajaan
+</p><p>Budha di Indonesia
+</p><p>- Gambarkan siswa dapat menggambarkan benda apa saja sebagai peninggalan
+</p><p>sejarah kerajaan Budha di Indonesia sebagai bentuk dokumen sejarah Indonesia
+</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="7-tujuan-pembelajaran-geografi-meliputi-a-sintesis-evaluasi-dan-pengetahuanb-pengetahuan-keterampilan-dan-sikapc-pengetahuan-pemahaman-dan-evaluasi%e2%80%8b">
+                            40. 7. Tujuan pembelajaran geografi meliputi....A. sintesis, evaluasi dan pengetahuanB. pengetahuan, keterampilan dan sikapC. pengetahuan, pemahaman dan evaluasi​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>B. Pengetahuan, Keterampilan Dan Sikap</p><p><strong>Penjelasan:</strong></p><p></p><p><strong>#</strong><strong>Semoga </strong><strong>membantu </strong></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/wphSzsI6qNw?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>biologi</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/10-benda-yang-menghasilkan-bunyi/">10 Benda Yang Menghasilkan Bunyi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perhatikan-bait-puisi-berikut/">Perhatikan Bait Puisi Berikut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/according-to-rani/">According To Rani</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/peraturan-pemerintah-berkedudukan-setingkat-di-bawah/">Peraturan Pemerintah Berkedudukan Setingkat Di Bawah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-pelaksanaan-demokrasi-oleh-lembaga-lembaga-negara/">Bagaimana Pelaksanaan Demokrasi Oleh Lembaga Lembaga Negara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/yang-bukan-termasuk-fungsi-lembaga-sosial-yaitu/">Yang Bukan Termasuk Fungsi Lembaga Sosial Yaitu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bekasi-jakarta-apa/">Bekasi Jakarta Apa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/teknik-menggiring-bola-dengan-cepat-hendaknya-dilakukan-dengan/">Teknik Menggiring Bola Dengan Cepat Hendaknya Dilakukan Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-yang-dimaksud-dengan-reaksi/">Apa Yang Dimaksud Dengan Reaksi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gaes-atau-guys/">Gaes Atau Guys</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/75-dollar-berapa-rupiah/">75 Dollar Berapa Rupiah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-kang-diarani-serat-wedhatama/">Apa Kang Diarani Serat Wedhatama</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1-1-2-2-2-3-3-3-4/">1 1 2 2 2 3 3 3 4</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/matahari-sebagai-pusat-sistem-tata-surya-memiliki-karakteristik/">Matahari Sebagai Pusat Sistem Tata Surya Memiliki Karakteristik</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gamane-bima-yaiku/">Gamane Bima Yaiku</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pohon-faktor-dari-72/">Pohon Faktor Dari 72</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/griling/">Griling</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-tujuan-dari/">Jelaskan Tujuan Dari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/penyerahan-kedaulatan-indonesia-dilaksanakan-setelah-berlangsung/">Penyerahan Kedaulatan Indonesia Dilaksanakan Setelah Berlangsung</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fungsi-vakuola/">Fungsi Vakuola</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

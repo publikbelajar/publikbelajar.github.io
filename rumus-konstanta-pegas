@@ -1,0 +1,1355 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Rumus Konstanta Pegas - BELAJAR</title>
+    <meta name="description" content="Rumus Konstanta Pegas, , , , , , , 0, Panjang awal suatu pegas adalah 13 cm. Setelah diberi beban bermassa 8, brainly.co.id, 910 x 688, jpeg, , 20, rumus-konstanta-pegas, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Rumus Konstanta Pegas - BELAJAR" />
+    <meta property="og:description" content="Rumus Konstanta Pegas, , , , , , , 0, Panjang awal suatu pegas adalah 13 cm. Setelah diberi beban bermassa 8, brainly.co.id, 910 x 688, jpeg, , 20, rumus-konstanta-pegas, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Rumus Konstanta Pegas - BELAJAR" />
+    <meta name="twitter:description" content="Rumus Konstanta Pegas, , , , , , , 0, Panjang awal suatu pegas adalah 13 cm. Setelah diberi beban bermassa 8, brainly.co.id, 910 x 688, jpeg, , 20, rumus-konstanta-pegas, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Rumus Konstanta Pegas</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">Corall</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Rumus+Konstanta+Pegas" alt="Rumus Konstanta Pegas">
+                    </div>
+                    <p></p>
+                    <p>rumus konstanta pegas</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-konstanta-pegas">1.
+                                            rumus konstanta pegas</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-konstanta-pegas">2.
+                                            Rumus konstanta pegas</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-konstanta-pegas-adalah">3.
+                                            Rumus konstanta pegas adalah </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#setiap-pegas-mempunyai-konstanta-pegas-k-yg-berbeda-dimensi-konstanta-pegas-adalah">4.
+                                            Setiap pegas mempunyai konstanta pegas K yg berbeda.dimensi konstanta pegas adalah?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-konstanta-pegas">5.
+                                            Rumus konstanta pegas</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-persamaan-osilasi-pegas-ada-konstanta-pegas-yang-mempengaruhi-jelaskan-bagaimana-pengaruh-konstanta-pegas">6.
+                                            dalam persamaan osilasi pegas, ada konstanta pegas yang mempengaruhi, jelaskan bagaimana pengaruh konstanta pegas ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-konstanta-pegas-beserta-dimensi-nya">7.
+                                            Rumus konstanta pegas beserta dimensi nya??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumusnya-mencari-konstanta-pegas">8.
+                                            rumusnya mencari konstanta pegas</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#periode-pegas-dirumuskan-t2%cf%80%e2%88%9amx-dengan-k-adalah-konstanta-elastisitas-pegas-dimensi-konstanta-pegas-dari-persamaan-tersebut-adalah">9.
+                                            Periode pegas dirumuskan T=2π√m\x dengan k adalah konstanta elastisitas pegas. Dimensi konstanta pegas dari persamaan tersebut adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gaya-yang-diberikan-oleh-sebuah-pegas-di-rumuskan-sebagai-fk-%ce%b4x-dimana-f-adalah-gaya-pegasnewton%ce%b4x-adalah-pertambahan-panjang-pegasmeterdan-k-adalah-konstanta-pegas-tentukan-dimensi-da">10.
+                                            Gaya yang diberikan oleh sebuah pegas di rumuskan sebagai f=k Δx.dimana F adalah gaya pegas(newton)Δx adalah pertambahan panjang pegas(meter)dan k adalah konstanta pegas. Tentukan dimensi dan satuann konstanta pegas
+Tolong batu jawab kaka </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-konstanta-pegas-beserta-dimensi-nya">11.
+                                            Rumus konstanta pegas beserta dimensi nya??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-sebuah-pegas-panjangnya-l-luas-penampangnya-a-dan-modulhs-elastisitasnya-e-maka-besarnya-konstanta-pegas-kdirumuskan">12.
+                                            jika sebuah pegas panjangnya L luas penampangnya A dan modulhs elastisitasnya E ,maka besarnya konstanta pegas k,dirumuskan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-rumus-dari-susunan-konstanta-pegas-jelaskan">13.
+                                            Tuliskan rumus dari susunan konstanta pegas? Jelaskan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-mencari-satuan-konstanta-pegas-dan-apa-arti-dari-15-ncm-dalam-konstanta-pegas">14.
+                                            rumus mencari satuan konstanta pegas dan apa arti dari 15 N/cm dalam konstanta pegas?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-besar-konstanta-pegas-k">15.
+                                            rumus besar konstanta pegas k</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#setiap-pegas-memiliki-konstanta-pegas-k-yang-berbeda-dimensi-konstanta-pegas-adalah">16.
+                                            setiap pegas memiliki konstanta pegas k yang berbeda. dimensi konstanta pegas adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#besarnya-frekuensi-pegas-a-sebanding-dengan-akar-konstanta-pegasb-sebanding-dengan-akar-konstanta-pegas-c-berbanding-terbalik-terbalik-dengan-konstanta-pegas-d-berbanding-terbalik-dengan-konstanta-pe">17.
+                                            Besarnya frekuensi pegas..a.sebanding dengan akar konstanta pegasb.sebanding dengan akar konstanta pegas c.berbanding terbalik terbalik dengan konstanta pegas d.berbanding terbalik dengan konstanta pegase.sebanding dengan massa beban yang digantung.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-konstanta-gabungan-pegas">18.
+                                            rumus konstanta gabungan pegas</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#mohon-bantuannya-ka3-persamaan-energi-pegas-dirumuskan-ep-%c2%bd-k-x%c2%b2dimanaep-energi-potensial-pegalk-konstanta-pegasx-pertambahan-panjang-pegastuliskan-satuan-rumus-dimensi-dari-k">19.
+                                            Mohon bantuannya ka
+3. Persamaan energi pegas dirumuskan Ep = ½ k x²
+Dimana
+Ep = Energi potensial pegal
+k = konstanta pegas
+x = pertambahan panjang pegas
+Tuliskan satuan rumus dimensi dari konstanta pegas</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-menentukan-besar-konstanta-pegas-materi-getaran-harmonik-sederhana">20.
+                                            Rumus menentukan besar konstanta pegas materi getaran harmonik sederhana</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-dari-dimensi-konstanta-pegas-adalah">21.
+                                            rumus dari dimensi konstanta pegas adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berapa-besarnya-konstanta-pegas-pada-pegas-4-newtonnb-tolong-dengan-caranyarumus-fisika-gaya-pegas-pilihannya-ada-di-lampiran_">22.
+                                            Berapa besarnya konstanta pegas pada pegas 4 newton?
+NB: tolong dengan caranya/rumus fisika( gaya pegas ) pilihannya ada di lampiran^_^</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-penjabaran-rumusan-nilai-konstanta-pegas">23.
+                                            jelaskan penjabaran rumusan nilai konstanta pegas</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-mencari-rata-rata-konstanta-pegas%e2%80%8b">24.
+                                            rumus mencari rata rata konstanta pegas​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-rumus-mencari-konstanta-pegas">25.
+                                            apa rumus mencari konstanta pegas </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-mencari-konstanta-pegas-gabungan">26.
+                                            rumus mencari konstanta pegas gabungan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-rumus-konstanta-pegas-gabungan-dengan-5-pegas-yang-tersusun-secara-seri-dan-paralle-%e2%80%8b">27.
+                                            Tuliskan rumus konstanta pegas gabungan dengan 5 pegas yang tersusun secara seri dan paralle ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#hubungan-konstanta-pegas-dengan-perioda-getaran-pegas-turunkan-rumusnya">28.
+                                            hubungan konstanta pegas dengan perioda getaran pegas turunkan rumusnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-rumus-cara-mencari-konstanta-pegas">29.
+                                            jelaskan rumus cara mencari konstanta pegas</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-dari-konstanta-pegas-paralel-adalah">30.
+                                            rumus dari konstanta pegas paralel adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#menghitung-besar-konstanta-pegasrumusnya-gimana">31.
+                                            Menghitung besar konstanta pegas??
+rumusnya gimana?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#periode-pegas-di-rumuskan-sebagai-t2%cf%80%e2%88%9am%e2%80%93k-dengan-k-adalah-konstanta-elastisitas-pegas-turunkan-dimensi-konstanta-pegas-dari-persamaan-tersebut">32.
+                                            Periode pegas di rumuskan sebagai T=2π√m–k dengan k adalah konstanta elastisitas pegas.turunkan dimensi konstanta pegas dari persamaan tersebut!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-persamaan-osilasi-pegas-ada-konstanta-pegas-yang-mempengaruhi-jelaskan-bagaimana-pengaruh-konstanta-pegas">33.
+                                            dalam persamaan osilasi pegas, ada konstanta pegas yang mempengaruhi, jelaskan bagaimana pengaruh konstanta pegas ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#periode-pegas-dirumuskan-sebagai-t-20dengan-k-adalah-konstanta-elastisitas-pegasturunkan-dimensi-konstanta-pegas-dari-persama%e2%80%8b">34.
+                                            Periode pegas dirumuskan sebagai T = 20dengan k adalah konstanta elastisitas pegasTurunkan dimensi konstanta pegas dari persama​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#lima-buah-pegas-spiral-jika-konstanta-pegasnya-k-maka-tentukanla-konstanta-pegas-susunan-pegas-tersebut">35.
+                                            Lima buah pegas spiral . Jika konstanta pegasnya k maka tentukanla konstanta pegas susunan pegas tersebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-menghitung-konstanta-pegas-apa-ya">36.
+                                            rumus menghitung konstanta pegas apa ya??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#rumus-konstanta-pegas-gabungan-apa-ya">37.
+                                            rumus konstanta pegas gabungan apa ya?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-jelaskan-kenapa-pegas-atau-per-disebut-sebagai-benda-elastis-2-sebutkan-contoh-contoh-penggunaan-pegas-dalam-kehidupan-sehari-hari3-jelaskan-tentang-hukum-hooke-gaya-pegas-dan-gambar-c">38.
+                                            1. JELASKAN KENAPA PEGAS ATAU PER DISEBUT 
+ SEBAGAI BENDA ELASTIS 
+2. SEBUTKAN CONTOH-CONTOH PENGGUNAAN PEGAS 
+ DALAM KEHIDUPAN SEHARI-HARI
+3. JELASKAN TENTANG HUKUM HOOKE (GAYA PEGAS), 
+ DAN GAMBAR CONTPH PEGASNYA
+4. TULIS RUMUS GAYA PEGAS JIKA PEGAS DITARIK 
+ DENGAN GAYA TARIK (F) DAN TULIS KETERANGAN 
+ RUMUSNYA
+5. TULIS RUMUS GAYA PEGAS JIKA PEGAS DITARIK 
+ DENGAN BENDA DAN TULIS KETERANGAN 
+ RUMUSNYA
+6. JELASKAN TENTANG ENERGI POTENSIAL PEGAS 
+ DAN TULISKAN RUMUS DAN KETERANGANNYA
+7. RANGKAIAN PEGAS ADA SUSUNAN SERI DAN 
+ PARALEL. ADA 3 BUAH PEGAS DENGAN MASING- 
+ MASING KONSTANTANYA k1, k2, k3, BUATLAH :
+ - GAMBAR RANGKAIAN PEGAS JIKA DISUSUN 
+ SECARA SERI DAN TULIS RUMUS MENETUKAN 
+ KONSTANTA PEGAS TOTALNYA (PENGGANTI) 
+ - GAMBAR RANGKAIAN PEGAS JIKA DISUSUN 
+ SECARA PARALEL DAN TULIS RUMUS MENETUKAN 
+ KONSTANTA PEGAS TOTALNYA (PENGGANTI) 
+Jawabny 1 soal aj gpp</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-rumus-menghitung-energi-getaranpada-pegas-jika-diketahui-konstanta-dan-amplitudo">39.
+                                            apa rumus menghitung energi getaranpada pegas jika diketahui konstanta dan amplitudo?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#persamaan-energi-pegas-dirumuskan-ep-%c2%bd-k-x%c2%b2-dimana-ep-energi-potensial-pegal-k-konstanta-pegas-x-pertambahan-panjang-pegas-tuliskan-satuan-rumus-dimensi-dari-konstanta-pegas">40.
+                                            Persamaan energi pegas dirumuskan Ep = ½ k x² Dimana Ep = Energi potensial pegal k = konstanta pegas x = pertambahan panjang pegas  Tuliskan satuan rumus dimensi dari konstanta pegas</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="rumus-konstanta-pegas">
+                            1. rumus konstanta pegas</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>pegas adalah suatu gaya tarik yang ditimbulkan oleh pegas. pada karet gelang yang direnggangkan serta juga pada pegas yang direnggangkan atau dimampatkan akan menimbulkan gaya kearah benda yang merenggakannya atau memanpatkannya. gaya yang muncul itulah yang disebut gaya pegas. </p><p>gaya pegas ini timbul disebabkan karena adanya sifat elastik atau sifat leting pelas atau karet gelang. sifat elastik ini mempunyai oleh benda yang apabila diubah bentuknya setelah dilepaskan, maka benda itu akan kembali ke keadaan atau bentuk semula. oleh sebab gaya pegas ini disebabkan oleh sifatnya yang elastik atau sifat lenting pegas maupun karet gelang maka gaya pegas juga disebut gaya elastik atau gaya lenting. </p><p>gaya pegas ini selalu terjadi pada benda benda lenting yang bentuknya diubah. contohnya gaya pegas timbul pada bambu yang dibengkokkan atau juga busur panah yang ditarik. gaya pegas ini dimanfaatkan antara lain untuk dapat mengurangi pengaruh dari getaran pada jalan yang kasar contohnya pada sepeda motor, mobil, dokar atau juga sepeda. </p><p></p><p>rumus gaya pegas</p><p>pada tahun 1678, robert hooke menggemukakan sebuah teori gaya pegas yang berbunyi apabila pada sebuah pegas itu bekerja sebuah gaya luar, maka pegas ini akan bertambah panjang sebanding dengan besarnya gaya yang telah diberikan. pernyataan ini dikenal dengan hukum hooke. secara matematis, hukum hooke ini dinyatakan ialah sebagai berikut.</p><p>F = k. ∆x</p><p>keterangannya :</p><p>F : gaya berat atau gaya pegas atau gaya yang bekerja pada pegas </p><p>K : konstanta pegas</p><p>∆x : pertambahan panjang</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-konstanta-pegas">
+                            2. Rumus konstanta pegas</h2><br />
+                        Rumus pada benda Pegas<br /><br />￼<br />Ket :<br />F = Gaya (N)<br />k = konstanta pegas (N/m)<br />x = perubahan panjang pada pegas (m)<br />
+                                            <h2 class="ez-toc-section" id="rumus-konstanta-pegas-adalah">
+                            3. Rumus konstanta pegas adalah </h2><br />
+                        F=k.x <br />
+Jadi, <br />
+k=F/x <br />
+k=konstanta pegas <br />
+F=gaya yang bekerja pada pegas. <br />
+x adalah perubahan panjang pegas.          <br />sorry kalau salah<br />F = k. x<br />F/x = k<br />m.a/x = k<br />
+                                            <h2 class="ez-toc-section" id="setiap-pegas-mempunyai-konstanta-pegas-k-yg-berbeda-dimensi-konstanta-pegas-adalah">
+                            4. Setiap pegas mempunyai konstanta pegas K yg berbeda.dimensi konstanta pegas adalah?</h2><br />
+                        satuannya adalah N/m maka dimensinya adalah M. T^-2<br />
+                                            <h2 class="ez-toc-section" id="rumus-konstanta-pegas">
+                            5. Rumus konstanta pegas</h2><br />
+                        Rumus Konstanta Pegas :<br />k = F/Δx<br />k = 2Ep/Δx²<br /><br />Ketarangan :<br />F = gaya (N)<br />Δx = pertambahan panjang (m)<br />Ep = Enregi Potensial (J)<br /><br /> 1. Jika diketahui massa benda (m) dan pertambahan panjang pegas (delta x) akibat diberi beban: <br />F = k . delta x1. Jika diketahui massa benda (m) dan pertambahan panjang pegas (delta x) akibat diberi beban: <br />F = k . ∆x <br />k = F/∆x <br />k = m g/delta x <br /><br />2. Jika pegas melakukan gerak harmonik sederhana: <br />ω = √(m/k) <br />k = m ω² <br /><br /><br />k = F/delta x <br />k = m g/delta x <br /><br />2. Jika pegas melakukan gerak harmonik sederhana: <br />w = akar (m/k) <br />k = m w^2 <br /><br /><br />w = dibaca 'omega' <br />= kecepatan sudut<br />
+                                            <h2 class="ez-toc-section" id="dalam-persamaan-osilasi-pegas-ada-konstanta-pegas-yang-mempengaruhi-jelaskan-bagaimana-pengaruh-konstanta-pegas">
+                            6. dalam persamaan osilasi pegas, ada konstanta pegas yang mempengaruhi, jelaskan bagaimana pengaruh konstanta pegas ?</h2><br />
+                        Konstanta pegas adalah suatu konstanta yang mewakili tingkat kelenturan suatu pegas. Misalnya, pegas yang kaku (sulit diregangkan) memiliki konstanta pegas yang lebih besar karena gaya yang dibutuhkan untuk menyebabkan pegas bertambah panjang menjadi lebih besar. Sebaliknya, pegas yang lentur (mudah diregangkan) memiliki konstanta pegas yang lebih kecil.<br /><br />Persamaannya (Hukum Hooke):<br />F = k . Δx<br />dengan F = gaya (Newton)<br />k = konstanta pegas<br />Δx = simpangan pegas (meter)<br /><br />
+                                            <h2 class="ez-toc-section" id="rumus-konstanta-pegas-beserta-dimensi-nya">
+                            7. Rumus konstanta pegas beserta dimensi nya??</h2><br />
+                        k = F/∆x, satuannya (N/m) 
+(N/m)={(kg m/s^2)/(m)} 
+={ ( [M] [L]/[T]^2 ) / ( [L] ) } 
+=[M L^2 T^-2]Dari Hk Hooke<br />F = k ∆x<br />diperoleh<br />k = F / ∆x<br /><br />dengan<br />F = gaya, N<br />∆x = pertambahan panjang, m<br />k = konstanta pegas, N/m<br /><br />Dimensi k sama dengan dimensi F dibagi dimensi ∆x.<br />Dimensi F --&gt; [M][L][T]^-2<br />Dimensi ∆x--&gt; [L]<br /><br />Dimensi k<br />--&gt; [M][L][T]^-2 / [L] = [M][T]^-2<br /><br />
+                                            <h2 class="ez-toc-section" id="rumusnya-mencari-konstanta-pegas">
+                            8. rumusnya mencari konstanta pegas</h2><br />
+                        k = F : x<br /><br />k = konstanta pegas<br />x = perubahan panjang ppada pegas<br />F = gaya<br />
+                                            <h2 class="ez-toc-section" id="periode-pegas-dirumuskan-t2%cf%80%e2%88%9amx-dengan-k-adalah-konstanta-elastisitas-pegas-dimensi-konstanta-pegas-dari-persamaan-tersebut-adalah">
+                            9. Periode pegas dirumuskan T=2π√m\x dengan k adalah konstanta elastisitas pegas. Dimensi konstanta pegas dari persamaan tersebut adalah</h2><br />
+                        <p>             T = 2π√m/k</p><p>      √m/k = T/2π</p><p>         m/k = T²/4π²</p><p>             k = m.4π²/T²</p><p>                = kg.s-² ~ M.T-² ✓✓</p><br />
+                                            <h2 class="ez-toc-section" id="gaya-yang-diberikan-oleh-sebuah-pegas-di-rumuskan-sebagai-fk-%ce%b4x-dimana-f-adalah-gaya-pegasnewton%ce%b4x-adalah-pertambahan-panjang-pegasmeterdan-k-adalah-konstanta-pegas-tentukan-dimensi-da">
+                            10. Gaya yang diberikan oleh sebuah pegas di rumuskan sebagai f=k Δx.dimana F adalah gaya pegas(newton)Δx adalah pertambahan panjang pegas(meter)dan k adalah konstanta pegas. Tentukan dimensi dan satuann konstanta pegas
+Tolong batu jawab kaka </h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>Rumus :</p><p>F = k Δx</p><p>k = F/Δx</p><p></p><p>Dimensi :</p><p>k = F/Δx</p><p>   = N/m</p><p>   = kg m/s² / m</p><p>   = kg s²</p><p>   = [M] [T]⁻²</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-konstanta-pegas-beserta-dimensi-nya">
+                            11. Rumus konstanta pegas beserta dimensi nya??</h2><br />
+                        Rumus :<br />F = k Δx<br />k = F/Δx<br /><br />Dimensi :<br />k = F/Δx<br />   = N/m<br />   = kg m/s² / m<br />   = kg s²<br />   = [M] [T]⁻²<br />
+                                            <h2 class="ez-toc-section" id="jika-sebuah-pegas-panjangnya-l-luas-penampangnya-a-dan-modulhs-elastisitasnya-e-maka-besarnya-konstanta-pegas-kdirumuskan">
+                            12. jika sebuah pegas panjangnya L luas penampangnya A dan modulhs elastisitasnya E ,maka besarnya konstanta pegas k,dirumuskan</h2><br />
+                        E = [tex] \frac{F}{A} [/tex] : ΔL/L<br /><br />E = [tex] \frac{F}{A} [/tex] . L/ΔL<br /><br />F = [tex] \frac{E.A}{L} [/tex] .ΔL<br /><br />hk hooke F = k. Δx<br /><br />k = [tex] \frac{E.A}{L} [/tex]<br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="tuliskan-rumus-dari-susunan-konstanta-pegas-jelaskan">
+                            13. Tuliskan rumus dari susunan konstanta pegas? Jelaskan</h2><br />
+                        Pegas disusun secara seri<br />1/k = 1/k1 + 1/k2 + 1/k3<br /><br />Pegas disusun secara paralel<br />k = k1 + k2 + k3<br />
+                                            <h2 class="ez-toc-section" id="rumus-mencari-satuan-konstanta-pegas-dan-apa-arti-dari-15-ncm-dalam-konstanta-pegas">
+                            14. rumus mencari satuan konstanta pegas dan apa arti dari 15 N/cm dalam konstanta pegas?</h2><br />
+                        F = k. Δx --&gt; k = F / Δx<br /><br />arti 15N/cm : setiap diberikan gaya 15N maka akan bertambah panjang 1 cm. <br /><br />
+                                            <h2 class="ez-toc-section" id="rumus-besar-konstanta-pegas-k">
+                            15. rumus besar konstanta pegas k</h2><br />
+                        Rumus Konstanta Pegas :<br />k = F/Δx<br />k = 2Ep/Δx²<br /><br />Keterangan :<br />F = Gaya<br />Δx = pertambahan panjang<br />Ep = Energi Potensial<br />
+                                            <h2 class="ez-toc-section" id="setiap-pegas-memiliki-konstanta-pegas-k-yang-berbeda-dimensi-konstanta-pegas-adalah">
+                            16. setiap pegas memiliki konstanta pegas k yang berbeda. dimensi konstanta pegas adalah</h2><br />
+                        F = k Δx<br />k = F/Δx<br />   = N/m<br />   = (kg m/s²)/m<br />   = kg / s²<br />   = [M][T]⁻²<br />
+                                            <h2 class="ez-toc-section" id="besarnya-frekuensi-pegas-a-sebanding-dengan-akar-konstanta-pegasb-sebanding-dengan-akar-konstanta-pegas-c-berbanding-terbalik-terbalik-dengan-konstanta-pegas-d-berbanding-terbalik-dengan-konstanta-pe">
+                            17. Besarnya frekuensi pegas..a.sebanding dengan akar konstanta pegasb.sebanding dengan akar konstanta pegas c.berbanding terbalik terbalik dengan konstanta pegas d.berbanding terbalik dengan konstanta pegase.sebanding dengan massa beban yang digantung.</h2><br />
+                        a.sebanding dengan akar konstanta pegas<br /><br />kalau tdk salah!?<br />
+                                            <h2 class="ez-toc-section" id="rumus-konstanta-gabungan-pegas">
+                            18. rumus konstanta gabungan pegas</h2><br />
+                        (%) untuk seri Kp :<br />Kp = k1 + k2 + k3+......+kn<br /><br />(%) untuk paralel:<br />1/Kp = 1/k1 + 1/k2 + 1/k3 + ...... + 1/kn<br />
+                                            <h2 class="ez-toc-section" id="mohon-bantuannya-ka3-persamaan-energi-pegas-dirumuskan-ep-%c2%bd-k-x%c2%b2dimanaep-energi-potensial-pegalk-konstanta-pegasx-pertambahan-panjang-pegastuliskan-satuan-rumus-dimensi-dari-k">
+                            19. Mohon bantuannya ka
+3. Persamaan energi pegas dirumuskan Ep = ½ k x²
+Dimana
+Ep = Energi potensial pegal
+k = konstanta pegas
+x = pertambahan panjang pegas
+Tuliskan satuan rumus dimensi dari konstanta pegas</h2><br />
+                        Jawab :<br />Diberikan rumus energi potensial pegas<br />Ep = ½kx²<br /><br />- Rumus dari konstanta pegasnya adalah<br />Ep = ½kx²<br />2Ep = kx²<br />k = 2Ep/x² <br /><br />- Satuan dari konstanta pegas adalah<br />k = 2Ep/x²<br /><br />Ingat, satuan dr Ep = Joule dan x = meter<br />k = Joule/m²<br />k = kgm²/s² . 1/m²<br />k = kg/s²<br /><br />atau<br />k = kgm²/s² . 1/m²<br />k = kgm/s² . m/m²<br />k = N/m<br /><br />- Dimensi dari konstanta pegas adalah<br />k = kg/s²<br />k = kg s-² <br /><br />Ingat, dimensi untuk kg = [M] dan s = [T]<br />k = [M][T]-²<br /><br />-vin<br />ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ<br />Mapel : Fisika<br />Kelas : X SMA<br />Materi : Besaran, Satuan dan Pengukuran<br />Kata Kunci : Dimensi, Dimensi Konstanta Pegas<br />Kode Soal : 6 (Fisika)<br />Kode Kategorisasi : 10.6.1<br />
+                                            <h2 class="ez-toc-section" id="rumus-menentukan-besar-konstanta-pegas-materi-getaran-harmonik-sederhana">
+                            20. Rumus menentukan besar konstanta pegas materi getaran harmonik sederhana</h2><br />
+                        F = k.Δl<br />k = F / Δl<br />k = E.A / l<br />k = Ek /1/2.Δl^2<br /><br />F = gaya N<br />k = konstanta pegasN/m<br />A = luas m<br />l = panjang m<br />Ek = energi kinetik j<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="rumus-dari-dimensi-konstanta-pegas-adalah">
+                            21. rumus dari dimensi konstanta pegas adalah</h2><br />
+                        F = k.∆x<br />k = F/∆x<br />k = kg/m/s²/m (coret m)<br />k = kg/s²<br />k = kg.s^-2<br />k = MT^-2<br />
+                                            <h2 class="ez-toc-section" id="berapa-besarnya-konstanta-pegas-pada-pegas-4-newtonnb-tolong-dengan-caranyarumus-fisika-gaya-pegas-pilihannya-ada-di-lampiran_">
+                            22. Berapa besarnya konstanta pegas pada pegas 4 newton?
+NB: tolong dengan caranya/rumus fisika( gaya pegas ) pilihannya ada di lampiran^_^</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Rumus Gaya Pegas</p><p></p><p>F = gaya yang diberikan pada suatu pegas (N)</p><p>k = konstanta yang dimiliki pegas (N/m)</p><p>x = pertambahan panjang pegas akibat dari gaya (m)</p><p></p><p>#Semangatbelajar</p><p>#Jaditerpelajar</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-penjabaran-rumusan-nilai-konstanta-pegas">
+                            23. jelaskan penjabaran rumusan nilai konstanta pegas</h2><br />
+                        rumus dasar <br /><br />F= k. delta x<br />k= F/ delta x<br /><br />keterangan<br />F= gaya pegas<br />k= konstanta pegas<br />delta x = pertambahan panjang<br /><br />
+                                            <h2 class="ez-toc-section" id="rumus-mencari-rata-rata-konstanta-pegas%e2%80%8b">
+                            24. rumus mencari rata rata konstanta pegas​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tak tau aku jawaban de apa</p><br />
+                                            <h2 class="ez-toc-section" id="apa-rumus-mencari-konstanta-pegas">
+                            25. apa rumus mencari konstanta pegas </h2><br />
+                        Rumus konstanta pegas tergantung dari maksud soal. Lihat contohnya... Terima Kasih<br />
+                                            <h2 class="ez-toc-section" id="rumus-mencari-konstanta-pegas-gabungan">
+                            26. rumus mencari konstanta pegas gabungan</h2><br />
+                        1. Jika diketahui massa benda (m) dan pertambahan panjang pegas (delta x) akibat diberi beban: <br />F = k . delta x1. Jika diketahui massa benda (m) dan pertambahan panjang pegas (delta x) akibat diberi beban: <br />F = k . ∆x <br />k = F/∆x <br />k = m g/delta x <br /><br />2. Jika pegas melakukan gerak harmonik sederhana: <br />ω = √(m/k) <br />k = m ω² <br /><br /><br />k = F/delta x <br />k = m g/delta x <br /><br />2. Jika pegas melakukan gerak harmonik sederhana: <br />w = akar (m/k) <br />k = m w^2 <br /><br /><br />w = dibaca 'omega' <br />= kecepatan sudutkonstanta pegas gabungan<br />Ktot = k1 + k2 + k3 + ...<br /><br />smg mmbantu<br />
+                                            <h2 class="ez-toc-section" id="tuliskan-rumus-konstanta-pegas-gabungan-dengan-5-pegas-yang-tersusun-secara-seri-dan-paralle-%e2%80%8b">
+                            27. Tuliskan rumus konstanta pegas gabungan dengan 5 pegas yang tersusun secara seri dan paralle ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>maksudnya apa ya maaf</p><p><strong>Penjelasan:</strong></p><p>aku cuman nnya doang</p><br />
+                                            <h2 class="ez-toc-section" id="hubungan-konstanta-pegas-dengan-perioda-getaran-pegas-turunkan-rumusnya">
+                            28. hubungan konstanta pegas dengan perioda getaran pegas turunkan rumusnya</h2><br />
+                        <p>F = - k.x</p><p>m.a = - k.x</p><p>m.d²x/dt² = - k.x  ....(1)</p><br /><p>x = A.sin ω.t ........... (2)</p><p>dx/dt = A.ω.cos ω.t</p><p>d²x/dt² = -A.ω².sin ω.t .....(3)</p><br /><p>substitusi (2) dan (3) ke (1)</p><p>m. -A.ω².sin ω.t = - k. A.sin ω.t</p><p>m.ω² = k</p><p>ω² = k/m</p><p>(2.π/T)² = k/m</p><p>4.π²/T² = k/m</p><p>T² = 4.π².m/k</p><p>T = 2.π√(m/k)</p><br /><br /><br /><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-rumus-cara-mencari-konstanta-pegas">
+                            29. jelaskan rumus cara mencari konstanta pegas</h2><br />
+                        ini rumus konstanta pegas pengganti<br /><br />1/Kp = 1/K1 + 1/K2<br />jika ada K3 itu ditambahkan dipenjumlahan<br />ini contohnya digambar<br />
+                                            <h2 class="ez-toc-section" id="rumus-dari-konstanta-pegas-paralel-adalah">
+                            30. rumus dari konstanta pegas paralel adalah</h2><br />
+                        Bidang Studi: Fisika <br />Bab: Susunan seri dan paralel pegas <br />Tingkatan: Kelas XI SMA <br />__<br /><br />Jawab:<br /><br />Sifat - sifat susunan ketika dua pegas disusun secara paralel;<br /><br />◼ Gaya yang bekerja pada pegas adalah jumlah gaya adalah jumlah gaya yang bekerja setiap masing - masing pegas.<br /><br />F = F1 + F2<br />Ket:<br />F = Gaya total<br />F1 = Gaya ke 1<br />F2 = Gaya ke 2<br /><br />◼ Pertambahan panjang total adalah jumlah pertambahan panjang yang dialami setiap masing - masing pegas.<br /><br />ΔL = ΔL1 = ΔL2<br />Ket:<br />ΔL = Pertambahan panjang total <br />ΔL1 = Pertambahan panjang ke 1<br />ΔL2 = Pertambahan panjang ke 2<br /><br />▶ Dari kedua sifat diatas, maka konstanta pada pegas paralel adalah:<br /><br />F = k ΔL<br />F = F1 + F2<br />kp ΔL = k1 ΔL1 + k2 ΔL2<br /><br />Karena ΔL = ΔL1 = ΔL2<br /><br />kp ΔL = (k1 + k2) ΔL. (coret kedua ΔL)<br />kp = k1 + k2<br /><br />Jadi, konstanta pegas paralel adalah<br /><br />kp = k1 + k2<br />Ket:<br />kp = konstanta pegas paralel total<br />k1 = konstanta pegas paralel ke 1<br />k2 = konstanta pegas paralel ke 2<br />
+                                            <h2 class="ez-toc-section" id="menghitung-besar-konstanta-pegasrumusnya-gimana">
+                            31. Menghitung besar konstanta pegas??
+rumusnya gimana?</h2><br />
+                        cara menghitung konstanta pegas tergantung pegasnya seri atau paralel dan juga dilihat apa yang di ketahui dalam soal tersebut<br />kalau seri yaitu dengan 1/k1+1/k2+1/k3...<br />sedangkan kalau paralel tinggal ditambah yaitu k1+k2+k3<br />kalau soal diketahui f sama pertambahan panjang pegas tinggal memakai rumus<br />f=k×Δx<br />f yaitu gaya<br />k yaitu konstanta pegas<br />Δx yaitu pertambahan panjang<br /><br />
+                                            <h2 class="ez-toc-section" id="periode-pegas-di-rumuskan-sebagai-t2%cf%80%e2%88%9am%e2%80%93k-dengan-k-adalah-konstanta-elastisitas-pegas-turunkan-dimensi-konstanta-pegas-dari-persamaan-tersebut">
+                            32. Periode pegas di rumuskan sebagai T=2π√m–k dengan k adalah konstanta elastisitas pegas.turunkan dimensi konstanta pegas dari persamaan tersebut!</h2><br />
+                        <p>Satuan dari konstanta elastisitas pegas adalah <strong>kg/s².</strong></p><p>Dimensi dari konstanta elastisitas pegas <strong>adalah MT⁻².</strong></p><p><strong></strong></p><p><strong></strong></p><strong>Pembahasan</strong><p><strong></strong></p><p><strong></strong></p><p><strong>BESARAN DAN DIMENSI</strong></p><p><strong></strong></p><p>Besaran pokok adalah besaran yg satuannya sudah ditetapkan terlebih dahulu. Ada tujuh besaran pokok yang sudah ditetapkan, yaitu:</p><p><strong>1. Panjang</strong></p><p>Satuan meter (m) dimensi L</p><p><strong>2. Massa</strong></p><p>Satuan kilogram (kg) dimensi M</p><p><strong>3. Waktu</strong></p><p>Satuan sekon (s) dimensi T</p><p><strong>4. Suhu</strong></p><p>Satuan °K dimensi θ</p><p><strong>5. Jumlah Zat</strong></p><p>Satuan mol dimensi N</p><p><strong>6. Kuat Arus</strong></p><p>Satuan Ampere (A) dimensi I</p><p><strong>7. Intensitas Cahaya</strong></p><p>Satuan candela (cd) dimensi J</p><p></p><p>Besaran Turunan adalah besaran yg diturunkan dari besaran pokok.</p><p>Fungsi dimensi adalah menunjukkan bagaimana besaran dapat disusun, mencari koefisien pada rumus dan mencari kesamaan besaran.</p><p>Pada rumusnya, setiap persamaan rumus, dimensi dan satuan di ruas kanan sama dengan satuan dan dimensi pada ruas kiri</p><p><strong>Diketahui : </strong></p><p>[tex]T\:=\: 2\:\pi\: \sqrt{\frac{m}{k} }[/tex]</p><p><strong>Ditanyakan :</strong></p><p>Satuan dan dimensi k?</p><p><strong>Penjelasan:</strong></p><p>Periode dilambangkan T, adalah waktu untuk melakukan satu getaran sempurna, satuannya sekon. Jadi dimensinya T.</p><p>2π adalah koefisien yang tidak memiliki satuan. Maka tidak memiliki dimensi.</p><p>m adalah massa, dengan satuannya kg dan dimensi M.</p><p>Maka </p><p>[tex]T \:=\: 2\:\pi \: \sqrt{\frac{m}{k} }\\T^2 \:=\: 4\pi^2\:\frac{m}{k}\\T^2 \: k \:=\: 4\pi^2 m\\k \:=\: 4\pi^2\frac{m}{T^2}[/tex]</p><p>Karena 4π² tidak memiliki satuan dan dimensi maka dilihat dari </p><p>k = [tex]\frac{m}{T^2}[/tex]</p><p>Satuan k menjadi</p><p>[tex]\frac{kg}{s^2}\:=\: kg/s^2[/tex]</p><p>Sedangkan dimensinya</p><p>[tex]\frac{M}{T^2} \:=\: MT^{-2}[/tex]</p><p></p><p><strong>Pelajari lebih lanjut</strong></p><p>Besaran pokok https://brainly.co.id/tugas/392489</p><p>Dimensi Gravitasi https://brainly.co.id/tugas/969377</p><p>Dimensi Debit https://brainly.co.id/tugas/23362520</p><p>Dimensi Kalor Jenis https://brainly.co.id/tugas/23293814</p><p></p><p><strong>Detail Jawaban</strong></p><p><strong>Kelas</strong> : X</p><p><strong>Mapel</strong> : Fisika</p><p><strong>Bab</strong> : Besaran dan Satuan</p><p><strong>Kode</strong> : 10.6.1.</p><p></p><p><strong>#BacktoSchool2019</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dalam-persamaan-osilasi-pegas-ada-konstanta-pegas-yang-mempengaruhi-jelaskan-bagaimana-pengaruh-konstanta-pegas">
+                            33. dalam persamaan osilasi pegas, ada konstanta pegas yang mempengaruhi, jelaskan bagaimana pengaruh konstanta pegas ?</h2><br />
+                        Konstanta pegas adalah suatu konstanta yang mewakili tingkat kelenturan suatu pegas. Misalnya, pegas yang kaku (sulit diregangkan) memiliki konstanta pegas yang lebih besar karena gaya yang dibutuhkan untuk menyebabkan pegas bertambah panjang menjadi lebih besar. Sebaliknya, pegas yang lentur (mudah diregangkan) memiliki konstanta pegas yang lebih kecil.<br /><br />Persamaannya (Hukum Hooke):<br />F = k . Δx<br />dengan F = gaya (Newton)<br />k = konstanta pegas<br />Δx = simpangan pegas (meter)<br />
+                                            <h2 class="ez-toc-section" id="periode-pegas-dirumuskan-sebagai-t-20dengan-k-adalah-konstanta-elastisitas-pegasturunkan-dimensi-konstanta-pegas-dari-persama%e2%80%8b">
+                            34. Periode pegas dirumuskan sebagai T = 20dengan k adalah konstanta elastisitas pegasTurunkan dimensi konstanta pegas dari persama​</h2><br />
+                        <p>Dimensi daari konstanta pegas adalah MT⁻²</p>Pembahasan  <p>Pada soal ini dapat diselesaikan dengan konsep besaran dan turunan  </p><p>Jawaban:
+</p><p>Perhatikan gambar, rumus periode pegas adalah</p><p>[tex]T=2\pi\sqrt{m/k}[/tex]</p><p>maka dimensi konstanta k adalah</p><p>[tex]T=2\pi\sqrt{m/k} \\T^2=4\pi^2*m*k^{-1}\\T^2k=4\pi^2*m\\T^2k-M\\k=MT^{-2}[/tex]</p><p>Materi lebih lanjut terkait dengan besaran dan turunan dapat dipelajari pada link berikut ini
+</p>Pelajari lebih lanjut  <p>1.Materi tentang besaran https://brainly.co.id/tugas/13775864
+</p><p>2.Materi tentang Konversi satuan https://brainly.co.id/tugas/3618501
+</p><p>3.Materi tentang dimensi https://brainly.co.id/tugas/11667054
+</p><p>4.Materi tentang besaran https://brainly.co.id/tugas/20337168Materi tentang besaran dan turunan  </p>Detail jawaban  <p><strong>Kelas</strong>: 10
+</p><p><strong>Mapel</strong>: Fisika
+</p><p><strong>Bab</strong>: Bab 1 - Besaran dan Satuan
+</p><p><strong>Kode</strong>: 10.6.1
+</p><p>
+</p><p><strong>Kata Kunci:</strong> Besaran, satuan, besaran pokok, besaran turunan, dimensi
+</p><p>
+</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="lima-buah-pegas-spiral-jika-konstanta-pegasnya-k-maka-tentukanla-konstanta-pegas-susunan-pegas-tersebut">
+                            35. Lima buah pegas spiral . Jika konstanta pegasnya k maka tentukanla konstanta pegas susunan pegas tersebut</h2><br />
+                        Pararel menjadi seri<br />Seri menjadi pararel<br />
+                                            <h2 class="ez-toc-section" id="rumus-menghitung-konstanta-pegas-apa-ya">
+                            36. rumus menghitung konstanta pegas apa ya??</h2><br />
+                        <p><strong>Modulus Young atau modulus elastisistas adalah konstanta elastisitas suatu bahan.</strong> Modulus yang adalah perbandingan tegangan dan regangan suatu benda dan memenuhi persamaan  </p><p>[tex]tegangan \mapsto \sigma = \frac{F}{A}\\ regangan \mapsto e=\frac{\Delta L }{L}\\ modulus\ young \ \mapsto Y=\frac{\sigma}{e}=\frac{FL }{A\Delta L}[/tex]  </p><p>Sedangkan hukum hooke erat kaitannya dengan modulus young yang menyatakan konstanta suatu pegas dan memenuhi persamaan  </p><p>[tex]F=k\Delta x[/tex]  </p><p>Pada dunia industri, hukum hooke sangat diperlukan terutama pad alat yang membutuhkan pegas. hal ini diperlukan untuk menghitung dan menentukan kekuatan pegas yang diperlukan untuk suatu beban tertentu. Jika terjadi kesalahan pada konstanta pegas yang diperlukan maka pegas tidak bekerja dengan baik. misalanya pada shock breaker mobil atau motor, sprig bed, jika pegas terlalu lemah maka akan kempes dan jika terlalu kuat maka tidak empuk.</p><p></p><p>Berdasarkan penurunan hukum hooke ini akan diperoleh besar konstanta pegas pada susunan pegas baik secara seri maupun paralel. Untuk susunan paralel akan memenuhi persamaan berikut</p><p></p><p>[tex]k_s=k_1+k_2+..+k_n[/tex]</p><p></p><p>dan untuk seri maka akna memenuhi persamaan</p><p></p><p>[tex]\frac{1}{k_p} =\frac{1}{k_1} +\frac{1}{k_2} +...+\frac{1}{k_n}[/tex]</p><p></p><p>sementara Sebuah pegas yang berosilasi akan memenuhi persamaan berikut  </p><p>[tex]T=2\pi \sqrt{\frac{m}{k}}[/tex]  </p><p></p><p></p>Pembahasan  <p>Cara mengitung konstanta pegas ada berbagai cara bergantung nilai yang diketahui, dapat digunakan persamaan berikut</p><p>hukum hooke</p><p>[tex]F=k\Delta x\\</p><p>k=\frac{F}{\Delta x}[/tex]  </p><p>dimana k : konstanta pegad</p><p>F: gaya yang bekerja pada pegas</p><p>[tex]Delta x[/tex]  : perubahan panjang pegas</p>Pelajari lebih lanjut  <p>1.Materi tentang Hukum hooke https://brainly.co.id/tugas/2922477</p><p></p><p>2.Materi tentang Modulus young brainly.co.id/tugas/8930520</p><p></p><p>3.Materi tentang Modulus young https://brainly.co.id/tugas/18504730</p><p></p><p></p><p></p>Detail jawaban  <p><strong>Kelas</strong>: 11</p><p></p><p><strong>Mapel</strong>: Fisika</p><p></p><p><strong>Bab</strong>: Bab 2 - Elastisitas dan Hukum Hooke</p><p></p><p><strong>Kode</strong>: 11.6.2</p><p></p><p></p><p></p><p><strong>Kata Kunci: </strong>Modulus young, tegangan,regangan, hukum hooke</p><br />
+                                            <h2 class="ez-toc-section" id="rumus-konstanta-pegas-gabungan-apa-ya">
+                            37. rumus konstanta pegas gabungan apa ya?</h2><br />
+                        Materi Pegas kelas 11 Sma<br /> untuk seri gaya pada pegas sama maka<br />yang tidak sama ialah xs=x1+x1<br />          fs/ks=f1/k1+f2/k2<br />karena gaya sama maka 1/ks=1/k1+1/k2<br />jadir seri<br /><br /><br />untuk pararel peryambahan pegas sama<br />jadi fp=f1+f2<br />kp xp= k1 x1 + k2 x2<br />kp=k1+k2 <br /><br /><br /><br />cmiwww<br />
+                                            <h2 class="ez-toc-section" id="1-jelaskan-kenapa-pegas-atau-per-disebut-sebagai-benda-elastis-2-sebutkan-contoh-contoh-penggunaan-pegas-dalam-kehidupan-sehari-hari3-jelaskan-tentang-hukum-hooke-gaya-pegas-dan-gambar-c">
+                            38. 1. JELASKAN KENAPA PEGAS ATAU PER DISEBUT 
+ SEBAGAI BENDA ELASTIS 
+2. SEBUTKAN CONTOH-CONTOH PENGGUNAAN PEGAS 
+ DALAM KEHIDUPAN SEHARI-HARI
+3. JELASKAN TENTANG HUKUM HOOKE (GAYA PEGAS), 
+ DAN GAMBAR CONTPH PEGASNYA
+4. TULIS RUMUS GAYA PEGAS JIKA PEGAS DITARIK 
+ DENGAN GAYA TARIK (F) DAN TULIS KETERANGAN 
+ RUMUSNYA
+5. TULIS RUMUS GAYA PEGAS JIKA PEGAS DITARIK 
+ DENGAN BENDA DAN TULIS KETERANGAN 
+ RUMUSNYA
+6. JELASKAN TENTANG ENERGI POTENSIAL PEGAS 
+ DAN TULISKAN RUMUS DAN KETERANGANNYA
+7. RANGKAIAN PEGAS ADA SUSUNAN SERI DAN 
+ PARALEL. ADA 3 BUAH PEGAS DENGAN MASING- 
+ MASING KONSTANTANYA k1, k2, k3, BUATLAH :
+ - GAMBAR RANGKAIAN PEGAS JIKA DISUSUN 
+ SECARA SERI DAN TULIS RUMUS MENETUKAN 
+ KONSTANTA PEGAS TOTALNYA (PENGGANTI) 
+ - GAMBAR RANGKAIAN PEGAS JIKA DISUSUN 
+ SECARA PARALEL DAN TULIS RUMUS MENETUKAN 
+ KONSTANTA PEGAS TOTALNYA (PENGGANTI) 
+Jawabny 1 soal aj gpp</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.pegas/per bisa mempertahankan bentuknya dan kembali seperti semula setelah diberi gaya.</p><p>2.panah,senar gitar,ketapel,pompa hidrolik</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-rumus-menghitung-energi-getaranpada-pegas-jika-diketahui-konstanta-dan-amplitudo">
+                            39. apa rumus menghitung energi getaranpada pegas jika diketahui konstanta dan amplitudo?</h2><br />
+                        Energi mekanik getaran <br />E = ½ k A²<br />
+                                            <h2 class="ez-toc-section" id="persamaan-energi-pegas-dirumuskan-ep-%c2%bd-k-x%c2%b2-dimana-ep-energi-potensial-pegal-k-konstanta-pegas-x-pertambahan-panjang-pegas-tuliskan-satuan-rumus-dimensi-dari-konstanta-pegas">
+                            40. Persamaan energi pegas dirumuskan Ep = ½ k x² Dimana Ep = Energi potensial pegal k = konstanta pegas x = pertambahan panjang pegas  Tuliskan satuan rumus dimensi dari konstanta pegas</h2><br />
+                        <p>x = L<br />Ep = 1/2 mv² = M(LT^{-1})² = ML²T^{-2}<br /><br />EP = ½ kx²<br />ML²T^{-2} = k . L²<br />k = MT^{-2} ==&gt; dimensi k<br /><br />Besaran k ==&gt; kg/s²</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/usrvW9n36CI?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>fisika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5-contoh-perubahan-budaya/">5 Contoh Perubahan Budaya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tutur-tegese/">Tutur Tegese</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/teknik-dan-cara-pengolahan-pempek/">Teknik Dan Cara Pengolahan Pempek</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gradien-garis-yang-melalui/">Gradien Garis Yang Melalui</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/perbedaan-manfaat-dan-fungsi/">Perbedaan Manfaat Dan Fungsi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-bahasa-itu-bermakna/">Contoh Bahasa Itu Bermakna</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/interval-delapan-nada-disebut/">Interval Delapan Nada Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-sperma-manusia-memiliki-bagian-kepala-meruncing-dibagian-ujungnya/">Mengapa Sperma Manusia Memiliki Bagian Kepala Meruncing Dibagian Ujungnya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengukir-kayu-harus-memperhatikan-alur/">Mengukir Kayu Harus Memperhatikan Alur</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/75-dollar-berapa-rupiah/">75 Dollar Berapa Rupiah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kuat-arus-listrik-yang-mengalir-melalui-r3-adalah/">Kuat Arus Listrik Yang Mengalir Melalui R3 Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pandhusa/">Pandhusa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagi-orang-tua-dan-masyarakat-sosialisasi-mempunyai-arti-penting-sebagai/">Bagi Orang Tua Dan Masyarakat Sosialisasi Mempunyai Arti Penting Sebagai</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apakah-yang-dimaksud-menggiring-bola/">Apakah Yang Dimaksud Menggiring Bola</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/analisislah-pentingnya-strategi-nasional/">Analisislah Pentingnya Strategi Nasional</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pembuka-tutup-botol-bali/">Pembuka Tutup Botol Bali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gambar-kubus/">Gambar Kubus</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-proses-pemeriksaan-dalam-sidang-pengadilan/">Jelaskan Proses Pemeriksaan Dalam Sidang Pengadilan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/cara-memainkan-gong-bumbung-mirip-dengan-cara-memainkan-alat-musik/">Cara Memainkan Gong Bumbung Mirip Dengan Cara Memainkan Alat Musik</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/judge-artinya/">Judge Artinya</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

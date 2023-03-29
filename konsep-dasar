@@ -1,0 +1,1322 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Konsep Dasar - BELAJAR</title>
+    <meta name="description" content="Konsep Dasar, , , , , , , 0, Pengertian Konsep Dasar Sistem │Beserta Sumber - Bintang Inspirasi, www.bintanginspirasi.com, 650 x 640, png, , 20, konsep-dasar, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Konsep Dasar - BELAJAR" />
+    <meta property="og:description" content="Konsep Dasar, , , , , , , 0, Pengertian Konsep Dasar Sistem │Beserta Sumber - Bintang Inspirasi, www.bintanginspirasi.com, 650 x 640, png, , 20, konsep-dasar, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Konsep Dasar - BELAJAR" />
+    <meta name="twitter:description" content="Konsep Dasar, , , , , , , 0, Pengertian Konsep Dasar Sistem │Beserta Sumber - Bintang Inspirasi, www.bintanginspirasi.com, 650 x 640, png, , 20, konsep-dasar, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Konsep Dasar</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">tiarapr27</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Konsep+Dasar" alt="Konsep Dasar">
+                    </div>
+                    <p></p>
+                    <p>Apa yang dimaksud dengan konsep dasar pemograman dan apa konsep dasarnya?​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-konsep-dasar-pemograman-dan-apa-konsep-dasarnya%e2%80%8b">1.
+                                            Apa yang dimaksud dengan konsep dasar pemograman dan apa konsep dasarnya?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-dasar-dan-konsep-konsep-itu-sama-gak%e2%80%8b">2.
+                                            konsep dasar dan konsep-konsep itu sama gak?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-apa-yang-di-magsud-dengan-konsep-dasar-pemrograman-dan-apa-konsep-dasarnya%e2%80%8b">3.
+                                            jelaskan apa yang di magsud dengan konsep dasar pemrograman dan apa konsep dasarnya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-konsep-konsep-dasar-dalam-sidang-bpupki-serta-tokoh-tokoh-yang-menyampaikan-konsep-dasar-tersebut%e2%80%8b">4.
+                                            Jelaskan konsep-konsep dasar dalam sidang BPUPKI serta tokoh-tokoh yang menyampaikan konsep dasar tersebut​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-konsep-dasar-sosiologi-dijadikan-dasar-untuk-mempelajari%e2%80%8b">5.
+                                            konsep-konsep dasar sosiologi dijadikan dasar untuk mempelajari?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-ini-yang-bukan-merupakan-konsep-dasar-geografi-adalah-konsep">6.
+                                            Berikut ini yang bukan merupakan konsep dasar geografi adalah konsep</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-konsep-konsep-dasar-sosiologi">7.
+                                            apa saja konsep-konsep dasar sosiologi?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-konsep-konsep-dasar-akuntansi">8.
+                                            sebutkan konsep konsep dasar akuntansi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#terabgkan-konsep-konsep-dasar-dalam-sosiologi">9.
+                                            Terabgkan konsep konsep dasar dalam sosiologi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apakah-isi-dari-konsep-konsep-dasar-negara">10.
+                                            apakah isi dari konsep konsep dasar negara</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-12-konsep-dasar-yang-akan-dijadikan-menjadi-konsep-dasar-ips">11.
+                                            Tuliskan 12 konsep dasar yang akan dijadikan menjadi Konsep dasar IPS</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-konsep-dasar-sosiologi-adalah%e2%80%8b">12.
+                                            konsep-konsep dasar sosiologi adalah?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-konsep-dasar-sosiologi-adalah">13.
+                                            konsep konsep dasar sosiologi adalah? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-konsep-dasar-sosiologi-adalah%e2%80%8b">14.
+                                            konsep konsep dasar sosiologi adalah​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-ini-yang-merupakan-konsep-konsep-dasar-sejarah">15.
+                                            berikut ini yang merupakan konsep-konsep dasar sejarah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-itu-konsep-dasar">16.
+                                            apa itu konsep dasar? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-konsep-konsep-dasar-budidaya%e2%80%8b">17.
+                                            jelaskan konsep konsep dasar budidaya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-perbedaan-konsep-dasar-dan-konsep-dasar-ilmu-sosial-dalam-ips%e2%80%8b">18.
+                                            jelaskan perbedaan konsep dasar dan konsep dasar ilmu sosial dalam ips​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#penyimpulan-dari-konsep-konsep-dasar-antropologi%e2%80%8b">19.
+                                            penyimpulan dari konsep konsep dasar antropologi​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#waktu-dan-alur-merupakan-konsep-dasar-sejarah-buat-deskripsi-tentang-kedua-konsep-itu-agar-dapat-di-mengerti-peristiwa-itu-memang-benar-sebagai-konsep-dasar-dalam-sejarah">20.
+                                            waktu dan alur merupakan konsep dasar sejarah.buat deskripsi tentang kedua konsep itu agar dapat di mengerti peristiwa itu memang benar sebagai konsep dasar dalam sejarah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-konsep-dasar-di-masyarakat">21.
+                                            konsep-konsep dasar di masyarakat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-dasar-akuntansi-merupakan-pedoman-dalam-menyusun-catatan-akuntansi-yang-akan-dilaksanakan-yang-tidak-berdasarkan-konsep%e2%80%8b">22.
+                                            konsep dasar akuntansi merupakan pedoman dalam menyusun catatan akuntansi yang akan dilaksanakan yang tidak berdasarkan konsep​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#menyebutkan-kembali-konsep-konsep-dasar-tokoh-tokoh-pengusul-dasar-negara">23.
+                                            menyebutkan kembali konsep-konsep dasar tokoh-tokoh pengusul dasar negara</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-konsep-dasar-di-masyarakat">24.
+                                            konsep-konsep dasar di masyarakat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-dasar-bernegara-dalam-islam-dan-konsep-dasar-kepemimpinan-dalam-islam">25.
+                                            Konsep dasar bernegara dalam islam dan konsep dasar kepemimpinan dalam islam???</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dibawah-ini-adalah-merupakan-konsep-konsep-dasar-sejarah">26.
+                                            dibawah ini adalah merupakan konsep konsep dasar sejarah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-konsep-konsep-dasar-sosiologi">27.
+                                            jelaskan konsep konsep dasar sosiologi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-konsep-dasar-akutansi-di-antaranya">28.
+                                            konsep-konsep dasar akutansi di antaranya ??</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-mempelajari-geografi-terdapat-10-konsep-dasar-yang-perlu-difahami-berikut-ini-yang-bukan-merupakan-konsep-dasar-geografi-adalah-konsep">29.
+                                            Dalam mempelajari geografi terdapat 10 konsep dasar yang perlu difahami. Berikut ini yang bukan merupakan konsep dasar geografi adalah konsep</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-konsep-dasar-ketahanan-nasional">30.
+                                            Konsep konsep dasar ketahanan nasional</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-konsep-dasar-sosiolohi">31.
+                                            Konsep-konsep dasar sosiolohi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-konsep-dasar-permainan-bola-voli2-konsep-dasar-permainan-bola-basket3-konsep-dasar-kebugaran-jasmani">32.
+                                            1. konsep dasar permainan bola voli
+2. konsep dasar permainan bola basket
+3. konsep dasar kebugaran jasmani</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kedudukan-kewarganegaraan-berdasarkan-konsep-dasar-b-konsep-historis-c-konsep-perkembangan-d-konsep-filosofis-e-konsep-yuridis-f-konsep-sosiologis">33.
+                                            kedudukan kewarganegaraan berdasarkan : Konsep Dasar b. Konsep Historis c. Konsep Perkembangan d. Konsep Filosofis e. Konsep Yuridis f. Konsep Sosiologis</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berdasarkan-konsep-dasar-sosiologi-%e2%80%8b">34.
+                                            berdasarkan konsep dasar sosiologi ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-konsep-dasar-sosiolohi">35.
+                                            Konsep-konsep dasar sosiolohi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#uraikan-konsep-konsep-dasar-sosiologi">36.
+                                            Uraikan konsep konsep dasar sosiologi </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-kamu-ketahui-tentang-konsep-dasar-simulasi-digital-dan-sebutkan-beberapa-fungsi-simulasi-digital-berdasarkan-konsep-dasar-tersebut">37.
+                                            Apa yang kamu ketahui tentang konsep dasar simulasi digital dan sebutkan beberapa fungsi simulasi digital berdasarkan konsep dasar tersebut</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#konsep-konsep-dasar-di-masyarakat">38.
+                                            konsep-konsep dasar di masyarakat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-di-maksud-konsep-dasar-pemrograman-dan-apa-konsep-dasar-nya-serta-kembangkan%e2%80%8b">39.
+                                            apa yang di maksud konsep dasar pemrograman dan apa konsep dasar nya serta kembangkan?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-saja-konsep-konsep-dasar-hubungan-internasional">40.
+                                            Apa saja konsep konsep dasar hubungan internasional</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-konsep-dasar-pemograman-dan-apa-konsep-dasarnya%e2%80%8b">
+                            1. Apa yang dimaksud dengan konsep dasar pemograman dan apa konsep dasarnya?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>Pengertian Dasar Program adalah rangkaian instruksi-instruksi dalam bahasa komputer yang disusun secara logika dan sistematis.</strong></p><p></p><p><strong>MAAF</strong><strong> </strong><strong>KALAU</strong><strong> </strong><strong>SALAH</strong><strong></strong></p><p><strong>Jawaban:</strong></p><p>konsep dasar pemograman = suatu kumpulan urutan perintah kekomputer untuk mengerjakan suatu hal dimana intruksi tersebut menggunakan bahasa yg dimengerti oleh komputer atau lebih dikenal dengan bahasa <strong>"</strong> <strong>PEMROGRAMAN</strong><strong> </strong><strong>"</strong></p><p><strong>Penjelasan:</strong></p><p>konsep dasarnya adalah= merangkai instruksi dalam bahasa komputer</p><br />
+                                            <h2 class="ez-toc-section" id="konsep-dasar-dan-konsep-konsep-itu-sama-gak%e2%80%8b">
+                            2. konsep dasar dan konsep-konsep itu sama gak?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>kek nya beda deh Banh -_-</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-apa-yang-di-magsud-dengan-konsep-dasar-pemrograman-dan-apa-konsep-dasarnya%e2%80%8b">
+                            3. jelaskan apa yang di magsud dengan konsep dasar pemrograman dan apa konsep dasarnya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Pengertian Pemrograman adalah suatu kumpulan urutan perintah ke komputer untuk mengerjakan sesuatu, dimana instruksi tersebut menggunakan bahasa yang dimengerti oleh komputer atau dikenal dengan bahasa pemrograman.</p><p></p><p>konsep dasar pemrograman pada umumnya adalah IPO (Input Proses Output)</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-konsep-konsep-dasar-dalam-sidang-bpupki-serta-tokoh-tokoh-yang-menyampaikan-konsep-dasar-tersebut%e2%80%8b">
+                            4. Jelaskan konsep-konsep dasar dalam sidang BPUPKI serta tokoh-tokoh yang menyampaikan konsep dasar tersebut​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Usulan Dasar Negara oleh Tokoh Perumus Dasar Negara Dasar negara merupakan fondasi berdirinya sebuah negara. Ibarat</p><p>sebuah bangunan, tanpa fondasi tentu bangunan itu tidak akan berdiri</p><p>dengan kukuh. Oleh karena itu, sebuah dasar negara sebagai fondasi</p><p>harus disusun sebaik mungkin.</p><p>Para pendiri negara yang tergabung dalam BPUPKI memiliki pemikiran</p><p>yang berbeda tentang dasar negara Indonesia merdeka. Atas dasar</p><p>pengalaman bernegara, pembelajaran, dan perbandingan dengan negara</p><p>lain, para pendiri negara mengusulkan dasar negara.</p><p>Usulan mengenai dasar Indonesia merdeka dalam Sidang Pertama</p><p>BPUPKI secara berurutan dikemukakan oleh Mr. Mohammad Yamin, Mr.</p><p>Soepomo, dan Ir. Soekarno. Mr. Mohammad Yamin mengusulkan dasar</p><p>negara dalam sidang BPUPKI tanggal 29 Mei 1945. Dalam mengusulkan</p><p>rancangan dasar negara Indonesia merdeka, Mr. Mohammad Yamin</p><p>menekankan bahwa:</p><p>“… rakyat Indonesia mesti mendapat dasar negara yang berasal</p><p>daripada peradaban kebangsaan Indonesia; orang timur pulang kepada</p><p>kebudayaan timur.”</p><p>“… kita tidak berniat, lalu akan meniru sesuatu susunan tata negara</p><p>negeri luaran. Kita bangsa Indonesia masuk yang beradab dan</p><p>kebudayaan kita beribu-ribu tahun umurnya.”</p><p>Mr. Mohammad Yamin mengusulkan lima asas dan dasar bagi negara</p><p>Indonesia merdeka yang akan didirikan, yaitu:</p><p>1. Peri Kebangsaan</p><p>2. Peri Kemanusiaan</p><p>3. Peri Ketuhanan</p><p>4. Peri Kerakyatan</p><p>5. Kesejahteraan Sosial.</p><p>Setelah selesai berpidato, Mr. Mohammad Yamin menyampaikan</p><p>konsep mengenai asas dasar dan negara Indonesia merdeka secara tertulis</p><p>kepada Ketua Sidang, yang berbeda dengan isi pidato sebelumnya. Asas</p><p>dan dasar Indonesia merdeka secara tertulis menurut Mr. Mohammad</p><p>Yamin adalah sebagai berikut.</p><p>1. Ketuhanan Yang Maha Esa</p><p>2. Kebangsaan persatuan Indonesia</p><p>3. Rasa kemanusiaan yang adil dan beradab</p><p>4. Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam</p><p>permusyawaratan/perwakilan</p><p>5. Keadilan sosial bagi seluruh rakyat Indonesia</p><p></p><p></p><p></p><p>Selanjutnya, pada tanggal 31 Mei 1945, Mr. Soepomo menyampaikan</p><p>pidatonya tentang dasar negara. Menurut Mr. Soepomo, dasar negara</p><p>Indonesia merdeka adalah sebagai berikut.</p><p>1. Persatuan</p><p>2. Kekeluargaan</p><p>3. Keseimbangan Lahir dan Batin</p><p>4. Musyawarah</p><p>5. Keadilan Rakyat</p><p>Mr. Soepomo juga menekankan bahwa negara Indonesia merdeka</p><p>bukan negara yang mempersatukan dirinya dengan golongan terbesar</p><p>dalam masyarakat dan tidak mempersatukan dirinya dengan golongan</p><p>yang paling kuat (golongan politik atau ekonomi yang paling kuat). Akan</p><p>tetapi, negara mempersatukan diri dengan segala lapisan rakyat yang</p><p>berbeda golongan dan paham.</p><p>Ir. Soekarno berpidato pada tanggal 1 Juni 1945. Dalam pidatonya,</p><p>Ir. Soekarno mengemukakan dasar negara Indonesia merdeka. Dasar</p><p>negara, menurut Ir. Soekarno, berbentuk Philosophische Grondslag atau</p><p>Weltanschauung. Dasar negara Indonesia merdeka menurut Ir. Soekarno</p><p>adalah sebagai berikut.</p><p>1. Kebangsaan Indonesia</p><p>2. Internasionalisme atau Peri Kemanusiaan</p><p>3. Mufakat atau Demokrasi</p><p>4. Kesejahteraan Sosial</p><p>5. Ketuhanan yang Berkebudayaan</p><p>Ir. Soekarno dalam sidang itu pun menyampaikan bahwa kelima dasar</p><p>negara tersebut dinamakan Panca Dharma. Kemudian, atas saran seorang</p><p>ahli bahasa, Ir. Soekarno mengubahnya menjadi Pancasila. Pada tanggal 1</p><p>Juni 1945, Ir. Soekarno mengemukakan pemikirannya tentang Pancasila,</p><p>yaitu nama dari lima dasar negara Indonesia. Dengan berdasar pada</p><p>peristiwa tersebut maka tanggal 1 Juni ditetapkan sebagai “Hari Lahirnya</p><p>Pancasila”.</p><p></p><p>Simak lebih lanjut di Brainly.co.id - https://brainly.co.id/tugas/3814905#readmore</p><br />
+                                            <h2 class="ez-toc-section" id="konsep-konsep-dasar-sosiologi-dijadikan-dasar-untuk-mempelajari%e2%80%8b">
+                            5. konsep-konsep dasar sosiologi dijadikan dasar untuk mempelajari?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>kehidupan manusia sehari-hari.</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="berikut-ini-yang-bukan-merupakan-konsep-dasar-geografi-adalah-konsep">
+                            6. Berikut ini yang bukan merupakan konsep dasar geografi adalah konsep</h2><br />
+                        Ini konsep dasar geografi yaitu konsep jarak,lokasi,pola,aglomerasi,keterjangkauan,nilai kegunaan,difernsiasi area,interaksi,keterkaitan keruangan,dan konsep morfologi.
+
+
+
+<br />
+                                            <h2 class="ez-toc-section" id="apa-saja-konsep-konsep-dasar-sosiologi">
+                            7. apa saja konsep-konsep dasar sosiologi?</h2><br />
+                        1.  sejarah perkembangan sosiologi<br />2. pengertian sosiologi<br />3. sosiologi sebagai ilmu pengetahuan<br />4. konsep tentang realitas sosial<br />5. data rtalitas sosial masyarakat<br />
+                                            <h2 class="ez-toc-section" id="sebutkan-konsep-konsep-dasar-akuntansi">
+                            8. sebutkan konsep konsep dasar akuntansi</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Konsep dasar akuntansi yaitu :</p><p>1.Kesatuan Usaha / Entitas Bisnis (Entity Theory)</p><p>2.Pengukuran Uang (Money Measurement         Concept)</p><p>3.Kelangsungan Usaha (Going Concern)</p><p>4.Dua Aspek Akuntansi.</p><p>5.Kos (Cost)</p><p>6.Periode Akuntansi.</p><p>7.Perbandingan (Matching Concept)</p><p>8.Upaya dan Hasil (Effort and Accomplishment)</p><p>jangan lupa follow ya ntar aku follback</p><br />
+                                            <h2 class="ez-toc-section" id="terabgkan-konsep-konsep-dasar-dalam-sosiologi">
+                            9. Terabgkan konsep konsep dasar dalam sosiologi</h2><br />
+                        Konsep dasar dari sosiologi adalah Masyarakat dan interaksi sosial nya<br />
+                                            <h2 class="ez-toc-section" id="apakah-isi-dari-konsep-konsep-dasar-negara">
+                            10. apakah isi dari konsep konsep dasar negara</h2><br />
+                        Konsep-konsep dasar negara (Individual) disampaikan lisan oleh Ir. Soekarno pada 01 Juni 1945 : <br /><br />1. Kebangsaan <br />2. Internasionalisme atau Peri Kemanusiaan <br />3. Mufakat atau Demokrasi <br />4. Kesejahteraan Sosial <br />5. Ketuhanan Yang Maha Esa<br />
+                                            <h2 class="ez-toc-section" id="tuliskan-12-konsep-dasar-yang-akan-dijadikan-menjadi-konsep-dasar-ips">
+                            11. Tuliskan 12 konsep dasar yang akan dijadikan menjadi Konsep dasar IPS</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Interaksi Kerjasama 
+</p><p>Manusia memiliki naluri untuk berinteraksi, berhubungan, atau bergaul 
+</p><p>dengan sesamanya, sejak dilahirkan sampai sepanjang hidupnya. Interaksi ini 
+</p><p>semakin bertambah sejalan dengan semakin meluasnya pergaulan seiring dengan 
+</p><p>bertambahnya usia seseorang. Interaksi merupakan hubungan timbal balik antara 
+</p><p>individu dengan individu, individu dengan kelompok dan kelompok dengan 
+</p><p>kelompok.</p><p>2. Saling Ketergantungan ( interdependansi ) 
+</p><p>Manusia saling bergantungan dalam beragam cara, mulai dari 
+</p><p>pemeliharaan ( perawatan) dan dukungan perasaan sampai pada pertukaran barang 
+</p><p>dan jasa. Manusia tidak dapat hidup sendirian secara layak. 
+</p><p></p><p>3. Kesinambungan dan Perubahan ( Continuity and Change ) 
+</p><p>Berbagai adat istiadat / tradisi dalam masyarakat diwariskan dari generasi 
+</p><p>ke generasi berikutnya. Meskipun ada perubahan inti adat / tradisi diteruskan 
+</p><p>secara berkesinambungan.kesinambungan terjadi karena lembaga perkawinan 
+</p><p></p><p>4. Keragaman / Kesamaan / Perbedaan 
+</p><p>Semakin besar suatu masyarakat semakin beraneka ragam masyarakat itu., 
+</p><p>seperti dalam jenis kelamin ( pria dan wanita ), suku, bangsa, ras, agama, bahasa, 
+</p><p>adat istiadat, pendidikan, kekayaan atauada keragaman dalam makanan, pakaian, 
+</p><p>rumah dan kesenian. Ada keaneka ragaman, anmun ada kesamaaan dalam 
+</p><p>masyarakat. 
+</p><p></p><p>5. Konflik / Konsensus 
+</p><p>Dalam kehidupan kelompok sering terjadi persaingan dan konflik karena : 
+</p><p>terbatasnya sumber – sumber daya, benturan tujuan, nilai dan kepentingan.</p><p>Konflik dapat terjadi antar individu dengan individu, antara individu dengan 
+</p><p>kelompok, antara kelompok dengan kelompok. Konflik dapat berwujud 
+</p><p>pertengkaran antara anak – anak sampai pada skal yang sangat luas yaitu perang 
+</p><p>dunia. 
+</p><p>
+</p><p>6. Evolusi / Adaptasi ( Penilainan ) 
+</p><p>Revolusi berarti perubahan yang sangat cepat dalam waktu singkat, maka 
+</p><p>evolusi adalah perubahan yang sangat lambat dalam jangka waktu yang sangat 
+</p><p>lama ( ingat teori evolusi Darwin ). Ada masyarakat dan kebudayaannya berubah 
+</p><p>sangat lambat dalam waktu yang sangat lama sehingga sering orang tak menyadari 
+</p><p>perubahan itu. Peralihan suatu masyarakat berburu kemasyarakatan penangkap 
+</p><p>ikan lalu ke masyarakat petani ladang, lalu kemasyarakat petani sawah, lalu 
+</p><p>menjadi masyarakat pedagang berlangsung dalam waktu yang sangat lama. 
+</p><p>Perubahan salah satu unsur kebudayaan misalnya rumah tradisional suatu 
+</p><p>suku bangsa yang kita kenal pasti mengalami perbahan, tak persis sama dengan 
+</p><p>jaman dulu, namun perubahan itu bersifat evolusionistis. Dalam proses evolusi </p><p>7. Pola 
+</p><p>Pola dapat diartikan sebagai suatu corak, atau model atau bentuk yang 
+</p><p>sama yang ditiru yang terulang. Dalam kehidupan sehari –hari ada pola yang 
+</p><p>dimiliki masyarakat dalam menata alat – alat makan di meja makan, dalam 
+</p><p>mebuat jendela rumah, dalam meniru bentuk rumah. Ada suatu pola</p><br />
+                                            <h2 class="ez-toc-section" id="konsep-konsep-dasar-sosiologi-adalah%e2%80%8b">
+                            12. konsep-konsep dasar sosiologi adalah?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Hallo kak biar saya Bantu yah </p><p><strong>Penjelasan:</strong></p><p>Konsep-Konsep Dasar Sosiologi (1): Interaksi sosial, struktur sosial, sistem sosial, institusi sosial, kelompok sosial, kategori sosial, status sosial, dan peran sosial.</p><br />
+                                            <h2 class="ez-toc-section" id="konsep-konsep-dasar-sosiologi-adalah">
+                            13. konsep konsep dasar sosiologi adalah? </h2><br />
+                        1. Masyarakat Sebagai Sistem Sosial<br />2. b. Kebudayaan sebagai Hasil Karya Manusia<br />semoga membantu<br />maaf kalau salhyaitu adalah halbyangvperlu diketahui saat mempelajari sosiologi agar lebih faham<br />dan macam macamnya adalah<br /><br /><br />1.INTERAKSI SOSIAL I<br />2. KONTAK SOSIAL <br />3. KOMUNIKASI <br /><br />
+                                            <h2 class="ez-toc-section" id="konsep-konsep-dasar-sosiologi-adalah%e2%80%8b">
+                            14. konsep konsep dasar sosiologi adalah​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Konsep dasar sosiologi merupakan istilah ilmiah yang seringkali muncul dalam pembahasan sosiologi.</p><p>1. Struktur sosial</p><p>2. Sistem sosial</p><p>3. Proses sosial</p><p>4. Organisasi sosial</p><p>5. Lembaga sosial</p><p>6. Individu</p><p>7. Perubahan sosial</p><p>8. Masyarakat</p><p>9. Kelompok</p><p>10. Komunitas</p><br />
+                                            <h2 class="ez-toc-section" id="berikut-ini-yang-merupakan-konsep-konsep-dasar-sejarah">
+                            15. berikut ini yang merupakan konsep-konsep dasar sejarah</h2><br />
+                        Beberapa konsep yang dikembangkan dalam ilmu sejarah seperti perubahan, 
+peristiwa, sebab dan akibat, nasionalisme, peradaban, perbudakan, waktu,
+ feminisme, liberalisme, dan konservatisme.<br /><br />
+                                            <h2 class="ez-toc-section" id="apa-itu-konsep-dasar">
+                            16. apa itu konsep dasar? </h2><br />
+                        Konsep atau anggitan adalah abstrac,entitas mental yang universal yang menunjuk pada kategori atau kelas dari suatu entitas, kejadian atau hubungan. Istilah konsep berasal dari bahasa latin conceptum, artinya sesuatu yang dipahami. Aristoteles dalam "The classical theory of concepts" menyatakan bahwa konsep merupakan penyusun utama dalam pembentukan pengetahuan ilmiah dan filsafat pemikiran manusia. <br />
+                                            <h2 class="ez-toc-section" id="jelaskan-konsep-konsep-dasar-budidaya%e2%80%8b">
+                            17. jelaskan konsep konsep dasar budidaya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>budidaya adalah suatu proses sumberdaya hayati</p><p><strong>Penjelasan:</strong></p><p>maaf kalo salah </p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-perbedaan-konsep-dasar-dan-konsep-dasar-ilmu-sosial-dalam-ips%e2%80%8b">
+                            18. jelaskan perbedaan konsep dasar dan konsep dasar ilmu sosial dalam ips​</h2><br />
+                        <p><strong>Jawaban:IPS ialah bidang studi yang merupakan paduan (fusi) dari sejumlah disiplin ilmu sosial. Ilmu sosial ialah bidang-bidang keilmuan yang mempelajari manusia di masyarakat dan mempelajari manusia sebagai anggota masyarakat</strong></p><p></p><p><strong>Penjelasan: </strong><strong>Semoga Membantu.''</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="penyimpulan-dari-konsep-konsep-dasar-antropologi%e2%80%8b">
+                            19. penyimpulan dari konsep konsep dasar antropologi​</h2><br />
+                        <p>Jawaban:</p><p>Mata kuliah ini bertujuan untuk memberikan pemahaman terhadap mahasiswa tentang aneka ragam kebudayaan dan suku bangsa yang ada di Indonesia. Materi kajian pada mata kuliah ini meliputi konsep-konsep antropologi budaya dan aneka ragam kebudayaan dalam kehidupan masyarakat. Dalam mata kuliah ini akan dibicarakan diantaranya aspek-aspek kebudayaan manusia yang meliputi pre-histori, etnologi, dan etnolinguistik, serta unsur-unsur dan wujud-wujud kebudayaan yang dapat membentuk kesepakatan-kesepakatan Bersama antara suku-suku bangsa yang ada di Indonesia. Di samping itu diharapkan dapat membantu meningkatnya pengetahuan mahasiswa tentang suku-suku bangsa yang masih tertinggal dalam berbagai hal.</p><br />
+                                            <h2 class="ez-toc-section" id="waktu-dan-alur-merupakan-konsep-dasar-sejarah-buat-deskripsi-tentang-kedua-konsep-itu-agar-dapat-di-mengerti-peristiwa-itu-memang-benar-sebagai-konsep-dasar-dalam-sejarah">
+                            20. waktu dan alur merupakan konsep dasar sejarah.buat deskripsi tentang kedua konsep itu agar dapat di mengerti peristiwa itu memang benar sebagai konsep dasar dalam sejarah</h2><br />
+                        waktu adalah unsur pembentukan sebagai keterangan kapan sesuatu terkadi dgn nya suatu kejadian dapat di bedakan apakah terjadinya sudah lama atau masih baru.<br /> alur adlahbunsur pembentukan yg menunjukan  bagai kejadian itu berlangsung apakah maju atau mundur...<br />
+                                            <h2 class="ez-toc-section" id="konsep-konsep-dasar-di-masyarakat">
+                            21. konsep-konsep dasar di masyarakat</h2><br />
+                        Sebutkan kendala kendala dalam mewujudkan masyarakat madani<br />
+                                            <h2 class="ez-toc-section" id="konsep-dasar-akuntansi-merupakan-pedoman-dalam-menyusun-catatan-akuntansi-yang-akan-dilaksanakan-yang-tidak-berdasarkan-konsep%e2%80%8b">
+                            22. konsep dasar akuntansi merupakan pedoman dalam menyusun catatan akuntansi yang akan dilaksanakan yang tidak berdasarkan konsep​</h2><br />
+                        <p><strong>Jawaban:</strong></p>Konsep dasar akutansi <strong>m</strong><strong>e</strong><strong>r</strong><strong>u</strong><strong>p</strong><strong>a</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>p</strong><strong>e</strong><strong>d</strong><strong>o</strong><strong>m</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>d</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>m</strong><strong>e</strong><strong>n</strong><strong>y</strong><strong>u</strong><strong>s</strong><strong>u</strong><strong>n</strong><strong> </strong><strong>c</strong><strong>a</strong><strong>t</strong><strong>a</strong><strong>t</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>a</strong><strong>k</strong><strong>u</strong><strong>n</strong><strong>t</strong><strong>a</strong><strong>n</strong><strong>s</strong><strong>i</strong><strong> </strong><strong>y</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong> </strong><strong>a</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>d</strong><strong>i</strong><strong>l</strong><strong>a</strong><strong>k</strong><strong>s</strong><strong>a</strong><strong>n</strong><strong>a</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>y</strong><strong>a</strong><strong>n</strong><strong>g</strong><strong> </strong><strong>t</strong><strong>i</strong><strong>d</strong><strong>a</strong><strong>k</strong><strong> </strong><strong>b</strong><strong>e</strong><strong>r</strong><strong>d</strong><strong>a</strong><strong>s</strong><strong>a</strong><strong>r</strong><strong>k</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>k</strong><strong>o</strong><strong>n</strong><strong>s</strong><strong>e</strong><strong>p</strong><strong> </strong><strong>A</strong><strong>C</strong><strong>T</strong><strong>U</strong><strong>A</strong><strong>L</strong><strong> </strong><strong>B</strong><strong>A</strong><strong>S</strong><strong>I</strong><strong>S</strong><p><strong>Penjelasan:</strong></p><strong>S</strong><strong>E</strong><strong>M</strong><strong>O</strong><strong>G</strong><strong>A</strong><strong> </strong><strong>M</strong><strong>E</strong><strong>M</strong><strong>B</strong><strong>A</strong><strong>N</strong><strong>T</strong><strong>U</strong><strong>^</strong><strong>-</strong><strong>^</strong><strong>F</strong><strong>O</strong><strong>L</strong><strong>L</strong><strong>O</strong><strong>W</strong><strong> </strong><strong>Y</strong><strong>A</strong><strong>;</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><br />
+                                            <h2 class="ez-toc-section" id="menyebutkan-kembali-konsep-konsep-dasar-tokoh-tokoh-pengusul-dasar-negara">
+                            23. menyebutkan kembali konsep-konsep dasar tokoh-tokoh pengusul dasar negara</h2><br />
+                        ir.soekarno<br />soepomo<br />moh yamin<br />
+                                            <h2 class="ez-toc-section" id="konsep-konsep-dasar-di-masyarakat">
+                            24. konsep-konsep dasar di masyarakat</h2><br />
+                        menolong bekerja sama dan akur itu saja sobat <br />
+                                            <h2 class="ez-toc-section" id="konsep-dasar-bernegara-dalam-islam-dan-konsep-dasar-kepemimpinan-dalam-islam">
+                            25. Konsep dasar bernegara dalam islam dan konsep dasar kepemimpinan dalam islam???</h2><br />
+                        taat kepada yang maha kuasa dl yg pstiny <br /><br />
+                                            <h2 class="ez-toc-section" id="dibawah-ini-adalah-merupakan-konsep-konsep-dasar-sejarah">
+                            26. dibawah ini adalah merupakan konsep konsep dasar sejarah</h2><br />
+                        konsep dasar sejarah :<br />1. Perubahan<br />2. Peristiwa<br />3. Sebab dan Akibat<br />4. Nasionalisme<br />5. Kemerdekaan / Kebebasan<br />6. Kolonialisme<br />7. Revolusi<br />8. Fasisme<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-konsep-konsep-dasar-sosiologi">
+                            27. jelaskan konsep konsep dasar sosiologi</h2><br />
+                        masalah masalah sosial yg ada di masyarakat<br />
+                                            <h2 class="ez-toc-section" id="konsep-konsep-dasar-akutansi-di-antaranya">
+                            28. konsep-konsep dasar akutansi di antaranya ??</h2><br />
+                        1) Konsep Kesatuan Usaha<br />2) Konsep Harga Perolehan<br />3) Konsep Kesinambungan<br />4) Konsep Pengukuran dengan Uang<br />5) Periode Akuntansi<br />6) Penetapan Beban dan Pendapatan<br />konsep dasar akutansi :<br />→ kesatuan usaha<br />→ konsep beban historis <br />→ kesinambungan <br />→ priode akutansi <br />→ subtasi di atas bentuk <br /><br />
+                                            <h2 class="ez-toc-section" id="dalam-mempelajari-geografi-terdapat-10-konsep-dasar-yang-perlu-difahami-berikut-ini-yang-bukan-merupakan-konsep-dasar-geografi-adalah-konsep">
+                            29. Dalam mempelajari geografi terdapat 10 konsep dasar yang perlu difahami. Berikut ini yang bukan merupakan konsep dasar geografi adalah konsep</h2><br />
+                        <p>10. Konsep dasar geografi</p><p></p><p>1. konsep lokasi</p><p>2. konsep jarak</p><p>3. konsep diferensiasi area</p><p>4. konsep interaksi dan interpedensi</p><p>5. konsep aglomerasi</p><p>6. konsep pola</p><p>7. konsep kegunaan</p><p>8. konsep keterjangkauan</p><p>9. konsep morfologi</p><p>10. konsep keterkaitan keruangan</p><p></p><p></p><p></p><p>#semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="konsep-konsep-dasar-ketahanan-nasional">
+                            30. Konsep konsep dasar ketahanan nasional</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Konsepsi Ketahanan Nasional (Tannas), merupakan konsepsi Nasional dalam Pencapaian Tujuan Nasional, yang pada intinya tercapainya Keamanan dan Kesejahteraan bagi seluruh rakyat Indonesia, yang menjadi tugas dan tanggung jawab Pemerintahan Negara.</p><br />
+                                            <h2 class="ez-toc-section" id="konsep-konsep-dasar-sosiolohi">
+                            31. Konsep-konsep dasar sosiolohi</h2><br />
+                        <p>1. INTERAKSI SOSIAL Interaksi adalah suatu hubungan timbal balik untuk mancapai suatu keinginan, tujuan maupun penyampaian maksud untuk hidup bersama dengan manusia lainnya dalam memenuhi kebutuhan hidupnya.</p><p>2. KONTAK SOSIAL Interaksi sosial merupakan suatu fondasi dari hubungan yang berupa tindakan yang berdasarkan norma dan nilai sosial yang berlaku dan diterapkan di dalam masyarakat. Kontak sosial merupakan awal terjadinya interaksi social baik dilakukan secara langsung ataupun tidak.</p><p>3. KOMUNIKASI Komunikasi adalah “suatu proses dalam mana seseorang atau beberapa orang, kelompok, organisasi, dan masyarakat menciptakan, dan menggunakan informasi agar terhubung dengan lingkungan dan orang lain.</p><p>4. KONFLIK Konflik sosial adalah suatu keadaan masyarakat yang mengalami suatu pertikaian antara anggotanya yang mengakibatkan terancamnya keutuhan msyarakat tersebut yang dilator belakangi dengan perbedaan kepentingan antar anggota.</p><p>5. INDIVIDU individu adalah orang, seorang, pribadi atau perseorangan.</p><p>6. ORGANISASI Organisasi merupakan artikulasi dari bagian-bagian yang merupakan suatu kesatuan fungsional. Yang mana bagian-bagian yang dimakasud adalah kumpulan dari beberapa anggota yang membentuk suatu komunitas.</p><p>7. AKULTURASI Akulturasi adalah peleburan dua unsure kebudayaan yang berbeda tanpa menghilangkan ciri khas kebudayaan masing-masing.</p><p>8. NORMA Norma (norm) adalah standar perilaku.</p><p>9. NILAI Nilai adalah gagasan mengenai apakah pengalaman berarti atau tidak berarti. Nilai mengarahkan perilaku dan pertimbangan seseorang.</p><p>10. AGAMA Agama merupakan pedoman hidup untuk meraih kebahagiaan disunia dan diakhirat. Sebagai umat beragama, seseorang harus menjalankan kewajiban dan menjauhi larangan Tuhan.</p><p>11. WEWENANG Wewenang adalah kekuasaan yang ada pada seseorang atau sekelompok orang, yang mempunyai dukungan atau mendapat pengakuan dari masyarakat.</p><p>12. LINGKUNGAN Lingkungan adalah (1) daerah (kawasan dsb) yg termasuk di dalamnya; (2) bagian wilayah dl kelurahan yg merupakan lingkungan kerja pelaksanaan pemerintahan desa</p><p>13. INTEGRASI Integrasi (integration) adalah suatu proses pengembangan masyarakat dimana segenap kelompok ras dan etnik mampu berperan serta secara bersama-sama dalam kehidupan budaya dan ekonomi.</p><p>14. DIS INTEGRASI Disintegrasi adalah suatu keadaan dimana tidak ada keserasian pada bagian-bagian dari suatu kebulatan yang dikarenakan adanya pertentangan-pertentangan. Disintegrasi dapat dirumuskan sebagai suatu proses berpudarnya norma-norma dan nilai-niai dalam masyarakat karena peubahan-perubahan yang terjadi pada lembaga-lembaga kemasyarakatan.</p><p>15. KELOMPOK SOSIAL Salah satu penggunaan istilah mengartikan kelompok sebagai setiap kumpulan manusia secara fisik yang tidak memiliki ikatan kebersamaan apa-apa, kecuali jarak fisik yang dekat. Pengertian yang kedua adalah sejumlah orang yang memiliki persamaan ciri-ciri tertentu. Pnggunaan lainnya mendefinisikan kelompok sebagai sejumlah orang yang memiliki pola interaksi yang terorganisasi dan terjadi secaraberulang-ulang.</p><p>16. PROSES SOSIAL Proses Sosial adalah cara berhubungan yang dapat dilihat apabila individu dan kelompok saling bertemu dan menentukan system serta bentuk hubungan tersebut atau apa yang akan terjadi apabila ada perubahan-perubahan yang menyebabkan goyahnya cara-cara hidup yang telah ada. Atau dengan kata lain, proses social diartikan sebagai pengaruh timbal balik antara berbagai segi kehidupan bersama.</p><p>17. PENGENDALIAN SOSIAL Pengendalian social (social control) adalah segenap cara dan proses yang digunakan oleh suatu kelompok atau masyarakat untuk menjamin terciptanya konformitas para anggotanya terhadap harapan kelompok atau masyarakat itu.</p><p>18. PERUBAHAN SOSIAL Perubahan Sosial (Social change) adalah Perubahan dalam struktur social dan jalinan hubungan dalam masyarakat ; seringkali penggunaannya dipertukarkan dengan istilah perubahan budaya.</p><p>19. STRATA SOSIAL Strata Sosial adalah menurut Drs. Robert M.Z. Lawang adalah penggolongan orang-orang yang termasuk dalam suatu sistem sosial tertentu ke dalam lapisan-lapisan hirarkis menurut dimensi kekuasaan, privilese dan prestise 20. SISTEM SOSIAL Sistem Sosial dapat diartikan sebagai suatu keseluruhan dari unsur-unsur sosial yang berkaitan dan berhubungan satu sama lain serta saling mempengaruhi dalam suatu kesatuan atau kebulatan.</p><p>20. PENYIMPANGAN SOSIAL “Penyimpangan adalah setiap perilaku yang dinyatakan sebagai suatu pelanggaran terhadap norma-norma keelompok atau masyarakat”</p><br />
+                                            <h2 class="ez-toc-section" id="1-konsep-dasar-permainan-bola-voli2-konsep-dasar-permainan-bola-basket3-konsep-dasar-kebugaran-jasmani">
+                            32. 1. konsep dasar permainan bola voli
+2. konsep dasar permainan bola basket
+3. konsep dasar kebugaran jasmani</h2><br />
+                        konsep dasar bola voli  adalah passing bawah dan atas,smash dan spike,serius dan bendungan.<br />konsep dasar bola basket adalah      melempar,menangkap,menggiring,menembak,gerak berporos,lay up,shoot,dan merayah/reburel.<br />konsep dasar kebugaran jasmani adalah makan makanan 4 sehat 5 sempurna Ok,itu saja <br />
+                                            <h2 class="ez-toc-section" id="kedudukan-kewarganegaraan-berdasarkan-konsep-dasar-b-konsep-historis-c-konsep-perkembangan-d-konsep-filosofis-e-konsep-yuridis-f-konsep-sosiologis">
+                            33. kedudukan kewarganegaraan berdasarkan : Konsep Dasar b. Konsep Historis c. Konsep Perkembangan d. Konsep Filosofis e. Konsep Yuridis f. Konsep Sosiologis</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>JAWABAN C</p><p><strong>Penjelasan:</strong></p><p>SEMOGA MEMBANTU</p><br />
+                                            <h2 class="ez-toc-section" id="berdasarkan-konsep-dasar-sosiologi-%e2%80%8b">
+                            34. berdasarkan konsep dasar sosiologi ​</h2><br />
+                        <p>Lembaga sosial atau instirusi sosial atau pranata sosial dalam konsep dasar sosiologi adalah suatu sistem yang menunjukkan keterjalinan antara nilai dan norma untuk mewujudkan kehendak sosial atau menjalankan fungsi sosial. Contoh lembaga sosial dalam sosiologi adalah keluarga.</p><br />
+                                            <h2 class="ez-toc-section" id="konsep-konsep-dasar-sosiolohi">
+                            35. Konsep-konsep dasar sosiolohi</h2><br />
+                        1. INTERAKSI SOSIAL Interaksi adalah suatu hubungan timbal balik untuk mancapai suatu keinginan, tujuan maupun penyampaian maksud untuk hidup bersama dengan manusia lainnya dalam memenuhi kebutuhan hidupnya.<br /><br />2. KONTAK SOSIAL Interaksi sosial merupakan suatu fondasi dari hubungan yang berupa tindakan yang berdasarkan norma dan nilai sosial yang berlaku dan diterapkan di dalam masyarakat. Kontak sosial merupakan awal terjadinya interaksi social baik dilakukan secara langsung ataupun tidak.<br /><br />3. KOMUNIKASI Komunikasi adalah “suatu proses dalam mana seseorang atau beberapa orang, kelompok, organisasi, dan masyarakat menciptakan, dan menggunakan informasi agar terhubung dengan lingkungan dan orang lain.<br /><br />4. KONFLIK Konflik sosial adalah suatu keadaan masyarakat yang mengalami suatu pertikaian antara anggotanya yang mengakibatkan terancamnya keutuhan msyarakat tersebut yang dilator belakangi dengan perbedaan kepentingan antar anggota.<br /><br />5. INDIVIDU individu adalah orang, seorang, pribadi atau perseorangan.<br /><br />6. ORGANISASI Organisasi merupakan artikulasi dari bagian-bagian yang merupakan suatu kesatuan fungsional. Yang mana bagian-bagian yang dimakasud adalah kumpulan dari beberapa anggota yang membentuk suatu komunitas.<br /><br />7. AKULTURASI Akulturasi adalah peleburan dua unsure kebudayaan yang berbeda tanpa menghilangkan ciri khas kebudayaan masing-masing.<br /><br />8. NORMA Norma (norm) adalah standar perilaku.<br /><br />9. NILAI Nilai adalah gagasan mengenai apakah pengalaman berarti atau tidak berarti. Nilai mengarahkan perilaku dan pertimbangan seseorang.<br /><br />10. AGAMA Agama merupakan pedoman hidup untuk meraih kebahagiaan disunia dan diakhirat. Sebagai umat beragama, seseorang harus menjalankan kewajiban dan menjauhi larangan Tuhan.<br /><br />11. WEWENANG Wewenang adalah kekuasaan yang ada pada seseorang atau sekelompok orang, yang mempunyai dukungan atau mendapat pengakuan dari masyarakat.<br /><br />12. LINGKUNGAN Lingkungan adalah (1) daerah (kawasan dsb) yg termasuk di dalamnya; (2) bagian wilayah dl kelurahan yg merupakan lingkungan kerja pelaksanaan pemerintahan desa<br /><br />13. INTEGRASI Integrasi (integration) adalah suatu proses pengembangan masyarakat dimana segenap kelompok ras dan etnik mampu berperan serta secara bersama-sama dalam kehidupan budaya dan ekonomi.<br /><br />14. DIS INTEGRASI Disintegrasi adalah suatu keadaan dimana tidak ada keserasian pada bagian-bagian dari suatu kebulatan yang dikarenakan adanya pertentangan-pertentangan. Disintegrasi dapat dirumuskan sebagai suatu proses berpudarnya norma-norma dan nilai-niai dalam masyarakat karena peubahan-perubahan yang terjadi pada lembaga-lembaga kemasyarakatan.<br /><br />15. KELOMPOK SOSIAL Salah satu penggunaan istilah mengartikan kelompok sebagai setiap kumpulan manusia secara fisik yang tidak memiliki ikatan kebersamaan apa-apa, kecuali jarak fisik yang dekat. Pengertian yang kedua adalah sejumlah orang yang memiliki persamaan ciri-ciri tertentu. Pnggunaan lainnya mendefinisikan kelompok sebagai sejumlah orang yang memiliki pola interaksi yang terorganisasi dan terjadi secaraberulang-ulang.<br /><br />16. PROSES SOSIAL Proses Sosial adalah cara berhubungan yang dapat dilihat apabila individu dan kelompok saling bertemu dan menentukan system serta bentuk hubungan tersebut atau apa yang akan terjadi apabila ada perubahan-perubahan yang menyebabkan goyahnya cara-cara hidup yang telah ada. Atau dengan kata lain, proses social diartikan sebagai pengaruh timbal balik antara berbagai segi kehidupan bersama.<br /><br />17. PENGENDALIAN SOSIAL Pengendalian social (social control) adalah segenap cara dan proses yang digunakan oleh suatu kelompok atau masyarakat untuk menjamin terciptanya konformitas para anggotanya terhadap harapan kelompok atau masyarakat itu.<br /><br />18. PERUBAHAN SOSIAL Perubahan Sosial (Social change) adalah Perubahan dalam struktur social dan jalinan hubungan dalam masyarakat ; seringkali penggunaannya dipertukarkan dengan istilah perubahan budaya.<br /><br />19. STRATA SOSIAL Strata Sosial adalah menurut Drs. Robert M.Z. Lawang adalah penggolongan orang-orang yang termasuk dalam suatu sistem sosial tertentu ke dalam lapisan-lapisan hirarkis menurut dimensi kekuasaan, privilese dan prestise 20. SISTEM SOSIAL Sistem Sosial dapat diartikan sebagai suatu keseluruhan dari unsur-unsur sosial yang berkaitan dan berhubungan satu sama lain serta saling mempengaruhi dalam suatu kesatuan atau kebulatan.<br /><br />20. PENYIMPANGAN SOSIAL “Penyimpangan adalah setiap perilaku yang dinyatakan sebagai suatu pelanggaran terhadap norma-norma keelompok atau masyarakat”<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="uraikan-konsep-konsep-dasar-sosiologi">
+                            36. Uraikan konsep konsep dasar sosiologi </h2><br />
+                        <p>konsep dasar sosiologi adalah mempelajari tentang kehidupan dan aktivitas dalam bermasyarakat </p><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-kamu-ketahui-tentang-konsep-dasar-simulasi-digital-dan-sebutkan-beberapa-fungsi-simulasi-digital-berdasarkan-konsep-dasar-tersebut">
+                            37. Apa yang kamu ketahui tentang konsep dasar simulasi digital dan sebutkan beberapa fungsi simulasi digital berdasarkan konsep dasar tersebut</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>dalam pembelajaran adalah suatu metode pembelajaran yang menggunakan teknologi informasi dan komunikasi</p><p><strong>Penjelasan:</strong></p><p>karena dalam pembelajaran membutuhkan informasi dan komunikasi</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="konsep-konsep-dasar-di-masyarakat">
+                            38. konsep-konsep dasar di masyarakat</h2><br />
+                          Kontjaraningrat (1990)<br /><br />      Masyarakat adalah sekumpulan manusia yang saling bergaul, atau dengan istilah lain saling berinteraksi. Kesatuan hidup manusia yang berinteraksi menurut suatu sistem adat istiadat tertentu yang bersifat kontinyu dan terikat oleh suatu rasa identitas bersama<br /><br /><br />
+                                            <h2 class="ez-toc-section" id="apa-yang-di-maksud-konsep-dasar-pemrograman-dan-apa-konsep-dasar-nya-serta-kembangkan%e2%80%8b">
+                            39. apa yang di maksud konsep dasar pemrograman dan apa konsep dasar nya serta kembangkan?​</h2><br />
+                        <p>adalah suatu kumpulan urutan perintah ke komputer untuk mengerjakan sesuatu, dimana instruksi tersebut menggunakan bahasa yang dimengerti oleh komputer atau dikenal dengan bahasa.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-saja-konsep-konsep-dasar-hubungan-internasional">
+                            40. Apa saja konsep konsep dasar hubungan internasional</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>bergabung dalam organisasi tingkat dunia</p><p><strong>Penjelasan:</strong></p><p>dalam sebuah organisasi dunia, terdapat susunan negara-negara dari sebagian wilayah dunia. bagian-bagian dari negara tersebut membuat struktur yang menjadikan beberapa negara menjalin hubungan internasional. contohnya: pbb</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/9n7TYrzDjk4?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>ti</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-sesongan/">Contoh Sesongan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jenis-pena-yang-dapat-menggantikan-fungsi-dari-maru-pen-adalah/">Jenis Pena Yang Dapat Menggantikan Fungsi Dari Maru Pen Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1-3-pangkat-3/">1 3 Pangkat 3</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/meet-n-greet/">Meet N Greet</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-tujuan-eksportir/">Apa Tujuan Eksportir</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/muatan-cu/">Muatan Cu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/please-explain-how-to-travel-by-bus/">Please Explain How To Travel By Bus</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/yel-yel-regu-matahari/">Yel Yel Regu Matahari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berbakti-kepada-kedua-orang-tua-dikenal-dengan-istilah/">Berbakti Kepada Kedua Orang Tua Dikenal Dengan Istilah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/negara-dari-r/">Negara Dari R</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kepanjangan-asean/">Kepanjangan Asean</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-peran-indonesia-dalam-bidang-ekonomi-di-asean/">Apa Peran Indonesia Dalam Bidang Ekonomi Di Asean</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/project-adalah/">Project Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-asimetris/">Contoh Asimetris</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/penjagaan-yang-dilakukan-dengan-ketat-dan-lawan-tidak-perlu-ditinggalkan/">Penjagaan Yang Dilakukan Dengan Ketat Dan Lawan Tidak Perlu Ditinggalkan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-pengertian-biosfer/">Jelaskan Pengertian Biosfer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/asparagus-dan-adas-merupakan-sayuran-yang-diambil-pada-bagian/">Asparagus Dan Adas Merupakan Sayuran Yang Diambil Pada Bagian</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sugeng-rawuh/">Sugeng Rawuh</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/fungsi-kapasitor/">Fungsi Kapasitor</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hasil-dari-30/">Hasil Dari 30</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

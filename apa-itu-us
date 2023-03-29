@@ -1,0 +1,1396 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Apa Itu Us - BELAJAR</title>
+    <meta name="description" content="Apa Itu Us, , , , , , , 0, Apa Itu WordPress, Apa Saja Fungsi dan Fiturnya? - Webhostmu, webhostmu.com, 1024 x 678, jpeg, , 20, apa-itu-us, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Apa Itu Us - BELAJAR" />
+    <meta property="og:description" content="Apa Itu Us, , , , , , , 0, Apa Itu WordPress, Apa Saja Fungsi dan Fiturnya? - Webhostmu, webhostmu.com, 1024 x 678, jpeg, , 20, apa-itu-us, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Apa Itu Us - BELAJAR" />
+    <meta name="twitter:description" content="Apa Itu Us, , , , , , , 0, Apa Itu WordPress, Apa Saja Fungsi dan Fiturnya? - Webhostmu, webhostmu.com, 1024 x 678, jpeg, , 20, apa-itu-us, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Apa Itu Us</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">kaylaaurayasmine19</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Apa+Itu+Us" alt="Apa Itu Us">
+                    </div>
+                    <p></p>
+                    <p>Nilai tukar US$12 sama dengan Rp156.000,00,maka nilai tukarRp455.000,00 = ....US$20US$25US$30US$35​</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#nilai-tukar-us12-sama-dengan-rp156-00000maka-nilai-tukarrp455-00000-us20us25us30us35%e2%80%8b">1.
+                                            Nilai tukar US$12 sama dengan Rp156.000,00,maka nilai tukarRp455.000,00 = ....US$20US$25US$30US$35​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#7-data-pendapatan-pengeluaran-dan-produksisuatu-negara-sebagai-berikut-gdp-us-1-500-000-000-gnp-us-850-000-000-penyusutan-barang-modal-us-100-000-000-pajak-tidak-langsung-us-50-000-000-transfer">2.
+                                            7. Data pendapatan, pengeluaran, dan produksisuatu negara sebagai berikut.GDP US $1.500.000.000.GNP US $850.000.000.Penyusutan barang modal US $100.000.000.Pajak tidak langsung US $50.000.000.Transfer Payment US $75.000.000.Laba ditahan US $25.000.000.Asuransi US $15.000.000.Pajak langsung US $25.000.000.Berdasarkan data di atas, besar disposible Incomeadalaha. US $625.000.000  d. US $710.000.000b. US $645.000.000  e. US $735.000.000C. US $650.000.000TL1​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bank-dunia-mengelompokkan-suatu-negara-dengan-tingkat-pendapatan-rendah-jika-pnb-per-kapita-a-kurang-dari-us725b-antara-us726-dan-us2-895c-antara-us-2896-dan-us8955d-lebih-dari-us8955e">3.
+                                            Bank Dunia mengelompokkan suatu negara dengan tingkat pendapatan rendah jika PNB per kapita...a.  kurang dari US$725b.  antara US$726 dan US$2.895c.  antara US$.2896 dan US$8955d.  lebih dari US$8955e.  US$116.410.000</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-data-milik-suatu-negara-sebagai-berikut-dalam-miliar-gdp-us-2-000-iuran-asuransi-us100-pendapatan-wna-us220-pendapatan-wn-diluar-negeri-us-150-penyusutan-us80-jaminan-sosial-us">4.
+                                            Diketahui data milik suatu negara sebagai berikut (dalam miliar ). GDP US$ 2.000; Iuran asuransi US$100; Pendapatan WNA US$220; Pendapatan WN diluar negeri US$ 150; Penyusutan US$80; Jaminan sosial US$40; Transfer payment US$30; Pajak tidak langsung US$65; Laba ditahan US$80; Pajak langsung US$25; Subsidi US$40. Hitunglah jumlah pendapatan yang siap dibelanjakan oleh masyarakat</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jadwal-usus-singkatan-dari-%e2%80%8b">5.
+                                            jadwal USUS singkatan dari ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#negara-yowisben-memiliki-pendapatan-nasional-sebagai-berikut-wagesus-120-00000-consumptionus-25-00000-profitus-37-50000-rentus-17-80000-government-expenditureus-68-500">6.
+                                            Negara YOWISBEN memiliki pendapatan nasional sebagai berikut: -	Wages	US $120.000,00 -	Consumption	US $  25.000,00 -	Profit	US $  37.500,00 -	Rent	US $  17.800,00 -	Government expenditure	US $  68.500,00 -    National Income	US $192.000,00 -	Investment	US $  55.000,00 -	Interest of capital	US $  27.200,00	 -	Import	US $  25.000,00  Berdasarkan data di atas, jumlah ekspor negara YOWISBEN jika dihitung dengan menggunakan pendekatan pengeluaran adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#negara-maju-mempunyai-gnpa-kurang-lebih-us-8-500b-lebih-dari-us-8-500c-kurang-dari-us-10-726d-lebih-dari-us-10-726tolong-dijawab-yh-kak2-%e2%80%8b">7.
+                                            negara maju mempunyai GNPA.kurang lebih US $8.500B.lebih dari US $ 8.500C.kurang dari US $10.726D.lebih dari US $ 10.726tolong dijawab yh kak2 ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#negara-memiliki-data-pendapatan-nasional-sebagai-berikut-dalam-jutaan-gaji-pegawai-us200-000konsumsi-masyarakat-us215-000-keuntungan-us">8.
+                                            Negara memiliki data pendapatan nasional sebagai berikut (dalam jutaan).
+Gaji Pegawai                         US$200.000
+Konsumsi Masyarakat          US$215.000 
+Keuntungan                          US$46.000
+Sewa                                      US$36.400
+Konsumsi Pemerintah          US$97.600
+Bunga Modal                         US$33.500
+Pertambangan                      US$25.200
+Ekspor                                   US$27.500
+Impor                                     US$33.700
+Hitunglah pendapatan nasional menggunakan pendekatan pendapatan!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#diketahui-kurs-beli-us-11-600sedangkan-kurs-jual-us-11-850berapa-rupiah-rahma-harus-membayar-jika-ia-membutuhkan-us-3500berapa-rupiah-mega-harus-menerim-jika-ia-menukarkan-us-3500">9.
+                                            diketahui kurs beli US$ 11.600sedangkan kurs jual US$ 11.850
+berapa rupiah rahma harus membayar jika ia membutuhkan US$ 3500
+berapa rupiah mega harus menerim.  jika ia menukarkan US$ 3500</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#data-pendapata-pengeluaran-dan-produksi-negara-sebagai-berikutgross-domestict-product-us-1-500-000-000gross-national-product-us-850-000-000penyusutan-barang-modal-us-100-000-000pajak-tidak-lan">10.
+                                            Data pendapata, pengeluaran dan produksi negara sebagai berikut:gross domestict product us $ 1.500.000.000gross national product us $ 850.000.000penyusutan barang modal us $ 100.000.000pajak tidak langsung us $ 50.000.000transfer payment us $ 75.000.000laba ditahan us $ 25.000.000asuransi us $. 15.000.000pajak langsung us $ 25.000.000berdasarkan data di atas, tentukan besarnya nni,nnp,pi dan di!</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#data-pendapatan-pengeluaran-dan-produksi-suatu-negara-sebagai-berikut-gnp-us-850-000-000-peny-brg-modal-us-100-000-000-p-tidak-langsung-us-50-000-000-transfer-payment-us-75-000-000-laba-d">11.
+                                            Data pendapatan, pengeluaran, dan produksi suatu negara sebagai berikut: GNP US $850.000.000; Peny. Brg Modal US $100.000.000; P. Tidak Langsung US $50.000.000; Transfer Payment US $75.000.000; Laba Ditahan US $25.000.000; Asuransi US $15.000.000; Pajak Langsung US $25.000.000. Berdasarkan data tersebut, besar disposible income adalah ....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#negara-a-mencatat-pendapatan-warga-negaranya-di-singapura-sebesar-us-800-vietnam-sebesar-us-700-dan-thailand-sebesar-us-850-negara-a-juga-mencatat-pendapatan-wna-di-negara-a-antara-lain-warga-neg">12.
+                                            Negara a mencatat pendapatan warga negaranya di singapura sebesar us$ 800 vietnam sebesar us$ 700. dan thailand sebesar us$ 850. negara a juga mencatat pendapatan wna di negara a antara lain warga negara australia us$ 1.050 india us$960.dan malaisya us$ 750. penyusutan us$1.450 pajak tidak langsung us$ 170. pajak langsung us$230. subsidi us$80 laba di tahan us$3.100 berdasarkan data tersebut besar personal income (pi) adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#data-pendapatan-pengeluaran-dan-produksi-suatu-negara-sebagai-berikutgross-domestict-product-us-1-600-000-000gross-national-product-us-750-000-000penyusutan-barang-modal-us-200-000-000paja">13.
+                                            Data pendapatan, pengeluaran dan produksi suatu Negara sebagai berikut:
+Gross Domestict Product US $ 1.600.000.000
+Gross National Product US $ 750.000.000
+Penyusutan Barang Modal US $ 200.000.000
+Pajak Tidak Langsung US $ 60.000.000
+Transfer Payment US $ 65.000.000
+Laba ditahan US $ 35.000.000
+Pajak atas laba US $ 25.000.000
+Asuransi US $ 15.000.000
+Pajak Langsung US $ 20.000.000
+Berdasarkan data di atas, tentukan besarnya NNP, NNI, PI dan DI !</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#cotton-table-clothes-us-60-00-order-no-632b17-1-dozen-small-cotton-towels-us-24-00-date-of-purchase-5-oct-2017-invoice-no-7899-1-dozen-packing-charge-us-5-50-discount-10-woollen-socks-us">14.
+                                            Cotton table clothes US $ 60.00 Order No. 632/B/17 1 Dozen Small Cotton towels US $ 24.00 Date of purchase: 5 Oct. 2017 Invoice No. 7899 1 Dozen Packing Charge: US $ 5.50 Discount 10 % Woollen socks US $ 36.00 US $ 5.00 US $ 2.00 US $ 3.00 1 Dozen Delivery charge: US $ 10.00 Total Amount: US $ 123.50​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#7-data-pendapatan-nasional-negara-x-sebagaiberikut-dalam-miliar-konsumsi-rumah-tanggaus9-200bungaus500eksporus4-100imporus3-050pengeluaran-pemerintah-us4-850pembelian-peralatan-produksi-us2-2">15.
+                                            7. Data pendapatan nasional negara X sebagaiberikut (dalam miliar).Konsumsi rumah tanggaUS$9.200BungaUS$500EksporUS$4.100ImporUS$3.050Pengeluaran pemerintah US$4.850Pembelian peralatan produksi US$2.200Besar pendapatan nasional dengan metodependekatan pengeluaran adalah ....a. US$10.850 miliarb. US$13.500 miliarc. US$15.200 miliard. US$15.700 miliare. US$17.300 miliarassalamu'alaikum kakak2 tolong di jawab ya, terimakasih​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#2-negara-memiliki-data-pendapatan-nasionalsebagai-berikut-dalam-jutaan-gaji-pegawaius200-000konsumsi-masyarakat-us215-000keuntunganus46-000sewaus36-400konsumsi-pemerintah-us97-600bunga-modalu">16.
+                                            2.) Negara memiliki data pendapatan nasionalsebagai berikut (dalam jutaan).Gaji pegawaiUS$200.000Konsumsi masyarakat US$215.000KeuntunganUS$46.000SewaUS$36.400Konsumsi pemerintah US$97.600Bunga modalUS$33.500PertambanganUS$25.200EksporUS$27.500ImporUS$33.700Hitunglah pendapatan nasional menggunakanpendekatan pendapatan!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#data-pdb-suatu-negara-menunjukkan-sebagai-berikut-produk-domestik-brutto-us-2-000-000-penerimaan-warga-negara-di-luar-negeri-us-1-200-000-penerimaan-wna-di-dalam-negeri-us-800-000-penyusut">17.
+                                            Data PDB suatu Negara menunjukkan sebagai berikut:
+- Produk Domestik Brutto US$ 2.000.000
+- Penerimaan warga Negara di luar negeri US$ 1.200.000
+- Penerimaan WNA di dalam negeri US$ 800.000
+- Penyusutan US$ 300.000
+- Pajak langsung US$ 50.000
+- Pajak tidak langsung US$ 70.000
+Besarnya Net National Income (NNI) adalah ….
+A. US$ 2.770.000 C. US$ 2.030.000
+B. US$ 2.170.000 D. US$ 1.980.000 E. US$ 1.630.000
+Tolong pakai caranya, Terima kasih</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#di-negara-berkembang-pendapatan-penduduk-gnp-biasanya-a-%c2%a0us500b-us1000c-us1000-us2000d-us2000">18.
+                                            di negara berkembang pendapatan penduduk (gnp) biasanya....a. &lt; US$500b. &lt; US$1000c. US$1000-US$2000d. &gt; US$2000</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#us100-us200-berarti-berapa-rupiah">19.
+                                            US$1,00 - US$2,00 berarti berapa rupiah?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-ini-adalah-data-keuangan-suatu-negara-gdp-us350-000-jumlah-produksi-perusahaan-asing-di-dalam-negeri-us120-000-jumlah-pendapatan-warga-negara-tersebut-di-luar-negeri-us140-000-penyu">20.
+                                            Berikut ini adalah data keuangan suatu negara - GDP US$350.000 - Jumlah produksi perusahaan asing di dalam negeri US$120.000 - Jumlah pendapatan warga negara tersebut di Luar negeri US$140.000 - Penyusutan US$80.000 - Pajak tidak langsung US$50.000 - Pajak langsung US$60.000 - Laba ditahan US$20.000 - Transfer payment US$110.000 - Iuran pensiun US$25.000 Hitunglah; GNP , NNP, NNI, PI, DI ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#negara-y-memiliki-pendapatan-nasional-sebagai-berikut%ef%81%b5wages-us-120-00000%ef%81%b5-consumption-us-125-00000%ef%81%b5profit-us-37-50000%ef%81%b5rent-us-17-80000%ef%81%b5government-expen">21.
+                                            Negara Y memiliki pendapatan nasional sebagai berikut:Wages US $120.000,00 Consumption US $125.000,00Profit US $37.500,00Rent US $17.800,00Government expenditure US $68.500,00Investment US $55.000,00Interest of capital US $27.200,00Export US $23.500,00Import US $25.000,00berdasarkan data di atas, jumlah pendapatan nasional negara Y jika dihitung dengan menggunakan pendekatan pengeluaran adalah... </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kenapa-soal-ujian-sekolah-us-gapernah-ada-padahal-us-tahun-lalu-juga-bisa-membantu-untuk-us-tahun-berikutnyaaa-bukan-cuma-un-saja">22.
+                                            Kenapa soal Ujian Sekolah (US) gapernah ada padahal US tahun lalu juga bisa membantu untuk US tahun berikutnyaaa bukan cuma UN saja.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#seorang-turis-amerika-tiba-di-bali-dan-menukarkan-us-100-00000-di-salah-satu-bank-di-bali-catatan-kurs-saat-itu-beli-1-us-rp-9-00000tengah-1-us-rp-9-125-00jual-1-us-rp-9-25000selama">23.
+                                            Seorang turis Amerika tiba di Bali dan menukarkan US $100.000,00 di salah satu Bank di Bali.Catatan kurs saat itu :Beli 1 US $ = Rp 9.000,00Tengah 1 US $ = Rp 9. 125.00Jual 1 US $ = Rp 9.250,00Selama di Bali Turis tersebut membelanjakan uangnya sebanyak Rp 810.000.000,00. Jika ia menukarkan kembali sisa uangnya dengan dolar Amerika Serikat apabila catatan kurs yang berlaku :Beli 1 US $ = Rp 8.750,00Tengah 1 US $ = Rp 8.875,00Jual 1 US $ = Rp 9.000,00Besarnya uang yang dibawa turis tersebut dalam US $ adalah …A. US $ 8.000B. US $ 9.000C. US $ 10.000D. US $ 11.000E. US $ 12.000​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#9-diketahui-data-keuangan-negara-bangladesh-sebagai-berikut-dalam-jutaan1-personal-income-pi-sebesar-us-510-0002-pendapatan-warga-negara-bangladesh-di-luar-negeri-sebesar-us-390-0003-pendapat">24.
+                                            9 Diketahui data keuangan Negara Bangladesh sebagai berikut (dalam jutaan)1) Personal income (PI) sebesar US$ 510.0002) Pendapatan warga negara Bangladesh di luar Negeri sebesar US$ 390.0003) Pendapatan warga negara Asing Di negara Bangladesh terdiri atas negara Singapura US$ 55.000, Inggris US$ 80.000, Prancis US$ 75.000 dan Tiongkok US$ 85.0004) Transfer payment US$ 12.000 dan pajak langsung US$ 130Besar pendapatan per kapita negara Bangladesh jika Gross Domestic Product (GDP) US$ 1.450.000 juta dan jumlah penduduknya mencapai 300 juta adalah….a. US$ 133,3b. US$ 816,6c. US$ 150 d. US$ 516,6e. US$ 3.850 C​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#data-pendapatan-nasional-negara-x-sebagai-berikut-dalam-miliarkonsumsi-rumah-tangga-us10-850-bunga-us500eksport-us4-100import-us3-050pengeluaran-pemerintah-us4-850pembelian-peralatan-produksi-u">25.
+                                            Data Pendapatan nasional negara X sebagai berikut (dalam miliar)Konsumsi rumah tangga US$10.850 Bunga US$500Eksport US$4.100Import US$3.050Pengeluaran pemerintah US$4.850Pembelian peralatan produksi US$2.200Besarnya pendapatan nasional dengan pendekata pengeluaran adalah…</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#my-father-has-three-children-%e2%80%a6%e2%80%a6-loves-%e2%80%a6-very-much-%c2%a0a-he-%e2%80%93-usb-him-%e2%80%93-usc-she-%e2%80%93-usd-her-%e2%80%93-us%e2%80%8b">26.
+                                            My father has three children. …….loves …..very much. *A. He – usB. Him – usC. She – usD. Her – us​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#us20-35-rp-us25-76-rp">27.
+                                            US$20.35 = Rp......................
+US$25.76 = Rp.......................</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#negara-a-mencatat-pendapatan-warga-negara-nya-di-singapura-sebesar-us-800-vietnam-us-700-dan-thailand-us-850-negara-a-juga-mencatat-pendapatan-wna-di-negara-a-antara-lain-warga-negara-australia">28.
+                                            Negara A mencatat pendapatan warga negara nya di singapura sebesar US $800, vietnam US $700, dan Thailand US $850. Negara A juga mencatat pendapatan WNA di negara A antara lain warga negara Australia US $1.050, India US $960, dan malaysia US $750. Data keuangan lainnya yaitu PDB US $5.200, Penyusutan US $1.450, pajak tidak langsung US $170, Pajak langsung US $230, Subsidi US $80, laba ditahan US $150, asuransi US $95, dan transfer payment US $3.100. Berdasarkan data tersebut, besar personal income (Pi) adalah? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tugas-ekonomi-kelas-xi-pertemuan-ke-3-berikut-urutan-pendapatan-per-kapita-negara-asia-tenggara-singapura-us93-680-brunei-darussalam-us77-700-malaysia-us30-430-thailand-us18-730-indonesia">29.
+                                            TUGAS EKONOMI KELAS XI Pertemuan ke 3 Berikut urutan pendapatan per kapita negara Asia Tenggara: Singapura - US$93.680 Brunei Darussalam - US$77.700 Malaysia - US$30.430 Thailand - US$18.730 Indonesia - US$13.120 Philipina - US$8.780 Laos - US$7.910 Vietnam - US$7.380 Myanmar - US$6.850 Timor Leste - US$4.990 Kamboja - US$4.300 Klasifikasikan Negara Negara tersebut apakah termasuk low income, lower middle income, upper middle income atau high income !</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#negara-a-mencatat-pendapatan-warga-negaranya-di-singapura-sebesar-us-800-vietnam-sebesar-us-700-dan-thailand-sebesar-us-850-negara-a-juga-mencatat-pendapatan-wna-di-negara-a-antara-lain-warga-ne">30.
+                                            Negara A mencatat pendapatan warga negaranya di Singapura sebesar US $ 800, Vietnam sebesar US% 700 dan Thailand sebesar US $ 850. Negara A juga mencatat pendapatan WNA di negara A antara lain warga negara Australia US $ 1.050, India US $ 960, dan Malaysia US $ 750. Data keuangan lainnya yaitu PDB US $ 5.200, Penyusutan US $ 1.450, Pajak tidak Langsung US $ 170, Pajak langsung US $ 230, subsidi US $ 80, Laba di tahan US $ 150, Asuransi US $ 95, dan Transfer Paymen US $ 3.100. Berdasarkan data tersebut, berapa besar Personal Income (PI)?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#data-pendapatan-pengeluaran-dan-prediksi-suatu-negara-sebagai-berikut-%e2%80%a2-gross-domestic-product-us-1-500-000000%e2%80%a2-gross-national-product-us-850-000000%e2%80%a2-penyusutan-bar">31.
+                                            Data pendapatan, pengeluaran dan prediksi suatu Negara sebagai berikut :• Gross Domestic Product = US $ 1.500.000,000• Gross National Product = US $ 850.000,000• Penyusutan Barang Modal = US $ 100.000,000• Pajak Tidak Langsung = US $ 50.000,000• Transfer Payment = US $ 75.000,000• Laba ditahan = US $ 25.000,000• Asuransi = US $ 15.000,000• Pajak langsung = US $ 25.000,000Tentukan besarnya NNI, NNP, PI dan DI !</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#seorang-turis-amerika-tiba-di-bali-dan-menukarkan-us100-00000-di-salah-satu-bank-di-bali-catatan-kurs-saat-itubeli-1-us-rp9-00000-tengah-1-us-rp9-12500-dan-jual-1-us-rp9-25000-selama">32.
+                                            Seorang turis Amerika tiba di Bali dan menukarkan US100.000,00 di salah satu Bank di Bali. 
+Catatan kurs saat itu:
+Beli 1 US$ = Rp9.000,00 tengah 1 US$ =Rp9.125,00 dan jual 1 US$ = Rp9.250,00. Selama di Bali, turis tersebut membelanjakan uangnya sebanyak Rp828.000.000,00. Berapa US$ dibawa turis tersebut jika ia menukarkan kembali sisa uangnya dengan dolar Amerika Serikat bila catatan kurs yang berlaku:
+Beli 1 US$ = Rp8.750,00, tengah 1 US$ = Rp8.875,00, dan jual 1 US$ = Rp9.000,00
+A. US$ 5.000
+B. US$ 10.000
+C. US$ 8.000
+D. US$ 12.000
+E. US$ 9.000</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pendapatan-perkapita-negara-jerman-adalah-a-us34110b-us25433c-us26986%e2%80%8b">33.
+                                            pendapatan perkapita negara jerman adalah a. US$34,110b. US$254,33c. US$26,986​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#data-pendapatan-pengeluaran-dan-produksi-suatu-negara-sebagai-berikutgdp-us1-500-000-000gnp-us850-000-000penyusutan-barang-modal-us100-000-000pajak-tidak-langsung-us50-000-000transfer-pa">34.
+                                            data pendapatan, pengeluaran dan produksi suatu negara sebagai berikut:GDP : US$1.500.000.000GNP : US$850.000.000PENYUSUTAN BARANG MODAL : US$100.000.000PAJAK TIDAK LANGSUNG : US$50.000.000TRANSFER PAYMENT : US$75.000.000LABA DI TAHAN : US$25.000.000ASURANSI : US$15.000.000PAJAK LANGSUNG: US$25.000.000BERDASARKAN DATA DI ATAS, BESAR DISPOSIBLE INCOME ADALAH....</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#negara-memiliki-data-pn-sebagai-berikut-dalam-jt-gaji-pegawai-us-200-000-konsumsi-masyarakat-us-215-000-keuntungan-us-46-000-sewa-us-36-400-konsumsi-pemerintah-us-97-600-bunga-modal-us-33-500">35.
+                                            Negara memiliki data PN sebagai berikut (dalam jt) Gaji pegawai US $200.000 Konsumsi masyarakat US $215.000 Keuntungan US $46.000 Sewa US $36.400 Konsumsi pemerintah US $97.600 Bunga modal US $33.500 Pertambangan US $25.200 Ekspor US $27.500 Impor US $33.700 Menggunakan pendekatan pendapatan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#us-500-itu-berapa-rupiah-us-500-itu-sama-dengan-rp-6-800-000">36.
+                                            US $500 itu berapa rupiah, US $500 itu sama dengan Rp. 6.800.000</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#us3-50kalo-di-indonesia-us3-50-itu-berapa">37.
+                                            US$3.50
+Kalo di indonesia US$3.50 itu berapa?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#gdpus130-000penerimaan-warganegara-di-luar-negerius28-000penerimaan-warga-wnadi-dalam-negerius43-000pajak-langsungus1-500-pajak-tidak-langsungus2-250penyusutan-barang-modalus840dar">38.
+                                            GDP=US$130.000
+Penerimaan warga
+negara di luar negeri=US$28.000
+Penerimaan warga WNA
+Di dalam negeri=US$43.000
+Pajak langsung=US$1.500 
+Pajak tidak langsung=US$2.250
+Penyusutan barang modal=US$840
+Dari data di atas maka besar NNI adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bank-dunia-mengelompokkan-suatu-negara-dengan-tingkat-pendapatan-rendah-jika-pnb-per-kapita-a-kurang-dari-us625b-antara-us726-dan-us2-895c-antara-us2-896-dan-us8-955d-lebih-dari-us8-955e">39.
+                                            Bank Dunia mengelompokkan suatu negara dengan tingkat pendapatan rendah, jika PNB per kapita ...a. kurang dari US$625b. antara US$726 dan US$2.895c. antara US$2.896 dan US$8.955d. lebih dari US$8.955e. kurang dari US$520</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#us1-99kalo-diindonesia-us1-99-berapa">40.
+                                            US$1.99
+kalo diIndonesia US$1.99 berapa?</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="nilai-tukar-us12-sama-dengan-rp156-00000maka-nilai-tukarrp455-00000-us20us25us30us35%e2%80%8b">
+                            1. Nilai tukar US$12 sama dengan Rp156.000,00,maka nilai tukarRp455.000,00 = ....US$20US$25US$30US$35​</h2><br />
+                        <p>1.$30</p><p>maaf jika salah kak,cmiww</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="7-data-pendapatan-pengeluaran-dan-produksisuatu-negara-sebagai-berikut-gdp-us-1-500-000-000-gnp-us-850-000-000-penyusutan-barang-modal-us-100-000-000-pajak-tidak-langsung-us-50-000-000-transfer">
+                            2. 7. Data pendapatan, pengeluaran, dan produksisuatu negara sebagai berikut.GDP US $1.500.000.000.GNP US $850.000.000.Penyusutan barang modal US $100.000.000.Pajak tidak langsung US $50.000.000.Transfer Payment US $75.000.000.Laba ditahan US $25.000.000.Asuransi US $15.000.000.Pajak langsung US $25.000.000.Berdasarkan data di atas, besar disposible Incomeadalaha. US $625.000.000  d. US $710.000.000b. US $645.000.000  e. US $735.000.000C. US $650.000.000TL1​</h2><br />
+                        <p>Jawaban: d. $710.000.000</p><p></p><p>Penjelasan: gnp - penyusutan = nnp</p><p>Nnp - laba ditahan - asuransi + transfer payment = pi</p><p>Di = pi - pajak langsung</p><br />
+                                            <h2 class="ez-toc-section" id="bank-dunia-mengelompokkan-suatu-negara-dengan-tingkat-pendapatan-rendah-jika-pnb-per-kapita-a-kurang-dari-us725b-antara-us726-dan-us2-895c-antara-us-2896-dan-us8955d-lebih-dari-us8955e">
+                            3. Bank Dunia mengelompokkan suatu negara dengan tingkat pendapatan rendah jika PNB per kapita...a.  kurang dari US$725b.  antara US$726 dan US$2.895c.  antara US$.2896 dan US$8955d.  lebih dari US$8955e.  US$116.410.000</h2><br />
+                        Bank Dunia mengelompokkan suatu negara dengan tingkat pendapatan rendah jika PNB per kapita...
+a. kurang dari US$725
+b. antara US$726 dan US$2.895
+c. antara US$.2896 dan US$8955
+d. lebih dari US$8955
+e. US$116.410.000JawabanPendahuluan<p>Pendapatan perkapita adalah pendapatan rata-rata yang dihasilkan penduduk di suatu negara. pendapatan perkapita dihasilkan dari perhitungan pembagian pendapatan nasional suatu negara dengan jumlah penduduk yang ada di negara tersebut. Bank Dunia mengelompokkan negara-negara berdasarkan besarnya pendapatan perkapitanya.</p>Pembahasan<p>Setiap tahun pada tanggal 1 juli bank dunia merevisi klasifikasi ekonomi dunia  didasarkan pada perkiraan pendapatan nasional bruto (PNB) per kapita untuk tahun sebelumnya.</p><p>Tinggi rendahnya pendapatan perkapita menurut bank dunia adalah sebagai berikut :</p>LOW INCOME atau Negara Berpedapatan Rendah, yakni Negara yang GNP per kapitanya adalah $765 atau di bawahnya.LOW MIDDLE INCOME atau Negara Berpendapatan Menengah Rendah, yakni Negara dengan GNP per kapitanya antara $766 hingga $ 3.035.UPPER MIDDLE INCOME atau Negara Berpendapatan Menengah Tinggi, yakni Negara dengan GNP per kapita antara $3.036 hingga $9.385.HIGH INCOME atau Negara Berpendapatan Tinggi, yakni Negara dengan GNP per kapita $9.386 atau lebih dari itu.Kesimpulan<p>Karena setiap tahun Bank Dunia merevisi kualifikasi ini, maka berdasarkan soal Bank Dunia mengelompokkan suatu negara dengan tingkat pendapatan rendah jika PNB per kapita kurang dari US$725.</p><p>Maka jawaban yang paling tepat dan sesuai dengan soal diatas adalah </p>A. Kurang dari US$725.Pelajari lebih lanjutMateri tentang pendapatan nasional brainly.co.id/tugas/2545013Materi tentang negara berkembang brainly.co.id/tugas/2942987Materi tentang pendapatan perkapita menurut bank dunia https://brainly.co.id/tugas/16797058Detil Jawaban<p><strong>Kelas : XI (2 SMP)</strong></p><p><strong>Mapel : IPS</strong></p><p><strong>Bab : Pendapatan Nasional</strong></p><p><strong>Kode : 11.12.1</strong></p><p><strong>Kata Kunci : Bank Dunia, Pendapatan Per Kapita.</strong></p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-data-milik-suatu-negara-sebagai-berikut-dalam-miliar-gdp-us-2-000-iuran-asuransi-us100-pendapatan-wna-us220-pendapatan-wn-diluar-negeri-us-150-penyusutan-us80-jaminan-sosial-us">
+                            4. Diketahui data milik suatu negara sebagai berikut (dalam miliar ). GDP US$ 2.000; Iuran asuransi US$100; Pendapatan WNA US$220; Pendapatan WN diluar negeri US$ 150; Penyusutan US$80; Jaminan sosial US$40; Transfer payment US$30; Pajak tidak langsung US$65; Laba ditahan US$80; Pajak langsung US$25; Subsidi US$40. Hitunglah jumlah pendapatan yang siap dibelanjakan oleh masyarakat</h2><br />
+                        <p><strong>Jawaban</strong>:</p><p>Pendapatan yang siap dibelanjakan oleh masyarakat atau yang disebut juga Disposable Income adalah <strong>US$2.050</strong>. Disposable Income yang diperoleh dari personal income (PI) dikurangi dengan pajak langsung. </p><p></p><p><strong>Penjelasan</strong>:</p><p>Perhitungannya dalam US$ :</p><p>GNP = GDP + produk/pendapatan WNI di Luar Negri - produk/pendapatan WNA di dalam negeri.</p><p>         = 2.000 + 150 – 220</p><p>         = 1.930</p><p></p><p>NNP = (GNP – penyusutan) – barang pengganti modal</p><p>        = 1.930 – 80</p><p>        = 1.850</p><p></p><p>NNI = NNP – pajak tidak langsung + subsidi</p><p>       = 1.850 – 65 + 40</p><p>       = 1.825</p><p></p><p>PI = (NNI + transfer payment) – (iuran jaminan sosial + iuran asuransi + laba ditahan)</p><p>    = (1.825 + 30) – (40 + 100 + 80)</p><p>    = 1.855 – 220</p><p>    = 2.075</p><p></p><p>DI = PI – pajak langsung</p><p>    = 2.075 – 25</p><p>    = 2.050</p><p></p><p>Pelajari lebih lanjut contoh soal lainnya https://brainly.co.id/tugas/10413501</p><p></p><p>#BelajarBersamaBrainly</p><br />
+                                            <h2 class="ez-toc-section" id="jadwal-usus-singkatan-dari-%e2%80%8b">
+                            5. jadwal USUS singkatan dari ​</h2><br />
+                        <p>ujian sekolah</p><p>maaf jika ada kesalahan</p><p></p><p>Ulangan sekolah </p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="negara-yowisben-memiliki-pendapatan-nasional-sebagai-berikut-wagesus-120-00000-consumptionus-25-00000-profitus-37-50000-rentus-17-80000-government-expenditureus-68-500">
+                            6. Negara YOWISBEN memiliki pendapatan nasional sebagai berikut: -	Wages	US $120.000,00 -	Consumption	US $  25.000,00 -	Profit	US $  37.500,00 -	Rent	US $  17.800,00 -	Government expenditure	US $  68.500,00 -    National Income	US $192.000,00 -	Investment	US $  55.000,00 -	Interest of capital	US $  27.200,00	 -	Import	US $  25.000,00  Berdasarkan data di atas, jumlah ekspor negara YOWISBEN jika dihitung dengan menggunakan pendekatan pengeluaran adalah</h2><br />
+                        192.000,00 = 68.500,00 + 55.000,00 + 25.000,00 + (E - 25.000,00 <br />192.000,00 = 123.500,00 + E<br />E = 68.500,00<br />
+                                            <h2 class="ez-toc-section" id="negara-maju-mempunyai-gnpa-kurang-lebih-us-8-500b-lebih-dari-us-8-500c-kurang-dari-us-10-726d-lebih-dari-us-10-726tolong-dijawab-yh-kak2-%e2%80%8b">
+                            7. negara maju mempunyai GNPA.kurang lebih US $8.500B.lebih dari US $ 8.500C.kurang dari US $10.726D.lebih dari US $ 10.726tolong dijawab yh kak2 ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>B.lebih dari US $8.500</p><p></p><p>maaf kalu salah</p><br />
+                                            <h2 class="ez-toc-section" id="negara-memiliki-data-pendapatan-nasional-sebagai-berikut-dalam-jutaan-gaji-pegawai-us200-000konsumsi-masyarakat-us215-000-keuntungan-us">
+                            8. Negara memiliki data pendapatan nasional sebagai berikut (dalam jutaan).
+Gaji Pegawai                         US$200.000
+Konsumsi Masyarakat          US$215.000 
+Keuntungan                          US$46.000
+Sewa                                      US$36.400
+Konsumsi Pemerintah          US$97.600
+Bunga Modal                         US$33.500
+Pertambangan                      US$25.200
+Ekspor                                   US$27.500
+Impor                                     US$33.700
+Hitunglah pendapatan nasional menggunakan pendekatan pendapatan!</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>315.900</p><p><strong>Penjelasan:</strong></p><p>pendekatan pendapatan:</p><p>GNP = sewa + gaji + bunga + keuntungan = 36.400 + 200.000 + 33.500 + 46.000 = 315.900</p><p>semoga ga salah itung</p><br />
+                                            <h2 class="ez-toc-section" id="diketahui-kurs-beli-us-11-600sedangkan-kurs-jual-us-11-850berapa-rupiah-rahma-harus-membayar-jika-ia-membutuhkan-us-3500berapa-rupiah-mega-harus-menerim-jika-ia-menukarkan-us-3500">
+                            9. diketahui kurs beli US$ 11.600sedangkan kurs jual US$ 11.850
+berapa rupiah rahma harus membayar jika ia membutuhkan US$ 3500
+berapa rupiah mega harus menerim.  jika ia menukarkan US$ 3500</h2><br />
+                        53.289.075,00<br />Rupiah Indonesia<br />
+                                            <h2 class="ez-toc-section" id="data-pendapata-pengeluaran-dan-produksi-negara-sebagai-berikutgross-domestict-product-us-1-500-000-000gross-national-product-us-850-000-000penyusutan-barang-modal-us-100-000-000pajak-tidak-lan">
+                            10. Data pendapata, pengeluaran dan produksi negara sebagai berikut:gross domestict product us $ 1.500.000.000gross national product us $ 850.000.000penyusutan barang modal us $ 100.000.000pajak tidak langsung us $ 50.000.000transfer payment us $ 75.000.000laba ditahan us $ 25.000.000asuransi us $. 15.000.000pajak langsung us $ 25.000.000berdasarkan data di atas, tentukan besarnya nni,nnp,pi dan di!</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>NNP = $750,000,000</p><p>NNI = $700,000,000</p><p>PI = $735,000,000</p><p>DI = $710,000,000</p><p><strong>Penjelasan:</strong></p><p>NNP = GNP - depresiasi </p><p>= $850,000,000 - $100,000,000</p><p><strong>= $750,000,000</strong></p><p>NNI = NNP - pajak tidak langsung + subsidi</p><p>= $750,000,000 - $50,000,000</p><p><strong>= $700,000,000</strong></p><p>PI = NNI + trf payment - pajak perseroan - jaminan sosial - laba ditahan - asuransi </p><p>= $700,000,000 + $75,000,000 - $25,000,000 - $15,000,000</p><p><strong>= $735,000,000</strong></p><p>DI = PI - pajak langsung</p><p>= $735,000,000 - 25,000,000</p><p><strong>= $710,000,000 </strong></p><p></p><p><strong>Semoga membantu</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="data-pendapatan-pengeluaran-dan-produksi-suatu-negara-sebagai-berikut-gnp-us-850-000-000-peny-brg-modal-us-100-000-000-p-tidak-langsung-us-50-000-000-transfer-payment-us-75-000-000-laba-d">
+                            11. Data pendapatan, pengeluaran, dan produksi suatu negara sebagai berikut: GNP US $850.000.000; Peny. Brg Modal US $100.000.000; P. Tidak Langsung US $50.000.000; Transfer Payment US $75.000.000; Laba Ditahan US $25.000.000; Asuransi US $15.000.000; Pajak Langsung US $25.000.000. Berdasarkan data tersebut, besar disposible income adalah ....</h2><br />
+                        <p>nnp: gnp - penyusutan</p><p>=850.000 - 100.000 </p><p>=750.000</p><p></p><p>nni: nnp - pajak tidak langsung</p><p>=750.000 - 50.000</p><p>=700.000</p><p></p><p>Pi: nni + transfer payment - laba ditahan - asuransi</p><p>=700.000 + 75.000 - 25.000 - 15.000</p><p>=735.000</p><p></p><p>di: pi-pajak langsung</p><p>=735.000 - 25.000</p><p>= 710.000</p><p></p><p></p><p>jawaban: 710.000.000</p><br />
+                                            <h2 class="ez-toc-section" id="negara-a-mencatat-pendapatan-warga-negaranya-di-singapura-sebesar-us-800-vietnam-sebesar-us-700-dan-thailand-sebesar-us-850-negara-a-juga-mencatat-pendapatan-wna-di-negara-a-antara-lain-warga-neg">
+                            12. Negara a mencatat pendapatan warga negaranya di singapura sebesar us$ 800 vietnam sebesar us$ 700. dan thailand sebesar us$ 850. negara a juga mencatat pendapatan wna di negara a antara lain warga negara australia us$ 1.050 india us$960.dan malaisya us$ 750. penyusutan us$1.450 pajak tidak langsung us$ 170. pajak langsung us$230. subsidi us$80 laba di tahan us$3.100 berdasarkan data tersebut besar personal income (pi) adalah</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Sistem ekonomi terpusat biasanya diterapkan di negara-negara blok komunis sebagai lawan dari ekonomi pasar (yang ini juga banyak variasinya). </p><p></p><p>ini adalah cerita lama ketika perang dingin (antara blok kapitalis dan komunis) )yang berakhir secara simbolis dramatis dengan robohnya tembok berlin pada 9 november 1989 (ingat lagu wind of change by scorpion) diikuti bangkrutnya uni soviet yang kini terpecah menjadi beberapa negara. </p><p></p><p>negara-negara blok komunis menerapkan ekonomi terpusat dengan alasan ideologi dan keyakinan bahwa sistem itu akan lebih menjamin pemerataan kesejahteraan bagi masyarakat. namun terbukti kemudian bahwa sistem itu gagal sebagaimana berakhirnya perang dingin. </p><p></p><p>setelah perang dingin berakhir, sistem ekonomi terpusat jarang diterapkan secara utuh. alternatifnya adalah sistem ekonomi campuran (mix economy) yang menerapkan sistem ekonomi terpusat pada sektor tertentu, dikombinasikan dengan sistem ekonomi pasar pada sektor lainnya. contoh terbaik mix economy adalah china yang membuka kawasan ekonomi khusus seperti guangzhou dan shenzen yang menerapkan ekonomi pasar. di luar kawasan ekonomi khusus, yang dipakai adalah sistem ekonomi terpusat. slogannya, tak penting kucingnya berwarna apa, yang penting bisa menangkap tikus (deng xiao ping). </p><p></p><p>langkah yang sama dilakukan negara seperti vietnam. yang masih ketat menggunakan ekonomi terpusat tampaknya tinggal kuba. tapi, semakin hari kuba kian mendekati sistem campuran. </p><p></p><p>ada juga yang sistem ekonomi pasarnya bergeser menjadi campuran, seperti venezuela di bawah hugo chavez sekarang. </p><p></p><p>umumnya penggunaan sistem itu lebih karena ideologi dan keyakinan. semua sistem ada kekuatan dan kelemahannya, tergantung penerapannya saja. tapi kalau boleh memilih, sistem ekonomi campuran akan lebih baik untuk negara-negara berkembang.</p><p></p><p><strong>m</strong><strong>o</strong><strong>g</strong><strong>a</strong><strong> </strong><strong>m</strong><strong>e</strong><strong>m</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong>t</strong><strong>u</strong><strong></strong><strong>m</strong><strong>a</strong><strong>a</strong><strong>f</strong><strong> </strong><strong>k</strong><strong>l</strong><strong>k</strong><strong> </strong><strong>s</strong><strong>a</strong><strong>l</strong><strong>a</strong><strong>h</strong><strong></strong></p><br />
+                                            <h2 class="ez-toc-section" id="data-pendapatan-pengeluaran-dan-produksi-suatu-negara-sebagai-berikutgross-domestict-product-us-1-600-000-000gross-national-product-us-750-000-000penyusutan-barang-modal-us-200-000-000paja">
+                            13. Data pendapatan, pengeluaran dan produksi suatu Negara sebagai berikut:
+Gross Domestict Product US $ 1.600.000.000
+Gross National Product US $ 750.000.000
+Penyusutan Barang Modal US $ 200.000.000
+Pajak Tidak Langsung US $ 60.000.000
+Transfer Payment US $ 65.000.000
+Laba ditahan US $ 35.000.000
+Pajak atas laba US $ 25.000.000
+Asuransi US $ 15.000.000
+Pajak Langsung US $ 20.000.000
+Berdasarkan data di atas, tentukan besarnya NNP, NNI, PI dan DI !</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p>50000.###742 kuncinya</p><p></p><p><strong>Jawaban:</strong></p><p>742 kuncinya</p><p></p><p></p><p>maaf kalo salah</p><br />
+                                            <h2 class="ez-toc-section" id="cotton-table-clothes-us-60-00-order-no-632b17-1-dozen-small-cotton-towels-us-24-00-date-of-purchase-5-oct-2017-invoice-no-7899-1-dozen-packing-charge-us-5-50-discount-10-woollen-socks-us">
+                            14. Cotton table clothes US $ 60.00 Order No. 632/B/17 1 Dozen Small Cotton towels US $ 24.00 Date of purchase: 5 Oct. 2017 Invoice No. 7899 1 Dozen Packing Charge: US $ 5.50 Discount 10 % Woollen socks US $ 36.00 US $ 5.00 US $ 2.00 US $ 3.00 1 Dozen Delivery charge: US $ 10.00 Total Amount: US $ 123.50​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>itu yang paling atas dikasih tanggal</p><p></p><p>5 Oct 2017</p><p><strong>Penjelasan:</strong></p><p>jadikan terbaik</p><br />
+                                            <h2 class="ez-toc-section" id="7-data-pendapatan-nasional-negara-x-sebagaiberikut-dalam-miliar-konsumsi-rumah-tanggaus9-200bungaus500eksporus4-100imporus3-050pengeluaran-pemerintah-us4-850pembelian-peralatan-produksi-us2-2">
+                            15. 7. Data pendapatan nasional negara X sebagaiberikut (dalam miliar).Konsumsi rumah tanggaUS$9.200BungaUS$500EksporUS$4.100ImporUS$3.050Pengeluaran pemerintah US$4.850Pembelian peralatan produksi US$2.200Besar pendapatan nasional dengan metodependekatan pengeluaran adalah ....a. US$10.850 miliarb. US$13.500 miliarc. US$15.200 miliard. US$15.700 miliare. US$17.300 miliarassalamu'alaikum kakak2 tolong di jawab ya, terimakasih​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>b.us$.13.500</p><p><strong>Penjelasan:</strong></p><p>maafkalau salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="2-negara-memiliki-data-pendapatan-nasionalsebagai-berikut-dalam-jutaan-gaji-pegawaius200-000konsumsi-masyarakat-us215-000keuntunganus46-000sewaus36-400konsumsi-pemerintah-us97-600bunga-modalu">
+                            16. 2.) Negara memiliki data pendapatan nasionalsebagai berikut (dalam jutaan).Gaji pegawaiUS$200.000Konsumsi masyarakat US$215.000KeuntunganUS$46.000SewaUS$36.400Konsumsi pemerintah US$97.600Bunga modalUS$33.500PertambanganUS$25.200EksporUS$27.500ImporUS$33.700Hitunglah pendapatan nasional menggunakanpendekatan pendapatan!​</h2><br />
+                        <p><strong>Pendapatan nasional dengan menggunakan pendekatan pendapatan dari soal tersebut adalah US$315.900</strong>. Pendapatan nasional bisa dicari menggunakan metode pengeluaran dan metode pendapatan. Pendapatan nasional metode pendapatan atau penerimaan adalah penjumlahan dari sewa, bunga modal, upah dan laba yang diterima rumah tangga ekonomi selama satu tahun.</p><p></p><p><strong>Pembahasan</strong></p><p>Rumus umum mencari pendapatan nasional dengan metode pendekatan yaitu :</p><p>Y = r + w + i + p</p><p>dimana </p><p>Y = pendapatan nasional.</p><p>r = rent atau sewa yang diterima.</p><p>w = wages atau upah atau gaji.</p><p>i = interest atau modal bunga.</p><p>p = profit atau laba atau keuntungan</p><p></p><p>Dari data yang sudah diketahui dapat dimasukkan dalam rumus diatas :</p><p>Y = r + w + i + p</p><p>   = $36.400 + $200.000 + $33.500 + $46.000 </p><p>   = $315.900</p><p>Diperoleh pendapatan nasionalnya sebesar US$315.900 (dalam jutaan). Semoga bisa dipahami dan dimengerti, terima kasih.</p><p></p><p><strong>Pelajari lebih lanjut</strong></p><p>1. Contoh soal lainnya https://brainly.co.id/tugas/2298478</p><p>2. Contoh soal lainnya https://brainly.co.id/tugas/22656444</p><p>3. Contoh soal mencari pendapatan nasional dengan pendekatan pendapatan https://brainly.co.id/tugas/16895811</p><p>-----------------------------</p><p></p><p><strong>Detil Jawaban </strong></p><p><strong>Kelas</strong> : 11</p><p><strong>Mapel</strong> : Ekonomi </p><p><strong>Bab</strong> : 1. Pendapatan Nasional </p><p><strong>Kode</strong> : 11.12.1</p><p></p><p><strong>Kata Kunci :</strong> pendapatan nasional, pendekatan pendapatan, sewa, gaji, bunga modal</p><br />
+                                            <h2 class="ez-toc-section" id="data-pdb-suatu-negara-menunjukkan-sebagai-berikut-produk-domestik-brutto-us-2-000-000-penerimaan-warga-negara-di-luar-negeri-us-1-200-000-penerimaan-wna-di-dalam-negeri-us-800-000-penyusut">
+                            17. Data PDB suatu Negara menunjukkan sebagai berikut:
+- Produk Domestik Brutto US$ 2.000.000
+- Penerimaan warga Negara di luar negeri US$ 1.200.000
+- Penerimaan WNA di dalam negeri US$ 800.000
+- Penyusutan US$ 300.000
+- Pajak langsung US$ 50.000
+- Pajak tidak langsung US$ 70.000
+Besarnya Net National Income (NNI) adalah ….
+A. US$ 2.770.000 C. US$ 2.030.000
+B. US$ 2.170.000 D. US$ 1.980.000 E. US$ 1.630.000
+Tolong pakai caranya, Terima kasih</h2><br />
+                        <p>besarnya Net National Income (NNI) adalah<strong> US$2.030.000 .Jawaban C</strong></p><p><strong></strong></p><p>.</p>PEMBAHASAN<p>Net National Income (NNI) merupakan hasil dari perhitungan pendapatan yaitu balas jasa yang didapat pemilik faktor produksi.
+</p><p>
+</p><p><strong>Diketahui :</strong></p>- Produk Domestik Brutto (PDB) = US$ 2.000.000
+- Penerimaan warga Negara di luar negeri (PPLN) = US$ 1.200.000
+- Penerimaan WNA di dalam negeri (PPDN) = US$ 800.000
+- Penyusutan = US$ 300.000
+- Pajak langsung = US$ 50.000
+- Pajak tidak langsung = US$ 70.000<p></p><p><strong>Ditanyakan :</strong></p><p>Net National Income (NNI) ?</p><p></p><p><strong>Penyelesaian :</strong></p><p><strong></strong></p><p>Untuk menghitung NNI, maka hitung dulu besarnya GNP, dan NNP nya!</p><p></p><p>[tex]{\boxed{\bold{Menghitung \:Gross \:National \:Product \;(GNP)}}}[/tex]</p><p>[tex]\sf GNP = PDB + (PPLN - PPDN)[/tex]</p><p>[tex]\sf GNP = \$2.000.000 + (\$1.200.000 - \$800.000)[/tex]</p><p>[tex]\sf GNP = \$2.000.000 + \$400.000[/tex]</p><p>[tex]\sf GNP = \$2.400.000[/tex]</p><p></p><p>.</p><p>[tex]{\boxed{\bold{Menghitung \:Net \:National \:Product \;(NNP)}}}[/tex]</p><p>[tex]\sf NNP = GNP - Penyusutan[/tex]</p><p>[tex]\sf NNP = \$2.400.000 - \$300.000[/tex]</p><p>[tex]\sf NNP = \$2.100.000[/tex]</p><p></p><p>.</p><p>[tex]{\boxed{\bold{Menghitung \:Net \:National \:Income \;(NNI)}}}[/tex]</p><p>[tex]\sf NNI = NNP - Pajak \:tidak \:langsung[/tex]</p><p>[tex]\sf NNI = \$2.100.000 - \$70.000[/tex]</p><p>[tex]{\boxed{\bold{\sf NNI = \$2.030.000}}}[/tex]</p><p></p><p>.</p>Kesimpulan<p>Jadi, besarnya Net National Income (NNI) adalah<strong> US$2.030.000 .Jawaban C</strong></p><p><strong></strong></p><p><strong></strong></p><p>-----------------------------------------------------------</p>Pelajari lebih lanjutRumus Pertumbuhan pendapatan perkapita : brainly.co.id/tugas/16672055
+menghitung pendapatan nasional dengan pendekatan pengeluaran berdasarkan data : brainly.co.id/tugas/16753837
+Unsur utama pendapatan nasional  : brainly.co.id/tugas/16652347
+<p></p>DETAIL JAWABANKelas : XIMapel : EkonomiBab : 1 - Pendapatan NasionalKode kategorisasi : 11.12.1Kata kunci : Net National Income<br />
+                                            <h2 class="ez-toc-section" id="di-negara-berkembang-pendapatan-penduduk-gnp-biasanya-a-%c2%a0us500b-us1000c-us1000-us2000d-us2000">
+                            18. di negara berkembang pendapatan penduduk (gnp) biasanya....a. &lt; US$500b. &lt; US$1000c. US$1000-US$2000d. &gt; US$2000</h2><br />
+                        b. biasanya kurang dari US$1000pendptn pnduduk ngra brkmbng biasanya kurang dari US$1000<br />
+                                            <h2 class="ez-toc-section" id="us100-us200-berarti-berapa-rupiah">
+                            19. US$1,00 - US$2,00 berarti berapa rupiah?</h2><br />
+                        <p>Jawaban:14.000</p><p></p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="berikut-ini-adalah-data-keuangan-suatu-negara-gdp-us350-000-jumlah-produksi-perusahaan-asing-di-dalam-negeri-us120-000-jumlah-pendapatan-warga-negara-tersebut-di-luar-negeri-us140-000-penyu">
+                            20. Berikut ini adalah data keuangan suatu negara - GDP US$350.000 - Jumlah produksi perusahaan asing di dalam negeri US$120.000 - Jumlah pendapatan warga negara tersebut di Luar negeri US$140.000 - Penyusutan US$80.000 - Pajak tidak langsung US$50.000 - Pajak langsung US$60.000 - Laba ditahan US$20.000 - Transfer payment US$110.000 - Iuran pensiun US$25.000 Hitunglah; GNP , NNP, NNI, PI, DI ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>aaku  cuma mau pain makasih</p><br />
+                                            <h2 class="ez-toc-section" id="negara-y-memiliki-pendapatan-nasional-sebagai-berikut%ef%81%b5wages-us-120-00000%ef%81%b5-consumption-us-125-00000%ef%81%b5profit-us-37-50000%ef%81%b5rent-us-17-80000%ef%81%b5government-expen">
+                            21. Negara Y memiliki pendapatan nasional sebagai berikut:Wages US $120.000,00 Consumption US $125.000,00Profit US $37.500,00Rent US $17.800,00Government expenditure US $68.500,00Investment US $55.000,00Interest of capital US $27.200,00Export US $23.500,00Import US $25.000,00berdasarkan data di atas, jumlah pendapatan nasional negara Y jika dihitung dengan menggunakan pendekatan pengeluaran adalah... </h2><br />
+                        <p>Jumlah pendapatan nasional negara Y jika dihitung dengan menggunakan pendekatan pengeluaran adalah <strong>US $283.000</strong></p><p></p>Pembahasan<p>Dalam perhitungan pendapatan nasional metode pendekatan pengeluaran dilakukan penjumlahan atas semua pengeluaran dari sektor-sektor ekonomi. Adapun rumus yang digunakan dalam pendekatan pengeluaran adalah :</p><p></p>Y = C + G + I + (X - M)<p></p><p>Keterangan :</p><p><strong>Y = </strong>Pendapatan nasional</p><p><strong>C = </strong>Konsumsi rumah tangga</p><p><strong>G =</strong> Pengeluaran pemerintah</p><p><strong>I =</strong> Investasi</p><p><strong>(X - M) =</strong> (Ekspor - Impor)</p><p></p><p>_______________________________</p><p><strong>Diketahui :</strong></p><p>C = US $125.000</p><p>G = US $68.500</p><p>I = US $55.000</p><p>(X - M) = (US $23.500 -  US $25.000)</p><p></p><p><strong>Ditanyakan :</strong></p><p>Pendapatan nasioanal (Y) ?</p><p></p><p><strong>Penyelesaian :</strong></p><p><strong></strong></p><p>Y = C + G + I + (X - M)</p><p>Y = US $125.000 + US $68.500 +  US $55.000 + (US $23.500 -  US $25.000)</p><p>Y = US $248.500 - US $1.500</p><p><strong>Y = US $283.000</strong></p><p></p><p>Jadi, jumlah pendapatan nasional negara Y jika dihitung dengan menggunakan pendekatan pengeluaran adalah <strong>US $283.000</strong></p><p></p>Pelajari lebih lanjutTiga cara Pendapatan nasional  : brainly.co.id/tugas/26161557Data pendapatan nasional suatu negara dapat digunakan memperoleh informasi mengenai? : brainly.co.id/tugas/20347657Unsur utama pendapatan nasional  : brainly.co.id/tugas/16652347<p></p>DETAIL JAWABAN<p><strong>Mapel :</strong> Ekonomi</p><p><strong>Kelas : </strong>XI</p><p><strong>Bab :</strong> 1 - Pendapatan Nasional</p><p><strong>Kode kategoris : </strong>11.12.1</p><p><strong>Kata kunci :</strong> Pendapatan Nasional, Pendekatan Pengeluaran</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="kenapa-soal-ujian-sekolah-us-gapernah-ada-padahal-us-tahun-lalu-juga-bisa-membantu-untuk-us-tahun-berikutnyaaa-bukan-cuma-un-saja">
+                            22. Kenapa soal Ujian Sekolah (US) gapernah ada padahal US tahun lalu juga bisa membantu untuk US tahun berikutnyaaa bukan cuma UN saja.</h2><br />
+                        mungkin karena kalo ujian sekolah itu soal nya berbeda beda dari sekolah satu dengan yg lainnya, tidak seperti ujian nasional yang soalnya sama di seluruh indonesia walaupun dengan kode yg berbeda :)karena kan dari pemerintah tahun 2006 pasti ada us,un ujian praktek dimana mana pastinya ga mungkin ga ada   <br />
+                                            <h2 class="ez-toc-section" id="seorang-turis-amerika-tiba-di-bali-dan-menukarkan-us-100-00000-di-salah-satu-bank-di-bali-catatan-kurs-saat-itu-beli-1-us-rp-9-00000tengah-1-us-rp-9-125-00jual-1-us-rp-9-25000selama">
+                            23. Seorang turis Amerika tiba di Bali dan menukarkan US $100.000,00 di salah satu Bank di Bali.Catatan kurs saat itu :Beli 1 US $ = Rp 9.000,00Tengah 1 US $ = Rp 9. 125.00Jual 1 US $ = Rp 9.250,00Selama di Bali Turis tersebut membelanjakan uangnya sebanyak Rp 810.000.000,00. Jika ia menukarkan kembali sisa uangnya dengan dolar Amerika Serikat apabila catatan kurs yang berlaku :Beli 1 US $ = Rp 8.750,00Tengah 1 US $ = Rp 8.875,00Jual 1 US $ = Rp 9.000,00Besarnya uang yang dibawa turis tersebut dalam US $ adalah …A. US $ 8.000B. US $ 9.000C. US $ 10.000D. US $ 11.000E. US $ 12.000​</h2><br />
+                        <p><strong>Besarnya uang </strong>yang <strong>dibawa turis </strong>tersebut <strong>dalam US $</strong> adalah (C) US $10.000,00. Simak penjelasan berikut.</p><p></p>Penjelasan dengan langkah-langkah<p>Materi</p><p><strong>Kurs</strong>, menurut Paul R. Krugman dan Maurice, adalah harga mata uang dari suatu negara yang diukur atau dinyatakan dalam mata uang lainnya. </p><p>Kurs erat kaitannya dengan tukar-menukar uang asing di bank atau tempat penukaran uang.  Berikut 3 jenis kurs dan penjelasannya.
+</p><strong>
+Kurs jual</strong> adalah kurs yang dipakai untuk menjual uang asing. Jika kita ingin menukarkan rupiah dengan uang asing, maka digunakan nilai kurs jual. Kurs jual biasanya lebih tinggi daripada kurs beli.
+<strong>Kurs beli </strong>adalah kurs yang dipakai untuk membeli uang asing. Jika kita ingin menukarkan uang asing dengan rupiah, maka digunakan nilai kurs beli.
+<strong>Kurs tengah </strong>adalah nilai tengah antara kurs jual dengan kurs beli. Jika kita melihat daftar nilai kurs tanpa penjelasan detail, maka itu adalah nilai kurs tengah. Nilai kurs ini biasanya dapat kita lihat di daftar kurs mata uang asing pada koran, TV, internet, atau media lainnya.<p>Diketahui</p><p>Uang seorang turis = US $100.000,00.</p><p>Ditukarkan ke rupiah dengan kurs saat itu:</p>Beli 1 US $ = Rp 9.000,00
+Tengah 1 US $ = Rp 9. 125.00
+Jual 1 US $ = Rp 9.250,00<p>Uang dibelanjakan sebanyak Rp 810.000.000,00.</p><p>Uang rupiah sisa ditukarkan kembali ke dolar Amerika Serikat dengan kurs saat itu:</p>Beli 1 US $ = Rp 8.750,00
+Tengah 1 US $ = Rp 8.875,00
+Jual 1 US $ = Rp 9.000,00<p>Ditanya</p><p>Berapa besar uang yang dibawa turis dalam US $?</p><p>Penyelesaian</p><p>&gt;&gt; Menentukan jumlah uang turis saat tiba di Bali (dalam rupiah)</p><p><strong>Tips</strong>: Dolar AS ditukar ke Rupiah → gunakan kurs beli.</p><p>US $100.000,00 = 100.000,00 × Rp9.000,00</p><p>US $100.000,00 = Rp900.000.000,00</p><p>&gt;&gt; Menentukan jumlah uang turis setelah dibelanjakan (dalam rupiah)</p><p>Uang sisa</p><p>= Uang mula-mula - uang belanja</p><p>= Rp900.000.000,00 - Rp 810.000.000,00</p><p>= Rp90.000.000,00</p><p>&gt;&gt; Menentukan jumlah uang sisa turis (dalam dolar AS)</p><p><strong>Tips</strong>: Rupiah ditukar ke Dolar AS → gunakan kurs jual.</p><p>[tex]Rp90.000.000,00 = \frac{90.000.000,00} {9.000,00}[/tex]</p><p>Rp90.000.000,00 = US $10.000,00</p><p>Kesimpulan</p><p>Jadi, <strong>besarnya uang </strong>yang <strong>dibawa turis </strong>tersebut <strong>dalam US $</strong> adalah US $10.000,00. </p><p>Jawabannya adalah C.</p><p></p>Pelajari lebih lanjutMenghitung nilai 28,4 triliun dollar ke rupiah dalam kurs Rp14.269,00: brainly.co.id/tugas/47463408.Menghitung uang Ardian US$ 2.500 yang ditukar ke rupiah yang pada saat itu nilai kurs jual per US$ 1,00 adalah  Rp9.235,00 dan kurs beli per US$1,00  adalah Rp9.115,00: https://brainly.co.id/tugas/38427494.Daftar 50 nama negara dan nama mata uangnya: brainly.co.id/tugas/1414923.<p></p>Detail jawaban<p><strong>Kelas</strong>: 10</p><p><strong>Mapel</strong>: Ekonomi</p><p><strong>Bab</strong>: Bank Sentral, Sistem dan Alat Pembayaran dalam Perekonomian Indonesia</p><p><strong>Kode</strong>: 10.12.4</p><p></p><p><strong>#AyoBelajar</strong></p><br />
+                                            <h2 class="ez-toc-section" id="9-diketahui-data-keuangan-negara-bangladesh-sebagai-berikut-dalam-jutaan1-personal-income-pi-sebesar-us-510-0002-pendapatan-warga-negara-bangladesh-di-luar-negeri-sebesar-us-390-0003-pendapat">
+                            24. 9 Diketahui data keuangan Negara Bangladesh sebagai berikut (dalam jutaan)1) Personal income (PI) sebesar US$ 510.0002) Pendapatan warga negara Bangladesh di luar Negeri sebesar US$ 390.0003) Pendapatan warga negara Asing Di negara Bangladesh terdiri atas negara Singapura US$ 55.000, Inggris US$ 80.000, Prancis US$ 75.000 dan Tiongkok US$ 85.0004) Transfer payment US$ 12.000 dan pajak langsung US$ 130Besar pendapatan per kapita negara Bangladesh jika Gross Domestic Product (GDP) US$ 1.450.000 juta dan jumlah penduduknya mencapai 300 juta adalah….a. US$ 133,3b. US$ 816,6c. US$ 150 d. US$ 516,6e. US$ 3.850 C​</h2><br />
+                        <p><strong>Jawaban</strong>:</p><p>Besar pendapatan per kapita negara Bangladesh berdasarkan data diatas adalah US $5.150 (cek lagi soalnya ya). Pendapatan per kapita suatu negara diperoleh dari GNP dibagi dengan banyaknya jumlah penduduk.</p><p></p><p><strong>Penjelasan</strong>:</p><p>Diketahui dalam soal sudah diketahui GDP negara tersebut sebesar US $ 1.450.000 juta, besar GNP (dalam US $ juta) :</p><p>GNP = GDP + produk/pendapatan WNI di Luar Negri – produk/pendapatan WNA di dalam negeri </p><p>         = 1.450.000 + 390.000 – (55.000 + 80.000 + 75.000 + 85.000)</p><p>         = 1.840.000 – 295.000</p><p>         = 1.545.000</p><p>Maka besarnya pendapatan per kapita negara tersebut adalah : </p><p>US $ 1.545.000 juta / 300 juta jiwa = US $5.150</p><p></p><p>Pelajari lebih lanjut materi tetang pendapatan perkapita di https://brainly.co.id/tugas/22330101.</p><p></p><p>#BelajarBersamaBrainly</p><br />
+                                            <h2 class="ez-toc-section" id="data-pendapatan-nasional-negara-x-sebagai-berikut-dalam-miliarkonsumsi-rumah-tangga-us10-850-bunga-us500eksport-us4-100import-us3-050pengeluaran-pemerintah-us4-850pembelian-peralatan-produksi-u">
+                            25. Data Pendapatan nasional negara X sebagai berikut (dalam miliar)Konsumsi rumah tangga US$10.850 Bunga US$500Eksport US$4.100Import US$3.050Pengeluaran pemerintah US$4.850Pembelian peralatan produksi US$2.200Besarnya pendapatan nasional dengan pendekata pengeluaran adalah…</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>Y = </strong><strong>U</strong><strong>S</strong><strong>$</strong><strong> </strong><strong>18.950</strong></p><p></p><p><strong>Penjelasan:</strong></p><p><strong>Y</strong><strong> </strong><strong>=</strong><strong> </strong><strong>C</strong><strong> </strong><strong>+</strong><strong> </strong><strong>I</strong><strong> </strong><strong>+</strong><strong> </strong><strong>G</strong><strong> </strong><strong>+</strong><strong> </strong><strong>(</strong><strong>X</strong><strong> </strong><strong>-</strong><strong> </strong><strong>M</strong><strong>)</strong></p><p></p><p><strong>D</strong><strong>i</strong><strong>k</strong><strong>;</strong></p><p></p><p><strong>C</strong><strong> </strong><strong>(</strong><strong>P</strong><strong>e</strong><strong>n</strong><strong>g</strong><strong>e</strong><strong>l</strong><strong>u</strong><strong>a</strong><strong>r</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>K</strong><strong>o</strong><strong>n</strong><strong>s</strong><strong>u</strong><strong>m</strong><strong>s</strong><strong>i</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>U</strong><strong>S</strong><strong>$</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>.</strong><strong>8</strong><strong>5</strong><strong>0</strong></p><p><strong>I</strong><strong> </strong><strong>(</strong><strong>I</strong><strong>n</strong><strong>v</strong><strong>e</strong><strong>s</strong><strong>t</strong><strong>a</strong><strong>s</strong><strong>i</strong><strong>/</strong><strong>P</strong><strong>e</strong><strong>n</strong><strong>g</strong><strong>e</strong><strong>l</strong><strong>u</strong><strong>a</strong><strong>r</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>P</strong><strong>r</strong><strong>o</strong><strong>d</strong><strong>u</strong><strong>s</strong><strong>e</strong><strong>n</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>U</strong><strong>S</strong><strong>$</strong><strong> </strong><strong>2</strong><strong>.</strong><strong>2</strong><strong>0</strong><strong>0</strong></p><p><strong>G</strong><strong> </strong><strong>(</strong><strong>P</strong><strong>e</strong><strong>n</strong><strong>g</strong><strong>e</strong><strong>l</strong><strong>u</strong><strong>a</strong><strong>r</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>P</strong><strong>e</strong><strong>m</strong><strong>e</strong><strong>r</strong><strong>i</strong><strong>n</strong><strong>t</strong><strong>a</strong><strong>h</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>U</strong><strong>S</strong><strong>$</strong><strong> </strong><strong>4</strong><strong>.</strong><strong>8</strong><strong>5</strong><strong>0</strong></p><p><strong>X</strong><strong> </strong><strong>(</strong><strong>E</strong><strong>k</strong><strong>s</strong><strong>p</strong><strong>o</strong><strong>r</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>U</strong><strong>S</strong><strong>$</strong><strong> </strong><strong>4</strong><strong>.</strong><strong>1</strong><strong>0</strong><strong>0</strong></p><p><strong>M</strong><strong> </strong><strong>(</strong><strong>I</strong><strong>m</strong><strong>p</strong><strong>o</strong><strong>r</strong><strong>)</strong><strong> </strong><strong>=</strong><strong> </strong><strong>U</strong><strong>S</strong><strong>$</strong><strong> </strong><strong>3</strong><strong>.</strong><strong>0</strong><strong>5</strong><strong>0</strong></p><p></p><p><strong>D</strong><strong>i</strong><strong>t</strong><strong>;</strong><strong> </strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong>.</strong><strong> </strong><strong>Y</strong><strong>?</strong></p><p></p><p><strong>Y</strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>0</strong><strong>.</strong><strong>8</strong><strong>5</strong><strong>0</strong><strong> </strong><strong>+</strong><strong> </strong><strong>2</strong><strong>.</strong><strong>2</strong><strong>0</strong><strong>0</strong><strong> </strong><strong>+</strong><strong> </strong><strong>4</strong><strong>.</strong><strong>8</strong><strong>5</strong><strong>0</strong><strong> </strong><strong>(</strong><strong>4</strong><strong>.</strong><strong>1</strong><strong>0</strong><strong>0</strong><strong> </strong><strong>-</strong><strong> </strong><strong>3</strong><strong>.</strong><strong>0</strong><strong>5</strong><strong>0</strong><strong>)</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>7</strong><strong>.</strong><strong>9</strong><strong>0</strong><strong>0</strong><strong> </strong><strong>+</strong><strong> </strong><strong>1</strong><strong>.</strong><strong>0</strong><strong>5</strong><strong>0</strong></p><p><strong> </strong><strong> </strong><strong> </strong><strong>=</strong><strong> </strong><strong>1</strong><strong>8</strong><strong>.</strong><strong>9</strong><strong>5</strong><strong>0</strong></p><br />
+                                            <h2 class="ez-toc-section" id="my-father-has-three-children-%e2%80%a6%e2%80%a6-loves-%e2%80%a6-very-much-%c2%a0a-he-%e2%80%93-usb-him-%e2%80%93-usc-she-%e2%80%93-usd-her-%e2%80%93-us%e2%80%8b">
+                            26. My father has three children. …….loves …..very much. *A. He – usB. Him – usC. She – usD. Her – us​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Ayah saya memiliki tiga anak. …… .mencintai… ..sangat banyak. *</p><p>D.Her - Us</p><p><strong>Penjelasan:</strong></p><p>Semoga membantu ^_^</p><p>JAWABANNYA </p><p><strong>D</strong><strong>.</strong><strong>H</strong><strong>E</strong><strong>R</strong><strong> </strong><strong>-</strong><strong> </strong><strong>U</strong><strong>S</strong><strong> </strong></p><p></p><p>Semoga membantu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="us20-35-rp-us25-76-rp">
+                            27. US$20.35 = Rp......................
+US$25.76 = Rp.......................</h2><br />
+                        US$20.35 = Rp.237.688<br />US$25.76 =Rp.300.877US$20.35=Rp235408.8<br />US$25.76=Rp297991.68<br />Maaf kalau salah aku hitung Langsung dari Mandiri :D<br />
+                                            <h2 class="ez-toc-section" id="negara-a-mencatat-pendapatan-warga-negara-nya-di-singapura-sebesar-us-800-vietnam-us-700-dan-thailand-us-850-negara-a-juga-mencatat-pendapatan-wna-di-negara-a-antara-lain-warga-negara-australia">
+                            28. Negara A mencatat pendapatan warga negara nya di singapura sebesar US $800, vietnam US $700, dan Thailand US $850. Negara A juga mencatat pendapatan WNA di negara A antara lain warga negara Australia US $1.050, India US $960, dan malaysia US $750. Data keuangan lainnya yaitu PDB US $5.200, Penyusutan US $1.450, pajak tidak langsung US $170, Pajak langsung US $230, Subsidi US $80, laba ditahan US $150, asuransi US $95, dan transfer payment US $3.100. Berdasarkan data tersebut, besar personal income (Pi) adalah? </h2><br />
+                        Diketahui:<br />Pendapatan warga negara A di... <br />Singapura= US$800<br />Vietnam= US$700<br />Thailand= US$850<br /><br />Pendapatan WNA di negara A, diantaranya warga negara... <br />Australia= US$1.050<br />India= US$960<br />Malaysia= US$750<br /><br />PDB (GDP)= US$5.200<br />Penyusutan= US$1.450<br />Pajak tidak langsung= US$170<br />Pajak langsung= US$230<br />Subsidi= US$80<br />Laba ditahan= US$150<br />Asuransi= US$95<br />Transfer Payment= US$3.100<br /><br />Ditanya: Personal Income (PI) <br /><br />Jawab:<br />* Cari Pendapatan Warga Negara A di Luar negeri (Jumlah pendapatan warga negara A di Singapura, Vietnam, Thailand) <br /><br />Pendapatan warga negara A di luar negeri= US$800+US$700+US$850 <br /><br />Pendapatan warga negara A di luar negeri= US$2.350<br /><br />*Cari Pendapatan Netto Luar negeri (jumlah semua pendapatan warga negara Australi, India, Malaysia di negara A)<br /><br />Pendapatan netto luar negeri= US$1.050+US$960+US$750<br /><br />Pendapatan netto luar negeri= US$2.760<br /><br />*Cari Gross National Product (GNP) <br />GNP= GDP+Pendapatan warga negara A di luar negeri-Pendapatan netto luar negeri<br />GNP= US$5.200+US$2.350-US$2.760<br />GNP= US$4.790<br /><br />*Cari Net National Product (NNP) <br />NNP= GNP-Penyusutan<br />NNP= US$4.790-US$1.450<br />NNP= US$3.340<br /><br />*Cari Net National Income (NNI) <br />NNI= NNP-Pajak tidak langsung+Subsidi<br />NNI= US$3.340-US$170+US$80<br />NNI= US$3.250<br /><br />*Cari Personal Income (PI) <br />PI= (NNI+Transfer payment)-(Laba ditahan+Asuranai) <br />PI= (US$3.250+US$3.100)-(US$150+US$95)<br />PI= US$6.350-US$245<br />PI= US$6.105<br /><br />Jadi, besar Personal Income (PI) negara A adalah US$6.105<br /><br />Semoga membantu :)<br />
+                                            <h2 class="ez-toc-section" id="tugas-ekonomi-kelas-xi-pertemuan-ke-3-berikut-urutan-pendapatan-per-kapita-negara-asia-tenggara-singapura-us93-680-brunei-darussalam-us77-700-malaysia-us30-430-thailand-us18-730-indonesia">
+                            29. TUGAS EKONOMI KELAS XI Pertemuan ke 3 Berikut urutan pendapatan per kapita negara Asia Tenggara: Singapura - US$93.680 Brunei Darussalam - US$77.700 Malaysia - US$30.430 Thailand - US$18.730 Indonesia - US$13.120 Philipina - US$8.780 Laos - US$7.910 Vietnam - US$7.380 Myanmar - US$6.850 Timor Leste - US$4.990 Kamboja - US$4.300 Klasifikasikan Negara Negara tersebut apakah termasuk low income, lower middle income, upper middle income atau high income !</h2><br />
+                        <p>upper middle income</p><p><strong>Penjelasan:</strong></p><p>Semoga betul</p><br />
+                                            <h2 class="ez-toc-section" id="negara-a-mencatat-pendapatan-warga-negaranya-di-singapura-sebesar-us-800-vietnam-sebesar-us-700-dan-thailand-sebesar-us-850-negara-a-juga-mencatat-pendapatan-wna-di-negara-a-antara-lain-warga-ne">
+                            30. Negara A mencatat pendapatan warga negaranya di Singapura sebesar US $ 800, Vietnam sebesar US% 700 dan Thailand sebesar US $ 850. Negara A juga mencatat pendapatan WNA di negara A antara lain warga negara Australia US $ 1.050, India US $ 960, dan Malaysia US $ 750. Data keuangan lainnya yaitu PDB US $ 5.200, Penyusutan US $ 1.450, Pajak tidak Langsung US $ 170, Pajak langsung US $ 230, subsidi US $ 80, Laba di tahan US $ 150, Asuransi US $ 95, dan Transfer Paymen US $ 3.100. Berdasarkan data tersebut, berapa besar Personal Income (PI)?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Diketahui:</p><p>Pendapatan warga negara A di... </p><p>Singapura= US$800</p><p>Vietnam= US$700</p><p>Thailand= US$850</p><p></p><p>Pendapatan WNA di negara A, diantaranya warga negara... </p><p>Australia= US$1.050</p><p>India= US$960</p><p>Malaysia= US$750</p><p></p><p>PDB (GDP)= US$5.200</p><p>Penyusutan= US$1.450</p><p>Pajak tidak langsung= US$170</p><p>Pajak langsung= US$230</p><p>Subsidi= US$80</p><p>Laba ditahan= US$150</p><p>Asuransi= US$95</p><p>Transfer Payment= US$3.100</p><p></p><p>Ditanya: Personal Income (PI) </p><p></p><p>Jawab:</p><p>* Cari Pendapatan Warga Negara A di Luar negeri (Jumlah pendapatan warga negara A di Singapura, Vietnam, Thailand) </p><p></p><p>Pendapatan warga negara A di luar negeri= US$800+US$700+US$850 </p><p></p><p>Pendapatan warga negara A di luar negeri= US$2.350</p><p></p><p>*Cari Pendapatan Netto Luar negeri (jumlah semua pendapatan warga negara Australi, India, Malaysia di negara A)</p><p></p><p>Pendapatan netto luar negeri= US$1.050+US$960+US$750</p><p></p><p>Pendapatan netto luar negeri= US$2.760</p><p></p><p>*Cari Gross National Product (GNP) </p><p>GNP= GDP+Pendapatan warga negara A di luar negeri-Pendapatan netto luar negeri</p><p>GNP= US$5.200+US$2.350-US$2.760</p><p>GNP= US$4.790</p><p></p><p>*Cari Net National Product (NNP) </p><p>NNP= GNP-Penyusutan</p><p>NNP= US$4.790-US$1.450</p><p>NNP= US$3.340</p><p></p><p>*Cari Net National Income (NNI) </p><p>NNI= NNP-Pajak tidak langsung+Subsidi</p><p>NNI= US$3.340-US$170+US$80</p><p>NNI= US$3.250</p><p></p><p>*Cari Personal Income (PI) </p><p>PI= (NNI+Transfer payment)-(Laba ditahan+Asuranai) </p><p>PI= (US$3.250+US$3.100)-(US$150+US$95)</p><p>PI= US$6.350-US$245</p><p>PI= US$6.105</p><p></p><p>Jadi, besar Personal Income (PI) negara A adalah US$6.105</p><p></p><strong>S</strong><strong>E</strong><strong>M</strong><strong>O</strong><strong>G</strong><strong>A</strong><strong> </strong><strong>M</strong><strong>E</strong><strong>M</strong><strong>B</strong><strong>A</strong><strong>N</strong><strong>T</strong><strong>U</strong><strong> </strong><strong>Y</strong><strong>A</strong><strong> </strong><strong>:</strong><strong>)</strong><p></p><br />
+                                            <h2 class="ez-toc-section" id="data-pendapatan-pengeluaran-dan-prediksi-suatu-negara-sebagai-berikut-%e2%80%a2-gross-domestic-product-us-1-500-000000%e2%80%a2-gross-national-product-us-850-000000%e2%80%a2-penyusutan-bar">
+                            31. Data pendapatan, pengeluaran dan prediksi suatu Negara sebagai berikut :• Gross Domestic Product = US $ 1.500.000,000• Gross National Product = US $ 850.000,000• Penyusutan Barang Modal = US $ 100.000,000• Pajak Tidak Langsung = US $ 50.000,000• Transfer Payment = US $ 75.000,000• Laba ditahan = US $ 25.000,000• Asuransi = US $ 15.000,000• Pajak langsung = US $ 25.000,000Tentukan besarnya NNI, NNP, PI dan DI !</h2><br />
+                        <p>Dari data <strong>pendapatan negara</strong> di soal, maka diketahui:</p><strong>NNI</strong> sebesar US$ 700.000<strong>NNP</strong> sebesar US$ 750.000<strong>PI</strong> sebesar US$ 735.000<strong>DI</strong> sebesar US$ 710.000<p></p><p></p>Penjelasan dengan langkah-langkah<p><strong>Diketahui</strong>:</p>Gross Domestic Product (GDP) = US $ 1.500.000,000Gross National Product (GNP) = US $ 850.000,000Penyusutan Barang Modal = US $ 100.000,000Pajak Tidak Langsung = US $ 50.000,000Transfer Payment = US $ 75.000,000Laba ditahan = US $ 25.000,000Asuransi = US $ 15.000,000Pajak langsung = US $ 25.000,000<p><strong>Ditanyakan: NNI, NNP, PI dan DI</strong></p><p><strong>Jawab</strong></p><p>Langkah pertama, menghitung <strong>NNP (net national product). </strong></p>NNP = GNP - penyusutanNNP = 850.000 - 100.000NNP = 750.000<p>Langkah kedua, menghitung <strong>NNI (net national income). </strong></p>NNI = NNP - pajak tidak langsung + subsidiNNI = 750.000 - 50.000 +0 NNI = 700.000<p>Langkah ketiga, menghitung <strong>PI (personal income).</strong></p>PI = NNI + biaya transfer - (laba ditahan + asuransi + jaminan sosial)PI = 700.000 + 75.000 - (25.000 + 15.000 + 0)PI = 775.000 - 40.000PI = 735.000<p>Langkah keempat, menghitung <strong>DI (disposible income). </strong></p>DI = PI - pajak langsungDI = 735.000 - 25.000DI = 710.000<p></p><p></p><p>Disposible income adalah pendapatan pribadi yang bisa digunakan untuk membayar kebutuhan sehari-hari. DI sangat penting untuk tolak ukur kebijakan perusahaan, menentukan daya beli, dan mengukur kesehatan finansial pribadi. </p><p></p>Pelajari lebih lanjutMateri tentang pendapatan nasional https://brainly.co.id/tugas/12466720Materi tentang rumus menghitung pendapatan nasional dengan pendekatan pendapatan dan pengeluaran https://brainly.co.id/tugas/4775727Materi tentang pemahaman GDP, GNP, NNP, NNI, PI dan DI https://brainly.co.id/tugas/16407216<p></p>Detail jawaban<p><strong>Kelas</strong>: 11</p><p><strong>Mapel</strong>: Ekonomi</p><p><strong>Bab</strong>: Pendapatan Nasional</p><p><strong>Kode</strong>: 11.12.1</p><p></p><p><strong>#AyoBelajar</strong></p><p><strong>#SPJ2</strong></p><br />
+                                            <h2 class="ez-toc-section" id="seorang-turis-amerika-tiba-di-bali-dan-menukarkan-us100-00000-di-salah-satu-bank-di-bali-catatan-kurs-saat-itubeli-1-us-rp9-00000-tengah-1-us-rp9-12500-dan-jual-1-us-rp9-25000-selama">
+                            32. Seorang turis Amerika tiba di Bali dan menukarkan US100.000,00 di salah satu Bank di Bali. 
+Catatan kurs saat itu:
+Beli 1 US$ = Rp9.000,00 tengah 1 US$ =Rp9.125,00 dan jual 1 US$ = Rp9.250,00. Selama di Bali, turis tersebut membelanjakan uangnya sebanyak Rp828.000.000,00. Berapa US$ dibawa turis tersebut jika ia menukarkan kembali sisa uangnya dengan dolar Amerika Serikat bila catatan kurs yang berlaku:
+Beli 1 US$ = Rp8.750,00, tengah 1 US$ = Rp8.875,00, dan jual 1 US$ = Rp9.000,00
+A. US$ 5.000
+B. US$ 10.000
+C. US$ 8.000
+D. US$ 12.000
+E. US$ 9.000</h2><br />
+                        <p>US 100.000*Rp9000(Kurs Beli)=900.000.000</p><p>900.000.000-828.000.000=72.000.000</p><p>72.000.000/9000(kurs jual)=8000</p><p>=US$8000</p><br />
+                                            <h2 class="ez-toc-section" id="pendapatan-perkapita-negara-jerman-adalah-a-us34110b-us25433c-us26986%e2%80%8b">
+                            33. pendapatan perkapita negara jerman adalah a. US$34,110b. US$254,33c. US$26,986​</h2><br />
+                        <p>Penjelasan:</p><p>Negara Jerman termasuk Negara maju karena:</p><p>1.Industri pegang peranan penting bagi perekonomian Dunia.</p><p>2.Menjadi anggota Negara G7,G8,dan G20.</p><p>3.Pendapatan perkapita US$34,110.</p><p>Jawaban:</p><p>Pendapatan perkapita Negara Jerman adalah:</p><p>A.US$34,110.</p><p>#Semoga Membantu.</p><br />
+                                            <h2 class="ez-toc-section" id="data-pendapatan-pengeluaran-dan-produksi-suatu-negara-sebagai-berikutgdp-us1-500-000-000gnp-us850-000-000penyusutan-barang-modal-us100-000-000pajak-tidak-langsung-us50-000-000transfer-pa">
+                            34. data pendapatan, pengeluaran dan produksi suatu negara sebagai berikut:GDP : US$1.500.000.000GNP : US$850.000.000PENYUSUTAN BARANG MODAL : US$100.000.000PAJAK TIDAK LANGSUNG : US$50.000.000TRANSFER PAYMENT : US$75.000.000LABA DI TAHAN : US$25.000.000ASURANSI : US$15.000.000PAJAK LANGSUNG: US$25.000.000BERDASARKAN DATA DI ATAS, BESAR DISPOSIBLE INCOME ADALAH....</h2><br />
+                        semoga membantu. ini nolnya saya hilangkan 3<br />
+                                            <h2 class="ez-toc-section" id="negara-memiliki-data-pn-sebagai-berikut-dalam-jt-gaji-pegawai-us-200-000-konsumsi-masyarakat-us-215-000-keuntungan-us-46-000-sewa-us-36-400-konsumsi-pemerintah-us-97-600-bunga-modal-us-33-500">
+                            35. Negara memiliki data PN sebagai berikut (dalam jt) Gaji pegawai US $200.000 Konsumsi masyarakat US $215.000 Keuntungan US $46.000 Sewa US $36.400 Konsumsi pemerintah US $97.600 Bunga modal US $33.500 Pertambangan US $25.200 Ekspor US $27.500 Impor US $33.700 Menggunakan pendekatan pendapatan</h2><br />
+                            PENDAPATAN NASIONAL  PENDEKATAN PENDAPATAN<p>                 Y = w + r + i + p</p><p>Y = Pendapatan nasional</p><p>w = Gaji pegawai</p><p>r = Sewa</p><p>i = Bunga modal</p><p>p = Keuntungan</p><p>________________________________</p><p>Diketahui :</p><p>w = US$200.000</p><p>r = US$36.400</p><p>i = US$33.500</p><p>p = US$46.000</p><p></p><p>Ditanya :</p><p>Y = ?</p><p></p><p>Y = w + r + i + p</p><p>Y = 200.000 + 36.400 + 33.500 + 46.000</p><p>Y = 236.400 + 79.500</p><p><strong>Y</strong><strong> </strong><strong>=</strong><strong> </strong><strong>US$</strong><strong>3</strong><strong>1</strong><strong>5</strong><strong>.</strong><strong>9</strong><strong>0</strong><strong>0</strong></p><p></p><p>Jadi, besarnya pendapatan nasional menggunakan pendekatan pendapatan (dalam juta) adalah US$315.900</p><p></p><p></p><p></p><p>Semoga Bermanfaat</p><p>Terima Kasih \^_^/</p><br />
+                                            <h2 class="ez-toc-section" id="us-500-itu-berapa-rupiah-us-500-itu-sama-dengan-rp-6-800-000">
+                            36. US $500 itu berapa rupiah, US $500 itu sama dengan Rp. 6.800.000</h2><br />
+                        500 US dolar=Rp7.066.500<br />
+                                            <h2 class="ez-toc-section" id="us3-50kalo-di-indonesia-us3-50-itu-berapa">
+                            37. US$3.50
+Kalo di indonesia US$3.50 itu berapa?</h2><br />
+                        US$3.50 sama dengan 46.787.99 rupiah $1 Amerika = Rp13.348 (berubah setiap hari)<br />$3,5 = Rp13.348 x 3,5 = Rp46.718<br />
+                                            <h2 class="ez-toc-section" id="gdpus130-000penerimaan-warganegara-di-luar-negerius28-000penerimaan-warga-wnadi-dalam-negerius43-000pajak-langsungus1-500-pajak-tidak-langsungus2-250penyusutan-barang-modalus840dar">
+                            38. GDP=US$130.000
+Penerimaan warga
+negara di luar negeri=US$28.000
+Penerimaan warga WNA
+Di dalam negeri=US$43.000
+Pajak langsung=US$1.500 
+Pajak tidak langsung=US$2.250
+Penyusutan barang modal=US$840
+Dari data di atas maka besar NNI adalah</h2><br />
+                        Diketahui:<br />GDP= US$130.000<br />Penerimaan warga negara di luar neger= US$28.000<br />Penerimaan warga WNA di dalam negeri= US$43.000<br />Pajak langsung= US$1.500 <br />Pajak tidak langsung= US$2.250<br />Penyusutan barang modal= US$840<br /><br />Ditanya: NNI<br /><br />Jawab:<br />Cari Gross National Product (GNP) <br />GNP= GDP+Penerimaan warga negara di luar negeri-Penerimaan warga WNA di dalam negeri<br />GNP= US$130.000+US$28.000-US$43.000<br />GNP= US$115.000<br /><br />Cari Net National Product (NNP) <br />NNP= GNP-Penyusutan barang modal<br />NNP= US$115.000-US$840<br />NNP= US$114.160<br /><br />Cari Net National Income (NNI) <br />NNI= NNP-Pajak tidak langsung<br />NNI= US$114.160-US$2.250<br />NNI= US$111.910<br /><br />Jadi, besar net national income (NNI) adalah US$111.910.<br /><br />Semoga membantu :)<br />
+                                            <h2 class="ez-toc-section" id="bank-dunia-mengelompokkan-suatu-negara-dengan-tingkat-pendapatan-rendah-jika-pnb-per-kapita-a-kurang-dari-us625b-antara-us726-dan-us2-895c-antara-us2-896-dan-us8-955d-lebih-dari-us8-955e">
+                            39. Bank Dunia mengelompokkan suatu negara dengan tingkat pendapatan rendah, jika PNB per kapita ...a. kurang dari US$625b. antara US$726 dan US$2.895c. antara US$2.896 dan US$8.955d. lebih dari US$8.955e. kurang dari US$520</h2><br />
+                        <p>yg saya tau.. </p><p>kalo low income =dibawah US $765</p><p>kalo low middle income = US $766 - US $3035</p><p>kalo pendapatan paling rendah di bawah US $765 ..berarti yang A sama yang E.. </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="us1-99kalo-diindonesia-us1-99-berapa">
+                            40. US$1.99
+kalo diIndonesia US$1.99 berapa?</h2><br />
+                        di Indonesia $1 = 13.000<br />1.99 × 13.000 = 25.870Kurs dolar hari ini : Rp. 13.275 <br />maka US$ 1,99<br />= 1,99 * 13.275<br />=Rp.26.417,25<br />semoga membantu :)<br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/pxH4TDs6cp4?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>matematika</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/inti-dari-sebuah-gagasan-dan-mudah-untuk-diingat-adalah/">Inti Dari Sebuah Gagasan Dan Mudah Untuk Diingat Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kamu-bisa-bahasa-indonesia/">Kamu Bisa Bahasa Indonesia</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-teks-persuasif-beserta-strukturnya-brainly/">Contoh Teks Persuasif Beserta Strukturnya Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/kelebihan-komputer/">Kelebihan Komputer</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-perilaku-amanah-dalam-kehidupan-sehari-hari/">Contoh Perilaku Amanah Dalam Kehidupan Sehari Hari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/masmuka/">Masmuka</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bagaimana-gambaran-barang-tradisional-koleksi-di-topeng/">Bagaimana Gambaran Barang Tradisional Koleksi Di Topeng</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/muatan-cu/">Muatan Cu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/arti-kunaon/">Arti Kunaon</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/suku-baduy-berasal-dari/">Suku Baduy Berasal Dari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tema-gambar-cerita-yg-akan-saya-buat/">Tema Gambar Cerita Yg Akan Saya Buat</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-cara-memukul-bola-kasti-dengan-benar/">Jelaskan Cara Memukul Bola Kasti Dengan Benar</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bentuk-pemerintahan-negara-jerman-adalah-republik-parlementer-hal-ini-berarti/">Bentuk Pemerintahan Negara Jerman Adalah Republik Parlementer Hal Ini Berarti</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/melompat-lalu-mengayunkan-tangan-ke/">Melompat Lalu Mengayunkan Tangan Ke</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/wasana-tegese/">Wasana Tegese</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/1-hasta-berapa-meter/">1 Hasta Berapa Meter</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pemberian-nama-wirausaha-harus-berpikir-ke-depan-karena/">Pemberian Nama Wirausaha Harus Berpikir Ke Depan Karena</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tangga-nada-diantonis-adalah/">Tangga Nada Diantonis Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/15-dolar-berapa-rupiah/">15 Dolar Berapa Rupiah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/metodologis-adalah/">Metodologis Adalah</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

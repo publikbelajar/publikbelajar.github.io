@@ -1,0 +1,1345 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Panembromo - BELAJAR</title>
+    <meta name="description" content="Panembromo, , , , , , , 0, Panembromo Group Karawitan Lestari Budaya - YouTube, www.youtube.com, 1280 x 720, jpeg, , 20, panembromo, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Panembromo - BELAJAR" />
+    <meta property="og:description" content="Panembromo, , , , , , , 0, Panembromo Group Karawitan Lestari Budaya - YouTube, www.youtube.com, 1280 x 720, jpeg, , 20, panembromo, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Panembromo - BELAJAR" />
+    <meta name="twitter:description" content="Panembromo, , , , , , , 0, Panembromo Group Karawitan Lestari Budaya - YouTube, www.youtube.com, 1280 x 720, jpeg, , 20, panembromo, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Panembromo</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">waqqwqq4596</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Panembromo" alt="Panembromo">
+                    </div>
+                    <p></p>
+                    <p>apa yang dimaksud dengan panembromo?</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-yang-dimaksud-dengan-panembromo">1.
+                                            apa yang dimaksud dengan panembromo?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-pengertian-panembromo">2.
+                                            Jelaskan Pengertian panembromo</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#iringan-lagu-panembromo">3.
+                                            Iringan lagu panembromo ...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutan-lain-dari-paduan-suara-untuk-lagu-lagu-tradisional-jawa-yang-biasanya-membawakan-lagu-lagu-dengan-iringan-karawitan-atau-gamelan-disebut-dengan-c-panembromo-d-wiraswara-a-sinden-b-ge">4.
+                                            Sebutan lain dari paduan suara untuk lagu-lagu tradisional Jawa yang biasanya membawakan lagu-lagu dengan iringan karawitan atau gamelan, disebut dengan .... c. Panembromo d. Wiraswara a. Sinden b. Gerong​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-jelaskan-pengertian-panembromo-2-jelaskan-apa-yang-dimaksud-dengan-gondang-3-jelaskan-perbedaan-lagu-tradisional-sebagai-lagu-rakat-dan-lagu-klasik-4-jelaskan-lagu-tradisional-berdasarkan">5.
+                                            1. jelaskan pengertian panembromo...
+2.jelaskan apa yang dimaksud dengan gondang...
+3.jelaskan perbedaan lagu tradisional sebagai lagu rakat dan lagu klasik...
+4.jelaskan lagu tradisional berdasarkan fungsi sosialnya...
+5. Buatlah arasemen sederhana untuk sajian vokal grup sebuah lagu daerah yang kamu sukai...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#namakan-gambar-a-karikaturalb-dekoratifc-represntatis40-gambar-ilustrasi-yang-dibuat-dengan-mengubah-bentukdengan-tujuan-memberikan-kritikan-atau-perlawanan-sosialmelebih-lebihkan-sesuatu-merup">6.
+                                            namakan gambar.....a. Karikaturalb. DekoratifC.Represntatis40. Gambar ilustrasi yang dibuat dengan mengubah bentukdengan tujuan memberikan kritikan atau perlawanan sosialmelebih-lebihkan sesuatu merupakan gambar.....a.karikaturb. Kartunc. Poster11.Jawablah pertanyaan di bawah ini dengan singkat dan jelanim &amp; wil1. Bagaimana menurut pendapat kalian dengan aneka ragamIndonesia !Jelaskan pendapatmu tentang musik Talempong dari minBerikan contoh alat musik yang masuk dalam jenis cordof4. Apakah yang kamu ketahui tentang Panembromo dan GeTuliskan 5 langkah dalam menggambar komik !​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-membentuk-produksi-suaramenjaga-intonasi-frasa-dan-artikulasi-dalam-bernyanyi-adalah-beberapa-langkah-langkah-yang-dilakukan-untuk-berlatih-paduan-suara-dalam-satu-suara-disamping-langkah-langka">7.
+                                            1. Membentuk produksi suara,menjaga intonasi, frasa dan artikulasi dalam bernyanyi adalah beberapa langkah-langkah yang dilakukan untuk berlatih paduan suara dalam satu suara. Disamping langkah-langkah diatas kita dapat menambahkan : a. Menjaga keseimbangan suara sesama vokalis b. Memilih dirigent yang baik. c. Menjaga sikap ketika nernyanyi d. Bernyanyi yang keras dan penuh semangat.2. Musik ansambel merupakan perpaduan dari beberapa alat musik yang membentuk suatu orchestra. Di setiap daerah Indonesia memiliki alat orchestra yang sering disebut dengan karawitan. Karawitan disetiap daerah memiliki nama tersendiri, di Sumatra Barat disebut dengan Talempong, di Sumatra Utara disebut dengan Gondang, dan di Sulawesi Utara disebut dengan Kolintang.Nama atau sebutan untuk hal yang sama di daerah Jawa dan Bali adalah …. a. Panembromo b. Gamelan c. Mocopat d. Sindenan</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#18-pada-budaya-musik-tradisi-jawa-terdapat-sajian-lagu-aerah-secara-berkelompok-yangbiasa-disebut-dengan-istilah-panembromo-panembromo-disajikan-bersama-diiringi-olehkarawitan-jawa-yang-dinyanyikan">8.
+                                            18. Pada budaya musik tradisi Jawa terdapat sajian lagu 'aerah secara berkelompok yangbiasa disebut dengan istilah Panembromo. Panembromo disajikan bersama diiringi olehkarawitan Jawa yang dinyanyikan secara serempak. Kelompok dapat terdiri dari wanitasaja, pria saja maupun campuran. Pada gaya tradisi daerah sajian panembromobiasanya melagukan secara satu suara/unisono atau secara dua suara. Hal yang harusdiperhatikan dalam menyanyi secara Unisono seperti pada panembromo ataupunsindenan yang menyanyi bersama membutuhkan sikap....A. kerja sama, mandiri dan menghargaiB. kerja sama, kekompakan dan menyatuC. kerja sama, percaya diri dan menghargaiD. kerja sama, percaya diri dan menyatu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#secara-umum-lagu-daerah-seperti-panembromo-atau-gerong-dinyanyikan-menggunakan-tangga-nada-a-diatonisb-pentatonisc-melankolisd-seriosa%e2%80%8b">9.
+                                            secara umum, lagu daerah seperti panembromo atau gerong dinyanyikan menggunakan tangga nada....a. diatonisb. pentatonisc. melankolisd. seriosa​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#teknik-vokal-grup-yang-biasanya-dibawakan-pesinden-dalam-seni-musik-karawitan-jawa-disebuta-gerongb-panembromoc-gondangd-saman">10.
+                                            teknik vokal grup yang biasanya dibawakan pesinden dalam seni musik karawitan jawa disebut?a. Gerongb. Panembromoc. Gondangd. Saman</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tugas-mandiri-kls-viii-jawablah-pertanyaan-berikut-dengan-tepat-1-apa-yang-dimaksud-lagu-tradisional-2-sebutkan-dan-jelaskan-teknik-bernyanyi-lagu-daerah-3-apa-yang-dimaksud-panembromo-4-j">11.
+                                            TUGAS MANDIRI KLS VIII Jawablah pertanyaan berikut dengan tepat ! 1. Apa yang dimaksud lagu tradisional ? 2. Sebutkan dan jelaskan teknik bernyanyi lagu daerah ! 3. Apa yang dimaksud Panembromo ? 4. Jelaskan fungsi lagu daerah berdasarkan fungsi sosialnya ! 5. Jelaskan karakteristik musik tradisional ! 6. Sebutkan beberapa jenis musik tradisional Nusantara ! 7. Apakah fungsi musik tradisional Nusantara terkait dengan upacara adat ? 8. Bagaimana teknik dan gaya bernyanyi pada masyarakat dan suku bangsa asli Papua ? 9. Jelaskan yang dimaksud teknik Vokal ! 10. Jelaskan perbedaan lagu tradisional sebagai lagu rakyat dan lagu klasik ! Selamat Mengerjakan !!!plis harus sekarangjawab yang bener ya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#berikut-adalah-vokal-grup-yang-biasa-menyanyikan-lagu-tradisional-untuk-mengiringi-tari-lagu-ini-sering-juga-dibawakan-oleh-para-penarinya-ialah-panembromo-gerong-saman-gendang-brainly">12.
+                                            Berikut adalah vokal grup yang biasa menyanyikan lagu tradisional untuk mengiringi tari. Lagu ini sering juga dibawakan oleh para penarinya ialah... Panembromo Gerong Saman Gendang brainly</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutan-lain-panembromo-dalam-kegiatan-musik-lagu-tradisional-jawa-adalaha-paduan-suarac-akapelab-vocal-groupd-kor%e2%80%8b">13.
+                                             sebutan lain panembromo dalam kegiatan musik lagu tradisional jawa adalahA paduan suaraC akapelaB. vocal groupD. kor​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-tuliskan-unsur-unsur-musik-pada-lagu-daerah-2-sebutkan-fungsi-sosial-lagu-daerah-dalam-kehidupan-masyarakat-3-sebutkan-keunikan-ciri-ciri-lagu-daerah-4-sebutkan-4-judul-lagu-daerah-dari-jawa">14.
+                                            1. Tuliskan unsur unsur musik pada lagu daerah.! 2. Sebutkan fungsi sosial lagu daerah dalam kehidupan masyarakat! 3. Sebutkan keunikan ciri ciri lagu daerah! 4. Sebutkan 4 judul lagu daerah dari Jawa Barat! 5. Jelaskan istilah *Panembromo* pada lagu gending jawa! Tolong jawab kak​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-bernyanyi-lagu-daerah-kita-dapat-menggunakan-teknik-vokal-group-di-bawah-ini-merupakan-teknik-vokal-group-yang-biasa-dipakai-masyarakat-aceh-sambil-menari-adalah-a-panembromo-b-gerong-c-sama">15.
+                                            Dalam bernyanyi lagu daerah kita dapat menggunakan teknik vokal group. Di bawah ini merupakan teknik vokal group yang biasa dipakai masyarakat Aceh sambil menari adalah a. Panembromo b. Gerong c. Saman d. Gondang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-vokal-grup-tradisional-dari-jawayang-cara-bernyanyinya-menggunakan-teknik-kanon-disebut-a-gerong-b-panembromoc-gendang-d-saman%e2%80%8b">16.
+                                            1 vokal grup tradisional dari jawayang cara bernyanyinya menggunakan teknik kanon disebut a gerong b panembromoc gendang d saman​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#membawa-lagu-secara-vocal-group-dengan-aransemen-lebih-dari-satu-suara-berdasarkan-prinsip-prinsip-harmonisasi-musical-adalah-a-teknik-gerongb-teknik-gondangc-teknik-kord-teknik-panembromo%e2%80%8btol">17.
+                                            membawa lagu secara vocal group dengan aransemen lebih dari satu suara berdasarkan prinsip prinsip harmonisasi musical adalah A.Teknik GerongB.Teknik GondangC.Teknik KorD.Teknik Panembromo​tolong kak dijawab secepatnya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-apa-itu-teknik-bernyanyi-vokal-grup-panembromo-gerong-gondang-dan-saman-setelah-itu-tuliskan-keelebihan-dan-kekurangannya">18.
+                                            Jelaskan apa itu teknik bernyanyi vokal grup panembromo, gerong, gondang dan saman. Setelah itu tuliskan keelebihan dan kekurangannya.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-teknik-pemenggalan-katakalimat-yang-baikdan-benar-sehingga-mudah-dimengerti-dansesuai-dengan-ketentuan-yang-berlakudisebut-a-artikulasi-c-fraseringb-intonasi-d-resonansi2-vokal-grup-tradisi">19.
+                                            1.Teknik pemenggalan kata/kalimat yang baikdan benar sehingga mudah dimengerti dansesuai dengan ketentuan yang berlakudisebut....a. artikulasi c. fraseringb. intonasi d. resonansi2. Vokal grup tradisional dari jawa yang diiringioleh instrumental gamelan atau karawitandisebut....a. gerong c. panembromob. gondangd.saman3. Dalam berkreasi musik, untuk memperolehketinggian nada yang standar kita meng-gunakan ....a. garpulatab. tanda kuncic. tanda pugard. rekaman bunyi alat musik​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#vokal-grup-tradisional-dari-jawa-yang-cara-menyanyi-bernyanyinya-menggunakan-teknik-kanon-disebut-a-keroncong-b-panembromo-c-gendang-d-saman%e2%80%8b">20.
+                                            Vokal grup tradisional dari jawa yang cara menyanyi bernyanyinya menggunakan teknik kanon disebut a keroncong b panembromo c gendang d saman​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pengertian-daritembang-mijilpucungkhinantimaskumambanggambuhasmarandasindensyehpanembromogeronggondang">21.
+                                             Pengertian dari:Tembang MijilPucungKhinantiMaskumambangGambuhAsmarandaSindenSyehPanembromoGerongGondang</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutan-lain-panembromo-dalam-kegiatan-musik-lagu-tradisional-jawa-adalah">22.
+                                            Sebutan lain panembromo dalam kegiatan musik lagu tradisional jawa adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#vokal-yang-membawa-lagu-lagu-jawa-dalam-seni-musik-di-sebutkan-a-corb-canonc-gerongd-panembromopliss-ulangan-harus-hari-ini%e2%80%8b">23.
+                                            vokal yang membawa lagu-lagu Jawa dalam seni musik di sebutkan.......A. corB. canonC. gerongD. panembromopliss ulangan harus hari ini​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-jelaskan-pengertian-panembromo-2-jelaskan-apa-yang-dimaksud-dengan-gondang-3-jelaskan-perbedaan-lagu-tradisional-sebagai-lagu-rakat-dan-lagu-klasik-4-jelaskan-lagu-tradisional-berdasarkan">24.
+                                            1. jelaskan pengertian panembromo...
+2.jelaskan apa yang dimaksud dengan gondang...
+3.jelaskan perbedaan lagu tradisional sebagai lagu rakat dan lagu klasik...
+4.jelaskan lagu tradisional berdasarkan fungsi sosialnya...
+5. Buatlah arasemen sederhana untuk sajian vokal grup sebuah lagu daerah yang kamu sukai...</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-teknik-vokal-group-akapela-adalah-a-vokal-group-anak-anak-campuranb-vokal-group-anak-anakc-vokal-group-tanpa-iringan-instrumen-musikd-vokal-group-yang-bernyanyi-secara-susul-menyusul2-voka">25.
+                                            1. TEKNIK VOKAL GROUP AKAPELA ADALAH ....A. VOKAL GROUP ANAK ANAK CAMPURANB. VOKAL GROUP ANAK ANAKC. VOKAL GROUP TANPA IRINGAN INSTRUMEN MUSIKD. VOKAL GROUP YANG BERNYANYI SECARA SUSUL MENYUSUL2. VOKAL GRUP YANG MEMBAWAKAN TEMBANG JAWA DALAM SENI KARAWITAN DISEBUT.. *A. KORB. KANONC. GERONGD. PANEMBROMO​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#karawitan-dan-panembromo-berasal-dari">26.
+                                            karawitan dan panembromo berasal dari</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#karawitan-dan-panembromo-berasal-dari-a-jawa-c-sulawesib-sumatra-d-papua">27.
+                                            Karawitan dan Panembromo berasal dari...
+a. Jawa                      c. Sulawesi
+b. Sumatra                 d. Papua</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-pengertian-panembromo-%e2%80%8b">28.
+                                            jelaskan pengertian panembromo...?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#qjelaskan-pengertian-dari-panembromo-dan-berikan-contoh-lagu-yang-menggunakan-teknik-bernyanyi-vokal-grup-panembromono-ngasal-%e2%80%8b">29.
+                                            QJelaskan pengertian dari Panembromo? Dan berikan contoh lagu yang menggunakan teknik bernyanyi vokal grup Panembromono ngasal !​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#vocal-grup-yang-membawakan-tembang-jawa-dalam-seni-karawitan-disebut-a-kanonb-koorc-gerongd-panembromo">30.
+                                            vocal grup yang membawakan tembang jawa dalam seni karawitan disebut ..
+a. kanon
+b. koor
+c. gerong
+d. panembromo</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jawablah-pertanyaan-di-bawah-ini-dengan-jelas-dan-singkat1-sebutkan-prinsip-prinsip-menggambar-model-dan-jelaskan2-sebutkan-alat-dan-bahan-menggambar-model-dan-jelaskan3-sebutkan-dan-jelaskan-te">31.
+                                            Jawablah pertanyaan di bawah ini dengan jelas dan singkat
+1. Sebutkan prinsip prinsip menggambar model dan jelaskan
+2. Sebutkan alat dan bahan menggambar model dan jelaskan
+3. Sebutkan dan jelaskan teknik teknik menggambar model
+4.Sebutkan dan jelaskan karakteristik lagu daerah
+5. Jelaskan perbedaan panembromo dan gerong
+#jangan ngasal</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#karawitan-dan-panembromo-berasal-dari">32.
+                                            karawitan dan panembromo berasal dari</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tuliskan-pengertian-panembromo">33.
+                                            Tuliskan pengertian panembromo</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-ciri-ciri-dari-panembromo">34.
+                                            jelaskan ciri ciri dari panembromo</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-jelaskan-konsep-menggambar-model-2-gambar-lah-figur-manusia-laki-laki-atau-perempuan-3-sebutkan-unsur-utama-menggambar-ilustrasi-4-sebutkan-langkah-langkah-menggambar-ilustrasi-5-jelaskan-k">35.
+                                            1. Jelaskan konsep menggambar model 2. Gambar lah figur manusia laki - laki atau perempuan 3. Sebutkan unsur utama menggambar ilustrasi 4. Sebutkan langkah - langkah menggambar ilustrasi 5. Jelaskan konsep menggambar poster 6. Sebutkan bahan dan teknik yang sesuai dalam menggambar poster 7. Jelaskan konsep menggambar komik 8. Sebutkan 4 jenis gambar komik 9. Sebutkan ciri - ciri lagu tradisional 10. Jelaskan pengertian panembromo​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#vokal-yang-membawa-lagu-lagu-jawa-dalam-seni-musik-disebutkan-a-corb-gerongc-panembromod-canon">36.
+                                            Vokal yang membawa lagu-lagu Jawa dalam seni musik disebutkan. . . .
+a.
+Cor
+b.
+Gerong
+c.
+Panembromo
+d.
+Canon</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#17-pada-upacara-upacara-atau-ritual-lagu-daerah-juga-digunakan-sebagai-salah-satu-propertikelengkapan-upacara-apabila-lagu-daerah-tidak-disajikan-maka-upacara-tersebutdinyatakan-belum-sah-misalnya">37.
+                                            17. Pada upacara-upacara atau ritual lagu daerah juga digunakan sebagai salah satu propertikelengkapan upacara. Apabila lagu daerah tidak disajikan maka upacara tersebutdinyatakan belum sah. Misalnya, upacara peringatan 35 hari kelahiran bayi. Pada zamandahulu selalu dilantunkan tembang-tembang yang menceritakan tentang nasehat dankebajikan menjadi seorang manusia. Tembang tersebut disebut dengan....A. madihinC. macapatB. panembromoD. perkolong-kolong​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#aransemen-vokal-yang-bebas-dalam-membawakan-lagu-dapat-lebih-ekspresif-adalah-termasuk-a-ciri-ciri-vokal-groupb-ciri-ciri-panembromoc-ciri-ciri-unisonod-ciri-ciri-paduan-suara%e2%80%8b">38.
+                                            aransemen vokal yang bebas dalam membawakan lagu dapat lebih ekspresif adalah termasuk....A.ciri ciri vokal groupB.ciri ciri panembromoC.ciri ciri unisonoD.ciri ciri paduan suara​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#panembromo-adalah-teknik-bermain-musik%e2%80%a6a-teknik-bermain-musik-dalam-tradisional-jawa-dengan-diiringi-musik-gamelanb-teknik-bermain-musik-dalam-tradisional-jawa-dengan-diiringi-musik-angklung">39.
+                                            Panembromo adalah teknik bermain musik…a. teknik bermain musik dalam tradisional jawa dengan diiringi musik gamelanb. teknik bermain musik dalam tradisional jawa dengan diiringi musik angklungc. teknik bermain musik dalam tradisional jawa dengan diiringi musik harpad. teknik bermain musik dalam tradisional jawa dengan diiringi musik cello​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#aransemen-vokal-yang-bebas-dalam-membawakan-lagu-dapat-lebih-ekspresif-adalah-termasuk-a-ciri-ciri-vokal-groupb-ciri-ciri-panembromoc-ciri-ciri-unisonod-ciri-ciri-paduan-suara%e2%80%8b">40.
+                                            aransemen vokal yang bebas dalam membawakan lagu dapat lebih ekspresif adalah termasuk....A.ciri ciri vokal groupB.ciri ciri panembromoC.ciri ciri unisonoD.ciri ciri paduan suara​</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="apa-yang-dimaksud-dengan-panembromo">
+                            1. apa yang dimaksud dengan panembromo?</h2><br />
+                        nyanyian penghormatan untuk menyambut kedatangan tamu kehormatanPanembromo adalah 'tembang' atau nyanyian yang dilakukan bersama-sama bisa diiringi dengan musik bisa juga tidak diiringi. Ada beberapa jenis 'tembang' yang bisa digunakan untuk Panembromo. Lagu syair disesuaikan dengan acara yang diadakan.<br />
+                                            <h2 class="ez-toc-section" id="jelaskan-pengertian-panembromo">
+                            2. Jelaskan Pengertian panembromo</h2><br />
+                        panembromo adalah "tembang" atau nyanyian yg dilakukan bersama sama bisa juga tidak diiringi<br />
+                                            <h2 class="ez-toc-section" id="iringan-lagu-panembromo">
+                            3. Iringan lagu panembromo ...</h2><br />
+                        1/4 iriangan lagu <br /><br />semoga bermanfaat...<br />
+                                            <h2 class="ez-toc-section" id="sebutan-lain-dari-paduan-suara-untuk-lagu-lagu-tradisional-jawa-yang-biasanya-membawakan-lagu-lagu-dengan-iringan-karawitan-atau-gamelan-disebut-dengan-c-panembromo-d-wiraswara-a-sinden-b-ge">
+                            4. Sebutan lain dari paduan suara untuk lagu-lagu tradisional Jawa yang biasanya membawakan lagu-lagu dengan iringan karawitan atau gamelan, disebut dengan .... c. Panembromo d. Wiraswara a. Sinden b. Gerong​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C. Panembromo yaaaaaaaaa</p><br />
+                                            <h2 class="ez-toc-section" id="1-jelaskan-pengertian-panembromo-2-jelaskan-apa-yang-dimaksud-dengan-gondang-3-jelaskan-perbedaan-lagu-tradisional-sebagai-lagu-rakat-dan-lagu-klasik-4-jelaskan-lagu-tradisional-berdasarkan">
+                            5. 1. jelaskan pengertian panembromo...
+2.jelaskan apa yang dimaksud dengan gondang...
+3.jelaskan perbedaan lagu tradisional sebagai lagu rakat dan lagu klasik...
+4.jelaskan lagu tradisional berdasarkan fungsi sosialnya...
+5. Buatlah arasemen sederhana untuk sajian vokal grup sebuah lagu daerah yang kamu sukai...</h2><br />
+                        1.Panembromo adalah "tembang" atau nyanyian yg dilakukan bersama sama bisa juga tidak diiringi<br />2.Gondang adalah lagu pada tutunggulan. Ngagondang adalah kakawihan yang dipirig oleh tutunggulan. Pada mulanya gondangmerupakan bagian dari upacara untuk menghormati Dewi Padi, Nyi Pohaci SANGHYANG SRI, waktu menumbuk padi untuk pertama kalinya, biasa disebut meuseul Nyai Sri, setelah panen usai.<br />3.Lagu rakyat= lagu yang berasal dari rakyat suatu daerah yang tersebar secara alami yang disampaikan secara lisan dan turun temurun.<br />lagu klasik=lagu yang dikembangkan di pusat pusat pemerintahan lama lagu klasik dinilai lebih agung saat pembawaannya<br />4.Mempererat tali persaudaraan antar sesama orang, suatu ciri khas daetah<br />5.Berikut ini adalah contoh langkah atau cara membuat aransemen untuk paduan suara atau vocal group sehingga menghasilkan partitur yang mudah dibaca atau dinyanyikan oleh semua anggota penyanyi.<br />1. Mencari melodi pokok ( cantus firmus ) dari lagu tersebut. Sumber lagu bisa dari mp3, atau dari buku lagu atau sheet music yang didownload dari internet yang hanya terdiri satu suara saja.<br />2. Mencari akor atau harmoni . Langkah selanjutnya adalah memberi akor, bisa dengan mencari satu persatu dari mp3 atau jika sudah ada akornya, langsung ke langkah berikutnya.<br />3. Memecah suara . Langkah ini mengandalkan sedikit pengetahuan tentang akor. Misalnya, untuk nada dasar do=C, maka akor F terdiri dari nada 4 6 1 (fa la do), akor Am = 6 1 3 (la do mi), dan seterusnya. Jika belum hapal akor, bisa ditulis untuk setiap akornya dengan menyusun not angkanya seperti contoh F (4 6 1), G (5 7 2). Dan harus diingat nada dasarnya, karena untuk nada dasar do=Bes, maka akor F, terdiri dari nada 5 7 2 (sol si re) dan akor G = 6 #1 3 (la di mi).<br />4. Memberi nada untuk setiap suara . Dengan pengetahuan akor di atas, maka tinggal memberi nada kepada suara yang ada. Ada 3 nada untuk setiap akor, maka sudah cukup jika ingin membuat aransemen untuk 3 suara (SSA, TTB, koor anak, vocal group dengan anggot terbatas). Misalnya jika nada melodi pokok ditaruh pada suara sopran, nadanya adalah 5 (sol), nada dasar do=C, dan akornya adalah C yang terdiri dari nada 1 3 5 (do mi sol), maka untuk suara lain bisa diberi nada yang lain. Misalnya, alto nadanya 3 (mi), Tenor bernada 1 (do tinggi) dan Bas nadanya 1 (do natural). Jika suara yang dipecah terdiri dari 4 suara, maka ada nada yang didobel (dipakai bersama), pada contoh di atas adalah nada 1 (do).<br />5. Melengkapi semua suara dengan akor yang sudah ada. Tahap akhir adalah melengkapi semua suara dengan teknik seperti pada nomor 4. Kreatifitas dan pengembangan nada masing-masing suara bisa dilakukan, dengan syarat ada 1 atau 2 suara yang dijaga untuk tetap memakai nada dalam akor, sedangkan suara yang lain bisa diganti nadanya.<br />
+                                            <h2 class="ez-toc-section" id="namakan-gambar-a-karikaturalb-dekoratifc-represntatis40-gambar-ilustrasi-yang-dibuat-dengan-mengubah-bentukdengan-tujuan-memberikan-kritikan-atau-perlawanan-sosialmelebih-lebihkan-sesuatu-merup">
+                            6. namakan gambar.....a. Karikaturalb. DekoratifC.Represntatis40. Gambar ilustrasi yang dibuat dengan mengubah bentukdengan tujuan memberikan kritikan atau perlawanan sosialmelebih-lebihkan sesuatu merupakan gambar.....a.karikaturb. Kartunc. Poster11.Jawablah pertanyaan di bawah ini dengan singkat dan jelanim &amp; wil1. Bagaimana menurut pendapat kalian dengan aneka ragamIndonesia !Jelaskan pendapatmu tentang musik Talempong dari minBerikan contoh alat musik yang masuk dalam jenis cordof4. Apakah yang kamu ketahui tentang Panembromo dan GeTuliskan 5 langkah dalam menggambar komik !​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>40.c poster</p><p>1. aneka ragam indonesia artinya indonesia memiliki banyak hal didalamanya seperti kesenian,kepercayaan,bahasa, namun semua itu di rangkum menjadi satu yaitu kebudayaan diindonesia , Nusantara  sebutan yang sangat tepat untuk keragaman diindonesia  hal ini yang membuat indonesia sangat unik dari negara negara lain memiliki perbedaan keragamaan namun tetap satu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-membentuk-produksi-suaramenjaga-intonasi-frasa-dan-artikulasi-dalam-bernyanyi-adalah-beberapa-langkah-langkah-yang-dilakukan-untuk-berlatih-paduan-suara-dalam-satu-suara-disamping-langkah-langka">
+                            7. 1. Membentuk produksi suara,menjaga intonasi, frasa dan artikulasi dalam bernyanyi adalah beberapa langkah-langkah yang dilakukan untuk berlatih paduan suara dalam satu suara. Disamping langkah-langkah diatas kita dapat menambahkan : a. Menjaga keseimbangan suara sesama vokalis b. Memilih dirigent yang baik. c. Menjaga sikap ketika nernyanyi d. Bernyanyi yang keras dan penuh semangat.2. Musik ansambel merupakan perpaduan dari beberapa alat musik yang membentuk suatu orchestra. Di setiap daerah Indonesia memiliki alat orchestra yang sering disebut dengan karawitan. Karawitan disetiap daerah memiliki nama tersendiri, di Sumatra Barat disebut dengan Talempong, di Sumatra Utara disebut dengan Gondang, dan di Sulawesi Utara disebut dengan Kolintang.Nama atau sebutan untuk hal yang sama di daerah Jawa dan Bali adalah …. a. Panembromo b. Gamelan c. Mocopat d. Sindenan</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1) A</p><p>2) B</p><p><strong>Penjelasan:</strong></p><p> MAAF KALO SALAH ^^</p><br />
+                                            <h2 class="ez-toc-section" id="18-pada-budaya-musik-tradisi-jawa-terdapat-sajian-lagu-aerah-secara-berkelompok-yangbiasa-disebut-dengan-istilah-panembromo-panembromo-disajikan-bersama-diiringi-olehkarawitan-jawa-yang-dinyanyikan">
+                            8. 18. Pada budaya musik tradisi Jawa terdapat sajian lagu 'aerah secara berkelompok yangbiasa disebut dengan istilah Panembromo. Panembromo disajikan bersama diiringi olehkarawitan Jawa yang dinyanyikan secara serempak. Kelompok dapat terdiri dari wanitasaja, pria saja maupun campuran. Pada gaya tradisi daerah sajian panembromobiasanya melagukan secara satu suara/unisono atau secara dua suara. Hal yang harusdiperhatikan dalam menyanyi secara Unisono seperti pada panembromo ataupunsindenan yang menyanyi bersama membutuhkan sikap....A. kerja sama, mandiri dan menghargaiB. kerja sama, kekompakan dan menyatuC. kerja sama, percaya diri dan menghargaiD. kerja sama, percaya diri dan menyatu​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawaban nya adalah b</p><p><strong>Penjelasan:</strong></p><p>mengapa b sebab kerjasam itu penting  dan kekompakan dalam bernyanyi juga harus saling sama dan menyatu agr suara tersebut dapat didengar dengan merdu</p><br />
+                                            <h2 class="ez-toc-section" id="secara-umum-lagu-daerah-seperti-panembromo-atau-gerong-dinyanyikan-menggunakan-tangga-nada-a-diatonisb-pentatonisc-melankolisd-seriosa%e2%80%8b">
+                            9. secara umum, lagu daerah seperti panembromo atau gerong dinyanyikan menggunakan tangga nada....a. diatonisb. pentatonisc. melankolisd. seriosa​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>B.pentatonis</p><p><strong>Penjelasan:</strong></p><p>semoga membantu dan jadikan jawaban yang terbaik jika benar ya:)</p><br />
+                                            <h2 class="ez-toc-section" id="teknik-vokal-grup-yang-biasanya-dibawakan-pesinden-dalam-seni-musik-karawitan-jawa-disebuta-gerongb-panembromoc-gondangd-saman">
+                            10. teknik vokal grup yang biasanya dibawakan pesinden dalam seni musik karawitan jawa disebut?a. Gerongb. Panembromoc. Gondangd. Saman</h2><br />
+                        B. panembromo<br />srmoga bermanfaat<br /> jangan lupa bantu follow ya<br />
+                                            <h2 class="ez-toc-section" id="tugas-mandiri-kls-viii-jawablah-pertanyaan-berikut-dengan-tepat-1-apa-yang-dimaksud-lagu-tradisional-2-sebutkan-dan-jelaskan-teknik-bernyanyi-lagu-daerah-3-apa-yang-dimaksud-panembromo-4-j">
+                            11. TUGAS MANDIRI KLS VIII Jawablah pertanyaan berikut dengan tepat ! 1. Apa yang dimaksud lagu tradisional ? 2. Sebutkan dan jelaskan teknik bernyanyi lagu daerah ! 3. Apa yang dimaksud Panembromo ? 4. Jelaskan fungsi lagu daerah berdasarkan fungsi sosialnya ! 5. Jelaskan karakteristik musik tradisional ! 6. Sebutkan beberapa jenis musik tradisional Nusantara ! 7. Apakah fungsi musik tradisional Nusantara terkait dengan upacara adat ? 8. Bagaimana teknik dan gaya bernyanyi pada masyarakat dan suku bangsa asli Papua ? 9. Jelaskan yang dimaksud teknik Vokal ! 10. Jelaskan perbedaan lagu tradisional sebagai lagu rakyat dan lagu klasik ! Selamat Mengerjakan !!!plis harus sekarangjawab yang bener ya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Apa yang dimaksud lagu tradisional ?. </p><p>Lagu tradisional adalah lagu yang hidup di masyarakat secara turun temurun, dipertahankan sebagai sarana hiburan. </p><p>2. Sebutkan dan jelaskan teknik bernyanyi lagu daerah !</p><p>      1.    Gaya lokal → Karakteristik cara menyanyikan lagu daerah yang berbeda dengan daerah lainnya.Pada isu globalisasi kemudian disebut sebagai entitas lokal genius.     </p><p>      2.     Gaya Individual → Tipologi karakteristik seorang tokoh pencipta lagu-lagu yang membedakannya dengan pencipta lagu lainnya.    </p><p>      3.     Gaya Periodikal → Tipologi karakteristik zaman tertentu yang menghasilkan gaya musikal tertentu,misalnmya gaya dalam bentuk musikal adalah tripologi karakteristik yang dapat dibedakan dari berbagai bentuk karya musikal yang dapat dibedakan dari berbagai bentuk karya musikal yang ada,misalnya pada musik Betawi dalam gambrang kromong lagu sayur,dengan lagu phobin,atau dalam lagu keroncong tugu antara kroncong asli,langgam,dan stambul.Dalam karawitan Betawi gaya/musical style dikenal dengan istilah Liaw.</p><p>3.Apa yang dimaksud Panembromo ?</p><p>Panembromo adalah "tembang" atau nyanyian yg dilakukan bersama sama bisa juga tidak diiringi. </p><p>4.Jelaskan fungsi lagu daerah berdasarkan fungsi sosialnya !</p><p>1. Sebagai pengiring dalam upacara adat atau suatu tradisi.</p><p>2. Sebagai pengiring tari dan pertunjukan.</p><p>3. Sebagai media bermain.</p><p>4. Sebagai media komunikasi.</p><p>5. Sebagai media penerangan.</p><p></p><p>5.Jelaskan karakteristik musik tradisional !</p><p> Karakteristik dan utama dari musik tradisional ialah menggunakan bahasa daerah dengan alunan musik yang khas. Sehingga jenis musik ini jauh lebih dikenal oleh warga masyarakat daerah. Selain menggunakan bahasa daerah, pembawaan musik tradisional juga menggunakan alat musik daerah. Misalnya gamelan, kecapi, atau lainnya.</p><p>6.Sebutkan beberapa jenis musik tradisional Nusantara !</p><p>•Musik Gambang Kromo.</p><p>•Musik Keroncong. </p><p>•Musik Gong Luang. </p><p>•Musik Kombi. </p><p>•Musik Senandung Jolo. </p><p>•Musik Sasando Gong.</p><p>•Musik Tabuh Salimpat. </p><p>Musik Karang Dodou.</p><p>7. Apakah fungsi musik tradisional Nusantara terkait dengan upacara adat ? </p><p>"Iya"menurut ku terkait tapi kalau kamu ragu lebih baik jangan ikuti Jawaban no 7 ku ini yang singkat ʕ´•ᴥ•`ʔ</p><p>8.Bagaimana teknik dan gaya bernyanyi pada masyarakat dan suku bangsa asli Papua ? </p><p>Menyanyikan lagu secara serentak dan bersama sama dan bersifat gembira.pada papua pedalaman,dilakukan dengan cara serempak bertujuan untuk memanggil roh nenk moyang dan adat tertentu. </p><p>9.Jelaskan yang dimaksud teknik Vokal ! </p><p>Dalam bernyanyi memiliki struktur teknik vokal, hal ini yang 
+</p><p>dipergunakan oleh paduan suara untuk dapat bernyanyi dengan baik dan benar, 
+</p><p>Menurut Sihombing (2003:1) dalam Diktat yang berjudul “Vokal” mengatakan 
+</p><p>Teknik Vokal adalah teknik-teknik yang digunakan oleh penyanyi dalam 
+</p><p>membawakan sebuah karya musik vokal, yang bertujuan untuk memperoleh 
+</p><p>produksi suara yang baik sebagai media penyampaian gagasan musik sehingga 
+</p><p>dapat menghasilkan sajian vokal yang dapat menyampaikan ide-ide musik secara 
+</p><p>tepat dan indah, dan juga merupakan suatu kegiatan berolah suara, sebagai media 
+</p><p>untuk mengekspresikan nilai-nilai keindahan dengan musikal, yaitu dengan 
+</p><p>memperhatikan bagian-bagian dari teknik vokal seperti: pernafasan, pembentukan 
+</p><p>suara, artikulasi, frasering dan penjiwaan. 
+</p><p> Dalam kamus besar Bahasa Indonesia (1990:1004) teknik vokal yaitu : 
+</p><p>cara atau metode, sedangkan Vokal ialah hal mengenai suara manusia atau tentang 
+</p><p>huruf hidup yang dinyatakan dengan a, e, i, o, u. Vokal adalah istilah tentang 
+</p><p>bunyi dan huruf hidup yang dihasilkan oleh suara manusia. Menurut Soeharto 
+</p><p>(1992 :143) Vokal adalah suara manusia, sedangkan vokalisasi adalah istilah 
+</p><p>untuk kegiatan latihan vokal yang biasanya memakai bahan latihan khusus dalam 
+</p><p>suara tunggal, yang umumnya dengan sedikit kata-kata, dan disimpulkan dengan maksud teknik vokal yaitu : cara menghasilkan bunyi melalui suara manusia 
+</p><p>dalam kaitannya dengan huruf hidup seperti a, e, i, o, u.``` yang no 9 kali ini jika kepanjangan kamu singkat/ ringkas yah(◍•ᴗ•◍)```</p><p>10.Jelaskan perbedaan lagu tradisional sebagai lagu rakyat dan lagu klasik !</p><p></p><p>lagu rakyat= lagu yang berasal dari rakyat suatu daerah yang tersebar secara alami yang disampaikan secara lisan dan turun temurun.</p><p></p><p>lagu klasik=lagu yang dikembangkan di pusat pusat pemerintahan lama lagu klasik dinilai lebih agung saat pembawaannya</p><p></p><p><strong>Penjelasan:</strong></p><p>maaf kalau salah</p><p>kalau benar jawaban tercerdas yah </p><p>kalau mau nulis tapi kepanjangan kamu tinggal ringkas ajah yah </p><p>makasih</p><br />
+                                            <h2 class="ez-toc-section" id="berikut-adalah-vokal-grup-yang-biasa-menyanyikan-lagu-tradisional-untuk-mengiringi-tari-lagu-ini-sering-juga-dibawakan-oleh-para-penarinya-ialah-panembromo-gerong-saman-gendang-brainly">
+                            12. Berikut adalah vokal grup yang biasa menyanyikan lagu tradisional untuk mengiringi tari. Lagu ini sering juga dibawakan oleh para penarinya ialah... Panembromo Gerong Saman Gendang brainly</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tari zapin</p><p><strong>Penjelasan:</strong></p><p>maff kalau salah</p><br />
+                                            <h2 class="ez-toc-section" id="sebutan-lain-panembromo-dalam-kegiatan-musik-lagu-tradisional-jawa-adalaha-paduan-suarac-akapelab-vocal-groupd-kor%e2%80%8b">
+                            13.  sebutan lain panembromo dalam kegiatan musik lagu tradisional jawa adalahA paduan suaraC akapelaB. vocal groupD. kor​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>C.)Akapela</p><p></p><p>#Sejuta pohon</p><p>C)Akapela</p><p></p><p></p><p></p><p> </p><p>maaf kalo salah</p><p></p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="1-tuliskan-unsur-unsur-musik-pada-lagu-daerah-2-sebutkan-fungsi-sosial-lagu-daerah-dalam-kehidupan-masyarakat-3-sebutkan-keunikan-ciri-ciri-lagu-daerah-4-sebutkan-4-judul-lagu-daerah-dari-jawa">
+                            14. 1. Tuliskan unsur unsur musik pada lagu daerah.! 2. Sebutkan fungsi sosial lagu daerah dalam kehidupan masyarakat! 3. Sebutkan keunikan ciri ciri lagu daerah! 4. Sebutkan 4 judul lagu daerah dari Jawa Barat! 5. Jelaskan istilah *Panembromo* pada lagu gending jawa! Tolong jawab kak​</h2><br />
+                        <p> </p><p>1. nada</p><p>   irama</p><p>   dinamik</p><p>   tempo</p><p>2. Sarana upacara adat</p><p>    Pengiring tari dan pertunjukan</p><p>    Media Bermain</p><p>    Media komunikasi</p><p>    Media penerangan</p><p>3. Memiliki Sifat Informal</p><p>    Menggunakan Syair Lagu Bahasa Daerah</p><p>    Melibatkan Alat Musik Daerah</p><p>    Bagian dari Budaya Masyarakat</p><p>    Dipelajari Secara Lisan</p><p>    Tidak Terspesialisasi</p><p>    Tidak Memiliki Notasi</p><p> 4. Lagu Manuk Dadali</p><p>     Lagu Es Lilin</p><p>     Lagu Bubuy Bulan</p><p>     Lagu Cing Cangkeling</p><p>5. Panembromo adalah 'tembang' atau nyanyian yang dilakukan bersama-sama bisa diiringi dengan musik bisa juga tidak diiringi. Ada beberapa jenis 'tembang' yang bisa digunakan untuk Panembromo.</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dalam-bernyanyi-lagu-daerah-kita-dapat-menggunakan-teknik-vokal-group-di-bawah-ini-merupakan-teknik-vokal-group-yang-biasa-dipakai-masyarakat-aceh-sambil-menari-adalah-a-panembromo-b-gerong-c-sama">
+                            15. Dalam bernyanyi lagu daerah kita dapat menggunakan teknik vokal group. Di bawah ini merupakan teknik vokal group yang biasa dipakai masyarakat Aceh sambil menari adalah a. Panembromo b. Gerong c. Saman d. Gondang</h2><br />
+                        <p>Hi Sobat Braainly!!</p><p></p><p>Kali ini Aku akan menjawab pertanyaan kamu. Setelah menerima jawaban ini, jangan lupa tandai sebagai jawaban tercedas untuk bantu aku sekali aja! Yuk kalau gitu, simak jawabannya di bawah ini!</p><p></p><p><strong>Jawaban:</strong></p><p></p><p><strong>C</strong><strong>.</strong><strong> </strong><strong>S</strong><strong>A</strong><strong>M</strong><strong>A</strong><strong>N</strong></p><p></p><p><strong>P</strong><strong>e</strong><strong>m</strong><strong>b</strong><strong>a</strong><strong>h</strong><strong>a</strong><strong>s</strong><strong>a</strong><strong>n</strong><strong> </strong><strong>:</strong></p><p></p><p>Tari Saman adalah sebuah tarian Aceh yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat. Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW.</p><p></p><p>Panembromo dan Gerong berasal dari Jawa, lalu Gondang dari Toba, Sumatra Utara. Jadi yang paling tepat adalah <strong>S</strong><strong>A</strong><strong>M</strong><strong>A</strong><strong>N</strong><strong>.</strong></p><p></p><p>---</p><p></p><p><strong>D</strong><strong>E</strong><strong>T</strong><strong>I</strong><strong>L</strong><strong> </strong><strong>J</strong><strong>A</strong><strong>W</strong><strong>A</strong><strong>B</strong><strong>A</strong><strong>N</strong><strong> </strong><strong>:</strong></p><p></p><p><strong>M</strong><strong>A</strong><strong>P</strong><strong>E</strong><strong>L</strong><strong> </strong><strong>:</strong><strong> </strong><strong>S</strong><strong>E</strong><strong>N</strong><strong>I</strong><strong> </strong><strong>B</strong><strong>U</strong><strong>D</strong><strong>A</strong><strong>Y</strong><strong>A</strong></p><p></p><p><strong>K</strong><strong>E</strong><strong>L</strong><strong>A</strong><strong>S</strong><strong> </strong><strong>:</strong><strong> </strong><strong>7</strong><strong> </strong><strong>S</strong><strong>M</strong><strong>P</strong></p><p></p><p><strong>K</strong><strong>A</strong><strong>T</strong><strong>A</strong><strong> </strong><strong>K</strong><strong>U</strong><strong>N</strong><strong>C</strong><strong>I</strong><strong> </strong><strong>:</strong><strong> </strong><strong>T</strong><strong>A</strong><strong>R</strong><strong>I</strong><strong>A</strong><strong>N</strong><strong> </strong><strong>D</strong><strong>A</strong><strong>E</strong><strong>R</strong><strong>A</strong><strong>H</strong></p><p></p><p>Jadikan jawaban yang tercerdas!</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-vokal-grup-tradisional-dari-jawayang-cara-bernyanyinya-menggunakan-teknik-kanon-disebut-a-gerong-b-panembromoc-gendang-d-saman%e2%80%8b">
+                            16. 1 vokal grup tradisional dari jawayang cara bernyanyinya menggunakan teknik kanon disebut a gerong b panembromoc gendang d saman​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1 vokal grup tradisional dari jawa yang cara bernyanyinya menggunakan teknik kanon disebut  A. Gerong</p><p><strong>Jawaban:</strong></p><p>c.gendang</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="membawa-lagu-secara-vocal-group-dengan-aransemen-lebih-dari-satu-suara-berdasarkan-prinsip-prinsip-harmonisasi-musical-adalah-a-teknik-gerongb-teknik-gondangc-teknik-kord-teknik-panembromo%e2%80%8btol">
+                            17. membawa lagu secara vocal group dengan aransemen lebih dari satu suara berdasarkan prinsip prinsip harmonisasi musical adalah A.Teknik GerongB.Teknik GondangC.Teknik KorD.Teknik Panembromo​tolong kak dijawab secepatnya</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>b.teknik gondang</p><p>#maafkalausalah</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-apa-itu-teknik-bernyanyi-vokal-grup-panembromo-gerong-gondang-dan-saman-setelah-itu-tuliskan-keelebihan-dan-kekurangannya">
+                            18. Jelaskan apa itu teknik bernyanyi vokal grup panembromo, gerong, gondang dan saman. Setelah itu tuliskan keelebihan dan kekurangannya.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1.Panembromo adalah "tembang" atau nyanyian yg dilakukan bersama sama bisa juga tidak diiringi</p><p></p><p>2.Gondang adalah lagu pada tutunggulan. Ngagondang adalah kakawihan yang dipirig oleh tutunggulan. Pada mulanya gondangmerupakan bagian dari upacara untuk menghormati Dewi Padi, Nyi Pohaci SANGHYANG SRI, waktu menumbuk padi untuk pertama kalinya, biasa disebut meuseul Nyai Sri, setelah panen usai.</p><p>  </p><p>cuma tau itu </p><p> </p><br />
+                                            <h2 class="ez-toc-section" id="1-teknik-pemenggalan-katakalimat-yang-baikdan-benar-sehingga-mudah-dimengerti-dansesuai-dengan-ketentuan-yang-berlakudisebut-a-artikulasi-c-fraseringb-intonasi-d-resonansi2-vokal-grup-tradisi">
+                            19. 1.Teknik pemenggalan kata/kalimat yang baikdan benar sehingga mudah dimengerti dansesuai dengan ketentuan yang berlakudisebut....a. artikulasi c. fraseringb. intonasi d. resonansi2. Vokal grup tradisional dari jawa yang diiringioleh instrumental gamelan atau karawitandisebut....a. gerong c. panembromob. gondangd.saman3. Dalam berkreasi musik, untuk memperolehketinggian nada yang standar kita meng-gunakan ....a. garpulatab. tanda kuncic. tanda pugard. rekaman bunyi alat musik​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. artikulasi.  2. c. panembromo. 3. b. tanda kunci</p><br />
+                                            <h2 class="ez-toc-section" id="vokal-grup-tradisional-dari-jawa-yang-cara-menyanyi-bernyanyinya-menggunakan-teknik-kanon-disebut-a-keroncong-b-panembromo-c-gendang-d-saman%e2%80%8b">
+                            20. Vokal grup tradisional dari jawa yang cara menyanyi bernyanyinya menggunakan teknik kanon disebut a keroncong b panembromo c gendang d saman​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Vokal grup tradisional dari jawa yang cara menyanyi bernyanyinya menggunakan teknik kanon disebut </p><p>a keroncong </p><p><strong>b panembromo </strong></p><p>c gendang </p><p>d saman</p><p><strong>Penjelasan:</strong></p><p>Panembromo:Sebutan lain kor untuk lagu-lagu diiringi dgn instrumental karawitan atau gamelan.</p><p></p><p>Semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="pengertian-daritembang-mijilpucungkhinantimaskumambanggambuhasmarandasindensyehpanembromogeronggondang">
+                            21.  Pengertian dari:Tembang MijilPucungKhinantiMaskumambangGambuhAsmarandaSindenSyehPanembromoGerongGondang</h2><br />
+                        1. Mijil artinya keluar. Merupakan ilustrasi dari proses kelahiran manusia, mijil/mbrojol/mencolot dan keluarlah jabang bayi bernama manusia.<br />2. Manakala yang tertinggal hanyalah jasad belaka, dibungkus dalam balutan kain kafan / mori putih, diusung dipanggul laksana raja-raja, itulah prosesi penguburan jasad kita menuju liang lahat, rumah terakhir kita didunia.<br />3.Kinanti berasal dari kata kanthi atau tuntun. Seorang anak yang tumbuh dan berkembang membutuhkan tuntunan dari orang dewasa. Mereka tidak bisa dibiarkan begitu saja. Ketidakmampuannya dalam segala hal perlu bantuan orang tua.<br />4. Maskumambang berasal dari kata mas dan kumambang. Mas atau emas berarti sesuatu yg sangat berharga, yang bermakna bahwa Anak meskipun masih dalam kandungan merupakan harta yang tak ternilai harganya. Mambang atau kemambang artinya mengambang. Maskumambang menggambarkan Bayi yang hidup mengambang dalam rahim ibunya. Selama 9 bulan tumbuh dan hidup dalam dunianya yaitu rahim ibunda<br />5. Awal kata gambuh adalah jumbuh / bersatu yang artinya komitmen untuk menyatukan cinta dalam satu biduk rumah tangga. <br />6.Menggambarkan masa-masa dirundung asmara, dimabuk cinta, ditenggelamkan dalam lautan kasih. Asmara artinya cinta, dan Cinta adalah ketulusan hati, meminjam istilahnya kang Ebiet G.Ade dalam lagunya:”Cinta Yang Kuberi Setulus Hatiku Entah Apa Yang Kuterima Aku Tak Peduli”.<br />7. sebutan bagi wanita yang bernyanyi mengiringi orkestra gamelan, umumnya sebagai penyanyi satu-satunya<br />8. syeh......kurang tau ma'af<br />9.Panembromo adalah 'tembang' atau nyanyian yang dilakukan bersama-sama bisa diiringi dengan musik bisa juga tidak diiringi. Ada beberapa jenis 'tembang' yang bisa digunakan untuk Panembromo. Lagu syair disesuaikan dengan acara yang diadakan.<br />10. jenis nyanyian Jawa yang dinyanyikan secara bersama dalam musik gamelan. Pada jenis musil tertentu, yang tergolong musil klasik, gerong diiringi dengan seperangkat gamelan kecil memakai kemanak.<br />11. Gondang adalah lagu pada tutunggulan. Ngagondang adalah kakawihan yang dipirig oleh tutunggulan. <br /><br /><br />ma'af klo kurang tepat<br />
+                                            <h2 class="ez-toc-section" id="sebutan-lain-panembromo-dalam-kegiatan-musik-lagu-tradisional-jawa-adalah">
+                            22. Sebutan lain panembromo dalam kegiatan musik lagu tradisional jawa adalah</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Akapela</p><p></p><p>#Sejuta pohon</p><p>Jawaban: B. vocal group UwU</p><p></p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="vokal-yang-membawa-lagu-lagu-jawa-dalam-seni-musik-di-sebutkan-a-corb-canonc-gerongd-panembromopliss-ulangan-harus-hari-ini%e2%80%8b">
+                            23. vokal yang membawa lagu-lagu Jawa dalam seni musik di sebutkan.......A. corB. canonC. gerongD. panembromopliss ulangan harus hari ini​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>vokal yang membawa lagu-lagu Jawa dalam seni musik di sebut <strong>panembromo</strong><strong>.</strong></p><p><strong>Penjelasan:</strong></p><p>#semoga membantu</p><p>#followaku</p><p>#jadikanjawabantercerdas</p><br />
+                                            <h2 class="ez-toc-section" id="1-jelaskan-pengertian-panembromo-2-jelaskan-apa-yang-dimaksud-dengan-gondang-3-jelaskan-perbedaan-lagu-tradisional-sebagai-lagu-rakat-dan-lagu-klasik-4-jelaskan-lagu-tradisional-berdasarkan">
+                            24. 1. jelaskan pengertian panembromo...
+2.jelaskan apa yang dimaksud dengan gondang...
+3.jelaskan perbedaan lagu tradisional sebagai lagu rakat dan lagu klasik...
+4.jelaskan lagu tradisional berdasarkan fungsi sosialnya...
+5. Buatlah arasemen sederhana untuk sajian vokal grup sebuah lagu daerah yang kamu sukai...</h2><br />
+                        aku bisanya nomer 1 yaitu#panembromo adalah "tembang" atau nyayian dengan bersama sama bisa diiringi dengan musik dan bisa juga tidak diiringi.<br />
+                                            <h2 class="ez-toc-section" id="1-teknik-vokal-group-akapela-adalah-a-vokal-group-anak-anak-campuranb-vokal-group-anak-anakc-vokal-group-tanpa-iringan-instrumen-musikd-vokal-group-yang-bernyanyi-secara-susul-menyusul2-voka">
+                            25. 1. TEKNIK VOKAL GROUP AKAPELA ADALAH ....A. VOKAL GROUP ANAK ANAK CAMPURANB. VOKAL GROUP ANAK ANAKC. VOKAL GROUP TANPA IRINGAN INSTRUMEN MUSIKD. VOKAL GROUP YANG BERNYANYI SECARA SUSUL MENYUSUL2. VOKAL GRUP YANG MEMBAWAKAN TEMBANG JAWA DALAM SENI KARAWITAN DISEBUT.. *A. KORB. KANONC. GERONGD. PANEMBROMO​</h2><br />
+                        <p><strong>Jawaban:</strong></p>c<p>2.a</p><p>mohon maaf jika jawabannya salah</p><p></p><p><strong>Jawaban:</strong></p><p>1.C</p><p>2.D</p><p><strong>Penjelasan:</strong></p><p>Maaf Kalo salah:)</p><br />
+                                            <h2 class="ez-toc-section" id="karawitan-dan-panembromo-berasal-dari">
+                            26. karawitan dan panembromo berasal dari</h2><br />
+                        Karawitan dari jawa barat<br />
+                                            <h2 class="ez-toc-section" id="karawitan-dan-panembromo-berasal-dari-a-jawa-c-sulawesib-sumatra-d-papua">
+                            27. Karawitan dan Panembromo berasal dari...
+a. Jawa                      c. Sulawesi
+b. Sumatra                 d. Papua</h2><br />
+                        berasal dari a. jawa <br />
+                                            <h2 class="ez-toc-section" id="jelaskan-pengertian-panembromo-%e2%80%8b">
+                            28. jelaskan pengertian panembromo...?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p></p><p><strong></strong></p><p><strong>Panembromo adalah "tembang" atau nyanyian yg dilakukan bersama sama bisa juga tidak diiringi</strong></p><p>PANEMBROMO adalah ‘tembang’ atau nyanyian yang dilakukan bersama-sama bisa diirngi dengan musik bisa juga tidak diiringi.</p><p></p><p>Semoga membantu^_^</p><p>#backtoschool2019</p><br />
+                                            <h2 class="ez-toc-section" id="qjelaskan-pengertian-dari-panembromo-dan-berikan-contoh-lagu-yang-menggunakan-teknik-bernyanyi-vokal-grup-panembromono-ngasal-%e2%80%8b">
+                            29. QJelaskan pengertian dari Panembromo? Dan berikan contoh lagu yang menggunakan teknik bernyanyi vokal grup Panembromono ngasal !​</h2><br />
+                        <p><strong>Jawaban: PANEMBROMO adalah ‘tembang’ atau nyanyian yang dilakukan bersama-sama bisa diirngi dengan musik bisa juga tidak diiringi.</strong></p><p>PANEMBROMO dipentaskan dalam acara Pasar Kangen di Taman Budaya Yogyakarta,dengan konsep acaranya yaitu “TARKAM TARMAN” yang artinya “ANTAR KAMPUNG ANTAR TEMAN” dan di dalamnya juga ada pameran. Pameran yang ditunjukkan adalah hasil karya dari masing-masing kampung, contohnya : batik, sepatu, tas, kaos, lukisan, mainan, bahkan ada juga yang memamerkan pakaian wayang.</p><p>contoh = group karawitan, dan subaskatawa,</p><p> </p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="vocal-grup-yang-membawakan-tembang-jawa-dalam-seni-karawitan-disebut-a-kanonb-koorc-gerongd-panembromo">
+                            30. vocal grup yang membawakan tembang jawa dalam seni karawitan disebut ..
+a. kanon
+b. koor
+c. gerong
+d. panembromo</h2><br />
+                        dlm seni karawitan disebut....=d.panembromoJawabannya d. panembromo<br /><br />
+                                            <h2 class="ez-toc-section" id="jawablah-pertanyaan-di-bawah-ini-dengan-jelas-dan-singkat1-sebutkan-prinsip-prinsip-menggambar-model-dan-jelaskan2-sebutkan-alat-dan-bahan-menggambar-model-dan-jelaskan3-sebutkan-dan-jelaskan-te">
+                            31. Jawablah pertanyaan di bawah ini dengan jelas dan singkat
+1. Sebutkan prinsip prinsip menggambar model dan jelaskan
+2. Sebutkan alat dan bahan menggambar model dan jelaskan
+3. Sebutkan dan jelaskan teknik teknik menggambar model
+4.Sebutkan dan jelaskan karakteristik lagu daerah
+5. Jelaskan perbedaan panembromo dan gerong
+#jangan ngasal</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. Beberapa prinsip yang harus diperhatikan dalam menggambar model adalah komposisi, proporsi, keseimbangan, dan kesatuan. </p><p></p><p>2. Dalam menggambar model, terdapat beberapa alat dan bahan yang digunakan, yakni.</p><p>Pensil</p><p>Penghapus</p><p>Kertas</p><p>Pensil warna</p><p>Krayon</p><p>Cat air</p><p></p><p>3.1.  Teknik arsir. Teknik arsir adalah teknik menggambar yang dilakukan dengan menggabungkan garis-garis sejajar untuk menentukan gelap terang model yang digambar.  </p><p>Teknik blok.</p><p>2.  Teknik blok adalah teknik menggambar yang dilakukan dengan menggunakan satu warna untuk membentuk sebuah model atau objek. Dengan teknik blok, model atau objek yang digambar hanya terlihat seperti siluet.</p><p>Teknik titik. </p><p>3. Teknik titik atau pointilis adalah teknik menggambar yang dilakukan dengan menggabungkan titi-titik untuk menjadi sebuah model atau objek yang digambar. Dengan teknik titik, pelukis dapat menentukan gelap terang untuk model yang digambar dengan mudah.</p><p></p><p>4 1.penciptanya anonim.</p><p>2.menggunakan alat musik tradisional.</p><p>3.iringan musiknya sederhana.</p><p>4.menggunakan baha khas masing-masing 5.daerah tidak sama.</p><p></p><p>5. gerong adalah jenis nyanyian Jawa yang dinyanyikan secara bersama dalam musik gamelang,sedangkan </p><p>panembromo adalah 'tembang' atau nyanyian yang dilakukan bersama-sama bisa diiringi dengan musik bisa juga tidak.</p><br />
+                                            <h2 class="ez-toc-section" id="karawitan-dan-panembromo-berasal-dari">
+                            32. karawitan dan panembromo berasal dari</h2><br />
+                        Kalau tidak salah sih Jawa Tengah<br />Karawitan berasal Jawa Barat<br />Panembromo berasal dari Jawa Tengah<br />
+                                            <h2 class="ez-toc-section" id="tuliskan-pengertian-panembromo">
+                            33. Tuliskan pengertian panembromo</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tembang atau nyanyian yang dilakukan bersama sama, bisa diiringi musik, bisa juga tidak diiringi musik</p><p><strong>s</strong><strong>e</strong><strong>m</strong><strong>o</strong><strong>g</strong><strong>a</strong><strong> </strong><strong>m</strong><strong>e</strong><strong>m</strong><strong>b</strong><strong>a</strong><strong>n</strong><strong>t</strong><strong>u</strong></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-ciri-ciri-dari-panembromo">
+                            34. jelaskan ciri ciri dari panembromo</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Panembromo adalah 'tembang' atau nyanyian yang dilakukan bersama-sama bisa diiringi dengan musik bisa juga tidak diiringi. ... Lagu syair disesuaikan dengan acara yang diadakan.</p><p><strong>Penjelasan:</strong></p><p>maaf klw salah </p><p></p><br />
+                                            <h2 class="ez-toc-section" id="1-jelaskan-konsep-menggambar-model-2-gambar-lah-figur-manusia-laki-laki-atau-perempuan-3-sebutkan-unsur-utama-menggambar-ilustrasi-4-sebutkan-langkah-langkah-menggambar-ilustrasi-5-jelaskan-k">
+                            35. 1. Jelaskan konsep menggambar model 2. Gambar lah figur manusia laki - laki atau perempuan 3. Sebutkan unsur utama menggambar ilustrasi 4. Sebutkan langkah - langkah menggambar ilustrasi 5. Jelaskan konsep menggambar poster 6. Sebutkan bahan dan teknik yang sesuai dalam menggambar poster 7. Jelaskan konsep menggambar komik 8. Sebutkan 4 jenis gambar komik 9. Sebutkan ciri - ciri lagu tradisional 10. Jelaskan pengertian panembromo​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. konsep menggambar adalah kegiatan yang diawali dengan menentukan objek model yang akan digambar. Objek gambar model dapat berupa hewan, tumbuh-tumbuhan, manusia, dan kumpulan benda-benda yang disusun sesuai dengan komposisi, proporsi, keseimbangan, dan irama yang baik sehingga gambar memiliki satu kesatuan yang utuh.</p><p>4. Cara Menggambar Ilustrasi :</p><p>1)Menentukan Tema Gambar</p><p>2)Menentukan Jenis Ilustrasi</p><p>3)Menentukan komposisi, proposisi, keseimbangan, dan kesatuan objek gambar</p><p>4)Menggambar Sketsa Global.</p><p>5)Melakukan Finishing.</p><br />
+                                            <h2 class="ez-toc-section" id="vokal-yang-membawa-lagu-lagu-jawa-dalam-seni-musik-disebutkan-a-corb-gerongc-panembromod-canon">
+                            36. Vokal yang membawa lagu-lagu Jawa dalam seni musik disebutkan. . . .
+a.
+Cor
+b.
+Gerong
+c.
+Panembromo
+d.
+Canon</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>c. panembromo</p><p><strong>Penjelasan:</strong></p><p>Panembromo adalah 'tembang' atau nyanyian yang dilakukan bersama-sama bisa diiringi dengan musik bisa juga tidak diiringi. Ada beberapa jenis 'tembang' yang bisa digunakan untuk Panembromo. Lagu syair disesuaikan dengan acara yang diadakan.</p><p></p><p>maaf kalo salah</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="17-pada-upacara-upacara-atau-ritual-lagu-daerah-juga-digunakan-sebagai-salah-satu-propertikelengkapan-upacara-apabila-lagu-daerah-tidak-disajikan-maka-upacara-tersebutdinyatakan-belum-sah-misalnya">
+                            37. 17. Pada upacara-upacara atau ritual lagu daerah juga digunakan sebagai salah satu propertikelengkapan upacara. Apabila lagu daerah tidak disajikan maka upacara tersebutdinyatakan belum sah. Misalnya, upacara peringatan 35 hari kelahiran bayi. Pada zamandahulu selalu dilantunkan tembang-tembang yang menceritakan tentang nasehat dankebajikan menjadi seorang manusia. Tembang tersebut disebut dengan....A. madihinC. macapatB. panembromoD. perkolong-kolong​</h2><br />
+                        <p><strong>Penjelasan:</strong></p><p> A. macapat </p><p></p><p></p><p>kalo ngga salah kalo salh saya minta maaf yaaaa</p><p><strong>Jawaban:</strong></p><p>C. macapat </p><p>maaf kalo salah :)</p><br />
+                                            <h2 class="ez-toc-section" id="aransemen-vokal-yang-bebas-dalam-membawakan-lagu-dapat-lebih-ekspresif-adalah-termasuk-a-ciri-ciri-vokal-groupb-ciri-ciri-panembromoc-ciri-ciri-unisonod-ciri-ciri-paduan-suara%e2%80%8b">
+                            38. aransemen vokal yang bebas dalam membawakan lagu dapat lebih ekspresif adalah termasuk....A.ciri ciri vokal groupB.ciri ciri panembromoC.ciri ciri unisonoD.ciri ciri paduan suara​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A.ciri ciri vokal grub</p><br />
+                                            <h2 class="ez-toc-section" id="panembromo-adalah-teknik-bermain-musik%e2%80%a6a-teknik-bermain-musik-dalam-tradisional-jawa-dengan-diiringi-musik-gamelanb-teknik-bermain-musik-dalam-tradisional-jawa-dengan-diiringi-musik-angklung">
+                            39. Panembromo adalah teknik bermain musik…a. teknik bermain musik dalam tradisional jawa dengan diiringi musik gamelanb. teknik bermain musik dalam tradisional jawa dengan diiringi musik angklungc. teknik bermain musik dalam tradisional jawa dengan diiringi musik harpad. teknik bermain musik dalam tradisional jawa dengan diiringi musik cello​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>a. Teknik bermain musik dalam tradisional jawa dengan diiringi musik gamelan</p><br />
+                                            <h2 class="ez-toc-section" id="aransemen-vokal-yang-bebas-dalam-membawakan-lagu-dapat-lebih-ekspresif-adalah-termasuk-a-ciri-ciri-vokal-groupb-ciri-ciri-panembromoc-ciri-ciri-unisonod-ciri-ciri-paduan-suara%e2%80%8b">
+                            40. aransemen vokal yang bebas dalam membawakan lagu dapat lebih ekspresif adalah termasuk....A.ciri ciri vokal groupB.ciri ciri panembromoC.ciri ciri unisonoD.ciri ciri paduan suara​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>1. C.ciri ciri unisono</p><p><strong>Penjelasan:</strong></p><p>Semoga membantu,,, Terima kasih.</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/UJiZxnURb3E?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>seni</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/he-s-artinya/">He s Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mendamaikan-teman-yang-sedang-berselisih/">Mendamaikan Teman Yang Sedang Berselisih</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/penutupan-wawancara/">Penutupan Wawancara</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-surat-untuk-kakak-osis-yang-galak/">Contoh Surat Untuk Kakak Osis Yang Galak</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/yang-bukan-termasuk-fungsi-lembaga-sosial-yaitu/">Yang Bukan Termasuk Fungsi Lembaga Sosial Yaitu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/notif/">Notif</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/5ton-berapa-kg/">5ton Berapa Kg</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ana-catur-mungkur-tegese/">Ana Catur Mungkur Tegese</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/log-8/">Log 8</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/hal-hal-yg-belum-dapat-dilakukan/">Hal Hal Yg Belum Dapat Dilakukan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-yang-dimaksud-karya-seni-tiga-dimensi/">Apa Yang Dimaksud Karya Seni Tiga Dimensi</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/konflik-antara-pengusaha-dengan-buruh-merupakan-contoh-dari-konflik/">Konflik Antara Pengusaha Dengan Buruh Merupakan Contoh Dari Konflik</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/segitiga/">Segitiga</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gerakan-handstand-bertujuan-untuk-melatih/">Gerakan Handstand Bertujuan Untuk Melatih</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ukuran-1-ruas-jari/">Ukuran 1 Ruas Jari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/di-dunia-atau-didunia/">Di Dunia Atau Didunia</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sugeng-rawuh/">Sugeng Rawuh</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sejarah-sebagai-peristiwa-juga-disebut-sejarah/">Sejarah Sebagai Peristiwa Juga Disebut Sejarah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-qada/">Contoh Qada</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/faktor-pendorong-kerjasama-antar-negara-asean-yaitu/">Faktor Pendorong Kerjasama Antar Negara Asean Yaitu</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

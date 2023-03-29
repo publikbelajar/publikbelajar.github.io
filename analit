@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Analit - BELAJAR</title>
+    <meta name="description" content="Analit, , , , , , , 0, Analit – Laboratorio Analisi, www.analit.eu, 1920 x 640, jpeg, , 20, analit, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Analit - BELAJAR" />
+    <meta property="og:description" content="Analit, , , , , , , 0, Analit – Laboratorio Analisi, www.analit.eu, 1920 x 640, jpeg, , 20, analit, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Analit - BELAJAR" />
+    <meta name="twitter:description" content="Analit, , , , , , , 0, Analit – Laboratorio Analisi, www.analit.eu, 1920 x 640, jpeg, , 20, analit, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Analit</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">santinf214</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Analit" alt="Analit">
+                    </div>
+                    <p></p>
+                    <p>apa perbedaan analit dan sampel?</p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-perbedaan-analit-dan-sampel">1.
+                                            apa perbedaan analit dan sampel?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#makna-dari-geometri-analiti-bidang">2.
+                                            makna dari geometri analiti bidang ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#bedanya-matriks-dengab-analit-itu-apa-ya">3.
+                                            Bedanya matriks dengab analit itu apa ya? </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-prediksikan-bentuk-kurva-titrasi-jika-reaksi-titrasi-yang-terjadi-antaraa-asam-oksalat-analit-dan-natrium-hidroksida-titranb-natrium-hidroksida-analit-dan-asam-klorida-titranc-amonium">4.
+                                            1. Prediksikan bentuk kurva titrasi jika reaksi titrasi yang terjadi, antara:a. Asam oksalat (analit) dan natrium hidroksida (titran)b. Natrium hidroksida (analit) dan asam klorida (titran)c. Amonium hidroksida (analit) dan asam klorida (titran)2. Bagaimanakah cara membuat larutan baku 100 ml H2C2O4 0,5 M dari H2C2O4.2H2O  (Ar H=1, C=12 dan O=16), berikut langkah-langkahnya!3. Gambarkan kurva titrasi berikut langkah perhitungannya, jika 25 mL larutan CH3COOH 0,4 M dititrasi dengan larutan NaOH 0,4 M! (Ka CH3COOH = 10-5)4. Hitung kadar dari asam asetat (CH3COOH), dengan massa jenis= 1,05 gr/cm3 danAr H=1, C=12, O=16, jika 60 mL sampel larutan CH3COOH tepat dititrasi dengan  30 mL larutan NaOH 0,1 M!​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#pada-plat-kromatografi-kertas-berukuran-20-cm-%c3%97-20-cm-diteteskan-analit-dengan-jarak-0-5-cm-dari-bagian-bawah-plat-pada-elusi-berlangsung-eluen-dibiarkan-bergerak-hingga-batas-plat-kemudian-di">5.
+                                            Pada plat kromatografi kertas berukuran 20 cm × 20 cm diteteskan analit dengan jarak 0.5 cm dari bagian bawah plat. Pada elusi berlangsung, eluen dibiarkan bergerak hingga batas plat, kemudian dilakukan pengeringan yang dilanjutkan dengan penyemprotan dengan zat tertentu menghasilkan 3 noda. X, Y dan Z. Noda X bergerak sejauh 10 cm ; Y sejauh 13 cm dan Z 15 cm dari ujung bawah plat. Berapak nilai Rf semua noda?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#suatu-analit-dengan-konsentrasi-500-x-10-4m-ditempatkan-dalam-cuvet-1-cm-dan-diukur-pada-panjang-gelombang-490-nm-memberikan-absorbansi-0338-hitung-absorptivitas-molar-larutan-tersebut">6.
+                                            Suatu analit dengan konsentrasi 5,00 x 10-4M ditempatkan dalam cuvet 1 cm dan diukur pada panjang gelombang 490 nm memberikan absorbansi 0,338. hitung absorptivitas molar larutan tersebut.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#plat-klt-berkuran-200-mm-x-200-mm-sejumlah-kecil-analit-ditotolkan-pada-jarak-5mm-dari-bagian-terbawah-plat-tersebut-jarak-antara-penotolan-pertama-dengan-ke-dua-secara-horizontal-adalah-10-mm-sete">7.
+                                            Plat KLT berkuran 200 mm x 200 mm. Sejumlah kecil analit ditotolkan pada jarak 5mm dari bagian terbawah plat tersebut. Jarak antara penotolan pertama dengan ke dua secara horizontal adalah 10 mm. Setelah proses elusi dilakukan pengeringan dan penyemprotan terhadap plat, sehingga terlihat 3 noda : A, B dan C. Noda A bermigrasi sejauh 100 mm; B sejauh 132 mm dan C sejauh 150 mm dari titik penotolan. Berapakah nilai Rf untuk zat C?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-pengertian-a-titras-b-titrant-c-analitd-titik-ekivalen">8.
+                                            jelaskan pengertian 
+a. titras 
+b. titrant 
+c. analit
+d. titik ekivalen </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#titrasi-dimana-reagen-ditambahkan-ke-analit-dan-kelebihan-reagen-setelah-reaksi-ditentukan-dengan-titrasi-disebut-%e2%80%a6">9.
+                                            Titrasi dimana reagen ditambahkan ke analit, dan kelebihan reagen setelah reaksi ditentukan  dengan titrasi disebut ….</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#kata-tanya-yang-tepat-berdasarkan-informasi-dalam-teks-adalah6-kata-tanya-bagaimana-digunakan-untuk-menanyakan7-kh-ahmad-dahlan-adalah-salah-satu-tokoh-cindikiawan-pada-masa-perjuanganmendapatkan">10.
+                                            Kata tanya yang tepat berdasarkan informasi dalam teks adalah6. Kata tanya "bagaimana" digunakan untuk menanyakan7. KH. Ahmad Dahlan adalah salah satu tokoh cindikiawan pada masa perjuanganmendapatkan kemerdekaan Indonesia.Perbaikan kata bercetak miring agar menjadi kata baku adalah8. Dona hanya membawa duit seribu rupiah.Kata tidak baku pada kalimat di atas adalah9. Pada malam hari dunia menjadi terang.Thomas Alva Edison menemukan bola lampu pijar.Kata hubung yang dapat digunakan untuk menghubungkan kedua kalimatersebut adalah10. Di dalam kelas terdapat berbagai macam-macam alat listrik yang dirangkai secarparalelKata yang harus dihilangkan supaya kalimat di atas menjadi kalimat yang efekadalahUntuk mengasah cara berpikir kalian secara rasional, logis, kritis, dan analiticoba berikan jawaban soal-soal essay berikut ini dengan kemampuan berpikalian sendiri!Hiu gergaji memiliki gigi yang berjumlah 14 hingga 22 gigi gergaji. la megunakan giginya ini untuk mencari makan dan pertahanan diri. Tubuhnya berwakeabucahuan dan ramping la dapat berenang dengan cepat​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#manakah-larutan-yg-bertindak-sebagai-analit-dan-juga-sebagai-peniter-dalam-proses-standarisasi-naoh-dengan-h2c2o4">11.
+                                            manakah larutan yg bertindak sebagai analit dan juga sebagai peniter dalam proses standarisasi NaOH dengan H2C2O4</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebuah-larutan-sampel-akan-dianalisis-kadarnya-menggunakan-spektrofotometer-uv-vis-diketahui-persamaan-garis-lurus-yang-diperoleh-adalah-y-00102x-00271-jika-absorbansi-larutan-sampel-adalah-0">12.
+                                            Sebuah larutan sampel akan dianalisis kadarnya menggunakan Spektrofotometer Uv-Vis. Diketahui persamaan garis lurus yang diperoleh adalah y = 0,0102x + 0,0271. Jika absorbansi larutan sampel adalah 0,332 . Berapakah kadar analit dalam sampel tersebut?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#1-salah-satu-penyebab-beberapa-jenis-hewan-dilindungi-oleh-pemerintah-karena-a-harganya-murah-b-jumlahnya-yang-langka-c-harganya-mahal-dhmembahayakan-manusia-2-kelangkaan-hewan-bisa-terjadi-d">13.
+                                            1. Salah satu penyebab beberapa jenis hewan dilindungi oleh pemerintah karena.... a. harganya murah b. jumlahnya yang langka c. harganya mahal dhmembahayakan manusia 2. Kelangkaan hewan bisa terjadi di antaranya disebabkan oleh.... a terjadinya bencana alam b. adanya pelestarian hutan oleh manusia c. banyak dipelihara secara bebas d. diperjual belikan secara bebas 3. Jika semua tumbuhan punah, kemungkinan yang akan terjadi adalah.... a. manusia hanya akan memakan hewan b. hanya hewan pemakan tumbuhan yang punah manusia dan hewan akan mengalami kepunahan d. hewan pemakan tumbuhan akan menjadi pemakan daging 4. Stroberi dapat dikembangbiakkan secara vegetatif buatan dengan cara .... a. okulasi b. stek batang c. mencangkok d. merunduk 5. Teknik cangkok untuk memper- banyak tumbuhan dilakukan pada bagian .... a. akar b. buah c. daun batang ir kolian secara rasional, logis, kritis, dan analiti​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#waktu-yang-dibutuhkan-analit-untuk-melakukan-perjalanan-melalui-kolom%e2%80%8b">14.
+                                            waktu yang dibutuhkan analit untuk melakukan perjalanan melalui kolom​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#besarya-nilai-faktor-gravimetri-dari-analit-mgo-dalam-endapan-mg2p2o7-adalah-%e2%80%a6%e2%80%a6ar-mg-24-p-31-o-16%e2%80%8b">15.
+                                            Besarya nilai faktor gravimetri dari analit MgO dalam endapan Mg2P2O7 adalah ……(Ar Mg = 24  P = 31  O =16)​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#perhatikan-paregof-berikutpiala-jenderal-sudirman-telah-memberikan-euphoria-tersendiri-bagi-pencima-sepak-bola-di-analitair-para-pendukung-dengan-berbagai-atribut-datang-ke-stadion-utk-mendukung-tim">16.
+                                            Perhatikan paregof berikut!Piala Jenderal Sudirman telah memberikan euphoria tersendiri bagi pencima sepak bola di analitair. Para pendukung dengan berbagai atribut datang ke stadion utk mendukung timkesayangannya1).Kata dengan ejaan yang tidak tepat dan perbaikannya pada teks tersebut adalah...        tertulis     /    perbaikanA.euphoria.     /.   euforiaB.berbagai.     /.    perbagaiC. tim.              /.     teamD.stadion.        /stadiunmohon bantu ya kak...​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jelaskan-proses-pemisahan-analit-dengan-menggunakan-ekstraksi-padat-cair">17.
+                                            Jelaskan proses pemisahan analit dengan menggunakan ekstraksi padat-cair</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#dalam-titrasi-terdapat-keadaan-dalam-suatu-titrasi-dimana-jumlah-titran-yang-ditambahkan-setimbang-secara-kimia-dengan-jumlah-analit-apakah-nama-kondisi-tersebut-select-one-a-larutan-standart-b-ti">18.
+                                            dalam titrasi terdapat keadaan dalam suatu titrasi dimana jumlah titran yang ditambahkan setimbang secara kimia dengan jumlah analit apakah nama kondisi tersebut? Select one: a. Larutan Standart b. Titik Kesetimbangan c. standart primer d. Indikator e. Titik Akhir Titrasi</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#manakah-larutan-yg-bertindak-sebagai-analit-dan-juga-sebagai-titran-dalam-proses-standarisasi-na2b4o7-10h2o%e2%80%8b-bantu-dong">19.
+                                            manakah larutan yg bertindak sebagai analit dan juga sebagai titran dalam proses standarisasi Na2B4O7. 10H2O​ Bantu dong</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="apa-perbedaan-analit-dan-sampel">
+                            1. apa perbedaan analit dan sampel?</h2><br />
+                        <p><strong>Perbedaaan analit dan sampel </strong>adalah</p>Analit adalah zat yang terukur.Sampel adalah bagian dari populasi yang akan kita analisis.<p><strong>Pembahasan</strong></p><p><strong>Kimia Analisis</strong></p><p>Analisis dalam ilmu kimia memiliki arti segela sesuatu aktivitas yang dilakukan di laboratorium kimia untuk meneliti tentang sampel atau materi. Sedangkan kimia memiliki arti cabang ilmu yang mempelajari semua tentang materi dari mulai komposisi, struktur, sifat dan lain-lain. Kimia analisis merupakan salah satu cabang ilmu kimia yang mempelajari material untuk mengetahui komposisi, struktur, serta juga fungsi kimiawinya. </p><p></p><p><strong>Jenis Kimia Analisis</strong></p><p>Jenis kimia analisa dibagi menjadi dua jenis yaitu kualitatif dan kuantitatif.</p><p><strong>1. Analisis Kimia Kualitatif.</strong></p><p>Analisis kimia kualitatif adalah penelitian di laboratorium yang bertujuan untuk mengidentifikasi tentang ion,unsur, atau senyawa kimia dalam sampel yang dianalisis. </p><p><strong>2. Analisis Kimia Kuantitatif.</strong></p><p>Analisis kimia kuantitatif adalah penelitian di laboratorium yang betujuan untuk mengidentifikasi jumlah unsur atau senyawa dalam sampel yang dianalisis. </p><p></p><p>Dalam proses penelitian di laboratorium kita mengenal ada tiga istilah untuk hal yang kita analisis yaitu <strong>analit, sample, reaktan atau reagen</strong>. Perbedaan antara ketiganya adalah:</p><p><strong>1. Analit.</strong></p><p>Analit adalah kandungan zat yang akan diukur disaat penelitian di laboratorium. Contoh sampelnya adalah air, maka analitnya adalah timbal (Pb). Maka percobaan yang dilakukan di laboratorium bertujuan untuk menentukan jumlah logam timbal dalam air.</p><p><strong>2. Sampel.</strong></p><p>Sampel adalah salah satu bagian yang dipilih dari keseluruhan populasi yang digunakan untuk penelitian. Pengumpulan sampel yang dilakukan oleh peneliti disebut dengan sampling. Populasi adalah totatlitas semua kasus, kejadian, orang atau hal. </p><p><strong>3. Reagen.</strong></p><p>Reagen atau reaktan adalah zat yang digunakan untuk pengujian dan menganalisis bahan kimia. Adanya reaksi antara reaktan dapat menyebabakan terjadinya reaksi kimia. Reagen dapat membantu untuk membuat, mengukur atau membangun keberadaan reaksi kimia. </p><p></p><p><strong>Pelajari lebih lanjut</strong></p>Peranan ilmu kimia https://brainly.co.id/tugas/366273Cabang ilmu kimia https://brainly.co.id/tugas/16393211Materi adalah https://brainly.co.id/tugas/2768908Sifat materi https://brainly.co.id/tugas/13038248<p>	</p><p>               [tex]\boxed{\green{\spadesuit}}\boxed{\bold{\green{Semoga~Membantu}}}\boxed{\green{\spadesuit}}[/tex]             </p><p>             [tex]\boxed{\green{\spadesuit}}\boxed{\bold{\green{Chemistry~ionkovalen}}}\boxed{\green{\spadesuit}}[/tex]</p><p></p><p><strong>Detil Jawaban</strong></p><p>Mapel : Kimia</p><p>Bab : Kimia Analisis</p><p>Kelas : Mahasiswa</p><p>Semester : -</p><p>Kode : -</p><p>#AyoBelajar</p><br />
+                                            <h2 class="ez-toc-section" id="makna-dari-geometri-analiti-bidang">
+                            2. makna dari geometri analiti bidang ?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Geometri analitik adalah suatu cabang ilmu matematika yang merupakan kombinasi antara aljabar dan geometri. Sebaliknya gambar geometri sering memberikan pemahaman yang lebih jelas pada pengertian hasil secara aljabar.</p><p></p><p>—Semoga membantu!.</p><p></p><p><strong>Jawaban:</strong></p><p>Geometri analitik adalah suatu cabang ilmu matematika yang merupakan kombinasi antara aljabar dan geometri. ... Sebaliknya gambar geometri sering memberikan pemahaman yang lebih jelas pada pengertian hasil secara aljabar</p><br />
+                                            <h2 class="ez-toc-section" id="bedanya-matriks-dengab-analit-itu-apa-ya">
+                            3. Bedanya matriks dengab analit itu apa ya? </h2><br />
+                        matriks adalah kumpulan bilangan, simbol, atau ekspresi, berbentuk persegi panjang yang disusun menurut baris dan kolom. Sedangkan analit adalah Analit adalah sebuah zat yang diukur di laboratorium; zat kimia yang diuji pada sampel seperti air, udara, atau darah. <br />
+                                            <h2 class="ez-toc-section" id="1-prediksikan-bentuk-kurva-titrasi-jika-reaksi-titrasi-yang-terjadi-antaraa-asam-oksalat-analit-dan-natrium-hidroksida-titranb-natrium-hidroksida-analit-dan-asam-klorida-titranc-amonium">
+                            4. 1. Prediksikan bentuk kurva titrasi jika reaksi titrasi yang terjadi, antara:a. Asam oksalat (analit) dan natrium hidroksida (titran)b. Natrium hidroksida (analit) dan asam klorida (titran)c. Amonium hidroksida (analit) dan asam klorida (titran)2. Bagaimanakah cara membuat larutan baku 100 ml H2C2O4 0,5 M dari H2C2O4.2H2O  (Ar H=1, C=12 dan O=16), berikut langkah-langkahnya!3. Gambarkan kurva titrasi berikut langkah perhitungannya, jika 25 mL larutan CH3COOH 0,4 M dititrasi dengan larutan NaOH 0,4 M! (Ka CH3COOH = 10-5)4. Hitung kadar dari asam asetat (CH3COOH), dengan massa jenis= 1,05 gr/cm3 danAr H=1, C=12, O=16, jika 60 mL sampel larutan CH3COOH tepat dititrasi dengan  30 mL larutan NaOH 0,1 M!​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>wawww</p><p>awa</p><p>akwjsanz</p><p></p><p>ahaz8</p><br />
+                                            <h2 class="ez-toc-section" id="pada-plat-kromatografi-kertas-berukuran-20-cm-%c3%97-20-cm-diteteskan-analit-dengan-jarak-0-5-cm-dari-bagian-bawah-plat-pada-elusi-berlangsung-eluen-dibiarkan-bergerak-hingga-batas-plat-kemudian-di">
+                            5. Pada plat kromatografi kertas berukuran 20 cm × 20 cm diteteskan analit dengan jarak 0.5 cm dari bagian bawah plat. Pada elusi berlangsung, eluen dibiarkan bergerak hingga batas plat, kemudian dilakukan pengeringan yang dilanjutkan dengan penyemprotan dengan zat tertentu menghasilkan 3 noda. X, Y dan Z. Noda X bergerak sejauh 10 cm ; Y sejauh 13 cm dan Z 15 cm dari ujung bawah plat. Berapak nilai Rf semua noda?​</h2><br />
+                        <p>Rumus:</p><p>Jarak Semakin dekat cara mengerjakan harus dikurangi/-</p><p></p><p>Jika jarak semakin jauh maka cara mengerjakan harus dijumplahkan/+</p><p></p><p>20×20=40</p><p>40+5+15=60</p><p>60+10+13=83</p><p>83+3=86</p><p></p><p>Jawaban:</p><p>Nilai Rf semua noda adalah:</p><p>86m</p><br />
+                                            <h2 class="ez-toc-section" id="suatu-analit-dengan-konsentrasi-500-x-10-4m-ditempatkan-dalam-cuvet-1-cm-dan-diukur-pada-panjang-gelombang-490-nm-memberikan-absorbansi-0338-hitung-absorptivitas-molar-larutan-tersebut">
+                            6. Suatu analit dengan konsentrasi 5,00 x 10-4M ditempatkan dalam cuvet 1 cm dan diukur pada panjang gelombang 490 nm memberikan absorbansi 0,338. hitung absorptivitas molar larutan tersebut.</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>jawaban terlampir</p><p><strong>Penjelasan:</strong></p><p>semoga membantu </p><br />
+                                            <h2 class="ez-toc-section" id="plat-klt-berkuran-200-mm-x-200-mm-sejumlah-kecil-analit-ditotolkan-pada-jarak-5mm-dari-bagian-terbawah-plat-tersebut-jarak-antara-penotolan-pertama-dengan-ke-dua-secara-horizontal-adalah-10-mm-sete">
+                            7. Plat KLT berkuran 200 mm x 200 mm. Sejumlah kecil analit ditotolkan pada jarak 5mm dari bagian terbawah plat tersebut. Jarak antara penotolan pertama dengan ke dua secara horizontal adalah 10 mm. Setelah proses elusi dilakukan pengeringan dan penyemprotan terhadap plat, sehingga terlihat 3 noda : A, B dan C. Noda A bermigrasi sejauh 100 mm; B sejauh 132 mm dan C sejauh 150 mm dari titik penotolan. Berapakah nilai Rf untuk zat C?</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>0,7692 atau dibulatkan menjadi  0,77</p><p><strong>Penjelasan:</strong></p><p>Pada KLT ( Kromatografi Lapis Tipis), Rf (Retardation Factor) adalah perbandingan antara jarak yang ditempuh oleh suatu komponen dalam suatu sampel dengan jarak yang ditempuh pelarut/ eluen.</p><p>Rf= [tex]\frac{Jarak Komponen}{Jarak Eluen}[/tex] </p><p>Jarak eluen pada soal dianggap maksimum yaitu 200mm - 5 mm = 195 mm</p><p><strong>Maka Rf zat C adalah </strong> [tex]\frac{150}{195} =0,7692[/tex]</p><p>atau dapat dibulatkan sebesar 0,77</p><p></p><p><strong>KIMIA ITU MUDAH :)</strong></p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-pengertian-a-titras-b-titrant-c-analitd-titik-ekivalen">
+                            8. jelaskan pengertian 
+a. titras 
+b. titrant 
+c. analit
+d. titik ekivalen </h2><br />
+                        Titrasi adalah proses mengetahui konsentrasi suatu zat dengan menambahi zat tersebut dengan zat lain yang telah diketahui konsentrasinya.<br /><br />Titran adalah zat lain yang telah diketahui konsentrasinya.<br />Analit atau titrat adalah zat yang hendak diketahui konsentrasinya melalui proses titrasi.<br /><br />Titik ekivalen adalah kondisi dimana mol zat yang hendak diketahui konsentrasinya sama dengan mol zat lain yang telah diketahui konsentrasinya.<br /><br />
+                                            <h2 class="ez-toc-section" id="titrasi-dimana-reagen-ditambahkan-ke-analit-dan-kelebihan-reagen-setelah-reaksi-ditentukan-dengan-titrasi-disebut-%e2%80%a6">
+                            9. Titrasi dimana reagen ditambahkan ke analit, dan kelebihan reagen setelah reaksi ditentukan  dengan titrasi disebut ….</h2><br />
+                        <p><strong>Jawaban:Titik ekuivalen (TE) adalah angka atau volume yang menjadi tujuan utama dalam titrasi, seharusnya angka TE ini yang menjadi angka perhitungan, tapi sayangnya angka ini tidak dapat diperoleh secara manual atau dalam titrasi biasa maksudnya tidak bisa diamati.
+</strong></p><p><strong>Titrasi merupakan metode analisis kimiasecara kuantitatif yang biasa digunakan dalam laboratorium untuk menentukan konsentrasi dari reaktan. Karena pengukuran volum memainkan peranan penting dalam titrasi, maka teknik ini juga dikenali dengan analisis volumetrik. Analisis titrimetri merupakan satu dari bagian utama dari kimia analitik dan perhitungannya berdasarkan hubungan stoikhiometri dari reaksi-reaksi kimia. Analisis cara titrimetri berdasarkan reaksi kimia seperti: aA + tT → hasil dengan keterangan: (a) molekul analit A bereaksi dengan (t) molekul pereaksi T. Pereaksi T, disebut titran, ditambahkan secara sedikit-sedikit, biasanya dari sebuah buret, dalam bentuk larutan dengan konsentrasi yang diketahui. Larutan yang disebut belakangan disebut larutan standar dan konsentrasinya ditentukan dengan suatu proses standardisasi. Penambahan titran dilanjutkan hingga sejumlah T yang ekivalen dengan A telah ditambahkan. Maka dikatakan baha titik ekivalen titran telah tercapai. Agar mengetahui bila penambahan titran berhenti, kimiawan dapat menggunakan sebuah zat kimia, yang disebut indikator, yang bertanggap terhadap adanya titran berlebih dengan perubahan warna. Indikator asam basa terbuat dari asam atau basa organik lemah, yang mempunyai warna berbeda ketika dalam keadaan terdisosiasi maupun tidak. Perubahan warna ini dapat atau tidak dapat trejadi tepat pada titik ekivalen. Titik titrasi pada saat indikator berubah warna disebut titik akhir. Tentunya merupakan suatu harapan, bahwa titik akhir ada sedekat mungkin dengan titik ekivalen. Memilih indikator untuk membuat kedua titik berimpitan (atau mengadakan koreksi untuk selisih keduanya) merupakan salah satu aspek penting dari analisis titrimetri. Istilah titrasi menyangkut proses ntuk mengukur volum titran yang diperlukan untuk mencapai titik ekivalen. Selama bertahun-tahun istilah analisis volumetrik sering digunakan daripada titrimetrik. Akan tetapi dilihat dari segi yang ketat, istilah titrimetrik lebih baik, karena pengukuran-pengukuran volum tidak perlu dibatasi oleh titrasi. Pada analisis tertentu misalnya, orang dapat mengukur volum gas.
+</strong></p><p><strong></strong></p><p></p><p><strong>Penjelasan:Jadikan jawaban terbaik!</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="kata-tanya-yang-tepat-berdasarkan-informasi-dalam-teks-adalah6-kata-tanya-bagaimana-digunakan-untuk-menanyakan7-kh-ahmad-dahlan-adalah-salah-satu-tokoh-cindikiawan-pada-masa-perjuanganmendapatkan">
+                            10. Kata tanya yang tepat berdasarkan informasi dalam teks adalah6. Kata tanya "bagaimana" digunakan untuk menanyakan7. KH. Ahmad Dahlan adalah salah satu tokoh cindikiawan pada masa perjuanganmendapatkan kemerdekaan Indonesia.Perbaikan kata bercetak miring agar menjadi kata baku adalah8. Dona hanya membawa duit seribu rupiah.Kata tidak baku pada kalimat di atas adalah9. Pada malam hari dunia menjadi terang.Thomas Alva Edison menemukan bola lampu pijar.Kata hubung yang dapat digunakan untuk menghubungkan kedua kalimatersebut adalah10. Di dalam kelas terdapat berbagai macam-macam alat listrik yang dirangkai secarparalelKata yang harus dihilangkan supaya kalimat di atas menjadi kalimat yang efekadalahUntuk mengasah cara berpikir kalian secara rasional, logis, kritis, dan analiticoba berikan jawaban soal-soal essay berikut ini dengan kemampuan berpikalian sendiri!Hiu gergaji memiliki gigi yang berjumlah 14 hingga 22 gigi gergaji. la megunakan giginya ini untuk mencari makan dan pertahanan diri. Tubuhnya berwakeabucahuan dan ramping la dapat berenang dengan cepat​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>6. Cara</p><p>8. duit</p><p>9. karena</p><p>10. macam</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="manakah-larutan-yg-bertindak-sebagai-analit-dan-juga-sebagai-peniter-dalam-proses-standarisasi-naoh-dengan-h2c2o4">
+                            11. manakah larutan yg bertindak sebagai analit dan juga sebagai peniter dalam proses standarisasi NaOH dengan H2C2O4</h2><br />
+                        Materi : Asam Basa <br /><br />Standarisasi lar. NaOH dgn asam oksalat.<br /><br />NaOH sbg analit<br />H2C2O4 sbg titer<br /><br />#ChemistryIsFun<br />
+                                            <h2 class="ez-toc-section" id="sebuah-larutan-sampel-akan-dianalisis-kadarnya-menggunakan-spektrofotometer-uv-vis-diketahui-persamaan-garis-lurus-yang-diperoleh-adalah-y-00102x-00271-jika-absorbansi-larutan-sampel-adalah-0">
+                            12. Sebuah larutan sampel akan dianalisis kadarnya menggunakan Spektrofotometer Uv-Vis. Diketahui persamaan garis lurus yang diperoleh adalah y = 0,0102x + 0,0271. Jika absorbansi larutan sampel adalah 0,332 . Berapakah kadar analit dalam sampel tersebut?​</h2><br />
+                        <p><strong>Diketahui :</strong></p><p>larutan sampel dianalisis kadarnya menggunakan Spektrofotometer UV-Vis</p><p>persamaan garis lurus : y = 0,0102x + 0,0271</p><p>Absorbansi larutan sampel = 0,332</p><p><strong>Ditanya :</strong></p><p>Berapakah kadar analit dalam sampel tersebut?​</p><p><strong>Jawab :</strong></p><p>y = Absorbansi sampel dan kadar analit = x (biasanya dalam satuan ppm)</p><p>maka,</p><p>y = 0,332 = 0,0102x + 0,0271</p><p>x = [tex]\frac{0,332 - 0,0271}{0,0102} = 29,89215686[/tex] </p><p>x ≈ 30 ppm</p><p><strong>Jadi, kadar analit dalam sampel tersebut sebesar 30 ppm</strong></p><br />
+                                            <h2 class="ez-toc-section" id="1-salah-satu-penyebab-beberapa-jenis-hewan-dilindungi-oleh-pemerintah-karena-a-harganya-murah-b-jumlahnya-yang-langka-c-harganya-mahal-dhmembahayakan-manusia-2-kelangkaan-hewan-bisa-terjadi-d">
+                            13. 1. Salah satu penyebab beberapa jenis hewan dilindungi oleh pemerintah karena.... a. harganya murah b. jumlahnya yang langka c. harganya mahal dhmembahayakan manusia 2. Kelangkaan hewan bisa terjadi di antaranya disebabkan oleh.... a terjadinya bencana alam b. adanya pelestarian hutan oleh manusia c. banyak dipelihara secara bebas d. diperjual belikan secara bebas 3. Jika semua tumbuhan punah, kemungkinan yang akan terjadi adalah.... a. manusia hanya akan memakan hewan b. hanya hewan pemakan tumbuhan yang punah manusia dan hewan akan mengalami kepunahan d. hewan pemakan tumbuhan akan menjadi pemakan daging 4. Stroberi dapat dikembangbiakkan secara vegetatif buatan dengan cara .... a. okulasi b. stek batang c. mencangkok d. merunduk 5. Teknik cangkok untuk memper- banyak tumbuhan dilakukan pada bagian .... a. akar b. buah c. daun batang ir kolian secara rasional, logis, kritis, dan analiti​</h2><br />
+                        <p>Jawaban:1.b</p><p>﻿2.d</p><p>﻿3.d.</p><p>﻿4.b</p><p>﻿5.a</p><p></p><p>Penjelasan:</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="waktu-yang-dibutuhkan-analit-untuk-melakukan-perjalanan-melalui-kolom%e2%80%8b">
+                            14. waktu yang dibutuhkan analit untuk melakukan perjalanan melalui kolom​</h2><br />
+                        Kromatografi gas<strong>Penjelasan:</strong>Maaf jika terjadi kesalahjawaban.Thanks<p></p>FEELING GOOD<p></p><br />
+                                            <h2 class="ez-toc-section" id="besarya-nilai-faktor-gravimetri-dari-analit-mgo-dalam-endapan-mg2p2o7-adalah-%e2%80%a6%e2%80%a6ar-mg-24-p-31-o-16%e2%80%8b">
+                            15. Besarya nilai faktor gravimetri dari analit MgO dalam endapan Mg2P2O7 adalah ……(Ar Mg = 24  P = 31  O =16)​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Besarnya nilai faktor gravimetri dari analit MgO dalam endapan [tex] Mg_2P_2O_7 [/tex] adalah <strong>0</strong><strong>,</strong><strong>1</strong><strong>8</strong><strong>0</strong><strong>1</strong><strong>8</strong></p><p></p><p><strong>Penjelasan:</strong></p><p>FG = [tex] \frac{Mr \ Analit}{Mr \ Endapan} [/tex]</p><p>FG = [tex] \frac{Mr \ MgO}{Mr \ Mg_2P_2O_7} [/tex]</p><p>FG = [tex] \frac{Ar \ Mg + Ar \ O}{2 \times Ar \ Mg + \ 2 \times Ar \ P \ + 7 \times Ar \ O} [/tex]</p><p>FG =  [tex] \frac{24 + 16}{2 \times 24 + \ 2 \times 31 + \ 7 \times 16} [/tex]</p><p>FG = [tex] \frac{40}{48+62+112} [/tex]</p><p>FG = [tex] \frac{40}{222} [/tex]</p><p>FG = 0,18018</p><p></p><p><strong>Jadi</strong><strong> </strong><strong>faktor</strong><strong> </strong><strong>gravimetrinya</strong><strong> </strong><strong>adalah</strong><strong> </strong><strong>0</strong><strong>,</strong><strong>1</strong><strong>8</strong><strong>0</strong><strong>1</strong><strong>8</strong></p><p></p><p>#GeniuzS05</p><p><strong>#</strong><strong>S</strong><strong>A</strong><strong>Y</strong><strong>I</strong><strong>D</strong><strong>I</strong></p><br />
+                                            <h2 class="ez-toc-section" id="perhatikan-paregof-berikutpiala-jenderal-sudirman-telah-memberikan-euphoria-tersendiri-bagi-pencima-sepak-bola-di-analitair-para-pendukung-dengan-berbagai-atribut-datang-ke-stadion-utk-mendukung-tim">
+                            16. Perhatikan paregof berikut!Piala Jenderal Sudirman telah memberikan euphoria tersendiri bagi pencima sepak bola di analitair. Para pendukung dengan berbagai atribut datang ke stadion utk mendukung timkesayangannya1).Kata dengan ejaan yang tidak tepat dan perbaikannya pada teks tersebut adalah...        tertulis     /    perbaikanA.euphoria.     /.   euforiaB.berbagai.     /.    perbagaiC. tim.              /.     teamD.stadion.        /stadiunmohon bantu ya kak...​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>A.euphoria./. euforia</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="jelaskan-proses-pemisahan-analit-dengan-menggunakan-ekstraksi-padat-cair">
+                            17. Jelaskan proses pemisahan analit dengan menggunakan ekstraksi padat-cair</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Ekstraksi padat cair
+</p><p>Merupakan metode pemisahan yang baik karena pemisahan ini dapat dilakukan dalam tingkat makro dan mikro.Dan yang menjadi pokok pembahasan dalam ekstraksi cair-cair ini adalah kedua fasa yang dipisahkan merupakan cairan yang tidak saling tercampur.Prinsip metode ini didasarkan pada distribusi zat terlarut dengan perbandingan tetentu antara dua pelarut yang tidak saling bercampur seperti benzene dan kloroform.</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="dalam-titrasi-terdapat-keadaan-dalam-suatu-titrasi-dimana-jumlah-titran-yang-ditambahkan-setimbang-secara-kimia-dengan-jumlah-analit-apakah-nama-kondisi-tersebut-select-one-a-larutan-standart-b-ti">
+                            18. dalam titrasi terdapat keadaan dalam suatu titrasi dimana jumlah titran yang ditambahkan setimbang secara kimia dengan jumlah analit apakah nama kondisi tersebut? Select one: a. Larutan Standart b. Titik Kesetimbangan c. standart primer d. Indikator e. Titik Akhir Titrasi</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>E. Titik akhir titrasi</strong></p><p><strong>Penjelasan:</strong></p><p>Titik akhir titrasi (titration endpoint) adalah kondisi dimana terjadi kesetimbangan sehingga campuran titran dan analit memiliki pH sekitar 7. Titik akhir ini dapat diketahui melalui beberapa indikator yang ditambahkan didalam analit seperti phenolphthalein dan metil merah sehingga analit akan berubah warna ketika titran ditambahkan dan umumnya warna yang dihasilkan adalah warna terang (tidak pekat).</p><p>Sekian, semoga membantu dan semangat!</p><br />
+                                            <h2 class="ez-toc-section" id="manakah-larutan-yg-bertindak-sebagai-analit-dan-juga-sebagai-titran-dalam-proses-standarisasi-na2b4o7-10h2o%e2%80%8b-bantu-dong">
+                            19. manakah larutan yg bertindak sebagai analit dan juga sebagai titran dalam proses standarisasi Na2B4O7. 10H2O​ Bantu dong</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>Na2B407. </strong><strong>1</strong><strong>0</strong><strong>H</strong><strong>2</strong><strong>0</strong><strong>+</strong><strong> </strong><strong>HCI–</strong><strong>&gt;</strong><strong> </strong><strong>4</strong><strong>H</strong><strong>3</strong><strong>B</strong><strong>O</strong><strong>3</strong><strong>+</strong><strong> </strong><strong>2</strong><strong>n</strong><strong>a</strong><strong>c</strong><strong>l</strong><strong>+</strong></p><p><strong>H2O</strong></p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/bsk2QVPj23U?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>kimia</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-maksud-dari-satu-bangsa/">Apa Maksud Dari Satu Bangsa</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/gambar-tersebut-menunjukkan-kelainan-tulang-yang-disebut/">Gambar Tersebut Menunjukkan Kelainan Tulang Yang Disebut</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-definisi-wirausaha-menurut-pendapatmu/">Jelaskan Definisi Wirausaha Menurut Pendapatmu</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/2000-detik-berapa-menit/">2000 Detik Berapa Menit</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/iie-artinya/">Iie Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/goods-services-varieties-price-time-place/">Goods Services Varieties Price Time Place</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/25-100/">25 100</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/safe-flight-artinya/">Safe Flight Artinya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tanggal-17-ramadhan-tahun-611-m-bertepatan-dengan/">Tanggal 17 Ramadhan Tahun 611 M Bertepatan Dengan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mie-bahasa-inggris/">Mie Bahasa Inggris</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/100-300/">100 300</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/pesawat-terbang-termasuk-alat-transportasi-udara-yang-menggunakan/">Pesawat Terbang Termasuk Alat Transportasi Udara Yang Menggunakan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/tuliskan-fungsi-hiasan-interior/">Tuliskan Fungsi Hiasan Interior</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-arti-member/">Apa Arti Member</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berikut-yang-tidak-termasuk-pola-lantai-garis-lurus-adalah/">Berikut Yang Tidak Termasuk Pola Lantai Garis Lurus Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/sebuah-pabrik-terletak-berdekatan-dengan-sungai-yang-mengalir-melalui-perumahan/">Sebuah Pabrik Terletak Berdekatan Dengan Sungai Yang Mengalir Melalui Perumahan</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/orang-yang-akan-menikah-menjadi-wajib-hukumnya-apabila/">Orang Yang Akan Menikah Menjadi Wajib Hukumnya Apabila</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apa-itu-ilfill/">Apa Itu Ilfill</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jelaskan-tujuan-pidato/">Jelaskan Tujuan Pidato</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-janji-kepada-sesama-manusia/">Contoh Janji Kepada Sesama Manusia</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>

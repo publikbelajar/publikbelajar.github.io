@@ -1,0 +1,1285 @@
+<!DOCTYPE html>
+<html lang="id" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Share Artinya - BELAJAR</title>
+    <meta name="description" content="Share Artinya, , , , , , , 0, Budi Daya Kacang Ercis - Jurnal Asia, www.jurnalasia.com, 800 x 533, jpeg, , 8, share-artinya, BELAJAR" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Share Artinya - BELAJAR" />
+    <meta property="og:description" content="Share Artinya, , , , , , , 0, Budi Daya Kacang Ercis - Jurnal Asia, www.jurnalasia.com, 800 x 533, jpeg, , 8, share-artinya, BELAJAR" />
+    <meta property="og:site_name" content="BELAJAR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Share Artinya - BELAJAR" />
+    <meta name="twitter:description" content="Share Artinya, , , , , , , 0, Budi Daya Kacang Ercis - Jurnal Asia, www.jurnalasia.com, 800 x 533, jpeg, , 8, share-artinya, BELAJAR" />
+    <link rel='stylesheet' id='generate-style-css' href='https://publikbelajar.github.io/css/main.min.css'?ver=3.2.4'
+        media='all' />
+    <link rel='stylesheet' id='ez-toc-css' href='https://publikbelajar.github.io/css/screen.min.css'?ver=2.0.40' media='all' />
+    <style id='generate-style-inline-css'>
+        body {
+            background-color: #f7f7f7;
+            color: #222222;
+        }
+
+        a {
+            color: #1e73be;
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: #000000;
+        }
+
+        .wp-block-group__inner-container {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .generate-back-to-top {
+            font-size: 20px;
+            border-radius: 3px;
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            z-index: 10;
+            transition: opacity 300ms ease-in-out;
+            opacity: 0.1;
+            transform: translateY(1000px);
+        }
+
+        .generate-back-to-top__show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .navigation-search {
+            position: absolute;
+            left: -99999px;
+            pointer-events: none;
+            visibility: hidden;
+            z-index: 20;
+            width: 100%;
+            top: 0;
+            transition: opacity 100ms ease-in-out;
+            opacity: 0;
+        }
+
+        .navigation-search.nav-search-active {
+            left: 0;
+            right: 0;
+            pointer-events: auto;
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .navigation-search input[type="search"] {
+            outline: 0;
+            border: 0;
+            vertical-align: bottom;
+            line-height: 1;
+            opacity: 0.9;
+            width: 100%;
+            z-index: 20;
+            border-radius: 0;
+            -webkit-appearance: none;
+            height: 60px;
+        }
+
+        .navigation-search input::-ms-clear {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-ms-reveal {
+            display: none;
+            width: 0;
+            height: 0;
+        }
+
+        .navigation-search input::-webkit-search-decoration,
+        .navigation-search input::-webkit-search-cancel-button,
+        .navigation-search input::-webkit-search-results-button,
+        .navigation-search input::-webkit-search-results-decoration {
+            display: none;
+        }
+
+        .gen-sidebar-nav .navigation-search {
+            top: auto;
+            bottom: 0;
+        }
+
+        :root {
+            --contrast: #222222;
+            --contrast-2: #575760;
+            --contrast-3: #b2b2be;
+            --base: #f0f0f0;
+            --base-2: #f7f8f9;
+            --base-3: #ffffff;
+            --accent: #1e73be;
+        }
+
+        .has-contrast-color {
+            color: var(--contrast);
+        }
+
+        .has-contrast-background-color {
+            background-color: var(--contrast);
+        }
+
+        .has-contrast-2-color {
+            color: var(--contrast-2);
+        }
+
+        .has-contrast-2-background-color {
+            background-color: var(--contrast-2);
+        }
+
+        .has-contrast-3-color {
+            color: var(--contrast-3);
+        }
+
+        .has-contrast-3-background-color {
+            background-color: var(--contrast-3);
+        }
+
+        .has-base-color {
+            color: var(--base);
+        }
+
+        .has-base-background-color {
+            background-color: var(--base);
+        }
+
+        .has-base-2-color {
+            color: var(--base-2);
+        }
+
+        .has-base-2-background-color {
+            background-color: var(--base-2);
+        }
+
+        .has-base-3-color {
+            color: var(--base-3);
+        }
+
+        .has-base-3-background-color {
+            background-color: var(--base-3);
+        }
+
+        .has-accent-color {
+            color: var(--accent);
+        }
+
+        .has-accent-background-color {
+            background-color: var(--accent);
+        }
+
+        body,
+        button,
+        input,
+        select,
+        textarea {
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        body {
+            line-height: 1.5;
+        }
+
+        .entry-content>[class*="wp-block-"]:not(:last-child) {
+            margin-bottom: 1.5em;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            font-size: 14px;
+        }
+
+        .sidebar .widget,
+        .footer-widgets .widget {
+            font-size: 17px;
+        }
+
+        @media (max-width:768px) {
+            h1 {
+                font-size: 31px;
+            }
+
+            h2 {
+                font-size: 27px;
+            }
+
+            h3 {
+                font-size: 24px;
+            }
+
+            h4 {
+                font-size: 22px;
+            }
+
+            h5 {
+                font-size: 19px;
+            }
+        }
+
+        .top-bar {
+            background-color: #636363;
+            color: #ffffff;
+        }
+
+        .top-bar a {
+            color: #ffffff;
+        }
+
+        .top-bar a:hover {
+            color: #303030;
+        }
+
+        .site-header {
+            background-color: #ffffff;
+        }
+
+        .main-title a,
+        .main-title a:hover {
+            color: #222222;
+        }
+
+        .site-description {
+            color: #757575;
+        }
+
+        .main-navigation,
+        .main-navigation ul ul {
+            background-color: #ed4250;
+        }
+
+        .main-navigation .main-nav ul li a,
+        .main-navigation .menu-toggle,
+        .main-navigation .menu-bar-items {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"])>a,
+        .main-navigation .menu-bar-item:hover>a,
+        .main-navigation .menu-bar-item.sfHover>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        button.menu-toggle:hover,
+        button.menu-toggle:focus {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul li[class*="current-menu-"]>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .navigation-search input[type="search"],
+        .navigation-search input[type="search"]:active,
+        .navigation-search input[type="search"]:focus,
+        .main-navigation .main-nav ul li.search-item.active>a,
+        .main-navigation .menu-bar-items .search-item.active>a {
+            color: #ffffff;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation ul ul {
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li a {
+            color: #ffffff;
+        }
+
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover>a,
+        .main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus>a,
+        .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"])>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+            color: #fcd9d6;
+            background-color: #c42f2f;
+        }
+
+        .separate-containers .inside-article,
+        .separate-containers .comments-area,
+        .separate-containers .page-header,
+        .one-container .container,
+        .separate-containers .paging-navigation,
+        .inside-page-header {
+            background-color: #ffffff;
+        }
+
+        .entry-title a {
+            color: #222222;
+        }
+
+        .entry-title a:hover {
+            color: #55555e;
+        }
+
+        .entry-meta {
+            color: #595959;
+        }
+
+        .sidebar .widget {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets {
+            background-color: #ffffff;
+        }
+
+        .footer-widgets .widget-title {
+            color: #000000;
+        }
+
+        .site-info {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        .site-info a {
+            color: #ffffff;
+        }
+
+        .site-info a:hover {
+            color: #d3d3d3;
+        }
+
+        .footer-bar .widget_nav_menu .current-menu-item a {
+            color: #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="url"],
+        input[type="password"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="number"],
+        textarea,
+        select {
+            color: #666666;
+            background-color: #fafafa;
+            border-color: #cccccc;
+        }
+
+        input[type="text"]:focus,
+        input[type="email"]:focus,
+        input[type="url"]:focus,
+        input[type="password"]:focus,
+        input[type="search"]:focus,
+        input[type="tel"]:focus,
+        input[type="number"]:focus,
+        textarea:focus,
+        select:focus {
+            color: #666666;
+            background-color: #ffffff;
+            border-color: #bfbfbf;
+        }
+
+        button,
+        html input[type="button"],
+        input[type="reset"],
+        input[type="submit"],
+        a.button,
+        a.wp-block-button__link:not(.has-background) {
+            color: #ffffff;
+            background-color: #55555e;
+        }
+
+        button:hover,
+        html input[type="button"]:hover,
+        input[type="reset"]:hover,
+        input[type="submit"]:hover,
+        a.button:hover,
+        button:focus,
+        html input[type="button"]:focus,
+        input[type="reset"]:focus,
+        input[type="submit"]:focus,
+        a.button:focus,
+        a.wp-block-button__link:not(.has-background):active,
+        a.wp-block-button__link:not(.has-background):focus,
+        a.wp-block-button__link:not(.has-background):hover {
+            color: #ffffff;
+            background-color: #3f4047;
+        }
+
+        a.generate-back-to-top {
+            background-color: rgba(0, 0, 0, 0.4);
+            color: #ffffff;
+        }
+
+        a.generate-back-to-top:hover,
+        a.generate-back-to-top:focus {
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #ffffff;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-bar-item:hover>a,
+            .main-navigation .menu-bar-item.sfHover>a {
+                background: none;
+                color: #ffffff;
+            }
+        }
+
+        .nav-below-header .main-navigation .inside-navigation.grid-container,
+        .nav-above-header .main-navigation .inside-navigation.grid-container {
+            padding: 0px 20px 0px 20px;
+        }
+
+        .site-main .wp-block-group__inner-container {
+            padding: 40px;
+        }
+
+        .separate-containers .paging-navigation {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        .entry-content .alignwide,
+        body:not(.no-sidebar) .entry-content .alignfull {
+            margin-left: -40px;
+            width: calc(100% + 80px);
+            max-width: calc(100% + 80px);
+        }
+
+        .rtl .menu-item-has-children .dropdown-menu-toggle {
+            padding-left: 20px;
+        }
+
+        .rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+            padding-right: 20px;
+        }
+
+        @media (max-width:768px) {
+
+            .separate-containers .inside-article,
+            .separate-containers .comments-area,
+            .separate-containers .page-header,
+            .separate-containers .paging-navigation,
+            .one-container .site-content,
+            .inside-page-header {
+                padding: 30px;
+            }
+
+            .site-main .wp-block-group__inner-container {
+                padding: 30px;
+            }
+
+            .inside-top-bar {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-header {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .widget-area .widget {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .footer-widgets-container {
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+            }
+
+            .inside-site-info {
+                padding-right: 30px;
+                padding-left: 30px;
+            }
+
+            .entry-content .alignwide,
+            body:not(.no-sidebar) .entry-content .alignfull {
+                margin-left: -30px;
+                width: calc(100% + 60px);
+                max-width: calc(100% + 60px);
+            }
+
+            .one-container .site-main .paging-navigation {
+                margin-bottom: 20px;
+            }
+        }
+
+        /* End cached CSS */
+        .is-right-sidebar {
+            width: 30%;
+        }
+
+        .is-left-sidebar {
+            width: 30%;
+        }
+
+        .site-content .content-area {
+            width: 70%;
+        }
+
+        @media (max-width:768px) {
+
+            .main-navigation .menu-toggle,
+            .sidebar-nav-mobile:not(#sticky-placeholder) {
+                display: block;
+            }
+
+            .main-navigation ul,
+            .gen-sidebar-nav,
+            .main-navigation:not(.slideout-navigation):not(.toggled) .main-nav>ul,
+            .has-inline-mobile-toggle #site-navigation .inside-navigation>*:not(.navigation-search):not(.main-nav) {
+                display: none;
+            }
+
+            .nav-align-right .inside-navigation,
+            .nav-align-center .inside-navigation {
+                justify-content: space-between;
+            }
+        }
+    </style>
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://publikbelajar.github.io/img/cropped-soalbelajar-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://publikbelajar.github.io/img/cropped-soalbelajar-270x270.png" />
+</head>
+
+<body
+    class="home blog wp-custom-logo wp-embed-responsive right-sidebar nav-above-header separate-containers nav-search-enabled nav-aligned-center header-aligned-center dropdown-hover"
+    itemtype="https://schema.org/Blog" itemscope>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-dark-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0.49803921568627" />
+                    <feFuncG type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-grayscale">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-red">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 1" />
+                    <feFuncG type="table" tableValues="0 0.27843137254902" />
+                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-midnight">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0 0" />
+                    <feFuncG type="table" tableValues="0 0.64705882352941" />
+                    <feFuncB type="table" tableValues="0 1" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-magenta-yellow">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.78039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.94901960784314" />
+                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-purple-green">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                    <feFuncG type="table" tableValues="0 1" />
+                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+        role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+        <defs>
+            <filter id="wp-duotone-blue-orange">
+                <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                    values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                <feComponentTransfer color-interpolation-filters="sRGB">
+                    <feFuncR type="table" tableValues="0.098039215686275 1" />
+                    <feFuncG type="table" tableValues="0 0.66274509803922" />
+                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                    <feFuncA type="table" tableValues="1 1" />
+                </feComponentTransfer>
+                <feComposite in2="SourceGraphic" operator="in" />
+            </filter>
+        </defs>
+    </svg><a class="screen-reader-text skip-link" href="#content" title="Langsung ke isi">Langsung ke isi</a>
+    <nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation"
+        aria-label="Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+        <div class="inside-navigation grid-container">
+            <form method="get" class="search-form navigation-search" action="/">
+                <input type="search" class="search-field" value="" name="q" title="Cari" />
+            </form> <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+                <span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true"
+                        xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                        <path
+                            d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" />
+                    </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                        width="1em" height="1em">
+                        <path
+                            d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                    </svg></span><span class="mobile-menu">Menu</span> </button>
+            <div id="primary-menu" class="main-nav">
+                <ul id="menu-soal-belajar" class=" menu sf-menu">
+                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1"><a
+                            href="https://publikbelajar.github.io">Home</a></li>
+                </ul>
+                </ul>
+            </div>
+            <div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Buka Kolom Pencarian"
+                        href="#"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                    d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" />
+                            </svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                                width="1em" height="1em">
+                                <path
+                                    d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" />
+                            </svg></span></a></span></div>
+        </div>
+    </nav>
+    <header class="site-header grid-container" id="masthead" aria-label="Situs"
+        itemtype="https://schema.org/WPHeader" itemscope>
+        <div class="inside-header grid-container">
+            <h1 class="site-logo">
+                <a href="https://publikbelajar.github.io" rel="home"> BELAJAR</a>
+            </h1>
+        </div>
+    </header>
+
+    <div class="site grid-container container hfeed" id="page">
+        <div class="site-content" id="content">
+            <div class="content-area" id="primary">
+                    <main class="site-main" id="main">
+        <article id="post-1327" class="post-1327 post type-post status-publish format-standard hentry category-info"
+            itemtype="https://schema.org/CreativeWork" itemscope="">
+            <div class="inside-article">
+                <header class="entry-header" aria-label="Konten">
+                    <h1 class="entry-title" itemprop="headline">Share Artinya</h1>
+                    <div class="entry-meta">
+                       <span
+                            class="byline">oleh <span class="author vcard" itemprop="author"
+                                itemtype="https://schema.org/Person" itemscope=""><span class="author-name"
+                                    itemprop="name">syanda2</span></span></span>
+                    </div>
+                </header>
+                <div class="entry-content" itemprop="text">
+                    <div style="text-align: center">
+                        <img src="https://tse1.mm.bing.net/th?q=Share+Artinya" alt="Share Artinya">
+                    </div>
+                    <p></p>
+                    <p>apa sih arti share properti and share in title </p>
+                    <div id="ez-toc-container"
+                        class="ez-toc-v2_0_40 counter-hierarchy ez-toc-counter ez-toc-light-blue ez-toc-container-direction">
+                        <div class="ez-toc-title-container">
+                            <p class="ez-toc-title">Daftar Isi</p>
+                            <span class="ez-toc-title-toggle"><a href="#"
+                                    class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle"
+                                    area-label="ez-toc-toggle-icon-1"><label for="item-63b392361c4a0"
+                                        aria-label="Table of Content"><span
+                                            style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;direction:ltr;"><svg
+                                                style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg"
+                                                class="list-377408" width="20px" height="20px" viewBox="0 0 24 24"
+                                                fill="none">
+                                                <path
+                                                    d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z"
+                                                    fill="currentColor"></path>
+                                            </svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013"
+                                                xmlns="http://www.w3.org/2000/svg" width="10px" height="10px"
+                                                viewBox="0 0 24 24" version="1.2" baseProfile="tiny">
+                                                <path
+                                                    d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z">
+                                                </path>
+                                            </svg></span></label><input type="checkbox" id="item-63b392361c4a0"></a></span>
+                        </div>
+                        <nav>
+                            <ul class="ez-toc-list ez-toc-list-level-1 ">
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-sih-arti-share-properti-and-share-in-title">1.
+                                            apa sih arti share properti and share in title </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-share-tolong-jawab%e2%80%8b">2.
+                                            Apa arti share tolong jawab​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-kalimat-splte-share">3.
+                                            arti kalimat Splte Share</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-i-do-nottolong-share-jawaban">4.
+                                            Apa Arti : I do not
+Tolong share jawaban</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#she-grabs-a-share-knife-artinya">5.
+                                            she grabs a share knife artinya</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ap-arti-darilikekomentsharesuscribe%e2%80%8b">6.
+                                            ap arti darilikekomentsharesuscribe​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-kata-ini-apa-yawant-to-share-the-same-food-with-you%e2%80%8b">7.
+                                            arti kata ini apa ya"want to share the same food with you"​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-dari-i-have-a-friend-to-share-with-anyway">8.
+                                            arti dari I have a friend to share with anyway</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-kalimat-dari-she-doesnt-want-to-share-with-others-shes-very-mean">9.
+                                            arti kalimat dari, she doesn't want to share with others. She's very mean.</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-dari-we-will-learn-to-share-and-inquire-about-each-otherincluding">10.
+                                            apa arti dari we will learn to share and inquire about each other,including</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tit-was-very-happy-and-dont-forget-to-share-the-candies-with-coan-artinya%e2%80%8b">11.
+                                            tit was very happy and don't forget to share the candies with coan artinya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#artikan-bahasa-indonesia-take-care-with-what-you-share-%e2%80%8b">12.
+                                            Artikan Bahasa Indonesia Take Care with what you share.​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-we-wil-learn-to-share-and-unquire%e2%80%8b">13.
+                                            Apa Arti we wil learn to Share and unquire​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-we-will-learn-to-share-and-inguire">14.
+                                            Arti we will learn to share and inguire</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-same-here-i-am-going-to-share-the-same-thing">15.
+                                            Arti same here i am going. To share the same thing</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#i-want-to-share-apa-artinya-jawab%e2%80%8b">16.
+                                            I want to share apa artinya jawab​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#sebutkan-arti-dalam-bahasa-indonesia-cut-ting-your-hair-share-orpir-supportingin-theelectrone%e2%80%8b">17.
+                                            sebutkan arti dalam bahasa indonesia :Cut ting Your hair share orpir supportingin theelectron?e​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#artikan-dari-yourdoingsheme-tosharecomeinclean-tolong-kak-%e2%80%8b">18.
+                                            Artikan Dari :YourDoingSheMe toShareComeInClean. tolong kak! ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#i-will-share-your-point-in-the-class-wa-artinya%e2%80%8b">19.
+                                            I will share your point in the class wa artinya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#artinya-apakak-kalo-tau-share-%e2%80%8b">20.
+                                            Artinya apakak kalo tau share ​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tolong-dong-bagi-yang-tau-share-artikel-pidato-bahasa-arab-yang-terdapat-hadist-dan-artinya">21.
+                                            tolong dong bagi yang tau, share artikel pidato bahasa arab yang terdapat hadist dan artinya ?</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#really-good-so-to-share-with-anyway-i-must-go-now-byeartinya%e2%80%8b">22.
+                                            really? good so to share with anyway I must go now byeartinya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-dari-each-pair-of-us-share-one-table">23.
+                                            arti dari each pair of us share one table</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-dari-so-i-have-a-friend-to-share-with-anyway">24.
+                                            apa arti dari SO I HAVE A FRIEND TO SHARE WITH ANYWAY</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-share-itu-apadi-jawab-y">25.
+                                            ARTI SHARE ITU APA?
+DI JAWAB Y</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#jika-proses-share-folder-sukses-maka-pada-folder-yang-di-share-akan-terdapat-gambar">26.
+                                            jika proses share folder sukses maka pada folder yang di share akan terdapat gambar</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-dari-ok-guys-i-went-to-share-you-about-my-daily-activities">27.
+                                            arti dari *ok guys i went to share you about my daily activities*</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#tit-was-very-happy-and-dont-forget-to-share-the-candies-with-coan-artinya%e2%80%8b">28.
+                                            tit was very happy and don't forget to share the candies with coan artinya​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-let-me-share-the-happy-news-that-lve-recuvied">29.
+                                            apa arti let me share the happy news that l've recuvied</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-becouse-they-want-to-share-information%e2%80%8b">30.
+                                            apa arti becouse they want to share information​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#to-share-the-information-with-othersand-to-give-an-explanationartikan-yaa-tolong">31.
+                                            -to share the information with others,and-to give an explanationartikan yaa tolong :)</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#artikan-i-have-two-doughnuts-which-i-would-like-to-share-with-you-tolong-artikan-yg-jelas-dan-mudah-dimengerti">32.
+                                            Artikan :
+i have two doughnuts which i would like to share with you.
+Tolong artikan yg jelas dan mudah dimengerti</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#share-her-sister-happines-with-her-friends-artinya">33.
+                                            share her sister happines with her friends artinya </a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-dari-share-photos-for-once%e2%80%8b">34.
+                                            arti dari share photos for once​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-kata-yang-pling-mendekati-dari-kata-share">35.
+                                            Apa arti  kata yang pling mendekati dari kata  share</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#arti-may-i-share-my-pronlem">36.
+                                            Arti may I share my pronlem</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-perbedaan-antara-share-hosting-pada-linuk-debian-dan-share-hosting-pada-windows%e2%80%8b">37.
+                                            Apa perbedaan antara Share Hosting pada Linuk Debian dan share hosting pada Windows?​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ibu-membeli-sayur-sayuran-di-pasar-arti-kata-ulang-share-sayuran-adalah">38.
+                                            ibu membeli sayur-sayuran di pasar arti kata ulang share sayuran adalah</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#ayoo-cug-bantu-share-share-ilmu-gitu%e2%80%8b">39.
+                                            ayoo CUG bantu share share ilmu gitu​</a>
+                                    </li>
+                                                                    <li class="ez-toc-page-1 ez-toc-heading-level-2">
+                                        <a class="ez-toc-link ez-toc-heading-1"
+                                            href="#apa-arti-share-the-sweet">40.
+                                            Apa arti share the sweet</a>
+                                    </li>
+                                                            </ul>
+                        </nav>
+                    </div>
+                                            <h2 class="ez-toc-section" id="apa-sih-arti-share-properti-and-share-in-title">
+                            1. apa sih arti share properti and share in title </h2><br />
+                        berbagi properti dan berbagi judulberbagi peoperti dan berbagi nama/gelar<br />
+                                            <h2 class="ez-toc-section" id="apa-arti-share-tolong-jawab%e2%80%8b">
+                            2. Apa arti share tolong jawab​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>arti</strong><strong> </strong><strong>share </strong><strong>:</strong><strong> </strong><strong>bagikan</strong></p><p></p><p><strong>Penjelasan:</strong></p><p>Maaf klo salah </p><p></p><p><strong>Jawaban:</strong></p><p>Share adalah membagikan</p><p><strong>Penjelasan:</strong></p><p></p><p>Share ialah membagikan data contohnya link YouTube ke org lain</p><p></p>pesan baik=<p></p><p>▁ ▂ ▄ ▅ ▆ ▇ █༺ᴍᴇssᴀɢᴇ༻█ ▇ ▆ ▅ ▄ ▂ ▁</p><p></p><p></p><p></p><p>sᴇᴍᴏɢᴀ sᴇʟᴀʟᴜ ᴅɪsɪsɪ ❤️ᴀʟʟᴀʜ❤️</p><p>sᴀʏᴀɴɢɪ ᴏʀᴀɴɢ ❤️ᴛᴜᴀᴍᴜ❤️</p><p>ᴍᴀᴀғ ᴋᴀʟᴏ sᴀʟᴀʜ</p><p>sᴇɴᴀɴɢ ᴍᴇᴍʙᴀɴᴛᴜ </p><p>ᴅᴀɴ sᴇʟᴀᴍᴀᴛ ʙᴇʟᴀᴊᴀʀ</p><p></p><p></p><p>█████████</p><p>█▄█████▄█</p><p>█▼▼▼▼▼▼▼▼▼▼❤</p><p>█xʟᴇɢᴇɴᴅsᴏғʙʀᴀɪɴʟʏx</p><p>█▲▲▲▲▲▲▲▲▲▲❤</p><p>█████████</p><p>██ ██</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="arti-kalimat-splte-share">
+                            3. arti kalimat Splte Share</h2><br />
+                        <p>Menyebar kebencian</p><p></p><p>Semoga membantu :)</p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-i-do-nottolong-share-jawaban">
+                            4. Apa Arti : I do not
+Tolong share jawaban</h2><br />
+                        aku yidak tau <br />semoga membantu I do not artinya saya tidak tau atau saya tidak<br /><br /><br />maaf kalau ada kesalahan <br />
+                                            <h2 class="ez-toc-section" id="she-grabs-a-share-knife-artinya">
+                            5. she grabs a share knife artinya</h2><br />
+                        dia anak perempuan meraih pangsa pisauia meraih pisau tajam*kalau gasalah <br /><br /><br />
+                                            <h2 class="ez-toc-section" id="ap-arti-darilikekomentsharesuscribe%e2%80%8b">
+                            6. ap arti darilikekomentsharesuscribe​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>like = menyukai</p><p>coment = menanggapi / berkomentar</p><p>share = membagikan/ memberi tahu</p><p>subscribe = berlangganan</p><p></p><p></p><p></p><p></p><p></p><p>follow ig @alfarizirm_</p><p>jangan luoa subscribe cahaya hati official syair abu nawas ya</p><p><strong>Jawaban:</strong></p><p>1. Like = Suka</p><p>2. Comment = Komen / Komentar</p><p>3. Share = Bagikan</p><p>4. Subscribe = Berlangganan</p><br />
+                                            <h2 class="ez-toc-section" id="arti-kata-ini-apa-yawant-to-share-the-same-food-with-you%e2%80%8b">
+                            7. arti kata ini apa ya"want to share the same food with you"​</h2><br />
+                        <p>ingin berbagi makanan yang sama dengan Anda</p><p><strong>Jawaban:</strong></p><p>'ingin berbagi makanan yang sama dengan mu'</p><p></p><p>semoga bermanfaat:)</p><br />
+                                            <h2 class="ez-toc-section" id="arti-dari-i-have-a-friend-to-share-with-anyway">
+                            8. arti dari I have a friend to share with anyway</h2><br />
+                        aku mempunyai teman untuk berbagi segalanyaAku punya teman untuk berbagi setiap saat<br /><br />
+                                            <h2 class="ez-toc-section" id="arti-kalimat-dari-she-doesnt-want-to-share-with-others-shes-very-mean">
+                            9. arti kalimat dari, she doesn't want to share with others. She's very mean.</h2><br />
+                        <p>artinya adalah</p><p>Dia tidak mau berbagi dengan orang lain. Dia sangat jahat. </p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-dari-we-will-learn-to-share-and-inquire-about-each-otherincluding">
+                            10. apa arti dari we will learn to share and inquire about each other,including</h2><br />
+                        kita akan belajar untuk berbagi dan bertanya tentang satu sama lain, termasuk<br />
+                                            <h2 class="ez-toc-section" id="tit-was-very-happy-and-dont-forget-to-share-the-candies-with-coan-artinya%e2%80%8b">
+                            11. tit was very happy and don't forget to share the candies with coan artinya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p><strong>SOAL</strong><strong>:</strong></p><p><strong>tit was very happy and don't forget to share the candies with </strong><strong>coan</strong></p><p></p><p><strong>JAWA</strong><strong>BAN</strong><strong>:</strong></p><p><strong>tit sangat senang dan jangan lupa untuk berbagi permen dengan coan</strong></p><p><strong>Penjelasan:</strong></p><p>MAAF KALAU SALAH (*˘︶˘*).｡*♡</p><p>JADIKAN YANG TERBAIK YA (◍•ᴗ•◍)✧*。</p><p>JANGAN LUPA FOLLOW AKU YA (✯ᴗ✯)</p><p>NANTI AKU FOLLBACK╰(⸝⸝⸝´꒳`⸝⸝⸝)╯</p><br />
+                                            <h2 class="ez-toc-section" id="artikan-bahasa-indonesia-take-care-with-what-you-share-%e2%80%8b">
+                            12. Artikan Bahasa Indonesia Take Care with what you share.​</h2><br />
+                        <p>Jawaban: Hati-Hati dengan apa yang kamu share</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-we-wil-learn-to-share-and-unquire%e2%80%8b">
+                            13. Apa Arti we wil learn to Share and unquire​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>kita akan belajar berbagi dan unik</p><br />
+                                            <h2 class="ez-toc-section" id="arti-we-will-learn-to-share-and-inguire">
+                            14. Arti we will learn to share and inguire</h2><br />
+                        <p>kita akan belajar untuk berbagi/share dan bertanya/menanyakan~</p><p>#backtoschool2019</p><br />
+                                            <h2 class="ez-toc-section" id="arti-same-here-i-am-going-to-share-the-same-thing">
+                            15. Arti same here i am going. To share the same thing</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>same here, i am going: disini sama/sama disini, aku sedang pergi</p><p>to share the same thing: untuk membagikan hal yg sama</p><br />
+                                            <h2 class="ez-toc-section" id="i-want-to-share-apa-artinya-jawab%e2%80%8b">
+                            16. I want to share apa artinya jawab​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Saya Ingin Membagi</p><p><strong>Penjelasan:</strong></p><p>I = Saya</p><p>Want To = Ingin</p><p>Share = Membagi</p><p></p><p><strong>Semoga membantu</strong></p><p><strong>Jawaban:</strong></p><p>Saya Ingin Membagi </p><p></p><p>I = Saya/Aku</p><p>Want To = Ingin</p><p>Share = Berbagi/Membagi </p><p></p><p>★★★★★★★★★★★★★★★★★★★★★</p><p></p><p>• Rincian Yang Berkaitan •</p><p>↓</p><p>1. I Don't Wont To Share = Saya Tidak Ingin Berbagi </p><p>2. I Don't Wont To Share It = Saya Tidak Akan Membaginya </p><p>3. I will share it = Saya Akan Membagikannya </p><p></p><p>★ Dan Masih Banyak Yang Lainnya ★</p><p></p><p><strong>Penjelasan:</strong></p><p></p><p>#LearnWithBrainly</p><p>#TetapJagaKesehatan&amp;PatuhiProkes^^</p><p>#TetapStayAtHomeDanIngat5M</p><p>#TetapSemangatBelajarDimasaPandemi</p><p>#LikeRateJadiinYangTerbaikYa:')</p><p></p><p>✨ SALAM SUKSE UNTUK KALIAN SEMUA ✨</p><br />
+                                            <h2 class="ez-toc-section" id="sebutkan-arti-dalam-bahasa-indonesia-cut-ting-your-hair-share-orpir-supportingin-theelectrone%e2%80%8b">
+                            17. sebutkan arti dalam bahasa indonesia :Cut ting Your hair share orpir supportingin theelectron?e​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Potong bagian rambut Anda mendukung orpir</p><p>dalam</p><p>elektron?</p><p>e</p><p><strong>Jawaban:potong bagian rambut anda mendukung orpir dalam elektron</strong></p><p></p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="artikan-dari-yourdoingsheme-tosharecomeinclean-tolong-kak-%e2%80%8b">
+                            18. Artikan Dari :YourDoingSheMe toShareComeInClean. tolong kak! ​</h2><br />
+                        <p><strong>Jawaban</strong></p><p></p><p>Milikmu</p><p> Sedang mengerjakan</p><p> Dia</p><p> saya untuk</p><p> Membagikan</p><p> Datang</p><p> Di dalam</p><p> Membersihkan.</p><p></p><p><strong>S</strong><strong>E</strong><strong>M</strong><strong>O</strong><strong>G</strong><strong>A</strong><strong> </strong><strong>M</strong><strong>E</strong><strong>B</strong><strong>A</strong><strong>N</strong><strong>T</strong><strong>U</strong><strong> </strong><strong>✨</strong><strong>✨</strong></p><p><strong>Jawaban:</strong></p> Your : Milikmu Doing:  Sedang mengerjakan She:  Dia Me to:  saya untuk/saya juga Share:  Membagikan Come:  Datang In:  Di dalam Clean:  Membersihkan<p><strong>Penjelasan:</strong></p><p>maaf kl slh</p><br />
+                                            <h2 class="ez-toc-section" id="i-will-share-your-point-in-the-class-wa-artinya%e2%80%8b">
+                            19. I will share your point in the class wa artinya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Saya akan membagikan poin Anda di kelas wa</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="artinya-apakak-kalo-tau-share-%e2%80%8b">
+                            20. Artinya apakak kalo tau share ​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>|  Al Muhairish membangun gedung</p><br />
+                                            <h2 class="ez-toc-section" id="tolong-dong-bagi-yang-tau-share-artikel-pidato-bahasa-arab-yang-terdapat-hadist-dan-artinya">
+                            21. tolong dong bagi yang tau, share artikel pidato bahasa arab yang terdapat hadist dan artinya ?</h2><br />
+                        <br /> Konsep Islam Tentang Persudaraan<br /><br />السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ<br /><br /><br /><br />حَضَرَةُ المُكَرَّم وَالمُخْتَرَمِ مُدِيْرُ المَعْهَد نور الهدى<br /><br />أَيُّهَا الاَسَاتِذَةُ الكِرَامِ !<br /><br />وَأَيُّهَا الإِخْوَان الاَحِبَّاءُ !<br /><br />أَوَّلاً، حَمْدًا وَشُكْرًا إِلىَ اللهِ تَعَالَى الَّذِي قَدْ أَعْطَانَا رَحْمَةً وَبَركةً وَهِدَايَةً حَتَّى نَجْتَمِعَ فِي هَذَا المَكَانِ المُبَارَك. وَثَانِيًا، هَيَّا بِنَا أَنْ نُصَلِّيَ عَلىَ سَيِّدِنَا مُحَمَّدٍ صلى الله عليه وسلم الَّذِى قَدْ أَخْرَجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّوْرِ. وَآخِرًا، أَقُوْلُ شُكْرًا كَثِيْرًا إِلىَ رَئِيْسِ الجَلَسَةِ الَّذِى قَدْ أَعْطَانِي وَقْتًا ثَمِيْنًا لِأَخْطُبَ بَيْنَ يَدَيْكُمْ أَجْمَعِيْنَ تَحْتَ المَوْضُوْعِ:<br />“فِكْرَةُ الإِسْلاَمِ فِى الإِخْوَةِ البَشَرِيَّةِ”<br /><br />إِخْوَانِي المُسْلِمُوْنَ السُّعَدَاء....<br /><br />قال الله تعالى فى كتابه الكريم، أعوذ بالله من الشيطان الرجيم، بسم الله الرحمن الرحيم.. كَانَتْ تَعَالِيْمُ الإِسْلاَمِ العَالَمِيَّةُ مَذْكُوْرَةً فىِ هَذِهِ الاَيَةِ. فَالإِسْلاَمُ يَكْرَهُ التَّفْرِيْقَ فِى الِجنْسِ وَالدَّرَجَةِ وَاللَّوْنِ وَالمَكَانِ. وقال الله تعالى فى القرآن الكريم "وَلَقَدْ كَرَّمْنَا بَنِى آدَمَ “وَكَذَلِكَ فَقَدْ أَكَّدَ نَبِيُّنَا مُحَمَّدٌ صلى الله عليه وسلم عَلَى إِيْجَادِ المَسَاوَاةِ وَالإِتِّحَادِ بَيْنَ النَّاسِ. وَفَضْلاً عَنْ ذَلِكَ فَقَدْ أَكَّدَ اللهُ وَرَسُوْلُهُ محمد صلى الله عليه وسلم عَلَى تَحْقِيْقِ حُقُوْقِ الجِوَارِ عَلَى الجَارِ الأَخَر بِدُوْنِ النَّظْرِ إِلىَ أَسَاسِ الدِّيْنِ وَالإِعْتِبَارَاتِ الأُخْرَى، بَلْ هُنَاكَ اَحَادِيْثُ أُخْرَى تَحَثُّنَا عَلىَ اَنْ نُعَامِلَ الجَارَ مُعَامَلَةً طَيِّبَةً، وَذَلِكَ يَشْمُلُ الِجَوارُ غَيْرَ الْمُسْلِمِيْنَ.<br /><br />هَذَا التَّعْلِيْمُ الكَرِيْمُ لَيْسَ أَلْفَاظًا ُتُقَالُ بَلْ عَمَلٌ وَتَطْبِيْقُ يَقِيْنٍ، وَلاَ شَكَّ أَنَّ نَبِيَّنَا مُحَمَّدًا صلى الله عليه وسلم قَدِ اتَّجَرَ مَعَ الْكَافِرِيْنَ المُعَارِضِيْنَ لَهُ فِى مَكَّةَ عَلىَ أَسَاسٍ سِلْمِيِّ.<br /><br />إخواني المحترمون!<br /><br />وَكَذَلِكَ كَانَ الرَّسُوْلُ صلى الله عليه وسلم يَحْفَظُ المُعَامَلَةَ الشَّخْصِيَّةَ الطَّيِّبَةَ مَعَ اليَهُوْدِيِّ فِى المَدِيْنَةِ المُنَوَّرَةِ وَلَوْ كَاُنوْا يُعَارِضُوْنَ بِعْثَتَهُ الكَرِيْمَةَ. وَقَدْ زَارَ الرَّسُوْلُ صلى الله عليه وسلم بُيُوْتَهُمْ وَشَارَكَهُمْ فِى الحُزْنِ وَالفَرَحِ. وَفَوْقَ ذَلِكَ فَقَدْ حَقَّقَ الرَّسُوْلُ صلى الله عليه وسلم مُعَامَلَةَ التِّجَارَةِ مَعَ بَعْضِهِمْ. وَنَضْرِبُ لَكُمْ مَثَلاً حِكَايَةً مَشْهُوْرَةً عَنْ سَيِّدِنَا عُمَرَ بْنِ الخَطَّابِ رَضِيَ اللهُ عَنْهُ وَالأَعْمَى العَجُوْز.<br /><br /><br /><br />Yang saya hormati dan semoga Allah muliakan Pimpinan Pondok Pesantren Nurul Huda,<br /><br />Dewan guru yang terhormat,<br /><br />Para saudara-saudaraku yang saya cintai.<br /><br />Pertama-tama marilah kita panjatkan puji dan syukur ke hadirat Allah swt. yang telah memberikan rahmat dan hidayah-Nya kepada kita sehingga kita dapat berkumpul di tempat yang penuh berkah ini. Shalawat beriring salam mari kita curah limpahkan ke jungjunan alam Nabi Muhammad saw. yang telah mengeluarkan manusia dari kebodohan menuju ilmu pengetahuan. <br /><br />Allah swt. telah berfirman dalam Al-Qur’an:<br /><br /> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى وَجَعَلْنَاكُمْ شُعُوْبًا وَقَبَائِلَ لِتَعَارَفُوْا إِنَّ أَكْرَمَكُمْ عِنْدَ اللهِ أَتْقَاكُمْ...الأية<br /><br />Artinya: “Hai manusia sesungguhnya kami telah menciptakan kamu dari jenis laki-laki dan perempuan kemudian kami jadikan kamu bersuku-suku dan berbangsa-bangsa supaya kamu saling mengenal, sesungguhnya orang yang paling mulia diantara kamu di sisi Allah yaitu orang yang paling bertaqwa”.<br /><br />Dalam ayat ini disebutkan ajaran-ajaran islam diantara bahwa islam tidak menyukai/benci terhadap adanya diskriminasi jenis kelamin, pangkat, warna kulit dan kedudukan.  Dan sungguh telah kami muliakan anak keturunan Nabi Adam, demikianlah Nabi kita Muhammad saw telah menegaskan tentang persamaan dan persatuan diantara manusia. Di samping itu, nabi menegaskan mengenai pentingnya untuk mewujudkan hak-hak tetangga tanpa memandang agama dan faktor-faktor yang lainnya, bahkan ada hadits lain yang menganjurkan kepada kita untuk bergaul dengan tetangga secara baik dan ini mencakup tetangga yang non-muslim.<br /><br /><br />Demikian juga Nabi memelihara pertemanan yang baik dengan orang-orang yahudi di Madinah Al-Munawwarah walaupun mereka menentang akan kerasulannya. Nabi mengunjungi rumah-rumah mereka dan bekerja sama dengan mereka dalam suka dan duka, disamping itu nabi mengadakan transaksi perdagangan dengan sebagian mereka. Kami akan berikan kamu contoh cerita yang terkenal tentang sayyidina umar dan orang tua yang buta.<br /><br />Pada suatu hari sayyidina umar melihat orang tua yang buta di depan rumahnya sedang mengemis minta-minta kemudian mengetuk pintu dengan pelan-pelan. Beliau bertanya: siapa kamu? Orang tua buta itu menjawab saya orang yahudi yang fakir sudah tua renta, dan saya harus membayar upeti. Kemudian umar membawanya ke rumah dan memberinya segala kebutuhannya untuk dapat memenuhi keperluannya sehari-hari seperti orang lain yang hidup dan membayar upeti kepada baitul mal karena hidup di Negara islam.<br />
+                                            <h2 class="ez-toc-section" id="really-good-so-to-share-with-anyway-i-must-go-now-byeartinya%e2%80%8b">
+                            22. really? good so to share with anyway I must go now byeartinya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>betulkah? bagus kamu mau berbagi dengan saya,tapi saya harus pergi sekarang.</p><p><strong>Penjelasan:</strong></p><p></p><br />
+                                            <h2 class="ez-toc-section" id="arti-dari-each-pair-of-us-share-one-table">
+                            23. arti dari each pair of us share one table</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>setiap pasangan dari kita berbagi satu meja.</p><p><strong>Jawaban:</strong></p><p>setiap pasangan dari kita berbagi satu meja </p><p>itu jawabannya</p><p><strong>Penjelasan:</strong></p><p>semoga membantu</p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-dari-so-i-have-a-friend-to-share-with-anyway">
+                            24. apa arti dari SO I HAVE A FRIEND TO SHARE WITH ANYWAY</h2><br />
+                        jadi saya mempunyai teman untuk berbagi dengan siapa sajaaku punya temann mengirim warna putih<br />
+                                            <h2 class="ez-toc-section" id="arti-share-itu-apadi-jawab-y">
+                            25. ARTI SHARE ITU APA?
+DI JAWAB Y</h2><br />
+                        share adalah cara untuk berbagi data :)Share adalah persentase orang atau pesawat televisi yang memilih untuk 
+menonton program tertentu pada jam atau waktu tersebut.  Misalnya begini
+ jam 1 siang ada program berita A dengan share 20, program gosip B share
+ 30 dan program sport share 50.  Artinya program berita A mendapat 20 
+persen penonton pada jam 1 siang, Program Gosip B mendapat bagian 30 
+persen penonton dan Program Sport C mendapat 50 persen penonton pada jam
+ 1 siang.<br />Share juga dapat diartikan dengan mengumpulkan data<br /><br />
+                                            <h2 class="ez-toc-section" id="jika-proses-share-folder-sukses-maka-pada-folder-yang-di-share-akan-terdapat-gambar">
+                            26. jika proses share folder sukses maka pada folder yang di share akan terdapat gambar</h2><br />
+                        jika folder yang kita shering telah benar dan berhasil makan pada folder tersebut akan muncul gambar tangan<br />
+                                            <h2 class="ez-toc-section" id="arti-dari-ok-guys-i-went-to-share-you-about-my-daily-activities">
+                            27. arti dari *ok guys i went to share you about my daily activities*</h2><br />
+                        artinya :<br /><br />ok teman-teman, aku mau/akan membagikan kepada mu tentang kegiatan harian ku<br />
+                                            <h2 class="ez-toc-section" id="tit-was-very-happy-and-dont-forget-to-share-the-candies-with-coan-artinya%e2%80%8b">
+                            28. tit was very happy and don't forget to share the candies with coan artinya​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>tit sangat senang dan jangan lupa untuk berbagi permen dengan coan</p><p><strong>Penjelasan:</strong></p><p>maaf klo salah dan semoga bermanfaat :)</p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-let-me-share-the-happy-news-that-lve-recuvied">
+                            29. apa arti let me share the happy news that l've recuvied</h2><br />
+                        biarkan aku memberitahu berita baik yang telah aku dapat<br />
+                                            <h2 class="ez-toc-section" id="apa-arti-becouse-they-want-to-share-information%e2%80%8b">
+                            30. apa arti becouse they want to share information​</h2><br />
+                        <p></p><p>Artinya Adalah :</p><p></p><p>"Karena Mereka Ingin Berbagi Informasi"</p><p><strong>Jawaban:</strong></p><p>karena mereka ingin berbagi informasi</p><p># maaf kalau salah:-)</p><p></p><br />
+                                            <h2 class="ez-toc-section" id="to-share-the-information-with-othersand-to-give-an-explanationartikan-yaa-tolong">
+                            31. -to share the information with others,and-to give an explanationartikan yaa tolong :)</h2><br />
+                        Yg pertama: untuk membagi informasi kepada orang lain,  dan<br /><br />Yg kedua: untuk memberi sebuah penjelasan. <br /><br />Semoga membantu,  maaf kalau salah :) -Untuk berbagi informasi kepada orang lain,  dan<br />-Untuk memberi penjelasan. <br />
+                                            <h2 class="ez-toc-section" id="artikan-i-have-two-doughnuts-which-i-would-like-to-share-with-you-tolong-artikan-yg-jelas-dan-mudah-dimengerti">
+                            32. Artikan :
+i have two doughnuts which i would like to share with you.
+Tolong artikan yg jelas dan mudah dimengerti</h2><br />
+                        Saya punya dua donat yang saya ingin berbagi dengan anda.aku memiliki dua donat yang ingin aku bagi denganmu..<br />
+                                            <h2 class="ez-toc-section" id="share-her-sister-happines-with-her-friends-artinya">
+                            33. share her sister happines with her friends artinya </h2><br />
+                        berbagi sodara perempuan nya bahagia dengan teman temannya<br />
+                                            <h2 class="ez-toc-section" id="arti-dari-share-photos-for-once%e2%80%8b">
+                            34. arti dari share photos for once​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Membagi Foto Untuk Sekali</p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-kata-yang-pling-mendekati-dari-kata-share">
+                            35. Apa arti  kata yang pling mendekati dari kata  share</h2><br />
+                        <p>Give</p><p>..........................</p>Give : verb 1 <br /><br />Past tense<br />Menggunakan verb 2 <br />Gave<br />
+                                            <h2 class="ez-toc-section" id="arti-may-i-share-my-pronlem">
+                            36. Arti may I share my pronlem</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>bolehkah saya menceritakan masalah saya</p><br />
+                                            <h2 class="ez-toc-section" id="apa-perbedaan-antara-share-hosting-pada-linuk-debian-dan-share-hosting-pada-windows%e2%80%8b">
+                            37. Apa perbedaan antara Share Hosting pada Linuk Debian dan share hosting pada Windows?​</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>share hosting pada linux biasanya berbasis php</p><p>share hosting pada windows biasaya berbasis asp</p><br />
+                                            <h2 class="ez-toc-section" id="ibu-membeli-sayur-sayuran-di-pasar-arti-kata-ulang-share-sayuran-adalah">
+                            38. ibu membeli sayur-sayuran di pasar arti kata ulang share sayuran adalah</h2><br />
+                        arti kata ulang sayur-sayuran adalah menandakan bahwa sayurannya banyak / lebih dari satu dan tidak hanya terdiri dari 1 jenis sayuran melainkan berbagai macam jenis sayuranbanyak jenis ato beragam sayuran<br />
+                                            <h2 class="ez-toc-section" id="ayoo-cug-bantu-share-share-ilmu-gitu%e2%80%8b">
+                            39. ayoo CUG bantu share share ilmu gitu​</h2><br />
+                        <p><strong>Penjelasan dengan langkah-langkah:</strong></p><p>28√2220 = 1.319,272527</p><br />
+                                            <h2 class="ez-toc-section" id="apa-arti-share-the-sweet">
+                            40. Apa arti share the sweet</h2><br />
+                        <p><strong>Jawaban:</strong></p><p>Berbagi manis</p><p><strong>Penjelasan:</strong></p><p>Share : Berbagi</p><p>Sweet : Manis</p><br />
+                    
+                </div>
+                <div class="youtubeVideo" style="text-align: center">
+                    <h3>Video Terkait</h3>
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/wxA1XEIerf0?controls=0" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"allowfullscreen></iframe>
+                </div>
+                <footer class="entry-meta" aria-label="Meta postingan">
+                    <span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512"
+                                aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em">
+                                <path
+                                    d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
+                                </path>
+                            </svg></span><span class="screen-reader-text">Kategori </span>b_inggris</span>
+            </div>
+        </article>
+    </main>
+            </div>
+            <div class="widget-area sidebar is-right-sidebar" id="right-sidebar">
+                <div class="inside-right-sidebar">
+                    <aside id="categories-2" class="widget inner-padding widget_categories">
+                        <h2 class="widget-title">Topik</h2>
+                        <ul>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/u-u†/">Ù Ù†</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/teks-prosedur-di-koran/">Teks Prosedur Di Koran</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/mengapa-malaikat-selalu-taat-allah-swt/">Mengapa Malaikat Selalu Taat Allah Swt</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apakah-yang-dimaksud-produk-kerajinan-limbah-digunakan-sebagai-produk-pakai/">Apakah Yang Dimaksud Produk Kerajinan Limbah Digunakan Sebagai Produk Pakai</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/logam-logam-berat-yang-biasa-terdapat-dalam-limbah-industri-kecuali/">Logam Logam Berat Yang Biasa Terdapat Dalam Limbah Industri Kecuali</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ke-arah/">Ke Arah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/berbicara-dengan-sopan-apa-maksudnya/">Berbicara Dengan Sopan Apa Maksudnya</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bentuk-negara-singapura-adalah/">Bentuk Negara Singapura Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/bentuk-bentuk-interaksi-sosial-brainly/">Bentuk Bentuk Interaksi Sosial Brainly</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/suku-ke-15-dari-barisan-3-5-7-9-adalah/">Suku Ke 15 Dari Barisan 3 5 7 9 Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/apakah-yang-dimaksud-dengan-passing/">Apakah Yang Dimaksud Dengan Passing</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/negara-dari-r/">Negara Dari R</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/10-pertanyaan-wawancara-pedagang/">10 Pertanyaan Wawancara Pedagang</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/langkah-akhir-yang-harus-diperhatikan-dalam-menyusun-program-pameran-adalah/">Langkah Akhir Yang Harus Diperhatikan Dalam Menyusun Program Pameran Adalah</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ukuran-1-ruas-jari/">Ukuran 1 Ruas Jari</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/contoh-deskripsi-umum/">Contoh Deskripsi Umum</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/jawaban-lks-bahasa-inggris-kelas-8-semester-2-kurikulum-2013/">Jawaban Lks Bahasa Inggris Kelas 8 Semester 2 Kurikulum 2013</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/karakteristik-kucing/">Karakteristik Kucing</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/rumus-luas/">Rumus Luas</a>
+                                </li>
+                                                            <li class="cat-item cat-item-23"><a
+                                        href="https://publikbelajar.github.io/ml-ke-liter/">Ml Ke Liter</a>
+                                </li>
+                                                    </ul>
+
+                    </aside>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="site-footer">
+        <footer class="site-info" aria-label="Situs" itemtype="https://schema.org/WPFooter" itemscope>
+            <div class="inside-site-info grid-container">
+                <div class="copyright-bar">
+                    <span class="copyright">&copy; 2023 <a href="https://publikbelajar.github.io"
+                            itemprop="url">BELAJAR</a></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <a title="Gulirkan kembali ke puncak laman" aria-label="Gulirkan kembali ke puncak laman" rel="nofollow"
+        href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+        <span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd"
+                clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+                <path
+                    d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z"
+                    fill-rule="nonzero" />
+            </svg></span>
+    </a>
+    <script id="generate-a11y">
+        ! function() {
+            "use strict";
+            if ("querySelector" in document && "addEventListener" in window) {
+                var e = document.body;
+                e.addEventListener("mousedown", function() {
+                    e.classList.add("using-mouse")
+                }), e.addEventListener("keydown", function() {
+                    e.classList.remove("using-mouse")
+                })
+            }
+        }();
+    </script>
+    <!--[if lte IE 11]>
+<script src='https://publikbelajar.github.io/js/classList.min.js' ?ver=3.2.4' id='generate-classlist-js'></script>
+<![endif]-->
+    <script id='generate-menu-js-extra'>
+        var generatepressMenu = {
+            "toggleOpenedSubMenus": "1",
+            "openSubMenuLabel": "Buka Submenu",
+            "closeSubMenuLabel": "Tutup submenu"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/menu.min.js' ?ver=3.2.4' id='generate-menu-js'></script>
+    <script id='generate-navigation-search-js-extra'>
+        var generatepressNavSearch = {
+            "open": "Buka Kolom Pencarian",
+            "close": "Tutup Kolom Pencarian"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/navigation-search.min.js' ?ver=3.2.4' id='generate-navigation-search-js'></script>
+    <script id='generate-back-to-top-js-extra'>
+        var generatepressBackToTop = {
+            "smooth": "1"
+        };
+    </script>
+    <script src='https://publikbelajar.github.io/js/back-to-top.min.js' ?ver=3.2.4' id='generate-back-to-top-js'></script>
+    <script type='text/javascript' src='//jd3j7g5z1fqs.com/96/78/7a/96787a1945876b1a9c10f79941441964.js'></script>
+<script type='text/javascript' src='//jd3j7g5z1fqs.com/b4/f1/ef/b4f1ef8dfe59b7fa68754094cf6c8e0e.js'></script>
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739059,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739059&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</body>
+
+</html>
